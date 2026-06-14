@@ -1,0 +1,360 @@
+{
+  "id": "travel-emergencies",
+  "category": "travel",
+  "title": "Sự cố khi du lịch",
+  "titleEn": "Travel Emergencies",
+  "level": "B1",
+  "functions": ["handling-problems", "requesting", "complaining", "asking-info"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Báo cáo một sự cố khi đi du lịch (mất hành lý, mất ví, ốm) một cách rõ ràng",
+    "Yêu cầu giúp đỡ khẩn cấp một cách lịch sự nhưng dứt khoát",
+    "Mô tả tình huống và đồ vật bị mất để người khác dễ hỗ trợ",
+    "Dùng câu dài tự nhiên với 'although', 'such as', 'in order to' khi xử lý sự cố",
+    "Giữ bình tĩnh và phối hợp với nhân viên (cảnh sát, lễ tân, hãng bay) để giải quyết"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "emergency",
+      "ipa": "/ɪˈmɜː.dʒən.si/",
+      "vi": "trường hợp khẩn cấp (danh từ)",
+      "register": "neutral",
+      "example": "Call this number only in case of an emergency.",
+      "exampleVi": "Chỉ gọi số này trong trường hợp khẩn cấp.",
+      "note": "Danh từ. Cụm hay dùng: 'in case of an emergency' (phòng khi khẩn cấp), 'It's an emergency!' (Đây là trường hợp khẩn cấp!).",
+      "synonyms": [
+        { "term": "crisis", "ipa": "/ˈkraɪ.sɪs/", "register": "formal", "nuanceVi": "Nặng hơn 'emergency', chỉ một tình huống nghiêm trọng kéo dài (khủng hoảng). Số nhiều bất quy tắc: 'crises'." },
+        { "term": "urgent situation", "ipa": "/ˈɜː.dʒənt ˌsɪtʃ.uˈeɪ.ʃən/", "register": "neutral", "nuanceVi": "Cụm trung tính, nhấn vào tính 'cần xử lý ngay'. Dễ dùng khi chưa muốn nói nặng như 'emergency'." }
+      ]
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "My luggage didn't arrive on the same flight.",
+      "exampleVi": "Hành lý của tôi không về cùng chuyến bay.",
+      "note": "Danh từ KHÔNG đếm được: không có 's' và không nói 'a luggage'. Muốn đếm thì 'a piece of luggage'.",
+      "synonyms": [
+        { "term": "baggage", "ipa": "/ˈbæɡ.ɪdʒ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, cũng không đếm được. 'Baggage' hay xuất hiện ở sân bay (baggage claim = khu lấy hành lý)." },
+        { "term": "belongings", "ipa": "/bɪˈlɒŋ.ɪŋz/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn: 'đồ đạc cá nhân' nói chung (ví, điện thoại, giấy tờ), không chỉ riêng vali. Luôn dùng số nhiều." }
+      ]
+    },
+    {
+      "term": "to lose",
+      "ipa": "/tə luːz/",
+      "vi": "làm mất, đánh mất (động từ)",
+      "register": "neutral",
+      "example": "I think I lost my wallet on the train.",
+      "exampleVi": "Tôi nghĩ mình đánh mất ví trên tàu.",
+      "note": "Động từ bất quy tắc: lose – lost – lost. Đừng nhầm 'lose' (/luːz/, làm mất) với 'loose' (/luːs/, lỏng lẻo).",
+      "synonyms": [
+        { "term": "to misplace", "ipa": "/ˌmɪsˈpleɪs/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'lose', nghĩa 'để quên đâu đó, tạm thời không tìm thấy' chứ chưa hẳn mất hẳn." },
+        { "term": "to mislay", "ipa": "/ˌmɪsˈleɪ/", "register": "formal", "nuanceVi": "Trang trọng/Anh-Anh, cũng nghĩa 'để quên chỗ nào'. Ít gặp trong nói chuyện đời thường hơn 'misplace'." }
+      ]
+    },
+    {
+      "term": "to steal",
+      "ipa": "/tə stiːl/",
+      "vi": "trộm, ăn cắp (động từ)",
+      "register": "neutral",
+      "example": "Someone stole my phone at the station.",
+      "exampleVi": "Có người đã trộm điện thoại của tôi ở nhà ga.",
+      "note": "Động từ bất quy tắc: steal – stole – stolen. Cấu trúc bị động hay dùng: 'My phone was stolen.' Danh từ chỉ tên trộm: 'thief'.",
+      "synonyms": [
+        { "term": "to rob", "ipa": "/tə rɒb/", "register": "neutral", "nuanceVi": "Khác cách dùng: 'rob' nhắm vào NGƯỜI/NƠI (rob a person/bank), còn 'steal' nhắm vào ĐỒ VẬT bị lấy. 'I was robbed' = tôi bị cướp." },
+        { "term": "to pickpocket", "ipa": "/tə ˈpɪkˌpɒk.ɪt/", "register": "casual", "nuanceVi": "Cụ thể hơn: 'móc túi' nơi đông người. Danh từ 'pickpocket' = kẻ móc túi." }
+      ]
+    },
+    {
+      "term": "to report",
+      "ipa": "/tə rɪˈpɔːt/",
+      "vi": "trình báo, báo cáo (động từ)",
+      "register": "neutral",
+      "example": "I'd like to report a stolen passport.",
+      "exampleVi": "Tôi muốn trình báo về việc mất hộ chiếu.",
+      "note": "Động từ. Đi với danh từ: 'report a theft / an accident / a missing bag'. Danh từ cũng là 'a report' (bản báo cáo).",
+      "synonyms": [
+        { "term": "to notify", "ipa": "/ˈnəʊ.tɪ.faɪ/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'thông báo chính thức cho ai đó'. Đi với người: 'notify the police'." },
+        { "term": "to inform", "ipa": "/ɪnˈfɔːm/", "register": "neutral", "nuanceVi": "Nhấn 'cho ai biết thông tin'. Cấu trúc: 'inform somebody of/about something'." }
+      ]
+    },
+    {
+      "term": "missing",
+      "ipa": "/ˈmɪs.ɪŋ/",
+      "vi": "bị thất lạc, biến mất (tính từ)",
+      "register": "neutral",
+      "example": "One of my bags is missing.",
+      "exampleVi": "Một trong các túi của tôi bị thất lạc.",
+      "note": "Tính từ. Nhấn ý 'đáng lẽ phải có mà không thấy'. Cụm: 'go missing' (bị mất tích/thất lạc).",
+      "synonyms": [
+        { "term": "lost", "ipa": "/lɒst/", "register": "neutral", "nuanceVi": "Cũng nghĩa 'bị mất', nhưng 'lost' thiên về 'đã mất hẳn', còn 'missing' nhấn 'chưa tìm thấy, có thể còn'." }
+      ]
+    },
+    {
+      "term": "injured",
+      "ipa": "/ˈɪn.dʒəd/",
+      "vi": "bị thương (tính từ)",
+      "register": "neutral",
+      "example": "Luckily, no one was seriously injured in the accident.",
+      "exampleVi": "May là không ai bị thương nặng trong vụ tai nạn.",
+      "note": "Tính từ, thường dùng cho người bị thương do tai nạn. Danh từ: 'injury'. Động từ: 'to injure'.",
+      "synonyms": [
+        { "term": "hurt", "ipa": "/hɜːt/", "register": "casual", "nuanceVi": "Đời thường, dùng cho cả đau nhẹ lẫn nặng: 'Are you hurt?'. Nhẹ và phổ biến hơn 'injured'." },
+        { "term": "wounded", "ipa": "/ˈwuːn.dɪd/", "register": "formal", "nuanceVi": "Nặng, thường chỉ vết thương do vũ khí/chiến đấu (đạn, dao). Không dùng cho đau ốm thông thường." }
+      ]
+    },
+    {
+      "term": "to cancel",
+      "ipa": "/tə ˈkæn.səl/",
+      "vi": "hủy (chuyến bay, đặt chỗ) (động từ)",
+      "register": "neutral",
+      "example": "I need to cancel my credit card immediately.",
+      "exampleVi": "Tôi cần khóa (hủy) thẻ tín dụng ngay lập tức.",
+      "note": "Động từ. Anh-Mỹ viết 'canceled' (1 chữ l), Anh-Anh viết 'cancelled' (2 chữ l). Danh từ: 'cancellation'.",
+      "synonyms": [
+        { "term": "to call off", "ipa": "/tə ˌkɔːl ˈɒf/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'hủy bỏ (kế hoạch, sự kiện)'. Vd 'They called off the trip.'" }
+      ]
+    },
+    {
+      "term": "urgently",
+      "ipa": "/ˈɜː.dʒənt.li/",
+      "vi": "một cách gấp gáp, khẩn cấp (trạng từ)",
+      "register": "neutral",
+      "example": "I need to speak to a doctor urgently.",
+      "exampleVi": "Tôi cần gặp bác sĩ gấp.",
+      "note": "Trạng từ. Đặt cuối câu hoặc trước động từ để nhấn 'cần ngay'. Tính từ là 'urgent'.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, không trì hoãn'. Gần nghĩa nhưng thiên về thời điểm hơn là mức độ cấp thiết." },
+        { "term": "right away", "ipa": "/ˌraɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngay bây giờ'. Tự nhiên trong văn nói: 'Can you come right away?'" }
+      ]
+    },
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔː.tʃən.ət.li/",
+      "vi": "may mắn thay (trạng từ)",
+      "register": "neutral",
+      "example": "Fortunately, I had a copy of my passport on my phone.",
+      "exampleVi": "May là tôi có bản chụp hộ chiếu trong điện thoại.",
+      "note": "Trạng từ, đặt đầu câu để dẫn vào một điều may mắn. Trái nghĩa: 'unfortunately' (không may là).",
+      "synonyms": [
+        { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "register": "casual", "nuanceVi": "Đời thường hơn, cùng nghĩa 'may là'. Dùng trong nói chuyện thân mật rất tự nhiên." },
+        { "term": "thankfully", "ipa": "/ˈθæŋk.fəl.i/", "register": "neutral", "nuanceVi": "Thêm sắc thái 'nhẹ cả người, biết ơn vì điều đó'. Cảm xúc hơn 'fortunately' một chút." }
+      ]
+    },
+    {
+      "term": "valuables",
+      "ipa": "/ˈvæl.jə.bəlz/",
+      "vi": "đồ giá trị (tiền, trang sức, đồ điện tử) (danh từ)",
+      "register": "neutral",
+      "example": "Always keep your valuables in the hotel safe.",
+      "exampleVi": "Luôn cất đồ giá trị trong két sắt khách sạn.",
+      "note": "Danh từ, luôn dùng số nhiều. Khác với tính từ 'valuable' (có giá trị).",
+      "synonyms": [
+        { "term": "possessions", "ipa": "/pəˈzeʃ.ənz/", "register": "neutral", "nuanceVi": "Rộng hơn: 'tài sản, đồ sở hữu' nói chung, không nhất thiết đắt tiền. Số nhiều." }
+      ]
+    },
+    {
+      "term": "embassy",
+      "ipa": "/ˈem.bə.si/",
+      "vi": "đại sứ quán (danh từ)",
+      "register": "neutral",
+      "example": "If you lose your passport abroad, contact your embassy.",
+      "exampleVi": "Nếu mất hộ chiếu ở nước ngoài, hãy liên hệ đại sứ quán.",
+      "note": "Danh từ. Nơi hỗ trợ công dân nước mình ở nước ngoài (cấp lại hộ chiếu khẩn). 'Consulate' (lãnh sự quán) là cơ quan nhỏ hơn cùng chức năng."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Excuse me, I need some help. [Mô tả sự cố].",
+      "use": "Mở lời nhờ giúp đỡ khi gặp sự cố, lịch sự nhưng đi thẳng vào vấn đề.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, I need some help. My bag has gone missing.",
+        "Excuse me, I need some help. I think my wallet was stolen."
+      ],
+      "explanationVi": "'Excuse me' để bắt chuyện lịch sự với người lạ; 'I need some help' báo ngay rằng đây là việc cần hỗ trợ. Sau đó mới mô tả sự cố để người ta nắm tình hình.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "Could you help me, please? [Mô tả sự cố].",
+      "use": "Nhờ giúp đỡ một cách lịch sự, mềm mỏng hơn.",
+      "register": "neutral",
+      "examples": [
+        "Could you help me, please? I can't find my luggage anywhere.",
+        "Could you help me, please? I've lost my passport."
+      ],
+      "explanationVi": "'Could you...?' nhã nhặn hơn 'Can you...?', hợp khi nói với nhân viên/người lạ. Thêm 'please' cho mềm. Cùng chức năng nhờ giúp với mẫu 'Excuse me, I need some help'.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "I'd like to report [danh từ sự cố].",
+      "use": "Trình báo chính thức một sự cố với cảnh sát hoặc nhân viên.",
+      "register": "formal",
+      "examples": [
+        "I'd like to report a stolen passport.",
+        "I'd like to report a missing suitcase, please."
+      ],
+      "explanationVi": "'I'd like to report...' là câu chuẩn mực để trình báo. Dùng khi cần lập biên bản (vd để đòi bảo hiểm). Nghe trang trọng và đúng quy trình.",
+      "altOf": "reporting-incident"
+    },
+    {
+      "pattern": "My [đồ vật] has been stolen / has gone missing.",
+      "use": "Báo rằng đồ của bạn bị mất, dùng thể bị động hoặc cụm 'go missing'.",
+      "register": "neutral",
+      "examples": [
+        "My phone has been stolen.",
+        "My checked bag has gone missing somewhere between flights."
+      ],
+      "explanationVi": "Bị động 'has been stolen' dùng khi không biết ai lấy. 'Has gone missing' dùng khi đồ thất lạc, chưa chắc bị trộm. Chọn đúng sắc thái để mô tả chính xác.",
+      "altOf": "reporting-incident"
+    },
+    {
+      "pattern": "It happened [thời gian/nơi chốn], while I was [V-ing].",
+      "use": "Cung cấp chi tiết thời gian, địa điểm và bối cảnh khi sự cố xảy ra.",
+      "register": "neutral",
+      "examples": [
+        "It happened about an hour ago, while I was waiting at the bus stop.",
+        "It happened in the market, while I was paying for some souvenirs."
+      ],
+      "explanationVi": "'while I was + V-ing' (quá khứ tiếp diễn) mô tả hành động đang diễn ra thì sự cố xảy ra. Cung cấp thời gian/nơi chốn giúp nhân viên xử lý nhanh hơn."
+    },
+    {
+      "pattern": "Is there any way you could [V] in order to [mục đích]?",
+      "use": "Đề nghị một hành động cụ thể, nêu rõ mục đích.",
+      "register": "formal",
+      "examples": [
+        "Is there any way you could track my bag in order to send it to my hotel?",
+        "Is there any way you could call a doctor in order to check on my friend?"
+      ],
+      "explanationVi": "'Is there any way you could...?' là cách đề nghị rất lịch sự, hơi khẩn khoản. 'in order to' nêu mục đích (= để mà), nghe trang trọng hơn 'to' đơn thuần."
+    },
+    {
+      "pattern": "What should I do if [mệnh đề]?",
+      "use": "Xin lời khuyên về cách xử lý tiếp theo.",
+      "register": "neutral",
+      "examples": [
+        "What should I do if my bag doesn't turn up by tomorrow?",
+        "What should I do if I can't reach the embassy today?"
+      ],
+      "explanationVi": "Câu điều kiện loại 1 hỏi xin hướng dẫn: 'What should I do if + hiện tại đơn?'. Rất hữu ích để biết bước tiếp theo khi đang bối rối."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin vừa nói hoặc thêm chi tiết quan trọng.", "example": "Actually, I think I left it on the taxi, not the train." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một lời thú nhận chân thành, vd thừa nhận mình bất cẩn.", "example": "To be honest, I'm not completely sure where I lost it." },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Nhấn mức độ khẩn khi nhờ ai đó hành động nhanh.", "example": "Please cancel my card as soon as possible." },
+    { "term": "calm down", "ipa": "/kɑːm daʊn/", "vi": "bình tĩnh lại", "when": "Tự trấn an hoặc đề nghị người khác bình tĩnh trong lúc hoảng.", "example": "I tried to calm down and explain the situation clearly." },
+    { "term": "by any chance", "ipa": "/baɪ ˈen.i tʃɑːns/", "vi": "không biết có... không (hỏi dò lịch sự)", "when": "Hỏi dò xem điều gì có khả năng đúng không, nghe nhã nhặn.", "example": "Has anyone, by any chance, handed in a black wallet?" },
+    { "term": "in the meantime", "ipa": "/ɪn ðə ˈmiːn.taɪm/", "vi": "trong lúc chờ (làm gì đó)", "when": "Nói về việc nên làm trong khi chờ vấn đề được giải quyết.", "example": "In the meantime, could I have a contact number to call?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa hạ cánh ở một sân bay nước ngoài nhưng vali ký gửi không xuất hiện trên băng chuyền. Bạn tới quầy hỗ trợ hành lý (Lost & Found) để trình báo và nhờ giúp đỡ.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon. You look a little worried — how can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn juː lʊk ə ˈlɪt.əl ˈwʌr.id haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều. Trông anh/chị có vẻ hơi lo lắng — tôi có thể giúp gì hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. Could you help me, please? I've just arrived on flight ____, but although I waited at the carousel for almost an hour, my checked bag has gone ____.",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn kʊd juː help miː pliːz aɪv dʒʌst əˈraɪvd ɒn flaɪt bʌt ɔːlˈðəʊ aɪ ˈweɪ.tɪd ət ðə ˌkær.əˈsel fɔːr ˈɔːl.məʊst ən ˈaʊə maɪ tʃekt bæɡ hæz ɡɒn/",
+        "vi": "Chào buổi chiều. Anh/chị giúp tôi được không ạ? Tôi vừa xuống chuyến bay ____, nhưng dù đã đợi ở băng chuyền gần một tiếng, vali ký gửi của tôi đã bị ____.",
+        "blanks": [
+          { "type": "personal", "hint": "Số hiệu chuyến bay của bạn. Ví dụ: 'VN310' hoặc 'BA255'." },
+          { "type": "knowledge", "answer": "missing", "explanationVi": "Dùng 'missing' với cụm 'go missing' (has gone missing = đã bị thất lạc). Hợp khi chưa chắc bị trộm, chỉ là không thấy đâu. Xem mẫu 'My... has gone missing'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm sorry to hear that. Don't worry — this happens quite often, and we usually manage to locate bags within a day. Could you describe your suitcase for me, such as its colour and size?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt dəʊnt ˈwʌr.i ðɪs ˈhæp.ənz kwaɪt ˈɒf.ən ænd wiː ˈjuː.ʒu.ə.li ˈmæn.ɪdʒ tə ləʊˈkeɪt bæɡz wɪˈðɪn ə deɪ kʊd juː dɪˈskraɪb jɔː ˈsuːt.keɪs fɔː miː sʌtʃ æz ɪts ˈkʌl.ər ænd saɪz/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Đừng lo — chuyện này khá thường xuyên, và chúng tôi thường tìm thấy vali trong vòng một ngày. Anh/chị mô tả vali giúp tôi được không, chẳng hạn màu sắc và kích cỡ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. It's a medium-sized ____ suitcase with four wheels and a red ribbon on the handle, which should make it easy to recognise. To be honest, it also has a name tag with my phone number on it.",
+        "ipa": "/ɒv kɔːs ɪts ə ˈmiː.di.əm saɪzd ˈsuːt.keɪs wɪð fɔː wiːlz ænd ə red ˈrɪb.ən ɒn ðə ˈhæn.dəl wɪtʃ ʃʊd meɪk ɪt ˈiː.zi tə ˈrek.əɡ.naɪz tə biː ˈɒn.ɪst ɪt ˈɔːl.səʊ hæz ə ˈneɪm tæɡ wɪð maɪ ˈfəʊn ˈnʌm.bər ɒn ɪt/",
+        "vi": "Tất nhiên. Đó là một vali cỡ trung màu ____ có bốn bánh và một dải ruy băng đỏ ở tay cầm, nên sẽ dễ nhận ra. Thành thật mà nói, nó còn có thẻ tên ghi số điện thoại của tôi.",
+        "blanks": [
+          { "type": "personal", "hint": "Màu vali của bạn. Ví dụ: 'black', 'dark blue', 'silver'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "That's very helpful. I'll file a report right now in order to start tracking it. Where are you staying, so that we can deliver the bag once it ____ up?",
+        "ipa": "/ðæts ˈver.i ˈhel.pfəl aɪl faɪl ə rɪˈpɔːt raɪt naʊ ɪn ˈɔː.də tə stɑːt ˈtræk.ɪŋ ɪt weər ɑː juː ˈsteɪ.ɪŋ səʊ ðæt wiː kæn dɪˈlɪv.ə ðə bæɡ wʌns ɪt ʌp/",
+        "vi": "Rất hữu ích. Tôi sẽ lập biên bản ngay bây giờ để bắt đầu truy tìm. Anh/chị đang ở đâu, để chúng tôi giao vali tận nơi khi nó ____ lại?",
+        "blanks": [
+          { "type": "knowledge", "answer": "turns", "explanationVi": "Cụm động từ 'turn up' = xuất hiện trở lại (sau khi thất lạc). Vì chủ ngữ 'it' số ít ở hiện tại đơn nên thêm 's': 'turns up'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm staying at the ____ Hotel downtown. Is there any way you could call me as soon as ____ find it, because I have important medication inside the bag?",
+        "ipa": "/aɪm ˈsteɪ.ɪŋ ət ðə həʊˈtel ˌdaʊnˈtaʊn ɪz ðeər ˈen.i weɪ juː kʊd kɔːl miː əz suːn əz faɪnd ɪt bɪˈkɒz aɪ hæv ɪmˈpɔː.tənt ˌmed.ɪˈkeɪ.ʃən ɪnˈsaɪd ðə bæɡ/",
+        "vi": "Tôi ở khách sạn ____ khu trung tâm. Anh/chị có cách nào gọi cho tôi ngay khi ____ tìm thấy nó không, vì trong vali có thuốc quan trọng của tôi?",
+        "blanks": [
+          { "type": "personal", "hint": "Tên khách sạn bạn đang ở. Ví dụ: 'Sunrise', 'Grand Plaza'." },
+          { "type": "knowledge", "answer": "you", "explanationVi": "Sau 'as soon as' cần một mệnh đề có chủ ngữ. Ở đây nhân viên là người tìm thấy, nên chủ ngữ là 'you' (you find it). 'as soon as' = ngay khi." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely, I'll mark your case as urgent. In the meantime, here is a small kit with basic essentials, and you can also claim compensation for emergency items such as toiletries.",
+        "ipa": "/ˈæb.sə.luːt.li aɪl mɑːk jɔː keɪs æz ˈɜː.dʒənt ɪn ðə ˈmiːn.taɪm hɪər ɪz ə smɔːl kɪt wɪð ˈbeɪ.sɪk ɪˈsen.ʃəlz ænd juː kæn ˈɔːl.səʊ kleɪm ˌkɒm.penˈseɪ.ʃən fɔːr ɪˈmɜː.dʒən.si ˈaɪ.təmz sʌtʃ æz ˈtɔɪ.lə.triz/",
+        "vi": "Chắc chắn rồi, tôi sẽ đánh dấu trường hợp của anh/chị là khẩn. Trong lúc chờ, đây là một bộ kit nhỏ với vật dụng cơ bản, và anh/chị cũng có thể yêu cầu bồi thường cho các đồ khẩn cấp như đồ vệ sinh cá nhân."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. Not only have you been very patient, but you've also made me feel much calmer. ____ should I do if the bag doesn't turn up by tomorrow evening?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ nɒt ˈəʊn.li hæv juː biːn ˈver.i ˈpeɪ.ʃənt bʌt juːv ˈɔːl.səʊ meɪd miː fiːl mʌtʃ ˈkɑːm.ə wɒt ʃʊd aɪ duː ɪf ðə bæɡ ˈdʌz.ənt tɜːn ʌp baɪ təˈmɒr.əʊ ˈiːv.nɪŋ/",
+        "vi": "Cảm ơn anh/chị rất nhiều. Anh/chị không những rất kiên nhẫn, mà còn khiến tôi thấy bình tĩnh hơn nhiều. Tôi ____ làm gì nếu vali không xuất hiện trước tối mai?",
+        "blanks": [
+          { "type": "knowledge", "answer": "What", "explanationVi": "Câu hỏi xin lời khuyên: 'What should I do if...?' (Tôi nên làm gì nếu...?). Dùng từ để hỏi 'What' + 'should'. Xem mẫu câu 'What should I do if...'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "If it hasn't arrived by then, simply call the number on this form, and we'll either reroute it to your hotel or arrange a full refund. However, in most cases the bag shows up well before that.",
+        "ipa": "/ɪf ɪt ˈhæz.ənt əˈraɪvd baɪ ðen ˈsɪm.pli kɔːl ðə ˈnʌm.bər ɒn ðɪs fɔːm ænd wiːl ˈaɪ.ðə ˌriːˈruːt ɪt tə jɔː həʊˈtel ɔːr əˈreɪndʒ ə fʊl ˈriː.fʌnd haʊˈev.ər ɪn məʊst ˈkeɪ.sɪz ðə bæɡ ʃəʊz ʌp wel bɪˈfɔː ðæt/",
+        "vi": "Nếu đến lúc đó vali vẫn chưa về, anh/chị chỉ cần gọi số ghi trên phiếu này, và chúng tôi sẽ hoặc chuyển nó tới khách sạn hoặc sắp xếp hoàn tiền đầy đủ. Tuy nhiên, đa số trường hợp vali xuất hiện trước thời điểm đó khá lâu."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước, số điện thoại khẩn cấp khác nhau: 911 (Mỹ/Canada), 112 (châu Âu và nhiều nước), 999 (Anh). Nên tra cứu số khẩn cấp của nước bạn đến trước chuyến đi.",
+    "Khi mất hộ chiếu ở nước ngoài, việc đầu tiên là báo cảnh sát để lấy biên bản, sau đó liên hệ đại sứ quán/lãnh sự quán của nước mình để xin cấp lại giấy thông hành khẩn.",
+    "Giữ bản chụp (ảnh hoặc bản sao) hộ chiếu, vé, số thẻ và số bảo hiểm du lịch ở nơi tách biệt (email, điện thoại) sẽ giúp xử lý sự cố nhanh hơn rất nhiều.",
+    "Nhân viên phương Tây đánh giá cao thái độ bình tĩnh, lịch sự dù bạn đang lo lắng — la hét hay đòi hỏi gay gắt thường khiến việc được giúp đỡ chậm hơn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'luggages' hoặc 'a luggage' — 'luggage' là danh từ không đếm được, không thêm 's', không dùng 'a'. Muốn đếm thì 'a piece of luggage'.",
+    "Lẫn lộn 'lose' (/luːz/, làm mất) với 'loose' (/luːs/, lỏng) — sai cả nghĩa lẫn phát âm.",
+    "Dùng 'steal' và 'rob' sai chỗ: 'steal' đi với ĐỒ VẬT (steal my phone), 'rob' đi với NGƯỜI/NƠI (I was robbed).",
+    "Trình báo cộc lốc kiểu 'My bag lost.' Hãy nói đầy đủ: 'My bag has gone missing.' hoặc 'I've lost my bag.'"
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện xử lý sự cố du lịch như thật.",
+    "prompt": "Hãy đóng vai một nhân viên hỗ trợ (lễ tân khách sạn, cảnh sát du lịch, hoặc nhân viên sân bay) nói tiếng Anh. Tôi là một du khách vừa gặp sự cố mà tôi sẽ nêu (ví dụ mất hành lý, bị móc túi, mất hộ chiếu, hoặc bị ốm). Hãy bắt đầu bằng cách hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và đặt thêm câu hỏi để làm rõ tình huống (đồ vật bị mất trông thế nào, xảy ra ở đâu, khi nào), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ cần biên bản cảnh sát, hệ thống tra cứu bị lỗi) để tôi tập xử lý. Khuyến khích tôi dùng câu dài với 'although', 'such as', 'in order to'. Cuối buổi hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một nhân viên hơi thiếu kiên nhẫn để tôi tập giữ bình tĩnh và vẫn lịch sự.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đặt thêm câu hỏi chi tiết về bảo hiểm và bồi thường.' để mở rộng vốn từ."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi trình báo được một sự cố (mất đồ, bị trộm) rõ ràng mà không cần nhìn gợi ý.",
+    "Tôi mô tả được đồ vật bị mất (màu, cỡ, đặc điểm) bằng một câu dài có mệnh đề quan hệ 'which'.",
+    "Tôi dùng được 'although', 'such as' và 'in order to' khi nói về tình huống khẩn cấp."
+  ]
+}

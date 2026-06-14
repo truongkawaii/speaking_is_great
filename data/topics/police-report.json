@@ -1,0 +1,379 @@
+{
+  "id": "police-report",
+  "category": "services",
+  "title": "Trình báo công an",
+  "titleEn": "Filing a Police Report",
+  "level": "B2",
+  "functions": ["describing", "asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trình báo một sự việc (mất cắp, móc túi, mất đồ) bằng câu dài, mạch lạc",
+    "Mô tả chi tiết thủ phạm, đồ vật và diễn biến sự việc một cách rõ ràng",
+    "Hỏi và yêu cầu các thủ tục cần thiết (biên bản, số hồ sơ, giấy xác nhận cho bảo hiểm)",
+    "Dùng ngữ pháp nâng cao (while, which, in order to, not only… but also) khi tường thuật",
+    "Giữ bình tĩnh và trả lời lịch sự khi bị hỏi dồn các câu chi tiết"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "theft",
+      "ipa": "/θeft/",
+      "vi": "hành vi trộm cắp (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to report a theft that happened this morning.",
+      "exampleVi": "Tôi muốn trình báo một vụ trộm xảy ra sáng nay.",
+      "note": "Danh từ chỉ HÀNH VI lấy trộm nói chung. Phân biệt: 'robbery' có dùng vũ lực/đe dọa; 'burglary' là đột nhập nhà.",
+      "synonyms": [
+        { "term": "robbery", "ipa": "/ˈrɒb.ər.i/", "register": "neutral", "nuanceVi": "Nhấn 'cướp có dùng vũ lực hoặc đe dọa trực tiếp nạn nhân'. Nặng hơn theft." },
+        { "term": "burglary", "ipa": "/ˈbɜː.ɡlər.i/", "register": "formal", "nuanceVi": "Chỉ riêng việc 'đột nhập vào nhà/tòa nhà để trộm'. Mang tính pháp lý, hay xuất hiện trong biên bản." },
+        { "term": "stealing", "ipa": "/ˈstiː.lɪŋ/", "register": "casual", "nuanceVi": "Đời thường hơn, dạng V-ing của 'steal'. Nói chuyện bình thường thì dùng, kém trang trọng hơn theft." }
+      ]
+    },
+    {
+      "term": "victim",
+      "ipa": "/ˈvɪk.tɪm/",
+      "vi": "nạn nhân (danh từ)",
+      "register": "neutral",
+      "example": "As the victim, I had to give a full statement to the officer.",
+      "exampleVi": "Là nạn nhân, tôi phải khai báo đầy đủ với cán bộ.",
+      "note": "Danh từ. Trong trình báo, bạn thường chính là 'the victim'. Đi với 'a victim of + tội danh'.",
+      "synonyms": [
+        { "term": "casualty", "ipa": "/ˈkæʒ.ju.əl.ti/", "register": "formal", "nuanceVi": "Trang trọng, thường chỉ nạn nhân bị thương vong trong tai nạn/thảm họa, không hợp với vụ mất cắp." }
+      ]
+    },
+    {
+      "term": "to report",
+      "ipa": "/rɪˈpɔːt/",
+      "vi": "trình báo, tường trình (động từ)",
+      "register": "neutral",
+      "example": "I want to report that my wallet has been stolen.",
+      "exampleVi": "Tôi muốn trình báo rằng ví của tôi đã bị lấy cắp.",
+      "note": "Động từ cốt lõi của bài: 'to report a crime / a theft / a missing person'. Danh từ là 'a report' (biên bản).",
+      "synonyms": [
+        { "term": "to file a report", "ipa": "/faɪl ə rɪˈpɔːt/", "register": "formal", "nuanceVi": "Cụm trang trọng nhấn vào 'lập biên bản chính thức bằng văn bản', đúng ngữ cảnh đồn công an." },
+        { "term": "to notify", "ipa": "/ˈnəʊ.tɪ.faɪ/", "register": "formal", "nuanceVi": "Nhấn 'thông báo chính thức cho ai đó'. Đi với 'notify the police'. Trang trọng, hơi hành chính." }
+      ]
+    },
+    {
+      "term": "to steal",
+      "ipa": "/stiːl/",
+      "vi": "ăn cắp, lấy trộm (động từ)",
+      "register": "neutral",
+      "example": "Someone stole my phone while I was on the bus.",
+      "exampleVi": "Có ai đó đã lấy trộm điện thoại của tôi khi tôi đang trên xe buýt.",
+      "note": "Bất quy tắc: steal - stole - stolen. Bị động rất hay dùng: 'My phone was stolen.'",
+      "synonyms": [
+        { "term": "to rob", "ipa": "/rɒb/", "register": "neutral", "nuanceVi": "Tân ngữ là NGƯỜI hoặc NƠI bị cướp, không phải món đồ: 'They robbed me', không nói 'rob my phone'." },
+        { "term": "to snatch", "ipa": "/snætʃ/", "register": "neutral", "nuanceVi": "Nhấn 'giật nhanh khỏi tay rồi bỏ chạy', vd giật túi xách, điện thoại. Sinh động, đúng cảnh móc túi/giật đồ." },
+        { "term": "to pickpocket", "ipa": "/ˈpɪkˌpɒk.ɪt/", "register": "neutral", "nuanceVi": "Cụ thể: 'móc túi' lén lút nơi đông người. 'I got pickpocketed on the metro.'" }
+      ]
+    },
+    {
+      "term": "suspect",
+      "ipa": "/ˈsʌs.pekt/",
+      "vi": "kẻ tình nghi (danh từ)",
+      "register": "formal",
+      "example": "The suspect was a tall man wearing a black jacket.",
+      "exampleVi": "Kẻ tình nghi là một người đàn ông cao mặc áo khoác đen.",
+      "note": "Danh từ nhấn trọng âm 'SUS-pect'; động từ 'to suspect' nhấn 'sus-PECT'. Trong biên bản hay dùng từ này.",
+      "synonyms": [
+        { "term": "perpetrator", "ipa": "/ˈpɜː.pə.treɪ.tər/", "register": "formal", "nuanceVi": "Rất trang trọng/pháp lý, nghĩa 'thủ phạm đã thực hiện hành vi'. Cảnh sát viết tắt là 'perp'." },
+        { "term": "thief", "ipa": "/θiːf/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'kẻ trộm' cụ thể. Số nhiều bất quy tắc: 'thieves'." }
+      ]
+    },
+    {
+      "term": "to witness",
+      "ipa": "/ˈwɪt.nəs/",
+      "vi": "chứng kiến (động từ); nhân chứng (danh từ)",
+      "register": "neutral",
+      "example": "Did anyone witness the incident?",
+      "exampleVi": "Có ai chứng kiến sự việc không?",
+      "note": "Vừa là động từ ('chứng kiến') vừa là danh từ ('nhân chứng'). 'an eyewitness' = người tận mắt thấy.",
+      "synonyms": [
+        { "term": "to observe", "ipa": "/əbˈzɜːv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'quan sát thấy một cách chú ý'. Hơi sách vở so với witness." },
+        { "term": "to see", "ipa": "/siː/", "register": "casual", "nuanceVi": "Đời thường nhất, trung tính. 'Did you see what happened?' nghe tự nhiên trong hội thoại." }
+      ]
+    },
+    {
+      "term": "belongings",
+      "ipa": "/bɪˈlɒŋ.ɪŋz/",
+      "vi": "đồ đạc cá nhân, tư trang (danh từ)",
+      "register": "neutral",
+      "example": "All my belongings were in that bag.",
+      "exampleVi": "Toàn bộ tư trang của tôi đều ở trong cái túi đó.",
+      "note": "Luôn dùng số nhiều. Chỉ các vật dụng cá nhân bạn mang theo (ví, điện thoại, giấy tờ).",
+      "synonyms": [
+        { "term": "possessions", "ipa": "/pəˈzeʃ.ənz/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn, gồm cả tài sản giá trị/lâu dài, không chỉ đồ mang theo người." },
+        { "term": "valuables", "ipa": "/ˈvæl.ju.ə.bəlz/", "register": "neutral", "nuanceVi": "Chỉ riêng 'đồ có giá trị' (trang sức, đồ điện tử). Hẹp hơn belongings." }
+      ]
+    },
+    {
+      "term": "to describe",
+      "ipa": "/dɪˈskraɪb/",
+      "vi": "mô tả (động từ)",
+      "register": "neutral",
+      "example": "Could you describe the man who took your bag?",
+      "exampleVi": "Anh/chị có thể mô tả người đàn ông đã lấy túi không?",
+      "note": "Động từ. Đi thẳng với tân ngữ, KHÔNG có 'about': nói 'describe the suspect', không 'describe about'.",
+      "synonyms": [
+        { "term": "to depict", "ipa": "/dɪˈpɪkt/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ, thường dùng cho hình ảnh, tranh, văn bản hơn là tả người trong đời thường." }
+      ]
+    },
+    {
+      "term": "missing",
+      "ipa": "/ˈmɪs.ɪŋ/",
+      "vi": "bị mất, thất lạc (tính từ)",
+      "register": "neutral",
+      "example": "I realized my passport was missing when I got home.",
+      "exampleVi": "Tôi nhận ra hộ chiếu bị mất khi về đến nhà.",
+      "note": "Tính từ, dùng khi chưa rõ bị lấy cắp hay chỉ thất lạc. 'a missing person' = người mất tích.",
+      "synonyms": [
+        { "term": "lost", "ipa": "/lɒst/", "register": "neutral", "nuanceVi": "Nhấn 'do mình làm thất lạc', không ngụ ý có người lấy. 'missing' trung lập hơn về nguyên nhân." },
+        { "term": "gone", "ipa": "/ɡɒn/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'biến mất rồi, không còn đó'. Vd 'My wallet's gone!'" }
+      ]
+    },
+    {
+      "term": "approximately",
+      "ipa": "/əˈprɒk.sɪ.mət.li/",
+      "vi": "khoảng chừng (trạng từ)",
+      "register": "formal",
+      "example": "The theft happened at approximately 9 a.m.",
+      "exampleVi": "Vụ trộm xảy ra vào khoảng 9 giờ sáng.",
+      "note": "Trạng từ trang trọng, rất hợp khi khai báo thời gian/giá trị không chắc chắn tuyệt đối.",
+      "synonyms": [
+        { "term": "roughly", "ipa": "/ˈrʌf.li/", "register": "neutral", "nuanceVi": "Trung tính, đời thường hơn approximately. 'roughly 9 a.m.' nghe tự nhiên trong hội thoại." },
+        { "term": "around", "ipa": "/əˈraʊnd/", "register": "casual", "nuanceVi": "Thân mật nhất: 'around 9'. Dễ dùng nhưng kém trang trọng trong biên bản." }
+      ]
+    },
+    {
+      "term": "immediately",
+      "ipa": "/ɪˈmiː.di.ət.li/",
+      "vi": "ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "I immediately called the police after noticing the theft.",
+      "exampleVi": "Tôi gọi cảnh sát ngay sau khi phát hiện vụ trộm.",
+      "note": "Trạng từ chỉ phản ứng tức thì. Hữu ích khi thuật lại bạn đã hành động kịp thời ra sao.",
+      "synonyms": [
+        { "term": "instantly", "ipa": "/ˈɪn.stənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'tức khắc, không có chút trì hoãn nào'. Mạnh hơn immediately một chút." },
+        { "term": "straight away", "ipa": "/streɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường (Anh-Anh hay dùng), nghĩa 'ngay tức thì'. Hợp hội thoại thân mật." }
+      ]
+    },
+    {
+      "term": "valuable",
+      "ipa": "/ˈvæl.ju.ə.bəl/",
+      "vi": "có giá trị, quý giá (tính từ)",
+      "register": "neutral",
+      "example": "The bag contained several valuable items, such as my laptop.",
+      "exampleVi": "Cái túi chứa vài món có giá trị, chẳng hạn như laptop của tôi.",
+      "note": "Tính từ. Số nhiều danh từ 'valuables' = đồ quý giá. Đừng nhầm với 'invaluable' (vô giá - thực ra rất giá trị).",
+      "synonyms": [
+        { "term": "precious", "ipa": "/ˈpreʃ.əs/", "register": "neutral", "nuanceVi": "Nhấn 'quý về mặt tình cảm hoặc hiếm' (đá quý, kỷ vật), không chỉ giá tiền." },
+        { "term": "expensive", "ipa": "/ɪkˈspen.sɪv/", "register": "neutral", "nuanceVi": "Chỉ thuần 'đắt tiền'. Hẹp hơn valuable, vốn còn bao hàm giá trị tình cảm/quan trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to report [danh từ chỉ sự việc] that happened [thời gian/nơi chốn].",
+      "use": "Câu mở đầu chuẩn để nêu lý do đến trình báo.",
+      "register": "formal",
+      "examples": [
+        "I'd like to report a theft that happened earlier this afternoon.",
+        "I'd like to report a stolen phone that disappeared on the metro."
+      ],
+      "explanationVi": "'I'd like to report' lịch sự, đi thẳng vào vấn đề. Mệnh đề quan hệ 'that happened…' gói thêm thời gian/nơi chốn vào một câu mượt thay vì nói cụt ngủn.",
+      "altOf": "stating-incident"
+    },
+    {
+      "pattern": "I'm here to report that [mệnh đề bị động: something has been stolen].",
+      "use": "Cách nói thay thế để báo sự việc, nhấn vào kết quả đã xảy ra.",
+      "register": "formal",
+      "examples": [
+        "I'm here to report that my passport has been stolen.",
+        "I'm here to report that my car was broken into last night."
+      ],
+      "explanationVi": "Dùng thể bị động ('has been stolen') vì ta thường không biết ai là thủ phạm. Đây là cách diễn đạt rất tự nhiên khi trình báo mất đồ.",
+      "altOf": "stating-incident"
+    },
+    {
+      "pattern": "It happened while I was [V-ing], at approximately [giờ].",
+      "use": "Thuật lại thời điểm và hoàn cảnh sự việc xảy ra.",
+      "register": "neutral",
+      "examples": [
+        "It happened while I was waiting for the bus, at approximately 8 a.m.",
+        "It happened while I was paying at the counter, at approximately noon."
+      ],
+      "explanationVi": "'while + quá khứ tiếp diễn' diễn tả một hành động đang diễn ra thì bị cắt ngang bởi sự việc — đúng kiểu kể chuyện bị móc túi giữa chừng."
+    },
+    {
+      "pattern": "The suspect was [mô tả ngoại hình], who was [V-ing/wearing…].",
+      "use": "Mô tả thủ phạm bằng câu dài có mệnh đề quan hệ.",
+      "register": "neutral",
+      "examples": [
+        "The suspect was a young man in his twenties, who was wearing a grey hoodie.",
+        "The suspect was a woman with short hair, who was carrying a black backpack."
+      ],
+      "explanationVi": "Mệnh đề quan hệ 'who was…' nối thêm chi tiết về thủ phạm (người) vào cùng một câu, nghe trôi chảy và đầy đủ hơn."
+    },
+    {
+      "pattern": "Could you tell me [câu hỏi gián tiếp] / what I need to do [in order to V]?",
+      "use": "Hỏi cán bộ về thủ tục tiếp theo một cách lịch sự.",
+      "register": "formal",
+      "examples": [
+        "Could you tell me how long the investigation usually takes?",
+        "Could you tell me what I need to do in order to get a copy for my insurance?"
+      ],
+      "explanationVi": "Câu hỏi gián tiếp ('Could you tell me + mệnh đề thường, không đảo trợ động từ') lịch sự hơn hỏi thẳng. 'in order to' nêu mục đích rõ ràng.",
+      "altOf": "asking-procedure"
+    },
+    {
+      "pattern": "Would it be possible to get [danh từ: a copy / a reference number]?",
+      "use": "Yêu cầu giấy tờ/số hồ sơ một cách nhã nhặn.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get a copy of the report for my insurance company?",
+        "Would it be possible to get a reference number for this case?"
+      ],
+      "explanationVi": "Đề nghị lịch sự bậc cao khi xin một thứ mà người ta có thể từ chối. Rất hợp khi cần biên bản nộp cho bảo hiểm.",
+      "altOf": "asking-procedure"
+    },
+    {
+      "pattern": "Not only did they take [đồ A], but they also took [đồ B].",
+      "use": "Nhấn mạnh kẻ gian lấy đi nhiều thứ.",
+      "register": "formal",
+      "examples": [
+        "Not only did they take my wallet, but they also took my phone and my passport."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu phải đảo trợ động từ lên trước chủ ngữ ('did they take'). Cấu trúc nâng cao, nhấn mạnh mức độ nghiêm trọng — nhưng phải đảo đúng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại hoặc bổ sung một chi tiết mình vừa nhớ ra.", "example": "Actually, now that I think about it, the bag was blue, not black." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một chi tiết tích cực giữa lúc trình báo căng thẳng.", "example": "Fortunately, I had a photo of the receipt on my phone." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là, không may là", "when": "Báo một chi tiết bất lợi (không thấy mặt, không có nhân chứng).", "example": "Unfortunately, I didn't get a good look at his face." },
+    { "term": "as far as I can remember", "ipa": "/əz fɑːr əz aɪ kæn rɪˈmem.bər/", "vi": "theo như tôi nhớ thì", "when": "Khi khai báo chi tiết mà không hoàn toàn chắc chắn.", "example": "As far as I can remember, it was around 9 in the morning." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời chân thành, thừa nhận điều mình không rõ.", "example": "Honestly, everything happened so fast that I barely noticed." },
+    { "term": "all of a sudden", "ipa": "/ɔːl əv ə ˈsʌd.ən/", "vi": "đột nhiên, bất thình lình", "when": "Tả khoảnh khắc sự việc xảy ra bất ngờ.", "example": "All of a sudden, someone bumped into me and grabbed my bag." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa bị móc túi nơi công cộng và đến đồn công an để trình báo. Một cán bộ tiếp nhận, hỏi chi tiết về sự việc, đồ bị mất và thủ phạm, rồi hướng dẫn thủ tục tiếp theo.",
+    "lines": [
+      {
+        "speaker": "Cán bộ",
+        "text": "Good afternoon. Please have a seat. How can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn pliːz hæv ə siːt haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều. Mời anh/chị ngồi. Hôm nay tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. I'd like to report a ____ that happened about an hour ago. While I was walking through the market, someone snatched my bag, which contained my wallet, my phone and my passport.",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn aɪd laɪk tə rɪˈpɔːt ə ... ðæt ˈhæp.ənd əˈbaʊt ən ˈaʊ.ər əˈɡəʊ waɪl aɪ wɒz ˈwɔː.kɪŋ θruː ðə ˈmɑː.kɪt ˈsʌm.wʌn snætʃt maɪ bæɡ wɪtʃ kənˈteɪnd maɪ ˈwɒl.ɪt maɪ fəʊn ænd maɪ ˈpɑːs.pɔːt/",
+        "vi": "Chào buổi chiều. Tôi muốn trình báo một vụ ____ xảy ra khoảng một tiếng trước. Khi tôi đang đi qua khu chợ, có người giật túi của tôi, trong túi có ví, điện thoại và hộ chiếu.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "theft",
+            "explanationVi": "Dùng danh từ 'theft' (vụ trộm cắp) sau 'report a'. Đây là từ trung tính, đúng ngữ cảnh. Xem mẫu câu 'I'd like to report a [sự việc] that happened…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Cán bộ",
+        "text": "I'm sorry to hear that. Let me take down the details. Could you tell me exactly when and where it happened?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt let miː teɪk daʊn ðə ˈdiː.teɪlz kʊd juː tel miː ɪɡˈzækt.li wen ænd weər ɪt ˈhæp.ənd/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Để tôi ghi lại chi tiết. Anh/chị cho biết chính xác sự việc xảy ra khi nào và ở đâu được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It happened at ____, near the main entrance of the market. As far as I can remember, it was at approximately ____, because I had just checked the time on my phone right before it was stolen.",
+        "ipa": "/ɪt ˈhæp.ənd æt ... nɪə ðə meɪn ˈen.trəns əv ðə ˈmɑː.kɪt əz fɑːr əz aɪ kæn rɪˈmem.bər ɪt wɒz ət əˈprɒk.sɪ.mət.li ... bɪˈkɒz aɪ hæd dʒʌst tʃekt ðə taɪm ɒn maɪ fəʊn raɪt bɪˈfɔːr ɪt wɒz ˈstəʊ.lən/",
+        "vi": "Sự việc xảy ra ở ____, gần lối vào chính của chợ. Theo như tôi nhớ, vào khoảng ____, vì tôi vừa mới xem giờ trên điện thoại ngay trước khi nó bị lấy.",
+        "blanks": [
+          { "type": "personal", "hint": "Địa điểm cụ thể. Ví dụ: 'Ben Thanh Market' hoặc 'the central square'." },
+          { "type": "personal", "hint": "Thời gian sự việc xảy ra. Ví dụ: 'three in the afternoon'." }
+        ]
+      },
+      {
+        "speaker": "Cán bộ",
+        "text": "Thank you. Now, did you happen to see the person who took your bag? Any detail about their appearance would be very helpful.",
+        "ipa": "/θæŋk juː naʊ dɪd juː ˈhæp.ən tə siː ðə ˈpɜː.sən huː tʊk jɔː bæɡ ˈen.i ˈdiː.teɪl əˈbaʊt ðeər əˈpɪə.rəns wʊd biː ˈver.i ˈhelp.fəl/",
+        "vi": "Cảm ơn. Bây giờ, anh/chị có tình cờ thấy người đã lấy túi không? Bất kỳ chi tiết nào về ngoại hình của họ cũng sẽ rất hữu ích."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I only caught a quick glimpse. The suspect was a young man in his twenties, ____ was wearing a grey hoodie and a black cap. Unfortunately, although I tried to chase him, he disappeared into the crowd almost immediately.",
+        "ipa": "/aɪ ˈəʊn.li kɔːt ə kwɪk ɡlɪmps ðə ˈsʌs.pekt wɒz ə jʌŋ mæn ɪn hɪz ˈtwen.tiz ... wɒz ˈweə.rɪŋ ə ɡreɪ ˈhʊd.i ænd ə blæk kæp ʌnˈfɔː.tʃən.ət.li ˈɔːl.ðəʊ aɪ traɪd tə tʃeɪs hɪm hiː ˌdɪs.əˈpɪəd ˈɪn.tə ðə kraʊd ˈɔːl.məʊst ɪˈmiː.di.ət.li/",
+        "vi": "Tôi chỉ kịp nhìn thoáng qua. Kẻ tình nghi là một thanh niên khoảng hơn hai mươi tuổi, ____ mặc áo hoodie xám và đội mũ lưỡi trai đen. Tiếc là, dù tôi đã cố đuổi theo, anh ta gần như ngay lập tức biến mất vào đám đông.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "who",
+            "explanationVi": "Dùng đại từ quan hệ 'who' vì danh từ đứng trước là NGƯỜI ('a young man'). Nếu là vật thì dùng 'which'. Xem mẫu câu 'The suspect was…, who was wearing…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Cán bộ",
+        "text": "That's still useful. I'll file the report and start the process. Is there anything else that was taken, or just those three items?",
+        "ipa": "/ðæts stɪl ˈjuːs.fəl aɪl faɪl ðə rɪˈpɔːt ænd stɑːt ðə ˈprəʊ.ses ɪz ðeər ˈen.i.θɪŋ els ðæt wɒz ˈteɪ.kən ɔː dʒʌst ðəʊz θriː ˈaɪ.təmz/",
+        "vi": "Vậy vẫn hữu ích. Tôi sẽ lập biên bản và bắt đầu quy trình. Còn món gì khác bị lấy không, hay chỉ ba thứ đó thôi ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Not only did they take those items, ____ they also took my car keys. By the way, would it be possible to get a ____ of the report? My insurance company will need it in order to process my claim.",
+        "ipa": "/nɒt ˈəʊn.li dɪd ðeɪ teɪk ðəʊz ˈaɪ.təmz ... ðeɪ ˈɔːl.səʊ tʊk maɪ kɑː kiːz baɪ ðə weɪ wʊd ɪt biː ˈpɒs.ə.bəl tə ɡet ə ... əv ðə rɪˈpɔːt maɪ ɪnˈʃʊə.rəns ˈkʌm.pə.ni wɪl niːd ɪt ɪn ˈɔː.də tə ˈprəʊ.ses maɪ kleɪm/",
+        "vi": "Họ không chỉ lấy những món đó, ____ còn lấy cả chìa khóa xe của tôi. Tiện thể, tôi có thể xin một ____ của biên bản không? Công ty bảo hiểm của tôi sẽ cần nó để xử lý yêu cầu bồi thường.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "but",
+            "explanationVi": "Cấu trúc 'Not only…, but also…': vế thứ hai bắt buộc có 'but'. Đầy đủ là 'not only X but also Y'. Xem mẫu câu đảo ngữ 'Not only did they take…, but they also took…'."
+          },
+          {
+            "type": "knowledge",
+            "answer": "copy",
+            "explanationVi": "Dùng danh từ 'copy' (bản sao): 'a copy of the report'. Đây là giấy tờ bạn cần nộp cho bảo hiểm. Xem mẫu câu 'Would it be possible to get a copy…?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Cán bộ",
+        "text": "Of course. I'll give you a reference number, which you can use to follow up. Please sign here, and we'll contact you immediately if there's any update.",
+        "ipa": "/əv kɔːs aɪl ɡɪv juː ə ˈref.rəns ˈnʌm.bər wɪtʃ juː kæn juːz tə ˈfɒl.əʊ ʌp pliːz saɪn hɪər ænd wiːl ˈkɒn.tækt juː ɪˈmiː.di.ət.li ɪf ðeəz ˈen.i ˈʌp.deɪt/",
+        "vi": "Tất nhiên. Tôi sẽ cấp cho anh/chị một số hồ sơ tham chiếu, anh/chị có thể dùng nó để theo dõi tiến độ. Vui lòng ký vào đây, và chúng tôi sẽ liên hệ ngay nếu có cập nhật."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước, trình báo mất cắp tại đồn cảnh sát sẽ được cấp một 'reference number' (số hồ sơ) hoặc 'police report' — đây là giấy tờ bắt buộc để yêu cầu bảo hiểm bồi thường.",
+    "Nếu mất hộ chiếu khi ở nước ngoài, sau khi trình báo cảnh sát bạn cần mang biên bản đến đại sứ quán/lãnh sự quán của nước mình để xin cấp lại giấy tờ.",
+    "Cảnh sát thường hỏi rất nhiều chi tiết (giờ giấc, ngoại hình, số sê-ri đồ vật). Trả lời bình tĩnh, trung thực; nếu không nhớ rõ thì nói 'as far as I can remember' thay vì bịa.",
+    "Khai báo gian dối hoặc trình báo giả ('filing a false report') là hành vi phạm pháp ở hầu hết các nước, nên chỉ nêu những gì bạn thật sự biết."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai 'steal' và 'rob': món ĐỒ bị 'stolen', còn NGƯỜI/NƠI mới bị 'robbed'. Nói 'My phone was stolen', không nói 'My phone was robbed'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID they take…', không phải 'Not only they took…'.",
+    "Thêm 'about' thừa sau 'describe': đúng là 'describe the suspect', sai là 'describe about the suspect'.",
+    "Trả lời quá cộc lốc ('Yes. No. My bag.'). Hãy mở rộng bằng mệnh đề 'while…', 'which…' để khai báo rõ ràng và tự nhiên hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống trình báo công an như thật.",
+    "prompt": "Hãy đóng vai một cán bộ công an/cảnh sát nói tiếng Anh đang tiếp nhận trình báo. Tôi là nạn nhân vừa bị mất cắp đồ. Hãy bắt đầu bằng cách chào và hỏi tôi có việc gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một cán bộ thật và hỏi tiếp các chi tiết (thời gian, địa điểm, đồ bị mất, mô tả thủ phạm), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, đặc biệt nhắc tôi phân biệt 'steal' và 'rob', (3) khuyến khích tôi dùng câu dài với 'while', mệnh đề quan hệ 'who/which', 'in order to' và 'not only… but also'. Thỉnh thoảng đặt một tình huống bất ngờ (ví dụ hỏi số sê-ri món đồ, hỏi có nhân chứng không) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy hỏi tôi mô tả chi tiết thủ phạm đến từng đặc điểm (chiều cao, quần áo, giọng nói) để tôi luyện vốn từ mô tả.'",
+      "Thêm: 'Hãy đóng vai tình huống mất hộ chiếu ở nước ngoài, rồi hướng dẫn tôi các bước tiếp theo bằng tiếng Anh.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự trình báo được sự việc bằng một câu dài có 'while' và mệnh đề quan hệ, không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'steal/stolen' cho đồ vật và 'rob/robbed' cho người, không bị lẫn.",
+    "Tôi hỏi được thủ tục tiếp theo và xin được bản sao biên bản/số hồ sơ một cách lịch sự."
+  ]
+}

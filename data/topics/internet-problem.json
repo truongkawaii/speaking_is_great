@@ -1,0 +1,343 @@
+{
+  "id": "internet-problem",
+  "category": "services",
+  "title": "Sự cố internet",
+  "titleEn": "Internet Problems",
+  "level": "B1",
+  "functions": ["complaining", "handling-problems", "requesting", "asking-info"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả sự cố internet (mất mạng, mạng chậm, hay rớt) bằng câu rõ ràng",
+    "Gọi tổng đài và làm theo các bước xử lý cơ bản (khởi động lại modem, kiểm tra đèn tín hiệu)",
+    "Phàn nàn lịch sự và yêu cầu được hỗ trợ hoặc cử kỹ thuật viên tới",
+    "Dùng ngữ pháp B1 (such as, because, so, although, mệnh đề quan hệ which) khi trình bày vấn đề"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "connection",
+      "ipa": "/kəˈnek.ʃən/",
+      "vi": "kết nối mạng (danh từ)",
+      "register": "neutral",
+      "example": "My internet connection keeps dropping every few minutes.",
+      "exampleVi": "Kết nối internet của tôi cứ rớt vài phút một lần.",
+      "note": "Danh từ. Cụm hay dùng: 'internet connection', 'a stable connection' (kết nối ổn định).",
+      "synonyms": [
+        { "term": "signal", "ipa": "/ˈsɪɡ.nəl/", "register": "neutral", "nuanceVi": "Nhấn vào 'sóng/tín hiệu' (đặc biệt wifi, di động). 'The signal is weak' = sóng yếu. Hẹp hơn 'connection'." },
+        { "term": "network", "ipa": "/ˈnet.wɜːk/", "register": "neutral", "nuanceVi": "Chỉ cả hệ thống mạng. 'The whole network is down' = cả hệ thống mạng sập, rộng hơn một kết nối lẻ." }
+      ]
+    },
+    {
+      "term": "to drop",
+      "ipa": "/drɒp/",
+      "vi": "rớt / mất kết nối đột ngột (động từ)",
+      "register": "neutral",
+      "example": "The connection drops whenever I join a video call.",
+      "exampleVi": "Cứ vào cuộc gọi video là kết nối lại rớt.",
+      "note": "Động từ. Nói về mạng tự ngắt giữa chừng. Cũng dùng dạng 'keep dropping' (cứ rớt liên tục).",
+      "synonyms": [
+        { "term": "to disconnect", "ipa": "/ˌdɪs.kəˈnekt/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'ngắt kết nối' chung. Có thể do người chủ động ngắt, không chỉ tự rớt như 'drop'." },
+        { "term": "to cut out", "ipa": "/kʌt aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'bị ngắt/đứt quãng' (mạng, âm thanh). 'The call cut out' = cuộc gọi bị đứt." }
+      ]
+    },
+    {
+      "term": "to reboot",
+      "ipa": "/ˌriːˈbuːt/",
+      "vi": "khởi động lại (thiết bị) (động từ)",
+      "register": "neutral",
+      "example": "Could you try to reboot your router, please?",
+      "exampleVi": "Anh/chị thử khởi động lại bộ phát wifi giúp tôi nhé?",
+      "note": "Động từ, dùng cho thiết bị điện tử. Tổng đài rất hay yêu cầu bạn 'reboot the router'.",
+      "synonyms": [
+        { "term": "to restart", "ipa": "/ˌriːˈstɑːt/", "register": "neutral", "nuanceVi": "Phổ biến nhất, đời thường hơn 'reboot'. Dùng cho mọi thứ (máy, app, thiết bị). An toàn để dùng." },
+        { "term": "to reset", "ipa": "/ˌriːˈset/", "register": "neutral", "nuanceVi": "Nhấn 'đưa về cài đặt gốc/ban đầu', mạnh hơn restart. Cẩn thận: 'reset the router' có thể xóa cấu hình." }
+      ]
+    },
+    {
+      "term": "router",
+      "ipa": "/ˈruː.tər/",
+      "vi": "bộ định tuyến / cục phát wifi (danh từ)",
+      "register": "neutral",
+      "example": "The lights on the router are flashing red.",
+      "exampleVi": "Đèn trên cục phát wifi đang nhấp nháy màu đỏ.",
+      "note": "Danh từ. Nhiều người Việt nói chung là 'modem'; trong gia đình thường gọi là 'cục wifi'.",
+      "synonyms": [
+        { "term": "modem", "ipa": "/ˈməʊ.dem/", "register": "neutral", "nuanceVi": "Thiết bị nối mạng từ nhà cung cấp vào nhà. Về kỹ thuật khác router, nhưng đời thường nhiều người dùng lẫn nhau." }
+      ]
+    },
+    {
+      "term": "outage",
+      "ipa": "/ˈaʊ.tɪdʒ/",
+      "vi": "sự cố mất dịch vụ (mất mạng/mất điện) (danh từ)",
+      "register": "neutral",
+      "example": "There is a network outage in your area at the moment.",
+      "exampleVi": "Hiện đang có sự cố mất mạng ở khu vực của bạn.",
+      "note": "Danh từ. Chỉ việc dịch vụ bị gián đoạn trên diện rộng, không phải do nhà bạn. 'power outage' = mất điện.",
+      "synonyms": [
+        { "term": "blackout", "ipa": "/ˈblæk.aʊt/", "register": "neutral", "nuanceVi": "Thường chỉ mất điện hoàn toàn; nghĩa mất mạng ít phổ biến hơn 'outage'." }
+      ]
+    },
+    {
+      "term": "to troubleshoot",
+      "ipa": "/ˈtrʌb.əl.ʃuːt/",
+      "vi": "dò tìm và khắc phục sự cố (động từ)",
+      "register": "neutral",
+      "example": "Let me help you troubleshoot the problem step by step.",
+      "exampleVi": "Để tôi giúp bạn dò và khắc phục sự cố từng bước nhé.",
+      "note": "Động từ. Là quá trình lần lượt thử các cách để tìm nguyên nhân. Tổng đài hay dùng từ này.",
+      "synonyms": [
+        { "term": "to fix", "ipa": "/fɪks/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sửa cho xong'. Nhấn vào kết quả, còn 'troubleshoot' nhấn vào quá trình dò tìm." },
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'giải quyết dứt điểm'. Hay gặp trong dịch vụ khách hàng: 'resolve the issue'." }
+      ]
+    },
+    {
+      "term": "intermittent",
+      "ipa": "/ˌɪn.təˈmɪt.ənt/",
+      "vi": "chập chờn, lúc có lúc không (tính từ)",
+      "register": "formal",
+      "example": "The signal has been intermittent since this morning.",
+      "exampleVi": "Sóng cứ chập chờn từ sáng đến giờ.",
+      "note": "Tính từ, hơi trang trọng. Mô tả sự cố không liên tục, khó nhất để xử lý vì khi gọi thì lại bình thường.",
+      "synonyms": [
+        { "term": "unstable", "ipa": "/ʌnˈsteɪ.bəl/", "register": "neutral", "nuanceVi": "Phổ biến, dễ dùng, nghĩa 'không ổn định'. Trung tính, ai cũng hiểu." },
+        { "term": "patchy", "ipa": "/ˈpætʃ.i/", "register": "casual", "nuanceVi": "Đời thường (Anh-Anh), nghĩa 'chỗ được chỗ không'. 'The wifi is patchy upstairs.'" }
+      ]
+    },
+    {
+      "term": "slow",
+      "ipa": "/sləʊ/",
+      "vi": "chậm (tính từ)",
+      "register": "neutral",
+      "example": "The internet has been really slow all day.",
+      "exampleVi": "Internet chậm rì cả ngày nay.",
+      "note": "Tính từ cơ bản. Nói về tốc độ mạng. Trái nghĩa: fast.",
+      "synonyms": [
+        { "term": "sluggish", "ipa": "/ˈslʌɡ.ɪʃ/", "register": "neutral", "nuanceVi": "Nhấn 'ì ạch, ì ạch khó chịu'. Sinh động hơn 'slow', hợp khi than phiền." },
+        { "term": "laggy", "ipa": "/ˈlæɡ.i/", "register": "casual", "nuanceVi": "Đời thường, dân chơi game/họp online hay dùng: nghĩa 'bị giật, trễ'. Rất tự nhiên trong nói chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "technician",
+      "ipa": "/tekˈnɪʃ.ən/",
+      "vi": "kỹ thuật viên (danh từ)",
+      "register": "neutral",
+      "example": "We can send a technician to your home tomorrow morning.",
+      "exampleVi": "Chúng tôi có thể cử kỹ thuật viên đến nhà bạn vào sáng mai.",
+      "note": "Danh từ. Người đến tận nơi sửa. Nói thông thường có thể gọi là 'engineer' (Anh-Anh) hoặc 'someone from the company'.",
+      "synonyms": [
+        { "term": "engineer", "ipa": "/ˌen.dʒɪˈnɪər/", "register": "neutral", "nuanceVi": "Anh-Anh hay dùng 'engineer' cho người tới sửa mạng/điện. Anh-Mỹ thiên về 'technician'." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "mau chóng, không chậm trễ (trạng từ)",
+      "register": "formal",
+      "example": "I'd appreciate it if you could deal with this promptly.",
+      "exampleVi": "Tôi sẽ rất cảm kích nếu anh/chị xử lý việc này mau chóng.",
+      "note": "Trạng từ, hơi trang trọng. Dùng khi muốn yêu cầu được giải quyết nhanh nhưng vẫn lịch sự.",
+      "synonyms": [
+        { "term": "quickly", "ipa": "/ˈkwɪk.li/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'nhanh'. An toàn cho mọi tình huống." },
+        { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "register": "neutral", "nuanceVi": "Cụm rất thông dụng (viết tắt ASAP), nghĩa 'sớm nhất có thể'. Nhấn vào mong muốn được ưu tiên." }
+      ]
+    },
+    {
+      "term": "frustrating",
+      "ipa": "/frʌsˈtreɪ.tɪŋ/",
+      "vi": "gây bực bội, khó chịu (tính từ)",
+      "register": "neutral",
+      "example": "It's really frustrating because I work from home.",
+      "exampleVi": "Thật sự rất bực vì tôi làm việc tại nhà.",
+      "note": "Tính từ mô tả CẢM XÚC do sự việc gây ra (dùng -ing). Nếu nói về người thì dùng 'frustrated' (cảm thấy bực).",
+      "synonyms": [
+        { "term": "annoying", "ipa": "/əˈnɔɪ.ɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'frustrating'. Nghĩa 'gây khó chịu, phiền'. Mức độ bực ít hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling because [mệnh đề mô tả vấn đề].",
+      "use": "Mở đầu cuộc gọi, nêu ngay lý do gọi.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling because my internet has been down since this morning.",
+        "I'm calling because the connection keeps dropping."
+      ],
+      "explanationVi": "'because' nối vào lý do, giúp bạn vào thẳng vấn đề một cách rõ ràng. Đây là câu mở chuẩn khi gọi tổng đài."
+    },
+    {
+      "pattern": "My internet has been [tính từ / down] since [mốc thời gian].",
+      "use": "Mô tả tình trạng và thời điểm bắt đầu sự cố.",
+      "register": "neutral",
+      "examples": [
+        "My internet has been really slow since yesterday evening.",
+        "My internet has been down since about 9 a.m."
+      ],
+      "explanationVi": "Dùng thì hiện tại hoàn thành 'has been' + 'since' để nói sự cố bắt đầu trong quá khứ và VẪN còn đến giờ. Nêu mốc thời gian giúp kỹ thuật viên chẩn đoán nhanh hơn."
+    },
+    {
+      "pattern": "Could you tell me [câu hỏi gián tiếp]?",
+      "use": "Hỏi thông tin một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me how long it will take to fix?",
+        "Could you tell me whether there's an outage in my area?"
+      ],
+      "explanationVi": "Câu hỏi gián tiếp (sau 'tell me' thì KHÔNG đảo trợ động từ): nói 'how long it WILL take', không phải 'will it take'. Nghe lịch sự và mượt hơn hỏi trực tiếp.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể]?",
+      "use": "Đề nghị một việc tế nhị (cử người tới, hoàn phí) một cách lịch sự.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to send a technician today?",
+        "Would it be possible to get some compensation for the downtime?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một việc mà bên kia có quyền từ chối. Nghe nhã nhặn, dễ được giúp.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "I've already [V phân từ], but [mệnh đề].",
+      "use": "Cho biết bạn đã tự thử cách nào rồi mà chưa được, để khỏi bị bảo làm lại.",
+      "register": "neutral",
+      "examples": [
+        "I've already rebooted the router, but nothing has changed.",
+        "I've already checked the cables, but the light is still red."
+      ],
+      "explanationVi": "'already' + hiện tại hoàn thành cho thấy bạn đã làm các bước cơ bản. Câu này tiết kiệm thời gian và thể hiện bạn hợp tác."
+    },
+    {
+      "pattern": "Although [mệnh đề], the problem [mệnh đề].",
+      "use": "Diễn tả việc đã thử nhưng vấn đề vẫn còn (nhượng bộ).",
+      "register": "neutral",
+      "examples": [
+        "Although I restarted everything, the problem is still there.",
+        "Although the signal looks fine, the internet is still very slow."
+      ],
+      "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ. Cấu trúc này giúp câu dài và mạch lạc hơn, rất 'ăn điểm' ở mức B1."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một lời than phiền chân thành nhưng vẫn lịch sự.", "example": "Honestly, this has been happening far too often lately." },
+    { "term": "basically", "ipa": "/ˈbeɪ.sɪk.li/", "vi": "về cơ bản là / nói gọn lại là", "when": "Tóm tắt vấn đề ngắn gọn cho dễ hiểu.", "example": "Basically, the wifi works for a minute and then cuts out." },
+    { "term": "at the moment", "ipa": "/ət ðə ˈməʊ.mənt/", "vi": "ngay lúc này", "when": "Nhấn tình trạng đang xảy ra ngay bây giờ.", "example": "I can't connect to anything at the moment." },
+    { "term": "all of a sudden", "ipa": "/ɔːl əv ə ˈsʌd.ən/", "vi": "bỗng nhiên, đột ngột", "when": "Kể việc sự cố xảy ra bất ngờ.", "example": "All of a sudden, every device lost the connection." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt sau khi đã lo lắng.", "example": "Fortunately, the technician can come this afternoon." }
+  ],
+
+  "dialogue": {
+    "context": "Mạng nhà bạn bị trục trặc cả ngày. Bạn gọi lên tổng đài chăm sóc khách hàng của nhà cung cấp internet để báo sự cố và nhờ hỗ trợ.",
+    "lines": [
+      {
+        "speaker": "Tổng đài",
+        "text": "Good afternoon, thank you for calling TechNet Support. My name is Lisa. How can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn θæŋk juː fɔːr ˈkɔː.lɪŋ ˈtek.net səˈpɔːt maɪ neɪm ɪz ˈliː.sə haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều, cảm ơn bạn đã gọi đến Hỗ trợ TechNet. Tôi là Lisa. Tôi có thể giúp gì cho bạn hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi Lisa. I'm calling ____ my internet has been down since this morning, and honestly it's really frustrating because I work from home.",
+        "ipa": "/haɪ ˈliː.sə aɪm ˈkɔː.lɪŋ ... maɪ ˈɪn.tə.net hæz biːn daʊn sɪns ðɪs ˈmɔː.nɪŋ ænd ˈɒn.ɪst.li ɪts ˈrɪə.li frʌsˈtreɪ.tɪŋ bɪˈkɔːz aɪ wɜːk frɒm həʊm/",
+        "vi": "Chào Lisa. Tôi gọi ____ mạng nhà tôi mất từ sáng đến giờ, và thật lòng là rất bực vì tôi làm việc tại nhà.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nối vào lý do gọi. Xem mẫu câu 'I'm calling because...'. Đây là cách mở đầu rõ ràng, đi thẳng vào vấn đề." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "I'm so sorry to hear that. Let me help you troubleshoot it. Could you tell me which lights are on your router, ____ the power light and the internet light?",
+        "ipa": "/aɪm səʊ ˈsɒr.i tə hɪər ðæt let miː help juː ˈtrʌb.əl.ʃuːt ɪt kʊd juː tel miː wɪtʃ laɪts ɑːr ɒn jɔːr ˈruː.tər ... ðə ˈpaʊ.ər laɪt ænd ði ˈɪn.tə.net laɪt/",
+        "vi": "Tôi rất tiếc khi nghe vậy. Để tôi giúp bạn dò tìm sự cố nhé. Bạn cho tôi biết những đèn nào đang sáng trên cục phát wifi, ____ đèn nguồn và đèn internet, được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'which lights'. Nêu ví dụ cụ thể giúp câu rõ ràng, dễ làm theo hơn." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Let me check. The power light is green, but the internet light, ____ is usually white, is flashing red at the moment.",
+        "ipa": "/let miː tʃek ðə ˈpaʊ.ər laɪt ɪz ɡriːn bʌt ði ˈɪn.tə.net laɪt ... ɪz ˈjuː.ʒu.ə.li waɪt ɪz ˈflæʃ.ɪŋ red ət ðə ˈməʊ.mənt/",
+        "vi": "Để tôi xem. Đèn nguồn màu xanh lá, nhưng đèn internet, ____ bình thường màu trắng, thì đang nhấp nháy đỏ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'the internet light' (vật) để thêm thông tin mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Thank you, that's very helpful. A flashing red light usually means there's a connection issue. Could you try to ____ the router by unplugging it for thirty seconds and then plugging it back in?",
+        "ipa": "/θæŋk juː ðæts ˈver.i ˈhelp.fəl ə ˈflæʃ.ɪŋ red laɪt ˈjuː.ʒu.ə.li miːnz ðeəz ə kəˈnek.ʃən ˈɪʃ.uː kʊd juː traɪ tə ... ðə ˈruː.tər baɪ ʌnˈplʌɡ.ɪŋ ɪt fɔːr ˈθɜː.ti ˈsek.əndz ænd ðen ˈplʌɡ.ɪŋ ɪt bæk ɪn/",
+        "vi": "Cảm ơn bạn, thông tin đó rất hữu ích. Đèn đỏ nhấp nháy thường nghĩa là có vấn đề về kết nối. Bạn thử ____ cục phát wifi bằng cách rút điện ra 30 giây rồi cắm lại giúp tôi nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "reboot", "explanationVi": "Dùng 'reboot' (= restart) nghĩa khởi động lại thiết bị. Sau 'try to' phải là động từ nguyên thể. Có thể thay bằng 'restart'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Okay, I've ____ done that twice today, but the problem is still there. Although I restarted everything, the red light keeps flashing.",
+        "ipa": "/ˌəʊˈkeɪ aɪv ... dʌn ðæt twaɪs təˈdeɪ bʌt ðə ˈprɒb.ləm ɪz stɪl ðeə ɔːlˈðəʊ aɪ ˌriːˈstɑː.tɪd ˈev.ri.θɪŋ ðə red laɪt kiːps ˈflæʃ.ɪŋ/",
+        "vi": "Được, tôi ____ làm vậy hai lần hôm nay rồi, nhưng vẫn không hết. Mặc dù tôi khởi động lại hết, đèn đỏ vẫn cứ nhấp nháy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "already", "explanationVi": "Dùng 'already' với thì hiện tại hoàn thành ('I've already done') để cho biết bạn ĐÃ thử cách này rồi. Xem mẫu câu 'I've already..., but...'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "I understand, and thank you for your patience. After checking our system, I can see there's actually a network ____ in your area, which our team is already working on.",
+        "ipa": "/aɪ ˌʌn.dəˈstænd ænd θæŋk juː fɔːr jɔːr ˈpeɪ.ʃəns ˈɑːf.tər ˈtʃek.ɪŋ ˈaʊə ˈsɪs.təm aɪ kæn siː ðeəz ˈæk.tʃu.ə.li ə ˈnet.wɜːk ... ɪn jɔːr ˈeə.ri.ə wɪtʃ ˈaʊə tiːm ɪz ˈɔːl.red.i ˈwɜː.kɪŋ ɒn/",
+        "vi": "Tôi hiểu, và cảm ơn bạn đã kiên nhẫn. Sau khi kiểm tra hệ thống, tôi thấy thật ra đang có sự cố ____ mạng ở khu vực của bạn, mà đội kỹ thuật của chúng tôi đang xử lý rồi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "outage", "explanationVi": "Dùng 'outage' (= sự cố mất dịch vụ trên diện rộng). 'network outage' nghĩa là mất mạng cả khu vực, không phải lỗi riêng nhà bạn." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh, that explains a lot. Could you tell me how long it ____ take to fix? And would it be possible to get some compensation, since I've lost a whole day of work?",
+        "ipa": "/əʊ ðæt ɪkˈspleɪnz ə lɒt kʊd juː tel miː haʊ lɒŋ ɪt ... teɪk tə fɪks ænd wʊd ɪt biː ˈpɒs.ə.bəl tə ɡet sʌm ˌkɒm.penˈseɪ.ʃən sɪns aɪv lɒst ə həʊl deɪ ɒv wɜːk/",
+        "vi": "Ồ, vậy là rõ rồi. Bạn cho tôi biết bao lâu nữa ____ sửa xong không? Và liệu có thể được bồi thường chút ít không, vì tôi mất nguyên một ngày làm việc?",
+        "blanks": [
+          { "type": "knowledge", "answer": "will", "explanationVi": "Câu hỏi gián tiếp sau 'tell me' KHÔNG đảo: nói 'how long it WILL take', không phải 'will it take'. Xem mẫu câu 'Could you tell me...?'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "It should be resolved within a couple of hours. I'll also add a note about compensation to your account, and fortunately I can offer you a credit on your next bill. Is there anything else I can help you with, ____?",
+        "ipa": "/ɪt ʃʊd biː rɪˈzɒlvd wɪˈðɪn ə ˈkʌp.əl əv ˈaʊəz aɪl ˈɔːl.səʊ æd ə nəʊt əˈbaʊt ˌkɒm.penˈseɪ.ʃən tə jɔːr əˈkaʊnt ænd ˈfɔː.tʃən.ət.li aɪ kæn ˈɒf.ər juː ə ˈkred.ɪt ɒn jɔːr nekst bɪl ɪz ðeər ˈen.i.θɪŋ els aɪ kæn help juː wɪð/",
+        "vi": "Sự cố sẽ được khắc phục trong vài giờ tới. Tôi cũng sẽ ghi chú về việc bồi thường vào tài khoản của bạn, và may là tôi có thể tặng bạn một khoản giảm vào hóa đơn kỳ sau. Bạn còn cần tôi giúp gì nữa không, ____?",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn (để xưng hô). Ví dụ: 'Nam'. Nếu không muốn nêu, có thể bỏ qua." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi gọi tổng đài nước ngoài, họ thường yêu cầu bạn đọc số tài khoản hoặc số điện thoại đăng ký để xác minh — nên chuẩn bị sẵn trước khi gọi.",
+    "Tổng đài gần như luôn yêu cầu bạn thử các bước cơ bản trước (khởi động lại router, kiểm tra dây cáp). Nói trước rằng bạn đã thử ('I've already...') giúp tiết kiệm thời gian.",
+    "Phàn nàn ở phương Tây nên giữ giọng bình tĩnh, lịch sự. Nổi nóng thường khiến mọi việc chậm hơn; nhân viên sẵn lòng giúp người nói nhã nhặn hơn.",
+    "Nhiều nhà mạng có chính sách bồi thường ('credit' hoặc 'refund') cho thời gian mất dịch vụ — bạn hoàn toàn có thể lịch sự hỏi xin."
+  ],
+
+  "commonMistakes": [
+    "Đảo sai trong câu hỏi gián tiếp: phải nói 'Could you tell me how long it WILL take', KHÔNG phải 'how long will it take'.",
+    "Nhầm 'frustrating' (việc gây bực) với 'frustrated' (người cảm thấy bực): 'It's frustrating' nhưng 'I'm frustrated'.",
+    "Quên dùng hiện tại hoàn thành với 'since': nói 'My internet HAS BEEN down since this morning', không phải 'My internet WAS down since...'.",
+    "Yêu cầu trống không kiểu 'Send a technician now'. Hãy bọc bằng 'Could you...?' hoặc 'Would it be possible to...?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi tổng đài báo sự cố mạng như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài chăm sóc khách hàng của một nhà cung cấp internet, nói tiếng Anh. Tôi là khách hàng đang gặp sự cố mạng (chậm, hay rớt, hoặc mất hẳn). Hãy bắt đầu bằng cách chào và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên tổng đài thật và hướng dẫn tôi từng bước xử lý (kiểm tra đèn router, khởi động lại), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'because', 'such as', 'although' và mẫu lịch sự 'Could you...?' / 'Would it be possible to...?'. Thỉnh thoảng tạo tình huống bất ngờ (ví dụ phát hiện có sự cố mất mạng cả khu vực, hoặc phải hẹn kỹ thuật viên đến nhà). Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một nhân viên hơi khó tính để tôi tập giữ bình tĩnh và lịch sự khi phàn nàn.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ và dùng nhiều từ chuyên ngành kỹ thuật hơn.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được sự cố mạng và thời điểm bắt đầu bằng câu có 'since' và thì hiện tại hoàn thành.",
+    "Tôi nói được rằng mình đã thử cách nào rồi ('I've already...') và yêu cầu hỗ trợ một cách lịch sự.",
+    "Tôi đặt được câu hỏi gián tiếp đúng ('Could you tell me how long it will take?') mà không nhìn gợi ý."
+  ]
+}

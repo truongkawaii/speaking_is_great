@@ -1,0 +1,306 @@
+{
+  "id": "job-interview",
+  "category": "work",
+  "title": "Phỏng vấn xin việc",
+  "titleEn": "Job Interview",
+  "level": "B2",
+  "functions": ["describing", "opinions", "requesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Giới thiệu bản thân và kinh nghiệm bằng câu dài, mạch lạc",
+    "Trình bày điểm mạnh và thành tích một cách thuyết phục",
+    "Kể về một tình huống khó và cách bạn xử lý",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "candidate",
+      "ipa": "/ˈkæn.dɪ.deɪt/",
+      "vi": "ứng viên (danh từ)",
+      "register": "neutral",
+      "example": "They interviewed five candidates for the position.",
+      "exampleVi": "Họ phỏng vấn năm ứng viên cho vị trí đó.",
+      "note": "Danh từ. Người đi xin việc; trong phỏng vấn bạn chính là 'the candidate'.",
+      "synonyms": [
+        { "term": "applicant", "ipa": "/ˈæp.lɪ.kənt/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'đã nộp đơn (apply)'. Gần như đồng nghĩa; 'applicant' hay xuất hiện trong văn bản tuyển dụng." }
+      ]
+    },
+    {
+      "term": "qualification",
+      "ipa": "/ˌkwɒl.ɪ.fɪˈkeɪ.ʃən/",
+      "vi": "bằng cấp / trình độ chuyên môn (danh từ)",
+      "register": "neutral",
+      "example": "She has all the qualifications required for the job.",
+      "exampleVi": "Cô ấy có đủ mọi bằng cấp mà công việc yêu cầu.",
+      "note": "Danh từ, thường dùng số nhiều khi nói về tổng thể bằng cấp + kinh nghiệm.",
+      "synonyms": [
+        { "term": "credentials", "ipa": "/krəˈden.ʃəlz/", "register": "formal", "nuanceVi": "Trang trọng hơn, chỉ toàn bộ chứng chỉ/thành tích chứng minh năng lực. Luôn dùng số nhiều." }
+      ]
+    },
+    {
+      "term": "strength",
+      "ipa": "/streŋθ/",
+      "vi": "điểm mạnh (danh từ)",
+      "register": "neutral",
+      "example": "My greatest strength is staying calm under pressure.",
+      "exampleVi": "Điểm mạnh nhất của tôi là giữ bình tĩnh khi áp lực.",
+      "note": "Danh từ. Câu kinh điển khi phỏng vấn: 'My greatest strength is…'. Trái nghĩa: weakness.",
+      "synonyms": [
+        { "term": "forte", "ipa": "/ˈfɔːr.teɪ/", "register": "formal", "nuanceVi": "Nghĩa 'sở trường'. Hơi trang trọng/văn vẻ, dùng khi muốn nghe tinh tế." },
+        { "term": "asset", "ipa": "/ˈæs.et/", "register": "neutral", "nuanceVi": "Nghĩa 'thứ có giá trị bạn mang lại'. Vd 'My communication skills are a real asset.'" }
+      ]
+    },
+    {
+      "term": "to accomplish",
+      "ipa": "/əˈkʌm.plɪʃ/",
+      "vi": "hoàn thành / đạt được (động từ)",
+      "register": "neutral",
+      "example": "I managed to accomplish all my goals last year.",
+      "exampleVi": "Năm ngoái tôi đã đạt được mọi mục tiêu.",
+      "note": "Động từ, mang sắc thái 'hoàn thành điều có ý nghĩa', mạnh hơn 'finish'.",
+      "synonyms": [
+        { "term": "to achieve", "ipa": "/əˈtʃiːv/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính. Đi với goal/target/success." },
+        { "term": "to attain", "ipa": "/əˈteɪn/", "register": "formal", "nuanceVi": "Trang trọng, thường dùng cho mục tiêu lớn, dài hạn (attain a degree/position)." }
+      ]
+    },
+    {
+      "term": "challenging",
+      "ipa": "/ˈtʃæl.ɪn.dʒɪŋ/",
+      "vi": "đầy thử thách (tính từ)",
+      "register": "neutral",
+      "example": "I'm looking for a more challenging role.",
+      "exampleVi": "Tôi đang tìm một vai trò nhiều thử thách hơn.",
+      "note": "Tính từ mang nghĩa TÍCH CỰC (khó nhưng đáng làm) — khác 'difficult' nghe trung tính/tiêu cực hơn.",
+      "synonyms": [
+        { "term": "demanding", "ipa": "/dɪˈmɑːn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào 'đòi hỏi nhiều công sức/thời gian'. Có thể hơi nặng nề hơn 'challenging'." },
+        { "term": "tough", "ipa": "/tʌf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'gắt, khó nhằn'. Hợp lúc nói chuyện thân mật hơn là phỏng vấn trang trọng." }
+      ]
+    },
+    {
+      "term": "responsible for",
+      "ipa": "/rɪˈspɒn.sə.bəl fɔːr/",
+      "vi": "chịu trách nhiệm về (tính từ + giới từ)",
+      "register": "neutral",
+      "example": "I was responsible for managing a team of ten.",
+      "exampleVi": "Tôi phụ trách quản lý một nhóm mười người.",
+      "note": "Luôn đi với giới từ 'for' + danh từ/V-ing. Đây là cụm cốt lõi để mô tả công việc cũ.",
+      "synonyms": [
+        { "term": "in charge of", "ipa": "/ɪn tʃɑːrdʒ ɒv/", "register": "neutral", "nuanceVi": "Nhấn vào 'người đứng đầu, có quyền quyết định'. Gần nghĩa nhưng thiên về vai trò chỉ huy." },
+        { "term": "accountable for", "ipa": "/əˈkaʊn.tə.bəl fɔːr/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'phải giải trình kết quả'. Hay dùng trong môi trường công sở chính thức." }
+      ]
+    },
+    {
+      "term": "efficiently",
+      "ipa": "/ɪˈfɪʃ.ənt.li/",
+      "vi": "một cách hiệu quả (trạng từ)",
+      "register": "neutral",
+      "example": "I always try to work efficiently and meet deadlines.",
+      "exampleVi": "Tôi luôn cố gắng làm việc hiệu quả và kịp hạn.",
+      "note": "Trạng từ: 'efficiently' = ít lãng phí thời gian/nguồn lực. Đừng nhầm với 'effectively' = đạt kết quả mong muốn.",
+      "synonyms": [
+        { "term": "productively", "ipa": "/prəˈdʌk.tɪv.li/", "register": "neutral", "nuanceVi": "Nhấn 'tạo ra nhiều thành quả'. Gần nghĩa nhưng thiên về sản lượng đầu ra." },
+        { "term": "effectively", "ipa": "/ɪˈfek.tɪv.li/", "register": "neutral", "nuanceVi": "Nhấn 'đạt đúng mục tiêu', không nhất thiết nhanh/tiết kiệm. Khác biệt tinh tế với efficiently." }
+      ]
+    },
+    {
+      "term": "thoroughly",
+      "ipa": "/ˈθʌr.ə.li/",
+      "vi": "một cách kỹ lưỡng (trạng từ)",
+      "register": "neutral",
+      "example": "I researched the company thoroughly before the interview.",
+      "exampleVi": "Tôi tìm hiểu kỹ về công ty trước buổi phỏng vấn.",
+      "note": "Trạng từ. Phát âm bẫy: 'th' + /ˈθʌr.ə.li/, KHÔNG đọc như 'through'.",
+      "synonyms": [
+        { "term": "meticulously", "ipa": "/məˈtɪk.jə.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tỉ mỉ đến từng chi tiết'. Tạo ấn tượng cẩn thận, chuyên nghiệp." },
+        { "term": "in detail", "ipa": "/ɪn ˈdiː.teɪl/", "register": "neutral", "nuanceVi": "Cụm trung tính, dễ dùng: 'I studied it in detail.'" }
+      ]
+    },
+    {
+      "term": "to collaborate",
+      "ipa": "/kəˈlæb.ə.reɪt/",
+      "vi": "hợp tác, phối hợp (động từ)",
+      "register": "neutral",
+      "example": "I enjoy collaborating with colleagues from different teams.",
+      "exampleVi": "Tôi thích phối hợp với đồng nghiệp ở các nhóm khác nhau.",
+      "note": "Động từ, đi với 'with somebody / on something'. Tạo ấn tượng làm việc nhóm tốt.",
+      "synonyms": [
+        { "term": "to cooperate", "ipa": "/kəʊˈɒp.ə.reɪt/", "register": "neutral", "nuanceVi": "Nhấn 'cùng làm theo, không gây cản trở'; nhẹ hơn collaborate (vốn nhấn cùng tạo ra kết quả chung)." }
+      ]
+    },
+    {
+      "term": "adaptable",
+      "ipa": "/əˈdæp.tə.bəl/",
+      "vi": "dễ thích nghi (tính từ)",
+      "register": "neutral",
+      "example": "Employers value people who are adaptable.",
+      "exampleVi": "Nhà tuyển dụng coi trọng người dễ thích nghi.",
+      "note": "Tính từ, một phẩm chất rất được ưa chuộng khi phỏng vấn.",
+      "synonyms": [
+        { "term": "flexible", "ipa": "/ˈflek.sə.bəl/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nghĩa 'linh hoạt, dễ điều chỉnh'. An toàn để dùng." },
+        { "term": "versatile", "ipa": "/ˈvɜː.sə.taɪl/", "register": "formal", "nuanceVi": "Nhấn 'làm được nhiều việc/vai trò khác nhau', không chỉ là dễ thay đổi." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I have over [số] years of experience in [lĩnh vực], during which I have [V hoàn thành].",
+      "use": "Mở đầu giới thiệu kinh nghiệm bằng một câu dài, chuyên nghiệp.",
+      "register": "formal",
+      "examples": [
+        "I have over five years of experience in marketing, during which I have led several successful campaigns."
+      ],
+      "explanationVi": "'during which' là mệnh đề quan hệ trang trọng (= và trong thời gian đó). Cấu trúc này gộp 2 ý vào 1 câu mượt, gây ấn tượng mạnh hơn nói cụt."
+    },
+    {
+      "pattern": "I'd say my greatest strength is [danh từ / V-ing].",
+      "use": "Nêu điểm mạnh khi được hỏi.",
+      "register": "neutral",
+      "examples": [
+        "I'd say my greatest strength is my ability to stay calm under pressure."
+      ],
+      "explanationVi": "'I'd say' (= I would say) làm câu nghe khiêm tốn, đỡ khoe khoang. Mẫu kinh điển cho câu hỏi về điểm mạnh.",
+      "altOf": "stating-strength"
+    },
+    {
+      "pattern": "One of my key strengths is that I can [V] even when [mệnh đề].",
+      "use": "Nêu điểm mạnh kèm bối cảnh chứng minh.",
+      "register": "neutral",
+      "examples": [
+        "One of my key strengths is that I can work efficiently even when deadlines are tight."
+      ],
+      "explanationVi": "'even when' nhấn mạnh khả năng giữ vững trong hoàn cảnh khó — thuyết phục hơn là chỉ nói suông điểm mạnh.",
+      "altOf": "stating-strength"
+    },
+    {
+      "pattern": "Although [mệnh đề], I managed to [V].",
+      "use": "Kể việc vượt qua khó khăn, làm nổi bật nỗ lực.",
+      "register": "neutral",
+      "examples": [
+        "Although the project was behind schedule, I managed to deliver it on time."
+      ],
+      "explanationVi": "'Although' mở đầu mệnh đề nhượng bộ (dù…). 'manage to + V' = xoay xở làm được điều khó. Bộ đôi này rất 'ăn điểm' trong phỏng vấn."
+    },
+    {
+      "pattern": "In my previous role, I was responsible for [danh từ], such as [ví dụ].",
+      "use": "Mô tả công việc cũ và nêu ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "In my previous role, I was responsible for several tasks, such as managing budgets and training new staff."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Nêu ví dụ cụ thể luôn thuyết phục hơn nói chung chung."
+    },
+    {
+      "pattern": "Not only did I [V], but I also [V].",
+      "use": "Nhấn mạnh rằng bạn làm được nhiều hơn một việc.",
+      "register": "formal",
+      "examples": [
+        "Not only did I increase sales, but I also improved customer satisfaction."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đứng đầu câu thì phải đảo trợ động từ lên trước chủ ngữ ('did I'). Cấu trúc nâng cao, gây ấn tượng — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh mẽ điều mình tin.", "example": "I would definitely be willing to take on more responsibility." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm cụ thể trong nhiều điểm.", "example": "I'm particularly interested in the leadership aspect of this role." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt sau khó khăn.", "example": "Fortunately, the team pulled together and we met the deadline." },
+    { "term": "eventually", "ipa": "/ɪˈven.tʃu.ə.li/", "vi": "cuối cùng thì (sau một quá trình)", "when": "Kể kết quả đạt được sau nỗ lực kéo dài.", "example": "Eventually, we managed to win the client back." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời chân thành, đôi khi hơi tế nhị.", "example": "To be honest, that was the most challenging project of my career." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang dự một buổi phỏng vấn xin việc. Người phỏng vấn (nhà tuyển dụng) hỏi về kinh nghiệm, điểm mạnh và cách bạn xử lý khó khăn.",
+    "lines": [
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Thank you for coming in today. To start, could you tell me a little about yourself and why you applied for this position?",
+        "ipa": "/θæŋk juː fɔːr ˈkʌm.ɪŋ ɪn təˈdeɪ tə stɑːrt kʊd juː tel miː ə ˈlɪt.əl əˈbaʊt jɔːrˈself ænd waɪ juː əˈplaɪd fɔːr ðɪs pəˈzɪʃ.ən/",
+        "vi": "Cảm ơn bạn đã đến hôm nay. Trước hết, bạn có thể giới thiệu đôi chút về bản thân và vì sao bạn ứng tuyển vị trí này không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you for having me. I have over ____ years of experience in ____, during which I have developed strong project-management skills. I applied because, ____ I enjoyed my previous role, I'm now looking for a more challenging environment where I can keep growing.",
+        "ipa": "/θæŋk juː fɔːr ˈhæv.ɪŋ miː aɪ hæv ˈəʊ.vər ... jɪəz ɒv ɪkˈspɪə.ri.əns ɪn ... ˈdjʊə.rɪŋ wɪtʃ aɪ hæv dɪˈvel.əpt strɒŋ ˈprɒdʒ.ekt ˈmæn.ɪdʒ.mənt skɪlz/",
+        "vi": "Cảm ơn anh/chị đã dành thời gian. Tôi có hơn ____ năm kinh nghiệm trong lĩnh vực ____, và trong thời gian đó tôi đã phát triển kỹ năng quản lý dự án vững vàng. Tôi ứng tuyển vì, ____ tôi từng rất thích công việc cũ, giờ tôi muốn một môi trường nhiều thử thách hơn để tiếp tục phát triển.",
+        "blanks": [
+          { "type": "personal", "hint": "Số năm kinh nghiệm của bạn. Ví dụ: 'five'." },
+          { "type": "personal", "hint": "Lĩnh vực của bạn. Ví dụ: 'marketing', 'software development'." },
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: tuy thích việc cũ nhưng vẫn muốn đổi. Xem mẫu câu 'Although…, I managed to…'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "That's great to hear. What would you say is your greatest strength, and how have you applied it at work?",
+        "ipa": "/ðæts ɡreɪt tə hɪər wɒt wʊd juː seɪ ɪz jɔːr ˈɡreɪ.tɪst streŋθ ænd haʊ hæv juː əˈplaɪd ɪt ət wɜːk/",
+        "vi": "Rất vui khi nghe điều đó. Bạn nghĩ điểm mạnh lớn nhất của mình là gì, và bạn đã vận dụng nó trong công việc ra sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd say my greatest strength is that I can work efficiently under pressure. For instance, in my previous role I was responsible for several projects ____ marketing campaigns and product launches, and I managed to deliver all of them on time.",
+        "ipa": "/aɪd seɪ maɪ ˈɡreɪ.tɪst streŋθ ɪz ðæt aɪ kæn wɜːk ɪˈfɪʃ.ənt.li ˈʌn.dər ˈpreʃ.ər fɔːr ˈɪn.stəns ɪn maɪ ˈpriː.vi.əs rəʊl aɪ wɒz rɪˈspɒn.sə.bəl fɔːr ˈsev.rəl ˈprɒdʒ.ekts/",
+        "vi": "Tôi nghĩ điểm mạnh nhất của mình là làm việc hiệu quả dưới áp lực. Chẳng hạn, ở công việc trước tôi phụ trách nhiều dự án ____ chiến dịch marketing và ra mắt sản phẩm, và tôi đã hoàn thành đúng hạn tất cả.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'several projects'. Nêu ví dụ cụ thể nghe thuyết phục hơn. Xem mẫu câu 'responsible for…, such as…'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Impressive. Could you describe a difficult situation you faced and explain how you handled it?",
+        "ipa": "/ɪmˈpres.ɪv kʊd juː dɪsˈkraɪb ə ˈdɪf.ɪ.kəlt ˌsɪtʃ.uˈeɪ.ʃən juː feɪst ænd ɪkˈspleɪn haʊ juː ˈhæn.dəld ɪt/",
+        "vi": "Ấn tượng đấy. Bạn có thể mô tả một tình huống khó khăn từng gặp và cách bạn xử lý không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Certainly. Last year we faced a tight deadline ____ seemed almost impossible to meet. Not only did I reorganize the team's workflow, but I also communicated clearly with the client in order to manage expectations. Fortunately, we eventually completed the project successfully.",
+        "ipa": "/ˈsɜːt.ən.li lɑːst jɪər wiː feɪst ə taɪt ˈded.laɪn ... siːmd ˈɔːl.məʊst ɪmˈpɒs.ə.bəl tə miːt nɒt ˈəʊn.li dɪd aɪ ˌriːˈɔː.ɡə.naɪz ðə tiːmz ˈwɜːk.fləʊ bʌt aɪ ˈɔːl.səʊ kəˈmjuː.nɪ.keɪ.tɪd ˈklɪə.li wɪð ðə ˈklaɪ.ənt/",
+        "vi": "Chắc chắn rồi. Năm ngoái chúng tôi gặp một hạn chót gấp ____ tưởng như không thể kịp. Tôi không những sắp xếp lại quy trình của nhóm, mà còn trao đổi rõ ràng với khách hàng để quản lý kỳ vọng. May mắn là cuối cùng chúng tôi đã hoàn thành dự án thành công.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'a tight deadline' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Well done. Finally, where do you see yourself in five years' time?",
+        "ipa": "/wel dʌn ˈfaɪ.nə.li weər duː juː siː jɔːrˈself ɪn faɪv jɪəz taɪm/",
+        "vi": "Tốt lắm. Cuối cùng, bạn hình dung mình sẽ ở đâu trong năm năm tới?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "In five years, I hope to have taken on a leadership role in which I can mentor others. I'm particularly adaptable and eager to learn, so I'm confident that I'll be able to grow together with the company.",
+        "ipa": "/ɪn faɪv jɪəz aɪ həʊp tə hæv ˈteɪ.kən ɒn ə ˈliː.də.ʃɪp rəʊl ɪn wɪtʃ aɪ kæn ˈmen.tɔːr ˈʌð.əz aɪm pəˈtɪk.jə.lə.li əˈdæp.tə.bəl ænd ˈiː.ɡər tə lɜːn/",
+        "vi": "Trong năm năm tới, tôi hy vọng đã đảm nhận một vai trò lãnh đạo nơi tôi có thể dìu dắt người khác. Tôi đặc biệt dễ thích nghi và ham học hỏi, nên tôi tự tin mình sẽ phát triển cùng công ty."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Phương Tây đề cao việc kể thành tích kèm con số/ví dụ cụ thể (quantify). Nói 'I increased sales by 20%' ấn tượng hơn 'I worked hard'.",
+    "Khi được hỏi điểm yếu, đừng trả lời 'I have no weaknesses'. Hãy nêu một điểm yếu thật và cách bạn đang cải thiện — thể hiện sự tự nhận thức.",
+    "Kết thúc phỏng vấn, đặt 1–2 câu hỏi ngược cho nhà tuyển dụng (về đội nhóm, kỳ vọng) cho thấy bạn thực sự quan tâm.",
+    "Đúng giờ, ăn mặc chỉnh tề và một cái bắt tay chắc chắn vẫn rất quan trọng trong văn hóa phỏng vấn."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID I lead…', không phải 'Not only I led…'.",
+    "Nhầm 'efficiently' (ít lãng phí) với 'effectively' (đạt mục tiêu) — hai sắc thái khác nhau.",
+    "Trả lời quá ngắn, cộc lốc ('Yes, I can.'). Hãy mở rộng bằng ví dụ và mệnh đề phụ để nghe trôi chảy.",
+    "Quên giới từ 'for' sau 'responsible' — luôn là 'responsible FOR something'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện phỏng vấn như thật.",
+    "prompt": "Hãy đóng vai một nhà tuyển dụng nói tiếng Anh, phỏng vấn tôi cho vị trí mà tôi sẽ nêu. Hãy hỏi từng câu một (giới thiệu bản thân, điểm mạnh/điểm yếu, một tình huống khó, mục tiêu 5 năm). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như nhà tuyển dụng, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also'. Cuối buổi, hãy chấm điểm câu trả lời của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy hỏi thêm câu hỏi gây áp lực (stress question) để tôi tập giữ bình tĩnh.'",
+      "Thêm: 'Hãy đóng vai phỏng vấn cho vị trí cấp quản lý.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi giới thiệu được bản thân bằng một câu dài có mệnh đề phụ, không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'although', 'such as' và đảo ngữ 'not only… but also' khi nói.",
+    "Tôi kể được một tình huống khó và cách xử lý một cách mạch lạc."
+  ]
+}

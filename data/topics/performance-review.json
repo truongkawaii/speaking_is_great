@@ -1,0 +1,358 @@
+{
+  "id": "performance-review",
+  "category": "work",
+  "title": "Đánh giá hiệu suất",
+  "titleEn": "Performance Review",
+  "level": "B2",
+  "functions": ["opinions", "describing", "negotiating", "agreeing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Tự đánh giá thành tích trong kỳ bằng câu dài, có dẫn chứng cụ thể",
+    "Tiếp nhận góp ý (cả tích cực lẫn cần cải thiện) một cách chuyên nghiệp, không phòng thủ",
+    "Trình bày mục tiêu phát triển và đề xuất kế hoạch cho kỳ tới",
+    "Thương lượng khéo léo về khối lượng công việc, lương hoặc cơ hội thăng tiến",
+    "Dùng ngữ pháp nâng cao (although, in order to, not only… but also, mệnh đề quan hệ) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "appraisal",
+      "ipa": "/əˈpreɪ.zəl/",
+      "vi": "buổi/bản đánh giá hiệu suất (danh từ)",
+      "register": "formal",
+      "example": "My annual appraisal is scheduled for next Monday.",
+      "exampleVi": "Buổi đánh giá hằng năm của tôi được xếp vào thứ Hai tới.",
+      "note": "Danh từ trang trọng, đồng nghĩa với 'performance review'. Hay gặp trong văn bản nhân sự.",
+      "synonyms": [
+        { "term": "evaluation", "ipa": "/ɪˌvæl.juˈeɪ.ʃən/", "register": "neutral", "nuanceVi": "Trung tính, rộng hơn — có thể đánh giá người, dự án hay sản phẩm, không chỉ riêng nhân viên." },
+        { "term": "assessment", "ipa": "/əˈses.mənt/", "register": "neutral", "nuanceVi": "Nhấn vào quá trình 'đo lường, định lượng năng lực'. Nghe khách quan, mang tính kỹ thuật hơn." }
+      ]
+    },
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "phản hồi, góp ý (danh từ không đếm được)",
+      "register": "neutral",
+      "example": "I really appreciate your honest feedback on my work.",
+      "exampleVi": "Tôi thực sự trân trọng góp ý thẳng thắn của anh/chị về công việc của tôi.",
+      "note": "Danh từ KHÔNG đếm được: nói 'some feedback', KHÔNG nói 'a feedback' hay 'feedbacks'.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhấn 'ý kiến đóng góp để cải thiện việc gì đó', nghe nhẹ và mời gọi hơn 'feedback'." },
+        { "term": "critique", "ipa": "/krɪˈtiːk/", "register": "formal", "nuanceVi": "Trang trọng, mang tính phân tích chi tiết điểm hay/dở; nặng tính chuyên môn hơn." }
+      ]
+    },
+    {
+      "term": "achievement",
+      "ipa": "/əˈtʃiːv.mənt/",
+      "vi": "thành tích, thành tựu (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to highlight a few key achievements from this quarter.",
+      "exampleVi": "Tôi muốn nhấn mạnh vài thành tích nổi bật trong quý này.",
+      "note": "Danh từ. Trong buổi đánh giá, hãy nêu achievement kèm con số cụ thể để thuyết phục.",
+      "synonyms": [
+        { "term": "accomplishment", "ipa": "/əˈkʌm.plɪʃ.mənt/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nghe trang trọng và 'nặng' hơn một chút; thường chỉ việc lớn, đáng tự hào." },
+        { "term": "milestone", "ipa": "/ˈmaɪl.stəʊn/", "register": "neutral", "nuanceVi": "Nhấn 'cột mốc quan trọng' trong một hành trình dài, không phải mọi thành tích nhỏ đều là milestone." }
+      ]
+    },
+    {
+      "term": "to exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "vi": "vượt (chỉ tiêu, kỳ vọng) (động từ)",
+      "register": "formal",
+      "example": "I managed to exceed my sales targets by fifteen percent.",
+      "exampleVi": "Tôi đã vượt chỉ tiêu doanh số 15%.",
+      "note": "Động từ trang trọng, đi với targets/expectations/limits. Mạnh và ấn tượng hơn 'pass' hay 'go over'.",
+      "synonyms": [
+        { "term": "to surpass", "ipa": "/səˈpɑːs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'vượt trội hơn hẳn so với chuẩn/người khác'. Văn vẻ hơn 'exceed'." },
+        { "term": "to outperform", "ipa": "/ˌaʊt.pəˈfɔːm/", "register": "formal", "nuanceVi": "Nhấn 'làm tốt hơn (đối thủ/đồng nghiệp/dự báo)'. Mang ý so sánh, thường dùng trong kinh doanh." }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "vi": "thừa nhận, ghi nhận (động từ)",
+      "register": "formal",
+      "example": "I acknowledge that I could have communicated more clearly with the team.",
+      "exampleVi": "Tôi thừa nhận rằng mình lẽ ra có thể trao đổi rõ ràng hơn với cả nhóm.",
+      "note": "Động từ. Phát âm bẫy: chữ 'ack' đọc /ək/, chữ 'know' đọc /nɒl/, KHÔNG đọc thành 'know'.",
+      "synonyms": [
+        { "term": "to admit", "ipa": "/ədˈmɪt/", "register": "neutral", "nuanceVi": "Nhấn 'thừa nhận điều mình không muốn/lỗi của mình', thiên về thú nhận hơn là ghi nhận khách quan." },
+        { "term": "to recognise", "ipa": "/ˈrek.əɡ.naɪz/", "register": "neutral", "nuanceVi": "Nhấn 'nhận ra và công nhận giá trị/sự thật', sắc thái tích cực, nhẹ nhàng hơn." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "neutral",
+      "example": "Your criticism was tough but constructive, so thank you.",
+      "exampleVi": "Lời phê bình của anh/chị tuy gắt nhưng mang tính xây dựng, nên tôi cảm ơn.",
+      "note": "Tính từ tích cực, hay đi với 'feedback' hoặc 'criticism' (constructive criticism = phê bình mang tính xây dựng).",
+      "synonyms": [
+        { "term": "helpful", "ipa": "/ˈhelp.fəl/", "register": "neutral", "nuanceVi": "Đời thường, đơn giản, nghĩa 'có ích'. Nhẹ hơn 'constructive' (vốn nhấn 'giúp cải thiện cụ thể')." },
+        { "term": "valuable", "ipa": "/ˈvæl.jə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'có giá trị, đáng quý'. Khen góp ý quan trọng, không hẳn là hướng dẫn cách sửa." }
+      ]
+    },
+    {
+      "term": "proactively",
+      "ipa": "/ˌprəʊˈæk.tɪv.li/",
+      "vi": "một cách chủ động (trạng từ)",
+      "register": "neutral",
+      "example": "I proactively reached out to clients before any issues arose.",
+      "exampleVi": "Tôi đã chủ động liên hệ khách hàng trước khi có bất kỳ vấn đề nào nảy sinh.",
+      "note": "Trạng từ. Tự nhận mình 'proactive' (chủ động, không chờ được giao) là điểm cộng lớn khi đánh giá.",
+      "synonyms": [
+        { "term": "independently", "ipa": "/ˌɪn.dɪˈpen.dənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'tự lập, không cần ai giám sát', hơi khác 'proactively' (vốn nhấn chủ động đón đầu)." },
+        { "term": "voluntarily", "ipa": "/ˈvɒl.ən.tər.əl.i/", "register": "formal", "nuanceVi": "Nhấn 'tự nguyện, không bị yêu cầu'. Trang trọng, dùng khi nói tự mình nhận thêm việc." }
+      ]
+    },
+    {
+      "term": "significantly",
+      "ipa": "/sɪɡˈnɪf.ɪ.kənt.li/",
+      "vi": "một cách đáng kể (trạng từ)",
+      "register": "neutral",
+      "example": "Customer satisfaction improved significantly over the past six months.",
+      "exampleVi": "Mức độ hài lòng của khách hàng cải thiện đáng kể trong sáu tháng qua.",
+      "note": "Trạng từ. Rất hữu ích để nhấn mạnh mức độ thay đổi của kết quả khi báo cáo thành tích.",
+      "synonyms": [
+        { "term": "considerably", "ipa": "/kənˈsɪd.ər.ə.bli/", "register": "formal", "nuanceVi": "Gần đồng nghĩa, trang trọng; nhấn 'mức độ lớn rõ rệt'. Dùng thay 'significantly' để câu đỡ lặp." },
+        { "term": "noticeably", "ipa": "/ˈnəʊ.tɪs.ə.bli/", "register": "neutral", "nuanceVi": "Nhấn 'đủ để người ta nhận ra', mức độ nhẹ hơn 'significantly' một chút." }
+      ]
+    },
+    {
+      "term": "to be on track",
+      "ipa": "/tə biː ɒn træk/",
+      "vi": "đang đi đúng hướng / đúng tiến độ (cụm động từ)",
+      "register": "neutral",
+      "example": "We're on track to meet all our objectives by the end of the year.",
+      "exampleVi": "Chúng tôi đang đúng tiến độ để đạt mọi mục tiêu vào cuối năm.",
+      "note": "Cụm thông dụng trong công sở để nói mọi thứ đang diễn ra theo kế hoạch. Trái nghĩa: 'to fall behind'.",
+      "synonyms": [
+        { "term": "to be on schedule", "ipa": "/tə biː ɒn ˈʃed.juːl/", "register": "neutral", "nuanceVi": "Nhấn riêng về 'đúng thời gian/lịch'. 'On track' rộng hơn, bao cả đúng hướng lẫn đúng tiến độ." }
+      ]
+    },
+    {
+      "term": "to take on",
+      "ipa": "/tə teɪk ɒn/",
+      "vi": "đảm nhận (thêm việc/trách nhiệm) (cụm động từ)",
+      "register": "neutral",
+      "example": "I'm ready to take on more responsibility in the coming year.",
+      "exampleVi": "Tôi sẵn sàng đảm nhận thêm trách nhiệm trong năm tới.",
+      "note": "Cụm động từ. Đi với responsibility/projects/a new role. Thể hiện tinh thần cầu tiến khi đánh giá.",
+      "synonyms": [
+        { "term": "to assume", "ipa": "/əˈsjuːm/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'chính thức nhận lấy (vai trò/trách nhiệm)'. Vd 'assume a leadership role'." }
+      ]
+    },
+    {
+      "term": "area for improvement",
+      "ipa": "/ˈeə.ri.ə fər ɪmˈpruːv.mənt/",
+      "vi": "khía cạnh cần cải thiện (cụm danh từ)",
+      "register": "neutral",
+      "example": "One area for improvement is my time management under pressure.",
+      "exampleVi": "Một khía cạnh tôi cần cải thiện là quản lý thời gian khi áp lực.",
+      "note": "Cụm chuẩn để nói về điểm yếu một cách tích cực, mềm mại — nghe cầu tiến hơn là 'weakness'.",
+      "synonyms": [
+        { "term": "weakness", "ipa": "/ˈwiːk.nəs/", "register": "neutral", "nuanceVi": "Trực diện hơn, nghe hơi tiêu cực. Trong buổi đánh giá, 'area for improvement' tế nhị và chuyên nghiệp hơn." }
+      ]
+    },
+    {
+      "term": "raise",
+      "ipa": "/reɪz/",
+      "vi": "việc tăng lương (danh từ, Anh-Mỹ)",
+      "register": "neutral",
+      "example": "Given my results this year, I'd like to discuss a raise.",
+      "exampleVi": "Với kết quả năm nay, tôi muốn trao đổi về việc tăng lương.",
+      "note": "Anh-Mỹ dùng 'a raise'; Anh-Anh dùng 'a pay rise'. Đừng nói 'increase my salary' nghe hơi cứng.",
+      "synonyms": [
+        { "term": "pay rise", "ipa": "/ˈpeɪ raɪz/", "register": "neutral", "nuanceVi": "Cùng nghĩa nhưng là biến thể Anh-Anh. Chọn 'raise' hay 'pay rise' tùy đối tượng người nghe." },
+        { "term": "salary adjustment", "ipa": "/ˈsæl.ər.i əˈdʒʌst.mənt/", "register": "formal", "nuanceVi": "Rất trang trọng, uyển ngữ trong văn bản nhân sự; nghe khách quan, đỡ trực tiếp hơn 'raise'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Over the past [khoảng thời gian], I've [V hoàn thành], which [kết quả].",
+      "use": "Mở đầu phần tự đánh giá bằng một câu dài tổng kết thành tích.",
+      "register": "neutral",
+      "examples": [
+        "Over the past year, I've led three major projects, which significantly boosted our team's output."
+      ],
+      "explanationVi": "'which' là mệnh đề quan hệ không xác định, bổ sung kết quả cho cả ý phía trước. Gộp thành tích + tác động vào một câu nghe mượt và thuyết phục.",
+      "altOf": "summarising-achievement"
+    },
+    {
+      "pattern": "I'm proud to say that I managed to [V] this [kỳ].",
+      "use": "Nêu một thành tích cụ thể mà mình tự hào.",
+      "register": "neutral",
+      "examples": [
+        "I'm proud to say that I managed to exceed my targets by fifteen percent this quarter."
+      ],
+      "explanationVi": "'I'm proud to say' giúp khoe thành tích mà vẫn khiêm tốn, lịch sự. 'manage to + V' = xoay xở làm được điều khó.",
+      "altOf": "summarising-achievement"
+    },
+    {
+      "pattern": "I really appreciate your feedback, and I'll [V] in order to [mục tiêu].",
+      "use": "Tiếp nhận góp ý một cách chuyên nghiệp và cam kết cải thiện.",
+      "register": "neutral",
+      "examples": [
+        "I really appreciate your feedback, and I'll work on my delegation skills in order to support the team better."
+      ],
+      "explanationVi": "'in order to' = để mà (nêu mục đích, trang trọng hơn 'to'). Cấu trúc này cho thấy bạn cầu thị, không phòng thủ khi bị góp ý.",
+      "altOf": "receiving-feedback"
+    },
+    {
+      "pattern": "I acknowledge that [mệnh đề]; however, I've already started to [V].",
+      "use": "Thừa nhận điểm yếu nhưng cho thấy bạn đã hành động khắc phục.",
+      "register": "formal",
+      "examples": [
+        "I acknowledge that I sometimes take on too much; however, I've already started to delegate more."
+      ],
+      "explanationVi": "'however' (= tuy nhiên) là liên từ chuyển ý trang trọng, đứng đầu mệnh đề và ngăn bằng dấu chấm phẩy/chấm. Thừa nhận xong xoay sang giải pháp ngay sẽ ghi điểm.",
+      "altOf": "receiving-feedback"
+    },
+    {
+      "pattern": "Looking ahead, I'd like to take on [danh từ], such as [ví dụ].",
+      "use": "Trình bày mục tiêu và định hướng cho kỳ tới.",
+      "register": "neutral",
+      "examples": [
+        "Looking ahead, I'd like to take on more leadership responsibilities, such as mentoring junior staff."
+      ],
+      "explanationVi": "'Looking ahead' = nhìn về phía trước (dẫn vào kế hoạch tương lai). 'such as' nêu ví dụ cụ thể cho điều bạn muốn nhận thêm.",
+      "altOf": "stating-goals"
+    },
+    {
+      "pattern": "Given [thành tích/lý do], I was wondering whether we could discuss [điều muốn].",
+      "use": "Mở lời thương lượng (tăng lương, thăng tiến) một cách lịch sự, có căn cứ.",
+      "register": "formal",
+      "examples": [
+        "Given my results this year, I was wondering whether we could discuss a possible raise."
+      ],
+      "explanationVi": "'Given…' = xét đến… (đưa ra căn cứ trước). 'I was wondering whether…' là cách mở lời cực kỳ tế nhị cho yêu cầu nhạy cảm — nghe khiêm tốn, dễ được lắng nghe.",
+      "altOf": "negotiating"
+    },
+    {
+      "pattern": "Not only did I [V], but I also [V].",
+      "use": "Nhấn mạnh bạn đóng góp nhiều hơn một việc trong kỳ.",
+      "register": "formal",
+      "examples": [
+        "Not only did I meet my own deadlines, but I also supported two colleagues with theirs."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu phải đảo trợ động từ lên trước chủ ngữ ('did I'). Cấu trúc nâng cao gây ấn tượng — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời chân thành, nhất là khi thừa nhận điểm yếu.", "example": "Honestly, time management is something I'm still working on." },
+    { "term": "overall", "ipa": "/ˌəʊ.vərˈɔːl/", "vi": "nhìn chung, tổng thể", "when": "Khi muốn đưa ra nhận định bao quát trước khi đi vào chi tiết.", "example": "Overall, I feel it's been a very productive year for me." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh mẽ cam kết hoặc nguyện vọng của mình.", "example": "I would definitely be willing to take on a bigger role." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói cho công bằng thì", "when": "Khi thừa nhận một góc nhìn khác hoặc làm dịu một nhận định.", "example": "To be fair, the workload was heavier than we'd predicted." },
+    { "term": "going forward", "ipa": "/ˌɡəʊ.ɪŋ ˈfɔː.wəd/", "vi": "từ nay về sau", "when": "Dẫn vào cam kết hoặc kế hoạch cho thời gian tới.", "example": "Going forward, I'd like to set clearer priorities each week." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm cụ thể trong nhiều điểm.", "example": "I'm particularly proud of how the team handled the product launch." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang dự buổi đánh giá hiệu suất cuối năm với quản lý trực tiếp. Quản lý hỏi về thành tích, đưa ra góp ý, và bạn trình bày mục tiêu cũng như nguyện vọng cho năm tới.",
+    "lines": [
+      {
+        "speaker": "Quản lý",
+        "text": "Thanks for sitting down with me today. To begin, how do you feel your performance has been over the past year?",
+        "ipa": "/θæŋks fə ˈsɪt.ɪŋ daʊn wɪð miː təˈdeɪ tə bɪˈɡɪn haʊ duː juː fiːl jɔː pəˈfɔː.məns həz biːn ˌəʊ.və ðə pɑːst jɪə/",
+        "vi": "Cảm ơn bạn đã dành thời gian hôm nay. Trước hết, bạn cảm thấy hiệu suất của mình trong năm qua thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you for the opportunity. Overall, I'm proud to say that I managed to ____ my targets this year, and ____ that, I led three major projects which were delivered on time despite a very tight schedule.",
+        "ipa": "/θæŋk juː fə ði ˌɒp.əˈtjuː.nə.ti ˌəʊ.vərˈɔːl aɪm praʊd tə seɪ ðət aɪ ˈmæn.ɪdʒd tuː ... maɪ ˈtɑː.ɡɪts ðɪs jɪə ænd ... ðæt aɪ led θriː ˈmeɪ.dʒə ˈprɒdʒ.ekts wɪtʃ wə dɪˈlɪv.əd ɒn taɪm dɪˈspaɪt ə ˈveri taɪt ˈʃed.juːl/",
+        "vi": "Cảm ơn anh/chị đã cho cơ hội. Nhìn chung, tôi tự hào nói rằng năm nay tôi đã ____ chỉ tiêu của mình, và ____ thế, tôi dẫn dắt ba dự án lớn và tất cả đều hoàn thành đúng hạn bất chấp lịch trình rất gấp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "exceed", "explanationVi": "Dùng động từ 'exceed' (vượt) cho 'targets' — mạnh và ấn tượng hơn 'pass'. Xem mẫu câu 'I managed to exceed my targets…'." },
+          { "type": "knowledge", "answer": "beyond", "explanationVi": "Cụm 'and beyond that' = 'và hơn thế nữa' — cách nối tự nhiên để bổ sung thêm dẫn chứng cho thành tích vừa nêu. Có thể thay đơn giản bằng 'and'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "That's genuinely impressive, and the numbers back it up. Is there any area you feel you could improve on?",
+        "ipa": "/ðæts ˈdʒen.ju.ɪn.li ɪmˈpres.ɪv ænd ðə ˈnʌm.bəz bæk ɪt ʌp ɪz ðeər ˈen.i ˈeə.ri.ə juː fiːl juː kəd ɪmˈpruːv ɒn/",
+        "vi": "Điều đó thực sự ấn tượng, và các con số chứng minh điều đó. Có khía cạnh nào bạn thấy mình cần cải thiện không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, one ____ for improvement is delegation. I acknowledge that I sometimes take on too much myself; ____, I've already started handing tasks to junior colleagues in order to develop the whole team.",
+        "ipa": "/ˈɒn.ɪst.li wʌn ... fər ɪmˈpruːv.mənt ɪz ˌdel.ɪˈɡeɪ.ʃən aɪ əkˈnɒl.ɪdʒ ðət aɪ ˈsʌm.taɪmz teɪk ɒn tuː mʌtʃ maɪˈself ... aɪv ɔːlˈred.i ˈstɑː.tɪd ˈhæn.dɪŋ tɑːsks tə ˈdʒuː.ni.ə ˈkɒl.iːɡz ɪn ˈɔː.də tə dɪˈvel.əp ðə həʊl tiːm/",
+        "vi": "Thành thật mà nói, một ____ cần cải thiện là việc giao việc. Tôi thừa nhận đôi khi mình ôm đồm quá nhiều; ____, tôi đã bắt đầu giao bớt việc cho đồng nghiệp ít kinh nghiệm hơn để phát triển cả nhóm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "area", "explanationVi": "Cụm cố định 'an area for improvement' = khía cạnh cần cải thiện; tế nhị và chuyên nghiệp hơn 'weakness'." },
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (= tuy nhiên) để chuyển từ việc thừa nhận điểm yếu sang giải pháp đã làm. Xem mẫu câu 'I acknowledge that…; however, I've already started to…'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I appreciate that level of self-awareness. Where would you like to focus your development going forward?",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt ˈlev.əl əv ˌself.əˈweə.nəs weə wʊd juː laɪk tə ˈfəʊ.kəs jɔː dɪˈvel.əp.mənt ˌɡəʊ.ɪŋ ˈfɔː.wəd/",
+        "vi": "Tôi đánh giá cao sự tự nhận thức đó. Sắp tới bạn muốn tập trung phát triển ở mảng nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Looking ahead, I'd like to take on more leadership responsibilities, ____ as mentoring new hires and leading client meetings, because I'm particularly keen to grow ____ a managerial direction.",
+        "ipa": "/ˈlʊk.ɪŋ əˈhed aɪd laɪk tə teɪk ɒn mɔː ˈliː.də.ʃɪp rɪˌspɒn.sɪˈbɪl.ə.tiz ... əz ˈmen.tə.rɪŋ njuː haɪəz ænd ˈliː.dɪŋ ˈklaɪ.ənt ˈmiː.tɪŋz bɪˈkɒz aɪm pəˈtɪk.jə.lə.li kiːn tə ɡrəʊ ... ə ˌmæn.əˈdʒɪə.ri.əl daɪˈrek.ʃən/",
+        "vi": "Nhìn về phía trước, tôi muốn đảm nhận thêm trách nhiệm lãnh đạo, ____ như kèm cặp nhân viên mới và chủ trì họp khách hàng, vì tôi đặc biệt mong phát triển ____ hướng quản lý.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "'such as' dùng để nêu ví dụ minh họa cho 'leadership responsibilities'. Xem mẫu câu 'I'd like to take on…, such as…'." },
+          { "type": "knowledge", "answer": "in", "explanationVi": "Giới từ đúng là 'in a … direction' (theo một hướng). Vd 'grow in a managerial direction'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "That aligns well with where we'd like to see you. Is there anything else you'd like to raise before we finish?",
+        "ipa": "/ðæt əˈlaɪnz wel wɪð weə wiːd laɪk tə siː juː ɪz ðeər ˈen.i.θɪŋ els juːd laɪk tə reɪz bɪˈfɔː wiː ˈfɪn.ɪʃ/",
+        "vi": "Điều đó rất khớp với định hướng chúng tôi muốn dành cho bạn. Bạn có muốn nêu thêm điều gì trước khi kết thúc không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, actually. Given my results this year, I was ____ whether we could discuss a possible raise. I'm definitely committed to staying with the company, ____ I'd appreciate a salary review that reflects my contribution.",
+        "ipa": "/jes ˈæk.tʃu.ə.li ˈɡɪv.ən maɪ rɪˈzʌlts ðɪs jɪə aɪ wɒz ... ˈweð.ə wiː kəd dɪˈskʌs ə ˈpɒs.ə.bəl reɪz aɪm ˈdef.ɪn.ət.li kəˈmɪt.ɪd tə ˈsteɪ.ɪŋ wɪð ðə ˈkʌm.pə.ni ... aɪd əˈpriː.ʃi.eɪt ə ˈsæl.ər.i rɪˈvjuː ðət rɪˈflekts maɪ ˌkɒn.trɪˈbjuː.ʃən/",
+        "vi": "Vâng, thật ra có ạ. Xét đến kết quả của tôi năm nay, tôi ____ liệu chúng ta có thể trao đổi về việc tăng lương không. Tôi chắc chắn muốn gắn bó với công ty, ____ tôi mong có một đợt xem xét lương phản ánh đúng đóng góp của mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "wondering", "explanationVi": "'I was wondering whether…' là cách mở lời cực kỳ lịch sự, tế nhị cho yêu cầu nhạy cảm như tăng lương. Xem mẫu câu phần Thương lượng." },
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' để nối hai ý có sự đối lập nhẹ: vừa cam kết gắn bó, vừa mong được tăng lương. Có thể thay bằng 'and' nếu muốn ý xuôi hơn." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "That's a fair point, and your performance certainly supports it. Let me take this to HR, and we'll set up a follow-up meeting next week.",
+        "ipa": "/ðæts ə feə pɔɪnt ænd jɔː pəˈfɔː.məns ˈsɜːt.ən.li səˈpɔːts ɪt let miː teɪk ðɪs tuː ˌeɪtʃˈɑː ænd wiːl set ʌp ə ˈfɒl.əʊ ʌp ˈmiː.tɪŋ nekst wiːk/",
+        "vi": "Đó là một ý kiến hợp lý, và hiệu suất của bạn chắc chắn ủng hộ điều đó. Để tôi trình việc này lên phòng nhân sự, và chúng ta sẽ hẹn một buổi gặp tiếp theo vào tuần sau."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Văn hóa công sở phương Tây coi buổi đánh giá là cuộc đối thoại hai chiều, không phải 'bị tra hỏi'. Bạn được kỳ vọng chủ động tự đánh giá và nêu nguyện vọng.",
+    "Khi tự khen thành tích, nên kèm con số/dẫn chứng cụ thể (vd 'exceeded targets by 15%') thay vì nói chung chung 'I worked hard' — định lượng luôn thuyết phục hơn.",
+    "Tiếp nhận góp ý cần tránh phòng thủ hay đổ lỗi. Cách phản hồi chuyên nghiệp là cảm ơn, thừa nhận và nêu hành động cải thiện — điều này được đánh giá rất cao.",
+    "Chủ động nêu chuyện tăng lương/thăng tiến trong buổi đánh giá là bình thường và được tôn trọng, miễn là có căn cứ và diễn đạt lịch sự."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'feedback' như danh từ đếm được: sai khi nói 'a feedback' hay 'feedbacks'; đúng là 'some feedback', 'a piece of feedback'.",
+    "Trả lời câu hỏi điểm yếu quá phòng thủ hoặc nói 'I have no weaknesses'. Hãy nêu 'an area for improvement' thật kèm cách bạn đang khắc phục.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID I meet…', không phải 'Not only I met…'.",
+    "Đòi tăng lương cộc lốc kiểu 'I want more money'. Hãy bọc bằng 'Given my results…, I was wondering whether we could discuss a raise.'"
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện buổi đánh giá hiệu suất như thật.",
+    "prompt": "Hãy đóng vai quản lý trực tiếp của tôi, nói tiếng Anh, và tiến hành buổi đánh giá hiệu suất cuối năm. Hãy hỏi từng câu một (cảm nhận chung về năm qua, thành tích nổi bật, khía cạnh cần cải thiện, mục tiêu năm tới, và mời tôi nêu nguyện vọng). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một quản lý thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'in order to', 'not only… but also' và đưa dẫn chứng có con số. Khi tôi đề cập tăng lương, hãy phản biện nhẹ để tôi tập thương lượng. Cuối buổi hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một quản lý khó tính, đưa ra vài góp ý tiêu cực để tôi tập tiếp nhận mà không phòng thủ.'",
+      "Thêm: 'Hãy thương lượng cứng rắn hơn về mức lương để tôi luyện phản hồi có dẫn chứng.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự tổng kết được thành tích trong kỳ bằng câu dài có mệnh đề quan hệ và dẫn chứng cụ thể.",
+    "Tôi tiếp nhận được góp ý bằng cách thừa nhận và nêu hành động cải thiện, dùng 'however' và 'in order to'.",
+    "Tôi mở lời thương lượng tăng lương lịch sự bằng mẫu 'Given…, I was wondering whether we could discuss…'."
+  ]
+}

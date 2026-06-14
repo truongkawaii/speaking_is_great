@@ -1,0 +1,370 @@
+{
+  "id": "phrasal-verbs-advanced",
+  "category": "advanced",
+  "title": "Cụm động từ nâng cao",
+  "titleEn": "Advanced Phrasal Verbs",
+  "level": "C1",
+  "functions": ["opinions", "describing", "negotiating", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Dùng tự nhiên các cụm động từ nâng cao (mang sắc thái tinh tế) thay cho động từ Latin trang trọng khi nói",
+    "Phân biệt cụm động từ tách được / không tách được và đặt tân ngữ đại từ đúng chỗ",
+    "Diễn đạt ý kiến và lập luận bằng câu phức nhiều tầng, lồng idiom và mệnh đề nhượng bộ",
+    "Chuyển đổi register linh hoạt: biết khi nào cụm động từ nghe thân thiện, khi nào nên dùng từ trang trọng hơn",
+    "Tự sửa lỗi giới từ và trật tự từ thường gặp khi người Việt dùng phrasal verbs"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to come up with",
+      "ipa": "/kʌm ʌp wɪð/",
+      "vi": "nghĩ ra, đề xuất (ý tưởng/giải pháp) (cụm động từ)",
+      "register": "neutral",
+      "example": "We need to come up with a more sustainable solution before the deadline.",
+      "exampleVi": "Chúng ta cần nghĩ ra một giải pháp bền vững hơn trước hạn chót.",
+      "note": "Cụm động từ ba phần, không tách được: tân ngữ luôn đứng sau 'with'. Nhấn vào sự sáng tạo/ứng biến, mạnh hơn 'think of'.",
+      "synonyms": [
+        { "term": "to devise", "ipa": "/dɪˈvaɪz/", "register": "formal", "nuanceVi": "Động từ gốc Latin, trang trọng, nhấn việc 'thiết kế ra một kế hoạch/phương pháp một cách có chủ đích'. Hợp văn viết, báo cáo." },
+        { "term": "to conceive", "ipa": "/kənˈsiːv/", "register": "formal", "nuanceVi": "Rất trang trọng, nhấn 'thai nghén, hình thành ý tưởng trong đầu'. Đi với 'of' khi nói 'conceive of an idea'." },
+        { "term": "to dream up", "ipa": "/driːm ʌp/", "register": "casual", "nuanceVi": "Đời thường, đôi khi hơi mỉa mai, gợi ý tưởng kỳ quặc hoặc viển vông. Dùng khi muốn nhẹ nhàng hoài nghi." }
+      ]
+    },
+    {
+      "term": "to put off",
+      "ipa": "/pʊt ɒf/",
+      "vi": "trì hoãn, hoãn lại (cụm động từ)",
+      "register": "neutral",
+      "example": "They decided to put the launch off until the bugs were fixed.",
+      "exampleVi": "Họ quyết định hoãn việc ra mắt cho đến khi sửa xong lỗi.",
+      "note": "Cụm động từ TÁCH ĐƯỢC: 'put it off' (không nói 'put off it'). Còn một nghĩa khác: 'làm ai mất hứng/ngán' (The smell put me off).",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəʊstˈpəʊn/", "register": "formal", "nuanceVi": "Trang trọng, trung lập, dùng cho lịch trình/sự kiện chính thức. Không mang sắc thái 'lười, né tránh' như 'put off' đôi khi gợi." },
+        { "term": "to defer", "ipa": "/dɪˈfɜː(r)/", "register": "formal", "nuanceVi": "Rất trang trọng, thường trong ngữ cảnh hành chính/tài chính (defer a payment/decision). Nhấn 'dời sang thời điểm sau một cách có cân nhắc'." },
+        { "term": "to hold off", "ipa": "/həʊld ɒf/", "register": "neutral", "nuanceVi": "Cụm động từ khác, nhấn 'khoan đã, chờ thêm trước khi làm', thường vì muốn cân nhắc thêm chứ không hẳn là trì hoãn vô thời hạn." }
+      ]
+    },
+    {
+      "term": "to back up",
+      "ipa": "/bæk ʌp/",
+      "vi": "ủng hộ, hậu thuẫn; sao lưu (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll back you up if anyone questions the decision in the meeting.",
+      "exampleVi": "Tôi sẽ hậu thuẫn cho cậu nếu có ai chất vấn quyết định đó trong cuộc họp.",
+      "note": "Tách được khi nghĩa 'ủng hộ ai': 'back me up'. Cũng nghĩa 'sao lưu dữ liệu' và 'lùi xe'. Danh từ 'backup' (viết liền).",
+      "synonyms": [
+        { "term": "to support", "ipa": "/səˈpɔːt/", "register": "neutral", "nuanceVi": "Trung lập, phổ biến nhất, dùng được mọi ngữ cảnh. 'back up' nghe thân mật và mang sắc thái 'đứng ra bảo vệ khi cần' hơn." },
+        { "term": "to endorse", "ipa": "/ɪnˈdɔːs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'công khai tán thành/bảo chứng', thường cho ứng viên, sản phẩm, chính sách." },
+        { "term": "to corroborate", "ipa": "/kəˈrɒbəreɪt/", "register": "formal", "nuanceVi": "Rất trang trọng, chỉ riêng nghĩa 'củng cố bằng bằng chứng' (corroborate a claim). Không thay được nghĩa 'ủng hộ ai đó'." }
+      ]
+    },
+    {
+      "term": "to iron out",
+      "ipa": "/ˈaɪən aʊt/",
+      "vi": "giải quyết, dàn xếp (vấn đề/khúc mắc còn lại) (cụm động từ)",
+      "register": "neutral",
+      "example": "There are still a few details we need to iron out before signing.",
+      "exampleVi": "Vẫn còn vài chi tiết chúng ta cần dàn xếp trước khi ký.",
+      "note": "Idiom hình ảnh: 'là phẳng' những nếp nhăn = xử lý nốt các trục trặc nhỏ. Tách được: 'iron them out'.",
+      "synonyms": [
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Trang trọng, dứt khoát, nhấn 'giải quyết triệt để'. 'iron out' thiên về gọt giũa những điểm vướng nhỏ còn sót lại." },
+        { "term": "to sort out", "ipa": "/sɔːt aʊt/", "register": "neutral", "nuanceVi": "Cụm động từ Anh-Anh rất thông dụng, nghĩa 'thu xếp ổn thỏa', rộng hơn và đời thường hơn 'iron out'." }
+      ]
+    },
+    {
+      "term": "to bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "vi": "tạo ra, dẫn đến (sự thay đổi) (cụm động từ)",
+      "register": "formal",
+      "example": "The new policy brought about a dramatic shift in consumer behaviour.",
+      "exampleVi": "Chính sách mới đã tạo ra một sự thay đổi mạnh mẽ trong hành vi người tiêu dùng.",
+      "note": "Không tách được: 'bring about change' (không 'bring it about' phổ biến lắm). Nghe khá trang trọng dù là phrasal verb.",
+      "synonyms": [
+        { "term": "to cause", "ipa": "/kɔːz/", "register": "neutral", "nuanceVi": "Trung lập nhất, nhưng 'cause' hay đi với hậu quả tiêu cực; 'bring about' trung tính hơn, hợp cả thay đổi tích cực." },
+        { "term": "to trigger", "ipa": "/ˈtrɪɡə(r)/", "register": "neutral", "nuanceVi": "Nhấn 'châm ngòi, kích hoạt tức thì một chuỗi sự kiện'. Sắc thái đột ngột hơn 'bring about' (vốn gợi quá trình)." },
+        { "term": "to engender", "ipa": "/ɪnˈdʒendə(r)/", "register": "formal", "nuanceVi": "Rất trang trọng, văn vẻ, thường đi với cảm xúc/thái độ (engender trust, engender loyalty)." }
+      ]
+    },
+    {
+      "term": "to look into",
+      "ipa": "/lʊk ˈɪntə/",
+      "vi": "xem xét, điều tra, tìm hiểu kỹ (cụm động từ)",
+      "register": "neutral",
+      "example": "Let me look into the matter and get back to you by Friday.",
+      "exampleVi": "Để tôi tìm hiểu kỹ việc này rồi phản hồi cậu trước thứ Sáu.",
+      "note": "Không tách được: tân ngữ luôn sau 'into'. Rất hữu dụng để nói 'tôi sẽ kiểm tra/điều tra thêm' một cách lịch sự.",
+      "synonyms": [
+        { "term": "to investigate", "ipa": "/ɪnˈvestɪɡeɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghe chính thức (điều tra của cảnh sát, kiểm toán). 'look into' nhẹ nhàng, dùng được trong công việc hằng ngày." },
+        { "term": "to examine", "ipa": "/ɪɡˈzæmɪn/", "register": "formal", "nuanceVi": "Nhấn 'xem xét kỹ từng chi tiết', thiên về phân tích. 'look into' thiên về việc bắt tay tìm hiểu nguyên nhân." },
+        { "term": "to delve into", "ipa": "/delv ˈɪntə/", "register": "formal", "nuanceVi": "Văn vẻ, nhấn 'đào sâu, nghiên cứu cặn kẽ' một chủ đề. Sâu hơn 'look into'." }
+      ]
+    },
+    {
+      "term": "to carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "vi": "thực hiện, tiến hành (kế hoạch/nhiệm vụ) (cụm động từ)",
+      "register": "neutral",
+      "example": "The team carried out the survey over a three-month period.",
+      "exampleVi": "Nhóm đã tiến hành khảo sát trong vòng ba tháng.",
+      "note": "Tách được khi tân ngữ là đại từ: 'carry it out'. Đi với plan, research, task, experiment, order.",
+      "synonyms": [
+        { "term": "to conduct", "ipa": "/kənˈdʌkt/", "register": "formal", "nuanceVi": "Trang trọng, hợp với research, survey, interview, investigation. Là lựa chọn 'chuẩn văn viết' cho 'carry out'." },
+        { "term": "to implement", "ipa": "/ˈɪmplɪment/", "register": "formal", "nuanceVi": "Nhấn 'đưa một kế hoạch/quyết định vào thực thi'. Thiên về triển khai hệ thống, chính sách." },
+        { "term": "to execute", "ipa": "/ˈeksɪkjuːt/", "register": "formal", "nuanceVi": "Nhấn 'thực hiện chính xác theo đúng kế hoạch'. Trang trọng, hay dùng trong kinh doanh/chiến lược." }
+      ]
+    },
+    {
+      "term": "demanding",
+      "ipa": "/dɪˈmɑːndɪŋ/",
+      "vi": "đòi hỏi nhiều, vất vả (tính từ)",
+      "register": "neutral",
+      "example": "Coordinating three departments at once is an incredibly demanding task.",
+      "exampleVi": "Điều phối ba phòng ban cùng lúc là một nhiệm vụ vô cùng vất vả.",
+      "note": "Tính từ. Khác 'demanding' (người khó tính). Ở đây nói về công việc đòi hỏi nhiều công sức/kỹ năng.",
+      "synonyms": [
+        { "term": "taxing", "ipa": "/ˈtæksɪŋ/", "register": "formal", "nuanceVi": "Nhấn 'làm hao tổn sức lực/trí óc'. Hơi trang trọng, thường cho công việc trí tuệ căng thẳng." },
+        { "term": "gruelling", "ipa": "/ˈɡruːəlɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'cực kỳ vắt kiệt sức', cho thử thách thể chất hoặc kéo dài (a gruelling schedule)." },
+        { "term": "strenuous", "ipa": "/ˈstrenjuəs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn nỗ lực thể chất/tinh thần lớn (strenuous exercise, strenuous effort)." }
+      ]
+    },
+    {
+      "term": "feasible",
+      "ipa": "/ˈfiːzəbl/",
+      "vi": "khả thi, có thể thực hiện được (tính từ)",
+      "register": "formal",
+      "example": "Honestly, I'm not sure the timeline is feasible given our current resources.",
+      "exampleVi": "Thành thật mà nói, tôi không chắc tiến độ này khả thi với nguồn lực hiện tại.",
+      "note": "Tính từ. Nhấn 'làm được trên thực tế', khác 'possible' (có thể về lý thuyết).",
+      "synonyms": [
+        { "term": "viable", "ipa": "/ˈvaɪəbl/", "register": "formal", "nuanceVi": "Nhấn 'có khả năng tồn tại/thành công lâu dài' (a viable business). Thiên về tính sống còn hơn là chỉ làm được." },
+        { "term": "workable", "ipa": "/ˈwɜːkəbl/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'dùng được, chạy được trên thực tế' (a workable plan). Nhẹ nhàng, dễ nói." },
+        { "term": "realistic", "ipa": "/ˌrɪəˈlɪstɪk/", "register": "neutral", "nuanceVi": "Nhấn 'sát thực tế, không viển vông', thường nói về kỳ vọng/mục tiêu/tiến độ." }
+      ]
+    },
+    {
+      "term": "tentatively",
+      "ipa": "/ˈtentətɪvli/",
+      "vi": "một cách dè dặt, tạm thời (chưa chắc chắn) (trạng từ)",
+      "register": "formal",
+      "example": "We've tentatively scheduled the meeting for next Thursday, pending approval.",
+      "exampleVi": "Chúng tôi đã tạm xếp lịch họp vào thứ Năm tới, chờ phê duyệt.",
+      "note": "Trạng từ. Báo hiệu kế hoạch chưa chốt, còn có thể đổi. Rất hữu dụng khi thương lượng để giữ đường lui.",
+      "synonyms": [
+        { "term": "provisionally", "ipa": "/prəˈvɪʒənəli/", "register": "formal", "nuanceVi": "Gần như đồng nghĩa, nhấn 'tạm thời cho đến khi có quyết định chính thức'. Hơi trang trọng/hành chính hơn." },
+        { "term": "cautiously", "ipa": "/ˈkɔːʃəsli/", "register": "neutral", "nuanceVi": "Nhấn 'một cách thận trọng để tránh rủi ro', thiên về thái độ dè chừng hơn là tính chưa chốt." }
+      ]
+    },
+    {
+      "term": "inadvertently",
+      "ipa": "/ˌɪnədˈvɜːtəntli/",
+      "vi": "một cách vô tình, không chủ đích (trạng từ)",
+      "register": "formal",
+      "example": "I inadvertently left the client off the email thread, which caused some confusion.",
+      "exampleVi": "Tôi đã vô tình bỏ sót khách hàng khỏi chuỗi email, gây ra chút nhầm lẫn.",
+      "note": "Trạng từ trang trọng, dùng khi thừa nhận lỗi mà nhấn 'không cố ý' — nghe chuyên nghiệp, lịch sự.",
+      "synonyms": [
+        { "term": "accidentally", "ipa": "/ˌæksɪˈdentəli/", "register": "neutral", "nuanceVi": "Phổ biến, đời thường, nghĩa 'tình cờ, do sơ suất'. 'inadvertently' trang trọng và nhấn 'do không để ý' hơn." },
+        { "term": "unintentionally", "ipa": "/ˌʌnɪnˈtenʃənəli/", "register": "neutral", "nuanceVi": "Nhấn rõ 'không có chủ ý', trung lập, dài dòng hơn một chút." }
+      ]
+    },
+    {
+      "term": "consequently",
+      "ipa": "/ˈkɒnsɪkwəntli/",
+      "vi": "do đó, kết quả là (trạng từ liên kết)",
+      "register": "formal",
+      "example": "The supplier missed the deadline; consequently, we had to reschedule the entire launch.",
+      "exampleVi": "Nhà cung cấp trễ hạn; do đó, chúng tôi phải dời lại toàn bộ buổi ra mắt.",
+      "note": "Trạng từ liên kết, trang trọng hơn 'so'. Thường đứng đầu câu, theo sau là dấu phẩy.",
+      "synonyms": [
+        { "term": "therefore", "ipa": "/ˈðeəfɔː(r)/", "register": "formal", "nuanceVi": "Nhấn quan hệ logic/suy luận ('vì vậy mà suy ra'). 'consequently' nhấn quan hệ nhân-quả theo thời gian hơn." },
+        { "term": "as a result", "ipa": "/əz ə rɪˈzʌlt/", "register": "neutral", "nuanceVi": "Trung lập, dễ dùng khi nói, ý 'kết quả là'. An toàn và tự nhiên trong hội thoại." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Rather than [V-ing], I think we should [V] in order to [mục đích].",
+      "use": "Đề xuất một hướng đi thay cho hướng khác, kèm lý do.",
+      "register": "formal",
+      "examples": [
+        "Rather than rushing the launch, I think we should put it off in order to iron out the remaining bugs."
+      ],
+      "explanationVi": "'Rather than + V-ing' đặt hai lựa chọn cạnh nhau để bác bỏ cái này, ủng hộ cái kia; 'in order to' nêu mục đích. Câu dài, lập luận rõ ràng, rất 'C1'.",
+      "altOf": "making-proposal"
+    },
+    {
+      "pattern": "What if we [V]? That way, we could [V].",
+      "use": "Đề xuất một ý tưởng theo cách mở, mời người khác cùng cân nhắc.",
+      "register": "neutral",
+      "examples": [
+        "What if we brought in an external consultant? That way, we could come up with a fresh perspective."
+      ],
+      "explanationVi": "'What if + S + V' gợi ý nhẹ nhàng, ít áp đặt hơn 'We should...'. 'That way' nối sang lợi ích đạt được. Hợp brainstorm.",
+      "altOf": "making-proposal"
+    },
+    {
+      "pattern": "Although I see your point, I'm not entirely convinced that [mệnh đề].",
+      "use": "Phản biện lịch sự: thừa nhận trước rồi mới không đồng tình.",
+      "register": "formal",
+      "examples": [
+        "Although I see your point, I'm not entirely convinced that the timeline is feasible."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (đồng tình một phần) trước khi phản đối, giúp lời chê nghe nhã nhặn. 'not entirely convinced' là cách bất đồng rất tinh tế, kiểu Anh.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I take your point, but the issue is that [mệnh đề].",
+      "use": "Một cách phản biện khác: ghi nhận ý đối phương rồi nêu vấn đề.",
+      "register": "neutral",
+      "examples": [
+        "I take your point, but the issue is that we simply don't have the resources to carry it out this quarter."
+      ],
+      "explanationVi": "'I take your point' = tôi hiểu ý anh/chị; cách mở đầu mềm mỏng trước khi nêu trở ngại. Đời thường hơn 'I'm not entirely convinced'.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "Let me look into [danh từ] and get back to you, despite [trở ngại].",
+      "use": "Hứa tìm hiểu thêm rồi phản hồi, dù có khó khăn.",
+      "register": "neutral",
+      "examples": [
+        "Let me look into the supplier issue and get back to you by Friday, despite the tight schedule."
+      ],
+      "explanationVi": "'get back to you' = phản hồi sau. 'despite + danh từ/V-ing' nêu trở ngại nhưng vẫn cam kết. Cách câu giờ lịch sự, chuyên nghiệp."
+    },
+    {
+      "pattern": "Not only does this approach [V], but it also [V].",
+      "use": "Nhấn mạnh một phương án có nhiều ưu điểm cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does this approach save time, but it also brings about long-term cost savings."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu kéo trợ động từ 'does' lên trước chủ ngữ. Cấu trúc ăn điểm, nhưng phải đảo đúng kẻo sai ngữ pháp."
+    },
+    {
+      "pattern": "To be honest, I'd rather we [V quá khứ] than [V] without [danh từ].",
+      "use": "Bày tỏ mong muốn thẳng thắn nhưng vẫn lịch sự khi cân nhắc rủi ro.",
+      "register": "neutral",
+      "examples": [
+        "To be honest, I'd rather we held off than rushed something we hadn't tested properly."
+      ],
+      "explanationVi": "'I'd rather + S + V quá khứ' diễn đạt mong muốn về hành động của người khác (lùi giả định). 'To be honest' mở lời chân thành. Sắc thái tinh tế đặc trưng C1."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒnɪstli/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến thẳng thắn, đôi khi hơi tế nhị, để nghe chân thành.", "example": "Honestly, I think we're trying to do too much at once." },
+    { "term": "arguably", "ipa": "/ˈɑːɡjuəbli/", "vi": "có thể lập luận rằng / có lẽ là", "when": "Đưa ra nhận định mạnh nhưng để ngỏ tranh luận, nghe có chừng mực, học thuật.", "example": "This is arguably the most demanding project we've ever taken on." },
+    { "term": "in all fairness", "ipa": "/ɪn ɔːl ˈfeənəs/", "vi": "công bằng mà nói", "when": "Khi muốn ghi nhận một điểm tốt cho phía đối lập, thể hiện sự khách quan.", "example": "In all fairness, the team did manage to iron out most of the issues on time." },
+    { "term": "by and large", "ipa": "/baɪ ən lɑːdʒ/", "vi": "nhìn chung, về đại thể", "when": "Tổng kết một nhận định chung, thừa nhận có ngoại lệ nhỏ.", "example": "By and large, the new system has brought about a noticeable improvement." },
+    { "term": "as it stands", "ipa": "/əz ɪt ˈstændz/", "vi": "theo tình hình hiện tại", "when": "Mô tả thực trạng ngay lúc này, ngụ ý mọi thứ có thể đổi.", "example": "As it stands, the deadline simply isn't feasible." },
+    { "term": "needless to say", "ipa": "/ˈniːdləs tə seɪ/", "vi": "khỏi phải nói (đương nhiên)", "when": "Dẫn vào một hệ quả hiển nhiên mà ai cũng đoán được.", "example": "Needless to say, we'll need everyone to back the decision up publicly." }
+  ],
+
+  "dialogue": {
+    "context": "Một cuộc họp dự án tại văn phòng. Quản lý dự án (Linh) và một thành viên cấp cao (Bạn) đang tranh luận xem có nên ra mắt sản phẩm đúng hạn hay hoãn lại. Hội thoại nhấn vào việc dùng cụm động từ nâng cao khi đề xuất, phản biện và thương lượng.",
+    "lines": [
+      {
+        "speaker": "Linh (Quản lý)",
+        "text": "Thanks for joining, everyone. As it stands, the board expects us to launch next Monday, although several testers have flagged issues that we still need to ____ out. So, where do we actually stand?",
+        "ipa": "/θæŋks fɔː ˈdʒɔɪnɪŋ ˈevriwʌn əz ɪt stændz ðə bɔːd ɪkˈspekts ʌs tə lɔːntʃ nekst ˈmʌndeɪ ˈɔːlðəʊ ˈsevrəl ˈtestəz hæv flæɡd ˈɪʃuːz ðæt wi stɪl niːd tə aɪən aʊt səʊ weə wi ˈæktʃuəli stænd/",
+        "vi": "Cảm ơn mọi người đã tham gia. Theo tình hình hiện tại, ban lãnh đạo kỳ vọng chúng ta ra mắt vào thứ Hai tới, mặc dù vài người kiểm thử đã báo những lỗi mà chúng ta vẫn cần ____ nốt. Vậy thực ra chúng ta đang ở đâu rồi?",
+        "blanks": [
+          { "type": "knowledge", "answer": "iron", "explanationVi": "Cụm động từ 'iron out' = dàn xếp, giải quyết nốt những trục trặc nhỏ còn lại. Ở đây 'iron ___ out' tách ra bởi 'out' đã đứng cuối, nên chỗ trống là động từ 'iron'. Xem mục từ vựng 'to iron out'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, although I understand the pressure from the board, I'm not entirely convinced the current timeline is ____. Rather than launching something half-finished, I'd suggest we put the release off by a week in order to fix the critical bugs properly.",
+        "ipa": "/ˈɒnɪstli ˈɔːlðəʊ aɪ ˌʌndəˈstænd ðə ˈpreʃə frɒm ðə bɔːd aɪm nɒt ɪnˈtaɪəli kənˈvɪnst ðə ˈkʌrənt ˈtaɪmlaɪn ɪz ˈfiːzəbl ˈrɑːðə ðæn ˈlɔːntʃɪŋ ˈsʌmθɪŋ hɑːf ˈfɪnɪʃt aɪd səˈdʒest wi pʊt ðə rɪˈliːs ɒf baɪ ə wiːk ɪn ˈɔːdə tə fɪks ðə ˈkrɪtɪkl bʌɡz ˈprɒpəli/",
+        "vi": "Thành thật mà nói, dù tôi hiểu áp lực từ ban lãnh đạo, tôi không thực sự tin tiến độ hiện tại là ____. Thay vì tung ra một thứ làm dở dang, tôi đề xuất chúng ta hoãn bản phát hành lại một tuần để sửa các lỗi nghiêm trọng cho đến nơi đến chốn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "feasible", "explanationVi": "Tính từ 'feasible' = khả thi, làm được trên thực tế. Hợp hơn 'possible' vì ở đây bàn về tính thực thi với nguồn lực hiện có. Xem mục từ vựng 'feasible'." }
+        ]
+      },
+      {
+        "speaker": "Linh (Quản lý)",
+        "text": "I take your point, but the issue is that marketing has already booked the campaign. If we delay now, we'll inadvertently waste a budget which has taken months to secure. Can you ____ up that bug count with hard data?",
+        "ipa": "/aɪ teɪk jɔː pɔɪnt bʌt ðə ˈɪʃuː ɪz ðæt ˈmɑːkɪtɪŋ həz ɔːlˈredi bʊkt ðə kæmˈpeɪn ɪf wi dɪˈleɪ naʊ wiːl ˌɪnədˈvɜːtəntli weɪst ə ˈbʌdʒɪt wɪtʃ həz ˈteɪkən mʌnθs tə sɪˈkjʊə kæn juː bæk ʌp ðæt bʌɡ kaʊnt wɪð hɑːd ˈdeɪtə/",
+        "vi": "Tôi hiểu ý anh/chị, nhưng vấn đề là bộ phận marketing đã đặt sẵn chiến dịch rồi. Nếu giờ hoãn lại, chúng ta sẽ vô tình lãng phí một khoản ngân sách mà phải mất hàng tháng mới xin được. Anh/chị có thể ____ con số lỗi đó bằng dữ liệu cụ thể không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "back", "explanationVi": "Cụm động từ 'back up' = củng cố, chứng minh (bằng dữ liệu/bằng chứng). 'back ___ up that bug count' — 'up' đã có sẵn nên chỗ trống là động từ 'back'. Xem mục từ vựng 'to back up'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Definitely. I've already carried ____ a full regression test, which shows twelve high-severity bugs. Not only would shipping these damage our reputation, but it would also bring about a flood of support tickets that the team simply can't handle.",
+        "ipa": "/ˈdefɪnətli aɪv ɔːlˈredi ˈkærid aʊt ə fʊl rɪˈɡreʃn test wɪtʃ ʃəʊz twelv haɪ sɪˈverəti bʌɡz nɒt ˈəʊnli wʊd ˈʃɪpɪŋ ðiːz ˈdæmɪdʒ aʊə ˌrepjuˈteɪʃn bʌt ɪt wʊd ˈɔːlsəʊ brɪŋ əˈbaʊt ə flʌd ɒv səˈpɔːt ˈtɪkɪts ðæt ðə tiːm ˈsɪmpli kɑːnt ˈhændl/",
+        "vi": "Chắc chắn rồi. Tôi đã tiến hành một đợt kiểm thử hồi quy đầy đủ, cho thấy mười hai lỗi mức độ nghiêm trọng cao. Việc tung ra những lỗi này không những làm tổn hại uy tín của chúng ta, mà còn tạo ra một cơn lũ phiếu hỗ trợ mà nhóm đơn giản là không kham nổi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "out", "explanationVi": "Cụm động từ 'carry out' = thực hiện, tiến hành (a test/survey). 'carried ___ a full regression test' — động từ 'carried' đã có, thiếu tiểu từ 'out'. Xem mục từ vựng 'to carry out'." }
+        ]
+      },
+      {
+        "speaker": "Linh (Quản lý)",
+        "text": "That's a strong argument. In all fairness, I hadn't realised the severity was that high. Let me ____ into whether marketing can shift the campaign, despite how tight things are on their end.",
+        "ipa": "/ðæts ə strɒŋ ˈɑːɡjumənt ɪn ɔːl ˈfeənəs aɪ ˈhædnt ˈrɪəlaɪzd ðə sɪˈverəti wɒz ðæt haɪ let miː lʊk ˈɪntə ˈweðə ˈmɑːkɪtɪŋ kæn ʃɪft ðə kæmˈpeɪn dɪˈspaɪt haʊ taɪt θɪŋz ɑː ɒn ðeə end/",
+        "vi": "Đó là một lập luận thuyết phục. Công bằng mà nói, tôi đã không nhận ra mức độ nghiêm trọng cao đến vậy. Để tôi ____ xem liệu marketing có thể dời chiến dịch được không, dù phía họ mọi thứ đang rất căng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "look", "explanationVi": "Cụm động từ 'look into' = tìm hiểu, xem xét kỹ một vấn đề. 'look ___ into' — 'into' đã có sẵn nên chỗ trống là động từ 'look'. Xem mục từ vựng 'to look into'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you, that would really help. In the meantime, I'll get the team to ____ up with a realistic recovery plan so that, even if we only get a few extra days, we can prioritise the most critical fixes first.",
+        "ipa": "/θæŋk juː ðæt wʊd ˈrɪəli help ɪn ðə ˈmiːntaɪm aɪl ɡet ðə tiːm tə kʌm ʌp wɪð ə ˌrɪəˈlɪstɪk rɪˈkʌvəri plæn səʊ ðæt ˈiːvn ɪf wi ˈəʊnli ɡet ə fjuː ˈekstrə deɪz wi kæn praɪˈɒrətaɪz ðə məʊst ˈkrɪtɪkl ˈfɪksɪz fɜːst/",
+        "vi": "Cảm ơn, điều đó sẽ rất giúp ích. Trong lúc chờ, tôi sẽ để nhóm ____ một kế hoạch khắc phục sát thực tế, để cho dù chỉ được thêm vài ngày, chúng ta vẫn ưu tiên xử lý các lỗi nghiêm trọng nhất trước.",
+        "blanks": [
+          { "type": "knowledge", "answer": "come", "explanationVi": "Cụm động từ 'come up with' = nghĩ ra, đề xuất (a plan/idea). 'come ___ up with' — 'up with' đã có sẵn nên chỗ trống là động từ 'come'. Xem mục từ vựng 'to come up with'." }
+        ]
+      },
+      {
+        "speaker": "Linh (Quản lý)",
+        "text": "Perfect. Let's tentatively pencil in a new launch date for ____, pending the board's approval, and reconvene on Thursday once I've heard back from marketing.",
+        "ipa": "/ˈpɜːfɪkt lets ˈtentətɪvli ˈpensl ɪn ə njuː lɔːntʃ deɪt fɔː ˈpendɪŋ ðə bɔːdz əˈpruːvl ænd ˌriːkənˈviːn ɒn ˈθɜːzdeɪ wʌns aɪv hɜːd bæk frɒm ˈmɑːkɪtɪŋ/",
+        "vi": "Tuyệt. Hãy tạm ghi lịch ra mắt mới vào ____, chờ ban lãnh đạo phê duyệt, và họp lại vào thứ Năm khi tôi đã nhận được phản hồi từ marketing.",
+        "blanks": [
+          { "type": "personal", "hint": "Một mốc thời gian bạn đề xuất. Ví dụ: 'the following Monday' hoặc 'the 22nd'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sounds good. By and large, I think postponing is the right call, and I really appreciate you hearing me out. I'll circulate the test report and the recovery plan to everyone by ____ this evening.",
+        "ipa": "/saʊndz ɡʊd baɪ ən lɑːdʒ aɪ θɪŋk pəʊstˈpəʊnɪŋ ɪz ðə raɪt kɔːl ænd aɪ ˈrɪəli əˈpriːʃieɪt juː ˈhɪərɪŋ miː aʊt aɪl ˈsɜːkjəleɪt ðə test rɪˈpɔːt ænd ðə rɪˈkʌvəri plæn tə ˈevriwʌn baɪ ðɪs ˈiːvnɪŋ/",
+        "vi": "Nghe hợp lý. Nhìn chung, tôi cho rằng hoãn lại là quyết định đúng, và tôi thật sự cảm kích vì anh/chị đã lắng nghe tôi đến cùng. Tôi sẽ gửi báo cáo kiểm thử và kế hoạch khắc phục cho mọi người trước ____ tối nay.",
+        "blanks": [
+          { "type": "personal", "hint": "Một mốc giờ cụ thể. Ví dụ: 'six o'clock' hoặc 'the end of the day'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong môi trường công sở Anh-Mỹ, cụm động từ (look into, come up with, iron out) nghe tự nhiên và thân thiện hơn các động từ Latin (investigate, devise, resolve). Nhưng trong văn bản trang trọng (báo cáo, hợp đồng), người ta lại nghiêng về dạng Latin. Người nói C1 biết đổi qua lại tùy ngữ cảnh.",
+    "Cách bất đồng kiểu Anh thường rất gián tiếp: 'I'm not entirely convinced' hay 'I take your point, but...' nghĩa là phản đối khá mạnh, nhưng được gói lại cho lịch sự. Hiểu sai mức độ này dễ dẫn đến ngộ nhận.",
+    "Khi chưa chắc chắn, người bản xứ hay dùng 'tentatively', 'provisionally', 'pencil in' để giữ đường lui — báo rằng kế hoạch có thể đổi mà không thất hứa.",
+    "Thừa nhận lỗi bằng 'inadvertently' hay 'I hadn't realised' thể hiện sự chuyên nghiệp và tự nhận thức, được đánh giá cao hơn là chối hoặc đổ lỗi."
+  ],
+
+  "commonMistakes": [
+    "Đặt sai vị trí tân ngữ đại từ với cụm động từ tách được: phải nói 'put it off' / 'back me up', KHÔNG nói 'put off it' / 'back up me'.",
+    "Thêm tân ngữ vào giữa cụm KHÔNG tách được: sai 'look the matter into' / 'come a plan up with'; đúng là 'look into the matter' / 'come up with a plan'.",
+    "Sai đảo ngữ sau 'Not only' đầu câu: phải đảo trợ động từ — 'Not only WOULD this damage...', không phải 'Not only this would...'.",
+    "Lạm dụng cụm động từ trong văn cảnh quá trang trọng, hoặc ngược lại dùng động từ Latin cứng nhắc khi nói chuyện thân mật — sai register."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện dùng cụm động từ nâng cao trong một cuộc họp tranh luận như thật.",
+    "prompt": "Hãy đóng vai một quản lý dự án nói tiếng Anh trong một cuộc họp công sở. Tôi là một thành viên cấp cao trong nhóm. Chúng ta đang tranh luận về một quyết định khó (ví dụ: có nên hoãn ra mắt sản phẩm, có nên thay nhà cung cấp). Hãy đưa ra quan điểm trái với tôi để tôi phải phản biện. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một quản lý thật, (2) sửa lỗi ngữ pháp và đặc biệt là lỗi dùng cụm động từ (sai giới từ, sai vị trí tân ngữ, tách/không tách) bằng tiếng Việt, (3) khuyến khích tôi dùng các cụm động từ nâng cao như 'come up with', 'iron out', 'look into', 'carry out', 'back up', 'bring about', và câu phức với 'although', 'rather than', 'not only... but also'. Cuối buổi, hãy chấm điểm khả năng dùng phrasal verbs của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu quan điểm của anh/chị nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy thỉnh thoảng dùng một động từ Latin trang trọng và hỏi tôi cụm động từ tương đương đời thường là gì.'",
+      "Thêm: 'Hãy đẩy nhịp hội thoại nhanh hơn và chen vào một tình huống bất ngờ (ví dụ sếp lớn gọi vào họp) để tôi tập ứng biến.'",
+      "Thêm: 'Cuối buổi, hãy liệt kê những chỗ tôi dùng động từ trang trọng mà lẽ ra nên dùng cụm động từ cho tự nhiên hơn, và ngược lại.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi dùng được ít nhất 5 cụm động từ nâng cao (come up with, iron out, look into, carry out, back up, bring about) đúng ngữ cảnh mà không nhìn gợi ý.",
+    "Tôi đặt đúng vị trí tân ngữ với cụm tách được (put it off) và không tách được (look into the matter).",
+    "Tôi phản biện được một cách lịch sự bằng câu phức ('Although I see your point, I'm not entirely convinced...') và biết khi nào nên đổi sang register trang trọng hơn."
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "id": "car-breakdown",
+  "category": "services",
+  "title": "Xe hỏng giữa đường",
+  "titleEn": "Car Breakdown",
+  "level": "B1",
+  "functions": ["handling-problems", "requesting", "asking-info", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gọi dịch vụ cứu hộ và mô tả rõ tình huống xe bị hỏng",
+    "Báo vị trí và loại sự cố (thủng lốp, hết ắc-quy, quá nhiệt)",
+    "Hỏi về thời gian chờ, chi phí và cách xử lý tiếp theo",
+    "Dùng câu dài tự nhiên với 'because', 'so', 'although', mệnh đề quan hệ khi báo sự cố"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to break down",
+      "ipa": "/breɪk daʊn/",
+      "vi": "hỏng máy, chết máy giữa đường (động từ)",
+      "register": "neutral",
+      "example": "My car broke down on the highway this morning.",
+      "exampleVi": "Sáng nay xe tôi chết máy trên đường cao tốc.",
+      "note": "Cụm động từ chỉ xe ngừng hoạt động đột ngột. Danh từ là 'breakdown' (viết liền): 'I had a breakdown on the motorway'.",
+      "synonyms": [
+        { "term": "to stall", "ipa": "/stɔːl/", "register": "neutral", "nuanceVi": "Nhấn 'máy chết ngỏm bất ngờ', thường khi đang chạy hoặc dừng đèn đỏ. Hẹp hơn 'break down' (vốn chỉ hỏng nói chung)." },
+        { "term": "to conk out", "ipa": "/kɒŋk aʊt/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'tịt luôn, không nổ nữa'. Hợp khi nói chuyện thân mật, kém trang trọng hơn 'break down'." }
+      ]
+    },
+    {
+      "term": "flat tire",
+      "ipa": "/flæt ˈtaɪər/",
+      "vi": "lốp xẹp / lốp thủng (danh từ)",
+      "register": "neutral",
+      "example": "I think I have a flat tire on the front left wheel.",
+      "exampleVi": "Tôi nghĩ lốp trước bên trái bị xẹp rồi.",
+      "note": "Anh-Mỹ viết 'tire', Anh-Anh viết 'tyre'. 'flat' nghĩa là xẹp/hết hơi. Động từ liên quan: 'to get a puncture' (bị thủng lốp).",
+      "synonyms": [
+        { "term": "puncture", "ipa": "/ˈpʌŋk.tʃər/", "register": "neutral", "nuanceVi": "Danh từ, nhấn vào 'lỗ thủng do vật nhọn'. Người Anh hay nói 'I've got a puncture' thay cho 'flat tire'." },
+        { "term": "blowout", "ipa": "/ˈbləʊ.aʊt/", "register": "neutral", "nuanceVi": "Nhấn 'lốp nổ/bục đột ngột' khi đang chạy — nghiêm trọng và nguy hiểm hơn lốp xẹp từ từ." }
+      ]
+    },
+    {
+      "term": "to tow",
+      "ipa": "/təʊ/",
+      "vi": "kéo (xe) đi (động từ)",
+      "register": "neutral",
+      "example": "They will tow my car to the nearest garage.",
+      "exampleVi": "Họ sẽ kéo xe tôi đến gara gần nhất.",
+      "note": "Phát âm /təʊ/, KHÔNG đọc thành /taʊ/. Xe cứu hộ kéo xe gọi là 'tow truck'.",
+      "synonyms": [
+        { "term": "to haul", "ipa": "/hɔːl/", "register": "neutral", "nuanceVi": "Nghĩa rộng 'kéo/chở vật nặng', không chỉ riêng xe. 'tow' chuyên dùng cho việc một xe kéo một xe khác." }
+      ]
+    },
+    {
+      "term": "to overheat",
+      "ipa": "/ˌəʊ.vəˈhiːt/",
+      "vi": "quá nhiệt, nóng máy (động từ)",
+      "register": "neutral",
+      "example": "The engine started to overheat after an hour of driving.",
+      "exampleVi": "Động cơ bắt đầu quá nhiệt sau một tiếng chạy xe.",
+      "note": "Động từ. Khi máy overheat, đồng hồ nhiệt độ tăng cao và có thể bốc hơi nước từ nắp capô.",
+      "synonyms": []
+    },
+    {
+      "term": "roadside assistance",
+      "ipa": "/ˈrəʊd.saɪd əˈsɪs.təns/",
+      "vi": "dịch vụ cứu hộ giao thông (danh từ)",
+      "register": "neutral",
+      "example": "Luckily, my insurance includes roadside assistance.",
+      "exampleVi": "May là bảo hiểm của tôi có kèm dịch vụ cứu hộ.",
+      "note": "Cụm danh từ chỉ dịch vụ đến tận nơi sửa/kéo xe khi bạn gặp sự cố trên đường.",
+      "synonyms": [
+        { "term": "breakdown service", "ipa": "/ˈbreɪk.daʊn ˈsɜː.vɪs/", "register": "neutral", "nuanceVi": "Người Anh hay dùng cụm này; nghĩa gần như y hệt 'roadside assistance' của người Mỹ." }
+      ]
+    },
+    {
+      "term": "mechanic",
+      "ipa": "/məˈkæn.ɪk/",
+      "vi": "thợ sửa xe (danh từ)",
+      "register": "neutral",
+      "example": "The mechanic said the problem was the battery.",
+      "exampleVi": "Thợ sửa xe nói vấn đề nằm ở ắc-quy.",
+      "note": "Người sửa máy móc/ô tô. Nơi làm việc là 'garage' (gara) hoặc 'repair shop'.",
+      "synonyms": [
+        { "term": "technician", "ipa": "/tekˈnɪʃ.ən/", "register": "formal", "nuanceVi": "Trang trọng hơn, chỉ người có chuyên môn kỹ thuật nói chung, không chỉ riêng ô tô." }
+      ]
+    },
+    {
+      "term": "to jump-start",
+      "ipa": "/ˈdʒʌmp.stɑːt/",
+      "vi": "câu/kích ắc-quy để khởi động lại (động từ)",
+      "register": "neutral",
+      "example": "Could you help me jump-start my car?",
+      "exampleVi": "Anh giúp tôi câu bình khởi động xe được không?",
+      "note": "Dùng dây câu nối với một xe khác để khởi động xe hết ắc-quy. Dây đó gọi là 'jumper cables'.",
+      "synonyms": []
+    },
+    {
+      "term": "stranded",
+      "ipa": "/ˈstræn.dɪd/",
+      "vi": "bị kẹt lại, mắc cạn không đi được (tính từ)",
+      "register": "neutral",
+      "example": "We were stranded on the roadside for over an hour.",
+      "exampleVi": "Chúng tôi bị kẹt bên đường hơn một tiếng.",
+      "note": "Tính từ, nhấn cảm giác bị mắc kẹt một chỗ, không có cách di chuyển tiếp.",
+      "synonyms": [
+        { "term": "stuck", "ipa": "/stʌk/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa rộng 'bị kẹt'. 'stranded' nghe nghiêm trọng và bất lực hơn (kẹt nơi xa xôi, không ai giúp)." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "This is fairly urgent because I have small children in the car.",
+      "exampleVi": "Việc này khá gấp vì tôi có con nhỏ trên xe.",
+      "note": "Tính từ. Dùng để báo mức độ ưu tiên khi gọi cứu hộ. Trạng từ: 'urgently'.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'cần giải quyết ngay, không thể trì hoãn'. Vd 'a pressing matter'." }
+      ]
+    },
+    {
+      "term": "immediately",
+      "ipa": "/ɪˈmiː.di.ət.li/",
+      "vi": "ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "Please send someone immediately if possible.",
+      "exampleVi": "Làm ơn cử người đến ngay nếu có thể.",
+      "note": "Trạng từ chỉ 'không chậm trễ'. Phát âm chú ý trọng âm rơi vào 'me': /ɪˈmiː.di.ət.li/.",
+      "synonyms": [
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, dễ nói, nghĩa 'ngay bây giờ'. Tự nhiên trong hội thoại hơn 'immediately' (hơi trang trọng)." },
+        { "term": "promptly", "ipa": "/ˈprɒmpt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nhanh chóng, đúng lúc, không lề mề'. Hay gặp trong văn cảnh dịch vụ chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "shoulder",
+      "ipa": "/ˈʃəʊl.dər/",
+      "vi": "lề đường (phần đỗ khẩn cấp bên đường cao tốc) (danh từ)",
+      "register": "neutral",
+      "example": "I've pulled over onto the shoulder of the motorway.",
+      "exampleVi": "Tôi đã tấp vào lề khẩn cấp của đường cao tốc.",
+      "note": "Ngoài nghĩa 'vai', 'shoulder' còn là dải lề khẩn cấp bên đường để xe hỏng tấp vào. 'hard shoulder' (Anh-Anh).",
+      "synonyms": []
+    },
+    {
+      "term": "to pull over",
+      "ipa": "/pʊl ˈəʊ.vər/",
+      "vi": "tấp xe vào lề, dừng xe bên đường (động từ)",
+      "register": "neutral",
+      "example": "I managed to pull over safely before the engine died.",
+      "exampleVi": "Tôi kịp tấp vào lề an toàn trước khi máy tắt hẳn.",
+      "note": "Cụm động từ chỉ việc đánh xe vào lề và dừng lại, thường vì lý do an toàn hoặc sự cố.",
+      "synonyms": [
+        { "term": "to pull up", "ipa": "/pʊl ʌp/", "register": "neutral", "nuanceVi": "Nhấn 'dừng hẳn lại tại một điểm' (vd trước cửa nhà), không nhất thiết là tấp vào lề vì sự cố." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling because my car has [vấn đề] and I need [yêu cầu].",
+      "use": "Mở đầu cuộc gọi cứu hộ, nêu lý do và nhu cầu trong một câu.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling because my car has broken down and I need someone to tow it.",
+        "I'm calling because my car has a flat tire and I need urgent help."
+      ],
+      "explanationVi": "'because' nối lý do, gộp 'tại sao gọi' và 'cần gì' vào một câu mượt thay vì nói cụt từng ý. Rất hợp cấp độ B1."
+    },
+    {
+      "pattern": "My car has [vấn đề], so I had to pull over onto the [vị trí].",
+      "use": "Mô tả sự cố kèm hành động bạn đã làm.",
+      "register": "neutral",
+      "examples": [
+        "My car has overheated, so I had to pull over onto the shoulder.",
+        "The engine has stalled, so I had to pull over onto the side of the road."
+      ],
+      "explanationVi": "'so' chỉ kết quả/hệ quả (vì vậy). Câu cho người trực tổng đài hình dung được tình huống và vị trí của bạn."
+    },
+    {
+      "pattern": "Could you send [người/xe] as soon as possible?",
+      "use": "Đề nghị cử người đến giúp một cách lịch sự nhưng khẩn trương.",
+      "register": "neutral",
+      "examples": [
+        "Could you send a tow truck as soon as possible?",
+        "Could you send a mechanic as soon as possible, please?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. 'as soon as possible' (càng sớm càng tốt) nhấn sự khẩn cấp mà vẫn nhã nhặn.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "Would it be possible to [động từ] within [khoảng thời gian]?",
+      "use": "Hỏi tế nhị xem có thể giúp trong khung thời gian mong muốn không.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get someone here within thirty minutes?",
+        "Would it be possible to repair it on the spot?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi bạn xin một việc mà người ta có thể từ chối (đến nhanh hơn, sửa tại chỗ).",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "I'm located [vị trí cụ thể], near [điểm mốc].",
+      "use": "Báo vị trí của bạn để xe cứu hộ tìm tới.",
+      "register": "neutral",
+      "examples": [
+        "I'm located on Highway 1, near exit 12.",
+        "I'm located on the shoulder of the motorway, near a petrol station."
+      ],
+      "explanationVi": "'located' = đang ở vị trí. Nêu kèm điểm mốc ('near + danh từ') giúp người ta định vị nhanh — cực kỳ quan trọng khi cứu hộ."
+    },
+    {
+      "pattern": "Although [mệnh đề], I'm worried about [danh từ / V-ing].",
+      "use": "Bày tỏ lo lắng kèm bối cảnh, nghe người lớn và mạch lạc.",
+      "register": "neutral",
+      "examples": [
+        "Although I've pulled over safely, I'm worried about the heavy traffic.",
+        "Although the car still starts, I'm worried about driving it any further."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù…). Bộ đôi 'Although…, I'm worried about…' giúp diễn đạt cảm xúc lo lắng một cách trôi chảy ở mức B1."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin vừa nói mà không muốn nghe cộc.", "example": "Actually, it's the front tire, not the back one." },
+    { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "vi": "may mắn thay", "when": "Dẫn vào một điều tích cực giữa tình huống xấu.", "example": "Luckily, I managed to pull over before the engine died." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu nói chân thành, hơi lo lắng.", "example": "Honestly, I have no idea what's wrong with the car." },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Bày tỏ mong muốn về kết quả sắp tới.", "example": "Hopefully, it's nothing serious and you can fix it here." },
+    { "term": "right now", "ipa": "/raɪt naʊ/", "vi": "ngay bây giờ", "when": "Nhấn tính tức thời của tình huống hoặc yêu cầu.", "example": "I'm stranded on the highway right now." }
+  ],
+
+  "dialogue": {
+    "context": "Xe của bạn vừa chết máy trên đường cao tốc. Bạn tấp vào lề và gọi cho tổng đài dịch vụ cứu hộ để được giúp đỡ.",
+    "lines": [
+      {
+        "speaker": "Tổng đài",
+        "text": "Roadside Assistance, good afternoon. How can I help you today?",
+        "ipa": "/ˈrəʊd.saɪd əˈsɪs.təns ɡʊd ˌɑːf.təˈnuːn haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Dịch vụ cứu hộ xin nghe, chào buổi chiều. Tôi có thể giúp gì cho quý khách ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi, I'm calling ____ my car has just broken down on the highway, and I need someone to come and help me as soon as possible.",
+        "ipa": "/haɪ aɪm ˈkɔː.lɪŋ ... maɪ kɑːr hæz dʒʌst ˈbrəʊ.kən daʊn ɒn ðə ˈhaɪ.weɪ ænd aɪ niːd ˈsʌm.wʌn tə kʌm ænd help miː æz suːn æz ˈpɒs.ə.bəl/",
+        "vi": "Chào anh/chị, tôi gọi ____ xe tôi vừa chết máy trên đường cao tốc, và tôi cần ai đó đến giúp càng sớm càng tốt.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "because",
+            "explanationVi": "Dùng 'because' để nối lý do gọi điện. Xem mẫu câu 'I'm calling because my car has...'. Câu gộp lý do và nhu cầu nghe trôi chảy hơn nói cụt."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "I'm sorry to hear that. Could you tell me exactly what happened and whether you've managed to pull over safely?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt kʊd juː tel miː ɪɡˈzækt.li wɒt ˈhæp.ənd ænd ˈweð.ər juːv ˈmæn.ɪdʒd tə pʊl ˈəʊ.vər ˈseɪf.li/",
+        "vi": "Tôi rất tiếc khi nghe vậy. Quý khách có thể cho biết chính xác chuyện gì đã xảy ra và đã tấp vào lề an toàn chưa ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Luckily, yes. The engine started to overheat, ____ I had to pull over onto the shoulder. Although I'm safe for now, I'm a bit worried because the traffic here is quite heavy.",
+        "ipa": "/ˈlʌk.ɪ.li jes ðə ˈen.dʒɪn ˈstɑː.tɪd tə ˌəʊ.vəˈhiːt ... aɪ hæd tə pʊl ˈəʊ.vər ˈɒn.tuː ðə ˈʃəʊl.dər ɔːlˈðəʊ aɪm seɪf fɔːr naʊ aɪm ə bɪt ˈwʌr.id bɪˈkɒz ðə ˈtræf.ɪk hɪər ɪz kwaɪt ˈhev.i/",
+        "vi": "May là rồi ạ. Động cơ bắt đầu quá nhiệt, ____ tôi phải tấp vào lề khẩn cấp. Mặc dù giờ tôi an toàn, tôi hơi lo vì giao thông ở đây khá đông.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "so",
+            "explanationVi": "Dùng 'so' để chỉ kết quả (vì vậy): máy quá nhiệt nên phải tấp vào lề. Xem mẫu câu 'My car has..., so I had to pull over...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "I understand. To send help quickly, could you please give me your exact location, such as the road name or the nearest exit?",
+        "ipa": "/aɪ ˌʌn.dəˈstænd tə send help ˈkwɪk.li kʊd juː pliːz ɡɪv miː jɔːr ɪɡˈzækt ləʊˈkeɪ.ʃən sʌtʃ æz ðə rəʊd neɪm ɔːr ðə ˈnɪə.rɪst ˈek.sɪt/",
+        "vi": "Tôi hiểu rồi. Để cử người đến nhanh, quý khách vui lòng cho biết vị trí chính xác, chẳng hạn tên đường hoặc lối ra gần nhất được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. I'm located on Highway 1, near ____, which is about two kilometers after the petrol station. There's a blue road sign right next to my car.",
+        "ipa": "/ɒv kɔːs aɪm ləʊˈkeɪ.tɪd ɒn ˈhaɪ.weɪ wʌn nɪər ... wɪtʃ ɪz əˈbaʊt tuː kɪˈlɒm.ɪ.təz ˈɑːf.tər ðə ˈpet.rəl ˈsteɪ.ʃən ðeəz ə bluː rəʊd saɪn raɪt nekst tə maɪ kɑːr/",
+        "vi": "Vâng ạ. Tôi đang ở trên Quốc lộ 1, gần ____, cách trạm xăng khoảng hai cây số. Có một biển báo màu xanh ngay cạnh xe tôi.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một điểm mốc gần bạn. Ví dụ: 'exit 12', 'the shopping mall', 'a big bridge'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Perfect, that's very helpful. We'll send a tow truck right away, although it may take around thirty minutes because of the traffic. Is anyone else in the car with you?",
+        "ipa": "/ˈpɜː.fɪkt ðæts ˈver.i ˈhelp.fəl wiːl send ə təʊ trʌk raɪt əˈweɪ ɔːlˈðəʊ ɪt meɪ teɪk əˈraʊnd ˈθɜː.ti ˈmɪn.ɪts bɪˈkɒz ɒv ðə ˈtræf.ɪk ɪz ˈen.i.wʌn els ɪn ðə kɑːr wɪð juː/",
+        "vi": "Tuyệt, thông tin rất hữu ích. Chúng tôi sẽ cử xe cứu hộ đến ngay, mặc dù có thể mất khoảng ba mươi phút vì giao thông. Còn ai khác trong xe cùng quý khách không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, my two children are with me, ____ I'd really appreciate it if you could get here quickly. Could you also tell me whether the service is covered by my insurance?",
+        "ipa": "/jes maɪ tuː ˈtʃɪl.drən ɑːr wɪð miː ... aɪd ˈrɪə.li əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd ɡet hɪər ˈkwɪk.li kʊd juː ˈɔːl.səʊ tel miː ˈweð.ər ðə ˈsɜː.vɪs ɪz ˈkʌv.əd baɪ maɪ ɪnˈʃʊə.rəns/",
+        "vi": "Vâng, hai con tôi đang ở cùng, ____ tôi sẽ rất biết ơn nếu anh/chị đến nhanh. Anh/chị cũng cho tôi biết liệu dịch vụ này có được bảo hiểm chi trả không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "so",
+            "explanationVi": "Dùng 'so' để chỉ kết quả: có con nhỏ trên xe nên mong đến nhanh. Đây cũng là mẫu nối kết quả như ở câu trên."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Don't worry, your plan covers the towing fee, and the driver who is on the way will call you when he arrives. Please stay safely away from the road while you wait.",
+        "ipa": "/dəʊnt ˈwʌr.i jɔːr plæn ˈkʌv.əz ðə ˈtəʊ.ɪŋ fiː ænd ðə ˈdraɪ.vər huː ɪz ɒn ðə weɪ wɪl kɔːl juː wen hiː əˈraɪvz pliːz steɪ ˈseɪf.li əˈweɪ frɒm ðə rəʊd waɪl juː weɪt/",
+        "vi": "Quý khách đừng lo, gói bảo hiểm của quý khách có chi trả phí kéo xe, và tài xế đang trên đường sẽ gọi cho quý khách khi đến nơi. Trong lúc chờ, xin hãy đứng tránh xa lòng đường để an toàn ạ."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trên đường cao tốc ở nhiều nước phương Tây, khi xe hỏng bạn phải tấp vào 'shoulder' (lề khẩn cấp), bật đèn cảnh báo (hazard lights) và đứng tránh xa lòng đường — tuyệt đối không sửa xe ở làn chạy.",
+    "Nhiều gói bảo hiểm xe hoặc thẻ tín dụng đã bao gồm 'roadside assistance' miễn phí; nên kiểm tra trước khi tự thuê dịch vụ để khỏi tốn tiền.",
+    "Khi gọi cứu hộ, việc báo điểm mốc cụ thể (lối ra, trạm xăng, cột số km) quan trọng hơn địa chỉ chung chung, vì đường cao tốc rất khó định vị.",
+    "Ở Anh có các tổ chức cứu hộ nổi tiếng như AA và RAC; ở Mỹ phổ biến nhất là AAA. Số khẩn cấp và dịch vụ có thể khác nhau tùy quốc gia."
+  ],
+
+  "commonMistakes": [
+    "Nói 'My car is broken' (nghe như hỏng vĩnh viễn) thay vì 'My car broke down' / 'has broken down' (chết máy giữa đường). Dùng cụm động từ 'break down' mới đúng ngữ cảnh.",
+    "Phát âm sai 'to tow': đọc đúng là /təʊ/ (giống 'toe'), KHÔNG đọc thành /taʊ/ như 'town'.",
+    "Quên mạo từ 'a': phải nói 'I have A flat tire', không phải 'I have flat tire'.",
+    "Yêu cầu cộc lốc kiểu 'Come now!'. Hãy bọc bằng 'Could you send someone as soon as possible?' để vừa lịch sự vừa khẩn trương."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống gọi cứu hộ như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài dịch vụ cứu hộ giao thông nói tiếng Anh. Tôi là tài xế có xe vừa bị hỏng giữa đường. Hãy bắt đầu bằng cách chào và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên tổng đài thật (hỏi vị trí, loại sự cố, có ai trên xe không), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (xe cứu hộ kẹt xe đến trễ, hỏi thêm biển số, báo phí phát sinh) để tôi tập xử lý. Khuyến khích tôi dùng câu dài với 'because', 'so', 'although'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho điểm phần mô tả sự cố của tôi.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được loại sự cố (chết máy, thủng lốp, quá nhiệt) bằng đúng cụm động từ mà không nhìn gợi ý.",
+    "Tôi báo được vị trí của mình kèm ít nhất một điểm mốc cụ thể.",
+    "Tôi dùng được 'because', 'so' và 'although' để nối câu khi báo sự cố."
+  ]
+}

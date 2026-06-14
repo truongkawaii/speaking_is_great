@@ -1,0 +1,440 @@
+{
+  "id": "exchanging-money",
+  "category": "travel",
+  "title": "Đổi tiền",
+  "titleEn": "Exchanging Money",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi và đổi tiền tại quầy đổi ngoại tệ hoặc ngân hàng",
+    "Hỏi về tỉ giá và phí dịch vụ trước khi đổi",
+    "Yêu cầu lịch sự loại tờ tiền mình muốn (tiền nhỏ, tiền lớn)",
+    "Xử lý khi muốn đếm lại tiền hoặc khi có nhầm lẫn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to exchange",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "vi": "đổi (tiền) (động từ)",
+      "register": "neutral",
+      "example": "I'd like to exchange some money, please.",
+      "exampleVi": "Tôi muốn đổi một ít tiền.",
+      "note": "Động từ. Cụm hay dùng: 'exchange A for B' (đổi A lấy B). Danh từ là 'exchange'.",
+      "synonyms": [
+        {
+          "term": "to change",
+          "ipa": "/tʃeɪndʒ/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, ngắn gọn: 'change dollars into dong'. Nghĩa gần y hệt nhưng nghe bình dân hơn 'exchange'."
+        },
+        {
+          "term": "to convert",
+          "ipa": "/kənˈvɜːt/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, nhấn việc 'chuyển từ loại tiền này sang loại tiền khác'. Hay gặp trên ứng dụng/biển hiệu."
+        }
+      ]
+    },
+    {
+      "term": "currency",
+      "ipa": "/ˈkʌr.ən.si/",
+      "vi": "tiền tệ / loại tiền của một nước (danh từ)",
+      "register": "neutral",
+      "example": "What currency would you like?",
+      "exampleVi": "Bạn muốn loại tiền nào?",
+      "note": "Danh từ. Vd: US dollar, euro, yen là các 'currencies' khác nhau.",
+      "synonyms": [
+        {
+          "term": "money",
+          "ipa": "/ˈmʌn.i/",
+          "register": "casual",
+          "nuanceVi": "Chung chung, đời thường, là 'tiền' nói chung. 'currency' cụ thể hơn, chỉ loại tiền của một quốc gia."
+        }
+      ]
+    },
+    {
+      "term": "exchange rate",
+      "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+      "vi": "tỉ giá hối đoái (danh từ)",
+      "register": "neutral",
+      "example": "What is the exchange rate today?",
+      "exampleVi": "Hôm nay tỉ giá là bao nhiêu?",
+      "note": "Cụm danh từ. Đây là con số cho biết 1 đồng tiền này đổi được bao nhiêu đồng tiền kia.",
+      "synonyms": [
+        {
+          "term": "rate",
+          "ipa": "/reɪt/",
+          "register": "neutral",
+          "nuanceVi": "Cách nói ngắn của 'exchange rate' khi ngữ cảnh đã rõ: 'What's the rate today?'. Rất tự nhiên."
+        }
+      ]
+    },
+    {
+      "term": "commission",
+      "ipa": "/kəˈmɪʃ.ən/",
+      "vi": "phí dịch vụ (khi đổi tiền) (danh từ)",
+      "register": "neutral",
+      "example": "Do you charge any commission?",
+      "exampleVi": "Có tính phí dịch vụ không?",
+      "note": "Danh từ. Là khoản phí quầy đổi tiền thu thêm. Nhớ hỏi trước để tránh bị tính phí bất ngờ.",
+      "synonyms": [
+        {
+          "term": "fee",
+          "ipa": "/fiː/",
+          "register": "neutral",
+          "nuanceVi": "Nghĩa rộng hơn 'phí' nói chung. 'commission' cụ thể là phí hoa hồng theo phần trăm giao dịch."
+        },
+        {
+          "term": "charge",
+          "ipa": "/tʃɑːdʒ/",
+          "register": "neutral",
+          "nuanceVi": "Khoản tiền bị tính, có thể là phí cố định. Vd 'a small service charge'."
+        }
+      ]
+    },
+    {
+      "term": "cash",
+      "ipa": "/kæʃ/",
+      "vi": "tiền mặt (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to pay in cash.",
+      "exampleVi": "Tôi muốn trả bằng tiền mặt.",
+      "note": "Danh từ không đếm được. Trái với 'card' (thẻ). Cụm: 'in cash' (bằng tiền mặt)."
+    },
+    {
+      "term": "banknote",
+      "ipa": "/ˈbæŋk.nəʊt/",
+      "vi": "tờ tiền giấy (danh từ)",
+      "register": "neutral",
+      "example": "Could I have small banknotes, please?",
+      "exampleVi": "Tôi xin tờ tiền nhỏ được không?",
+      "note": "Danh từ. Người Mỹ thường gọi là 'bill'. Tiền xu là 'coin'.",
+      "synonyms": [
+        {
+          "term": "bill",
+          "ipa": "/bɪl/",
+          "register": "casual",
+          "nuanceVi": "Cách gọi của người Mỹ cho tờ tiền giấy: 'a ten-dollar bill'. Anh-Anh dùng 'note/banknote'."
+        },
+        {
+          "term": "note",
+          "ipa": "/nəʊt/",
+          "register": "neutral",
+          "nuanceVi": "Cách nói ngắn của 'banknote', rất phổ biến ở Anh: 'a twenty-pound note'."
+        }
+      ]
+    },
+    {
+      "term": "small",
+      "ipa": "/smɔːl/",
+      "vi": "nhỏ (mệnh giá thấp) (tính từ)",
+      "register": "neutral",
+      "example": "Can I have some small notes, please?",
+      "exampleVi": "Cho tôi vài tờ tiền nhỏ được không?",
+      "note": "Tính từ. 'small notes/bills' = tờ mệnh giá thấp (5, 10, 20), tiện trả khi mua đồ. Trái nghĩa: 'large'.",
+      "synonyms": [
+        {
+          "term": "low",
+          "ipa": "/ləʊ/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn vào 'mệnh giá thấp': 'low-value notes'. Hơi kỹ thuật hơn 'small'."
+        }
+      ]
+    },
+    {
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vi": "biên lai / hóa đơn (danh từ)",
+      "register": "neutral",
+      "example": "Could I have a receipt, please?",
+      "exampleVi": "Tôi xin biên lai được không?",
+      "note": "Danh từ. Bẫy phát âm: chữ 'p' CÂM, đọc là /rɪˈsiːt/, không đọc 'p'."
+    },
+    {
+      "term": "to count",
+      "ipa": "/kaʊnt/",
+      "vi": "đếm (động từ)",
+      "register": "neutral",
+      "example": "Let me count the money first.",
+      "exampleVi": "Để tôi đếm tiền trước đã.",
+      "note": "Động từ. Nên đếm lại tiền ngay tại quầy trước khi rời đi.",
+      "synonyms": [
+        {
+          "term": "to check",
+          "ipa": "/tʃek/",
+          "register": "neutral",
+          "nuanceVi": "Nghĩa 'kiểm tra' rộng hơn, gồm cả đếm và xem có đúng không: 'check the amount'."
+        }
+      ]
+    },
+    {
+      "term": "enough",
+      "ipa": "/ɪˈnʌf/",
+      "vi": "đủ (tính từ / trạng từ)",
+      "register": "neutral",
+      "example": "I don't have enough cash with me.",
+      "exampleVi": "Tôi không mang đủ tiền mặt.",
+      "note": "Đứng TRƯỚC danh từ ('enough money') nhưng đứng SAU tính từ/trạng từ ('big enough'). Bẫy phát âm: /ɪˈnʌf/."
+    },
+    {
+      "term": "approximately",
+      "ipa": "/əˈprɒk.sɪ.mət.li/",
+      "vi": "khoảng chừng (trạng từ)",
+      "register": "formal",
+      "example": "That's approximately two million dong.",
+      "exampleVi": "Như vậy là khoảng hai triệu đồng.",
+      "note": "Trạng từ. Dùng khi nói con số ước lượng, không chính xác tuyệt đối.",
+      "synonyms": [
+        {
+          "term": "about",
+          "ipa": "/əˈbaʊt/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, ngắn gọn, ai cũng dùng: 'about two million'. Nghĩa y hệt nhưng đỡ trang trọng."
+        },
+        {
+          "term": "roughly",
+          "ipa": "/ˈrʌf.li/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'ước lượng nhanh, không chính xác': 'roughly fifty dollars'. Tự nhiên trong nói chuyện."
+        }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to exchange [số tiền] [loại tiền] into [loại tiền], please.",
+      "use": "Nói rõ bạn muốn đổi bao nhiêu và từ loại tiền nào sang loại nào.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to exchange 100 dollars into dong, please.",
+        "I'd like to change 50 euros into pounds, please."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want to'. Cụm 'exchange A into B' = đổi A sang B. Đây là câu mở đầu chuẩn ở quầy.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Can I [động từ nguyên thể], please?",
+      "use": "Yêu cầu hoặc xin phép một việc đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "Can I have small notes, please?",
+        "Can I get a receipt, please?"
+      ],
+      "explanationVi": "'Can I...?' đơn giản, lịch sự, hợp cấp độ A2. Thêm 'please' ở cuối cho lịch sự hơn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể], please?",
+      "use": "Yêu cầu lịch sự hơn một chút khi nói với người lạ (nhân viên).",
+      "register": "neutral",
+      "examples": [
+        "Could I have some smaller banknotes, please?",
+        "Could I see the exchange rate, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?'. Cùng chức năng nên xếp chung nhóm 'making-request'. Dùng cái nào cũng đúng.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "What is the [danh từ] today?",
+      "use": "Hỏi thông tin như tỉ giá, phí.",
+      "register": "neutral",
+      "examples": [
+        "What is the exchange rate today?",
+        "What is the rate for US dollars?"
+      ],
+      "explanationVi": "Mẫu hỏi thông tin cơ bản với 'What is...?'. Rất hữu ích để biết tỉ giá trước khi quyết định đổi."
+    },
+    {
+      "pattern": "Do you charge any [danh từ]?",
+      "use": "Hỏi xem có bị thu phí thêm không.",
+      "register": "neutral",
+      "examples": [
+        "Do you charge any commission?",
+        "Do you charge any fee for this?"
+      ],
+      "explanationVi": "'charge' ở đây là động từ 'tính phí'. Câu này giúp bạn tránh bị tính phí bất ngờ — nên hỏi trước khi đổi."
+    },
+    {
+      "pattern": "How much is that in [loại tiền]?",
+      "use": "Hỏi quy đổi ra một loại tiền cụ thể là bao nhiêu.",
+      "register": "neutral",
+      "examples": [
+        "How much is that in dong?",
+        "How much is 100 dollars in pounds?"
+      ],
+      "explanationVi": "Câu hỏi rất thực dụng để biết mình sẽ nhận được bao nhiêu sau khi đổi."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại điều mình vừa nói mà không muốn cộc lốc.",
+      "example": "Actually, can I have it in smaller notes?"
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi.",
+      "example": "I just want to change a little money."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, do you charge any commission?"
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːs/",
+      "vi": "tất nhiên rồi",
+      "when": "Đáp lại đồng ý một cách thân thiện, lịch sự.",
+      "example": "Of course, here is your receipt."
+    },
+    {
+      "term": "let me see",
+      "ipa": "/let miː siː/",
+      "vi": "để tôi xem nào",
+      "when": "Câu đệm khi cần một chút thời gian để kiểm tra/tính toán.",
+      "example": "Let me see... the rate is 25,000 today."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang đi du lịch và tới một quầy đổi tiền để đổi đô la Mỹ sang tiền Việt (đồng). Bạn muốn hỏi tỉ giá, phí và xin tờ tiền nhỏ.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng! Hôm nay tôi có thể giúp gì cho bạn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to ____ some money, please. I have 200 US dollars.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tə ... sʌm ˈmʌn.i pliːz aɪ hæv tuː ˈhʌn.drəd juː es ˈdɒl.əz/",
+        "vi": "Chào buổi sáng. Tôi muốn ____ một ít tiền. Tôi có 200 đô la Mỹ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "exchange",
+            "explanationVi": "Dùng động từ 'exchange' (đổi tiền). Mẫu câu: 'I'd like to exchange... into...'. Có thể thay bằng 'change' khi nói chuyện bình dân."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Sure. You'd like to change them into dong, ____ ?",
+        "ipa": "/ʃʊə juːd laɪk tə tʃeɪndʒ ðəm ˈɪn.tə dɒŋ ... /",
+        "vi": "Được thôi. Bạn muốn đổi sang đồng, ____ nhỉ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "right",
+            "explanationVi": "Câu hỏi đuôi đời thường 'right?' = 'đúng không?'. Dùng để xác nhận lại điều vừa nói, rất tự nhiên trong giao tiếp A2."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. What is the exchange ____ today? And do you charge any commission?",
+        "ipa": "/jes pliːz wɒt ɪz ði ɪksˈtʃeɪndʒ ... təˈdeɪ ænd duː juː tʃɑːdʒ ˈen.i kəˈmɪʃ.ən/",
+        "vi": "Vâng. Hôm nay tỉ ____ là bao nhiêu? Và bạn có tính phí dịch vụ không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "rate",
+            "explanationVi": "'exchange rate' = tỉ giá hối đoái. Đây là cụm danh từ cố định; hỏi tỉ giá trước khi đổi là thói quen tốt."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me see... The rate is 25,000 dong for one dollar, and there is no commission. So you will get approximately 5,000,000 dong.",
+        "ipa": "/let miː siː ðə reɪt ɪz ˈtwen.ti faɪv ˈθaʊ.zənd dɒŋ fɔːr wʌn ˈdɒl.ə ænd ðeə ɪz nəʊ kəˈmɪʃ.ən səʊ juː wɪl ɡet əˈprɒk.sɪ.mət.li faɪv ˈmɪl.jən dɒŋ/",
+        "vi": "Để tôi xem nào... Tỉ giá là 25.000 đồng cho một đô la, và không có phí. Vậy bạn sẽ nhận được khoảng 5.000.000 đồng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good. Could I have some ____ banknotes, please? I need them for taxis and small shops.",
+        "ipa": "/ðæt saʊndz ɡʊd kʊd aɪ hæv sʌm ... ˈbæŋk.nəʊts pliːz aɪ niːd ðəm fɔː ˈtæk.siz ænd smɔːl ʃɒps/",
+        "vi": "Nghe ổn đấy. Cho tôi vài tờ tiền ____ được không? Tôi cần để đi taxi và mua ở cửa hàng nhỏ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "small",
+            "explanationVi": "'small banknotes/notes' = tờ tiền mệnh giá nhỏ, tiện để trả khi mua đồ lặt vặt. Trái nghĩa là 'large'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. Here is your money. Please ____ it before you leave, just to be sure.",
+        "ipa": "/əv ˈkɔːs hɪər ɪz jɔː ˈmʌn.i pliːz ... ɪt bɪˈfɔː juː liːv dʒʌst tə biː ʃʊə/",
+        "vi": "Tất nhiên rồi. Đây là tiền của bạn. Vui lòng ____ lại trước khi rời đi, cho chắc chắn nhé.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "count",
+            "explanationVi": "Động từ 'count' = đếm. Nên đếm lại tiền ngay tại quầy trước khi đi để tránh nhầm lẫn."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. Everything looks correct. ____ I have a receipt, please?",
+        "ipa": "/θæŋk juː ˈev.ri.θɪŋ lʊks kəˈrekt ... aɪ hæv ə rɪˈsiːt pliːz/",
+        "vi": "Cảm ơn. Mọi thứ có vẻ đúng rồi. ____ cho tôi xin biên lai được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "'Could I have...?' là cách xin lịch sự. Lịch sự hơn 'Can I...?' một chút. Đừng quên chữ 'p' câm trong 'receipt'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Here you are. Have a great trip!",
+        "ipa": "/hɪə juː ɑː hæv ə ɡreɪt trɪp/",
+        "vi": "Của bạn đây. Chúc bạn có chuyến đi vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Nên đổi tiền ở ngân hàng hoặc quầy đổi tiền chính thức (có biển hiệu rõ ràng) thay vì người đổi tiền trên phố để tránh bị lừa hoặc nhận tiền giả.",
+    "Luôn hỏi tỉ giá và phí (commission) TRƯỚC khi đồng ý đổi. Nhiều nơi ghi 'no commission' nhưng lại để tỉ giá xấu hơn.",
+    "Hãy đếm lại tiền ngay tại quầy trước khi rời đi, và giữ biên lai phòng khi cần.",
+    "Ở nhiều nước, sân bay có tỉ giá kém hơn trong thành phố — chỉ nên đổi một ít ở sân bay đủ để đi lại lúc đầu."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want change money' — sai. Phải là 'I want TO change money' hoặc lịch sự hơn 'I'd like to exchange money'.",
+    "Đọc chữ 'p' trong 'receipt'. Chữ 'p' CÂM, đọc là /rɪˈsiːt/.",
+    "Nhầm 'enough' về vị trí: 'enough money' (đứng trước danh từ) nhưng 'big enough' (đứng sau tính từ).",
+    "Quên 'please' hoặc dùng 'Give me...' nghe cộc. Hãy dùng 'Can I...?' / 'Could I...?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đổi tiền như thật.",
+    "prompt": "Hãy đóng vai một nhân viên quầy đổi tiền nói tiếng Anh. Tôi là khách du lịch muốn đổi tiền. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ hết tờ tiền nhỏ, có tính phí, hoặc tôi đưa thiếu tiền) để tôi tập xử lý. Hãy nói chậm và đơn giản vì trình độ của tôi là A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi loại tiền nào và bao nhiêu, để tôi tập nói số và đơn vị tiền.'",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất bằng tiếng Việt.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được câu mở đầu để đổi tiền (I'd like to exchange...) mà không nhìn gợi ý.",
+    "Tôi hỏi được tỉ giá và phí trước khi đổi.",
+    "Tôi xin được tờ tiền nhỏ và biên lai bằng 'Could I...?' / 'Can I...?'."
+  ]
+}

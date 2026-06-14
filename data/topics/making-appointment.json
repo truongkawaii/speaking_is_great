@@ -1,0 +1,407 @@
+{
+  "id": "making-appointment",
+  "category": "daily-life",
+  "title": "Đặt lịch hẹn",
+  "titleEn": "Making an Appointment",
+  "level": "B1",
+  "functions": ["requesting", "asking-info", "suggesting", "negotiating"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gọi điện hoặc đến nơi để đặt một lịch hẹn (bác sĩ, nha sĩ, tiệm cắt tóc, cuộc họp)",
+    "Hỏi và xác nhận ngày, giờ, địa điểm còn trống một cách lịch sự",
+    "Đề nghị đổi giờ hoặc dời lịch khi không phù hợp và thương lượng giờ khác",
+    "Dùng câu vừa phải có 'because', 'such as', mệnh đề quan hệ 'which/who' khi nói qua điện thoại"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "vi": "cuộc hẹn / lịch hẹn (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make an appointment with Dr. Lee.",
+      "exampleVi": "Tôi muốn đặt lịch hẹn với bác sĩ Lee.",
+      "note": "Danh từ. Cụm cố định: 'make an appointment' (đặt hẹn), 'have an appointment' (có hẹn). Khác 'date' (buổi hẹn hò).",
+      "synonyms": [
+        { "term": "meeting", "ipa": "/ˈmiː.tɪŋ/", "register": "neutral", "nuanceVi": "Nghiêng về cuộc gặp công việc giữa nhiều người. 'appointment' thường là một cuộc hẹn riêng với một người/dịch vụ (bác sĩ, nha sĩ)." },
+        { "term": "booking", "ipa": "/ˈbʊk.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn việc 'đặt chỗ trước' (bàn ăn, vé, phòng). Dùng được cho dịch vụ nhưng ít trang trọng hơn 'appointment' khi nói về bác sĩ." }
+      ]
+    },
+    {
+      "term": "to schedule",
+      "ipa": "/ˈskedʒ.uːl/",
+      "vi": "lên lịch, sắp xếp lịch (động từ)",
+      "register": "neutral",
+      "example": "Can we schedule the check-up for next Monday?",
+      "exampleVi": "Chúng ta lên lịch khám vào thứ Hai tới được không?",
+      "note": "Động từ và danh từ viết giống nhau. Anh-Mỹ đọc /ˈskedʒ.uːl/, Anh-Anh đọc /ˈʃed.juːl/. Cả hai đều đúng.",
+      "synonyms": [
+        { "term": "to arrange", "ipa": "/əˈreɪndʒ/", "register": "neutral", "nuanceVi": "Nhấn việc 'thu xếp, dàn xếp' cho ổn thỏa. Rộng hơn 'schedule' (vốn nhấn vào việc gắn vào một mốc thời gian cụ thể)." },
+        { "term": "to set up", "ipa": "/set ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sắp đặt, tổ chức một cuộc hẹn/cuộc gọi'. Vd 'Let's set up a call.' Nghe thân mật hơn." }
+      ]
+    },
+    {
+      "term": "to reschedule",
+      "ipa": "/ˌriːˈskedʒ.uːl/",
+      "vi": "dời lịch, đổi sang lịch khác (động từ)",
+      "register": "neutral",
+      "example": "I'm sorry, but I need to reschedule our meeting.",
+      "exampleVi": "Tôi xin lỗi, nhưng tôi cần dời lại cuộc họp.",
+      "note": "Tiền tố 're-' = làm lại. 'reschedule' = lên lịch lại (giữ cuộc hẹn nhưng đổi giờ), khác 'cancel' (hủy hẳn).",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəʊstˈpəʊn/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'hoãn sang thời điểm muộn hơn'. Chỉ dời về SAU, trong khi 'reschedule' có thể dời tới bất kỳ giờ nào." },
+        { "term": "to put off", "ipa": "/pʊt ɒf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'trì hoãn'. Đôi khi mang ý lười/ngại làm, nên trong ngữ cảnh trang trọng nên dùng 'reschedule' hoặc 'postpone'." }
+      ]
+    },
+    {
+      "term": "to confirm",
+      "ipa": "/kənˈfɜːm/",
+      "vi": "xác nhận (động từ)",
+      "register": "neutral",
+      "example": "Let me confirm: that's Friday at 3 p.m., correct?",
+      "exampleVi": "Để tôi xác nhận lại: thứ Sáu lúc 3 giờ chiều, đúng không ạ?",
+      "note": "Động từ. Cuối cuộc gọi đặt hẹn, người ta thường 'confirm' lại ngày giờ để chắc chắn không nhầm.",
+      "synonyms": [
+        { "term": "to verify", "ipa": "/ˈver.ɪ.faɪ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn việc 'kiểm chứng cho chắc chắn là đúng'. Hơi nặng nề cho một cuộc hẹn thường ngày." },
+        { "term": "to double-check", "ipa": "/ˈdʌb.əl tʃek/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'kiểm tra lại lần nữa cho yên tâm'. Nghe thân thiện, tự nhiên khi nói chuyện." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "còn trống, rảnh (tính từ)",
+      "register": "neutral",
+      "example": "Is the doctor available on Tuesday morning?",
+      "exampleVi": "Bác sĩ có rảnh vào sáng thứ Ba không ạ?",
+      "note": "Tính từ. Dùng cho cả người (rảnh) và lịch/phòng (còn trống). Trái nghĩa: 'unavailable' / 'fully booked' (kín lịch).",
+      "synonyms": [
+        { "term": "free", "ipa": "/friː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rảnh, không bận'. Dùng cho người là chính: 'Are you free at five?'. Nghe thân mật hơn 'available'." },
+        { "term": "open", "ipa": "/ˈəʊ.pən/", "register": "neutral", "nuanceVi": "Nhấn vào 'khoảng thời gian còn để trống' trên lịch. Vd 'I have an open slot at two.' Nói về lịch chứ ít nói về người." }
+      ]
+    },
+    {
+      "term": "slot",
+      "ipa": "/slɒt/",
+      "vi": "khung giờ trống (danh từ)",
+      "register": "neutral",
+      "example": "We have a slot at 4:30 if that works for you.",
+      "exampleVi": "Chúng tôi có một khung giờ lúc 4h30 nếu hợp với anh/chị.",
+      "note": "Danh từ. 'a time slot' = một ô thời gian trên lịch. Rất hay dùng khi đặt hẹn qua điện thoại.",
+      "synonyms": [
+        { "term": "opening", "ipa": "/ˈəʊ.pən.ɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'chỗ trống vừa mới có'. Gần nghĩa 'slot' nhưng nhấn việc 'có một chỗ vừa rảnh ra'." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "It's quite urgent, so I'd prefer the earliest slot.",
+      "exampleVi": "Việc khá gấp, nên tôi muốn khung giờ sớm nhất có thể.",
+      "note": "Tính từ. Khi việc gấp, nói 'It's urgent' giúp được ưu tiên xếp lịch sớm. Trạng từ: 'urgently'.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'cấp bách, cần giải quyết ngay'. Hơi văn vẻ hơn 'urgent'." },
+        { "term": "critical", "ipa": "/ˈkrɪt.ɪ.kəl/", "register": "formal", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'nghiêm trọng, mang tính sống còn'. Đừng lạm dụng cho việc thường — nghe quá nặng." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "thuận tiện, hợp lý (về thời gian/địa điểm) (tính từ)",
+      "register": "neutral",
+      "example": "Would Thursday afternoon be convenient for you?",
+      "exampleVi": "Chiều thứ Năm có thuận tiện cho anh/chị không?",
+      "note": "Tính từ. Mẫu lịch sự khi đề xuất giờ: 'Is ... convenient for you?'. Trái nghĩa: 'inconvenient'.",
+      "synonyms": [
+        { "term": "suitable", "ipa": "/ˈsuː.tə.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'phù hợp, thích hợp'. Rộng hơn 'convenient' (vốn nhấn vào sự tiện lợi, ít gây phiền hà)." }
+      ]
+    },
+    {
+      "term": "in advance",
+      "ipa": "/ɪn ədˈvɑːns/",
+      "vi": "trước (làm gì đó từ trước) (cụm trạng từ)",
+      "register": "neutral",
+      "example": "Please call at least a day in advance to book.",
+      "exampleVi": "Vui lòng gọi trước ít nhất một ngày để đặt lịch.",
+      "note": "Cụm trạng từ chỉ thời gian. 'a week in advance' = trước một tuần. Hay đi với 'book / pay / let someone know'.",
+      "synonyms": [
+        { "term": "beforehand", "ipa": "/bɪˈfɔː.hænd/", "register": "neutral", "nuanceVi": "Nghĩa 'từ trước, sẵn'. Gần nghĩa 'in advance' nhưng thường đứng cuối câu và không kèm khoảng thời gian cụ thể." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "đúng giờ / ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "Please arrive promptly, as the doctor runs on a tight schedule.",
+      "exampleVi": "Vui lòng đến đúng giờ, vì lịch của bác sĩ khá kín.",
+      "note": "Trạng từ. Nghĩa 'không trễ, đúng hẹn'. Khác 'quickly' (nhanh) — 'promptly' nhấn vào đúng thời điểm.",
+      "synonyms": [
+        { "term": "on time", "ipa": "/ɒn taɪm/", "register": "neutral", "nuanceVi": "Cụm đời thường, dễ dùng nhất: 'Please be on time.' Nghĩa 'đúng giờ hẹn'." },
+        { "term": "punctually", "ipa": "/ˈpʌŋk.tʃu.ə.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn phẩm chất 'luôn đúng giờ'. Hơi sách vở hơn 'promptly' trong hội thoại thường ngày." }
+      ]
+    },
+    {
+      "term": "to fit in",
+      "ipa": "/fɪt ɪn/",
+      "vi": "sắp xếp xen vào (cho vừa lịch) (động từ)",
+      "register": "casual",
+      "example": "We can fit you in at 5 p.m. if you don't mind a short wait.",
+      "exampleVi": "Chúng tôi có thể xếp anh/chị vào lúc 5 giờ chiều nếu anh/chị chịu chờ một chút.",
+      "note": "Cụm động từ. 'fit somebody in' = nhét/xen ai đó vào một lịch vốn đã bận. Thân thiện, hay nghe ở phòng khám, tiệm tóc."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to make an appointment with [người/dịch vụ], please.",
+      "use": "Mở đầu cuộc gọi để nói rõ mục đích đặt hẹn.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to make an appointment with the dentist, please.",
+        "Hello, I'd like to make an appointment for a check-up."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want to'. Đây là câu xương sống để mở đầu khi gọi điện đặt hẹn.",
+      "altOf": "requesting-appointment"
+    },
+    {
+      "pattern": "Could I book a slot for [thời gian / dịch vụ]?",
+      "use": "Yêu cầu một khung giờ cụ thể một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I book a slot for this Friday morning?",
+        "Could I book a slot for a haircut tomorrow?"
+      ],
+      "explanationVi": "'Could I...?' nghe lịch sự và khiêm tốn hơn 'Can I...?'. 'book a slot' = đặt một khung giờ trống. Dùng tốt qua điện thoại với người lạ.",
+      "altOf": "requesting-appointment"
+    },
+    {
+      "pattern": "Is [người] available on [ngày] at [giờ]?",
+      "use": "Hỏi xem một mốc thời gian cụ thể có còn trống không.",
+      "register": "neutral",
+      "examples": [
+        "Is the doctor available on Wednesday at 2 p.m.?",
+        "Are you available on Monday morning?"
+      ],
+      "explanationVi": "'available' = còn trống/rảnh. Mẫu này giúp bạn hỏi thẳng vào một mốc giờ mong muốn thay vì hỏi chung chung."
+    },
+    {
+      "pattern": "Would [thời gian] be convenient for you?",
+      "use": "Đề xuất một giờ và hỏi xem có hợp với người kia không.",
+      "register": "formal",
+      "examples": [
+        "Would Thursday afternoon be convenient for you?",
+        "Would 10 a.m. be convenient for you?"
+      ],
+      "explanationVi": "Cách đề xuất giờ rất lịch sự, để người kia thoải mái đồng ý hoặc từ chối. Trang trọng hơn 'Is ... okay?'.",
+      "altOf": "suggesting-time"
+    },
+    {
+      "pattern": "Does [thời gian] work for you?",
+      "use": "Đề xuất một giờ một cách thân thiện, đời thường hơn.",
+      "register": "casual",
+      "examples": [
+        "Does next Tuesday work for you?",
+        "Does 4 o'clock work for you?"
+      ],
+      "explanationVi": "'work for you' = có hợp/tiện cho bạn không. Thân mật, tự nhiên trong hội thoại đời thường. Cùng nhóm với 'Would ... be convenient?' nhưng đỡ trang trọng.",
+      "altOf": "suggesting-time"
+    },
+    {
+      "pattern": "I'm afraid I need to reschedule because [lý do].",
+      "use": "Báo và giải thích lý do cần dời lịch một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'm afraid I need to reschedule because something urgent has come up at work.",
+        "I'm afraid I need to reschedule because I'm not feeling well."
+      ],
+      "explanationVi": "'I'm afraid' làm dịu tin không vui. 'because' mở mệnh đề lý do — nêu lý do giúp việc dời lịch nghe có trách nhiệm hơn."
+    },
+    {
+      "pattern": "Could we move it to [thời gian khác] instead?",
+      "use": "Đề nghị một giờ thay thế khi giờ ban đầu không được.",
+      "register": "neutral",
+      "examples": [
+        "Could we move it to Friday instead?",
+        "Could we move it to the same time next week instead?"
+      ],
+      "explanationVi": "'move it to' = dời sang. 'instead' = thay vào đó. Mẫu này giúp bạn chủ động đề xuất phương án thay vì chỉ hủy."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại hoặc nói điều hơi trái ý mà không muốn cộc lốc.",
+      "example": "Actually, the morning would suit me better than the afternoon."
+    },
+    {
+      "term": "if possible",
+      "ipa": "/ɪf ˈpɒs.ə.bəl/",
+      "vi": "nếu có thể (làm yêu cầu mềm hơn)",
+      "when": "Chèn vào cuối yêu cầu để nghe khiêm tốn, không ép buộc.",
+      "example": "I'd prefer an early slot, if possible."
+    },
+    {
+      "term": "by any chance",
+      "ipa": "/baɪ ˈen.i tʃɑːns/",
+      "vi": "liệu... có không (hỏi dò một cách tế nhị)",
+      "when": "Khi hỏi xem điều mình mong có khả thi không, một cách lịch sự.",
+      "example": "Do you have anything earlier by any chance?"
+    },
+    {
+      "term": "ideally",
+      "ipa": "/aɪˈdɪə.li/",
+      "vi": "lý tưởng nhất là...",
+      "when": "Khi nêu mong muốn tốt nhất của mình nhưng vẫn để ngỏ phương án khác.",
+      "example": "Ideally, I'd like to come in before noon."
+    },
+    {
+      "term": "unfortunately",
+      "ipa": "/ʌnˈfɔː.tʃən.ət.li/",
+      "vi": "rất tiếc là...",
+      "when": "Dẫn vào một tin không thuận lợi (bận, không đến được).",
+      "example": "Unfortunately, I won't be able to make it on Tuesday."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gọi điện đến phòng khám để đặt lịch khám sức khỏe. Lễ tân giúp bạn tìm một khung giờ trống, rồi bạn cần thương lượng đổi sang giờ thuận tiện hơn.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good morning, City Health Clinic. How may I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈsɪt.i helθ ˈklɪn.ɪk haʊ meɪ aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, Phòng khám City Health đây ạ. Hôm nay tôi có thể giúp gì cho anh/chị?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to ____ an appointment with Dr. Pham for a general check-up, please, because I haven't had one in over a year.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tuː ... ən əˈpɔɪnt.mənt wɪð ˈdɒk.tər fæm fɔːr ə ˈdʒen.ər.əl ˈtʃek.ʌp pliːz bɪˈkɔːz aɪ ˈhæv.ənt hæd wʌn ɪn ˈəʊ.vər ə jɪər/",
+        "vi": "Chào buổi sáng. Tôi muốn ____ một lịch hẹn với bác sĩ Pham để khám sức khỏe tổng quát, vì đã hơn một năm rồi tôi chưa khám.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "make",
+            "explanationVi": "Cụm cố định là 'make an appointment' (đặt lịch hẹn). Không dùng 'do' hay 'take'. Xem mẫu câu 'I'd like to make an appointment with...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course. Let me check the calendar for you. The doctor, who is quite busy this week, has a ____ at 9 a.m. on Wednesday. Would that be convenient?",
+        "ipa": "/ɒv kɔːs let miː tʃek ðə ˈkæl.ɪn.dər fɔːr juː ðə ˈdɒk.tər huː ɪz kwaɪt ˈbɪz.i ðɪs wiːk hæz ə ... ət naɪn eɪ em ɒn ˈwenz.deɪ wʊd ðæt biː kənˈviː.ni.ənt/",
+        "vi": "Tất nhiên rồi. Để tôi kiểm tra lịch giúp anh/chị. Bác sĩ, người tuần này khá bận, có một ____ vào 9 giờ sáng thứ Tư. Giờ đó có thuận tiện không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "slot",
+            "explanationVi": "'slot' (khung giờ trống) là từ rất hay dùng khi đặt hẹn: 'a slot at 9 a.m.'. Xem phần Từ vựng."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Actually, the morning is a little difficult for me because of work. Would you have anything later in the day, such as in the afternoon, ____ any chance?",
+        "ipa": "/ˈæk.tʃu.ə.li ðə ˈmɔː.nɪŋ ɪz ə ˈlɪt.əl ˈdɪf.ɪ.kəlt fɔːr miː bɪˈkɔːz ɒv wɜːk wʊd juː hæv ˈen.i.θɪŋ ˈleɪ.tər ɪn ðə deɪ sʌtʃ æz ɪn ðə ˌɑːf.tərˈnuːn ... ˈen.i tʃɑːns/",
+        "vi": "Thật ra buổi sáng hơi khó với tôi vì công việc. Anh/chị có khung giờ nào muộn hơn trong ngày, chẳng hạn buổi chiều, ____ không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "by",
+            "explanationVi": "Cụm 'by any chance' = 'liệu có... không', dùng để hỏi dò một cách tế nhị. Xem phần Trạng từ & cụm từ. Câu cũng dùng 'such as' để nêu ví dụ."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Let me see. We do have an opening at 3:30 p.m. on the same day, although it's our last afternoon slot. If you arrive promptly, the doctor will be able to see you straight away.",
+        "ipa": "/let miː siː wiː duː hæv ən ˈəʊ.pən.ɪŋ ət θriː ˈθɜː.ti piː em ɒn ðə seɪm deɪ ɔːlˈðəʊ ɪts ˈaʊər lɑːst ˌɑːf.tərˈnuːn slɒt ɪf juː əˈraɪv ˈprɒmpt.li ðə ˈdɒk.tər wɪl biː ˈeɪ.bəl tuː siː juː streɪt əˈweɪ/",
+        "vi": "Để tôi xem. Chúng tôi có một chỗ trống lúc 3h30 chiều cùng ngày, mặc dù đó là khung giờ chiều cuối cùng. Nếu anh/chị đến đúng giờ, bác sĩ sẽ khám cho anh/chị ngay."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That works perfectly for me. Could you please ____ the date and time, just so I don't write it down incorrectly?",
+        "ipa": "/ðæt wɜːks ˈpɜː.fɪkt.li fɔːr miː kʊd juː pliːz ... ðə deɪt ænd taɪm dʒʌst səʊ aɪ dəʊnt raɪt ɪt daʊn ˌɪn.kəˈrekt.li/",
+        "vi": "Giờ đó rất hợp với tôi. Anh/chị làm ơn ____ lại ngày giờ giúp tôi được không, để tôi khỏi ghi nhầm?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "confirm",
+            "explanationVi": "'confirm' = xác nhận lại cho chắc. Cuối cuộc gọi nên 'confirm the date and time' để tránh nhầm lẫn. Xem phần Từ vựng."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Certainly. That's a general check-up with Dr. Pham at 3:30 p.m. this Wednesday. Please bring your ID and any previous medical records, ____ you have them.",
+        "ipa": "/ˈsɜː.tən.li ðæts ə ˈdʒen.ər.əl ˈtʃek.ʌp wɪð ˈdɒk.tər fæm ət θriː ˈθɜː.ti piː em ðɪs ˈwenz.deɪ pliːz brɪŋ jɔːr aɪ ˈdiː ænd ˈen.i ˈpriː.vi.əs ˈmed.ɪ.kəl ˈrek.ɔːdz ... juː hæv ðəm/",
+        "vi": "Chắc chắn rồi. Đó là khám tổng quát với bác sĩ Pham lúc 3h30 chiều thứ Tư này. Vui lòng mang theo giấy tờ tùy thân và hồ sơ bệnh án cũ, ____ anh/chị có.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "if",
+            "explanationVi": "'if you have them' = nếu anh/chị có chúng — mệnh đề điều kiện nhẹ, không bắt buộc phải mang. Dùng 'if' để mở mệnh đề điều kiện."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect, thank you. By the way, if anything urgent ____ up beforehand, is it easy to call and reschedule?",
+        "ipa": "/ˈpɜː.fɪkt θæŋk juː baɪ ðə weɪ ɪf ˈen.i.θɪŋ ˈɜː.dʒənt ... ʌp bɪˈfɔː.hænd ɪz ɪt ˈiː.zi tuː kɔːl ænd ˌriːˈskedʒ.uːl/",
+        "vi": "Tuyệt, cảm ơn anh/chị. Tiện thể, nếu có việc gì gấp ____ trước đó, tôi có dễ gọi lại để dời lịch không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "comes",
+            "explanationVi": "Cụm động từ 'come up' = (việc) phát sinh, xảy đến. Sau 'anything' (số ít) dùng 'comes'. Câu điều kiện loại 1: 'if ... comes up, is it easy to...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Absolutely. Just give us a call at least a day ____ advance, and we'll be happy to find you another suitable time.",
+        "ipa": "/ˈæb.sə.luːt.li dʒʌst ɡɪv ʌs ə kɔːl ət liːst ə deɪ ... ədˈvɑːns ænd wiːl biː ˈhæp.i tuː faɪnd juː əˈnʌð.ər ˈsuː.tə.bəl taɪm/",
+        "vi": "Hoàn toàn được. Anh/chị chỉ cần gọi cho chúng tôi trước ít nhất một ngày, và chúng tôi sẽ vui lòng tìm cho anh/chị một giờ phù hợp khác.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in",
+            "explanationVi": "Cụm cố định 'in advance' = trước, từ trước. 'a day in advance' = trước một ngày. Xem phần Từ vựng."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, hầu hết dịch vụ (bác sĩ, nha sĩ, cắt tóc, ngân hàng) đều yêu cầu đặt hẹn trước; hiếm khi đến không hẹn (walk-in) mà được phục vụ ngay.",
+    "Đúng giờ rất quan trọng. Đến trễ 10-15 phút có thể bị hủy lịch và phải đặt lại, hoặc bị tính phí 'no-show' (không đến mà không báo).",
+    "Nếu không đến được, gọi báo dời lịch (reschedule) sớm được xem là lịch sự và có trách nhiệm; im lặng không đến bị coi là bất lịch sự.",
+    "Khi gọi điện, người ta thường mở đầu bằng tên cơ sở ('City Health Clinic') rồi mới hỏi 'How may I help you?' — bạn nên đáp lại lịch sự bằng 'Good morning' trước khi vào việc."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai động từ: phải nói 'MAKE an appointment', không phải 'do' hay 'take an appointment'.",
+    "Nói 'I want an appointment' nghe cộc và đòi hỏi; người bản xứ dùng 'I'd like to...' hoặc 'Could I...?' cho lịch sự.",
+    "Nhầm 'reschedule' (dời sang giờ khác, vẫn giữ hẹn) với 'cancel' (hủy hẳn). Hai từ khác nghĩa hoàn toàn.",
+    "Quên giới từ trong cụm thời gian: phải là 'in advance', 'on Wednesday', 'at 3 p.m.' — sai giới từ là lỗi rất phổ biến."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi điện đặt lịch hẹn như thật.",
+    "prompt": "Hãy đóng vai một nhân viên lễ tân nói tiếng Anh ở phòng khám (hoặc tiệm cắt tóc) mà tôi sẽ chọn. Tôi gọi điện để đặt một lịch hẹn. Hãy bắt đầu bằng cách chào và giới thiệu tên cơ sở. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một lễ tân thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ giờ tôi muốn đã kín, bác sĩ nghỉ, cần dời lịch) để tôi tập thương lượng và đổi giờ. Khuyến khích tôi dùng 'Could I...?', 'Would ... be convenient?', 'because', 'such as'. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy bắt tôi phải dời lịch hai lần để tập câu reschedule.' để luyện thương lượng."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được cuộc gọi và nói rõ mục đích đặt hẹn mà không nhìn gợi ý.",
+    "Tôi hỏi và đề xuất được giờ bằng 'Is ... available?' và 'Would ... be convenient?'.",
+    "Tôi báo và thương lượng được việc dời lịch bằng 'reschedule' và 'Could we move it to...?'."
+  ]
+}

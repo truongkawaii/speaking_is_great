@@ -1,0 +1,343 @@
+{
+  "id": "giving-feedback",
+  "category": "work",
+  "title": "Góp ý & phản hồi",
+  "titleEn": "Giving Feedback",
+  "level": "B2",
+  "functions": ["opinions", "suggesting", "agreeing", "describing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Đưa ra góp ý mang tính xây dựng mà không làm người nghe tổn thương",
+    "Mở đầu bằng điểm tích cực rồi nêu điểm cần cải thiện một cách khéo léo",
+    "Đề xuất giải pháp cụ thể bằng câu dài, lịch sự (such as, in order to, instead of)",
+    "Tiếp nhận phản hồi từ người khác một cách cởi mở và chuyên nghiệp",
+    "Dùng ngữ pháp nâng cao (although, not only… but also, mệnh đề quan hệ) khi góp ý"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "phản hồi, góp ý (danh từ)",
+      "register": "neutral",
+      "example": "Could you give me some feedback on my presentation?",
+      "exampleVi": "Anh/chị có thể cho tôi vài góp ý về bài thuyết trình không?",
+      "note": "Danh từ KHÔNG đếm được — không nói 'a feedback' hay 'feedbacks'. Dùng 'some feedback', 'a piece of feedback'.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhấn vào 'ý kiến đóng góp để cùng làm tốt hơn'. Nghe nhẹ và mời gọi: 'I'd love your input on this.'" },
+        { "term": "comments", "ipa": "/ˈkɒm.ənts/", "register": "neutral", "nuanceVi": "Cụ thể hơn, chỉ những nhận xét rời rạc về từng điểm. Đếm được, hay dùng số nhiều." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "neutral",
+      "example": "I always try to keep my criticism constructive.",
+      "exampleVi": "Tôi luôn cố giữ cho lời phê bình mang tính xây dựng.",
+      "note": "Tính từ. Cụm cốt lõi của chủ đề: 'constructive feedback / criticism' — góp ý để giúp tiến bộ, không để chê bai.",
+      "synonyms": [
+        { "term": "helpful", "ipa": "/ˈhelp.fəl/", "register": "neutral", "nuanceVi": "Đời thường và dễ dùng hơn, nhấn 'có ích'. Nhẹ nhàng nhưng không trang trọng bằng 'constructive'." },
+        { "term": "actionable", "ipa": "/ˈæk.ʃən.ə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'có thể bắt tay làm được ngay'. Hay dùng trong môi trường công sở: 'actionable feedback'." }
+      ]
+    },
+    {
+      "term": "to point out",
+      "ipa": "/tə pɔɪnt aʊt/",
+      "vi": "chỉ ra, nêu ra (động từ)",
+      "register": "neutral",
+      "example": "I'd just like to point out one small issue with the layout.",
+      "exampleVi": "Tôi chỉ muốn chỉ ra một vấn đề nhỏ ở phần bố cục.",
+      "note": "Cụm động từ. Cách nói nhẹ nhàng để nêu một điểm cần lưu ý mà không nghe như đang công kích.",
+      "synonyms": [
+        { "term": "to highlight", "ipa": "/tə ˈhaɪ.laɪt/", "register": "neutral", "nuanceVi": "Nhấn 'làm nổi bật để người ta chú ý'. Trung tính, hợp khi nêu cả điểm tốt lẫn điểm cần sửa." },
+        { "term": "to flag", "ipa": "/tə flæɡ/", "register": "casual", "nuanceVi": "Đời thường ở công sở, nghĩa 'đánh dấu/lưu ý sớm một vấn đề': 'I just wanted to flag a concern.'" }
+      ]
+    },
+    {
+      "term": "to improve",
+      "ipa": "/tʊ ɪmˈpruːv/",
+      "vi": "cải thiện, nâng cao (động từ)",
+      "register": "neutral",
+      "example": "There's definitely room to improve the introduction.",
+      "exampleVi": "Phần mở đầu chắc chắn còn có thể cải thiện.",
+      "note": "Động từ. Cụm rất hữu ích khi góp ý: 'room to improve' (còn chỗ để cải thiện) nghe tích cực hơn là nói 'it's bad'.",
+      "synonyms": [
+        { "term": "to enhance", "ipa": "/tʊ ɪnˈhɑːns/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'làm tốt hơn cái vốn đã ổn'. Nghe chuyên nghiệp: 'to enhance the design'." },
+        { "term": "to refine", "ipa": "/tʊ rɪˈfaɪn/", "register": "formal", "nuanceVi": "Nhấn 'chỉnh sửa tinh tế cho hoàn thiện hơn', những điều chỉnh nhỏ chứ không làm lại từ đầu." },
+        { "term": "to polish", "ipa": "/tə ˈpɒl.ɪʃ/", "register": "casual", "nuanceVi": "Hình ảnh 'đánh bóng', nghĩa làm chỉn chu khâu cuối. Đời thường, thân thiện." }
+      ]
+    },
+    {
+      "term": "concern",
+      "ipa": "/kənˈsɜːn/",
+      "vi": "mối lo ngại, điều băn khoăn (danh từ)",
+      "register": "neutral",
+      "example": "My main concern is that the deadline might be too tight.",
+      "exampleVi": "Điều tôi lo ngại nhất là hạn chót có thể quá gấp.",
+      "note": "Danh từ. Cách nói lịch sự để nêu vấn đề: gọi nó là 'a concern' nghe nhẹ hơn 'a problem'.",
+      "synonyms": [
+        { "term": "issue", "ipa": "/ˈɪʃ.uː/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'vấn đề cần giải quyết'. Nghe khách quan hơn 'concern' (vốn mang sắc thái cảm xúc lo lắng)." },
+        { "term": "reservation", "ipa": "/ˌrez.əˈveɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'điều dè dặt, chưa hoàn toàn yên tâm'. Dùng số nhiều: 'I have a few reservations about the plan.'" }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/tʊ əkˈnɒl.ɪdʒ/",
+      "vi": "ghi nhận, thừa nhận (động từ)",
+      "register": "formal",
+      "example": "I really want to acknowledge how much effort you put into this.",
+      "exampleVi": "Tôi thực sự muốn ghi nhận công sức bạn đã bỏ ra cho việc này.",
+      "note": "Động từ. Phát âm bẫy: 'ac-KNOW-ledge', chữ 'k' câm. Dùng để công nhận đóng góp của người khác trước khi góp ý.",
+      "synonyms": [
+        { "term": "to recognize", "ipa": "/tə ˈrek.əɡ.naɪz/", "register": "neutral", "nuanceVi": "Phổ biến hơn, nghĩa 'công nhận, ghi nhận'. An toàn và dễ dùng trong hầu hết tình huống." },
+        { "term": "to appreciate", "ipa": "/tʊ əˈpriː.ʃi.eɪt/", "register": "neutral", "nuanceVi": "Thêm sắc thái 'trân trọng, biết ơn'. Ấm áp hơn 'acknowledge': 'I really appreciate your effort.'" }
+      ]
+    },
+    {
+      "term": "tactfully",
+      "ipa": "/ˈtækt.fəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "neutral",
+      "example": "She tactfully suggested a few changes without upsetting anyone.",
+      "exampleVi": "Cô ấy đề xuất vài thay đổi một cách khéo léo mà không làm ai phật ý.",
+      "note": "Trạng từ. Rất hợp với chủ đề góp ý: nói thẳng nhưng không làm tổn thương người nghe.",
+      "synonyms": [
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'khéo léo như nhà ngoại giao', cân bằng các bên. Nghe chuyên nghiệp hơn." },
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Đơn giản và ấm áp, nghĩa 'nhẹ nhàng'. Nhấn vào sự dịu dàng hơn là sự khôn khéo." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "một cách thành thật (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I think the second option is much stronger.",
+      "exampleVi": "Thành thật mà nói, tôi nghĩ phương án thứ hai mạnh hơn nhiều.",
+      "note": "Trạng từ. Mở đầu một góp ý chân thành. Phát âm bẫy: chữ 'h' câm — đọc /ˈɒn.ɪst.li/.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Thẳng thắn hơn một chút, đôi khi báo hiệu một ý kiến hơi khó nghe sắp tới." },
+        { "term": "candidly", "ipa": "/ˈkæn.dɪd.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nói thật, không giấu giếm'. Hiếm gặp trong nói thường ngày." }
+      ]
+    },
+    {
+      "term": "thorough",
+      "ipa": "/ˈθʌr.ə/",
+      "vi": "kỹ lưỡng, tỉ mỉ (tính từ)",
+      "register": "neutral",
+      "example": "Your analysis was really thorough and well organized.",
+      "exampleVi": "Phần phân tích của bạn rất kỹ lưỡng và sắp xếp tốt.",
+      "note": "Tính từ (trạng từ là 'thoroughly'). Phát âm bẫy: /ˈθʌr.ə/, không đọc như 'through' /θruː/.",
+      "synonyms": [
+        { "term": "detailed", "ipa": "/ˈdiː.teɪld/", "register": "neutral", "nuanceVi": "Nhấn 'nhiều chi tiết'. Gần nghĩa nhưng thiên về lượng thông tin hơn là sự cẩn thận." },
+        { "term": "comprehensive", "ipa": "/ˌkɒm.prɪˈhen.sɪv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'bao quát đầy đủ mọi khía cạnh', không bỏ sót gì." }
+      ]
+    },
+    {
+      "term": "to take on board",
+      "ipa": "/tə teɪk ɒn bɔːd/",
+      "vi": "tiếp thu, ghi nhận ý kiến (cụm động từ)",
+      "register": "neutral",
+      "example": "Thanks, I'll definitely take your comments on board.",
+      "exampleVi": "Cảm ơn, tôi chắc chắn sẽ tiếp thu các nhận xét của bạn.",
+      "note": "Cụm động từ thành ngữ (Anh-Anh hay dùng). Cách lịch sự để cho thấy bạn sẵn lòng tiếp nhận phản hồi.",
+      "synonyms": [
+        { "term": "to take into account", "ipa": "/tə teɪk ˈɪn.tuː əˈkaʊnt/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'cân nhắc, tính đến'. Dùng được rộng rãi: 'I'll take that into account.'" }
+      ]
+    },
+    {
+      "term": "well-structured",
+      "ipa": "/wel ˈstrʌk.tʃəd/",
+      "vi": "có bố cục/cấu trúc tốt (tính từ ghép)",
+      "register": "neutral",
+      "example": "The report was well-structured and easy to follow.",
+      "exampleVi": "Bản báo cáo có bố cục tốt và dễ theo dõi.",
+      "note": "Tính từ ghép. Cụm 'ăn điểm' khi khen một bài viết/thuyết trình trước khi nêu điểm cần sửa."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Overall, I think [điều tích cực], particularly [chi tiết cụ thể].",
+      "use": "Mở đầu góp ý bằng nhận xét tích cực tổng thể (kỹ thuật 'khen trước').",
+      "register": "neutral",
+      "examples": [
+        "Overall, I think you did a great job, particularly with the way you presented the data."
+      ],
+      "explanationVi": "Bắt đầu bằng điểm tích cực giúp người nghe cởi mở hơn với phần góp ý phía sau. 'particularly' chỉ ra điểm tốt cụ thể, nghe chân thành chứ không khen suông."
+    },
+    {
+      "pattern": "One thing you might want to consider is [danh từ / V-ing].",
+      "use": "Nêu điểm cần cải thiện một cách nhẹ nhàng, gợi mở.",
+      "register": "neutral",
+      "examples": [
+        "One thing you might want to consider is adding a short summary at the end."
+      ],
+      "explanationVi": "'might want to consider' biến lời góp ý thành một gợi ý chứ không phải mệnh lệnh — người nghe không thấy bị áp đặt. Đây là cách góp ý cực kỳ lịch sự.",
+      "altOf": "suggesting-improvement"
+    },
+    {
+      "pattern": "It might be even better if you [V].",
+      "use": "Đề xuất cải thiện trong khi vẫn ngầm công nhận cái hiện tại đã tốt.",
+      "register": "neutral",
+      "examples": [
+        "It might be even better if you shortened the introduction a little."
+      ],
+      "explanationVi": "Từ 'even better' ngầm thừa nhận bài đã ổn rồi, chỉ cần tinh chỉnh thêm. Sắc thái này giúp lời góp ý không nghe như chê bai.",
+      "altOf": "suggesting-improvement"
+    },
+    {
+      "pattern": "Instead of [V-ing], you could try [V-ing].",
+      "use": "Đưa ra giải pháp thay thế cụ thể thay vì chỉ chê.",
+      "register": "neutral",
+      "examples": [
+        "Instead of listing every detail, you could try grouping them into themes."
+      ],
+      "explanationVi": "'Instead of + V-ing' nêu cái nên thay, 'you could try + V-ing' đề xuất cái mới. Góp ý kèm giải pháp luôn hữu ích hơn là chỉ ra lỗi rồi để đó."
+    },
+    {
+      "pattern": "Although [mệnh đề tích cực], I do feel that [điểm cần sửa].",
+      "use": "Thừa nhận mặt tốt rồi mới chuyển sang điểm cần cải thiện.",
+      "register": "neutral",
+      "examples": [
+        "Although the slides looked great, I do feel that there were a few too many of them."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). 'I do feel' dùng 'do' nhấn mạnh nhẹ nhàng quan điểm cá nhân, nghe đỡ áp đặt hơn 'I think'."
+    },
+    {
+      "pattern": "I'd suggest [V-ing], in order to [mục đích].",
+      "use": "Đề xuất hành động cụ thể kèm lý do, làm góp ý thuyết phục hơn.",
+      "register": "formal",
+      "examples": [
+        "I'd suggest adding a chart, in order to make the figures easier to understand."
+      ],
+      "explanationVi": "'I'd suggest + V-ing' là cách đề xuất lịch sự, chuyên nghiệp. 'in order to' nêu mục đích — khi người nghe hiểu LÝ DO, họ dễ chấp nhận góp ý hơn.",
+      "altOf": "suggesting-improvement"
+    },
+    {
+      "pattern": "Thank you for the feedback; I'll [V] it [giới từ].",
+      "use": "Tiếp nhận góp ý một cách cởi mở, chuyên nghiệp.",
+      "register": "neutral",
+      "examples": [
+        "Thank you for the feedback; I'll take it on board and revise the draft."
+      ],
+      "explanationVi": "Cảm ơn trước khi phản hồi cho thấy bạn trân trọng góp ý. 'take it on board' (tiếp thu) thể hiện thái độ cầu thị, rất được đánh giá cao nơi công sở."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một nhận xét chân thành, đôi khi hơi khó nghe.", "example": "Honestly, the ending felt a little rushed to me." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Cân bằng lại, thừa nhận một mặt tốt giữa lúc đang góp ý.", "example": "To be fair, you didn't have much time to prepare." },
+    { "term": "I see what you mean", "ipa": "/aɪ siː wɒt juː miːn/", "vi": "tôi hiểu ý bạn rồi", "when": "Khi tiếp nhận phản hồi, cho thấy bạn đang lắng nghe.", "example": "I see what you mean, and I think you're right about that." },
+    { "term": "having said that", "ipa": "/ˈhæv.ɪŋ sed ðæt/", "vi": "tuy nhiên, dù vậy", "when": "Chuyển từ một ý sang một ý hơi trái chiều một cách mượt mà.", "example": "It's a strong draft. Having said that, the conclusion could be clearer." },
+    { "term": "if anything", "ipa": "/ɪf ˈen.i.θɪŋ/", "vi": "nếu có thì (chỉ là)", "when": "Hạ nhẹ mức độ của một góp ý, làm nó nghe nhỏ nhặt.", "example": "If anything, it was just a touch too long." }
+  ],
+
+  "dialogue": {
+    "context": "Tại văn phòng, đồng nghiệp Minh vừa trình bày thử một bản thuyết trình. Bạn (đồng nghiệp giàu kinh nghiệm hơn) được mời cho góp ý mang tính xây dựng.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "Thanks for taking the time to watch my run-through. I'd really like to hear your honest feedback, especially on the parts that could be stronger.",
+        "ipa": "/θæŋks fɔːr ˈteɪk.ɪŋ ðə taɪm tə wɒtʃ maɪ ˈrʌn.θruː aɪd ˈrɪə.li laɪk tə hɪər jɔːr ˈɒn.ɪst ˈfiːd.bæk ɪˈspeʃ.ə.li ɒn ðə pɑːts ðæt kʊd biː ˈstrɒŋ.ɡər/",
+        "vi": "Cảm ơn bạn đã dành thời gian xem tôi tập trình bày. Tôi rất muốn nghe góp ý thật lòng của bạn, đặc biệt là những phần có thể làm tốt hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course, and thank you for asking. Overall, I think you did a really good job, ____ the way you explained the data so clearly. Honestly, the slides were well-structured and easy to follow.",
+        "ipa": "/ɒv kɔːs ænd θæŋk juː fɔːr ˈɑːs.kɪŋ ˌəʊ.vəˈrɔːl aɪ θɪŋk juː dɪd ə ˈrɪə.li ɡʊd dʒɒb ... ðə weɪ juː ɪkˈspleɪnd ðə ˈdeɪ.tə səʊ ˈklɪə.li ˈɒn.ɪst.li ðə slaɪdz wɜː wel ˈstrʌk.tʃəd ænd ˈiː.zi tə ˈfɒl.əʊ/",
+        "vi": "Tất nhiên rồi, và cảm ơn bạn đã hỏi. Nhìn chung, tôi nghĩ bạn đã làm rất tốt, ____ cách bạn giải thích số liệu rõ ràng. Thành thật mà nói, các slide có bố cục tốt và dễ theo dõi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "particularly", "explanationVi": "Dùng trạng từ 'particularly' (đặc biệt là) để chỉ ra điểm tốt cụ thể trong nhận xét chung. Xem mẫu câu 'Overall, I think…, particularly…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's great to hear. But please don't hold back — if there's anything I should work on, I genuinely want to know.",
+        "ipa": "/ðæts ɡreɪt tə hɪər bʌt pliːz dəʊnt həʊld bæk ɪf ðeəz ˈen.i.θɪŋ aɪ ʃʊd wɜːk ɒn aɪ ˈdʒen.ju.ɪn.li wɒnt tə nəʊ/",
+        "vi": "Nghe vậy tôi mừng quá. Nhưng đừng ngại nói thẳng nhé — nếu có điều gì tôi cần cải thiện, tôi thực sự muốn biết."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure. ____ the content was strong, I do feel that the introduction ran on a little too long. One thing you might want to consider is cutting it down, ____ that the audience can reach the key points sooner.",
+        "ipa": "/ʃʊər ... ðə ˈkɒn.tent wɒz strɒŋ aɪ duː fiːl ðæt ðə ˌɪn.trəˈdʌk.ʃən ræn ɒn ə ˈlɪt.əl tuː lɒŋ wʌn θɪŋ juː maɪt wɒnt tə kənˈsɪd.ər ɪz ˈkʌt.ɪŋ ɪt daʊn ... ðæt ðə ˈɔː.di.əns kæn riːtʃ ðə kiː pɔɪnts ˈsuː.nər/",
+        "vi": "Được thôi. ____ phần nội dung rất chắc, tôi vẫn thấy phần mở đầu hơi dài. Một điều bạn có thể cân nhắc là rút gọn nó lại, ____ khán giả có thể đến phần trọng tâm sớm hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' mở mệnh đề nhượng bộ: thừa nhận nội dung tốt trước, rồi mới nêu điểm cần sửa. Xem mẫu 'Although…, I do feel that…'." },
+          { "type": "knowledge", "answer": "so", "explanationVi": "Dùng 'so that' để nêu mục đích/kết quả (để mà…). Có thể thay bằng 'in order that'. Nó cho người nghe biết LÝ DO của góp ý." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That makes a lot of sense. Do you think the data section worked, or was it too detailed?",
+        "ipa": "/ðæt meɪks ə lɒt ɒv sens duː juː θɪŋk ðə ˈdeɪ.tə ˈsek.ʃən wɜːkt ɔːr wɒz ɪt tuː ˈdiː.teɪld/",
+        "vi": "Điều đó rất hợp lý. Bạn có nghĩ phần số liệu hiệu quả không, hay nó quá chi tiết?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It was thorough, which I appreciated. Having said that, instead of listing every single figure, you could try grouping them into themes. I'd also suggest adding a simple chart, ____ to make the numbers easier to grasp at a glance.",
+        "ipa": "/ɪt wɒz ˈθʌr.ə wɪtʃ aɪ əˈpriː.ʃi.eɪ.tɪd ˈhæv.ɪŋ sed ðæt ɪnˈsted ɒv ˈlɪst.ɪŋ ˈev.ri ˈsɪŋ.ɡəl ˈfɪɡ.ər juː kʊd traɪ ˈɡruːp.ɪŋ ðəm ˈɪn.tuː θiːmz aɪd ˈɔːl.səʊ səˈdʒest ˈæd.ɪŋ ə ˈsɪm.pəl tʃɑːt ... tə meɪk ðə ˈnʌm.bəz ˈiː.zi.ər tə ɡrɑːsp ət ə ɡlɑːns/",
+        "vi": "Nó rất kỹ lưỡng, điều mà tôi đánh giá cao. Tuy nhiên, thay vì liệt kê từng con số một, bạn có thể thử nhóm chúng theo chủ đề. Tôi cũng đề xuất thêm một biểu đồ đơn giản, ____ để giúp người xem nắm số liệu trong nháy mắt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Dùng 'in order to + V' để nêu mục đích (nhằm để…). Trang trọng và rõ ràng hơn chỉ dùng 'to'. Xem mẫu 'I'd suggest…, in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "These are all really useful suggestions. I was a bit nervous about the data part, so I'm glad you ____ it out.",
+        "ipa": "/ðiːz ɑːr ɔːl ˈrɪə.li ˈjuːs.fəl səˈdʒes.tʃənz aɪ wɒz ə bɪt ˈnɜː.vəs əˈbaʊt ðə ˈdeɪ.tə pɑːt səʊ aɪm ɡlæd juː ... ɪt aʊt/",
+        "vi": "Đây đều là những gợi ý rất hữu ích. Tôi đã hơi lo về phần số liệu, nên tôi mừng vì bạn đã ____ nó ra.",
+        "blanks": [
+          { "type": "knowledge", "answer": "pointed", "explanationVi": "Cụm động từ 'point out' (chỉ ra) chia quá khứ là 'pointed out'. Tân ngữ 'it' chèn vào giữa: 'pointed it out'. Xem từ vựng 'to point out'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Not only did you handle a complex topic well, but you also kept the audience engaged throughout, which is the hardest part. With just a few small tweaks, ____ I'd say it'll be excellent.",
+        "ipa": "/nɒt ˈəʊn.li dɪd juː ˈhænd.əl ə ˈkɒm.pleks ˈtɒp.ɪk wel bʌt juː ˈɔːl.səʊ kept ðə ˈɔː.di.əns ɪnˈɡeɪdʒd θruːˈaʊt wɪtʃ ɪz ðə ˈhɑːd.ɪst pɑːt wɪð dʒʌst ə fjuː smɔːl twiːks ... aɪd seɪ ɪtl biː ˈek.sə.lənt/",
+        "vi": "Bạn không chỉ xử lý tốt một chủ đề phức tạp, mà còn giữ khán giả cuốn theo suốt buổi, vốn là phần khó nhất. Chỉ với vài chỉnh sửa nhỏ, ____ tôi dám nói nó sẽ rất xuất sắc.",
+        "blanks": [
+          { "type": "personal", "hint": "Một trạng từ làm mượt câu, thể hiện sự tin tưởng. Ví dụ: 'honestly', 'definitely', 'genuinely'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Thank you so much for being so honest and ____. I'll take all of this on board and revise the slides before Friday.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ fɔːr ˈbiː.ɪŋ səʊ ˈɒn.ɪst ænd ... aɪl teɪk ɔːl ɒv ðɪs ɒn bɔːd ænd rɪˈvaɪz ðə slaɪdz bɪˈfɔːr ˈfraɪ.deɪ/",
+        "vi": "Cảm ơn bạn rất nhiều vì đã thẳng thắn và ____ như vậy. Tôi sẽ tiếp thu tất cả và chỉnh lại slide trước thứ Sáu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "constructive", "explanationVi": "Tính từ 'constructive' (mang tính xây dựng) đi sau 'so' để mô tả kiểu góp ý có ích. Xem từ vựng 'constructive'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Phương Tây thường dùng mô hình 'feedback sandwich': khen điểm tốt → nêu điểm cần sửa → kết bằng lời động viên. Cách này giúp người nghe tiếp nhận dễ hơn.",
+    "Góp ý nên 'phê bình việc, không phê bình người': nói 'the introduction was a bit long' thay vì 'you always talk too much'.",
+    "Khi nhận góp ý, văn hóa công sở phương Tây đánh giá cao thái độ cảm ơn và cầu thị, kể cả khi bạn không hoàn toàn đồng ý — tranh cãi ngay lập tức bị xem là phòng thủ (defensive).",
+    "Câu hỏi 'Can I give you some feedback?' thường được hỏi trước để xin phép, thể hiện sự tôn trọng người nghe."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'feedback' như danh từ đếm được: SAI 'a feedback / feedbacks', ĐÚNG 'some feedback / a piece of feedback'.",
+    "Góp ý quá thẳng, cộc lốc kiểu 'This is wrong / bad'. Hãy bọc bằng 'One thing you might want to consider is…' hoặc 'It might be even better if…'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID you handle…', không phải 'Not only you handled…'.",
+    "Chỉ chê mà không kèm giải pháp. Hãy dùng 'Instead of…, you could try…' để góp ý thành lời khuyên hữu ích."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng góp ý và nhận phản hồi như trong môi trường công sở thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp người bản xứ nói tiếng Anh. Tôi vừa xem bạn trình bày một ý tưởng (bạn tự nghĩ ra một ý tưởng cụ thể như kế hoạch marketing, thiết kế sản phẩm, hay bản báo cáo), và tôi sẽ tập đưa ra góp ý mang tính xây dựng. Sau mỗi câu góp ý của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp đang nhận feedback, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt khéo léo, lịch sự hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'instead of…, you could try…', 'in order to', và đảo ngữ 'not only… but also'. Thỉnh thoảng hãy phản ứng hơi phòng thủ để tôi tập cách xoa dịu. Sau đó, hãy đổi vai: bạn góp ý về một bài của tôi để tôi luyện cách TIẾP NHẬN phản hồi một cách cởi mở. Cuối buổi, chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người khó tính, dễ tự ái để tôi tập góp ý thật tế nhị.'",
+      "Thêm: 'Hãy giả lập một buổi đánh giá hiệu suất (performance review) chính thức với sếp.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu góp ý bằng một điểm tích cực cụ thể trước khi nêu điểm cần cải thiện.",
+    "Tôi dùng được mẫu 'One thing you might want to consider is…' và 'Instead of…, you could try…' để góp ý kèm giải pháp.",
+    "Tôi tiếp nhận phản hồi một cách cởi mở, biết cảm ơn và nói 'I'll take it on board'."
+  ]
+}

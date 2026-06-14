@@ -1,0 +1,350 @@
+{
+  "id": "casual-opinions",
+  "category": "friends",
+  "title": "Bày tỏ ý kiến thoải mái",
+  "titleEn": "Casual Opinions",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "small-talk", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Nêu quan điểm cá nhân một cách tự nhiên, thoải mái khi nói chuyện với bạn bè",
+    "Đồng tình hoặc phản đối nhẹ nhàng mà không gây căng thẳng",
+    "Dùng các cụm làm mềm ý kiến (I guess, sort of, kind of) như người bản xứ",
+    "Lồng ghép ngữ pháp nâng cao (although, such as, not only… but also) vào lời nói đời thường",
+    "Bảo vệ quan điểm bằng lý lẽ và ví dụ cụ thể"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "opinion",
+      "ipa": "/əˈpɪn.jən/",
+      "vi": "ý kiến, quan điểm (danh từ)",
+      "register": "neutral",
+      "example": "In my opinion, the new café downtown is way overrated.",
+      "exampleVi": "Theo tôi, quán cà phê mới ở trung tâm bị thổi phồng quá mức.",
+      "note": "Danh từ. Cụm cố định 'in my opinion' (theo ý tôi). Đừng nói 'in my point of view' — phải là 'from my point of view'.",
+      "synonyms": [
+        { "term": "view", "ipa": "/vjuː/", "register": "neutral", "nuanceVi": "Trung tính, hơi trang trọng hơn một chút. Cụm 'from my point of view' rất thông dụng." },
+        { "term": "take", "ipa": "/teɪk/", "register": "casual", "nuanceVi": "Đời thường, kiểu trẻ: 'What's your take on this?' (Cậu nghĩ sao về cái này?). Nghe rất tự nhiên khi nói với bạn bè." }
+      ]
+    },
+    {
+      "term": "overrated",
+      "ipa": "/ˌəʊ.vəˈreɪ.tɪd/",
+      "vi": "bị đánh giá quá cao, được tâng bốc quá mức (tính từ)",
+      "register": "casual",
+      "example": "Honestly, that movie was completely overrated.",
+      "exampleVi": "Thật lòng mà nói, bộ phim đó bị thổi phồng quá đáng.",
+      "note": "Tính từ. Trái nghĩa là 'underrated' (bị đánh giá thấp hơn giá trị thực). Rất hay dùng khi bàn về phim, nhạc, nhà hàng.",
+      "synonyms": [
+        { "term": "hyped", "ipa": "/haɪpt/", "register": "casual", "nuanceVi": "Cực kỳ đời thường, kiểu giới trẻ. 'Overhyped' nhấn ý bị quảng cáo/đồn thổi quá mức so với thực tế." }
+      ]
+    },
+    {
+      "term": "to reckon",
+      "ipa": "/ˈrek.ən/",
+      "vi": "nghĩ rằng, cho là (động từ)",
+      "register": "casual",
+      "example": "I reckon we should just stay in and order pizza tonight.",
+      "exampleVi": "Tôi nghĩ tối nay mình cứ ở nhà gọi pizza thôi.",
+      "note": "Động từ rất đời thường (đặc biệt Anh-Anh, Úc), nghĩa như 'think/believe'. Dùng với bạn bè thì cực tự nhiên.",
+      "synonyms": [
+        { "term": "to figure", "ipa": "/ˈfɪɡ.ər/", "register": "casual", "nuanceVi": "Đời thường kiểu Mỹ: 'I figure we'll be fine.' Nhấn ý 'suy ra, đoán là'." },
+        { "term": "to suppose", "ipa": "/səˈpəʊz/", "register": "neutral", "nuanceVi": "Trung tính, mang chút lưỡng lự: 'I suppose so.' (Chắc vậy.) Nghe ít chắc chắn hơn 'reckon'." }
+      ]
+    },
+    {
+      "term": "to disagree",
+      "ipa": "/ˌdɪs.əˈɡriː/",
+      "vi": "không đồng ý (động từ)",
+      "register": "neutral",
+      "example": "I have to disagree with you on that one.",
+      "exampleVi": "Về chuyện đó thì tôi phải phản đối cậu rồi.",
+      "note": "Động từ, đi với 'with somebody / on something'. Trong giao tiếp thân mật nên làm mềm bằng 'I'm not sure I agree' để đỡ gay gắt.",
+      "synonyms": [
+        { "term": "to beg to differ", "ipa": "/beɡ tə ˈdɪf.ər/", "register": "neutral", "nuanceVi": "Thành ngữ lịch sự, hơi đùa: 'I beg to differ.' (Tôi xin phép nghĩ khác.) Nghe nhã nhặn, có chút hài." }
+      ]
+    },
+    {
+      "term": "biased",
+      "ipa": "/ˈbaɪ.əst/",
+      "vi": "thiên vị, một chiều (tính từ)",
+      "register": "neutral",
+      "example": "I might be biased because I'm a huge fan of the director.",
+      "exampleVi": "Có thể tôi hơi thiên vị vì tôi là fan cứng của đạo diễn ấy.",
+      "note": "Tính từ. Đi với giới từ 'towards/against'. Thừa nhận mình 'biased' nghe rất chân thành khi bày tỏ quan điểm.",
+      "synonyms": [
+        { "term": "one-sided", "ipa": "/ˌwʌnˈsaɪ.dɪd/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'chỉ nhìn một phía', thường dùng cho lập luận/bài viết hơn là cho người." }
+      ]
+    },
+    {
+      "term": "to be into something",
+      "ipa": "/tə biː ˈɪn.tə ˈsʌm.θɪŋ/",
+      "vi": "mê, thích thú với cái gì (cụm động từ)",
+      "register": "casual",
+      "example": "I'm really into indie music these days.",
+      "exampleVi": "Dạo này tôi mê nhạc indie lắm.",
+      "note": "Cụm đời thường, nghĩa 'quan tâm/thích mạnh'. Trái nghĩa: 'not really into' (không hợp gu lắm).",
+      "synonyms": [
+        { "term": "to be keen on", "ipa": "/tə biː kiːn ɒn/", "register": "neutral", "nuanceVi": "Anh-Anh hay dùng, nghĩa 'hứng thú với'. Nhẹ nhàng hơn 'into' một chút." },
+        { "term": "to be a fan of", "ipa": "/tə biː ə fæn ɒv/", "register": "casual", "nuanceVi": "Nhấn vào việc 'hâm mộ', thường cho nghệ sĩ, đội bóng, thể loại cụ thể." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thật lòng mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I think the book was far better than the film.",
+      "exampleVi": "Thật lòng mà nói, tôi thấy cuốn sách hay hơn bộ phim nhiều.",
+      "note": "Trạng từ, hay đặt đầu câu để dẫn vào một ý kiến chân thành, đôi khi hơi trái chiều. Phát âm: 'h' câm.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Nhấn 'nói thẳng, không vòng vo', thường dẫn vào ý kiến hơi mạnh hoặc thẳng thắn." },
+        { "term": "to be fair", "ipa": "/tə biː feər/", "register": "casual", "nuanceVi": "Cụm đời thường, dùng để công bằng nhìn nhận cả mặt kia: 'To be fair, the acting was decent.'" }
+      ]
+    },
+    {
+      "term": "absolutely",
+      "ipa": "/ˈæb.sə.luːt.li/",
+      "vi": "hoàn toàn, chắc chắn rồi (trạng từ)",
+      "register": "neutral",
+      "example": "Absolutely! That's exactly what I was thinking.",
+      "exampleVi": "Chắc chắn rồi! Đó đúng là điều tôi đang nghĩ.",
+      "note": "Trạng từ dùng để đồng tình mạnh mẽ. Có thể đứng một mình như câu trả lời: 'Absolutely!'.",
+      "synonyms": [
+        { "term": "totally", "ipa": "/ˈtəʊ.təl.i/", "register": "casual", "nuanceVi": "Đời thường, trẻ trung: 'Totally!'. Hợp khi nói với bạn bè hơn là trong tình huống trang trọng." },
+        { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'chắc chắn không nghi ngờ'. An toàn dùng trong cả ngữ cảnh trung tính lẫn thân mật." }
+      ]
+    },
+    {
+      "term": "to make a point",
+      "ipa": "/tə meɪk ə pɔɪnt/",
+      "vi": "đưa ra một luận điểm có lý (cụm động từ)",
+      "register": "neutral",
+      "example": "You make a good point, but I still see it differently.",
+      "exampleVi": "Cậu nói cũng có lý đấy, nhưng tôi vẫn thấy khác.",
+      "note": "Cụm dùng để ghi nhận ý kiến đối phương trước khi phản biện — cách tranh luận lịch sự, văn minh.",
+      "synonyms": [
+        { "term": "to have a point", "ipa": "/tə hæv ə pɔɪnt/", "register": "casual", "nuanceVi": "Đời thường: 'You've got a point there.' (Cậu nói cũng đúng đấy.) Nhẹ nhàng thừa nhận đối phương có lý." }
+      ]
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "thuyết phục, hấp dẫn (tính từ)",
+      "register": "neutral",
+      "example": "She gave a really compelling argument for going vegetarian.",
+      "exampleVi": "Cô ấy đưa ra một lập luận rất thuyết phục về việc ăn chay.",
+      "note": "Tính từ, mang nghĩa 'cuốn hút khiến người ta phải tin/chú ý'. Dùng cho lập luận, câu chuyện, bộ phim.",
+      "synonyms": [
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'làm người ta tin', phổ biến và an toàn. 'Compelling' thêm sắc thái 'cuốn hút, khó cưỡng'." },
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "formal", "nuanceVi": "Nhấn 'có sức thuyết phục, lay chuyển được người khác', hơi trang trọng hơn." }
+      ]
+    },
+    {
+      "term": "to be on the fence",
+      "ipa": "/tə biː ɒn ðə fens/",
+      "vi": "còn phân vân, chưa nghiêng về bên nào (thành ngữ)",
+      "register": "casual",
+      "example": "I'm still on the fence about whether to go on the trip.",
+      "exampleVi": "Tôi vẫn còn lưỡng lự chuyện có nên đi chuyến đó không.",
+      "note": "Thành ngữ hình ảnh: ngồi trên hàng rào, chưa nhảy xuống bên nào. Dùng khi bạn chưa quyết được.",
+      "synonyms": [
+        { "term": "undecided", "ipa": "/ˌʌn.dɪˈsaɪ.dɪd/", "register": "neutral", "nuanceVi": "Trung tính, trực tiếp hơn: 'I'm undecided.' Không có hình ảnh ẩn dụ như 'on the fence'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Dẫn vào ý kiến cá nhân một cách thoải mái, thân mật.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, the sequel was nowhere near as good as the original.",
+        "If you ask me, we should just try somewhere new for once."
+      ],
+      "explanationVi": "'If you ask me' (= nếu hỏi tôi thì) là cách mở ý kiến rất đời thường, nghe gần gũi hơn 'In my opinion'. Hợp khi nói với bạn bè.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I'd say [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Nêu quan điểm có cân nhắc cả hai mặt, nghe chín chắn.",
+      "register": "neutral",
+      "examples": [
+        "I'd say it's worth watching, although the ending is a bit disappointing.",
+        "I'd say she's talented, although she still needs more experience."
+      ],
+      "explanationVi": "'I'd say' (= I would say) làm ý kiến nghe khiêm tốn, không áp đặt. 'Although' mở mệnh đề nhượng bộ (mặc dù…), giúp lời nhận xét cân bằng, đặc trưng B2.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I'm not sure I agree, to be honest.",
+      "use": "Phản đối nhẹ nhàng mà không làm mất lòng.",
+      "register": "casual",
+      "examples": [
+        "I'm not sure I agree, to be honest — I actually found it pretty boring.",
+        "Hmm, I'm not sure I agree with that."
+      ],
+      "explanationVi": "Cách phản đối 'mềm': thay vì nói thẳng 'You're wrong', người bản xứ giảm sốc bằng 'I'm not sure I agree'. Rất quan trọng để giữ không khí vui vẻ.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "You make a good point, but [mệnh đề].",
+      "use": "Ghi nhận ý đối phương trước khi đưa quan điểm khác.",
+      "register": "neutral",
+      "examples": [
+        "You make a good point, but I still think the price is too high.",
+        "You've got a point, but it didn't really work for me."
+      ],
+      "explanationVi": "Công thức tranh luận văn minh: công nhận trước, phản biện sau. 'but' chuyển ý nhẹ nhàng, khiến đối phương dễ tiếp nhận hơn là phủ định thẳng.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "Not only is it [tính từ], but it's also [tính từ].",
+      "use": "Nhấn mạnh một thứ có nhiều ưu điểm (hoặc nhược điểm) cùng lúc.",
+      "register": "neutral",
+      "examples": [
+        "Not only is it cheap, but it's also surprisingly tasty.",
+        "Not only is the plot weak, but the acting is also wooden."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu, phải đảo trợ động từ/động từ to be lên trước chủ ngữ ('is it'). Cấu trúc nâng cao gây ấn tượng, nhưng phải đảo đúng kẻo sai."
+    },
+    {
+      "pattern": "I'm really into [danh từ / V-ing], such as [ví dụ].",
+      "use": "Chia sẻ sở thích kèm ví dụ cụ thể.",
+      "register": "casual",
+      "examples": [
+        "I'm really into outdoor stuff, such as hiking and camping.",
+        "I'm really into old-school music, such as jazz and soul."
+      ],
+      "explanationVi": "'be into something' = mê cái gì (rất đời thường). 'such as' nêu ví dụ minh họa. Kết hợp giúp câu nói vừa tự nhiên vừa giàu thông tin."
+    },
+    {
+      "pattern": "To be fair, [mệnh đề], even though [mệnh đề].",
+      "use": "Nhìn nhận công bằng mặt tốt của điều mình vừa chê (hoặc ngược lại).",
+      "register": "casual",
+      "examples": [
+        "To be fair, the food was great, even though the service was slow.",
+        "To be fair, he tried his best, even though it didn't work out."
+      ],
+      "explanationVi": "'To be fair' dẫn vào một sự công bằng (nhìn cả mặt kia). 'even though' = mặc dù, gần như 'although' nhưng nhấn mạnh hơn. Cho thấy bạn đánh giá khách quan."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Dẫn vào một ý kiến chân thành, đôi khi hơi trái chiều.", "example": "Honestly, I didn't think it was that great." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ)", "when": "Khi muốn nói điều hơi trái ý hoặc làm rõ lại, mà không cộc lốc.", "example": "Actually, I quite enjoyed it." },
+    { "term": "kind of / sort of", "ipa": "/kaɪnd ɒv / sɔːrt ɒv/", "vi": "kiểu kiểu, hơi hơi (làm mềm ý kiến)", "when": "Khi muốn nói nhẹ đi, không khẳng định quá chắc.", "example": "It was kind of disappointing, to be honest." },
+    { "term": "I guess", "ipa": "/aɪ ɡes/", "vi": "tôi đoán là, chắc là (nói với sự dè dặt)", "when": "Khi đồng ý hoặc nêu ý kiến nhưng chưa chắc chắn lắm.", "example": "I guess you're right about that." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Đặt cuối hoặc đầu câu để báo hiệu một nhận xét chân thật.", "example": "It wasn't really my thing, to be honest." },
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "riêng tôi thì", "when": "Nhấn rằng đây chỉ là quan điểm của riêng mình, không áp đặt.", "example": "Personally, I'd rather stay home tonight." }
+  ],
+
+  "dialogue": {
+    "context": "Lan và Minh là hai người bạn đang ngồi cà phê, bàn luận thoải mái về một bộ phim mới ra rạp và kế hoạch cuối tuần. Họ có quan điểm khác nhau nhưng vẫn vui vẻ.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Hey, so what did you think of that new sci-fi movie everyone's been raving about? Honestly, I thought it was completely ____, even though the visuals were stunning.",
+        "ipa": "/heɪ səʊ wɒt dɪd juː θɪŋk ɒv ðæt njuː ˈsaɪ.faɪ ˈmuː.vi ˈev.ri.wʌnz bɪn ˈreɪ.vɪŋ əˈbaʊt ˈɒn.ɪst.li aɪ θɔːt ɪt wɒz kəmˈpliːt.li ... ˈiː.vən ðəʊ ðə ˈvɪʒ.u.əlz wɜː ˈstʌn.ɪŋ/",
+        "vi": "Này, cậu thấy bộ phim khoa học viễn tưởng mới mà ai cũng khen rần rần thế nào? Thật lòng thì tớ thấy nó bị thổi phồng quá ____, dù phần hình ảnh thì đẹp mê.",
+        "blanks": [
+          { "type": "knowledge", "answer": "overrated", "explanationVi": "Dùng tính từ 'overrated' (bị đánh giá quá cao). Hợp với ngữ cảnh chê một bộ phim được tâng bốc quá mức. Xem từ vựng 'overrated'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Really? I'm not sure I agree, to be honest. If you ask me, it was one of the best films of the year, ____ the plot dragged a little in the middle.",
+        "ipa": "/ˈrɪə.li aɪm nɒt ʃʊər aɪ əˈɡriː tə biː ˈɒn.ɪst ɪf juː ɑːsk miː ɪt wɒz wʌn ɒv ðə best fɪlmz ɒv ðə jɪər ... ðə plɒt dræɡd ə ˈlɪt.əl ɪn ðə ˈmɪd.əl/",
+        "vi": "Thật á? Thành thật là tớ không chắc đồng ý đâu. Nếu hỏi tớ thì đó là một trong những phim hay nhất năm, ____ phần giữa hơi lê thê chút.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) mở mệnh đề nhượng bộ: vẫn khen phim hay dù có điểm chưa hoàn hảo. Xem mẫu câu 'I'd say…, although…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Hmm, you make a good point about the cinematography. To be fair, the soundtrack was incredible too. But ____, I still found the story pretty predictable.",
+        "ipa": "/həm juː meɪk ə ɡʊd pɔɪnt əˈbaʊt ðə ˌsɪn.əˈmæ.tɒɡ.rə.fi tə biː feər ðə ˈsaʊnd.træk wɒz ɪnˈkred.ə.bəl tuː bʌt ... aɪ stɪl faʊnd ðə ˈstɔː.ri ˈprɪt.i prɪˈdɪk.tə.bəl/",
+        "vi": "Ừm, cậu nói về phần quay phim cũng có lý. Công bằng mà nói, nhạc nền cũng tuyệt thật. Nhưng ____, tớ vẫn thấy cốt truyện khá dễ đoán.",
+        "blanks": [
+          { "type": "personal", "hint": "Một cụm làm mềm quan điểm cá nhân. Ví dụ: 'personally' hoặc 'honestly'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's fair enough. I guess I might be a bit ____ because I'm such a huge fan of the director — I'll watch anything she makes, such as her earlier indie films.",
+        "ipa": "/ðæts feər ɪˈnʌf aɪ ɡes aɪ maɪt biː ə bɪt ... bɪˈkɒz aɪm sʌtʃ ə hjuːdʒ fæn ɒv ðə dɪˈrek.tər aɪl wɒtʃ ˈen.i.θɪŋ ʃiː meɪks sʌtʃ æz hɜːr ˈɜː.li.ər ˈɪn.di fɪlmz/",
+        "vi": "Cũng đúng thôi. Tớ đoán mình hơi ____ một chút vì tớ là fan cứng của đạo diễn — cô ấy làm gì tớ cũng xem, chẳng hạn mấy phim indie thời đầu của cô ấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "biased", "explanationVi": "Dùng tính từ 'biased' (thiên vị). Thừa nhận mình thiên vị vì là fan nghe rất chân thành. Xem từ vựng 'biased'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Ha, that explains a lot! Anyway, changing the subject — I'm really ____ outdoor stuff lately, such as hiking and camping. Do you fancy a trip this weekend?",
+        "ipa": "/hɑː ðæt ɪkˈspleɪnz ə lɒt ˈen.i.weɪ ˈtʃeɪn.dʒɪŋ ðə ˈsʌb.dʒɪkt aɪm ˈrɪə.li ... ˈaʊt.dɔː stʌf ˈleɪt.li sʌtʃ æz ˈhaɪ.kɪŋ ænd ˈkæm.pɪŋ duː juː ˈfæn.si ə trɪp ðɪs ˌwiːkˈend/",
+        "vi": "Ha, hèn chi! Mà thôi đổi chủ đề — dạo này tớ ____ mấy hoạt động ngoài trời lắm, kiểu như leo núi với cắm trại. Cậu có hứng đi một chuyến cuối tuần này không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "into", "explanationVi": "Cụm 'be into something' = mê/thích cái gì. Sau 'really' và trước danh từ ta dùng 'into'. Xem từ vựng 'to be into something'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, I'm a bit on the fence. Not only ____ the weather supposed to be terrible, but I've also got a deadline on Monday, which makes things tricky.",
+        "ipa": "/ˈɒn.ɪst.li aɪm ə bɪt ɒn ðə fens nɒt ˈəʊn.li ... ðə ˈweð.ər səˈpəʊzd tə biː ˈter.ə.bəl bʌt aɪv ˈɔːl.səʊ ɡɒt ə ˈded.laɪn ɒn ˈmʌn.deɪ wɪtʃ meɪks θɪŋz ˈtrɪk.i/",
+        "vi": "Thành thật thì tớ còn lưỡng lự. Không những thời tiết được dự báo là tệ, mà tớ còn có deadline vào thứ Hai nữa, nên hơi khó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "is", "explanationVi": "Đảo ngữ với 'Not only' đứng đầu: phải đảo động từ to be lên trước chủ ngữ → 'Not only IS the weather…'. Xem mẫu câu 'Not only is it…, but it's also…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Fair enough — that's a compelling reason to stay home! How about this then: we could go for a short hike on Sunday morning in order to be back before lunch. ____ that work for you?",
+        "ipa": "/feər ɪˈnʌf ðæts ə kəmˈpel.ɪŋ ˈriː.zən tə steɪ həʊm haʊ əˈbaʊt ðɪs ðen wiː kʊd ɡəʊ fɔːr ə ʃɔːt haɪk ɒn ˈsʌn.deɪ ˈmɔːn.ɪŋ ɪn ˈɔː.də tə biː bæk bɪˈfɔː lʌntʃ ... ðæt wɜːk fɔːr juː/",
+        "vi": "Cũng có lý — đó là lý do thuyết phục để ở nhà thật! Hay thế này: tụi mình đi leo núi ngắn sáng Chủ nhật để về trước bữa trưa. Vậy ____ với cậu không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Would", "explanationVi": "Câu hỏi đề nghị lịch sự 'Would that work for you?' (Vậy có ổn với cậu không?). Dùng 'Would' để hỏi xem phương án có phù hợp. Đây là cách gợi ý nhã nhặn." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Actually, that sounds like a great compromise — I'm definitely up for that. Let's ____ on Sunday morning, then I can still finish my work in the afternoon.",
+        "ipa": "/ˈæk.tʃu.ə.li ðæt saʊndz laɪk ə ɡreɪt ˈkɒm.prə.maɪz aɪm ˈdef.ɪn.ət.li ʌp fɔː ðæt lets ... ɒn ˈsʌn.deɪ ˈmɔːn.ɪŋ ðen aɪ kæn stɪl ˈfɪn.ɪʃ maɪ wɜːk ɪn ðə ˌɑːf.tə.ˈnuːn/",
+        "vi": "Thật ra nghe đúng là một phương án dung hòa hay đấy — tớ chắc chắn tham gia. ____ vào sáng Chủ nhật nhé, vậy chiều tớ vẫn xong việc được.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ chỉ hoạt động đi chơi. Ví dụ: 'meet up' hoặc 'go hiking'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa nói chuyện phương Tây, bất đồng quan điểm về phim, nhạc, đồ ăn là chuyện rất bình thường và không bị coi là mất lịch sự — miễn là nói nhẹ nhàng, vui vẻ.",
+    "Người bản xứ thường làm mềm ý kiến bằng 'kind of', 'sort of', 'I guess', 'I'd say' để tránh nghe áp đặt. Nói quá chắc nịch (kiểu 'You're wrong') dễ bị thấy là thô.",
+    "Công thức 'You make a good point, but…' (ghi nhận trước, phản biện sau) rất được ưa chuộng — thể hiện bạn lắng nghe đối phương.",
+    "Thừa nhận mình 'biased' (thiên vị) khi khen/chê thứ mình yêu thích được coi là chân thành và đáng tin, không phải điểm yếu."
+  ],
+
+  "commonMistakes": [
+    "Nói 'In my point of view' là SAI — phải là 'From my point of view' hoặc 'In my opinion'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo động từ — 'Not only IS the weather bad…', không phải 'Not only the weather is bad…'.",
+    "Phản đối quá thẳng ('No, you're wrong') nghe gay gắt. Hãy dùng 'I'm not sure I agree' hoặc 'I see it a bit differently'.",
+    "Quên giới từ: phải là 'disagree WITH somebody' và 'be into SOMETHING', không bỏ giới từ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận thoải mái như đang ngồi cà phê với bạn.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang ngồi cà phê tán gẫu với tôi. Chúng ta sẽ bàn luận thoải mái về phim, nhạc, đồ ăn hoặc kế hoạch cuối tuần. Hãy chủ động nêu quan điểm và đôi khi cố tình BẤT ĐỒNG với tôi để tôi tập bảo vệ ý kiến. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, (2) sửa lỗi ngữ pháp và gợi ý cách nói tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các cụm làm mềm ('I'd say', 'kind of', 'to be fair') và cấu trúc nâng cao ('although', 'not only… but also', 'such as'). Giữ giọng điệu vui vẻ, thân mật. Bắt đầu bằng một câu hỏi ý kiến nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn một chút để tôi tập giữ vững quan điểm.' khi bạn đã quen.",
+      "Thêm: 'Hãy dùng nhiều thành ngữ đời thường (on the fence, that's overrated, you've got a point) và giải thích nghĩa cho tôi.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm cá nhân bằng câu dài có mệnh đề nhượng bộ (although/even though).",
+    "Tôi phản đối được một cách nhẹ nhàng mà không làm bạn mất lòng.",
+    "Tôi dùng được ít nhất 2 cụm làm mềm ý kiến (I'd say, kind of, to be fair, I guess) khi nói."
+  ]
+}

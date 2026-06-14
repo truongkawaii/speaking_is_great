@@ -1,0 +1,345 @@
+{
+  "id": "family-traditions",
+  "category": "family",
+  "title": "Truyền thống gia đình",
+  "titleEn": "Family Traditions",
+  "level": "B1",
+  "functions": ["describing", "small-talk", "opinions"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả một truyền thống gia đình bằng câu vừa phải, mạch lạc",
+    "Kể về thói quen, dịp lễ và món ăn gắn với gia đình bạn",
+    "Bày tỏ cảm xúc và ý nghĩa của truyền thống đối với bạn",
+    "Dùng 'such as', 'because', 'although' và mệnh đề quan hệ 'which/who' khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "tradition",
+      "ipa": "/trəˈdɪʃ.ən/",
+      "vi": "truyền thống (danh từ)",
+      "register": "neutral",
+      "example": "Every family has its own traditions.",
+      "exampleVi": "Mỗi gia đình đều có những truyền thống riêng.",
+      "note": "Danh từ. Động từ thường đi kèm: 'keep / pass down / follow a tradition'. Tính từ là 'traditional'.",
+      "synonyms": [
+        { "term": "custom", "ipa": "/ˈkʌs.təm/", "register": "neutral", "nuanceVi": "Nhấn vào 'thói quen được cả cộng đồng/gia đình làm theo'. Gần nghĩa nhưng thiên về hành vi lặp lại, ít cảm xúc 'thiêng liêng' hơn 'tradition'." },
+        { "term": "ritual", "ipa": "/ˈrɪtʃ.u.əl/", "register": "formal", "nuanceVi": "Nhấn vào 'nghi thức làm theo trình tự cố định', đôi khi mang màu sắc trang trọng/tâm linh." }
+      ]
+    },
+    {
+      "term": "ancestor",
+      "ipa": "/ˈæn.ses.tər/",
+      "vi": "tổ tiên, ông bà đời trước (danh từ)",
+      "register": "neutral",
+      "example": "We light incense to honor our ancestors.",
+      "exampleVi": "Chúng tôi thắp hương để tưởng nhớ tổ tiên.",
+      "note": "Danh từ, thường dùng số nhiều 'ancestors'. Trái nghĩa là 'descendant' (con cháu).",
+      "synonyms": [
+        { "term": "forefathers", "ipa": "/ˈfɔːr.fɑː.ðərz/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ, nhấn vào dòng dõi cha ông nhiều đời. Hay gặp trong văn viết." }
+      ]
+    },
+    {
+      "term": "to gather",
+      "ipa": "/ˈɡæð.ər/",
+      "vi": "tụ họp, quây quần (động từ)",
+      "register": "neutral",
+      "example": "The whole family gathers for dinner on New Year's Eve.",
+      "exampleVi": "Cả nhà quây quần ăn tối vào đêm Giao thừa.",
+      "note": "Động từ. Danh từ là 'gathering' (cuộc tụ họp). Hay đi với 'around the table'.",
+      "synonyms": [
+        { "term": "to get together", "ipa": "/tə ɡet təˈɡeð.ər/", "register": "casual", "nuanceVi": "Đời thường, thân mật hơn 'gather'. Danh từ 'a get-together' = buổi gặp mặt nhẹ nhàng." },
+        { "term": "to reunite", "ipa": "/ˌriː.juˈnaɪt/", "register": "formal", "nuanceVi": "Nhấn 'gặp lại sau thời gian xa cách'. Danh từ 'reunion' = buổi đoàn tụ." }
+      ]
+    },
+    {
+      "term": "to celebrate",
+      "ipa": "/ˈsel.ə.breɪt/",
+      "vi": "ăn mừng, kỷ niệm (động từ)",
+      "register": "neutral",
+      "example": "We celebrate Tet with a big family meal.",
+      "exampleVi": "Chúng tôi đón Tết bằng một bữa cơm gia đình lớn.",
+      "note": "Động từ. Danh từ là 'celebration'. Đi với dịp lễ, sinh nhật, thành tựu.",
+      "synonyms": [
+        { "term": "to commemorate", "ipa": "/kəˈmem.ə.reɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tưởng nhớ một sự kiện/người quan trọng', thường mang sắc thái nghiêm túc chứ không vui nhộn." },
+        { "term": "to observe", "ipa": "/əbˈzɜːrv/", "register": "formal", "nuanceVi": "Mang nghĩa 'tuân thủ, giữ đúng nghi lễ của một dịp' (observe a holiday), thiên về làm theo đúng phong tục." }
+      ]
+    },
+    {
+      "term": "to pass down",
+      "ipa": "/tə pɑːs daʊn/",
+      "vi": "truyền lại (cho đời sau) (cụm động từ)",
+      "register": "neutral",
+      "example": "This recipe has been passed down for generations.",
+      "exampleVi": "Công thức này đã được truyền lại qua nhiều thế hệ.",
+      "note": "Cụm động từ. Hay dùng ở dạng bị động 'be passed down'. Đối tượng thường là công thức, câu chuyện, đồ vật quý.",
+      "synonyms": [
+        { "term": "to hand down", "ipa": "/tə hænd daʊn/", "register": "neutral", "nuanceVi": "Gần như y hệt 'pass down'. Hay dùng cho đồ vật cụ thể (quần áo, trang sức) truyền cho người sau." },
+        { "term": "to inherit", "ipa": "/ɪnˈher.ɪt/", "register": "neutral", "nuanceVi": "Nhìn từ phía người NHẬN ('thừa hưởng'), trong khi 'pass down' nhìn từ phía người TRAO." }
+      ]
+    },
+    {
+      "term": "meaningful",
+      "ipa": "/ˈmiː.nɪŋ.fəl/",
+      "vi": "có ý nghĩa (tính từ)",
+      "register": "neutral",
+      "example": "Spending Tet together is very meaningful to me.",
+      "exampleVi": "Cùng nhau đón Tết rất có ý nghĩa với tôi.",
+      "note": "Tính từ. Đi với 'to somebody' để nói có ý nghĩa với ai.",
+      "synonyms": [
+        { "term": "significant", "ipa": "/sɪɡˈnɪf.ɪ.kənt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'quan trọng, đáng kể'. Có thể dùng cho cả số liệu/sự kiện, không chỉ cảm xúc." },
+        { "term": "precious", "ipa": "/ˈpreʃ.əs/", "register": "neutral", "nuanceVi": "Nhấn 'quý giá, đáng trân trọng' về mặt tình cảm. Vd 'precious memories'." }
+      ]
+    },
+    {
+      "term": "close-knit",
+      "ipa": "/ˌkləʊsˈnɪt/",
+      "vi": "gắn bó khăng khít (tính từ)",
+      "register": "neutral",
+      "example": "We are a close-knit family who support each other.",
+      "exampleVi": "Chúng tôi là một gia đình gắn bó, luôn ủng hộ nhau.",
+      "note": "Tính từ ghép, thường đứng trước 'family / community'. Nhấn mạnh sự thân thiết, đùm bọc.",
+      "synonyms": [
+        { "term": "tight-knit", "ipa": "/ˌtaɪtˈnɪt/", "register": "neutral", "nuanceVi": "Gần như y hệt 'close-knit'; cả hai đều rất tự nhiên với người bản xứ." }
+      ]
+    },
+    {
+      "term": "generation",
+      "ipa": "/ˌdʒen.əˈreɪ.ʃən/",
+      "vi": "thế hệ (danh từ)",
+      "register": "neutral",
+      "example": "Three generations live under one roof in my family.",
+      "exampleVi": "Ba thế hệ sống chung một mái nhà trong gia đình tôi.",
+      "note": "Danh từ. Cụm hay dùng: 'from generation to generation' (từ đời này sang đời khác)."
+    },
+    {
+      "term": "homemade",
+      "ipa": "/ˌhəʊmˈmeɪd/",
+      "vi": "tự làm tại nhà (tính từ)",
+      "register": "neutral",
+      "example": "My grandmother's homemade cake is the highlight of every reunion.",
+      "exampleVi": "Bánh nhà làm của bà tôi là điểm nhấn của mỗi buổi đoàn tụ.",
+      "note": "Tính từ, thường đứng trước món ăn. Nhấn ý 'không mua sẵn, do người nhà làm'."
+    },
+    {
+      "term": "warmly",
+      "ipa": "/ˈwɔːm.li/",
+      "vi": "một cách nồng hậu, ấm áp (trạng từ)",
+      "register": "neutral",
+      "example": "My relatives always welcome guests warmly.",
+      "exampleVi": "Họ hàng tôi luôn đón khách rất nồng hậu.",
+      "note": "Trạng từ. Hay đi với 'welcome, greet, smile'.",
+      "synonyms": [
+        { "term": "cordially", "ipa": "/ˈkɔː.di.ə.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'lịch thiệp, chân thành'. Hay gặp trong thiệp mời (You are cordially invited)." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "một cách thường xuyên, đều đặn (trạng từ)",
+      "register": "neutral",
+      "example": "We regularly visit our grandparents at the weekend.",
+      "exampleVi": "Chúng tôi thường xuyên về thăm ông bà vào cuối tuần.",
+      "note": "Trạng từ chỉ tần suất. Đứng trước động từ thường hoặc cuối câu.",
+      "synonyms": [
+        { "term": "frequently", "ipa": "/ˈfriː.kwənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhiều lần, với tần suất cao', không nhất thiết đều đặn theo lịch như 'regularly'." },
+        { "term": "routinely", "ipa": "/ruːˈtiːn.li/", "register": "neutral", "nuanceVi": "Nhấn 'như một thói quen cố định, lặp đi lặp lại theo nếp'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "One tradition my family keeps is [danh từ / V-ing].",
+      "use": "Giới thiệu một truyền thống cụ thể của gia đình.",
+      "register": "neutral",
+      "examples": [
+        "One tradition my family keeps is having dinner together every Sunday.",
+        "One tradition my family keeps is visiting our grandparents during Tet."
+      ],
+      "explanationVi": "Mẫu mở đầu tự nhiên để nêu một truyền thống. 'keep a tradition' = giữ một truyền thống. Sau 'is' dùng danh từ hoặc V-ing.",
+      "altOf": "describing-tradition"
+    },
+    {
+      "pattern": "Every year, we [V] in order to [V].",
+      "use": "Mô tả việc làm hằng năm và lý do/mục đích của nó.",
+      "register": "neutral",
+      "examples": [
+        "Every year, we gather at my grandmother's house in order to celebrate Tet together.",
+        "Every year, we clean the family altar in order to honor our ancestors."
+      ],
+      "explanationVi": "'in order to + V' = để (làm gì), trang trọng và rõ ràng hơn 'to' đơn thuần. 'Every year' đặt đầu câu nhấn tính lặp lại hằng năm.",
+      "altOf": "describing-tradition"
+    },
+    {
+      "pattern": "We usually [V], such as [ví dụ 1] and [ví dụ 2].",
+      "use": "Nêu hoạt động kèm ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "We usually prepare special dishes, such as banh chung and spring rolls.",
+        "We usually play games, such as cards and karaoke, after dinner."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Nêu ví dụ cụ thể giúp lời kể sinh động và dễ hình dung hơn nhiều so với nói chung chung.",
+      "altOf": "giving-examples"
+    },
+    {
+      "pattern": "It's [tính từ] to me because [mệnh đề].",
+      "use": "Bày tỏ cảm xúc/ý nghĩa của truyền thống và lý do.",
+      "register": "neutral",
+      "examples": [
+        "It's very meaningful to me because it brings the whole family together.",
+        "It's special to me because we only do it once a year."
+      ],
+      "explanationVi": "'because' nối lý do, rất hợp cấp độ B1. Cấu trúc này giúp bạn vừa nêu cảm xúc vừa giải thích — nghe sâu sắc hơn là chỉ nói 'I like it'."
+    },
+    {
+      "pattern": "Although [mệnh đề], we still [V].",
+      "use": "Nói về việc vẫn duy trì truyền thống dù có khó khăn/thay đổi.",
+      "register": "neutral",
+      "examples": [
+        "Although we live far apart now, we still get together every Tet.",
+        "Although my grandparents have passed away, we still keep their customs."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù). Kết hợp với 'still' (vẫn) cho thấy sự bền bỉ của truyền thống — một ý rất hay khi kể."
+    },
+    {
+      "pattern": "My [người thân], who [mệnh đề], [V].",
+      "use": "Giới thiệu một người thân kèm thông tin mô tả thêm.",
+      "register": "neutral",
+      "examples": [
+        "My grandmother, who is over eighty, still cooks for the whole family.",
+        "My uncle, who lives abroad, always comes home for the holidays."
+      ],
+      "explanationVi": "Mệnh đề quan hệ với 'who' dùng cho người, bổ sung thông tin mà không phải tách thành câu mới. Giúp câu dài và mượt hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi bổ sung một chi tiết bất ngờ hoặc đính chính nhẹ nhàng.", "example": "Actually, this tradition started with my great-grandmother." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ chân thành về cảm xúc.", "example": "Honestly, those family dinners are what I miss the most." },
+    { "term": "especially", "ipa": "/ɪˈspeʃ.əl.i/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm nổi bật trong nhiều thứ.", "example": "I love the holidays, especially the food we cook together." },
+    { "term": "these days", "ipa": "/ðiːz deɪz/", "vi": "dạo này, thời nay", "when": "So sánh hiện tại với quá khứ khi nói truyền thống thay đổi.", "example": "These days, we celebrate online because some relatives live abroad." },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Khẳng định điều hiển nhiên một cách thân thiện.", "example": "Of course, my grandmother's cooking is always the best part." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang trò chuyện với một người bạn nước ngoài (Mai) về các truyền thống trong gia đình mình. Cô ấy tò mò muốn biết gia đình bạn thường làm gì vào những dịp đặc biệt.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "I've always been curious about Vietnamese families. Could you tell me about a tradition that your family really cares about?",
+        "ipa": "/aɪv ˈɔːl.weɪz biːn ˈkjʊə.ri.əs əˈbaʊt ˌvjet.nəˈmiːz ˈfæm.əl.iz kʊd juː tel miː əˈbaʊt ə trəˈdɪʃ.ən ðæt jɔːr ˈfæm.əl.i ˈrɪə.li keəz əˈbaʊt/",
+        "vi": "Mình luôn tò mò về các gia đình Việt Nam. Bạn kể cho mình nghe về một truyền thống mà gia đình bạn thực sự coi trọng được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course! One tradition my family keeps is gathering at my grandparents' house every year ____ celebrate Tet, which is the Lunar New Year.",
+        "ipa": "/əv ˈkɔːrs wʌn trəˈdɪʃ.ən maɪ ˈfæm.əl.i kiːps ɪz ˈɡæð.ər.ɪŋ æt maɪ ˈɡræn.peə.rənts haʊs ˈev.ri jɪər tə ˈsel.ə.breɪt tet wɪtʃ ɪz ðə ˈluː.nər njuː jɪər/",
+        "vi": "Tất nhiên rồi! Một truyền thống gia đình mình giữ là tụ họp tại nhà ông bà mỗi năm ____ đón Tết, tức là Tết Nguyên đán.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in order to",
+            "explanationVi": "Dùng 'in order to + V' để nói mục đích (để đón Tết). Xem mẫu câu 'Every year, we... in order to...'. Có thể rút gọn thành 'to' nhưng 'in order to' rõ và trang trọng hơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That sounds lovely! What do you usually do when the whole family gets together?",
+        "ipa": "/ðæt saʊndz ˈlʌv.li wɒt duː juː ˈjuː.ʒu.ə.li duː wen ðə həʊl ˈfæm.əl.i ɡets təˈɡeð.ər/",
+        "vi": "Nghe thật tuyệt! Cả nhà thường làm gì khi tụ họp với nhau vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "We usually cook traditional dishes together, ____ banh chung and spring rolls, and afterwards we play games and share stories. Honestly, the cooking is my favorite part because everyone helps out.",
+        "ipa": "/wiː ˈjuː.ʒu.ə.li kʊk trəˈdɪʃ.ən.əl ˈdɪʃ.ɪz təˈɡeð.ər sʌtʃ æz bɑːn tʃʊŋ ænd sprɪŋ rəʊlz ænd ˈɑːf.tə.wədz wiː pleɪ ɡeɪmz ænd ʃeər ˈstɔː.riz ˈɒn.ɪst.li ðə ˈkʊk.ɪŋ ɪz maɪ ˈfeɪ.vər.ɪt pɑːt bɪˈkɒz ˈev.ri.wʌn helps aʊt/",
+        "vi": "Cả nhà thường cùng nấu các món truyền thống, ____ bánh chưng và nem rán, sau đó chúng mình chơi trò chơi và kể chuyện. Thành thật mà nói, nấu ăn là phần mình thích nhất vì ai cũng phụ một tay.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "such as",
+            "explanationVi": "Dùng 'such as' để nêu ví dụ cho 'traditional dishes'. Xem mẫu câu 'We usually..., such as...'. Nêu ví dụ cụ thể làm lời kể sinh động hơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I love that everyone joins in. Is there a special dish or recipe that's been in your family for a long time?",
+        "ipa": "/aɪ lʌv ðæt ˈev.ri.wʌn dʒɔɪnz ɪn ɪz ðeər ə ˈspeʃ.əl dɪʃ ɔːr ˈres.ɪ.pi ðæts biːn ɪn jɔːr ˈfæm.əl.i fɔːr ə lɒŋ taɪm/",
+        "vi": "Mình thích chuyện ai cũng tham gia. Có món hay công thức đặc biệt nào đã gắn bó với gia đình bạn từ lâu không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, my grandmother, ____ is over eighty now, makes a homemade cake using a recipe that has been passed down for three generations. It's really meaningful to me because it reminds me of my childhood.",
+        "ipa": "/jes maɪ ˈɡræn.mʌð.ər huː ɪz ˈəʊ.vər ˈeɪ.ti naʊ meɪks ə ˌhəʊmˈmeɪd keɪk ˈjuː.zɪŋ ə ˈres.ɪ.pi ðæt hæz biːn pɑːst daʊn fɔːr θriː ˌdʒen.əˈreɪ.ʃənz ɪts ˈrɪə.li ˈmiː.nɪŋ.fəl tə miː bɪˈkɒz ɪt rɪˈmaɪndz miː əv maɪ ˈtʃaɪld.hʊd/",
+        "vi": "Có chứ, bà mình, ____ năm nay đã hơn tám mươi tuổi, làm một chiếc bánh nhà làm theo công thức đã được truyền lại qua ba thế hệ. Nó thực sự có ý nghĩa với mình vì gợi nhớ tuổi thơ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "who",
+            "explanationVi": "Dùng đại từ quan hệ 'who' cho người (bà của mình) để bổ sung thông tin. Nếu là vật thì dùng 'which'. Xem mẫu câu 'My..., who..., ...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That's such a beautiful story. Has the way you celebrate changed at all over the years?",
+        "ipa": "/ðæts sʌtʃ ə ˈbjuː.tɪ.fəl ˈstɔː.ri hæz ðə weɪ juː ˈsel.ə.breɪt tʃeɪndʒd æt ɔːl ˈəʊ.vər ðə jɪəz/",
+        "vi": "Câu chuyện đẹp thật đấy. Cách gia đình bạn ăn mừng có thay đổi gì qua các năm không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Definitely. ____ some of my relatives now live abroad, we still find ways to celebrate together, especially through video calls. We're a close-knit family, so we try to stay connected ____.",
+        "ipa": "/ˈdef.ɪn.ət.li ɔːlˈðəʊ sʌm əv maɪ ˈrel.ə.tɪvz naʊ lɪv əˈbrɔːd wiː stɪl faɪnd weɪz tə ˈsel.ə.breɪt təˈɡeð.ər ɪˈspeʃ.əl.i θruː ˈvɪd.i.əʊ kɔːlz wɪər ə ˌkləʊsˈnɪt ˈfæm.əl.i səʊ wiː traɪ tə steɪ kəˈnek.tɪd/",
+        "vi": "Chắc chắn rồi. ____ một số họ hàng của mình giờ sống ở nước ngoài, chúng mình vẫn tìm cách ăn mừng cùng nhau, đặc biệt là qua các cuộc gọi video. Nhà mình là một gia đình gắn bó, nên chúng mình cố gắng giữ liên lạc ____.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Although",
+            "explanationVi": "Dùng 'Although' để mở mệnh đề nhượng bộ (mặc dù). Kết hợp với 'still' phía sau cho thấy truyền thống vẫn được duy trì dù có khó khăn. Xem mẫu 'Although..., we still...'."
+          },
+          {
+            "type": "personal",
+            "hint": "Một trạng từ chỉ tần suất bạn giữ liên lạc. Ví dụ: 'regularly', 'frequently'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "It's wonderful that you keep these traditions alive. Thank you so much for sharing all of this with me!",
+        "ipa": "/ɪts ˈwʌn.də.fəl ðæt juː kiːp ðiːz trəˈdɪʃ.ənz əˈlaɪv θæŋk juː səʊ mʌtʃ fɔːr ˈʃeə.rɪŋ ɔːl əv ðɪs wɪð miː/",
+        "vi": "Thật tuyệt khi bạn giữ gìn được những truyền thống này. Cảm ơn bạn rất nhiều vì đã chia sẻ tất cả với mình!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Tết Nguyên đán là dịp lễ quan trọng nhất với người Việt: cả gia đình sum họp, dọn dẹp nhà cửa, làm bàn thờ tổ tiên và lì xì cho trẻ nhỏ.",
+    "Nhiều gia đình Việt sống nhiều thế hệ chung một nhà (ông bà - cha mẹ - con cháu), điều này ở phương Tây ít phổ biến hơn, nên là chủ đề thú vị để kể.",
+    "Khi nói về tổ tiên với người nước ngoài, nên giải thích ngắn gọn tục thắp hương/cúng giỗ vì đây là nét văn hóa họ có thể chưa quen.",
+    "Người phương Tây thường rất hứng thú với các món ăn truyền thống — nêu tên món cụ thể (banh chung, spring rolls) và giải thích ngắn sẽ khiến câu chuyện hấp dẫn hơn."
+  ],
+
+  "commonMistakes": [
+    "Quên thêm 's' số nhiều cho 'traditions', 'ancestors', 'generations' khi nói về nhiều thứ.",
+    "Dùng 'celebrate for Tet' — sai giới từ. Đúng là 'celebrate Tet' (không có 'for').",
+    "Nhầm mệnh đề quan hệ: dùng 'which' cho người. Người dùng 'who', vật dùng 'which'.",
+    "Nói cộc lốc 'My family has tradition.' Hãy mở rộng bằng ví dụ và lý do: '..., such as...', '... because...'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể về gia đình mình như đang trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nước ngoài nói tiếng Anh, đang tò mò về gia đình tôi. Hãy hỏi tôi từng câu một về các truyền thống gia đình (dịp lễ quan trọng, món ăn, thói quen cuối tuần, cảm xúc của tôi). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và đặt thêm câu hỏi nối tiếp, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'such as', 'because', 'although' và mệnh đề quan hệ 'who/which'. Nói thân thiện, chậm rãi. Cuối buổi, hãy khen 2 điểm tôi làm tốt và nêu 2 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi thêm những câu so sánh truyền thống xưa và nay để tôi tập dùng thì quá khứ và hiện tại.'",
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật và dùng nhiều thành ngữ hơn.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được một truyền thống gia đình bằng câu có 'such as' hoặc 'because', không nhìn gợi ý.",
+    "Tôi dùng được mệnh đề quan hệ 'who/which' để giới thiệu một người thân.",
+    "Tôi bày tỏ được vì sao truyền thống đó có ý nghĩa với mình một cách mạch lạc."
+  ]
+}

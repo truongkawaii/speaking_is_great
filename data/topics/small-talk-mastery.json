@@ -1,0 +1,359 @@
+{
+  "id": "small-talk-mastery",
+  "category": "advanced",
+  "title": "Bậc thầy small talk",
+  "titleEn": "Small Talk Mastery",
+  "level": "C1",
+  "functions": ["small-talk", "greetings", "opinions", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Khơi mào và duy trì một cuộc trò chuyện xã giao tự nhiên với người mới quen",
+    "Chuyển mạch chủ đề mượt mà và đào sâu bằng câu hỏi mở thay vì câu hỏi đóng",
+    "Dùng idiom, cụm cố định và sắc thái tinh tế để nghe như người bản xứ",
+    "Thoát khỏi cuộc trò chuyện một cách lịch sự mà không gây ngượng",
+    "Đổi register linh hoạt giữa thân mật và trang trọng tùy đối tượng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "icebreaker",
+      "ipa": "/ˈaɪs.breɪ.kər/",
+      "vi": "câu/hành động phá băng, mở màn trò chuyện (danh từ)",
+      "register": "neutral",
+      "example": "Asking about the weather is a classic icebreaker, even if it sounds a bit clichéd.",
+      "exampleVi": "Hỏi về thời tiết là một câu phá băng kinh điển, dù nghe hơi sáo.",
+      "note": "Danh từ. Là câu nói/câu hỏi đầu tiên giúp xóa bỏ sự ngượng ngập giữa hai người chưa quen.",
+      "synonyms": [
+        { "term": "opener", "ipa": "/ˈəʊ.pən.ər/", "register": "casual", "nuanceVi": "Đời thường hơn, chỉ 'câu mở đầu' nói chung; không nhất thiết mang ý 'làm tan băng giữa người lạ' như icebreaker." },
+        { "term": "conversation starter", "ipa": "/ˌkɒn.vəˈseɪ.ʃən ˈstɑː.tər/", "register": "neutral", "nuanceVi": "Cụm danh từ mô tả rõ ràng 'thứ khơi mào trò chuyện'; trung tính, hay dùng khi giải thích cho người học." }
+      ]
+    },
+    {
+      "term": "rapport",
+      "ipa": "/ræˈpɔːr/",
+      "vi": "sự ăn ý, thiện cảm, mối quan hệ hòa hợp (danh từ)",
+      "register": "formal",
+      "example": "A good salesperson knows how to build rapport within the first few minutes.",
+      "exampleVi": "Một người bán hàng giỏi biết cách tạo thiện cảm trong vài phút đầu.",
+      "note": "Danh từ, gốc Pháp nên 't' câm: đọc /ræˈpɔːr/. Hay đi với 'build / establish / develop rapport'.",
+      "synonyms": [
+        { "term": "connection", "ipa": "/kəˈnek.ʃən/", "register": "neutral", "nuanceVi": "Phổ biến, dễ dùng: 'we had an instant connection'. Nhẹ và đời thường hơn rapport." },
+        { "term": "chemistry", "ipa": "/ˈkem.ɪ.stri/", "register": "casual", "nuanceVi": "Nhấn sự 'hợp gu, ăn ý tự nhiên' giữa hai người; mang màu sắc cảm xúc, hay dùng cho quan hệ cá nhân." }
+      ]
+    },
+    {
+      "term": "to mingle",
+      "ipa": "/ˈmɪŋ.ɡəl/",
+      "vi": "đi giao lưu, trò chuyện với nhiều người trong sự kiện (động từ)",
+      "register": "neutral",
+      "example": "At networking events I force myself to mingle rather than hiding in a corner.",
+      "exampleVi": "Ở các sự kiện kết nối, tôi tự ép mình đi giao lưu thay vì trốn ở một góc.",
+      "note": "Động từ, gợi hình ảnh 'hòa vào đám đông' và nói chuyện với hết người này đến người khác.",
+      "synonyms": [
+        { "term": "to socialize", "ipa": "/ˈsəʊ.ʃəl.aɪz/", "register": "neutral", "nuanceVi": "Rộng hơn: 'giao tiếp xã hội' nói chung, không nhất thiết là đi vòng quanh gặp nhiều người như mingle." },
+        { "term": "to network", "ipa": "/ˈnet.wɜːk/", "register": "neutral", "nuanceVi": "Nhấn mục đích 'xây dựng quan hệ công việc/sự nghiệp', thực dụng hơn mingle." }
+      ]
+    },
+    {
+      "term": "small talk",
+      "ipa": "/ˈsmɔːl tɔːk/",
+      "vi": "chuyện phiếm xã giao (danh từ)",
+      "register": "neutral",
+      "example": "I'm terrible at small talk; I never know what to say after 'hello'.",
+      "exampleVi": "Tôi rất tệ khoản chuyện phiếm; tôi chẳng biết nói gì sau câu 'xin chào'.",
+      "note": "Danh từ không đếm được. Là chuyện nhẹ nhàng, không sâu, nhằm gắn kết xã giao chứ không trao đổi thông tin nặng.",
+      "synonyms": [
+        { "term": "chitchat", "ipa": "/ˈtʃɪt.tʃæt/", "register": "casual", "nuanceVi": "Thân mật, đôi khi hơi xem nhẹ ('chỉ là tán gẫu thôi'). Nghe đời thường hơn small talk." },
+        { "term": "banter", "ipa": "/ˈbæn.tər/", "register": "casual", "nuanceVi": "Là kiểu trêu đùa qua lại vui vẻ, có yếu tố hài hước; không chỉ là chuyện phiếm mà còn pha chọc ghẹo nhau." }
+      ]
+    },
+    {
+      "term": "awkward",
+      "ipa": "/ˈɔː.kwəd/",
+      "vi": "ngượng nghịu, gượng gạo, khó xử (tính từ)",
+      "register": "neutral",
+      "example": "There was an awkward silence until someone finally cracked a joke.",
+      "exampleVi": "Có một khoảng im lặng gượng gạo cho đến khi ai đó cuối cùng cũng pha trò.",
+      "note": "Tính từ rất thông dụng. Phát âm bẫy: /ˈɔː.kwəd/, không đọc 'aw-ward'.",
+      "synonyms": [
+        { "term": "uncomfortable", "ipa": "/ʌnˈkʌm.fə.tə.bəl/", "register": "neutral", "nuanceVi": "Trung tính, nhấn cảm giác 'không thoải mái' nói chung; nhẹ và lịch sự hơn awkward." },
+        { "term": "cringeworthy", "ipa": "/ˈkrɪndʒ.wɜː.ði/", "register": "casual", "nuanceVi": "Mạnh và đời thường: 'ngượng chín mặt, muốn độn thổ'. Dùng khi tình huống quê đến mức buồn cười." }
+      ]
+    },
+    {
+      "term": "engaging",
+      "ipa": "/ɪnˈɡeɪ.dʒɪŋ/",
+      "vi": "cuốn hút, lôi cuốn người nghe (tính từ)",
+      "register": "neutral",
+      "example": "She's such an engaging conversationalist that an hour feels like ten minutes.",
+      "exampleVi": "Cô ấy nói chuyện cuốn hút đến mức một tiếng trôi qua cứ ngỡ mười phút.",
+      "note": "Tính từ tích cực, khen ai đó khiến người khác muốn tiếp tục nghe/trò chuyện.",
+      "synonyms": [
+        { "term": "captivating", "ipa": "/ˈkæp.tɪ.veɪ.tɪŋ/", "register": "formal", "nuanceVi": "Mạnh hơn, 'mê hoặc, hút hồn'. Hơi văn vẻ, dùng khi muốn khen rất cao." },
+        { "term": "charismatic", "ipa": "/ˌkær.ɪzˈmæt.ɪk/", "register": "neutral", "nuanceVi": "Nhấn sức hút từ chính con người (khí chất, phong thái), không chỉ từ nội dung nói." }
+      ]
+    },
+    {
+      "term": "to chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "vi": "xen vào, góp lời vào cuộc trò chuyện (cụm động từ)",
+      "register": "casual",
+      "example": "Feel free to chime in whenever you have something to add.",
+      "exampleVi": "Cứ thoải mái góp lời bất cứ khi nào bạn có gì muốn nói thêm.",
+      "note": "Phrasal verb mang sắc thái 'tham gia tự nhiên, không cắt ngang thô lỗ'. Khác 'interrupt' (cắt ngang).",
+      "synonyms": [
+        { "term": "to weigh in", "ipa": "/weɪ ɪn/", "register": "neutral", "nuanceVi": "Nhấn 'đưa ra ý kiến có trọng lượng' vào một vấn đề đang bàn; nghiêm túc hơn chime in." },
+        { "term": "to interject", "ipa": "/ˌɪn.təˈdʒekt/", "register": "formal", "nuanceVi": "Trang trọng, 'chen vào nói một câu'. Có thể hơi gây cảm giác cắt ngang nếu không khéo." }
+      ]
+    },
+    {
+      "term": "to wind down",
+      "ipa": "/waɪnd daʊn/",
+      "vi": "lắng xuống dần, kết thúc từ từ (cụm động từ)",
+      "register": "neutral",
+      "example": "As the party began to wind down, people started saying their goodbyes.",
+      "exampleVi": "Khi bữa tiệc bắt đầu lắng xuống, mọi người bắt đầu chào tạm biệt.",
+      "note": "Phrasal verb. Cũng có nghĩa 'thư giãn cho đỡ căng' (I wind down by reading). Đừng nhầm với 'wind up' (kết thúc đột ngột / lên dây cót).",
+      "synonyms": [
+        { "term": "to die down", "ipa": "/daɪ daʊn/", "register": "neutral", "nuanceVi": "Nhấn 'nhỏ dần rồi tắt hẳn' (tiếng ồn, sự náo nhiệt); hơi mạnh hơn wind down." },
+        { "term": "to taper off", "ipa": "/ˈteɪ.pər ɒf/", "register": "formal", "nuanceVi": "Nhấn 'giảm dần đều theo thời gian'; hay dùng trong văn nói trang trọng/viết." }
+      ]
+    },
+    {
+      "term": "tactfully",
+      "ipa": "/ˈtækt.fəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "formal",
+      "example": "He tactfully steered the conversation away from politics before it got heated.",
+      "exampleVi": "Anh ấy khéo léo lái cuộc trò chuyện ra khỏi chủ đề chính trị trước khi nó nóng lên.",
+      "note": "Trạng từ. Từ gốc 'tact' = sự tế nhị. Nhấn việc xử lý tình huống nhạy cảm mà không làm ai mất lòng.",
+      "synonyms": [
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Nhấn 'khéo cân bằng các bên', như nhà ngoại giao; thiên về xử lý xung đột/ý kiến trái chiều." },
+        { "term": "gracefully", "ipa": "/ˈɡreɪs.fəl.i/", "register": "neutral", "nuanceVi": "Nhấn sự 'duyên dáng, nhẹ nhàng, không vụng về'; hay dùng cho cách thoát khỏi tình huống một cách thanh lịch." }
+      ]
+    },
+    {
+      "term": "effortlessly",
+      "ipa": "/ˈef.ət.ləs.li/",
+      "vi": "một cách dễ dàng, như không tốn sức (trạng từ)",
+      "register": "neutral",
+      "example": "Some people move effortlessly from one topic to another, and you barely notice the shift.",
+      "exampleVi": "Vài người chuyển từ chủ đề này sang chủ đề khác nhẹ tênh, đến mức bạn gần như không nhận ra.",
+      "note": "Trạng từ. Dùng để khen kỹ năng trông có vẻ tự nhiên, không gắng gượng.",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.ləs.li/", "register": "neutral", "nuanceVi": "Nhấn 'liền mạch, không thấy đường nối', hợp khi nói về chuyển chủ đề mượt mà." },
+        { "term": "smoothly", "ipa": "/ˈsmuːð.li/", "register": "neutral", "nuanceVi": "Phổ biến và đời thường nhất, 'trơn tru'; an toàn để dùng trong mọi ngữ cảnh." }
+      ]
+    },
+    {
+      "term": "genuine",
+      "ipa": "/ˈdʒen.ju.ɪn/",
+      "vi": "chân thành, thật lòng (tính từ)",
+      "register": "neutral",
+      "example": "People can tell the difference between polite nodding and genuine interest.",
+      "exampleVi": "Người ta phân biệt được giữa gật đầu cho lịch sự và sự quan tâm thật lòng.",
+      "note": "Tính từ. Phát âm bẫy: /ˈdʒen.ju.ɪn/, không đọc đuôi như 'wine'.",
+      "synonyms": [
+        { "term": "sincere", "ipa": "/sɪnˈsɪər/", "register": "neutral", "nuanceVi": "Rất gần nghĩa, nhấn 'không giả tạo, nói thật lòng'; hay dùng cho lời nói/lời cảm ơn." },
+        { "term": "heartfelt", "ipa": "/ˈhɑːt.felt/", "register": "formal", "nuanceVi": "Nhấn cảm xúc 'xuất phát từ tận đáy lòng'; mạnh và tình cảm hơn, hợp lời chúc/lời cảm ơn trang trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "So, what brings you to [sự kiện / nơi chốn]?",
+      "use": "Câu phá băng tự nhiên để bắt chuyện với người lạ tại một sự kiện.",
+      "register": "neutral",
+      "examples": [
+        "So, what brings you to the conference this year?",
+        "What brings you to this part of town?"
+      ],
+      "explanationVi": "'What brings you to…?' nghe tự nhiên và thân thiện hơn hỏi thẳng 'Why are you here?'. Đây là câu mở màn kinh điển ở sự kiện.",
+      "altOf": "breaking-ice"
+    },
+    {
+      "pattern": "I couldn't help but notice [danh từ / mệnh đề].",
+      "use": "Mở lời với người lạ bằng cách bình luận về một điểm chung dễ thấy.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't help but notice your accent — are you from Australia?",
+        "I couldn't help but notice that you're reading the same book I just finished."
+      ],
+      "explanationVi": "'I couldn't help but + V' = không thể không (làm gì). Đây là cách bắt chuyện duyên dáng vì nó cho thấy bạn để ý một cách tự nhiên, không đường đột.",
+      "altOf": "breaking-ice"
+    },
+    {
+      "pattern": "Speaking of [chủ đề vừa nhắc], [câu chuyển sang ý mới].",
+      "use": "Chuyển mạch chủ đề mượt mà bằng cách bám vào điều vừa được nói.",
+      "register": "neutral",
+      "examples": [
+        "Speaking of travel, have you ever been to Japan in spring?",
+        "Speaking of coffee, I've just discovered a fantastic little place nearby."
+      ],
+      "explanationVi": "'Speaking of…' giúp bạn bắc cầu từ chủ đề cũ sang chủ đề mới một cách logic, tránh đổi đề tài đột ngột gây hụt hẫng.",
+      "altOf": "changing-topic"
+    },
+    {
+      "pattern": "That reminds me of [danh từ / mệnh đề].",
+      "use": "Chuyển chủ đề bằng một liên tưởng cá nhân, giữ mạch trò chuyện tự nhiên.",
+      "register": "casual",
+      "examples": [
+        "That reminds me of a trip I took last summer.",
+        "That reminds me — did you ever hear back about that job?"
+      ],
+      "explanationVi": "'That reminds me…' cho thấy bạn thật sự lắng nghe và liên hệ được với trải nghiệm riêng — một dấu hiệu của người trò chuyện cuốn hút.",
+      "altOf": "changing-topic"
+    },
+    {
+      "pattern": "I'd love to hear more about [danh từ], if you don't mind me asking.",
+      "use": "Đào sâu chủ đề bằng câu hỏi mở mà vẫn giữ sự tế nhị.",
+      "register": "formal",
+      "examples": [
+        "I'd love to hear more about your research, if you don't mind me asking.",
+        "I'd love to hear more about how you got into photography."
+      ],
+      "explanationVi": "'if you don't mind me asking' là tấm đệm lịch sự, làm câu hỏi nghe nhã nhặn, để người kia thoải mái từ chối nếu muốn.",
+      "altOf": "deepening-talk"
+    },
+    {
+      "pattern": "It's been great chatting, but I should probably [V] before [mệnh đề].",
+      "use": "Kết thúc cuộc trò chuyện một cách lịch sự, không gây ngượng.",
+      "register": "neutral",
+      "examples": [
+        "It's been great chatting, but I should probably mingle a bit before the talk starts.",
+        "It's been lovely talking to you, but I really should get going before it gets late."
+      ],
+      "explanationVi": "Mẫu thoát chuyện chuẩn: khen cuộc trò chuyện ('It's been great…') + đưa lý do mềm ('I should probably…'). 'probably' làm câu bớt đột ngột, nghe tự nhiên hơn.",
+      "altOf": "exiting-gracefully"
+    },
+    {
+      "pattern": "We should definitely [V] sometime — let me give you my [thông tin liên hệ].",
+      "use": "Kết thúc nhưng để ngỏ khả năng giữ liên lạc.",
+      "register": "casual",
+      "examples": [
+        "We should definitely grab a coffee sometime — let me give you my number.",
+        "We should definitely catch up again sometime; let's connect on LinkedIn."
+      ],
+      "explanationVi": "Cách chốt ấm áp: vừa đóng cuộc trò chuyện vừa mở ra lần gặp sau. 'definitely' và 'sometime' làm lời mời chân thành mà không tạo áp lực cam kết cụ thể.",
+      "altOf": "exiting-gracefully"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một ý kiến chân thành, tạo cảm giác gần gũi, cởi mở.", "example": "Honestly, I used to dread these events, but I've grown to enjoy them." },
+    { "term": "as it happens", "ipa": "/æz ɪt ˈhæp.ənz/", "vi": "thật trùng hợp là, hóa ra là", "when": "Khi tiết lộ một sự trùng hợp thú vị làm cuộc trò chuyện sinh động.", "example": "As it happens, I grew up in the same town as you." },
+    { "term": "come to think of it", "ipa": "/kʌm tə ˈθɪŋk ɒv ɪt/", "vi": "à mà nghĩ lại thì", "when": "Khi chợt nhớ ra điều liên quan, dẫn vào một ý mới một cách tự nhiên.", "example": "Come to think of it, we may have met at last year's workshop." },
+    { "term": "if I'm being honest", "ipa": "/ɪf aɪm ˈbiː.ɪŋ ˈɒn.ɪst/", "vi": "nếu phải nói thật", "when": "Khi sắp nói một ý hơi thẳng thắn nhưng vẫn muốn giữ sự tế nhị.", "example": "If I'm being honest, I find large parties a little overwhelming." },
+    { "term": "in any case", "ipa": "/ɪn ˈen.i keɪs/", "vi": "dù sao đi nữa", "when": "Khi muốn gói lại một nhánh chuyện và quay về mạch chính hoặc chuyển hướng.", "example": "In any case, it's been a pleasure talking to you." },
+    { "term": "no pressure", "ipa": "/nəʊ ˈpreʃ.ər/", "vi": "không ép buộc gì đâu", "when": "Khi đưa ra lời mời/đề nghị mà muốn người kia thoải mái từ chối.", "example": "We could meet up next week — no pressure if you're busy, though." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang dự một sự kiện kết nối (networking event) và bắt chuyện với một người lạ đứng cạnh quầy cà phê. Cuộc trò chuyện đi từ phá băng, đào sâu, đến lúc lịch sự kết thúc.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Hi there — I couldn't help but notice you've been hovering around the coffee station as long as I have. So, what ____ you to this event?",
+        "ipa": "/haɪ ðeə aɪ ˈkʊd.ənt help bʌt ˈnəʊ.tɪs juːv biːn ˈhɒv.ər.ɪŋ əˈraʊnd ðə ˈkɒf.i ˈsteɪ.ʃən æz lɒŋ æz aɪ hæv səʊ wɒt ... juː tə ðɪs ɪˈvent/",
+        "vi": "Chào bạn — tôi không thể không để ý là bạn cũng lượn quanh quầy cà phê lâu chẳng kém gì tôi. Vậy, điều gì ____ bạn đến sự kiện này thế?",
+        "blanks": [
+          { "type": "knowledge", "answer": "brings", "explanationVi": "Dùng 'brings' trong mẫu phá băng 'What brings you to…?' (điều gì đưa bạn đến đây). Chia số ít vì chủ ngữ là 'what'. Xem mẫu câu 'What brings you to…?'." }
+        ]
+      },
+      {
+        "speaker": "Người lạ",
+        "text": "Honestly, my company sent me, although I almost didn't come because I find these gatherings a bit overwhelming. What about you?",
+        "ipa": "/ˈɒn.ɪst.li maɪ ˈkʌm.pən.i sent miː ɔːlˈðəʊ aɪ ˈɔːl.məʊst ˈdɪd.ənt kʌm bɪˈkɒz aɪ faɪnd ðiːz ˈɡæð.ər.ɪŋz ə bɪt ˌəʊ.vəˈwel.mɪŋ wɒt əˈbaʊt juː/",
+        "vi": "Thật lòng mà nói, công ty cử tôi đến, dù suýt nữa tôi đã không đi vì tôi thấy mấy buổi tụ họp kiểu này hơi quá tải. Còn bạn thì sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I know exactly what you mean. To be honest, I used to dread networking; ____, I've gradually learned to treat it as a chance to meet interesting people rather than a chore.",
+        "ipa": "/aɪ nəʊ ɪɡˈzækt.li wɒt juː miːn tə biː ˈɒn.ɪst aɪ juːst tə dred ˈnet.wɜː.kɪŋ haʊˈev.ər aɪv ˈɡrædʒ.u.ə.li lɜːnd tə triːt ɪt æz ə tʃɑːns tə miːt ˈɪn.trəs.tɪŋ ˈpiː.pəl ˈrɑː.ðər ðæn ə tʃɔː/",
+        "vi": "Tôi hiểu chính xác ý bạn. Thành thật mà nói, tôi từng sợ việc kết nối; ____, dần dần tôi học được cách xem nó như cơ hội gặp những người thú vị thay vì một việc cực chẳng đã.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (= tuy nhiên) làm trạng từ liên kết để nối hai vế trái ý: trước sợ, giờ đã thay đổi. Lưu ý dấu câu: 'however' đứng giữa hai mệnh đề độc lập thì trước nó dùng dấu chấm phẩy và sau nó có dấu phẩy (…; however, …). 'however' trang trọng và mượt hơn 'but' trong văn nói lịch sự." }
+        ]
+      },
+      {
+        "speaker": "Người lạ",
+        "text": "That's a healthy way to look at it. Speaking of interesting people, I work in ____, which means I spend most of my day talking to complete strangers anyway.",
+        "ipa": "/ðæts ə ˈhel.θi weɪ tə lʊk æt ɪt ˈspiː.kɪŋ ɒv ˈɪn.trəs.tɪŋ ˈpiː.pəl aɪ wɜːk ɪn ... wɪtʃ miːnz aɪ spend məʊst ɒv maɪ deɪ ˈtɔː.kɪŋ tə kəmˈpliːt ˈstreɪn.dʒəz ˈen.i.weɪ/",
+        "vi": "Đó là cách nhìn lành mạnh đấy. Nói đến những người thú vị, tôi làm trong ngành ____, tức là dù sao mỗi ngày tôi cũng dành phần lớn thời gian nói chuyện với người hoàn toàn xa lạ.",
+        "blanks": [
+          { "type": "personal", "hint": "Lĩnh vực/ngành nghề của bạn (đóng vai). Ví dụ: 'sales', 'education', 'tech'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds like the perfect training ground for small talk! I'd love to hear more about your work, ____ you don't mind me asking — what's the most surprising thing you've learned from all those conversations?",
+        "ipa": "/ðæt saʊndz laɪk ðə ˈpɜː.fɪkt ˈtreɪ.nɪŋ ɡraʊnd fɔː smɔːl tɔːk aɪd lʌv tə hɪə mɔː əˈbaʊt jɔː wɜːk ... juː dəʊnt maɪnd miː ˈɑːs.kɪŋ wɒts ðə məʊst səˈpraɪ.zɪŋ θɪŋ juːv lɜːnd frɒm ɔːl ðəʊz ˌkɒn.vəˈseɪ.ʃənz/",
+        "vi": "Nghe như môi trường luyện small talk hoàn hảo luôn! Tôi rất muốn nghe thêm về công việc của bạn, ____ bạn không phiền — điều bất ngờ nhất mà bạn học được từ tất cả những cuộc trò chuyện đó là gì?",
+        "blanks": [
+          { "type": "knowledge", "answer": "if", "explanationVi": "Dùng 'if' trong cụm đệm lịch sự 'if you don't mind me asking' (nếu bạn không phiền khi tôi hỏi). Đây là lớp đệm giúp câu hỏi nghe tế nhị. Xem mẫu 'I'd love to hear more about…, if you don't mind me asking.'." }
+        ]
+      },
+      {
+        "speaker": "Người lạ",
+        "text": "Probably that people open up far more quickly when you ask genuine questions rather than reciting a script. Not only does curiosity put others at ease, but it also makes the whole exchange feel effortless.",
+        "ipa": "/ˈprɒb.ə.bli ðæt ˈpiː.pəl ˈəʊ.pən ʌp fɑː mɔː ˈkwɪk.li wen juː ɑːsk ˈdʒen.ju.ɪn ˈkwes.tʃənz ˈrɑː.ðər ðæn rɪˈsaɪ.tɪŋ ə skrɪpt nɒt ˈəʊn.li dʌz kjʊəˈrɪɒs.ɪ.ti pʊt ˈʌð.əz æt iːz bʌt ɪt ˈɔːl.səʊ meɪks ðə həʊl ɪksˈtʃeɪndʒ fiːl ˈef.ət.ləs/",
+        "vi": "Chắc là việc người ta cởi mở nhanh hơn nhiều khi bạn hỏi những câu chân thành thay vì đọc thuộc lòng một kịch bản. Sự tò mò không những khiến người khác thấy thoải mái, mà còn làm cả cuộc trao đổi trở nên nhẹ tênh."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's such a good point. Come to think of it, despite ____ nervous at the start, I've actually enjoyed this chat far more than the talks I came here for.",
+        "ipa": "/ðæts sʌtʃ ə ɡʊd pɔɪnt kʌm tə θɪŋk ɒv ɪt dɪsˈpaɪt ... ˈnɜː.vəs æt ðə stɑːt aɪv ˈæk.tʃu.ə.li ɪnˈdʒɔɪd ðɪs tʃæt fɑː mɔː ðæn ðə tɔːks aɪ keɪm hɪə fɔː/",
+        "vi": "Quan điểm hay thật. À mà nghĩ lại thì, dù ____ căng thẳng lúc đầu, tôi lại thực sự thấy buổi trò chuyện này thú vị hơn nhiều so với các bài nói mà tôi đến đây để nghe.",
+        "blanks": [
+          { "type": "knowledge", "answer": "feeling", "explanationVi": "Sau 'despite' phải dùng danh từ hoặc V-ing, nên là 'despite feeling nervous' (dù cảm thấy căng thẳng). Không dùng mệnh đề đầy đủ; nếu muốn mệnh đề thì phải đổi sang 'although I felt nervous'." }
+        ]
+      },
+      {
+        "speaker": "Người lạ",
+        "text": "Likewise! Well, it looks like the next session is about to start and things are beginning to wind down here.",
+        "ipa": "/ˈlaɪk.waɪz wel ɪt lʊks laɪk ðə nekst ˈseʃ.ən ɪz əˈbaʊt tə stɑːt ænd θɪŋz ɑː bɪˈɡɪn.ɪŋ tə waɪnd daʊn hɪə/",
+        "vi": "Tôi cũng vậy! Mà có vẻ phiên kế tiếp sắp bắt đầu rồi và mọi thứ ở đây cũng đang lắng dần."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It's been great chatting, but I should probably head in before all the good seats are taken. We should definitely stay in touch — let me give you my ____, and we can grab a coffee sometime. No pressure, of course.",
+        "ipa": "/ɪts biːn ɡreɪt ˈtʃæt.ɪŋ bʌt aɪ ʃʊd ˈprɒb.ə.bli hed ɪn bɪˈfɔː ɔːl ðə ɡʊd siːts ɑː ˈteɪ.kən wiː ʃʊd ˈdef.ɪn.ət.li steɪ ɪn tʌtʃ let miː ɡɪv juː maɪ ... ænd wiː kæn ɡræb ə ˈkɒf.i ˈsʌm.taɪm nəʊ ˈpreʃ.ər ɒv kɔːs/",
+        "vi": "Trò chuyện với bạn thật vui, nhưng chắc tôi nên vào trong trước khi hết chỗ ngồi đẹp. Mình nhất định nên giữ liên lạc nhé — để tôi đưa bạn ____ của tôi, rồi hôm nào mình đi cà phê. Tất nhiên là không ép buộc gì đâu.",
+        "blanks": [
+          { "type": "personal", "hint": "Thông tin liên hệ bạn muốn đưa. Ví dụ: 'number', 'email', 'LinkedIn'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở văn hóa Anh-Mỹ, thời tiết là chủ đề phá băng an toàn và rất phổ biến — đừng coi đó là nhạt nhẽo, nó là cách 'bật đèn xanh' cho cuộc trò chuyện.",
+    "Có những chủ đề nên tránh với người mới quen (thường gọi là 'no-go zones'): chính trị, tôn giáo, lương bổng, tuổi tác, cân nặng. Khi lỡ chạm phải, hãy lái đi (steer away) một cách khéo léo.",
+    "Người phương Tây coi trọng câu hỏi mở (open-ended) và lắng nghe chủ động (active listening) — gật đầu, phản hồi ngắn ('Oh really?', 'That makes sense') cho thấy bạn thật sự quan tâm.",
+    "Việc 'thoát' cuộc trò chuyện một cách lịch sự là kỹ năng được chấp nhận và mong đợi; đưa ra một lý do mềm rồi chốt bằng lời mời giữ liên lạc là chuẩn mực, không hề bị xem là khiếm nhã."
+  ],
+
+  "commonMistakes": [
+    "Dùng câu hỏi đóng (yes/no) liên tục khiến cuộc trò chuyện cụt ('Do you like it here?' → 'Yes.'). Hãy hỏi mở: 'What do you like most about…?'.",
+    "Sai ngữ pháp sau 'despite/in spite of': phải là danh từ hoặc V-ing ('despite feeling nervous'), KHÔNG dùng mệnh đề ('despite I felt'). Muốn mệnh đề thì dùng 'although'.",
+    "Đảo ngữ sai với 'Not only…' đầu câu: phải đảo trợ động từ — 'Not only DOES curiosity…', không phải 'Not only curiosity does…'.",
+    "Thoát chuyện đột ngột kiểu 'OK, bye' nghe lạnh lùng. Hãy bọc bằng 'It's been great chatting, but I should probably…' để giữ thiện cảm."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện small talk như thật ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người lạ thân thiện mà tôi vừa gặp tại một sự kiện kết nối (networking event) nói tiếng Anh. Hãy trò chuyện small talk với tôi một cách tự nhiên: bắt đầu bằng một câu phá băng, rồi để cuộc trò chuyện đi qua các giai đoạn (phá băng → đào sâu chủ đề → chuyển mạch chủ đề → kết thúc lịch sự). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như người bản xứ và đặt câu hỏi mở để tôi nói tiếp; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế, idiom hoặc cụm chuyển chủ đề (such as 'speaking of…', 'that reminds me…') bằng tiếng Việt; (3) khuyến khích tôi dùng câu phức với 'although', 'despite', 'however', 'not only… but also'. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ vô tình chạm vào chủ đề nhạy cảm) để tôi tập lái đi một cách khéo léo. Cuối buổi, hãy chấm điểm độ tự nhiên của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu phá băng nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người ít nói, trả lời cụt lủn, để tôi tập kỹ năng giữ cho cuộc trò chuyện không bị chết.'",
+      "Thêm: 'Hãy đổi register sang trang trọng (gặp một CEO) rồi sang thân mật (gặp một người bạn của bạn), để tôi tập chuyển giọng linh hoạt.'",
+      "Thêm: 'Cuối buổi, hãy liệt kê các idiom và cụm chuyển chủ đề mà người bản xứ sẽ dùng trong tình huống này.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở màn được một cuộc trò chuyện với người lạ bằng câu phá băng tự nhiên, không cần nhìn gợi ý.",
+    "Tôi chuyển mạch chủ đề mượt mà bằng 'speaking of…' hoặc 'that reminds me…' và dùng đúng 'despite + V-ing', đảo ngữ 'not only…'.",
+    "Tôi kết thúc cuộc trò chuyện một cách lịch sự và để ngỏ việc giữ liên lạc mà không gây ngượng."
+  ]
+}

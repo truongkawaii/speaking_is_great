@@ -1,0 +1,344 @@
+{
+  "id": "getting-haircut",
+  "category": "daily-life",
+  "title": "Đi cắt tóc",
+  "titleEn": "Getting a Haircut",
+  "level": "A2",
+  "functions": ["requesting", "describing", "asking-info"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nói rõ kiểu tóc bạn muốn (cắt ngắn, tỉa, giữ độ dài)",
+    "Đề nghị lịch sự với thợ cắt tóc bằng 'I'd like...' và 'Could you...?'",
+    "Hỏi về giá tiền, thời gian chờ và các dịch vụ thêm",
+    "Dùng một vài cấu trúc đơn giản như 'not too short', 'a little shorter' khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "haircut",
+      "ipa": "/ˈheə.kʌt/",
+      "vi": "kiểu tóc / lần cắt tóc (danh từ)",
+      "register": "neutral",
+      "example": "I'd like a haircut, please.",
+      "exampleVi": "Tôi muốn cắt tóc.",
+      "note": "Danh từ đếm được. 'to get a haircut' = đi cắt tóc; 'to have a haircut' cũng được.",
+      "synonyms": [
+        { "term": "trim", "ipa": "/trɪm/", "register": "neutral", "nuanceVi": "Chỉ cắt tỉa nhẹ một chút cho gọn, KHÔNG cắt ngắn nhiều. Dùng khi bạn chỉ muốn dọn phần đuôi tóc." },
+        { "term": "cut", "ipa": "/kʌt/", "register": "casual", "nuanceVi": "Đời thường, ngắn gọn. 'I just want a quick cut.' Nghĩa rộng hơn, có thể cắt nhiều hay ít." }
+      ]
+    },
+    {
+      "term": "hairdresser",
+      "ipa": "/ˈheəˌdres.ər/",
+      "vi": "thợ làm tóc (danh từ)",
+      "register": "neutral",
+      "example": "My hairdresser is very friendly.",
+      "exampleVi": "Thợ làm tóc của tôi rất thân thiện.",
+      "note": "Danh từ chỉ người. 'hairdresser' làm tóc nói chung; 'barber' thường cắt tóc cho nam.",
+      "synonyms": [
+        { "term": "barber", "ipa": "/ˈbɑː.bər/", "register": "neutral", "nuanceVi": "Thợ cắt tóc, thường phục vụ nam giới và làm ở 'barber shop'. 'hairdresser' phục vụ cả nam và nữ, làm nhiều kiểu hơn." },
+        { "term": "stylist", "ipa": "/ˈstaɪ.lɪst/", "register": "formal", "nuanceVi": "Nghe chuyên nghiệp/sang hơn, nhấn vào việc tạo kiểu (style). Hay dùng ở salon cao cấp." }
+      ]
+    },
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "vi": "cuộc hẹn (đã đặt trước) (danh từ)",
+      "register": "neutral",
+      "example": "I have an appointment at three o'clock.",
+      "exampleVi": "Tôi có hẹn lúc ba giờ.",
+      "note": "Danh từ. 'to make/book an appointment' = đặt lịch hẹn. Nếu không hẹn trước thì gọi là 'walk-in'.",
+      "synonyms": [
+        { "term": "booking", "ipa": "/ˈbʊk.ɪŋ/", "register": "neutral", "nuanceVi": "Cũng là việc đặt trước. Người Anh hay dùng 'booking'; 'appointment' nhấn vào một khung giờ hẹn cụ thể với một người." }
+      ]
+    },
+    {
+      "term": "to trim",
+      "ipa": "/tə trɪm/",
+      "vi": "tỉa, cắt gọn nhẹ (động từ)",
+      "register": "neutral",
+      "example": "Could you just trim the ends, please?",
+      "exampleVi": "Bạn tỉa nhẹ phần đuôi tóc giúp tôi nhé?",
+      "note": "Động từ, mang nghĩa cắt một chút cho gọn. Đối lập với cắt ngắn nhiều.",
+      "synonyms": [
+        { "term": "to cut", "ipa": "/tə kʌt/", "register": "neutral", "nuanceVi": "Chung chung, có thể cắt nhiều hoặc ít. 'trim' nhấn rõ là chỉ cắt nhẹ một chút." },
+        { "term": "to shorten", "ipa": "/tə ˈʃɔː.tən/", "register": "neutral", "nuanceVi": "Nhấn vào kết quả 'làm cho ngắn hơn'. Vd 'Could you shorten it a bit?'" }
+      ]
+    },
+    {
+      "term": "fringe",
+      "ipa": "/frɪndʒ/",
+      "vi": "tóc mái (danh từ)",
+      "register": "neutral",
+      "example": "Please don't cut my fringe too short.",
+      "exampleVi": "Làm ơn đừng cắt tóc mái của tôi quá ngắn.",
+      "note": "Anh-Anh dùng 'fringe'; Anh-Mỹ dùng 'bangs' (luôn số nhiều).",
+      "synonyms": [
+        { "term": "bangs", "ipa": "/bæŋz/", "register": "neutral", "nuanceVi": "Cách gọi của người Mỹ cho 'tóc mái', luôn ở số nhiều: 'I want bangs.'" }
+      ]
+    },
+    {
+      "term": "to wash",
+      "ipa": "/tə wɒʃ/",
+      "vi": "gội (đầu) (động từ)",
+      "register": "neutral",
+      "example": "Would you like me to wash your hair first?",
+      "exampleVi": "Bạn có muốn tôi gội đầu trước không?",
+      "note": "Động từ. 'wash and cut' (gội và cắt) là combo rất thường gặp ở salon."
+    },
+    {
+      "term": "short",
+      "ipa": "/ʃɔːt/",
+      "vi": "ngắn (tính từ)",
+      "register": "neutral",
+      "example": "I'd like it a little shorter on the sides.",
+      "exampleVi": "Tôi muốn hai bên ngắn hơn một chút.",
+      "note": "Tính từ. So sánh hơn: 'shorter'. Cụm rất hay dùng: 'not too short' (đừng quá ngắn).",
+      "synonyms": [
+        { "term": "neat", "ipa": "/niːt/", "register": "neutral", "nuanceVi": "Nghĩa 'gọn gàng', không hẳn là ngắn. Dùng khi bạn muốn tóc nhìn sạch sẽ, ngăn nắp." },
+        { "term": "tidy", "ipa": "/ˈtaɪ.di/", "register": "casual", "nuanceVi": "Gần nghĩa 'neat', đời thường hơn. 'Just make it tidy.' = chỉ cần gọn gàng thôi." }
+      ]
+    },
+    {
+      "term": "curly",
+      "ipa": "/ˈkɜː.li/",
+      "vi": "xoăn (tính từ)",
+      "register": "neutral",
+      "example": "She has beautiful curly hair.",
+      "exampleVi": "Cô ấy có mái tóc xoăn rất đẹp.",
+      "note": "Tính từ tả tóc. Trái nghĩa: 'straight' (thẳng).",
+      "synonyms": [
+        { "term": "wavy", "ipa": "/ˈweɪ.vi/", "register": "neutral", "nuanceVi": "Nghĩa 'gợn sóng', xoăn nhẹ hơn 'curly'. Tóc lượn sóng chứ không xoăn tít." }
+      ]
+    },
+    {
+      "term": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "vi": "đắt, mắc tiền (tính từ)",
+      "register": "neutral",
+      "example": "This salon is not too expensive.",
+      "exampleVi": "Tiệm này không quá đắt.",
+      "note": "Tính từ. Trái nghĩa: 'cheap' (rẻ). Hỏi giá: 'How much is a haircut?'",
+      "synonyms": [
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hơi đắt'. Nghe nhẹ nhàng, thân mật hơn 'expensive'." }
+      ]
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Please cut it carefully around the ears.",
+      "exampleVi": "Làm ơn cắt cẩn thận quanh tai giúp tôi.",
+      "note": "Trạng từ, đứng sau động từ. Dùng khi muốn nhắc thợ làm kỹ.",
+      "synonyms": [
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, không mạnh tay'. Khác 'carefully' (kỹ lưỡng, không sai sót)." },
+        { "term": "slowly", "ipa": "/ˈsləʊ.li/", "register": "neutral", "nuanceVi": "Nhấn 'chậm rãi'. Dùng khi bạn muốn thợ làm từ từ, không vội." }
+      ]
+    },
+    {
+      "term": "to suit",
+      "ipa": "/tə suːt/",
+      "vi": "hợp (với ai) (động từ)",
+      "register": "neutral",
+      "example": "Do you think short hair will suit me?",
+      "exampleVi": "Bạn nghĩ tóc ngắn có hợp với tôi không?",
+      "note": "Động từ. 'It suits you' = nó hợp với bạn. Hay dùng để xin lời khuyên về kiểu tóc."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like + [danh từ / a haircut], please.",
+      "use": "Nói điều bạn muốn một cách lịch sự khi vào tiệm.",
+      "register": "neutral",
+      "examples": [
+        "I'd like a haircut, please.",
+        "I'd like a wash and a trim, please."
+      ],
+      "explanationVi": "'I'd like' = 'I would like', lịch sự hơn 'I want' (nghe hơi cộc). Đây là câu mở đầu an toàn nhất khi đề nghị.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could you + [động từ] ..., please?",
+      "use": "Nhờ thợ làm một việc cụ thể (cắt, tỉa, gội).",
+      "register": "neutral",
+      "examples": [
+        "Could you cut it a little shorter, please?",
+        "Could you just trim the ends, please?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?' và rất hợp khi nhờ người lạ. Thêm 'please' ở cuối cho nhã nhặn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Not too + [tính từ], please.",
+      "use": "Yêu cầu giới hạn, để thợ đừng làm quá tay.",
+      "register": "neutral",
+      "examples": [
+        "Not too short, please.",
+        "Not too much off the top, please."
+      ],
+      "explanationVi": "'not too + tính từ' = 'đừng quá...'. Cụm cực kỳ hữu ích để tránh bị cắt ngắn hơn ý muốn."
+    },
+    {
+      "pattern": "Can I have it [shorter / longer] on the [sides / top / back]?",
+      "use": "Mô tả bạn muốn ngắn/dài ở phần nào của đầu.",
+      "register": "neutral",
+      "examples": [
+        "Can I have it shorter on the sides?",
+        "Can I have it a bit longer on the top?"
+      ],
+      "explanationVi": "Dùng so sánh hơn 'shorter/longer' + 'on the...' để chỉ rõ vị trí. Giúp thợ hiểu đúng kiểu bạn muốn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "How much is + [danh từ]?",
+      "use": "Hỏi giá của một dịch vụ.",
+      "register": "neutral",
+      "examples": [
+        "How much is a haircut?",
+        "How much is a wash and cut?"
+      ],
+      "explanationVi": "Câu hỏi giá đơn giản nhất. 'How much...?' dùng cho thứ không đếm được hoặc một dịch vụ/món hàng cụ thể."
+    },
+    {
+      "pattern": "Do I need to make an appointment, or can I just walk in?",
+      "use": "Hỏi xem có cần đặt lịch trước không.",
+      "register": "neutral",
+      "examples": [
+        "Do I need to make an appointment, or can I just walk in?"
+      ],
+      "explanationVi": "'walk in' = đến trực tiếp không hẹn trước. Câu này dùng 'or' để đưa ra hai lựa chọn, nghe tự nhiên và rõ ràng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi muốn sửa lại ý hoặc đổi ý mà không cộc lốc.", "example": "Actually, can you leave the fringe a bit longer?" },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nói mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi nhiều.", "example": "I just want a quick trim today." },
+    { "term": "a little", "ipa": "/ə ˈlɪt.əl/", "vi": "một chút", "when": "Khi muốn nói mức độ nhỏ (ngắn hơn một chút).", "example": "Could you make it a little shorter?" },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ", "when": "Khi chưa chắc chắn, muốn gợi ý nhẹ.", "example": "Maybe a bit shorter on the sides?" },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, how much is it?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vào một tiệm cắt tóc và nói chuyện với thợ làm tóc về kiểu tóc bạn muốn.",
+    "lines": [
+      {
+        "speaker": "Thợ làm tóc",
+        "text": "Hi there, welcome! Do you have an appointment, or would you like to walk in today?",
+        "ipa": "/haɪ ðeə ˈwel.kəm duː juː hæv ən əˈpɔɪnt.mənt ɔː wʊd juː laɪk tə wɔːk ɪn təˈdeɪ/",
+        "vi": "Chào bạn, hân hạnh đón tiếp! Bạn có hẹn trước không, hay muốn vào cắt luôn hôm nay?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi! I don't have an appointment, so I'd like to ____ in, please. I just need a haircut.",
+        "ipa": "/haɪ aɪ dəʊnt hæv ən əˈpɔɪnt.mənt səʊ aɪd laɪk tə wɔːk ɪn pliːz aɪ dʒʌst niːd ə ˈheə.kʌt/",
+        "vi": "Chào bạn! Tôi không có hẹn, nên tôi muốn vào cắt luôn nhé. Tôi chỉ cần cắt tóc thôi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "walk",
+            "explanationVi": "'walk in' = đến trực tiếp không hẹn trước. Đây là cụm động từ rất thông dụng ở tiệm cắt tóc. Xem mẫu câu hỏi về đặt lịch."
+          }
+        ]
+      },
+      {
+        "speaker": "Thợ làm tóc",
+        "text": "No problem at all. Please take a seat. So, how would you like your hair done today?",
+        "ipa": "/nəʊ ˈprɒb.ləm ət ɔːl pliːz teɪk ə siːt səʊ haʊ wʊd juː laɪk jɔː heə dʌn təˈdeɪ/",
+        "vi": "Không sao cả. Mời bạn ngồi. Vậy hôm nay bạn muốn làm tóc kiểu thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd like a trim, please. Could you make it ____ shorter on the sides, but not too short on the top?",
+        "ipa": "/aɪd laɪk ə trɪm pliːz kʊd juː meɪk ɪt ə ˈlɪt.əl ˈʃɔː.tər ɒn ðə saɪdz bʌt nɒt tuː ʃɔːt ɒn ðə tɒp/",
+        "vi": "Tôi muốn tỉa nhẹ. Bạn cắt ngắn hơn ____ chút ở hai bên, nhưng đừng quá ngắn ở phần trên được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "a little",
+            "explanationVi": "'a little shorter' = ngắn hơn một chút. Dùng 'a little' trước so sánh hơn để chỉ mức độ nhỏ. Xem cụm 'a little' ở phần Trạng từ."
+          }
+        ]
+      },
+      {
+        "speaker": "Thợ làm tóc",
+        "text": "Got it. Would you like me to wash your hair first? It's free, and it makes the cut easier.",
+        "ipa": "/ɡɒt ɪt wʊd juː laɪk miː tə wɒʃ jɔː heə fɜːst ɪts friː ænd ɪt meɪks ðə kʌt ˈiː.zi.ər/",
+        "vi": "Hiểu rồi. Bạn có muốn tôi gội đầu trước không? Miễn phí đấy, và sẽ giúp cắt dễ hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. ____, can you leave my fringe a bit longer? I think a long fringe ____ me better.",
+        "ipa": "/jes pliːz ˈæk.tʃu.ə.li kæn juː liːv maɪ frɪndʒ ə bɪt ˈlɒŋ.ɡər aɪ θɪŋk ə lɒŋ frɪndʒ suːts miː ˈbet.ər/",
+        "vi": "Vâng. ____, bạn để tóc mái của tôi dài hơn một chút nhé? Tôi nghĩ tóc mái dài ____ tôi hơn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Actually",
+            "explanationVi": "'Actually' (thật ra thì) dùng để thêm hoặc đổi ý một cách nhẹ nhàng. Xem 'actually' ở phần Trạng từ."
+          },
+          {
+            "type": "knowledge",
+            "answer": "suits",
+            "explanationVi": "Động từ 'to suit' = hợp với ai. Chủ ngữ 'a long fringe' số ít nên chia 'suits'. Lưu ý 'fringe' là danh từ đếm được nên cần mạo từ 'a': 'a long fringe'. 'It suits me' = nó hợp với tôi."
+          }
+        ]
+      },
+      {
+        "speaker": "Thợ làm tóc",
+        "text": "Sure, that's a nice choice. By the way, would you also like a quick beard trim while you're here?",
+        "ipa": "/ʃɔː ðæts ə naɪs tʃɔɪs baɪ ðə weɪ wʊd juː ˈɔːl.səʊ laɪk ə kwɪk bɪəd trɪm waɪl jɔː hɪə/",
+        "vi": "Được, lựa chọn hay đấy. Tiện thể, bạn có muốn tỉa râu nhanh luôn khi đang ở đây không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "No, thanks, just the haircut today. By the way, how ____ is it in total?",
+        "ipa": "/nəʊ θæŋks dʒʌst ðə ˈheə.kʌt təˈdeɪ baɪ ðə weɪ haʊ mʌtʃ ɪz ɪt ɪn ˈtəʊ.təl/",
+        "vi": "Không, cảm ơn, hôm nay chỉ cắt tóc thôi. Tiện thể, tổng cộng ____ tiền vậy bạn?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "much",
+            "explanationVi": "'How much is it?' dùng để hỏi giá. Khi hỏi về tiền/giá ta luôn dùng 'much' (vì tiền là không đếm được), không dùng 'many'. Xem mẫu 'How much is...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Thợ làm tóc",
+        "text": "It's fifteen dollars for the wash and cut, which is one of our most popular services. Shall we start now?",
+        "ipa": "/ɪts fɪfˈtiːn ˈdɒl.əz fɔː ðə wɒʃ ænd kʌt wɪtʃ ɪz wʌn ɒv aʊə məʊst ˈpɒp.jə.lə ˈsɜː.vɪs.ɪz ʃæl wiː stɑːt naʊ/",
+        "vi": "Mười lăm đô cho cả gội và cắt, đây là một trong những dịch vụ được ưa chuộng nhất của chúng tôi. Mình bắt đầu nhé?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, tip cho thợ cắt tóc khoảng 10-20% giá dịch vụ là thông lệ lịch sự, dù không bắt buộc.",
+    "Salon đông khách thường yêu cầu đặt lịch (appointment) trước; tiệm nhỏ kiểu 'barber shop' thì hay nhận khách vãng lai (walk-in).",
+    "Người bản xứ thường mang theo ảnh kiểu tóc mẫu trên điện thoại để thợ hình dung đúng — rất tiện khi bạn chưa biết diễn đạt.",
+    "Nói rõ đơn vị độ dài như 'a couple of centimetres' hoặc dùng tay ra hiệu giúp tránh bị cắt ngắn hơn ý muốn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want cut hair' là sai ngữ pháp. Hãy nói 'I'd like a haircut' hoặc 'I want to get a haircut'.",
+    "Quên mạo từ 'a': phải là 'a haircut', 'a trim', không phải 'haircut', 'trim'.",
+    "Nhầm 'How much' với 'How many' khi hỏi giá tiền — tiền là không đếm được nên dùng 'How much'.",
+    "Dùng 'cut' khi chỉ muốn tỉa nhẹ. Nếu sợ bị cắt ngắn, hãy nói rõ 'just a trim' và 'not too short'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi cắt tóc như thật.",
+    "prompt": "Hãy đóng vai một thợ làm tóc nói tiếng Anh. Tôi là khách vừa bước vào tiệm. Hãy bắt đầu bằng cách chào tôi và hỏi tôi muốn cắt kiểu gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một thợ làm tóc thật, (2) nếu tôi sai ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ tiệm hết chỗ, gợi ý thêm dịch vụ, hỏi tôi có muốn gội đầu không) để tôi tập xử lý. Hãy nói chậm rãi và dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi mô tả chi tiết hơn về độ dài ở từng phần (hai bên, phía trên, phía sau).' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho ví dụ câu đúng.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được kiểu tóc mình muốn bằng 'I'd like...' và 'Could you...?'.",
+    "Tôi dùng được cụm 'not too short' và 'a little shorter' để giới hạn yêu cầu.",
+    "Tôi hỏi được giá tiền bằng 'How much is it?'."
+  ]
+}

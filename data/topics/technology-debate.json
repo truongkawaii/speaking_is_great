@@ -1,0 +1,346 @@
+{
+  "id": "technology-debate",
+  "category": "opinions",
+  "title": "Tranh luận công nghệ",
+  "titleEn": "Debating Technology",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Bày tỏ quan điểm sắc bén về tác động của công nghệ bằng câu phức nhiều tầng",
+    "Phản biện và nhượng bộ một cách lịch thiệp mà vẫn giữ vững lập trường",
+    "Dùng idiom và collocation học thuật (a double-edged sword, by and large) đúng ngữ cảnh",
+    "Vận dụng linh hoạt ngữ pháp nâng cao: đảo ngữ, mệnh đề quan hệ, despite, whereas",
+    "Chuyển register linh hoạt giữa trang trọng và đời thường trong cùng một cuộc tranh luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "automation",
+      "ipa": "/ˌɔː.təˈmeɪ.ʃən/",
+      "vi": "sự tự động hóa (danh từ)",
+      "register": "neutral",
+      "example": "Automation has transformed manufacturing beyond recognition over the past decade.",
+      "exampleVi": "Tự động hóa đã thay đổi ngành sản xuất đến mức không nhận ra trong thập kỷ qua.",
+      "note": "Danh từ không đếm được. Chủ đề kinh điển trong tranh luận công nghệ: automation vs. job loss.",
+      "synonyms": [
+        { "term": "mechanization", "ipa": "/ˌmek.ə.naɪˈzeɪ.ʃən/", "register": "formal", "nuanceVi": "Thiên về việc thay sức người bằng MÁY MÓC cơ khí; hẹp hơn 'automation' (vốn bao gồm cả phần mềm, AI)." },
+        { "term": "digitization", "ipa": "/ˌdɪdʒ.ɪ.taɪˈzeɪ.ʃən/", "register": "formal", "nuanceVi": "Nhấn vào việc chuyển sang định dạng SỐ, không nhất thiết là tự động hóa quy trình. Sắc thái khác hẳn." }
+      ]
+    },
+    {
+      "term": "to undermine",
+      "ipa": "/ˌʌn.dəˈmaɪn/",
+      "vi": "làm suy yếu, ngấm ngầm phá hoại (động từ)",
+      "register": "formal",
+      "example": "Excessive reliance on smartphones can gradually undermine our ability to concentrate.",
+      "exampleVi": "Việc lệ thuộc quá mức vào điện thoại có thể dần làm suy yếu khả năng tập trung của chúng ta.",
+      "note": "Động từ trang trọng, hàm ý phá hoại TỪ TỪ, ngầm và khó thấy — khác 'destroy' (phá hủy dứt khoát).",
+      "synonyms": [
+        { "term": "to erode", "ipa": "/ɪˈrəʊd/", "register": "formal", "nuanceVi": "Nhấn vào sự bào mòn DẦN DẦN theo thời gian (như nước xói mòn đá). Rất hợp khi nói về niềm tin, kỹ năng." },
+        { "term": "to weaken", "ipa": "/ˈwiː.kən/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản nhất, chỉ 'làm yếu đi' nói chung; thiếu sắc thái 'ngấm ngầm' của undermine." }
+      ]
+    },
+    {
+      "term": "disruptive",
+      "ipa": "/dɪsˈrʌp.tɪv/",
+      "vi": "mang tính đột phá / gây xáo trộn (tính từ)",
+      "register": "neutral",
+      "example": "Streaming services proved to be a highly disruptive force in the entertainment industry.",
+      "exampleVi": "Các dịch vụ phát trực tuyến đã chứng tỏ là một thế lực gây xáo trộn mạnh mẽ trong ngành giải trí.",
+      "note": "Tính từ HAI MẶT: trong kinh doanh thường mang nghĩa TÍCH CỰC (đột phá, lật đổ trật tự cũ); ngữ cảnh khác có thể tiêu cực (gây rối). Tùy ngữ cảnh.",
+      "synonyms": [
+        { "term": "groundbreaking", "ipa": "/ˈɡraʊndˌbreɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Nghiêng hẳn về TÍCH CỰC: 'mở đường, tiên phong'. Không có sắc thái 'gây xáo trộn' như disruptive." },
+        { "term": "revolutionary", "ipa": "/ˌrev.əˈluː.ʃən.ər.i/", "register": "neutral", "nuanceVi": "Mạnh nhất, nhấn 'thay đổi tận gốc, mang tính cách mạng'. Hơi cường điệu nếu lạm dụng." },
+        { "term": "game-changing", "ipa": "/ˈɡeɪmˌtʃeɪn.dʒɪŋ/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'thay đổi cuộc chơi'. Hợp nói chuyện thân mật, hơi suồng sã trong văn viết trang trọng." }
+      ]
+    },
+    {
+      "term": "to outweigh",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "vi": "vượt trội hơn, nặng cân hơn (động từ)",
+      "register": "formal",
+      "example": "In my view, the benefits of remote work far outweigh its drawbacks.",
+      "exampleVi": "Theo tôi, lợi ích của làm việc từ xa vượt xa những bất lợi của nó.",
+      "note": "Động từ 'ăn điểm' khi cân nhắc hai mặt: 'the pros outweigh the cons'. Hay đi với 'far' để nhấn mạnh.",
+      "synonyms": [
+        { "term": "to surpass", "ipa": "/səˈpɑːs/", "register": "formal", "nuanceVi": "Nhấn 'vượt qua, hơn hẳn' về mức độ/thành tích; ít dùng cho việc cân đo lợi-hại như outweigh." },
+        { "term": "to override", "ipa": "/ˌəʊ.vəˈraɪd/", "register": "formal", "nuanceVi": "Nghĩa 'lấn át, gạt bỏ' (một yếu tố khác); hàm ý quyền lực/ưu tiên, khác với việc đơn thuần nặng cân hơn." }
+      ]
+    },
+    {
+      "term": "addictive",
+      "ipa": "/əˈdɪk.tɪv/",
+      "vi": "gây nghiện (tính từ)",
+      "register": "neutral",
+      "example": "Social media platforms are deliberately designed to be addictive.",
+      "exampleVi": "Các nền tảng mạng xã hội được thiết kế có chủ đích để gây nghiện.",
+      "note": "Tính từ. Phân biệt 'addictive' (bản thân thứ đó gây nghiện) với 'addicted' (người bị nghiện): 'He is addicted TO an addictive game.'",
+      "synonyms": [
+        { "term": "compulsive", "ipa": "/kəmˈpʌl.sɪv/", "register": "formal", "nuanceVi": "Nhấn vào HÀNH VI không cưỡng lại được (compulsive scrolling); mô tả thói quen hơn là bản chất của vật." },
+        { "term": "habit-forming", "ipa": "/ˈhæb.ɪtˌfɔː.mɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'addictive', nghĩa 'dễ tạo thói quen'; sắc thái trung tính hơn, ít mang tính cảnh báo." }
+      ]
+    },
+    {
+      "term": "innovation",
+      "ipa": "/ˌɪn.əˈveɪ.ʃən/",
+      "vi": "sự đổi mới, sáng tạo (danh từ)",
+      "register": "neutral",
+      "example": "Relentless innovation is what keeps the tech sector ahead of the curve.",
+      "exampleVi": "Sự đổi mới không ngừng là điều giúp ngành công nghệ luôn đi trước thời cuộc.",
+      "note": "Danh từ. Đếm được khi chỉ một phát kiến cụ thể ('a brilliant innovation'); không đếm được khi chỉ quá trình đổi mới nói chung.",
+      "synonyms": [
+        { "term": "breakthrough", "ipa": "/ˈbreɪk.θruː/", "register": "neutral", "nuanceVi": "Nhấn một BƯỚC ĐỘT PHÁ cụ thể, một khoảnh khắc vượt rào cản; cụ thể hơn 'innovation' (thiên về quá trình)." },
+        { "term": "advancement", "ipa": "/ədˈvɑːns.mənt/", "register": "formal", "nuanceVi": "Nhấn sự TIẾN BỘ tuần tự, từng bước; trang trọng, hợp văn học thuật ('technological advancement')." }
+      ]
+    },
+    {
+      "term": "subscription",
+      "ipa": "/səbˈskrɪp.ʃən/",
+      "vi": "gói thuê bao, đăng ký dịch vụ (danh từ)",
+      "register": "neutral",
+      "example": "We seem to be drowning in monthly subscriptions these days.",
+      "exampleVi": "Dạo này dường như chúng ta đang chìm trong các gói thuê bao hằng tháng.",
+      "note": "Danh từ. Đi với 'to a service' và động từ 'to subscribe to'. Chủ đề thời sự: 'subscription economy'.",
+      "synonyms": [
+        { "term": "membership", "ipa": "/ˈmem.bə.ʃɪp/", "register": "neutral", "nuanceVi": "Nhấn vào tư cách THÀNH VIÊN (quyền lợi, cộng đồng), không chỉ là trả tiền định kỳ như subscription." }
+      ]
+    },
+    {
+      "term": "to safeguard",
+      "ipa": "/ˈseɪf.ɡɑːd/",
+      "vi": "bảo vệ, giữ gìn (động từ)",
+      "register": "formal",
+      "example": "Stricter regulations are needed in order to safeguard users' privacy.",
+      "exampleVi": "Cần có quy định chặt chẽ hơn để bảo vệ quyền riêng tư của người dùng.",
+      "note": "Động từ trang trọng, hàm ý bảo vệ CHỦ ĐỘNG, có biện pháp phòng ngừa — sang hơn 'protect' trong văn cảnh chính sách.",
+      "synonyms": [
+        { "term": "to protect", "ipa": "/prəˈtekt/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến nhất, an toàn để dùng; thiếu sắc thái 'phòng ngừa chủ động' của safeguard." },
+        { "term": "to preserve", "ipa": "/prɪˈzɜːv/", "register": "formal", "nuanceVi": "Nhấn 'gìn giữ nguyên trạng, không để mất đi' (preserve privacy/culture); thiên về duy trì hơn là chống lại mối đe dọa." }
+      ]
+    },
+    {
+      "term": "seamlessly",
+      "ipa": "/ˈsiːm.ləs.li/",
+      "vi": "một cách liền mạch, trơn tru (trạng từ)",
+      "register": "neutral",
+      "example": "The new app integrates seamlessly with all our existing devices.",
+      "exampleVi": "Ứng dụng mới tích hợp liền mạch với mọi thiết bị hiện có của chúng tôi.",
+      "note": "Trạng từ. Collocation đắt giá trong công nghệ: 'integrate/work/sync seamlessly'.",
+      "synonyms": [
+        { "term": "effortlessly", "ipa": "/ˈef.ət.ləs.li/", "register": "neutral", "nuanceVi": "Nhấn 'không tốn công sức'; thiên về trải nghiệm của người dùng hơn là sự khớp nối kỹ thuật như seamlessly." },
+        { "term": "smoothly", "ipa": "/ˈsmuːð.li/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'trơn tru, không trục trặc'; rộng và chung chung hơn seamlessly." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑː.ɡju.ə.bli/",
+      "vi": "có thể nói là, gần như chắc chắn (trạng từ)",
+      "register": "formal",
+      "example": "Smartphones are arguably the most influential invention of the century.",
+      "exampleVi": "Có thể nói điện thoại thông minh là phát minh có ảnh hưởng nhất của thế kỷ.",
+      "note": "Trạng từ rất 'C1': dùng để đưa ra một khẳng định mạnh nhưng vẫn chừa chỗ tranh luận, nghe khách quan và thuyết phục.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung được, về mặt lý thuyết'; độ chắc chắn THẤP hơn arguably." },
+        { "term": "undeniably", "ipa": "/ˌʌn.dɪˈnaɪ.ə.bli/", "register": "formal", "nuanceVi": "Ngược lại với arguably: 'không thể chối cãi', độ chắc chắn CAO nhất, không chừa chỗ tranh luận." }
+      ]
+    },
+    {
+      "term": "obsolete",
+      "ipa": "/ˈɒb.sə.liːt/",
+      "vi": "lỗi thời, lạc hậu (tính từ)",
+      "register": "formal",
+      "example": "Within a few years, this technology may well become completely obsolete.",
+      "exampleVi": "Chỉ trong vài năm, công nghệ này rất có thể sẽ hoàn toàn lỗi thời.",
+      "note": "Tính từ. Mạnh hơn 'old-fashioned': hàm ý không còn ai dùng, đã bị thứ mới thay thế hẳn.",
+      "synonyms": [
+        { "term": "outdated", "ipa": "/ˌaʊtˈdeɪ.tɪd/", "register": "neutral", "nuanceVi": "Phổ biến và trung tính hơn; nghĩa 'cũ, không hợp thời', nhưng có thể vẫn còn dùng được — nhẹ hơn obsolete." },
+        { "term": "antiquated", "ipa": "/ˈæn.tɪ.kweɪ.tɪd/", "register": "formal", "nuanceVi": "Trang trọng, hơi chê bai, nhấn 'cổ lỗ một cách buồn cười'; sắc thái mỉa mai nhẹ." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "While I appreciate that [mệnh đề], I can't help feeling that [mệnh đề].",
+      "use": "Nhượng bộ ý đối phương trước rồi mới nêu quan điểm trái chiều một cách lịch thiệp.",
+      "register": "formal",
+      "examples": [
+        "While I appreciate that automation boosts productivity, I can't help feeling that it threatens too many livelihoods."
+      ],
+      "explanationVi": "'While' mở mệnh đề nhượng bộ (= mặc dù). 'I can't help feeling that' = không khỏi cảm thấy rằng — cách nói chen quan điểm mạnh nhưng vẫn mềm. Bộ đôi này rất 'C1' khi phản biện văn minh.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "It could be argued that [mệnh đề], but [mệnh đề].",
+      "use": "Nêu một lập luận giả định rồi phản bác, tạo cảm giác cân nhắc đa chiều.",
+      "register": "formal",
+      "examples": [
+        "It could be argued that social media brings people together, but in reality it often leaves them more isolated than ever."
+      ],
+      "explanationVi": "Câu bị động 'It could be argued that' giúp nêu ý kiến mà không quy về 'tôi', nghe khách quan, học thuật. Rất hợp văn nghị luận và tranh luận trang trọng.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề], to be honest.",
+      "use": "Nêu quan điểm cá nhân theo cách đời thường, thân mật hơn.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, we've become far too dependent on our phones, to be honest."
+      ],
+      "explanationVi": "'If you ask me' là cách mở quan điểm CÁ NHÂN, đời thường. Đặt cạnh hai mẫu trang trọng phía trên để thấy cách C1 ĐỔI REGISTER linh hoạt trong cùng cuộc tranh luận.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] + [V], but it also + [V].",
+      "use": "Nhấn mạnh một thứ có nhiều tác động/lợi ích cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does AI speed up research, but it also opens up possibilities we could never have imagined."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu buộc đảo trợ động từ ('does ... but it also'). Cấu trúc nâng cao gây ấn tượng — nhưng phải đảo đúng kẻo sai ngữ pháp ngay."
+    },
+    {
+      "pattern": "Technology is a double-edged sword, in the sense that [mệnh đề].",
+      "use": "Thừa nhận một thứ có cả mặt lợi lẫn hại — câu chốt cân bằng kinh điển.",
+      "register": "neutral",
+      "examples": [
+        "Technology is a double-edged sword, in the sense that the very tools which connect us can also drive us apart."
+      ],
+      "explanationVi": "'a double-edged sword' = con dao hai lưỡi. 'in the sense that' = theo nghĩa là, dùng để giải thích rõ ý vừa nói. Idiom + cụm giải thích kiểu này rất ghi điểm ở C1."
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], there's no denying that [mệnh đề].",
+      "use": "Thừa nhận một sự thật hiển nhiên dù còn điểm bất lợi.",
+      "register": "formal",
+      "examples": [
+        "Despite all the privacy concerns, there's no denying that these platforms have revolutionized how we communicate."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG đi với mệnh đề — đây là lỗi rất hay gặp). 'there's no denying that' = không thể phủ nhận rằng. Cặp này thừa nhận sự thật một cách dứt khoát."
+    },
+    {
+      "pattern": "Whereas [mệnh đề], [mệnh đề].",
+      "use": "Đặt hai vế tương phản cạnh nhau để làm nổi bật sự khác biệt.",
+      "register": "formal",
+      "examples": [
+        "Whereas older generations treat technology as a tool, younger ones tend to see it as an extension of themselves."
+      ],
+      "explanationVi": "'Whereas' = trong khi đó (đối lập), trang trọng hơn 'while' khi so sánh hai vế ngang nhau. Dùng để cấu trúc lập luận hai phía rõ ràng, mạch lạc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Nhượng bộ một điểm của đối phương trước khi phản biện.", "example": "Admittedly, the technology is impressive, but it comes at a real cost to privacy." },
+    { "term": "by and large", "ipa": "/baɪ ænd ˈlɑːdʒ/", "vi": "nhìn chung, về đại thể", "when": "Đưa ra nhận định tổng quát sau khi cân nhắc nhiều mặt.", "example": "By and large, I'd say the digital revolution has done us more good than harm." },
+    { "term": "frankly", "ipa": "/ˈfræŋ.kli/", "vi": "nói thẳng ra thì", "when": "Mở đầu một ý kiến thẳng thắn, có thể hơi mạnh mẽ.", "example": "Frankly, I think we underestimate just how addictive these apps really are." },
+    { "term": "to a certain extent", "ipa": "/tu ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý một phần, không hoàn toàn — giữ thế trung dung khôn ngoan.", "example": "To a certain extent I agree with you, although I wouldn't go quite that far." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói, dĩ nhiên là", "when": "Dẫn vào một điều hiển nhiên mà ai cũng công nhận.", "example": "Needless to say, none of this would have been possible without the internet." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn và một người bạn (Linh) đang tranh luận sôi nổi tại quán cà phê về việc liệu công nghệ hiện đại đang giúp ích hay đang gây hại nhiều hơn cho xã hội. Cả hai đều có quan điểm riêng và phản biện qua lại một cách văn minh.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "So, I've been thinking — arguably, technology is the best thing that has ever happened to humanity, isn't it? Not only has it eradicated diseases that once wiped out entire populations, but it has also given billions of people access to knowledge that was previously reserved for the elite.",
+        "ipa": "/səʊ aɪv biːn ˈθɪŋ.kɪŋ ˈɑː.ɡju.ə.bli tekˈnɒl.ə.dʒi ɪz ðə best θɪŋ ðæt hæz ˈev.ə ˈhæp.ənd tə hjuːˈmæn.ɪ.ti ˈɪz.ənt ɪt nɒt ˈəʊn.li hæz ɪt ɪˈræd.ɪ.keɪ.tɪd dɪˈziː.zɪz ðæt wʌns waɪpt aʊt ɪnˈtaɪə ˌpɒp.jəˈleɪ.ʃənz bʌt ɪt hæz ˈɔːl.səʊ ˈɡɪv.ən ˈbɪl.jənz ɒv ˈpiː.pəl ˈæk.ses tə ˈnɒl.ɪdʒ ðæt wɒz ˈpriː.vi.əs.li rɪˈzɜːvd fɔː ði eɪˈliːt/",
+        "vi": "Này, tớ đang nghĩ — có thể nói công nghệ là điều tuyệt vời nhất từng đến với loài người, đúng không? Nó không những đã xóa sổ những căn bệnh từng quét sạch cả những cộng đồng dân cư, mà còn cho hàng tỷ người tiếp cận tri thức vốn trước đây chỉ dành cho giới thượng lưu."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "While I appreciate that those achievements are genuinely remarkable, I can't help feeling that we tend to overlook the darker side. ____ all the convenience it brings, there's no denying that technology has also made us more isolated and, frankly, more anxious than any previous generation.",
+        "ipa": "/waɪl aɪ əˈpriː.ʃi.eɪt ðæt ðəʊz əˈtʃiːv.mənts ɑː ˈdʒen.ju.ɪn.li rɪˈmɑːk.ə.bəl aɪ kɑːnt help ˈfiː.lɪŋ ðæt wiː tend tə ˌəʊ.vəˈlʊk ðə ˈdɑːk.ə saɪd ... ɔːl ðə kənˈviː.ni.əns ɪt brɪŋz ðeəz nəʊ dɪˈnaɪ.ɪŋ ðæt tekˈnɒl.ə.dʒi hæz ˈɔːl.səʊ meɪd ʌs mɔː ˈaɪ.sə.leɪ.tɪd ænd ˈfræŋk.li mɔː æŋˈzaɪ.əs ðæn ˈen.i ˈpriː.vi.əs ˌdʒen.əˈreɪ.ʃən/",
+        "vi": "Tuy tớ công nhận những thành tựu đó thực sự đáng nể, tớ vẫn không khỏi cảm thấy chúng ta hay bỏ qua mặt tối của nó. ____ mọi tiện lợi mà nó mang lại, không thể phủ nhận rằng công nghệ cũng khiến chúng ta cô lập hơn và, nói thẳng ra, lo âu hơn bất kỳ thế hệ nào trước đây.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Despite", "explanationVi": "Dùng 'Despite' + danh từ ('all the convenience') để thừa nhận mặt lợi trước khi nêu mặt hại. LƯU Ý: 'Despite' đi với danh từ/V-ing, KHÔNG đi với mệnh đề. Xem mẫu câu 'Despite…, there's no denying that…'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's a fair point, admittedly. But surely you'd agree that social media, ____ connects people across continents in seconds, has done far more to unite us than to divide us?",
+        "ipa": "/ðæts ə feə pɔɪnt ədˈmɪt.ɪd.li bʌt ˈʃɔː.li juːd əˈɡriː ðæt ˈsəʊ.ʃəl ˈmiː.di.ə ... kəˈnekts ˈpiː.pəl əˈkrɒs ˈkɒn.tɪ.nənts ɪn ˈsek.əndz hæz dʌn fɑː mɔː tə juˈnaɪt ʌs ðæn tə dɪˈvaɪd ʌs/",
+        "vi": "Phải thừa nhận đó là một ý hay. Nhưng chắc chắn cậu đồng ý rằng mạng xã hội, ____ kết nối con người qua các châu lục chỉ trong vài giây, đã góp phần đoàn kết chúng ta nhiều hơn là chia rẽ chứ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' để mở mệnh đề quan hệ không xác định mô tả 'social media' (vật). Nếu là người thì dùng 'who'. Hai dấu phẩy bao quanh cho thấy đây là mệnh đề bổ sung thông tin." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "To a certain extent, yes — though I'd argue it's a double-edged sword, in the sense that the very platforms ____ are designed to connect us are also deliberately engineered to be addictive. People scroll for hours not because they choose to, but because the algorithms are built to exploit our attention.",
+        "ipa": "/tu ə ˈsɜː.tən ɪkˈstent jes ðəʊ aɪd ˈɑː.ɡjuː ɪts ə ˈdʌb.əl edʒd sɔːd ɪn ðə sens ðæt ðə ˈver.i ˈplæt.fɔːmz ... ɑː dɪˈzaɪnd tə kəˈnekt ʌs ɑːr ˈɔːl.səʊ dɪˈlɪb.ər.ət.li ˌen.dʒɪˈnɪəd tə biː əˈdɪk.tɪv ˈpiː.pəl skrəʊl fɔːr ˈaʊəz nɒt bɪˈkɒz ðeɪ tʃuːz tuː bʌt bɪˈkɒz ði ˈæl.ɡə.rɪð.əmz ɑː bɪlt tu ɪkˈsplɔɪt ˈaʊə əˈten.ʃən/",
+        "vi": "Ở một mức độ nào đó thì đúng vậy — dù tớ cho rằng đó là con dao hai lưỡi, theo nghĩa là chính những nền tảng ____ được thiết kế để kết nối chúng ta cũng được tạo ra một cách có chủ đích để gây nghiện. Người ta lướt hàng giờ không phải vì họ muốn, mà vì các thuật toán được tạo ra để khai thác sự chú ý của chúng ta.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng 'which' (hoặc 'that') cho mệnh đề quan hệ XÁC ĐỊNH bổ nghĩa cho 'the very platforms' (vật), không có dấu phẩy vì thông tin này thiết yếu để xác định danh từ. Xem cách dùng mệnh đề quan hệ ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Hmm, I hadn't quite looked at it that way. Still, ____ some platforms exploit our attention, others genuinely improve our lives — think of the apps that help millions manage their health or learn a new language for free.",
+        "ipa": "/hʌm aɪ ˈhæd.ənt kwaɪt lʊkt æt ɪt ðæt weɪ stɪl ... sʌm ˈplæt.fɔːmz ɪkˈsplɔɪt ˈaʊə əˈten.ʃən ˈʌð.əz ˈdʒen.ju.ɪn.li ɪmˈpruːv ˈaʊə lɪvz θɪŋk ɒv ði æps ðæt help ˈmɪl.jənz ˈmæn.ɪdʒ ðeə helθ ɔː lɜːn ə njuː ˈlæŋ.ɡwɪdʒ fɔː friː/",
+        "vi": "Hừm, tớ chưa từng nhìn theo hướng đó. Nhưng mà, ____ một số nền tảng khai thác sự chú ý của ta, thì những nền tảng khác lại thật sự cải thiện cuộc sống — cứ nghĩ đến các ứng dụng giúp hàng triệu người quản lý sức khỏe hay học một ngôn ngữ mới miễn phí mà xem.",
+        "blanks": [
+          { "type": "knowledge", "answer": "whereas", "explanationVi": "Dùng 'whereas' (= trong khi đó) để đặt hai vế TƯƠNG PHẢN cạnh nhau: một số bóc lột sự chú ý, số khác cải thiện cuộc sống. Trang trọng và cân đối hơn 'but'. Xem mẫu câu với 'Whereas…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Granted. If you ask me, the real issue isn't the technology itself but how we choose to use it, to be honest. We urgently need stricter regulations in order to ____ users' privacy, because at the moment the companies are essentially policing themselves.",
+        "ipa": "/ˈɡrɑːn.tɪd ɪf juː ɑːsk miː ðə rɪəl ˈɪʃ.uː ˈɪz.ənt ðə tekˈnɒl.ə.dʒi ɪtˈself bʌt haʊ wiː tʃuːz tə juːz ɪt tə biː ˈɒn.ɪst wiː ɜːˈdʒənt.li niːd ˈstrɪk.tə ˌreɡ.jəˈleɪ.ʃənz ɪn ˈɔː.də tuː ... ˈjuː.zəz ˈprɪv.ə.si bɪˈkɒz ət ðə ˈməʊ.mənt ðə ˈkʌm.pə.niz ɑːr ɪˈsen.ʃəl.i pəˈliː.sɪŋ ðəmˈselvz/",
+        "vi": "Đồng ý. Nếu cậu hỏi tớ, vấn đề thực sự không nằm ở bản thân công nghệ mà ở cách chúng ta chọn sử dụng nó, thật lòng mà nói. Chúng ta cần gấp những quy định chặt chẽ hơn để ____ quyền riêng tư của người dùng, vì hiện tại các công ty về cơ bản đang tự giám sát chính mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "safeguard", "explanationVi": "Dùng động từ 'safeguard' (bảo vệ chủ động) sau 'in order to' + V nguyên thể. 'safeguard privacy' là collocation trang trọng, sang hơn 'protect' trong văn cảnh chính sách. Xem từ vựng 'to safeguard'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "By and large, I think I agree with you now. Technology is neither good nor evil in itself — it simply ____ whatever values we bring to it. The challenge, ____, is making sure those values are worth amplifying in the first place.",
+        "ipa": "/baɪ ænd lɑːdʒ aɪ θɪŋk aɪ əˈɡriː wɪð juː naʊ tekˈnɒl.ə.dʒi ɪz ˈnaɪ.ðə ɡʊd nɔːr ˈiː.vəl ɪn ɪtˈself ɪt ˈsɪm.pli ... wɒtˈev.ə ˈvæl.juːz wiː brɪŋ tuː ɪt ðə ˈtʃæl.ɪndʒ ... ɪz ˈmeɪ.kɪŋ ʃɔː ðəʊz ˈvæl.juːz ɑː wɜːθ ˈæm.plɪ.faɪ.ɪŋ ɪn ðə fɜːst pleɪs/",
+        "vi": "Nhìn chung, tớ nghĩ giờ tớ đồng ý với cậu rồi. Bản thân công nghệ không tốt cũng chẳng xấu — nó chỉ đơn giản ____ bất cứ giá trị nào ta đặt vào nó. Thử thách, ____, là làm sao chắc chắn rằng những giá trị ấy đáng để khuếch đại ngay từ đầu.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ thì hiện tại đơn ngôi thứ ba (thêm -s) diễn tả 'phản chiếu / khuếch đại'. Ví dụ: 'reflects', 'amplifies', 'mirrors'." },
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (= tuy nhiên) chèn giữa hai dấu phẩy để báo hiệu một ý đối lập/bổ sung. Khác 'although', 'however' là TRẠNG TỪ nối câu, không nối hai mệnh đề trong cùng một câu bằng dấu phẩy đơn." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. Needless to say, this is a debate that will keep evolving as fast as the technology itself does. ____ I won't pretend to have all the answers, I do believe that staying critical and intentional is, ____, the wisest approach we can take.",
+        "ipa": "/ɪɡˈzækt.li ˈniːd.ləs tə seɪ ðɪs ɪz ə dɪˈbeɪt ðæt wɪl kiːp ɪˈvɒl.vɪŋ æz fɑːst æz ðə tekˈnɒl.ə.dʒi ɪtˈself dʌz ... aɪ wəʊnt prɪˈtend tə hæv ɔːl ði ˈɑːn.səz aɪ duː bɪˈliːv ðæt ˈsteɪ.ɪŋ ˈkrɪt.ɪ.kəl ænd ɪnˈten.ʃən.əl ɪz ... ðə ˈwaɪ.zɪst əˈprəʊtʃ wiː kæn teɪk/",
+        "vi": "Chính xác. Khỏi phải nói, đây là cuộc tranh luận sẽ còn tiếp diễn nhanh ngang với chính tốc độ phát triển của công nghệ. ____ tớ sẽ không vờ rằng mình có mọi câu trả lời, tớ vẫn tin rằng giữ tư duy phản biện và có chủ đích, ____, là cách tiếp cận khôn ngoan nhất mà ta có thể chọn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) đầu câu để mở mệnh đề nhượng bộ trước mệnh đề chính. Khác 'Despite' (đi với danh từ), 'Although' đi với cả MỘT MỆNH ĐỀ ('I won't pretend…')." },
+          { "type": "personal", "hint": "Một trạng từ/cụm trạng từ chèn giữa hai dấu phẩy để nhấn nhận định tổng quát. Ví dụ: 'by and large', 'ultimately', 'in the end'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận phương Tây, việc THỪA NHẬN ý đúng của đối phương ('That's a fair point', 'Admittedly') trước khi phản biện được xem là dấu hiệu của người tranh luận có bản lĩnh và lịch thiệp, chứ không phải thua cuộc.",
+    "Người bản xứ thường 'hedge' (rào đón) quan điểm bằng 'arguably', 'I'd argue', 'it could be argued' thay vì khẳng định tuyệt đối — điều này nghe khách quan, trí thức và mở đường cho đối thoại hơn.",
+    "Tranh luận học thuật/xã giao đề cao việc nêu DẪN CHỨNG cụ thể ('think of the apps that…') hơn là cảm tính. Một quan điểm có ví dụ minh họa luôn thuyết phục hơn nói chung chung.",
+    "Đổi register linh hoạt là dấu ấn của người dùng C1: có thể chuyển từ trang trọng ('It could be argued that…') sang đời thường ('If you ask me…') ngay trong một cuộc trò chuyện mà vẫn tự nhiên."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'Despite' với cả mệnh đề: SAI 'Despite it brings convenience'. Đúng phải là 'Despite the convenience' (danh từ) hoặc 'Despite bringing convenience' (V-ing); với mệnh đề thì dùng 'Although'.",
+    "Lẫn 'however' với 'although': 'however' là trạng từ nối câu (đứng riêng, kèm dấu phẩy), không nối hai mệnh đề trong một câu — SAI 'I agree, however I think…' dùng như liên từ.",
+    "Quên đảo trợ động từ sau 'Not only' đầu câu: phải là 'Not only HAS it eradicated…', không phải 'Not only it has…'.",
+    "Nhầm 'addictive' (thứ gây nghiện) với 'addicted' (người bị nghiện): 'The game is addictive' nhưng 'I am addicted TO the game'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận công nghệ ở trình độ C1 như với một người bản xứ thực thụ.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh có quan điểm trái ngược với tôi trong một cuộc tranh luận về tác động của công nghệ hiện đại lên xã hội. Hãy chọn một lập trường rõ ràng (ví dụ: công nghệ đang gây hại nhiều hơn lợi) và phản biện lại tôi một cách văn minh, sắc bén. Sau mỗi lượt của tôi, hãy: (1) đáp lại tự nhiên như đang tranh luận thật, đưa ra phản biện và dẫn chứng cụ thể; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế, học thuật hơn bằng tiếng Việt; (3) khuyến khích tôi dùng cấu trúc C1 như 'while I appreciate that…', 'it could be argued that…', đảo ngữ 'not only… but also', 'whereas', 'despite' và idiom 'a double-edged sword'. Thỉnh thoảng tung ra một lập luận bất ngờ để tôi tập phản xạ. Cuối buổi, hãy chấm điểm khả năng tranh luận của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu lập trường của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy chuyển đổi liên tục giữa register trang trọng và đời thường, và yêu cầu tôi nhận diện rồi đáp lại cho phù hợp.'",
+      "Thêm: 'Hãy đóng vai một người hoài nghi cứng rắn, liên tục đòi tôi đưa bằng chứng cho mọi khẳng định.' khi bạn đã quen.",
+      "Thêm: 'Cuối buổi, hãy liệt kê những idiom và collocation học thuật mà lẽ ra tôi nên dùng nhưng đã bỏ lỡ.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nhượng bộ được ý đối phương ('while I appreciate that…', 'admittedly') rồi phản biện mà không nhìn gợi ý.",
+    "Tôi dùng đúng 'despite' (+ danh từ), 'whereas', 'however' và đảo ngữ 'not only… but also' khi tranh luận.",
+    "Tôi chuyển được linh hoạt giữa cách nói trang trọng và đời thường trong cùng một cuộc tranh luận."
+  ]
+}

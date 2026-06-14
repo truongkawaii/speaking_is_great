@@ -1,0 +1,331 @@
+{
+  "id": "neighbours-chat",
+  "category": "daily-life",
+  "title": "Trò chuyện với hàng xóm",
+  "titleEn": "Chatting with Neighbours",
+  "level": "B1",
+  "functions": ["greetings", "small-talk", "suggesting", "requesting"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Chào hỏi và bắt chuyện xã giao với hàng xóm một cách tự nhiên",
+    "Giới thiệu bản thân khi mới chuyển đến và hỏi thăm khu phố",
+    "Đề nghị giúp đỡ hoặc nhờ vả lịch sự (mượn đồ, trông nhà, nhận hàng hộ)",
+    "Dùng câu vừa phải có 'such as', 'because', 'although' và nhiều trạng từ khi nói chuyện thân mật"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "neighbourhood",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "vi": "khu phố, khu dân cư (danh từ)",
+      "register": "neutral",
+      "example": "This is a really quiet and friendly neighbourhood.",
+      "exampleVi": "Đây là một khu phố rất yên tĩnh và thân thiện.",
+      "note": "Danh từ. Anh-Mỹ viết 'neighborhood' (không có 'u'). Chỉ cả khu vực dân cư, rộng hơn 'street' (con phố).",
+      "synonyms": [
+        { "term": "area", "ipa": "/ˈeə.ri.ə/", "register": "neutral", "nuanceVi": "Trung tính và rộng hơn, chỉ 'khu vực' nói chung, không nhất thiết là nơi có nhà dân." },
+        { "term": "community", "ipa": "/kəˈmjuː.nə.ti/", "register": "neutral", "nuanceVi": "Nhấn vào 'cộng đồng người sống cùng nhau', thiên về con người và mối quan hệ hơn là địa điểm." }
+      ]
+    },
+    {
+      "term": "to move in",
+      "ipa": "/muːv ɪn/",
+      "vi": "dọn đến ở (động từ)",
+      "register": "neutral",
+      "example": "We moved in just a couple of weeks ago.",
+      "exampleVi": "Chúng tôi mới dọn đến cách đây vài tuần.",
+      "note": "Cụm động từ. 'move in' = dọn đến ở; ngược lại là 'move out' (dọn đi). Đừng nhầm với 'move' trơ trọi (di chuyển).",
+      "synonyms": [
+        { "term": "to settle in", "ipa": "/ˈset.əl ɪn/", "register": "neutral", "nuanceVi": "Nhấn vào quá trình 'ổn định, quen dần với chỗ ở mới', không chỉ là khoảnh khắc dọn đến." }
+      ]
+    },
+    {
+      "term": "to borrow",
+      "ipa": "/ˈbɒr.əʊ/",
+      "vi": "mượn (động từ)",
+      "register": "neutral",
+      "example": "Could I borrow your ladder for an hour?",
+      "exampleVi": "Tôi mượn cái thang của anh một tiếng được không?",
+      "note": "Động từ. 'borrow' = mượn (lấy của người khác về dùng); 'lend' = cho mượn (đưa của mình cho người khác). Người Việt rất hay nhầm hai từ này.",
+      "synonyms": [
+        { "term": "to lend", "ipa": "/lend/", "register": "neutral", "nuanceVi": "NGƯỢC chiều với 'borrow': 'lend' là CHO mượn. 'Can you lend me...?' = 'Can I borrow... from you?'." }
+      ]
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện (tính từ)",
+      "register": "neutral",
+      "example": "Everyone on this street is so friendly and welcoming.",
+      "exampleVi": "Mọi người trên con phố này đều rất thân thiện và niềm nở.",
+      "note": "Tính từ, không phải trạng từ (mặc dù có đuôi -ly). Trạng từ tương ứng phải nói 'in a friendly way'.",
+      "synonyms": [
+        { "term": "welcoming", "ipa": "/ˈwel.kə.mɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'làm người mới cảm thấy được chào đón', ấm áp hơn một chút so với 'friendly' chung chung." },
+        { "term": "approachable", "ipa": "/əˈprəʊ.tʃə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'dễ gần, dễ bắt chuyện', tức người ta không ngại đến nói chuyện với bạn." },
+        { "term": "warm", "ipa": "/wɔːm/", "register": "neutral", "nuanceVi": "Nghĩa 'ấm áp, nồng hậu' về tình cảm; tinh tế và giàu cảm xúc hơn 'friendly'." }
+      ]
+    },
+    {
+      "term": "quiet",
+      "ipa": "/ˈkwaɪ.ət/",
+      "vi": "yên tĩnh (tính từ)",
+      "register": "neutral",
+      "example": "It's a quiet area, although it can get a bit noisy at weekends.",
+      "exampleVi": "Đây là khu yên tĩnh, mặc dù cuối tuần có thể hơi ồn một chút.",
+      "note": "Tính từ. Phát âm bẫy: /ˈkwaɪ.ət/ (hai âm tiết), đừng đọc thành 'quite' /kwaɪt/ (khá, một âm tiết).",
+      "synonyms": [
+        { "term": "peaceful", "ipa": "/ˈpiːs.fəl/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'thanh bình, dễ chịu', không chỉ là ít tiếng ồn mà còn gợi sự thư thái." },
+        { "term": "calm", "ipa": "/kɑːm/", "register": "neutral", "nuanceVi": "Nhấn 'lặng lẽ, không xáo trộn'; có thể tả cả không khí lẫn tâm trạng con người." }
+      ]
+    },
+    {
+      "term": "to keep an eye on",
+      "ipa": "/kiːp ən aɪ ɒn/",
+      "vi": "để mắt trông chừng (cụm động từ)",
+      "register": "casual",
+      "example": "Could you keep an eye on our place while we're away?",
+      "exampleVi": "Anh trông giúp nhà tôi lúc chúng tôi đi vắng được không?",
+      "note": "Thành ngữ rất thông dụng giữa hàng xóm: nhờ để ý hộ nhà cửa, thú cưng, trẻ con. Đi với 'on + tân ngữ'.",
+      "synonyms": [
+        { "term": "to look after", "ipa": "/lʊk ˈɑːf.tə/", "register": "neutral", "nuanceVi": "Nhấn 'chăm sóc, lo cho' (chủ động hơn), hợp khi nhờ trông thú cưng/cây cối chứ không chỉ liếc mắt canh chừng." },
+        { "term": "to watch over", "ipa": "/wɒtʃ ˈəʊ.və/", "register": "neutral", "nuanceVi": "Hơi trang trọng/hình ảnh hơn, gợi sự bảo vệ, canh giữ cẩn thận." }
+      ]
+    },
+    {
+      "term": "parcel",
+      "ipa": "/ˈpɑː.səl/",
+      "vi": "bưu kiện, gói hàng (danh từ)",
+      "register": "neutral",
+      "example": "Would you mind taking in a parcel for me tomorrow?",
+      "exampleVi": "Phiền anh nhận hộ tôi một gói hàng vào ngày mai nhé?",
+      "note": "Danh từ. Anh-Anh dùng 'parcel'; Anh-Mỹ thường nói 'package'. Việc nhờ nhận hàng hộ rất phổ biến giữa hàng xóm.",
+      "synonyms": [
+        { "term": "package", "ipa": "/ˈpæk.ɪdʒ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa; người Mỹ ưa dùng 'package' hơn 'parcel'. Dùng cái nào cũng được." }
+      ]
+    },
+    {
+      "term": "occasionally",
+      "ipa": "/əˈkeɪ.ʒən.ə.li/",
+      "vi": "thỉnh thoảng (trạng từ)",
+      "register": "neutral",
+      "example": "We occasionally have a barbecue in the back garden.",
+      "exampleVi": "Thỉnh thoảng chúng tôi có nướng đồ ăn ở vườn sau.",
+      "note": "Trạng từ chỉ tần suất, ít hơn 'often'. Thường đứng trước động từ chính hoặc đầu câu.",
+      "synonyms": [
+        { "term": "now and then", "ipa": "/naʊ ænd ðen/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'thi thoảng'; nghe thân mật, tự nhiên hơn 'occasionally' trang nhã." },
+        { "term": "from time to time", "ipa": "/frɒm taɪm tə taɪm/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'lâu lâu một lần'; hợp cả văn nói lẫn viết." }
+      ]
+    },
+    {
+      "term": "noisy",
+      "ipa": "/ˈnɔɪ.zi/",
+      "vi": "ồn ào (tính từ)",
+      "register": "neutral",
+      "example": "The street can get noisy because of the traffic.",
+      "exampleVi": "Con phố có thể trở nên ồn ào vì xe cộ.",
+      "note": "Tính từ (noisy); danh từ là 'noise' (tiếng ồn). Trái nghĩa với 'quiet'.",
+      "synonyms": [
+        { "term": "loud", "ipa": "/laʊd/", "register": "neutral", "nuanceVi": "Nhấn vào 'âm thanh to' của một nguồn cụ thể (nhạc, tiếng nói); 'noisy' nhấn 'nhiều tiếng ồn hỗn tạp'." }
+      ]
+    },
+    {
+      "term": "to settle in",
+      "ipa": "/ˈset.əl ɪn/",
+      "vi": "ổn định, hòa nhập với chỗ ở mới (động từ)",
+      "register": "neutral",
+      "example": "It took us a month to fully settle in.",
+      "exampleVi": "Chúng tôi mất một tháng để ổn định hoàn toàn.",
+      "note": "Cụm động từ chỉ quá trình quen dần với nơi/công việc mới. Hay dùng khi hỏi thăm người mới chuyển đến: 'How are you settling in?'."
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "tiện lợi (tính từ)",
+      "register": "neutral",
+      "example": "The location is very convenient, since there's a supermarket nearby.",
+      "exampleVi": "Vị trí rất tiện lợi vì có siêu thị ở gần.",
+      "note": "Tính từ tả địa điểm/thời gian thuận tiện. Danh từ là 'convenience'. Phát âm: trọng âm ở âm thứ hai 'ven'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi, I don't think we've met — I'm [tên], I've just moved in [vị trí].",
+      "use": "Tự giới thiệu khi mới chuyển đến và lần đầu gặp hàng xóm.",
+      "register": "casual",
+      "examples": [
+        "Hi, I don't think we've met — I'm Nam, I've just moved in next door.",
+        "Hi, I don't think we've met — I'm Linh, I've just moved in upstairs."
+      ],
+      "explanationVi": "'I don't think we've met' là cách mở lời rất tự nhiên để làm quen. 'have just moved in' (hiện tại hoàn thành + just) nhấn việc vừa dọn đến gần đây."
+    },
+    {
+      "pattern": "How are you settling in?",
+      "use": "Hỏi thăm người hàng xóm mới xem họ đã quen chỗ chưa.",
+      "register": "casual",
+      "examples": [
+        "How are you settling in? Is everything going okay?",
+        "How are you settling in so far?"
+      ],
+      "explanationVi": "Câu hỏi xã giao ấm áp dành cho người mới đến. Dùng thì tiếp diễn 'settling in' vì đó là một quá trình đang diễn ra."
+    },
+    {
+      "pattern": "Could I borrow [đồ vật], please?",
+      "use": "Hỏi mượn đồ của hàng xóm một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I borrow your ladder for a few minutes, please?",
+        "Could I borrow some sugar? I've just run out."
+      ],
+      "explanationVi": "'Could I borrow...?' lịch sự hơn 'Can I have...'. Nhớ dùng 'borrow' (mượn về dùng), không phải 'lend'.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "Would you mind [V-ing] ... ?",
+      "use": "Nhờ hàng xóm làm giúp một việc một cách tế nhị.",
+      "register": "neutral",
+      "examples": [
+        "Would you mind keeping an eye on our place while we're away?",
+        "Would you mind taking in a parcel for me tomorrow?"
+      ],
+      "explanationVi": "'Would you mind + V-ing' = 'Anh/chị có phiền... không'. Lưu ý: trả lời 'No' (không phiền) nghĩa là ĐỒNG Ý. Đây là cách nhờ vả nhã nhặn nhất.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "If you ever need anything, just [V].",
+      "use": "Ngỏ ý sẵn sàng giúp đỡ hàng xóm.",
+      "register": "casual",
+      "examples": [
+        "If you ever need anything, just knock on our door.",
+        "If you ever need anything, just give us a shout."
+      ],
+      "explanationVi": "Câu điều kiện loại 1 dùng để mời mọc, tỏ thiện chí. 'just' làm lời mời nghe nhẹ nhàng, thoải mái."
+    },
+    {
+      "pattern": "It's a [tính từ] area, although [mệnh đề].",
+      "use": "Mô tả khu phố kèm một ý nhận xét trái chiều nhẹ.",
+      "register": "neutral",
+      "examples": [
+        "It's a quiet area, although it can get a bit busy in the mornings.",
+        "It's a friendly area, although people tend to keep to themselves at first."
+      ],
+      "explanationVi": "'although' mở mệnh đề nhượng bộ (mặc dù), giúp câu nhận xét nghe cân bằng, tự nhiên và 'người lớn' hơn là chỉ khen một chiều."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc nói một thông tin hơi bất ngờ.", "example": "Actually, we only moved in last week." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi hoặc nhắc thêm một điều ngoài lề.", "example": "By the way, do you know when the bins are collected?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói thật lòng, tạo cảm giác chân thành.", "example": "Honestly, everyone here has been incredibly kind." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khi đồng ý hoặc khẳng định mạnh mẽ với lời đề nghị.", "example": "We'd definitely love to come to the barbecue." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi vui vẻ đồng ý giúp đỡ ngay lập tức.", "example": "Of course, just let me know whenever you need a hand." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa chuyển đến một căn nhà mới. Sáng nay bạn gặp người hàng xóm (Sarah) ở trước cổng và bắt đầu trò chuyện làm quen.",
+    "lines": [
+      {
+        "speaker": "Sarah",
+        "text": "Good morning! You must be the new neighbour, right? I'm Sarah — I live in the house with the red door.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ juː mʌst biː ðə njuː ˈneɪ.bə raɪt aɪm ˈseə.rə aɪ lɪv ɪn ðə haʊs wɪð ðə red dɔː/",
+        "vi": "Chào buổi sáng! Chắc anh/chị là hàng xóm mới đúng không? Tôi là Sarah, tôi sống ở căn nhà có cánh cửa màu đỏ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Sarah! Yes, that's right. I'm ____, and I've just moved in next door. Honestly, everyone seems really ____ around here, which makes settling in so much easier.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈseə.rə jes ðæts raɪt aɪm ... ænd aɪv dʒʌst muːvd ɪn nekst dɔː ˈɒn.ɪst.li ˈev.ri.wʌn siːmz ˈrɪə.li ... əˈraʊnd hɪə wɪtʃ meɪks ˈset.əl.ɪŋ ɪn səʊ mʌtʃ ˈiː.zi.ə/",
+        "vi": "Chào buổi sáng, Sarah! Vâng, đúng vậy. Tôi là ____, tôi vừa dọn đến ở ngay bên cạnh. Thành thật mà nói, mọi người ở đây có vẻ rất ____, điều đó khiến việc ổn định trở nên dễ dàng hơn nhiều.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Nam' hoặc 'Linh'." },
+          { "type": "knowledge", "answer": "friendly", "explanationVi": "Dùng tính từ 'friendly' (thân thiện) sau 'seems really'. Lưu ý 'friendly' là TÍNH TỪ dù có đuôi -ly. Xem mục Từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Oh, that's lovely to hear! It's a quiet, ____ neighbourhood, although it can get a little busy in the mornings because of the school run.",
+        "ipa": "/əʊ ðæts ˈlʌv.li tə hɪə ɪts ə ˈkwaɪ.ət ... ˈneɪ.bə.hʊd ɔːlˈðəʊ ɪt kæn ɡet ə ˈlɪt.əl ˈbɪz.i ɪn ðə ˈmɔː.nɪŋz bɪˈkɒz əv ðə skuːl rʌn/",
+        "vi": "Ồ, nghe vui quá! Đây là một khu phố yên tĩnh và ____, mặc dù buổi sáng có thể hơi đông đúc một chút vì chuyện đưa đón con đi học.",
+        "blanks": [
+          { "type": "knowledge", "answer": "friendly", "explanationVi": "Lại dùng tính từ 'friendly' để tả 'neighbourhood'. Hai tính từ 'quiet' và 'friendly' nối nhau bằng dấu phẩy để mô tả khu phố." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds perfect for us. By the way, would you ____ telling me when the bins are collected? I'm still figuring out how everything works here.",
+        "ipa": "/ðæt saʊndz ˈpɜː.fɪkt fɔː ʌs baɪ ðə weɪ wʊd juː ... ˈtel.ɪŋ miː wen ðə bɪnz ɑː kəˈlek.tɪd aɪm stɪl ˈfɪɡ.ər.ɪŋ aʊt haʊ ˈev.ri.θɪŋ wɜːks hɪə/",
+        "vi": "Nghe có vẻ rất hợp với chúng tôi. Tiện thể, anh/chị có ____ cho tôi biết khi nào người ta thu rác không? Tôi vẫn đang tìm hiểu mọi thứ ở đây vận hành ra sao.",
+        "blanks": [
+          { "type": "knowledge", "answer": "mind", "explanationVi": "Mẫu nhờ vả lịch sự 'Would you mind + V-ing...?' (Anh/chị có phiền... không). Sau 'mind' phải là V-ing ('telling'). Xem mục Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Of course not! The bins are collected every Tuesday morning, so you just need to put them out the night before. If you ever forget, just knock on my door.",
+        "ipa": "/əv kɔːs nɒt ðə bɪnz ɑː kəˈlek.tɪd ˈev.ri ˈtʃuːz.deɪ ˈmɔː.nɪŋ səʊ juː dʒʌst niːd tə pʊt ðəm aʊt ðə naɪt bɪˈfɔː ɪf juː ˈev.ə fəˈɡet dʒʌst nɒk ɒn maɪ dɔː/",
+        "vi": "Tất nhiên là không phiền rồi! Rác được thu vào sáng thứ Ba hàng tuần, nên anh/chị chỉ cần để rác ra ngoài từ tối hôm trước. Nếu có quên thì cứ gõ cửa nhà tôi nhé."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much, that's really helpful. Actually, could I ask one more favour? Would you mind keeping an eye on our place next weekend ____ we'll be away visiting family?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ðæts ˈrɪə.li ˈhel.fəl ˈæk.tʃu.ə.li kʊd aɪ ɑːsk wʌn mɔː ˈfeɪ.və wʊd juː maɪnd ˈkiː.pɪŋ ən aɪ ɒn ˈaʊə pleɪs nekst ˌwiːkˈend ... wiːl biː əˈweɪ ˈvɪz.ɪt.ɪŋ ˈfæm.ɪ.li/",
+        "vi": "Cảm ơn nhiều lắm, thật sự rất hữu ích. Thật ra, tôi nhờ thêm một việc nữa được không? Anh/chị trông giúp nhà tôi vào cuối tuần tới được không, ____ chúng tôi sẽ đi vắng để về thăm gia đình?",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho lời nhờ vả (vì chúng tôi đi vắng). Mức B1 ưu tiên 'because' để nối nguyên nhân một cách rõ ràng." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Not at all — I'd be happy to. We occasionally do that for each other on this street, ____ it's lovely to have neighbours you can rely on.",
+        "ipa": "/nɒt ət ɔːl aɪd biː ˈhæp.i tuː wiː əˈkeɪ.ʒən.ə.li duː ðæt fɔː iːtʃ ˈʌð.ə ɒn ðɪs striːt ... ɪts ˈlʌv.li tə hæv ˈneɪ.bəz juː kæn rɪˈlaɪ ɒn/",
+        "vi": "Không phiền gì cả, tôi rất sẵn lòng. Mọi người trên con phố này thỉnh thoảng vẫn giúp nhau như vậy, ____ có những người hàng xóm đáng tin cậy thì thật tuyệt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "so", "explanationVi": "Dùng 'so' để nối ý chỉ kết quả/hệ quả (vì thế, nên). Ở mức B1, 'because' nêu nguyên nhân còn 'so' nêu kết quả — hai mặt của một quan hệ logic." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I completely agree. Well, I should let you go, but if you ever need anything yourself, just ____ on our door anytime — we'd definitely be glad to help.",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː wel aɪ ʃʊd let juː ɡəʊ bʌt ɪf juː ˈev.ə niːd ˈen.i.θɪŋ jɔːˈself dʒʌst ... ɒn ˈaʊə dɔː ˈen.i.taɪm wiːd ˈdef.ɪn.ət.li biː ɡlæd tə help/",
+        "vi": "Tôi hoàn toàn đồng ý. Thôi, tôi không giữ chân anh/chị nữa, nhưng nếu lúc nào anh/chị cần gì thì cứ ____ cửa nhà tôi bất cứ lúc nào nhé, chúng tôi chắc chắn sẽ vui lòng giúp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "knock", "explanationVi": "Dùng động từ 'knock' (gõ) trong cụm 'knock on the door' (gõ cửa). Đây là mẫu ngỏ ý giúp đỡ 'If you ever need anything, just...'. Xem mục Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "That's very kind of you. I'm sure we'll all get along really well. Welcome to the street, and see you around!",
+        "ipa": "/ðæts ˈver.i kaɪnd əv juː aɪm ʃɔː wiːl ɔːl ɡet əˈlɒŋ ˈrɪə.li wel ˈwel.kəm tə ðə striːt ænd siː juː əˈraʊnd/",
+        "vi": "Anh/chị thật tốt bụng. Tôi tin chắc tất cả chúng ta sẽ rất hợp nhau. Chào mừng đến với con phố này, hẹn gặp lại nhé!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, chào hỏi hàng xóm bằng một câu ngắn như 'Morning!' hay 'Lovely day, isn't it?' là thông lệ lịch sự, kể cả khi không thân.",
+    "Nhờ vả nhỏ giữa hàng xóm (nhận hàng hộ, trông nhà, mượn đồ) rất phổ biến và được xem là dấu hiệu của một cộng đồng tốt — nhưng nên hỏi lịch sự và không lạm dụng.",
+    "Người phương Tây coi trọng sự riêng tư: trò chuyện xã giao thì thoải mái, nhưng hỏi quá sâu về thu nhập, tuổi tác hay đời tư ngay lần đầu gặp bị xem là khiếm nhã.",
+    "Việc thu gom rác (bins) thường theo lịch cố định trong tuần; biết lịch và để rác đúng ngày là một phần của 'phép lịch sự khu phố'."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'borrow' (mượn về) với 'lend' (cho mượn): phải nói 'Could I BORROW your ladder?' chứ không phải 'Could I lend your ladder?'.",
+    "Hiểu sai câu trả lời của 'Would you mind...?': trả lời 'No' nghĩa là ĐỒNG Ý (không phiền), 'Yes' mới là từ chối.",
+    "Nhầm 'quiet' /ˈkwaɪ.ət/ (yên tĩnh) với 'quite' /kwaɪt/ (khá) — sai cả nghĩa lẫn phát âm.",
+    "Coi 'friendly' là trạng từ vì có đuôi -ly. 'friendly' là TÍNH TỪ; muốn dùng như trạng từ phải nói 'in a friendly way'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống làm quen hàng xóm như thật.",
+    "prompt": "Hãy đóng vai một người hàng xóm thân thiện nói tiếng Anh. Tôi vừa mới chuyển đến sống cạnh nhà bạn và chúng ta tình cờ gặp nhau ở trước cổng. Hãy bắt đầu bằng cách chào và giới thiệu bản thân. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người hàng xóm thật, hỏi thăm và trò chuyện xã giao, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ nhờ tôi nhận hàng hộ, rủ tôi đi tiệc nướng cuối tuần, hỏi mượn đồ) để tôi tập xử lý. Khuyến khích tôi dùng câu vừa phải với 'such as', 'because', 'although' và các trạng từ như 'actually', 'honestly'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật và dùng nhiều thành ngữ hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý 3 cách diễn đạt tự nhiên hơn.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự giới thiệu được với hàng xóm mới bằng một câu tự nhiên mà không cần nhìn gợi ý.",
+    "Tôi dùng được mẫu 'Would you mind...?' và 'Could I borrow...?' để nhờ vả lịch sự.",
+    "Tôi mô tả được khu phố bằng câu có 'although' và nối được ý bằng 'because' và 'so'."
+  ]
+}

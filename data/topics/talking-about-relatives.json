@@ -1,0 +1,346 @@
+{
+  "id": "talking-about-relatives",
+  "category": "family",
+  "title": "Nói về họ hàng",
+  "titleEn": "Talking About Relatives",
+  "level": "A2",
+  "functions": ["describing", "small-talk", "asking-info"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gọi tên đúng các thành viên họ hàng (cô, dì, chú, bác, anh em họ...) bằng tiếng Anh",
+    "Mô tả một người họ hàng: ngoại hình, tính cách, nghề nghiệp bằng câu đơn giản",
+    "Hỏi và trả lời về gia đình họ hàng của người khác trong khi trò chuyện",
+    "Dùng sở hữu cách (my aunt's, my cousin's) và các trạng từ đơn giản như usually, sometimes khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "relative",
+      "ipa": "/ˈrel.ə.tɪv/",
+      "vi": "người họ hàng (danh từ)",
+      "register": "neutral",
+      "example": "I have a lot of relatives in my hometown.",
+      "exampleVi": "Tôi có nhiều người họ hàng ở quê.",
+      "note": "Danh từ. Chỉ chung mọi người trong họ ngoài bố mẹ, anh chị em ruột. Số nhiều: relatives.",
+      "synonyms": [
+        { "term": "family member", "ipa": "/ˈfæm.əl.i ˈmem.bər/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn, gồm cả bố mẹ, anh chị em ruột lẫn họ hàng. Dùng khi nói chung về 'thành viên gia đình'." },
+        { "term": "kin", "ipa": "/kɪn/", "register": "formal", "nuanceVi": "Trang trọng/cổ, chỉ toàn bộ thân tộc. Ít dùng trong nói chuyện hằng ngày; hay gặp trong văn viết hoặc thành ngữ 'next of kin'." }
+      ]
+    },
+    {
+      "term": "aunt",
+      "ipa": "/ɑːnt/",
+      "vi": "cô / dì / bác gái / thím (danh từ)",
+      "register": "neutral",
+      "example": "My aunt lives next to my grandmother.",
+      "exampleVi": "Cô/dì tôi sống cạnh nhà bà tôi.",
+      "note": "Danh từ. Tiếng Anh KHÔNG phân biệt cô/dì/bác gái — tất cả đều là 'aunt'. Người chồng của aunt là 'uncle'."
+    },
+    {
+      "term": "uncle",
+      "ipa": "/ˈʌŋ.kəl/",
+      "vi": "chú / bác trai / cậu / dượng (danh từ)",
+      "register": "neutral",
+      "example": "My uncle works as a teacher.",
+      "exampleVi": "Chú/bác tôi làm giáo viên.",
+      "note": "Danh từ. Cũng gộp chung mọi người đàn ông vai trên trong họ. 'th' không có ở đây — đọc /ˈʌŋ.kəl/."
+    },
+    {
+      "term": "cousin",
+      "ipa": "/ˈkʌz.ən/",
+      "vi": "anh / chị / em họ (danh từ)",
+      "register": "neutral",
+      "example": "My cousin and I are the same age.",
+      "exampleVi": "Tôi và anh/chị họ tôi bằng tuổi nhau.",
+      "note": "Danh từ. Dùng chung cho cả nam và nữ, không phân biệt tuổi. Phát âm bẫy: /ˈkʌz.ən/, không phải 'cou-sin'."
+    },
+    {
+      "term": "nephew",
+      "ipa": "/ˈnef.juː/",
+      "vi": "cháu trai (con của anh/chị/em) (danh từ)",
+      "register": "neutral",
+      "example": "My nephew is only three years old.",
+      "exampleVi": "Cháu trai tôi mới ba tuổi.",
+      "note": "Danh từ. Cháu gái là 'niece' /niːs/. Bẫy phát âm: 'ph' đọc là /f/."
+    },
+    {
+      "term": "grandparents",
+      "ipa": "/ˈɡræn.peə.rənts/",
+      "vi": "ông bà (danh từ)",
+      "register": "neutral",
+      "example": "My grandparents take care of the garden every day.",
+      "exampleVi": "Ông bà tôi chăm khu vườn mỗi ngày.",
+      "note": "Danh từ số nhiều = ông + bà. Riêng lẻ: grandfather (ông), grandmother (bà), grandpa/grandma (cách gọi thân mật).",
+      "synonyms": [
+        { "term": "grandma and grandpa", "ipa": "/ˈɡræn.mɑː ænd ˈɡræn.pɑː/", "register": "casual", "nuanceVi": "Cách gọi thân mật, đời thường trong gia đình, giống 'ông ơi, bà ơi'. Nghe gần gũi hơn 'grandparents'." }
+      ]
+    },
+    {
+      "term": "close",
+      "ipa": "/kləʊs/",
+      "vi": "thân thiết, gần gũi (tính từ)",
+      "register": "neutral",
+      "example": "I'm very close to my cousin.",
+      "exampleVi": "Tôi rất thân với anh/chị họ tôi.",
+      "note": "Tính từ chỉ quan hệ tình cảm gần gũi, đi với 'to'. Lưu ý: 'close' (tính từ) đọc /kləʊs/, còn 'close' (động từ đóng) đọc /kləʊz/.",
+      "synonyms": [
+        { "term": "tight-knit", "ipa": "/ˌtaɪtˈnɪt/", "register": "neutral", "nuanceVi": "Tính từ, thường dùng cho cả gia đình/nhóm gắn bó chặt chẽ: 'a tight-knit family'. Nhấn ý cả nhóm đoàn kết." },
+        { "term": "attached", "ipa": "/əˈtætʃt/", "register": "neutral", "nuanceVi": "Đi với 'to', nhấn sự gắn bó tình cảm với một người cụ thể: 'I'm attached to my grandma.'" }
+      ]
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện, dễ gần (tính từ)",
+      "register": "neutral",
+      "example": "My uncle is very friendly and always smiling.",
+      "exampleVi": "Chú tôi rất thân thiện và luôn tươi cười.",
+      "note": "Tính từ tả tính cách (KHÔNG phải trạng từ, dù kết thúc bằng -ly). Đừng nhầm 'friendly' với 'friend' (bạn).",
+      "synonyms": [
+        { "term": "kind", "ipa": "/kaɪnd/", "register": "neutral", "nuanceVi": "Nhấn sự tử tế, tốt bụng (hành động giúp đỡ), hơi khác 'friendly' (nhấn sự cởi mở, dễ bắt chuyện)." },
+        { "term": "warm", "ipa": "/wɔːm/", "register": "neutral", "nuanceVi": "Nhấn sự ấm áp, làm người khác thấy được yêu thương. Dùng tả người lớn tuổi, thân tình rất hợp." },
+        { "term": "outgoing", "ipa": "/ˌaʊtˈɡəʊ.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn tính cách hướng ngoại, thích giao tiếp với mọi người. Khác 'friendly' ở chỗ tả mức năng động xã hội." }
+      ]
+    },
+    {
+      "term": "to look after",
+      "ipa": "/tə lʊk ˈɑːf.tər/",
+      "vi": "chăm sóc, trông nom (động từ)",
+      "register": "neutral",
+      "example": "My grandmother looks after the children when my parents are at work.",
+      "exampleVi": "Bà tôi trông bọn trẻ khi bố mẹ tôi đi làm.",
+      "note": "Cụm động từ, đồng nghĩa 'take care of'. Sau nó luôn là tân ngữ (người/vật).",
+      "synonyms": [
+        { "term": "to take care of", "ipa": "/tə teɪk keər ɒv/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nghĩa y hệt 'look after'. Người Mỹ nghiêng về 'take care of', người Anh hay dùng 'look after'." },
+        { "term": "to raise", "ipa": "/tə reɪz/", "register": "neutral", "nuanceVi": "Nhấn việc 'nuôi dạy, nuôi lớn' một đứa trẻ qua nhiều năm, không chỉ trông nom tạm thời." }
+      ]
+    },
+    {
+      "term": "to resemble",
+      "ipa": "/tə rɪˈzem.bəl/",
+      "vi": "giống (ai đó) (động từ)",
+      "register": "formal",
+      "example": "People say I resemble my father.",
+      "exampleVi": "Mọi người nói tôi giống bố.",
+      "note": "Động từ trang trọng, KHÔNG đi với 'to' hay 'with' — nói 'resemble somebody' trực tiếp.",
+      "synonyms": [
+        { "term": "to take after", "ipa": "/tə teɪk ˈɑːf.tər/", "register": "neutral", "nuanceVi": "Cụm động từ đời thường, nghĩa 'giống (người trong nhà) về ngoại hình hoặc tính cách'. Dễ dùng khi nói chuyện." },
+        { "term": "to look like", "ipa": "/tə lʊk laɪk/", "register": "casual", "nuanceVi": "Chỉ giống về NGOẠI HÌNH thôi. Đơn giản, dễ nhất cho người mới học." }
+      ]
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thường (trạng từ)",
+      "register": "neutral",
+      "example": "We usually visit our relatives at Tet.",
+      "exampleVi": "Chúng tôi thường thăm họ hàng vào dịp Tết.",
+      "note": "Trạng từ tần suất. Đứng trước động từ thường, sau động từ 'to be'. Khác 'always' (luôn luôn) và 'sometimes' (thỉnh thoảng).",
+      "synonyms": [
+        { "term": "normally", "ipa": "/ˈnɔː.mə.li/", "register": "neutral", "nuanceVi": "Gần nghĩa 'usually', nhấn 'theo lệ thường thì'. Dùng thay nhau được trong hầu hết câu." },
+        { "term": "generally", "ipa": "/ˈdʒen.ər.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhìn chung, đa phần là vậy'. Hơi rộng và bao quát hơn 'usually'." }
+      ]
+    },
+    {
+      "term": "hometown",
+      "ipa": "/ˈhəʊm.taʊn/",
+      "vi": "quê nhà, quê hương (danh từ)",
+      "register": "neutral",
+      "example": "Most of my relatives still live in my hometown.",
+      "exampleVi": "Phần lớn họ hàng tôi vẫn sống ở quê.",
+      "note": "Danh từ, viết liền một từ. Là nơi bạn sinh ra/lớn lên, nơi họ hàng hay tụ họp."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I have [số] [danh từ chỉ người họ hàng].",
+      "use": "Nói về số lượng người họ hàng bạn có.",
+      "register": "neutral",
+      "examples": [
+        "I have two uncles and one aunt.",
+        "I have a lot of cousins on my mother's side."
+      ],
+      "explanationVi": "Cấu trúc cơ bản nhất để giới thiệu họ hàng. Nhớ thêm 's' cho danh từ số nhiều (uncles, cousins). 'on my mother's side' = bên ngoại."
+    },
+    {
+      "pattern": "This is my [người họ hàng]. [He/She] is [tính từ].",
+      "use": "Giới thiệu và mô tả ngắn một người họ hàng.",
+      "register": "neutral",
+      "examples": [
+        "This is my aunt. She is very friendly.",
+        "This is my cousin. He is tall and funny."
+      ],
+      "explanationVi": "Mẫu giới thiệu đơn giản: câu 1 nêu quan hệ, câu 2 dùng 'He/She is + tính từ' để tả. Rất hợp khi cho người khác xem ảnh gia đình.",
+      "altOf": "describing-person"
+    },
+    {
+      "pattern": "My [người họ hàng] is [tính từ] and [tính từ].",
+      "use": "Mô tả tính cách/ngoại hình một người họ hàng trong một câu.",
+      "register": "neutral",
+      "examples": [
+        "My grandmother is kind and patient.",
+        "My uncle is tall and quite serious."
+      ],
+      "explanationVi": "Dùng 'and' để nối hai tính từ trong cùng một câu, nghe trôi chảy hơn là tách hai câu ngắn cộc lốc.",
+      "altOf": "describing-person"
+    },
+    {
+      "pattern": "My [người họ hàng] [usually/sometimes] [động từ].",
+      "use": "Kể thói quen của một người họ hàng.",
+      "register": "neutral",
+      "examples": [
+        "My grandparents usually cook for the whole family.",
+        "My cousin sometimes visits us at the weekend."
+      ],
+      "explanationVi": "Trạng từ tần suất (usually, sometimes, often) đứng TRƯỚC động từ thường. Đây là cách làm câu nói tự nhiên và giàu thông tin hơn."
+    },
+    {
+      "pattern": "I'm very close to my [người họ hàng] because [mệnh đề].",
+      "use": "Nói bạn thân với ai và giải thích lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'm very close to my cousin because we grew up together.",
+        "I'm very close to my grandmother because she looked after me as a child."
+      ],
+      "explanationVi": "'close to' = thân thiết với. 'because' mở mệnh đề lý do — thêm lý do giúp câu trả lời đầy đặn, không cụt lủn."
+    },
+    {
+      "pattern": "How many [người họ hàng] do you have?",
+      "use": "Hỏi người khác về số lượng họ hàng.",
+      "register": "neutral",
+      "examples": [
+        "How many cousins do you have?",
+        "How many brothers and sisters does your mother have?"
+      ],
+      "explanationVi": "Mẫu câu hỏi với 'How many + danh từ số nhiều'. Đây là cách bắt chuyện về gia đình rất tự nhiên.",
+      "altOf": "asking-about-family"
+    },
+    {
+      "pattern": "What is your [người họ hàng] like?",
+      "use": "Hỏi về tính cách/con người của một người họ hàng.",
+      "register": "neutral",
+      "examples": [
+        "What is your uncle like?",
+        "What are your grandparents like?"
+      ],
+      "explanationVi": "'What ... like?' hỏi về TÍNH CÁCH/con người (không phải sở thích). Đừng nhầm với 'What does your uncle like?' (chú thích gì).",
+      "altOf": "asking-about-family"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi muốn đính chính nhẹ hoặc nói một chi tiết hơi bất ngờ.", "example": "Actually, my aunt lives abroad now." },
+    { "term": "for example", "ipa": "/fɔːr ɪɡˈzɑːm.pəl/", "vi": "ví dụ như", "when": "Khi muốn nêu một ví dụ cụ thể cho điều vừa nói.", "example": "I have many relatives, for example, three uncles and two aunts." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc chuyển nhẹ sang chuyện khác.", "example": "By the way, do you have any cousins?" },
+    { "term": "quite", "ipa": "/kwaɪt/", "vi": "khá là (làm dịu tính từ)", "when": "Đặt trước tính từ để nói mức độ vừa phải, không quá mạnh.", "example": "My grandfather is quite strict." },
+    { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "vi": "may mắn thay", "when": "Dẫn vào một điều tốt đẹp khi kể chuyện gia đình.", "example": "Luckily, all my relatives live close to each other." }
+  ],
+
+  "dialogue": {
+    "context": "Lan và Tom là bạn cùng lớp tiếng Anh. Trong giờ giải lao, Tom xem một bức ảnh gia đình của Lan và hỏi về những người họ hàng của cô.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "What a lovely photo! Is this your whole family? You seem to have a lot of ____.",
+        "ipa": "/wɒt ə ˈlʌv.li ˈfəʊ.təʊ ɪz ðɪs jɔː həʊl ˈfæm.ə.li juː siːm tə hæv ə lɒt ɒv/",
+        "vi": "Bức ảnh đẹp quá! Đây là cả gia đình bạn à? Bạn có vẻ có nhiều ____ đấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "relatives", "explanationVi": "Dùng 'relatives' (số nhiều) vì sau 'a lot of' là danh từ đếm được số nhiều. 'relatives' = những người họ hàng. Xem từ vựng 'relative'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Yes, this was taken at Tet. Actually, most of my ____ still live in my hometown, although a few of them have moved to the city.",
+        "ipa": "/jes ðɪs wɒz teɪkn æt tet ˈæk.tʃu.ə.li məʊst ɒv maɪ ... stɪl lɪv ɪn maɪ ˈhəʊm.taʊn ɔːlˈðəʊ ə fjuː ɒv ðəm hæv muːvd tə ðə ˈsɪt.i/",
+        "vi": "Đúng vậy, ảnh này chụp dịp Tết. Thật ra, phần lớn ____ của tớ vẫn sống ở quê, mặc dù một vài người đã chuyển lên thành phố.",
+        "blanks": [
+          { "type": "personal", "hint": "Một từ chỉ họ hàng nói chung. Ví dụ: 'relatives' hoặc 'family'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's nice. Who is the lady standing next to your grandmother? She looks very ____ with that big smile.",
+        "ipa": "/ðæts naɪs huː ɪz ðə ˈleɪ.di ˈstæn.dɪŋ nekst tə jɔː ˈɡræn.mʌð.ə ʃiː lʊks ˈver.i ... wɪð ðæt bɪɡ smaɪl/",
+        "vi": "Hay quá. Người phụ nữ đứng cạnh bà bạn là ai vậy? Cô ấy trông rất ____ với nụ cười tươi đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "friendly", "explanationVi": "Dùng tính từ 'friendly' (thân thiện) sau 'looks very' để tả ấn tượng về người trong ảnh. 'friendly' là tính từ dù kết thúc bằng -ly. Xem từ vựng 'friendly'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Oh, that's my aunt. She is not only friendly but also very kind, and she usually ____ my little brother when my parents are busy at work.",
+        "ipa": "/əʊ ðæts maɪ ɑːnt ʃiː ɪz nɒt ˈəʊn.li ˈfrend.li bʌt ˈɔːl.səʊ ˈver.i kaɪnd ænd ʃiː ˈjuː.ʒu.ə.li ... maɪ ˈlɪt.əl ˈbrʌð.ə wen maɪ ˈpeə.rənts ɑː ˈbɪz.i æt wɜːk/",
+        "vi": "Ồ, đó là dì tớ. Dì không chỉ thân thiện mà còn rất tốt bụng, và dì thường ____ em trai nhỏ của tớ khi bố mẹ tớ bận đi làm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "looks after", "explanationVi": "Dùng 'looks after' (chăm sóc, trông nom) — chia ngôi thứ ba số ít 'she' nên thêm 's'. Đồng nghĩa 'takes care of'. Xem từ vựng 'to look after'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "She sounds wonderful. By the way, how many ____ do you have? In my family, I only have one on my mother's side.",
+        "ipa": "/ʃiː saʊndz ˈwʌn.də.fəl baɪ ðə weɪ haʊ ˈmen.i ... duː juː hæv ɪn maɪ ˈfæm.ə.li aɪ ˈəʊn.li hæv wʌn ɒn maɪ ˈmʌð.əz saɪd/",
+        "vi": "Dì ấy nghe tuyệt thật. Tiện thể, bạn có bao nhiêu ____? Trong nhà tớ, tớ chỉ có một người bên ngoại thôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "cousins", "explanationVi": "Dùng 'cousins' (anh/chị/em họ) số nhiều sau 'How many'. Mẫu câu hỏi 'How many + danh từ số nhiều'. Xem từ vựng 'cousin'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I have ____ cousins, and luckily we are all very close because we grew up together in the same village.",
+        "ipa": "/aɪ hæv ... ˈkʌz.ənz ænd ˈlʌk.ɪ.li wiː ɑːr ɔːl ˈver.i kləʊs bɪˈkɒz wiː ɡruː ʌp təˈɡeð.ə ɪn ðə seɪm ˈvɪl.ɪdʒ/",
+        "vi": "Tớ có ____ anh chị em họ, và may là chúng tớ đều rất thân vì cùng lớn lên ở một làng.",
+        "blanks": [
+          { "type": "personal", "hint": "Một con số. Ví dụ: 'six' hoặc 'a lot of'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That must be fun, although it sounds noisy too! Do you ____ resemble any of them, or do they all look different?",
+        "ipa": "/ðæt mʌst biː fʌn ɔːlˈðəʊ ɪt saʊndz ˈnɔɪ.zi tuː duː juː ... rɪˈzem.bəl ˈen.i ɒv ðəm ɔː duː ðeɪ ɔːl lʊk ˈdɪf.ər.ənt/",
+        "vi": "Chắc vui lắm, mặc dù nghe cũng ồn ào nữa nhỉ! Bạn có ____ giống ai trong số họ không, hay họ trông khác nhau hết?",
+        "blanks": [
+          { "type": "knowledge", "answer": "usually", "explanationVi": "Dùng trạng từ tần suất 'usually' (thường) trước động từ chính 'resemble' để hỏi về điều thường xảy ra. Trạng từ tần suất đứng trước động từ thường. Xem từ vựng 'usually'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "People say I take after my mother, who has the same eyes and smile. I'd love you to meet them all one day, ____ you are ever in my hometown.",
+        "ipa": "/ˈpiː.pəl seɪ aɪ teɪk ˈɑːf.tə maɪ ˈmʌð.ə huː hæz ðə seɪm aɪz ænd smaɪl aɪd lʌv juː tə miːt ðəm ɔːl wʌn deɪ ... juː ɑːr ˈev.ə ɪn maɪ ˈhəʊm.taʊn/",
+        "vi": "Mọi người nói tớ giống mẹ, người có đôi mắt và nụ cười giống y tớ. Tớ rất muốn bạn gặp tất cả họ một ngày nào đó, ____ bạn có dịp về quê tớ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "if", "explanationVi": "Dùng 'if' (nếu) để mở mệnh đề điều kiện: nếu một ngày bạn về quê tớ. Đây là câu điều kiện đơn giản. 'who has the same eyes' là mệnh đề quan hệ tả người mẹ." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Tiếng Anh KHÔNG phân biệt vai vế chi tiết như tiếng Việt: cô, dì, bác gái, thím đều gọi là 'aunt'; chú, bác trai, cậu, dượng đều là 'uncle'. Muốn rõ thì thêm 'on my mother's/father's side'.",
+    "Người phương Tây thường chỉ thân thiết với họ hàng gần (ông bà, cô dì chú bác, anh em họ), ít gặp đại gia đình đông đúc thường xuyên như ở Việt Nam.",
+    "Khi khoe ảnh gia đình, hỏi 'What is he/she like?' (tính cách) hoặc 'Who is this?' là cách trò chuyện lịch sự, tự nhiên.",
+    "Ở Việt Nam, dịp Tết là lúc họ hàng tụ họp đông đủ — đây là chủ đề small-talk hay khi giới thiệu văn hóa với người nước ngoài."
+  ],
+
+  "commonMistakes": [
+    "Dịch sát kiểu 'uncle older than my father' để phân biệt bác/chú — người bản xứ chỉ nói 'my uncle', cùng lắm thêm 'my dad's older brother'.",
+    "Nhầm 'cousin' với 'nephew/niece': cousin là anh/chị/em họ (cùng thế hệ), còn nephew/niece là cháu (thế hệ dưới).",
+    "Nói 'I have relative' thiếu mạo từ/số nhiều — phải là 'I have A relative' hoặc 'I have relativeS'.",
+    "Nhầm 'What is your uncle like?' (hỏi tính cách) với 'What does your uncle like?' (hỏi sở thích) — hai câu khác hẳn nghĩa."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về họ hàng của bạn như đang trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện thân mật với tôi về gia đình và họ hàng. Hãy bắt đầu bằng cách hỏi tôi về họ hàng của tôi (tôi có bao nhiêu cô dì chú bác, anh chị em họ, tôi thân với ai nhất...). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn và hỏi thêm một câu, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa đúng (ví dụ nhầm cousin với nephew, thiếu mạo từ) thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi mô tả tính cách người họ hàng bằng các tính từ như friendly, kind, close. Hãy dùng câu đơn giản, nói chậm và thân thiện vì trình độ của tôi là A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi mô tả một người họ hàng bằng ít nhất 3 câu liền nhau.' để tập nói dài hơn.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất và cho tôi 3 mẫu câu để học thuộc.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gọi đúng tên các thành viên họ hàng (aunt, uncle, cousin, nephew, niece) mà không nhầm.",
+    "Tôi mô tả được một người họ hàng bằng 2-3 câu có tính từ (friendly, kind, close).",
+    "Tôi hỏi và trả lời được câu 'How many cousins do you have?' và 'What is your uncle like?'."
+  ]
+}

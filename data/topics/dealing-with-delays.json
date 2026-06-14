@@ -1,0 +1,355 @@
+{
+  "id": "dealing-with-delays",
+  "category": "travel",
+  "title": "Xử lý trễ chuyến",
+  "titleEn": "Dealing with Delays",
+  "level": "B1",
+  "functions": ["asking-info", "complaining", "handling-problems", "requesting"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Hỏi nhân viên hãng bay lý do và thời gian trễ chuyến một cách lịch sự",
+    "Phàn nàn nhã nhặn và yêu cầu hỗ trợ khi bị lỡ chuyến nối tiếp",
+    "Đề nghị được đặt lại chuyến, hoàn tiền hoặc nhận voucher ăn uống",
+    "Dùng câu dài với 'although', 'such as', 'because' và trạng từ tự nhiên khi nói",
+    "Giữ bình tĩnh và xử lý sự cố sân bay mà vẫn rõ ràng, dứt khoát"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "vi": "sự trễ / việc trì hoãn (danh từ); làm trễ (động từ)",
+      "register": "neutral",
+      "example": "There is a two-hour delay on my flight because of the bad weather.",
+      "exampleVi": "Chuyến bay của tôi bị trễ hai tiếng vì thời tiết xấu.",
+      "note": "Vừa là danh từ ('a delay'), vừa là động từ ('the flight is delayed'). Phân biệt với 'cancel' (hủy hẳn).",
+      "synonyms": [
+        { "term": "hold-up", "ipa": "/ˈhəʊld.ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sự kẹt lại, chậm trễ tạm thời'. Hợp khi nói chuyện thân mật hơn là với nhân viên hãng bay." },
+        { "term": "setback", "ipa": "/ˈset.bæk/", "register": "neutral", "nuanceVi": "Nhấn 'trục trặc làm lùi tiến độ'. Rộng hơn 'delay', dùng cho cả kế hoạch chứ không chỉ giờ giấc." }
+      ]
+    },
+    {
+      "term": "to reschedule",
+      "ipa": "/ˌriːˈʃed.juːl/",
+      "vi": "đặt lại lịch / dời lịch (động từ)",
+      "register": "neutral",
+      "example": "Could you help me reschedule my flight to tomorrow morning?",
+      "exampleVi": "Anh/chị giúp tôi dời chuyến bay sang sáng mai được không?",
+      "note": "Động từ. Tiền tố 're-' nghĩa là 'lại'. Người Mỹ đọc /ˌriːˈsked.juːl/, người Anh đọc /ˌriːˈʃed.juːl/.",
+      "synonyms": [
+        { "term": "to rebook", "ipa": "/ˌriːˈbʊk/", "register": "neutral", "nuanceVi": "Nhấn 'đặt lại vé/chỗ', cụ thể cho vé máy bay, khách sạn. Hẹp hơn 'reschedule' (dời lịch nói chung)." },
+        { "term": "to postpone", "ipa": "/pəˈspəʊn/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'hoãn sang thời điểm muộn hơn'. Thường dùng cho sự kiện, cuộc họp hơn là vé bay." }
+      ]
+    },
+    {
+      "term": "connecting flight",
+      "ipa": "/kəˈnek.tɪŋ flaɪt/",
+      "vi": "chuyến bay nối tiếp",
+      "register": "neutral",
+      "example": "If this flight is late, I will miss my connecting flight to Tokyo.",
+      "exampleVi": "Nếu chuyến này trễ, tôi sẽ lỡ chuyến nối tiếp đi Tokyo.",
+      "note": "Là chuyến thứ hai bạn phải bắt sau khi hạ cánh. Động từ thường đi kèm: 'miss a connecting flight' (lỡ chuyến nối)."
+    },
+    {
+      "term": "compensation",
+      "ipa": "/ˌkɒm.penˈseɪ.ʃən/",
+      "vi": "tiền/quyền lợi đền bù",
+      "register": "formal",
+      "example": "Passengers may be entitled to compensation when a flight is delayed for a long time.",
+      "exampleVi": "Hành khách có thể được đền bù khi chuyến bay trễ quá lâu.",
+      "note": "Danh từ không đếm được. Cụm hay dùng: 'be entitled to compensation' (có quyền được đền bù).",
+      "synonyms": [
+        { "term": "refund", "ipa": "/ˈriː.fʌnd/", "register": "neutral", "nuanceVi": "Nghĩa hẹp: 'hoàn lại tiền đã trả'. 'Compensation' rộng hơn, gồm cả voucher, khách sạn, tiền bù thêm." },
+        { "term": "reimbursement", "ipa": "/ˌriː.ɪmˈbɜːs.mənt/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'hoàn lại khoản bạn đã tự bỏ ra' (vd tiền ăn, khách sạn). Hay xuất hiện trong văn bản hãng bay." }
+      ]
+    },
+    {
+      "term": "to board",
+      "ipa": "/bɔːd/",
+      "vi": "lên máy bay (động từ)",
+      "register": "neutral",
+      "example": "We will start boarding about thirty minutes before departure.",
+      "exampleVi": "Chúng tôi sẽ bắt đầu cho lên máy bay khoảng ba mươi phút trước giờ khởi hành.",
+      "note": "Động từ. Danh từ là 'boarding' (việc lên máy bay), 'boarding pass' (thẻ lên máy bay), 'boarding gate' (cửa ra máy bay)."
+    },
+    {
+      "term": "announcement",
+      "ipa": "/əˈnaʊns.mənt/",
+      "vi": "thông báo (danh từ)",
+      "register": "neutral",
+      "example": "They made an announcement that the flight had been delayed again.",
+      "exampleVi": "Họ đã thông báo rằng chuyến bay lại bị trễ nữa.",
+      "note": "Danh từ. Cụm hay dùng: 'make an announcement'. Động từ là 'to announce'.",
+      "synonyms": [
+        { "term": "notice", "ipa": "/ˈnəʊ.tɪs/", "register": "neutral", "nuanceVi": "Nghiêng về thông báo bằng văn bản/bảng hiển thị, hoặc 'sự báo trước'. 'Announcement' thường là phát loa, nói ra miệng." }
+      ]
+    },
+    {
+      "term": "frustrating",
+      "ipa": "/frʌsˈtreɪ.tɪŋ/",
+      "vi": "gây bực bội, khó chịu (tính từ)",
+      "register": "neutral",
+      "example": "Waiting for hours without any information is really frustrating.",
+      "exampleVi": "Chờ hàng giờ mà không có thông tin gì thì thật sự rất bực.",
+      "note": "Tính từ '-ing' mô tả tình huống gây ra cảm giác. Nói về bản thân thì dùng 'frustrated' (tôi thấy bực).",
+      "synonyms": [
+        { "term": "annoying", "ipa": "/əˈnɔɪ.ɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'phiền phức, khó chịu'. 'Frustrating' nặng hơn, nhấn cảm giác bất lực vì không làm gì được." },
+        { "term": "infuriating", "ipa": "/ɪnˈfjʊə.ri.eɪ.tɪŋ/", "register": "formal", "nuanceVi": "Rất mạnh, nghĩa 'khiến phát điên'. Dùng khi cực kỳ tức giận; cẩn thận kẻo nghe quá gay gắt với nhân viên." }
+      ]
+    },
+    {
+      "term": "estimated",
+      "ipa": "/ˈes.tɪ.meɪ.tɪd/",
+      "vi": "ước tính, dự kiến (tính từ)",
+      "register": "neutral",
+      "example": "What is the estimated departure time now?",
+      "exampleVi": "Giờ khởi hành dự kiến bây giờ là mấy giờ ạ?",
+      "note": "Tính từ. Bảng sân bay hay viết 'ETD' (estimated time of departure) và 'ETA' (estimated time of arrival).",
+      "synonyms": [
+        { "term": "approximate", "ipa": "/əˈprɒk.sɪ.mət/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'xấp xỉ, gần đúng'. Nhấn vào con số không chính xác tuyệt đối, hơi khác 'estimated' (đã tính toán dự đoán)." }
+      ]
+    },
+    {
+      "term": "to apologize",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "vi": "xin lỗi (động từ)",
+      "register": "neutral",
+      "example": "The airline apologized for the inconvenience caused by the delay.",
+      "exampleVi": "Hãng bay đã xin lỗi vì sự bất tiện do việc trễ chuyến gây ra.",
+      "note": "Động từ, đi với 'apologize FOR something' / 'apologize TO someone'. Anh-Anh viết 'apologise'.",
+      "synonyms": [
+        { "term": "to be sorry", "ipa": "/tə biː ˈsɒr.i/", "register": "neutral", "nuanceVi": "Đời thường hơn, dễ nói: 'I'm so sorry about that.' 'Apologize' trang trọng và chính thức hơn." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, không chậm trễ (trạng từ)",
+      "register": "formal",
+      "example": "The staff dealt with my complaint promptly and politely.",
+      "exampleVi": "Nhân viên đã xử lý khiếu nại của tôi nhanh chóng và lịch sự.",
+      "note": "Trạng từ trang trọng, nhấn 'làm ngay, đúng lúc'. Hợp khi khen hoặc yêu cầu được giải quyết nhanh.",
+      "synonyms": [
+        { "term": "quickly", "ipa": "/ˈkwɪk.li/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nhấn tốc độ. 'Promptly' thêm ý 'đúng lúc, không trì hoãn', sang hơn một chút." },
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, không chậm một giây'. Mạnh hơn 'promptly' về tính tức thời." }
+      ]
+    },
+    {
+      "term": "voucher",
+      "ipa": "/ˈvaʊ.tʃər/",
+      "vi": "phiếu (ăn uống / khách sạn) do hãng cấp",
+      "register": "neutral",
+      "example": "They gave us a meal voucher while we waited for the next flight.",
+      "exampleVi": "Họ phát cho chúng tôi phiếu ăn trong lúc chờ chuyến tiếp theo.",
+      "note": "Danh từ. Khi trễ lâu, hãng thường cấp 'meal voucher' (phiếu ăn) hoặc 'hotel voucher' (phiếu khách sạn)."
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "kiên nhẫn (tính từ)",
+      "register": "neutral",
+      "example": "I tried to stay patient even though the delay kept getting longer.",
+      "exampleVi": "Tôi cố giữ kiên nhẫn dù việc trễ cứ kéo dài thêm.",
+      "note": "Tính từ. Đừng nhầm với danh từ 'patient' (bệnh nhân) viết giống hệt. Trạng từ: 'patiently'.",
+      "synonyms": [
+        { "term": "calm", "ipa": "/kɑːm/", "register": "neutral", "nuanceVi": "Nhấn 'điềm tĩnh, không nổi nóng'. 'Patient' nhấn 'chịu đựng chờ đợi được lâu'. Hai sắc thái bổ sung cho nhau." },
+        { "term": "understanding", "ipa": "/ˌʌn.dəˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'thông cảm, biết điều'. Khi nói với nhân viên, tỏ ra 'understanding' giúp họ sẵn lòng hỗ trợ bạn hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you tell me why [chủ ngữ] + [động từ] ... ?",
+      "use": "Hỏi lý do (vì sao trễ, vì sao hủy) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me why the flight has been delayed?",
+        "Could you tell me why the gate has changed?"
+      ],
+      "explanationVi": "Đây là câu hỏi gián tiếp: sau 'why' giữ nguyên trật tự chủ ngữ + động từ (không đảo). Nghe lịch sự hơn nhiều so với 'Why is the flight delayed?'.",
+      "altOf": "asking-reason"
+    },
+    {
+      "pattern": "Do you happen to know what's causing [danh từ] ?",
+      "use": "Hỏi nguyên nhân một cách nhẹ nhàng, đỡ căng.",
+      "register": "neutral",
+      "examples": [
+        "Do you happen to know what's causing the delay?",
+        "Do you happen to know what's causing the hold-up at the gate?"
+      ],
+      "explanationVi": "'Do you happen to know...' = 'không biết anh/chị có biết... không', làm câu hỏi mềm và bớt đòi hỏi. Rất hợp khi hỏi nhân viên không trực tiếp gây ra lỗi.",
+      "altOf": "asking-reason"
+    },
+    {
+      "pattern": "I'm afraid [mệnh đề], so I'd appreciate it if you could [động từ].",
+      "use": "Nêu vấn đề và yêu cầu hỗ trợ một cách lịch sự, nhã nhặn.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid I'll miss my connecting flight, so I'd appreciate it if you could rebook me.",
+        "I'm afraid I've been waiting for three hours, so I'd appreciate it if you could explain my options."
+      ],
+      "explanationVi": "'I'm afraid' báo trước một tin không hay một cách lịch sự. 'I'd appreciate it if you could...' là cách đề nghị nhã nhặn bậc cao, lịch sự hơn 'Please...'.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Would it be possible to + [động từ nguyên thể] ... ?",
+      "use": "Đề nghị một việc cần được chấp thuận (dời chuyến, nhận voucher, hoàn tiền).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to reschedule me on the next available flight?",
+        "Would it be possible to get a meal voucher while I wait?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi bạn xin một điều người ta có quyền từ chối. Nghe rất nhã nhặn nên dễ được giúp đỡ.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Although [mệnh đề], I would like to [động từ].",
+      "use": "Thể hiện thông cảm trước khi nêu yêu cầu, để không nghe gay gắt.",
+      "register": "neutral",
+      "examples": [
+        "Although I understand it's not your fault, I would like to know my options.",
+        "Although I know the weather is bad, I would still like to be rebooked today."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù...). Thừa nhận hoàn cảnh trước rồi mới nêu yêu cầu giúp bạn vừa cứng rắn vừa lịch sự — rất 'được lòng' nhân viên."
+    },
+    {
+      "pattern": "What are my options if [mệnh đề điều kiện] ?",
+      "use": "Hỏi về các lựa chọn/quyền lợi khi sự cố xảy ra.",
+      "register": "neutral",
+      "examples": [
+        "What are my options if I miss my connecting flight?",
+        "What are my options if the flight is cancelled?"
+      ],
+      "explanationVi": "Câu cực hữu ích để biết bạn được hỗ trợ những gì (đổi chuyến, voucher, đền bù). 'options' = các lựa chọn. Mệnh đề 'if' nêu tình huống giả định."
+    },
+    {
+      "pattern": "Is there any chance of + [danh từ / V-ing] ?",
+      "use": "Hỏi thăm dò khả năng được điều gì đó, rất nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "Is there any chance of getting on an earlier flight?",
+        "Is there any chance of compensation for the delay?"
+      ],
+      "explanationVi": "'Is there any chance of...' = 'liệu có khả năng... không'. Cách hỏi khiêm tốn, không áp đặt; nếu họ từ chối cũng không khiến ai khó xử.",
+      "altOf": "requesting-help"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "không may là", "when": "Dẫn vào một tin xấu (bị trễ, lỡ chuyến) một cách nhẹ nhàng.", "example": "Unfortunately, my flight has been delayed by three hours." },
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "nghe nói là / có vẻ như", "when": "Thuật lại thông tin nghe được mà chưa chắc chắn.", "example": "Apparently, the delay is due to a technical problem with the aircraft." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ)", "when": "Khi cần nói lại cho đúng hoặc nêu điều hơi trái ý mà không cộc lốc.", "example": "Actually, I booked a connecting flight, not a direct one." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một lời phàn nàn chân thành nhưng vẫn lịch sự.", "example": "To be honest, I'm a little frustrated because no one has explained the situation." },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Nói về kết quả mong muốn ở tương lai, giữ thái độ tích cực.", "example": "Hopefully, the next flight won't be delayed as well." },
+    { "term": "eventually", "ipa": "/ɪˈven.tʃu.ə.li/", "vi": "cuối cùng thì (sau một quá trình)", "when": "Kể kết quả đạt được sau khi chờ đợi/cố gắng lâu.", "example": "Eventually, they put me on a later flight and gave me a meal voucher." }
+  ],
+
+  "dialogue": {
+    "context": "Chuyến bay của bạn bị trễ nhiều giờ và bạn lo sẽ lỡ chuyến nối tiếp. Bạn tới quầy dịch vụ khách hàng của hãng bay để hỏi thông tin và yêu cầu hỗ trợ.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon. I'm sorry for the wait. How can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn aɪm ˈsɒr.i fɔː ðə weɪt haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều. Xin lỗi vì đã để quý khách chờ. Tôi có thể giúp gì cho quý khách hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. My flight to ____ keeps getting delayed, and I'm a little worried. Could you tell me ____ it has been delayed again?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn maɪ flaɪt tə ... kiːps ˈɡet.ɪŋ dɪˈleɪd ænd aɪm ə ˈlɪt.əl ˈwʌr.id kʊd juː tel miː waɪ ɪt hæz biːn dɪˈleɪd əˈɡen/",
+        "vi": "Chào buổi chiều. Chuyến bay của tôi đi ____ cứ bị trễ mãi, và tôi hơi lo lắng. Anh/chị cho tôi biết ____ nó lại bị trễ nữa không ạ?",
+        "blanks": [
+          { "type": "personal", "hint": "Điểm đến của bạn. Ví dụ: 'Tokyo', 'Singapore'." },
+          { "type": "knowledge", "answer": "why", "explanationVi": "Câu hỏi gián tiếp lịch sự: 'Could you tell me WHY it has been delayed?'. Sau 'why' giữ nguyên trật tự chủ ngữ + động từ, không đảo. Xem mẫu câu 'Could you tell me why...?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm really sorry about that. Apparently, the delay is due to bad weather, ____ has affected several flights this afternoon. The new estimated departure time is 6 p.m.",
+        "ipa": "/aɪm ˈrɪə.li ˈsɒr.i əˈbaʊt ðæt əˈpær.ənt.li ðə dɪˈleɪ ɪz djuː tə bæd ˈweð.ə wɪtʃ hæz əˈfek.tɪd ˈsev.rəl flaɪts ðɪs ˌɑːf.təˈnuːn ðə njuː ˈes.tɪ.meɪ.tɪd dɪˈpɑː.tʃə taɪm ɪz sɪks piː em/",
+        "vi": "Tôi thật sự xin lỗi về điều đó. Nghe nói việc trễ là do thời tiết xấu, ____ đã ảnh hưởng đến nhiều chuyến chiều nay. Giờ khởi hành dự kiến mới là 6 giờ tối.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' để nối mệnh đề mô tả 'bad weather' (vật/sự việc). Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see. Although I understand it's not your fault, I'm afraid I'll miss my ____ flight to Osaka, so I'd appreciate it if you could check my options.",
+        "ipa": "/aɪ siː ɔːlˈðəʊ aɪ ˌʌn.dəˈstænd ɪts nɒt jɔː fɔːlt aɪm əˈfreɪd aɪl mɪs maɪ ... flaɪt tə əʊˈsɑː.kə səʊ aɪd əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd tʃek maɪ ˈɒp.ʃənz/",
+        "vi": "Tôi hiểu rồi. Dù tôi biết đây không phải lỗi của anh/chị, tôi e là mình sẽ lỡ chuyến ____ đi Osaka, nên tôi rất mong anh/chị kiểm tra giúp các lựa chọn cho tôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "connecting", "explanationVi": "'connecting flight' = chuyến bay nối tiếp (chuyến thứ hai bạn phải bắt sau khi hạ cánh). Đây là từ vựng trọng tâm của bài." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me take a look. Don't worry, we can rebook you on a later connection. Not only will we put you on the next available flight, but we'll also give you a meal ____ for the wait.",
+        "ipa": "/let miː teɪk ə lʊk dəʊnt ˈwʌr.i wiː kæn ˌriːˈbʊk juː ɒn ə ˈleɪ.tə kəˈnek.ʃən nɒt ˈəʊn.li wɪl wiː pʊt juː ɒn ðə nekst əˈveɪ.lə.bəl flaɪt bʌt wiːl ˈɔːl.səʊ ɡɪv juː ə miːl ... fɔː ðə weɪt/",
+        "vi": "Để tôi xem nào. Quý khách đừng lo, chúng tôi có thể đặt lại cho quý khách một chuyến nối muộn hơn. Chúng tôi không chỉ xếp quý khách vào chuyến gần nhất còn chỗ, mà còn tặng quý khách một ____ ăn (phiếu ăn) cho thời gian chờ đợi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "voucher", "explanationVi": "'meal voucher' = phiếu ăn do hãng cấp khi khách phải chờ lâu. Câu này dùng đảo ngữ 'Not only will we..., but we'll also...' để nhấn mạnh hãng làm nhiều việc hỗ trợ." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's very kind of you, thank you. To be honest, I was getting quite ____ because there were no announcements, but you've handled this really promptly.",
+        "ipa": "/ðæts ˈver.i kaɪnd ɒv juː θæŋk juː tə biː ˈɒn.ɪst aɪ wɒz ˈɡet.ɪŋ kwaɪt ... bɪˈkɒz ðeə wɜː nəʊ əˈnaʊns.mənts bʌt juːv ˈhæn.dəld ðɪs ˈrɪə.li ˈprɒmpt.li/",
+        "vi": "Anh/chị thật tốt bụng, cảm ơn nhiều. Thành thật mà nói, tôi đã thấy khá ____ vì chẳng có thông báo nào, nhưng anh/chị đã xử lý việc này rất nhanh chóng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "frustrated", "explanationVi": "Nói về CẢM GIÁC của bản thân thì dùng tính từ '-ed': 'I was frustrated'. Dùng 'frustrating' (-ing) là để mô tả tình huống gây ra cảm giác đó. Đây là bẫy hay gặp." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I completely understand, and I apologize again for the inconvenience. Is there anything else I can help you with, such as transport or a hotel for tonight?",
+        "ipa": "/aɪ kəmˈpliːt.li ˌʌn.dəˈstænd ænd aɪ əˈpɒl.ə.dʒaɪz əˈɡen fɔː ðə ˌɪn.kənˈviː.ni.əns ɪz ðeər ˈen.i.θɪŋ els aɪ kæn help juː wɪð sʌtʃ æz ˈtræns.pɔːt ɔːr ə həʊˈtel fɔː təˈnaɪt/",
+        "vi": "Tôi hoàn toàn hiểu, và tôi xin lỗi lần nữa vì sự bất tiện. Tôi có thể giúp gì thêm cho quý khách không, chẳng hạn như phương tiện đi lại hay khách sạn cho tối nay?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That would be wonderful. Is there any chance of ____ a hotel voucher, since my new flight only leaves tomorrow morning?",
+        "ipa": "/ðæt wʊd biː ˈwʌn.də.fəl ɪz ðeər ˈen.i tʃɑːns ɒv ... ə həʊˈtel ˈvaʊ.tʃə sɪns maɪ njuː flaɪt ˈəʊn.li liːvz təˈmɒr.əʊ ˈmɔː.nɪŋ/",
+        "vi": "Vậy thì tuyệt quá. Liệu có khả năng ____ một phiếu khách sạn không, vì chuyến mới của tôi mãi sáng mai mới bay?",
+        "blanks": [
+          { "type": "knowledge", "answer": "getting", "explanationVi": "Sau giới từ 'of' phải dùng V-ing: 'any chance of GETTING...'. Mẫu câu thăm dò lịch sự 'Is there any chance of + V-ing?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely. Here is your new boarding pass and a hotel voucher. Once again, I'm sorry for the delay, and I hope the rest of your trip goes smoothly.",
+        "ipa": "/ˈæb.sə.luːt.li hɪər ɪz jɔː njuː ˈbɔː.dɪŋ pɑːs ænd ə həʊˈtel ˈvaʊ.tʃə wʌns əˈɡen aɪm ˈsɒr.i fɔː ðə dɪˈleɪ ænd aɪ həʊp ðə rest ɒv jɔː trɪp ɡəʊz ˈsmuːð.li/",
+        "vi": "Chắc chắn rồi ạ. Đây là thẻ lên máy bay mới và phiếu khách sạn của quý khách. Một lần nữa, tôi xin lỗi vì việc trễ chuyến, và mong phần còn lại của chuyến đi quý khách thật suôn sẻ."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước (đặc biệt EU theo quy định EC261, hoặc Mỹ), khi chuyến bay trễ/hủy do lỗi hãng, hành khách có thể được quyền lợi như voucher ăn, khách sạn, đổi chuyến miễn phí hoặc đền bù. Trễ do thời tiết thường KHÔNG được đền bù tiền nhưng vẫn được hỗ trợ ăn ở.",
+    "Giữ thái độ bình tĩnh và lịch sự thường giúp bạn được hỗ trợ nhanh hơn. Nhân viên quầy không phải người gây ra trễ chuyến, nên trách móc họ ít khi có ích.",
+    "Nên giữ lại thẻ lên máy bay, hóa đơn ăn uống và mọi giấy tờ; nhiều hãng yêu cầu chúng để làm thủ tục hoàn tiền (reimbursement) sau này.",
+    "Cụm 'I'd appreciate it if you could...' và 'Would it be possible to...?' được xem là rất lịch sự ở phương Tây và thường hiệu quả hơn việc lớn tiếng đòi hỏi."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'frustrated' (cảm giác của tôi) với 'frustrating' (tình huống gây ra cảm giác): nói 'I am frustrating' là sai, phải là 'I am frustrated'.",
+    "Hỏi cộc lốc 'Why is it delayed?'. Người bản xứ dùng câu gián tiếp lịch sự: 'Could you tell me why it has been delayed?'.",
+    "Quên dùng V-ing sau giới từ: phải là 'any chance of GETTING a voucher', không phải 'any chance of get'.",
+    "Dùng 'delay' và 'cancel' lẫn lộn: 'delayed' là trễ (vẫn bay), 'cancelled' là hủy hẳn (không bay)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống xử lý trễ chuyến như thật.",
+    "prompt": "Hãy đóng vai một nhân viên dịch vụ khách hàng của hãng hàng không, nói tiếng Anh. Tôi là hành khách có chuyến bay bị trễ nhiều giờ và đang lo lỡ chuyến nối tiếp. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'because' và các mẫu lịch sự như 'Could you tell me why...?', 'Would it be possible to...?'. Thỉnh thoảng hãy tạo tình huống bất ngờ (ví dụ chuyến bị hủy hẳn, hết phòng khách sạn, không còn chuyến trong ngày) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai nhân viên hơi khó tính và bận rộn để tôi tập giữ bình tĩnh và kiên nhẫn.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy nói nhanh hơn như người bản xứ thật và dùng nhiều từ vựng sân bay.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được lý do trễ chuyến bằng câu gián tiếp lịch sự mà không nhìn gợi ý.",
+    "Tôi nêu được vấn đề (lỡ chuyến nối) và yêu cầu hỗ trợ bằng 'I'd appreciate it if...' hoặc 'Would it be possible to...?'.",
+    "Tôi phân biệt và dùng đúng 'frustrated' / 'frustrating' và 'delayed' / 'cancelled'."
+  ]
+}

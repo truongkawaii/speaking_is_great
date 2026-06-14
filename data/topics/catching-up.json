@@ -1,0 +1,400 @@
+{
+  "id": "catching-up",
+  "category": "friends",
+  "title": "Hỏi thăm sau lâu ngày",
+  "titleEn": "Catching Up",
+  "level": "B1",
+  "functions": ["greetings", "small-talk", "asking-info", "opinions"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Chào hỏi và thể hiện sự bất ngờ khi gặp lại bạn cũ sau lâu ngày",
+    "Hỏi thăm về cuộc sống, công việc và gia đình của bạn bằng câu tự nhiên",
+    "Kể ngắn gọn về những thay đổi của bản thân trong thời gian qua",
+    "Hẹn gặp lại và kết thúc cuộc trò chuyện một cách thân thiện",
+    "Dùng các cấu trúc B1 (such as, because, although, which) khi kể chuyện đời thường"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to catch up",
+      "ipa": "/kætʃ ʌp/",
+      "vi": "hàn huyên, cập nhật tin tức của nhau (động từ)",
+      "register": "casual",
+      "example": "It's been ages! We really need to catch up over coffee.",
+      "exampleVi": "Lâu quá rồi! Mình thực sự cần gặp nhau hàn huyên bên ly cà phê.",
+      "note": "Cụm động từ. Đi với 'with somebody' (catch up with you) hoặc 'on something' (catch up on the news). Đây chính là từ khóa của chủ đề.",
+      "synonyms": [
+        { "term": "to reconnect", "ipa": "/ˌriː.kəˈnekt/", "register": "neutral", "nuanceVi": "Nhấn ý 'nối lại liên lạc đã đứt một thời gian'. Trang trọng và nghiêm túc hơn 'catch up' một chút." }
+      ]
+    },
+    {
+      "term": "to bump into",
+      "ipa": "/bʌmp ˈɪn.tuː/",
+      "vi": "tình cờ gặp ai đó (động từ)",
+      "register": "casual",
+      "example": "I bumped into an old classmate at the supermarket yesterday.",
+      "exampleVi": "Hôm qua tôi tình cờ gặp một bạn học cũ ở siêu thị.",
+      "note": "Cụm động từ, luôn mang nghĩa 'gặp bất ngờ, không hẹn trước'. Không dùng cho cuộc gặp đã sắp xếp.",
+      "synonyms": [
+        { "term": "to run into", "ipa": "/rʌn ˈɪn.tuː/", "register": "casual", "nuanceVi": "Nghĩa gần như y hệt 'bump into'. Cả hai đều rất tự nhiên; dùng thay nhau thoải mái." },
+        { "term": "to come across", "ipa": "/kʌm əˈkrɒs/", "register": "neutral", "nuanceVi": "Thiên về 'tình cờ bắt gặp' và có thể dùng cho cả đồ vật (come across an old photo), không chỉ người." }
+      ]
+    },
+    {
+      "term": "to get in touch",
+      "ipa": "/ɡet ɪn tʌtʃ/",
+      "vi": "liên lạc, giữ liên hệ (động từ)",
+      "register": "neutral",
+      "example": "We promised to get in touch more often, but life got busy.",
+      "exampleVi": "Chúng tôi đã hứa sẽ liên lạc thường xuyên hơn, nhưng cuộc sống bận rộn quá.",
+      "note": "Đi với 'with somebody'. 'Keep/stay in touch' = giữ liên lạc đều; 'lose touch' = mất liên lạc.",
+      "synonyms": [
+        { "term": "to reach out", "ipa": "/riːtʃ aʊt/", "register": "neutral", "nuanceVi": "Nhấn ý 'chủ động liên hệ trước', thường để hỏi thăm hoặc nhờ giúp. Hiện đại và rất phổ biến." }
+      ]
+    },
+    {
+      "term": "promotion",
+      "ipa": "/prəˈməʊ.ʃən/",
+      "vi": "việc thăng chức (danh từ)",
+      "register": "neutral",
+      "example": "Congratulations on your promotion! You really deserve it.",
+      "exampleVi": "Chúc mừng bạn được thăng chức! Bạn thật sự xứng đáng.",
+      "note": "Danh từ. Động từ: 'to get/be promoted' (được thăng chức). Đừng nhầm với 'promotion' nghĩa 'khuyến mãi' trong mua bán.",
+      "synonyms": [
+        { "term": "a pay rise", "ipa": "/ə peɪ raɪz/", "register": "casual", "nuanceVi": "Nghĩa 'được tăng lương' (Anh-Anh; Anh-Mỹ nói 'a raise'). Khác sắc thái: tăng lương chưa chắc lên chức." }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔː.stɪd/",
+      "vi": "kiệt sức, mệt rã rời (tính từ)",
+      "register": "neutral",
+      "example": "I've been working overtime all week, so I'm completely exhausted.",
+      "exampleVi": "Tôi tăng ca cả tuần nay, nên kiệt sức hoàn toàn.",
+      "note": "Tính từ mạnh hơn 'tired' nhiều. Đã mang nghĩa cực độ nên đi với 'completely/absolutely', KHÔNG nói 'very exhausted'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt lử'. Nhẹ và thân mật hơn 'exhausted'." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn 'cạn kiệt năng lượng', thường cả về cảm xúc/tinh thần chứ không chỉ thể chất." }
+      ]
+    },
+    {
+      "term": "thrilled",
+      "ipa": "/θrɪld/",
+      "vi": "vui sướng, phấn khích (tính từ)",
+      "register": "neutral",
+      "example": "I was thrilled to hear that you finally moved into your new house.",
+      "exampleVi": "Tôi rất vui khi nghe tin cuối cùng bạn cũng dọn vào nhà mới.",
+      "note": "Tính từ mạnh hơn 'happy/glad'. Đi với 'to + V' hoặc 'about something'. Phát âm 'thr' khó: lưỡi chạm răng cho âm /θ/.",
+      "synonyms": [
+        { "term": "delighted", "ipa": "/dɪˈlaɪ.tɪd/", "register": "formal", "nuanceVi": "Lịch sự, hơi trang trọng. Nghe nhã nhặn, hợp khi muốn tỏ ra lễ độ." },
+        { "term": "over the moon", "ipa": "/ˌəʊ.və ðə ˈmuːn/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'mừng phát điên'. Rất đời thường và biểu cảm." }
+      ]
+    },
+    {
+      "term": "hardly",
+      "ipa": "/ˈhɑːd.li/",
+      "vi": "hầu như không (trạng từ)",
+      "register": "neutral",
+      "example": "We've been so busy that we hardly ever see each other anymore.",
+      "exampleVi": "Chúng tôi bận đến mức hầu như chẳng còn gặp nhau nữa.",
+      "note": "Trạng từ phủ định: 'hardly' = gần như không. KHÔNG dùng kèm 'not' (sai: 'don't hardly'). Đừng nhầm với 'hard' (chăm chỉ).",
+      "synonyms": [
+        { "term": "barely", "ipa": "/ˈbeə.li/", "register": "neutral", "nuanceVi": "Nghĩa rất gần 'hardly' (vừa đủ, suýt không). Dùng thay nhau được trong hầu hết câu." },
+        { "term": "scarcely", "ipa": "/ˈskeə.sli/", "register": "formal", "nuanceVi": "Trang trọng và văn vẻ hơn. Ít gặp trong nói chuyện đời thường." }
+      ]
+    },
+    {
+      "term": "eventually",
+      "ipa": "/ɪˈven.tʃu.ə.li/",
+      "vi": "cuối cùng thì (sau một quá trình)",
+      "register": "neutral",
+      "example": "We kept postponing it, but we eventually managed to meet up.",
+      "exampleVi": "Chúng tôi cứ hoãn mãi, nhưng cuối cùng cũng gặp được nhau.",
+      "note": "Trạng từ chỉ kết quả sau một quá trình kéo dài. BẪY: KHÔNG nghĩa 'có thể' (đó là 'possibly'); 'eventually' = rốt cuộc, sau cùng.",
+      "synonyms": [
+        { "term": "finally", "ipa": "/ˈfaɪ.nə.li/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'cuối cùng cũng xong, nhẹ cả người'. Gần nghĩa nhưng giàu cảm xúc hơn." },
+        { "term": "in the end", "ipa": "/ɪn ðiː end/", "register": "casual", "nuanceVi": "Cụm đời thường, dễ dùng đầu hoặc cuối câu: 'In the end, we just stayed home.'" }
+      ]
+    },
+    {
+      "term": "neighborhood",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "vi": "khu phố, khu dân cư (danh từ)",
+      "register": "neutral",
+      "example": "We moved to a quieter neighborhood last year because of the kids.",
+      "exampleVi": "Năm ngoái chúng tôi chuyển đến một khu phố yên tĩnh hơn vì bọn trẻ.",
+      "note": "Danh từ. Anh-Anh viết 'neighbourhood'. Chỉ khu vực sống xung quanh, không chỉ một người hàng xóm ('neighbor').",
+      "synonyms": [
+        { "term": "area", "ipa": "/ˈeə.ri.ə/", "register": "neutral", "nuanceVi": "Chung chung hơn, chỉ 'khu vực'. Không gợi cảm giác cộng đồng gần gũi như 'neighborhood'." }
+      ]
+    },
+    {
+      "term": "to settle down",
+      "ipa": "/ˈset.əl daʊn/",
+      "vi": "ổn định cuộc sống (động từ)",
+      "register": "neutral",
+      "example": "After years of traveling, my brother finally settled down in Da Nang.",
+      "exampleVi": "Sau nhiều năm đi đây đó, anh trai tôi cuối cùng cũng ổn định ở Đà Nẵng.",
+      "note": "Cụm động từ, thường gắn với lập gia đình, có nhà cửa, công việc ổn định ở một nơi."
+    },
+    {
+      "term": "incredibly",
+      "ipa": "/ɪnˈkred.ə.bli/",
+      "vi": "cực kỳ, vô cùng (trạng từ)",
+      "register": "neutral",
+      "example": "Time has flown incredibly fast since we last met.",
+      "exampleVi": "Thời gian trôi nhanh kinh khủng kể từ lần cuối mình gặp nhau.",
+      "note": "Trạng từ chỉ mức độ, dùng để nhấn mạnh tính từ/trạng từ khác (incredibly busy, incredibly fast).",
+      "synonyms": [
+        { "term": "extremely", "ipa": "/ɪkˈstriːm.li/", "register": "neutral", "nuanceVi": "Trung tính, an toàn nhất để nhấn mạnh mức độ. Ít cảm thán hơn 'incredibly'." },
+        { "term": "really", "ipa": "/ˈrɪə.li/", "register": "casual", "nuanceVi": "Đời thường nhất, dùng khắp nơi khi nói chuyện. Nhẹ hơn 'incredibly/extremely'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "It's been ages since [mệnh đề quá khứ]!",
+      "use": "Mở đầu khi gặp lại, thể hiện đã lâu lắm rồi.",
+      "register": "casual",
+      "examples": [
+        "It's been ages since we last hung out!",
+        "It's been ages since I saw you at university."
+      ],
+      "explanationVi": "'ages' = một thời gian rất dài (nói quá cho vui). Sau 'since' dùng thì quá khứ đơn. Câu mở màn cực kỳ tự nhiên khi gặp bạn cũ.",
+      "altOf": "long-time-greeting"
+    },
+    {
+      "pattern": "Long time no see! How have you been?",
+      "use": "Chào và hỏi thăm bạn cũ ngay khi gặp.",
+      "register": "casual",
+      "examples": [
+        "Long time no see! How have you been lately?",
+        "Wow, long time no see! How's everything going?"
+      ],
+      "explanationVi": "'Long time no see' là câu chào thành ngữ (sai ngữ pháp nhưng cố định, ai cũng dùng). 'How have you been?' (hiện tại hoàn thành) hỏi về cả quãng thời gian xa cách.",
+      "altOf": "long-time-greeting"
+    },
+    {
+      "pattern": "So, what have you been up to [thời gian]?",
+      "use": "Hỏi bạn dạo này làm gì, có gì mới.",
+      "register": "casual",
+      "examples": [
+        "So, what have you been up to lately?",
+        "What have you been up to these days?"
+      ],
+      "explanationVi": "'be up to something' = đang bận làm gì đó. Dùng thì hiện tại hoàn thành tiếp diễn để hỏi về cả giai đoạn gần đây. Mở ra câu chuyện rất tự nhiên."
+    },
+    {
+      "pattern": "I've been [V-ing] because [lý do].",
+      "use": "Kể bạn đã làm gì gần đây và giải thích lý do.",
+      "register": "neutral",
+      "examples": [
+        "I've been working a lot lately because we launched a new product.",
+        "I've been studying English because I want to travel more."
+      ],
+      "explanationVi": "Thì hiện tại hoàn thành tiếp diễn (have been + V-ing) diễn tả việc kéo dài từ quá khứ đến hiện tại. 'because' nêu lý do — cấu trúc nền tảng ở B1."
+    },
+    {
+      "pattern": "Congratulations on [danh từ / V-ing]!",
+      "use": "Chúc mừng bạn về một tin vui.",
+      "register": "neutral",
+      "examples": [
+        "Congratulations on your new job!",
+        "Congratulations on getting married!"
+      ],
+      "explanationVi": "Luôn đi với giới từ 'on', theo sau là danh từ hoặc V-ing. LƯU Ý: luôn có 's' cuối — 'congratulations', không phải 'congratulation'."
+    },
+    {
+      "pattern": "We should [V] sometime. Let's [V]!",
+      "use": "Đề nghị gặp lại / lên kế hoạch hẹn hò.",
+      "register": "casual",
+      "examples": [
+        "We should grab a coffee sometime. Let's not lose touch again!",
+        "We should definitely meet up soon. Let's plan something next week!"
+      ],
+      "explanationVi": "'should' đưa ra gợi ý nhẹ nhàng; 'sometime' (một lúc nào đó) để ngỏ thời gian. 'Let's + V' rủ cùng làm. Bộ đôi này chốt lại cuộc trò chuyện rất khéo.",
+      "altOf": "making-plans"
+    },
+    {
+      "pattern": "How about [V-ing / danh từ]?",
+      "use": "Gợi ý một hoạt động hoặc thời gian cụ thể để gặp.",
+      "register": "casual",
+      "examples": [
+        "How about meeting up this weekend?",
+        "How about Saturday afternoon?"
+      ],
+      "explanationVi": "'How about + V-ing/danh từ' để đề xuất ý tưởng cụ thể. Mềm mại, dễ chấp nhận. Cùng nhóm 'lên kế hoạch' với 'We should...'.",
+      "altOf": "making-plans"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì...",
+      "when": "Khi đính chính nhẹ hoặc đưa ra một thông tin hơi bất ngờ.",
+      "example": "Actually, I changed jobs a few months ago."
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói",
+      "when": "Khi muốn mở đầu một lời chia sẻ chân thành.",
+      "example": "Honestly, I've missed our long chats."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể, nhân tiện",
+      "when": "Khi chuyển sang một câu hỏi/chủ đề mới nhẹ nhàng.",
+      "example": "By the way, how's your sister doing?"
+    },
+    {
+      "term": "to be honest",
+      "ipa": "/tə biː ˈɒn.ɪst/",
+      "vi": "nói thật thì...",
+      "when": "Khi sắp nói điều có chút tế nhị hoặc thừa nhận điều gì.",
+      "example": "To be honest, I haven't been taking very good care of myself."
+    },
+    {
+      "term": "definitely",
+      "ipa": "/ˈdef.ɪn.ət.li/",
+      "vi": "chắc chắn rồi",
+      "when": "Khi đồng ý mạnh mẽ với một lời rủ rê hay đề nghị.",
+      "example": "We should definitely do this more often!"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn cũ là Mai và Linh tình cờ gặp lại nhau ở một quán cà phê sau nhiều năm không liên lạc. Họ ngồi xuống và hàn huyên về công việc, gia đình và những thay đổi trong cuộc sống.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Oh my goodness, Linh? Is that really you? It's been ages since we last saw each other! How have you been?",
+        "ipa": "/əʊ maɪ ˈɡʊd.nəs lɪŋ ɪz ðæt ˈrɪə.li juː ɪts biːn ˈeɪ.dʒɪz sɪns wiː lɑːst sɔː iːtʃ ˈʌð.ər haʊ hæv juː biːn/",
+        "vi": "Trời ơi, Linh à? Đúng là cậu thật sao? Lâu lắm rồi mình mới gặp lại nhau đấy! Cậu dạo này thế nào?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "Mai! I can't believe I bumped ____ you here! Honestly, I've been doing pretty well, although I've been incredibly busy with work lately. What about you?",
+        "ipa": "/maɪ aɪ kɑːnt bɪˈliːv aɪ bʌmpt ... juː hɪər ˈɒn.ɪst.li aɪv biːn ˈduː.ɪŋ ˈprɪt.i wel ɔːlˈðəʊ aɪv biːn ɪnˈkred.ə.bli ˈbɪz.i wɪð wɜːk ˈleɪt.li wɒt əˈbaʊt juː/",
+        "vi": "Mai! Mình không thể tin là lại tình cờ gặp cậu ở đây! Thành thật mà nói, mình vẫn khá ổn, mặc dù dạo này bận kinh khủng vì công việc. Còn cậu thì sao?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "into",
+            "explanationVi": "Cụm động từ 'bump into somebody' = tình cờ gặp ai đó. Luôn đi với giới từ 'into'. Xem mục từ vựng 'to bump into'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I've been good too, thanks! Actually, the biggest news is that I got a ____ at work last month, so now I'm leading a small team. It's challenging, but I really enjoy it.",
+        "ipa": "/aɪv biːn ɡʊd tuː θæŋks ˈæk.tʃu.ə.li ðə ˈbɪɡ.ɪst njuːz ɪz ðæt aɪ ɡɒt ə ... ət wɜːk lɑːst mʌnθ səʊ naʊ aɪm ˈliː.dɪŋ ə smɔːl tiːm ɪts ˈtʃæl.ɪn.dʒɪŋ bʌt aɪ ˈrɪə.li ɪnˈdʒɔɪ ɪt/",
+        "vi": "Mình cũng ổn, cảm ơn cậu! Thật ra, tin lớn nhất là tháng trước mình được ____ ở chỗ làm, nên giờ mình đang dẫn dắt một nhóm nhỏ. Nhiều thử thách lắm, nhưng mình thực sự thích.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "promotion",
+            "explanationVi": "Danh từ 'promotion' = sự thăng chức; cụm 'get a promotion' = được thăng chức. Xem mục từ vựng 'promotion'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's amazing news! Congratulations ____ your promotion — you've always worked so hard, so you really deserve it. I was thrilled just hearing about it!",
+        "ipa": "/ðæts əˈmeɪ.zɪŋ njuːz kənˌɡrætʃ.uˈleɪ.ʃənz ... jɔːr prəˈməʊ.ʃən juːv ˈɔːl.weɪz wɜːkt səʊ hɑːd səʊ juː ˈrɪə.li dɪˈzɜːv ɪt aɪ wɒz θrɪld dʒʌst ˈhɪə.rɪŋ əˈbaʊt ɪt/",
+        "vi": "Tin tuyệt vời quá! Chúc mừng cậu được thăng chức nhé — cậu luôn làm việc chăm chỉ nên thật sự xứng đáng. Mình chỉ nghe thôi mà đã thấy vui lây rồi!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "on",
+            "explanationVi": "Mẫu câu 'Congratulations on + danh từ/V-ing'. Luôn dùng giới từ 'on' và nhớ chữ 's' cuối 'congratulations'. Xem mẫu câu 'Congratulations on...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Thank you so much! But to be honest, it's been exhausting, which is partly why we hardly keep in touch anymore. By the way, how's your family doing? Did you and ____ ever move house?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ bʌt tə biː ˈɒn.ɪst ɪts biːn ɪɡˈzɔː.stɪŋ wɪtʃ ɪz ˈpɑːt.li waɪ wiː ˈhɑːd.li kiːp ɪn tʌtʃ ˌen.iˈmɔːr baɪ ðə weɪ haʊz jɔːr ˈfæm.ə.li ˈduː.ɪŋ dɪd juː ænd ... ˈev.ər muːv haʊs/",
+        "vi": "Cảm ơn cậu nhiều! Nhưng thành thật mà nói, công việc mệt rã rời, đó cũng là một phần lý do bọn mình hầu như chẳng còn giữ liên lạc nữa. Tiện thể, gia đình cậu dạo này sao rồi? Cậu và ____ có chuyển nhà chưa?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tên một người thân của bạn (vợ/chồng/anh/chị). Ví dụ: 'my husband', 'my sister'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "We did, actually! We moved to a quieter ____ near the river last year because we wanted more space for the kids. Although it's a bit far from the city, we've finally settled down and we love it there.",
+        "ipa": "/wiː dɪd ˈæk.tʃu.ə.li wiː muːvd tə ə ˈkwaɪ.ə.tər ... nɪər ðə ˈrɪv.ər lɑːst jɪər bɪˈkɒz wiː ˈwɒn.tɪd mɔː speɪs fɔː ðə kɪdz ɔːlˈðəʊ ɪts ə bɪt fɑː frɒm ðə ˈsɪt.i wiːv ˈfaɪ.nə.li ˈset.əld daʊn ænd wiː lʌv ɪt ðeər/",
+        "vi": "Bọn mình chuyển rồi đấy! Năm ngoái bọn mình dọn đến một ____ yên tĩnh hơn gần sông vì muốn có thêm không gian cho bọn trẻ. Mặc dù hơi xa trung tâm, nhưng cuối cùng bọn mình cũng ổn định và rất thích nơi đó.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "neighborhood",
+            "explanationVi": "Danh từ 'neighborhood' = khu phố, khu dân cư. Hợp với 'quieter' (yên tĩnh hơn) và 'near the river'. Xem mục từ vựng 'neighborhood'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I'm so happy for you! We really shouldn't lose touch again. ____ should grab a coffee sometime soon and properly catch up — how about next weekend?",
+        "ipa": "/aɪm səʊ ˈhæp.i fɔː juː wiː ˈrɪə.li ˈʃʊd.ənt luːz tʌtʃ əˈɡen ... ʃʊd ɡræb ə ˈkɒf.i ˈsʌm.taɪm suːn ænd ˈprɒp.ə.li kætʃ ʌp haʊ əˈbaʊt nekst ˌwiːkˈend/",
+        "vi": "Mình mừng cho cậu quá! Lần này nhất định đừng để mất liên lạc nữa nhé. ____ nên đi cà phê sớm thôi và hàn huyên cho đã — cuối tuần sau thì sao?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "We",
+            "explanationVi": "Mẫu câu rủ rê 'We should + V sometime'. Chủ ngữ là 'We' (chúng ta) vì rủ cùng làm. Xem mẫu câu 'We should... sometime'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That sounds perfect! Next weekend definitely works for me. Let's not let life get in the way this time — give me your number, and I'll text you ____ I get home tonight.",
+        "ipa": "/ðæt saʊndz ˈpɜː.fɪkt nekst ˌwiːkˈend ˈdef.ɪn.ət.li wɜːks fɔː miː lets nɒt let laɪf ɡet ɪn ðə weɪ ðɪs taɪm ɡɪv miː jɔː ˈnʌm.bər ænd aɪl tekst juː ... aɪ ɡet həʊm təˈnaɪt/",
+        "vi": "Nghe tuyệt quá! Cuối tuần sau chắc chắn mình rảnh. Lần này đừng để cuộc sống cản trở nữa nhé — cho mình số điện thoại đi, tối nay ____ về đến nhà mình sẽ nhắn cậu ngay.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "as soon as",
+            "explanationVi": "Liên từ chỉ thời gian 'as soon as' = ngay khi. Mệnh đề thời gian ở tương lai dùng thì hiện tại đơn ('as soon as I get home'), không dùng 'will'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi gặp lại bạn cũ, người phương Tây thường hỏi thăm chung chung ('How have you been?', 'What have you been up to?') trước, rồi mới đi vào chuyện cụ thể — đừng hỏi thẳng tuổi tác, lương bổng hay cân nặng.",
+    "'Long time no see' và 'It's been ages' là câu chào quen thuộc, thân mật. Dùng với bạn bè rất tự nhiên, nhưng nên tránh trong ngữ cảnh trang trọng với cấp trên.",
+    "Lời rủ 'We should catch up sometime' đôi khi chỉ là phép xã giao lịch sự, không nhất thiết là hẹn chắc chắn. Nếu thật sự muốn gặp, hãy đề xuất thời gian cụ thể ('How about next weekend?').",
+    "Khi nghe tin vui (thăng chức, nhà mới, kết hôn), người bản xứ thường phản hồi nồng nhiệt ('Congratulations!', 'That's amazing!') chứ không im lặng — sự nhiệt tình thể hiện bạn quan tâm."
+  ],
+
+  "commonMistakes": [
+    "Nói 'Long time no meet' — sai. Câu cố định là 'Long time no SEE'.",
+    "Dùng 'How are you?' khi gặp lại bạn cũ thì hơi nhạt. Bạn cũ lâu ngày nên dùng 'How have you been?' (hỏi về cả quãng thời gian xa cách).",
+    "Viết/nói 'Congratulation' thiếu 's' và quên giới từ — phải là 'Congratulations ON your...'.",
+    "Dùng kèm 'hardly' với 'not' (sai: 'I don't hardly see her'). 'hardly' đã mang nghĩa phủ định, chỉ cần nói 'I hardly see her'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện hàn huyên với bạn cũ như thật.",
+    "prompt": "Hãy đóng vai một người bạn cũ của tôi mà chúng ta đã lâu không gặp, nói tiếng Anh tự nhiên, thân mật. Chúng ta vừa tình cờ gặp lại nhau ở quán cà phê. Hãy bắt đầu bằng cách reo lên bất ngờ và chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật (chia sẻ tin của bạn, hỏi thăm lại tôi), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'because', 'although', 'such as' và các thì hiện tại hoàn thành. Thỉnh thoảng kể một tin bất ngờ (chuyển nhà, đổi việc, sắp cưới) để tôi tập phản ứng và chúc mừng. Cuối cùng hãy rủ tôi hẹn gặp lại. Bắt đầu nhé!",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng nhiều thành ngữ đời thường như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý 3 câu hỏi thăm hay để lần sau dùng.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi chào lại bạn cũ và hỏi thăm được bằng 'How have you been?' / 'What have you been up to?' mà không nhìn gợi ý.",
+    "Tôi kể được ít nhất một thay đổi của bản thân bằng câu có 'because' hoặc 'although'.",
+    "Tôi chúc mừng và rủ bạn hẹn gặp lại được bằng 'Congratulations on...' và 'We should... How about...?'."
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "id": "talking-about-skills",
+  "category": "work",
+  "title": "Nói về kỹ năng",
+  "titleEn": "Talking About Your Skills",
+  "level": "B1",
+  "functions": ["describing", "opinions", "small-talk"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Mô tả các kỹ năng của bản thân (cứng và mềm) bằng câu rõ ràng, tự nhiên",
+    "Nói mình giỏi việc gì và đang muốn cải thiện điều gì",
+    "Đưa ví dụ cụ thể để chứng minh kỹ năng, dùng 'such as' và 'because'",
+    "Dùng đúng cách diễn đạt 'be good at', 'be able to', 'used to' khi nói về năng lực"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "skill",
+      "ipa": "/skɪl/",
+      "vi": "kỹ năng (danh từ)",
+      "register": "neutral",
+      "example": "Communication is one of the most important skills at work.",
+      "exampleVi": "Giao tiếp là một trong những kỹ năng quan trọng nhất trong công việc.",
+      "note": "Danh từ. Đếm được: 'a skill / skills'. Cụm hay gặp: 'soft skills' (kỹ năng mềm), 'hard skills' (kỹ năng chuyên môn).",
+      "synonyms": [
+        { "term": "ability", "ipa": "/əˈbɪl.ə.ti/", "register": "neutral", "nuanceVi": "Nhấn vào 'khả năng làm được điều gì đó', thiên về tiềm năng bẩm sinh hơn là thứ được học. Vd 'the ability to learn quickly'." },
+        { "term": "competence", "ipa": "/ˈkɒm.pɪ.təns/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'năng lực đủ chuẩn để làm tốt một việc'. Hay gặp trong văn bản công sở, đánh giá nhân sự." }
+      ]
+    },
+    {
+      "term": "strength",
+      "ipa": "/streŋθ/",
+      "vi": "điểm mạnh (danh từ)",
+      "register": "neutral",
+      "example": "Teamwork is definitely one of my strengths.",
+      "exampleVi": "Làm việc nhóm chắc chắn là một trong những điểm mạnh của tôi.",
+      "note": "Danh từ. Trái nghĩa là 'weakness' (điểm yếu). Khi nói về bản thân thường dùng số nhiều: 'my strengths'.",
+      "synonyms": [
+        { "term": "strong point", "ipa": "/strɒŋ pɔɪnt/", "register": "neutral", "nuanceVi": "Đời thường, dễ nói hơn 'strength'. Vd 'Maths isn't my strong point'." },
+        { "term": "forte", "ipa": "/ˈfɔː.teɪ/", "register": "formal", "nuanceVi": "Nghĩa 'sở trường'. Hơi văn vẻ, nghe tinh tế; dùng khi muốn gây ấn tượng." }
+      ]
+    },
+    {
+      "term": "to improve",
+      "ipa": "/ɪmˈpruːv/",
+      "vi": "cải thiện, nâng cao (động từ)",
+      "register": "neutral",
+      "example": "I'm trying to improve my English by watching films.",
+      "exampleVi": "Tôi đang cố cải thiện tiếng Anh bằng cách xem phim.",
+      "note": "Động từ. Hay đi với 'improve at + V-ing' hoặc 'improve my + danh từ'. Danh từ là 'improvement'.",
+      "synonyms": [
+        { "term": "to develop", "ipa": "/dɪˈvel.əp/", "register": "neutral", "nuanceVi": "Nhấn vào 'phát triển dần từ mức cơ bản lên'. Hợp khi nói về quá trình lâu dài: 'develop my leadership skills'." },
+        { "term": "to enhance", "ipa": "/ɪnˈhɑːns/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'làm cho tốt hơn nữa thứ vốn đã ổn'. Hay dùng trong văn viết/công sở." },
+        { "term": "to brush up on", "ipa": "/brʌʃ ʌp ɒn/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'ôn lại, mài lại kỹ năng từng có nhưng đã quên'. Vd 'brush up on my French'." }
+      ]
+    },
+    {
+      "term": "to be good at",
+      "ipa": "/tə biː ɡʊd æt/",
+      "vi": "giỏi về (cụm từ)",
+      "register": "neutral",
+      "example": "I'm quite good at solving problems under pressure.",
+      "exampleVi": "Tôi khá giỏi giải quyết vấn đề khi áp lực.",
+      "note": "Luôn đi với 'at + danh từ / V-ing'. KHÔNG nói 'good in'. Trái nghĩa: 'be bad at / be poor at'.",
+      "synonyms": [
+        { "term": "to be skilled at", "ipa": "/tə biː skɪld æt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có tay nghề, được rèn luyện'. Cũng đi với 'at'." },
+        { "term": "to have a knack for", "ipa": "/tə hæv ə næk fɔːr/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'có khiếu, có duyên làm việc gì đó dễ dàng'. Đi với 'for + danh từ/V-ing'." }
+      ]
+    },
+    {
+      "term": "experience",
+      "ipa": "/ɪkˈspɪə.ri.əns/",
+      "vi": "kinh nghiệm (danh từ)",
+      "register": "neutral",
+      "example": "I have some experience in customer service.",
+      "exampleVi": "Tôi có chút kinh nghiệm trong lĩnh vực chăm sóc khách hàng.",
+      "note": "Khi nghĩa 'kinh nghiệm' thì KHÔNG đếm được (không có 's'): 'a lot of experience'. Khi nghĩa 'trải nghiệm' (sự việc) thì đếm được: 'a great experience'.",
+      "synonyms": [
+        { "term": "background", "ipa": "/ˈbæk.ɡraʊnd/", "register": "neutral", "nuanceVi": "Nhấn vào 'nền tảng học vấn/làm việc trước đây'. Vd 'a background in marketing'." }
+      ]
+    },
+    {
+      "term": "confident",
+      "ipa": "/ˈkɒn.fɪ.dənt/",
+      "vi": "tự tin (tính từ)",
+      "register": "neutral",
+      "example": "I feel confident speaking in front of a group.",
+      "exampleVi": "Tôi thấy tự tin khi nói trước một nhóm người.",
+      "note": "Tính từ. Đừng nhầm với danh từ 'confidence' (sự tự tin) và 'confidant' (người tâm giao). Đi với 'confident about / in'.",
+      "synonyms": [
+        { "term": "self-assured", "ipa": "/ˌself.əˈʃɔːd/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'điềm tĩnh, chắc chắn về bản thân'. Nghe chững chạc hơn 'confident'." },
+        { "term": "sure of yourself", "ipa": "/ʃɔːr əv jɔːˈself/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tự tin vào chính mình'. Dùng khi nói chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "reliable",
+      "ipa": "/rɪˈlaɪ.ə.bəl/",
+      "vi": "đáng tin cậy (tính từ)",
+      "register": "neutral",
+      "example": "My colleagues say I'm a reliable team member.",
+      "exampleVi": "Đồng nghiệp nói tôi là một thành viên đáng tin cậy.",
+      "note": "Tính từ chỉ phẩm chất rất được coi trọng. Động từ gốc: 'to rely on' (dựa vào, tin tưởng).",
+      "synonyms": [
+        { "term": "dependable", "ipa": "/dɪˈpen.də.bəl/", "register": "neutral", "nuanceVi": "Gần như y hệt 'reliable', nhấn 'luôn có mặt khi cần'. Dùng thay nhau được." },
+        { "term": "trustworthy", "ipa": "/ˈtrʌstˌwɜː.ði/", "register": "neutral", "nuanceVi": "Nhấn vào 'đáng được tin, trung thực', thiên về nhân cách hơn là chỉ làm việc đúng hạn." }
+      ]
+    },
+    {
+      "term": "creative",
+      "ipa": "/kriˈeɪ.tɪv/",
+      "vi": "sáng tạo (tính từ)",
+      "register": "neutral",
+      "example": "I enjoy creative tasks such as designing posters.",
+      "exampleVi": "Tôi thích những việc sáng tạo như thiết kế áp phích.",
+      "note": "Tính từ. Danh từ: 'creativity' (sự sáng tạo). Động từ: 'to create' (tạo ra).",
+      "synonyms": [
+        { "term": "innovative", "ipa": "/ˈɪn.ə.veɪ.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'đưa ra ý tưởng/cách làm mới mẻ'. Hay dùng trong môi trường công nghệ, kinh doanh." },
+        { "term": "imaginative", "ipa": "/ɪˈmædʒ.ɪ.nə.tɪv/", "register": "neutral", "nuanceVi": "Nhấn vào 'giàu trí tưởng tượng', thiên về ý tưởng phong phú hơn là tạo ra cái mới có ích." }
+      ]
+    },
+    {
+      "term": "fluently",
+      "ipa": "/ˈfluː.ənt.li/",
+      "vi": "một cách trôi chảy (trạng từ)",
+      "register": "neutral",
+      "example": "I'd love to speak English fluently one day.",
+      "exampleVi": "Một ngày nào đó tôi rất muốn nói tiếng Anh trôi chảy.",
+      "note": "Trạng từ, thường dùng cho ngôn ngữ. Tính từ là 'fluent': 'fluent in English'.",
+      "synonyms": [
+        { "term": "smoothly", "ipa": "/ˈsmuːð.li/", "register": "neutral", "nuanceVi": "Nghĩa 'mượt mà, không vấp', dùng rộng hơn (việc gì cũng được), không chỉ riêng ngôn ngữ." },
+        { "term": "effortlessly", "ipa": "/ˈef.ət.ləs.li/", "register": "formal", "nuanceVi": "Nhấn 'như không tốn sức', tạo ấn tượng thành thạo cao." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "I usually learn new software quickly.",
+      "exampleVi": "Tôi thường học phần mềm mới khá nhanh.",
+      "note": "Trạng từ chỉ cách thức. Hữu ích khi khoe khả năng 'học nhanh': 'a fast learner'.",
+      "synonyms": [
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn 'quickly', hay dùng trong văn viết hoặc khi mô tả sự thay đổi/tăng trưởng." },
+        { "term": "swiftly", "ipa": "/ˈswɪft.li/", "register": "formal", "nuanceVi": "Nhấn 'nhanh mà vẫn gọn gàng, dứt khoát'. Nghe trang nhã, hơi văn vẻ." }
+      ]
+    },
+    {
+      "term": "to handle",
+      "ipa": "/ˈhæn.dəl/",
+      "vi": "xử lý, đảm đương (động từ)",
+      "register": "neutral",
+      "example": "I can handle several tasks at the same time.",
+      "exampleVi": "Tôi có thể xử lý nhiều việc cùng lúc.",
+      "note": "Động từ. Đi thẳng với tân ngữ (không cần giới từ): 'handle a problem / handle pressure'.",
+      "synonyms": [
+        { "term": "to deal with", "ipa": "/tə diːl wɪð/", "register": "neutral", "nuanceVi": "Cụm rất thông dụng, nghĩa 'giải quyết, đối phó'. Luôn đi với 'with'." },
+        { "term": "to cope with", "ipa": "/tə kəʊp wɪð/", "register": "neutral", "nuanceVi": "Nhấn 'chịu đựng, xoay xở được' trong tình huống khó/căng thẳng. Đi với 'with'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm (quite / really) good at [danh từ / V-ing].",
+      "use": "Nói mình giỏi việc gì một cách tự nhiên.",
+      "register": "neutral",
+      "examples": [
+        "I'm quite good at working in a team.",
+        "I'm really good at solving problems quickly."
+      ],
+      "explanationVi": "Mẫu cốt lõi để nói về kỹ năng. Sau 'at' luôn là danh từ hoặc V-ing. Thêm 'quite/really' để câu nghe khiêm tốn hoặc nhấn mạnh.",
+      "altOf": "stating-skill"
+    },
+    {
+      "pattern": "One of my strengths is [danh từ / V-ing].",
+      "use": "Nêu điểm mạnh khi giới thiệu bản thân.",
+      "register": "neutral",
+      "examples": [
+        "One of my strengths is staying calm under pressure.",
+        "One of my strengths is communication."
+      ],
+      "explanationVi": "Cách nói chững chạc, hay dùng khi phỏng vấn hoặc giới thiệu. 'One of my strengths' nghe khiêm tốn hơn là 'My biggest strength'.",
+      "altOf": "stating-skill"
+    },
+    {
+      "pattern": "I'm able to [động từ] because [mệnh đề].",
+      "use": "Khẳng định khả năng kèm lý do/bằng chứng.",
+      "register": "neutral",
+      "examples": [
+        "I'm able to work independently because I'm well-organized.",
+        "I'm able to learn fast because I really enjoy challenges."
+      ],
+      "explanationVi": "'be able to + V' = có khả năng làm gì (trang trọng/linh hoạt hơn 'can'). Thêm 'because' để giải thích, giúp câu thuyết phục hơn là nói suông.",
+      "altOf": "stating-skill"
+    },
+    {
+      "pattern": "I'd like to improve my [danh từ], such as [ví dụ].",
+      "use": "Nói về điều mình muốn cải thiện và cho ví dụ.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to improve my English, such as my speaking and listening.",
+        "I'd like to improve my technical skills, such as coding."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Khi được hỏi điểm cần cải thiện, nêu ví dụ cụ thể nghe thành thật và rõ ràng hơn."
+    },
+    {
+      "pattern": "I used to [động từ], but now I [động từ].",
+      "use": "So sánh kỹ năng trong quá khứ với hiện tại (sự tiến bộ).",
+      "register": "neutral",
+      "examples": [
+        "I used to be nervous about public speaking, but now I'm much more confident.",
+        "I used to rely on others, but now I can handle things on my own."
+      ],
+      "explanationVi": "'used to + V' chỉ thói quen/trạng thái trong quá khứ nay không còn. Cấu trúc này rất hợp để kể về sự tiến bộ của bản thân."
+    },
+    {
+      "pattern": "I consider myself (a/an) [tính từ] person.",
+      "use": "Tự nhận xét về phẩm chất của mình một cách lịch sự.",
+      "register": "formal",
+      "examples": [
+        "I consider myself a reliable person.",
+        "I consider myself a creative and adaptable person."
+      ],
+      "explanationVi": "'consider myself' = tự cho rằng mình. Cách nói khiêm tốn, đỡ khoe khoang hơn là 'I am very...'. Sau đó là tính từ + 'person'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời chân thành, nhất là khi nói điểm yếu.", "example": "Honestly, time management is something I still need to work on." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh mẽ một điểm mạnh của mình.", "example": "Teamwork is definitely one of my strengths." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Kể về sự tiến bộ diễn ra từ từ theo thời gian.", "example": "I'm gradually getting better at speaking in public." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một kỹ năng cụ thể trong nhiều kỹ năng.", "example": "I'm particularly good at organizing events." },
+    { "term": "in general", "ipa": "/ɪn ˈdʒen.ər.əl/", "vi": "nhìn chung", "when": "Đưa ra nhận xét tổng quát trước khi đi vào chi tiết.", "example": "In general, I learn new things fairly quickly." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một buổi gặp gỡ giao lưu nghề nghiệp (networking), một đồng nghiệp mới hỏi bạn về các kỹ năng và thế mạnh trong công việc.",
+    "lines": [
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Hi! It's nice to finally meet you. So, what would you say you're best at in your job?",
+        "ipa": "/haɪ ɪts naɪs tə ˈfaɪ.nə.li miːt juː səʊ wɒt wʊd juː seɪ jɔː best æt ɪn jɔː dʒɒb/",
+        "vi": "Chào bạn! Rất vui cuối cùng cũng được gặp bạn. Vậy, bạn nghĩ mình giỏi nhất việc gì trong công việc?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Nice to meet you too! Honestly, I'd say I'm really good ____ working in a team, because I enjoy listening to other people's ideas and finding solutions together.",
+        "ipa": "/naɪs tə miːt juː tuː ˈɒn.ɪst.li aɪd seɪ aɪm ˈrɪə.li ɡʊd æt ˈwɜː.kɪŋ ɪn ə tiːm bɪˈkɒz aɪ ɪnˈdʒɔɪ ˈlɪs.ən.ɪŋ tə ˈʌð.ə ˈpiː.pəlz aɪˈdɪəz ænd ˈfaɪn.dɪŋ səˈluː.ʃənz təˈɡeð.ə/",
+        "vi": "Mình cũng rất vui được gặp bạn! Thành thật mà nói, mình nghĩ mình khá giỏi ____ làm việc nhóm, vì mình thích lắng nghe ý tưởng của người khác và cùng nhau tìm giải pháp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "at", "explanationVi": "Sau 'good' luôn là giới từ 'at' (KHÔNG dùng 'in'/'on'). Xem mẫu câu 'I'm good at + V-ing'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "That's a great skill to have. Are there any other strengths ____ you're particularly proud of?",
+        "ipa": "/ðæts ə ɡreɪt skɪl tə hæv ɑː ðeər ˈen.i ˈʌð.ə streŋθs ðæt jɔː pəˈtɪk.jə.lə.li praʊd ɒv/",
+        "vi": "Đó là một kỹ năng tuyệt vời. Còn điểm mạnh nào khác ____ bạn đặc biệt tự hào không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "Dùng đại từ quan hệ 'that' (hoặc 'which') để nối mệnh đề mô tả 'strengths'. Vì nói về vật/sự việc nên không dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Definitely. I consider myself a fairly ____ person, so I often come up with new ideas, such as ____. People also say I'm reliable because I always meet my deadlines.",
+        "ipa": "/ˈdef.ɪn.ət.li aɪ kənˈsɪd.ə maɪˈself ə ˈfeə.li kriˈeɪ.tɪv ˈpɜː.sən səʊ aɪ ˈɒf.ən kʌm ʌp wɪð njuː aɪˈdɪəz sʌtʃ æz ˈfaɪn.dɪŋ ˈkriː.eɪ.tɪv weɪz tə prɪˈzent aʊə rɪˈpɔːts ˈpiː.pəl ˈɔːl.səʊ seɪ aɪm rɪˈlaɪ.ə.bəl bɪˈkɒz aɪ ˈɔːl.weɪz miːt maɪ ˈded.laɪnz/",
+        "vi": "Chắc chắn rồi. Mình tự thấy mình là người khá ____, nên thường nghĩ ra ý tưởng mới, chẳng hạn ____. Mọi người cũng nói mình đáng tin cậy vì mình luôn kịp hạn.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ chỉ phẩm chất của bạn. Ví dụ: 'creative', 'organized', 'patient'." },
+          { "type": "personal", "hint": "Một ví dụ cụ thể chứng minh điểm mạnh đó. Ví dụ: 'organizing team events'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Impressive! And is there anything you feel you'd like to improve, even though you're already doing well?",
+        "ipa": "/ɪmˈpres.ɪv ænd ɪz ðeər ˈen.i.θɪŋ juː fiːl juːd laɪk tʊ ɪmˈpruːv ˈiː.vən ðəʊ jɔːr ɔːlˈred.i ˈduː.ɪŋ wel/",
+        "vi": "Ấn tượng đấy! Vậy có điều gì bạn muốn cải thiện không, dù bạn đã làm khá tốt rồi?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, yes. I used to be quite nervous about public speaking, but now I'm gradually getting better. I'd like to improve my English ____ that I can speak more fluently in meetings.",
+        "ipa": "/ˈɒn.ɪst.li jes aɪ juːst tə biː kwaɪt ˈnɜː.vəs əˈbaʊt ˈpʌb.lɪk ˈspiː.kɪŋ bʌt naʊ aɪm ˈɡrædʒ.u.ə.li ˈɡet.ɪŋ ˈbet.ə aɪd laɪk tʊ ɪmˈpruːv maɪ ˈɪŋ.ɡlɪʃ səʊ ðæt aɪ kæn spiːk mɔː ˈfluː.ənt.li ɪn ˈmiː.tɪŋz/",
+        "vi": "Thành thật là có. Mình từng khá lo lắng chuyện nói trước đám đông, nhưng giờ mình đang dần khá lên. Mình muốn cải thiện tiếng Anh ____ có thể nói trôi chảy hơn trong các cuộc họp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "so", "explanationVi": "Dùng 'so that' để chỉ mục đích (= để mà). Sau 'so that' là một mệnh đề đầy đủ: 'so that I can speak...'. Ở đây ô trống điền 'so' trước 'that'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "That's a healthy attitude. Knowing your weaknesses is a strength in itself. How do you usually try to develop new skills?",
+        "ipa": "/ðæts ə ˈhel.θi ˈæt.ɪ.tjuːd ˈnəʊ.ɪŋ jɔː ˈwiːk.nəs.ɪz ɪz ə streŋθ ɪn ɪtˈself haʊ duː juː ˈjuː.ʒu.ə.li traɪ tə dɪˈvel.əp njuː skɪlz/",
+        "vi": "Đó là một thái độ rất lành mạnh. Biết được điểm yếu của mình cũng chính là một điểm mạnh. Bạn thường cố gắng phát triển kỹ năng mới bằng cách nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "In general, I learn new things fairly quickly, so I usually take online courses and practice every day. For example, this year I've been learning ____ in order to handle my work more efficiently.",
+        "ipa": "/ɪn ˈdʒen.ər.əl aɪ lɜːn njuː θɪŋz ˈfeə.li ˈkwɪk.li səʊ aɪ ˈjuː.ʒu.ə.li teɪk ˈɒn.laɪn ˈkɔːs.ɪz ænd ˈpræk.tɪs ˈev.ri deɪ fɔːr ɪɡˈzɑːm.pəl ðɪs jɪər aɪv biːn ˈlɜː.nɪŋ ɪn ˈɔː.də tə ˈhæn.dəl maɪ wɜːk mɔːr ɪˈfɪʃ.ənt.li/",
+        "vi": "Nhìn chung, mình học cái mới khá nhanh, nên thường học các khóa trực tuyến và luyện tập mỗi ngày. Ví dụ, năm nay mình đang học ____ để xử lý công việc hiệu quả hơn.",
+        "blanks": [
+          { "type": "personal", "hint": "Một kỹ năng bạn đang học. Ví dụ: 'a new design tool', 'time management', 'data analysis'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "That sounds really proactive. I'm sure those skills will help you go far in your career.",
+        "ipa": "/ðæt saʊndz ˈrɪə.li ˌprəʊˈæk.tɪv aɪm ʃʊə ðəʊz skɪlz wɪl help juː ɡəʊ fɑːr ɪn jɔː kəˈrɪə/",
+        "vi": "Nghe rất chủ động đấy. Mình chắc những kỹ năng đó sẽ giúp bạn tiến xa trong sự nghiệp."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, nói về điểm mạnh của mình một cách rõ ràng là điều bình thường và được khuyến khích, không bị coi là khoe khoang — miễn là có ví dụ cụ thể đi kèm.",
+    "Khi được hỏi điểm cần cải thiện, người bản xứ thường nêu một điểm yếu thật kèm cách đang khắc phục. Điều này cho thấy sự tự nhận thức (self-awareness) và được đánh giá cao.",
+    "Dùng 'I'd say...', 'I consider myself...' hoặc 'People say I'm...' giúp lời tự nhận xét nghe khiêm tốn, tự nhiên hơn là khẳng định cứng nhắc 'I am the best at...'.",
+    "Phân biệt 'hard skills' (kỹ năng chuyên môn đo được, vd lập trình) và 'soft skills' (kỹ năng mềm, vd giao tiếp, làm việc nhóm) — cả hai đều quan trọng khi nói về bản thân."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I'm good in English' là sai. Phải là 'I'm good AT English' — sau 'good' luôn dùng giới từ 'at'.",
+    "Thêm 's' sai cho 'experience' khi nghĩa là kinh nghiệm: nói 'a lot of experience', KHÔNG phải 'a lot of experiences'.",
+    "Dùng nguyên thể sau 'good at': sai 'good at to swim', đúng là 'good at swimming' (V-ing sau giới từ).",
+    "Trả lời quá cộc lốc ('I'm good at many things.'). Hãy nêu ví dụ cụ thể với 'such as' và lý do với 'because' để nghe trôi chảy hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về kỹ năng của bạn như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp thân thiện nói tiếng Anh trong một buổi giao lưu nghề nghiệp. Hãy hỏi tôi từng câu một về kỹ năng và thế mạnh của tôi (mình giỏi việc gì, điểm mạnh, điều muốn cải thiện, cách mình học kỹ năng mới). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi trả lời bằng câu dài hơn, dùng 'good at', 'such as', 'because' và 'used to'. Nói chậm rãi, thân thiện, ở trình độ B1. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi mô tả một ví dụ cụ thể chứng minh từng kỹ năng.' để tập kể chi tiết.",
+      "Thêm câu: 'Cuối buổi, hãy chấm điểm và nêu 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được ít nhất 2 điểm mạnh của mình bằng mẫu 'I'm good at...' và 'One of my strengths is...'.",
+    "Tôi đưa được ví dụ cụ thể cho một kỹ năng bằng 'such as' và giải thích bằng 'because'.",
+    "Tôi nói được một điều mình muốn cải thiện và dùng đúng 'used to' để kể về sự tiến bộ."
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": "social-media-talk",
+  "category": "friends",
+  "title": "Chuyện mạng xã hội",
+  "titleEn": "Talking About Social Media",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "agreeing", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Trò chuyện tự nhiên với bạn bè về mạng xã hội và thói quen dùng điện thoại",
+    "Bày tỏ quan điểm và đồng ý / không đồng ý một cách lịch sự",
+    "Mô tả ưu, nhược điểm của mạng xã hội bằng câu có such as, although, however",
+    "Dùng trạng từ tự nhiên (honestly, actually, constantly) để câu nói mượt hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "social media",
+      "ipa": "/ˈsəʊ.ʃəl ˈmiː.di.ə/",
+      "vi": "mạng xã hội (danh từ)",
+      "register": "neutral",
+      "example": "I spend too much time on social media every day.",
+      "exampleVi": "Mỗi ngày tôi dành quá nhiều thời gian cho mạng xã hội.",
+      "note": "Danh từ không đếm được, dùng số ít: 'social media IS...'. Khác 'a social network' (một nền tảng cụ thể như Facebook).",
+      "synonyms": [
+        { "term": "social networks", "ipa": "/ˈsəʊ.ʃəl ˈnet.wɜːks/", "register": "neutral", "nuanceVi": "Nhấn vào từng nền tảng/mạng lưới cụ thể (Facebook, Instagram...). 'social media' mang nghĩa chung và bao quát hơn." },
+        { "term": "the socials", "ipa": "/ðə ˈsəʊ.ʃəlz/", "register": "casual", "nuanceVi": "Cách nói lóng, rất đời thường giữa bạn bè trẻ: 'I saw it on the socials.' Tránh dùng trong văn cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "to scroll",
+      "ipa": "/skrəʊl/",
+      "vi": "lướt (màn hình) (động từ)",
+      "register": "neutral",
+      "example": "I often scroll through my feed before going to sleep.",
+      "exampleVi": "Tôi hay lướt bảng tin trước khi đi ngủ.",
+      "note": "Động từ. Đi với 'through' khi lướt qua nội dung: 'scroll through Instagram'. Danh từ kép thông dụng: 'doomscrolling' (lướt tin xấu mãi không dứt).",
+      "synonyms": [
+        { "term": "to browse", "ipa": "/braʊz/", "register": "neutral", "nuanceVi": "Nhấn 'xem lướt qua để tìm thứ thú vị', chủ động hơn. 'scroll' nhấn vào động tác vuốt màn hình." },
+        { "term": "to swipe", "ipa": "/swaɪp/", "register": "casual", "nuanceVi": "Là vuốt sang trái/phải (như app hẹn hò, story), không phải vuốt lên xuống như 'scroll'." }
+      ]
+    },
+    {
+      "term": "to post",
+      "ipa": "/pəʊst/",
+      "vi": "đăng (bài, ảnh) (động từ)",
+      "register": "neutral",
+      "example": "She posts photos of her trips almost every weekend.",
+      "exampleVi": "Cô ấy đăng ảnh các chuyến đi gần như mỗi cuối tuần.",
+      "note": "Vừa là động từ ('to post') vừa là danh từ ('a post' = một bài đăng). Đi với 'on': 'post on Facebook'.",
+      "synonyms": [
+        { "term": "to share", "ipa": "/ʃeə/", "register": "neutral", "nuanceVi": "Nhấn 'chia sẻ cho người khác xem', có thể là nội dung của người khác. 'post' thiên về tự mình đăng nội dung mới." },
+        { "term": "to upload", "ipa": "/ˌʌpˈləʊd/", "register": "neutral", "nuanceVi": "Nhấn hành động kỹ thuật 'tải lên' (ảnh, video) lên mạng, trung tính và hơi kỹ thuật hơn." }
+      ]
+    },
+    {
+      "term": "addictive",
+      "ipa": "/əˈdɪk.tɪv/",
+      "vi": "gây nghiện (tính từ)",
+      "register": "neutral",
+      "example": "These apps are designed to be addictive.",
+      "exampleVi": "Mấy ứng dụng này được thiết kế để gây nghiện.",
+      "note": "Tính từ. Đừng nhầm với 'addicted' (bị nghiện - tả người): 'I'm addicted TO TikTok' nhưng 'TikTok IS addictive'.",
+      "synonyms": [
+        { "term": "compelling", "ipa": "/kəmˈpel.ɪŋ/", "register": "formal", "nuanceVi": "Nhấn 'cuốn hút khó cưỡng' theo nghĩa tích cực/trung tính, không hẳn tiêu cực như 'addictive'." },
+        { "term": "hard to put down", "ipa": "/hɑːd tə pʊt daʊn/", "register": "casual", "nuanceVi": "Cụm đời thường: 'khó mà bỏ xuống được'. Nghe thân mật, mềm hơn 'addictive'." }
+      ]
+    },
+    {
+      "term": "to get distracted",
+      "ipa": "/ɡet dɪˈstræk.tɪd/",
+      "vi": "bị xao nhãng, mất tập trung (cụm động từ)",
+      "register": "neutral",
+      "example": "I easily get distracted when my phone keeps buzzing.",
+      "exampleVi": "Tôi dễ bị xao nhãng khi điện thoại cứ rung liên tục.",
+      "note": "Cụm 'get + tính từ' (= trở nên). Đi với 'by something': 'distracted by notifications'.",
+      "synonyms": [
+        { "term": "to lose focus", "ipa": "/luːz ˈfəʊ.kəs/", "register": "neutral", "nuanceVi": "Nhấn 'đánh mất sự tập trung'. Gần nghĩa nhưng thiên về kết quả hơn là nguyên nhân bên ngoài." }
+      ]
+    },
+    {
+      "term": "notification",
+      "ipa": "/ˌnəʊ.tɪ.fɪˈkeɪ.ʃən/",
+      "vi": "thông báo (trên điện thoại) (danh từ)",
+      "register": "neutral",
+      "example": "I turned off notifications to focus on my work.",
+      "exampleVi": "Tôi đã tắt thông báo để tập trung làm việc.",
+      "note": "Danh từ, hay dùng số nhiều. Cách nói lóng quen thuộc: 'notif' /ˈnəʊ.tɪf/.",
+      "synonyms": [
+        { "term": "alert", "ipa": "/əˈlɜːt/", "register": "neutral", "nuanceVi": "Nhấn 'lời nhắc/cảnh báo cần chú ý ngay'. 'notification' bao quát hơn, gồm cả thông báo nhỏ nhặt." }
+      ]
+    },
+    {
+      "term": "screen time",
+      "ipa": "/ˈskriːn taɪm/",
+      "vi": "thời gian dùng màn hình (danh từ)",
+      "register": "neutral",
+      "example": "My weekly screen time report was honestly shocking.",
+      "exampleVi": "Báo cáo thời gian dùng màn hình hằng tuần của tôi thật sự gây sốc.",
+      "note": "Danh từ ghép, không đếm được. Là tính năng đo thời gian dùng điện thoại trên iOS/Android."
+    },
+    {
+      "term": "to stay in touch",
+      "ipa": "/steɪ ɪn tʌtʃ/",
+      "vi": "giữ liên lạc (cụm động từ)",
+      "register": "neutral",
+      "example": "Social media helps me stay in touch with old friends.",
+      "exampleVi": "Mạng xã hội giúp tôi giữ liên lạc với bạn cũ.",
+      "note": "Cụm cố định, đi với 'with somebody'. Ngược lại: 'lose touch with' (mất liên lạc).",
+      "synonyms": [
+        { "term": "to keep in contact", "ipa": "/kiːp ɪn ˈkɒn.tækt/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, hơi trung tính/trang trọng hơn một chút. 'stay in touch' thân mật và phổ biến hơn trong nói chuyện." }
+      ]
+    },
+    {
+      "term": "trustworthy",
+      "ipa": "/ˈtrʌstˌwɜː.ði/",
+      "vi": "đáng tin cậy (tính từ)",
+      "register": "neutral",
+      "example": "Not every account online is trustworthy.",
+      "exampleVi": "Không phải tài khoản nào trên mạng cũng đáng tin.",
+      "note": "Tính từ. Trái nghĩa: 'unreliable' (không đáng tin). Hay dùng nói về nguồn tin tức trên mạng.",
+      "synonyms": [
+        { "term": "reliable", "ipa": "/rɪˈlaɪ.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'ổn định, có thể dựa vào'. 'trustworthy' nhấn 'có thể tin về mặt thành thật, trung thực'." },
+        { "term": "credible", "ipa": "/ˈkred.ə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đáng tin, có cơ sở' - hay dùng cho nguồn tin, bằng chứng." }
+      ]
+    },
+    {
+      "term": "constantly",
+      "ipa": "/ˈkɒn.stənt.li/",
+      "vi": "liên tục, không ngừng (trạng từ)",
+      "register": "neutral",
+      "example": "He's constantly checking his phone, even during dinner.",
+      "exampleVi": "Anh ấy liên tục xem điện thoại, kể cả trong bữa tối.",
+      "note": "Trạng từ, mang sắc thái hơi tiêu cực (làm gì đó nhiều đến mức phiền). Hay đi với thì tiếp diễn để than phiền.",
+      "synonyms": [
+        { "term": "continually", "ipa": "/kənˈtɪn.ju.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'lặp đi lặp lại nhiều lần (có quãng nghỉ)'. 'constantly' nghe như không ngừng nghỉ." },
+        { "term": "non-stop", "ipa": "/ˌnɒnˈstɒp/", "register": "casual", "nuanceVi": "Đời thường, nhấn mạnh 'không ngừng tí nào': 'She talks non-stop.'" }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách thật lòng, thực sự (trạng từ)",
+      "register": "neutral",
+      "example": "I genuinely think it has changed how we make friends.",
+      "exampleVi": "Tôi thực sự nghĩ nó đã thay đổi cách chúng ta kết bạn.",
+      "note": "Trạng từ. Dùng để nhấn rằng mình nói thật lòng, làm quan điểm nghe chân thành hơn 'really'.",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "neutral", "nuanceVi": "Nhấn 'thành thật mà nói', thường mở đầu câu để chuẩn bị nói thẳng. 'genuinely' nhấn 'thật sự, không giả'." },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Hơi trang trọng/cảm xúc hơn, nhấn 'thật sự, đúng nghĩa'. Dùng được nhưng ít đời thường hơn 'genuinely'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Honestly, I think social media is [tính từ], because [mệnh đề].",
+      "use": "Mở đầu bày tỏ quan điểm cá nhân một cách chân thành.",
+      "register": "neutral",
+      "examples": [
+        "Honestly, I think social media is useful, because it helps me stay in touch with friends abroad."
+      ],
+      "explanationVi": "'Honestly' đặt đầu câu báo hiệu bạn sắp nói thật lòng. 'because' nối lý do - đúng chuẩn B1 khi giải thích quan điểm.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Nêu ý kiến cá nhân một cách thân mật, nhẹ nhàng.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, people share far too much of their private lives online."
+      ],
+      "explanationVi": "'If you ask me' (= theo tôi thì) là cách mở quan điểm rất tự nhiên giữa bạn bè, nghe đỡ áp đặt hơn 'I think'.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I totally agree, especially when [mệnh đề].",
+      "use": "Đồng tình mạnh với ý kiến của người kia và nêu thêm chi tiết.",
+      "register": "neutral",
+      "examples": [
+        "I totally agree, especially when people believe everything they read online."
+      ],
+      "explanationVi": "'totally agree' = đồng ý hoàn toàn. 'especially when' giúp bạn nói thêm một ví dụ cụ thể, nghe có chiều sâu hơn.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề].",
+      "use": "Phản đối lịch sự: thừa nhận ý người kia trước rồi mới nêu ý khác.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I think it depends on how you use it."
+      ],
+      "explanationVi": "Công thức bất đồng lịch sự: công nhận trước ('I see your point') rồi mới 'but...'. Nghe nhã nhặn hơn nhiều so với phản đối thẳng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "There are both advantages and disadvantages, such as [ví dụ].",
+      "use": "Trình bày hai mặt của vấn đề kèm ví dụ minh họa.",
+      "register": "neutral",
+      "examples": [
+        "There are both advantages and disadvantages, such as staying connected but also wasting time."
+      ],
+      "explanationVi": "'such as' để nêu ví dụ - cấu trúc TOEIC rất hay gặp. Nêu cả hai mặt cho thấy bạn nhìn vấn đề cân bằng, trưởng thành."
+    },
+    {
+      "pattern": "Although [mệnh đề], [mệnh đề chính].",
+      "use": "Nêu hai ý trái chiều trong cùng một câu (nhượng bộ).",
+      "register": "neutral",
+      "examples": [
+        "Although social media keeps us connected, it can also make us feel lonely."
+      ],
+      "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ. Sau đó là mệnh đề chính nêu ý trái lại - giúp câu nghe sâu sắc, đậm chất B1+."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu khi muốn nói thẳng một ý kiến, kể cả ý hơi tiêu cực.", "example": "To be honest, I'd be lost without my phone." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc nói điều người kia có thể không ngờ tới.", "example": "Actually, I deleted the app last month and I feel much better." },
+    { "term": "these days", "ipa": "/ðiːz deɪz/", "vi": "dạo này, thời nay", "when": "Khi so sánh thói quen hiện tại với trước đây.", "example": "These days, everyone seems glued to their screens." },
+    { "term": "on the other hand", "ipa": "/ɒn ði ˈʌð.ə hænd/", "vi": "mặt khác", "when": "Khi chuyển sang nêu mặt còn lại của vấn đề.", "example": "On the other hand, it does help small businesses reach customers." },
+    { "term": "I guess", "ipa": "/aɪ ɡes/", "vi": "tôi đoán là / chắc là", "when": "Khi nêu ý kiến chưa chắc chắn lắm, nghe khiêm tốn.", "example": "I guess it all comes down to self-control." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Linh và Minh, đang ngồi cà phê và trò chuyện về việc dùng mạng xã hội cùng những ưu, nhược điểm của nó.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Hey Minh, I noticed you've been pretty quiet on Instagram lately. Have you been taking a break from social media, or have you just been busy with work?",
+        "ipa": "/heɪ mɪn aɪ ˈnəʊ.tɪst juːv biːn ˈprɪt.i ˈkwaɪ.ət ɒn ˈɪn.stə.ɡræm ˈleɪt.li hæv juː biːn ˈteɪ.kɪŋ ə breɪk frɒm ˈsəʊ.ʃəl ˈmiː.di.ə ɔː hæv juː dʒʌst biːn ˈbɪz.i wɪð wɜːk/",
+        "vi": "Này Minh, tớ để ý dạo này cậu khá im hơi trên Instagram. Cậu đang tạm nghỉ mạng xã hội hay chỉ là bận việc thôi?"
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, I've been trying to cut down, because I realized my daily ____ time was over six hours, which genuinely shocked me.",
+        "ipa": "/ˈɒn.ɪst.li aɪv biːn ˈtraɪ.ɪŋ tə kʌt daʊn bɪˈkɒz aɪ ˈrɪə.laɪzd maɪ ˈdeɪ.li ... taɪm wɒz ˈəʊ.və sɪks ˈaʊəz wɪtʃ ˈdʒen.ju.ɪn.li ʃɒkt miː/",
+        "vi": "Thành thật mà nói, tớ đang cố giảm bớt, vì tớ nhận ra thời gian dùng ____ hằng ngày của tớ hơn sáu tiếng, điều đó thật sự làm tớ sốc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "screen", "explanationVi": "'screen time' là cụm danh từ ghép nghĩa 'thời gian dùng màn hình'. Xem từ vựng 'screen time'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Wow, six hours is a lot! ____ I love staying in touch with friends online, I sometimes feel the apps are designed to be addictive on purpose.",
+        "ipa": "/waʊ sɪks ˈaʊəz ɪz ə lɒt ... aɪ lʌv ˈsteɪ.ɪŋ ɪn tʌtʃ wɪð frendz ɒnˈlaɪn aɪ ˈsʌm.taɪmz fiːl ði æps ɑː dɪˈzaɪnd tə biː əˈdɪk.tɪv ɒn ˈpɜː.pəs/",
+        "vi": "Ồ, sáu tiếng là nhiều đấy! ____ tớ thích giữ liên lạc với bạn bè qua mạng, đôi khi tớ cảm thấy mấy ứng dụng được thiết kế cố tình để gây nghiện.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ: dù thích giữ liên lạc nhưng vẫn thấy app gây nghiện. Xem mẫu câu 'Although..., ...'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I totally agree, especially when a single notification can pull you back in. Personally, I now turn off most ____ in order to focus on what really matters.",
+        "ipa": "/aɪ ˈtəʊ.tə.li əˈɡriː ɪˈspeʃ.ə.li wen ə ˈsɪŋ.ɡəl ˌnəʊ.tɪ.fɪˈkeɪ.ʃən kæn pʊl juː bæk ɪn ˈpɜː.sən.ə.li aɪ naʊ tɜːn ɒf məʊst ... ɪn ˈɔː.də tə ˈfəʊ.kəs ɒn wɒt ˈrɪə.li ˈmæt.əz/",
+        "vi": "Tớ hoàn toàn đồng ý, nhất là khi chỉ một thông báo cũng kéo cậu quay lại. Riêng tớ, giờ tớ tắt hầu hết ____ để tập trung vào những điều thực sự quan trọng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "notifications", "explanationVi": "'notifications' (số nhiều) = các thông báo. 'turn off notifications' là cụm cố định. Xem từ vựng 'notification'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's a smart move. I see your point about the downsides, but I think social media also has real benefits, such as ____.",
+        "ipa": "/ðæts ə smɑːt muːv aɪ siː jɔː pɔɪnt əˈbaʊt ðə ˈdaʊn.saɪdz bʌt aɪ θɪŋk ˈsəʊ.ʃəl ˈmiː.di.ə ˈɔːl.səʊ hæz rɪəl ˈben.ɪ.fɪts sʌtʃ æz .../",
+        "vi": "Một quyết định khôn ngoan. Tớ hiểu ý cậu về mặt hạn chế, nhưng tớ nghĩ mạng xã hội cũng có lợi ích thật sự, chẳng hạn như ____.",
+        "blanks": [
+          { "type": "personal", "hint": "Một lợi ích cụ thể của mạng xã hội với bạn. Ví dụ: 'learning new skills from videos', 'finding job opportunities'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Exactly. On the other hand, we should be careful because not every source online is ____. A lot of fake news spreads quickly, although it often looks convincing at first.",
+        "ipa": "/ɪɡˈzækt.li ɒn ði ˈʌð.ə hænd wiː ʃʊd biː ˈkeə.fəl bɪˈkɒz nɒt ˈev.ri sɔːs ɒnˈlaɪn ɪz ... ə lɒt ɒv feɪk njuːz spredz ˈkwɪk.li ɔːlˈðəʊ ɪt ˈɒf.ən lʊks kənˈvɪn.sɪŋ ət fɜːst/",
+        "vi": "Chính xác. Mặt khác, ta nên cẩn thận vì không phải nguồn nào trên mạng cũng ____. Nhiều tin giả lan rất nhanh, dù thoạt nhìn nó thường trông rất thuyết phục.",
+        "blanks": [
+          { "type": "knowledge", "answer": "trustworthy", "explanationVi": "'trustworthy' (tính từ) = đáng tin cậy, hợp để nói về nguồn tin trên mạng. Xem từ vựng 'trustworthy'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Good point. There are so many accounts ____ share fake news, so how do you decide who to trust? I'm always nervous about it.",
+        "ipa": "/ɡʊd pɔɪnt ðeə ɑː ˈsəʊ ˈmen.i əˈkaʊnts ... ʃeə feɪk njuːz səʊ haʊ duː juː dɪˈsaɪd huː tə trʌst aɪm ˈɔːl.weɪz ˈnɜː.vəs əˈbaʊt ɪt/",
+        "vi": "Ý hay đấy. Có rất nhiều tài khoản ____ lan truyền tin giả, vậy cậu quyết định nên tin ai thế nào? Tớ luôn lo lắng về chuyện đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "'that' là đại từ quan hệ làm chủ ngữ thay cho 'accounts' (vật) trong mệnh đề quan hệ xác định 'accounts that share fake news'. Có thể thay bằng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I guess it comes down to common sense. Not only do I check who runs the account, but I also compare the news with ____ before I believe it.",
+        "ipa": "/aɪ ɡes ɪt kʌmz daʊn tə ˈkɒm.ən sens nɒt ˈəʊn.li duː aɪ tʃek huː rʌnz ði əˈkaʊnt bʌt aɪ ˈɔːl.səʊ kəmˈpeə ðə njuːz wɪð ... bɪˈfɔː aɪ bɪˈliːv ɪt/",
+        "vi": "Tớ đoán là phải dùng đến phán đoán thông thường. Tớ không chỉ kiểm tra ai điều hành tài khoản, mà còn so sánh tin tức với ____ trước khi tin nó.",
+        "blanks": [
+          { "type": "personal", "hint": "Nguồn khác mà bạn dùng để đối chiếu. Ví dụ: 'official news sites', 'what my friends say'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's really sensible. To be honest, talking to you has motivated me to check my own screen time tonight and maybe take a little break myself!",
+        "ipa": "/ðæts ˈrɪə.li ˈsen.sə.bəl tə biː ˈɒn.ɪst ˈtɔː.kɪŋ tə juː hæz ˈməʊ.tɪ.veɪ.tɪd miː tə tʃek maɪ əʊn ˈskriːn taɪm təˈnaɪt ænd ˈmeɪ.biː teɪk ə ˈlɪt.əl breɪk maɪˈself/",
+        "vi": "Cậu nói chí lý. Thành thật mà nói, nói chuyện với cậu đã thôi thúc tớ tối nay kiểm tra thời gian dùng màn hình của mình và có khi cũng tự nghỉ một chút!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, vừa nói chuyện trực tiếp vừa liên tục xem điện thoại (phubbing) bị coi là bất lịch sự, nhất là trong bữa ăn.",
+    "Khi bày tỏ quan điểm khác bạn bè, người bản xứ thường công nhận ý người kia trước ('I see your point, but...') để giữ không khí thân thiện.",
+    "Tin giả (fake news) là chủ đề bàn luận rất phổ biến; biết nói về cách kiểm chứng nguồn tin sẽ giúp bạn ghi điểm trong hội thoại.",
+    "Nói về 'screen time' và 'digital detox' (cai mạng tạm thời) là chủ đề small-talk thời thượng, dễ kéo dài câu chuyện."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'social media' với số nhiều: phải là 'social media IS popular', không phải 'social media ARE'.",
+    "Nhầm 'addictive' (gây nghiện - tả vật/app) với 'addicted' (bị nghiện - tả người): 'I'm addicted TO it' nhưng 'It IS addictive'.",
+    "Quên đảo ngữ sau 'Not only' ở đầu câu: phải là 'Not only DO I check...', không phải 'Not only I check...'.",
+    "Phản đối thẳng thừng 'You're wrong'. Nên dùng 'I see your point, but...' để nghe lịch sự, giữ hòa khí."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về mạng xã hội như nói với một người bạn.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang ngồi cà phê với tôi và trò chuyện về mạng xã hội. Hãy bắt đầu bằng một câu hỏi nhẹ nhàng về thói quen dùng điện thoại của tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn, chia sẻ quan điểm của bạn và đôi khi không đồng ý một cách lịch sự, (2) sửa lỗi ngữ pháp hoặc cách dùng từ chưa tự nhiên của tôi và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'although', 'however' và các trạng từ như 'honestly', 'actually', 'constantly'. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đưa ra một quan điểm trái ngược mạnh để tôi tập phản biện lịch sự.' khi bạn đã quen.",
+      "Thêm: 'Hãy nói nhanh và dùng nhiều từ lóng đời thường như người bản xứ trẻ.' để tăng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được quan điểm của mình về mạng xã hội bằng câu có 'because' hoặc 'such as'.",
+    "Tôi dùng được 'I see your point, but...' để bất đồng lịch sự với bạn.",
+    "Tôi nêu được cả ưu và nhược điểm của mạng xã hội trong cùng một câu với 'although'."
+  ]
+}

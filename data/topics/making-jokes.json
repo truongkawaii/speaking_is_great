@@ -1,0 +1,342 @@
+{
+  "id": "making-jokes",
+  "category": "friends",
+  "title": "Đùa vui",
+  "titleEn": "Making Jokes",
+  "level": "B2",
+  "functions": ["small-talk", "opinions", "agreeing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Kể một câu chuyện hài hước cho bạn bè bằng câu dài, có cao trào và 'chốt' (punchline)",
+    "Phản ứng tự nhiên khi nghe đùa: cười, chọc lại, hoặc nói rõ là mình chỉ đùa",
+    "Phân biệt đùa thân thiện với đùa quá trớn và biết cách rút lui lịch sự",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, mệnh đề quan hệ) và trạng từ tự nhiên khi tán gẫu"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "joke",
+      "ipa": "/dʒəʊk/",
+      "vi": "câu/trò đùa (danh từ)",
+      "register": "neutral",
+      "example": "He told a joke that had the whole room laughing.",
+      "exampleVi": "Anh ấy kể một câu đùa khiến cả phòng cười nghiêng ngả.",
+      "note": "Danh từ. Động từ 'to joke' = đùa. Lưu ý: 'tell a joke' (kể chuyện đùa) chứ KHÔNG nói 'say a joke'.",
+      "synonyms": [
+        { "term": "gag", "ipa": "/ɡæɡ/", "register": "casual", "nuanceVi": "Đời thường, thường chỉ trò đùa dàn dựng sẵn của diễn viên hài hoặc một mẩu chọc cười nhanh." },
+        { "term": "wisecrack", "ipa": "/ˈwaɪz.kræk/", "register": "casual", "nuanceVi": "Câu nói đùa thông minh, sắc sảo, đôi khi hơi xỏ xiên; bật ra nhanh ngay trong cuộc nói chuyện." }
+      ]
+    },
+    {
+      "term": "to tease",
+      "ipa": "/tiːz/",
+      "vi": "trêu chọc (động từ)",
+      "register": "neutral",
+      "example": "My friends often tease me about my terrible singing.",
+      "exampleVi": "Bạn bè hay trêu tôi về giọng hát dở tệ.",
+      "note": "Động từ. Trêu chọc thân thiện, không ác ý. Đi với 'tease somebody about something'.",
+      "synonyms": [
+        { "term": "to mock", "ipa": "/mɒk/", "register": "neutral", "nuanceVi": "Nặng hơn 'tease': chế giễu, nhại lại để hạ thấp ai đó. Có thể mang ý ác, dùng cẩn thận." },
+        { "term": "to make fun of", "ipa": "/meɪk fʌn ɒv/", "register": "casual", "nuanceVi": "Cụm thông dụng nhất, 'cười cợt ai đó'. Tùy giọng điệu mà thân thiện hay ác ý." },
+        { "term": "to wind someone up", "ipa": "/waɪnd ˈsʌm.wʌn ʌp/", "register": "casual", "nuanceVi": "Tiếng Anh-Anh, nghĩa 'chọc cho ai đó tức/tin nhầm để vui'. Rất đời thường giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "punchline",
+      "ipa": "/ˈpʌntʃ.laɪn/",
+      "vi": "câu chốt gây cười (danh từ)",
+      "register": "neutral",
+      "example": "I laughed so hard that I forgot the punchline.",
+      "exampleVi": "Tôi cười dữ quá đến nỗi quên mất câu chốt.",
+      "note": "Danh từ. Là câu cuối cùng bất ngờ tạo ra tiếng cười trong một câu chuyện đùa. 'Deliver the punchline' = tung câu chốt."
+    },
+    {
+      "term": "hilarious",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "vi": "cực kỳ buồn cười (tính từ)",
+      "register": "neutral",
+      "example": "The way he imitated the boss was absolutely hilarious.",
+      "exampleVi": "Cái cách anh ấy nhại sếp buồn cười không chịu được.",
+      "note": "Tính từ mạnh hơn 'funny' nhiều. Là tính từ 'cực điểm' nên đi với 'absolutely', không đi với 'very'.",
+      "synonyms": [
+        { "term": "funny", "ipa": "/ˈfʌn.i/", "register": "neutral", "nuanceVi": "Từ phổ biến, trung tính nhất cho 'buồn cười'. An toàn dùng mọi lúc." },
+        { "term": "side-splitting", "ipa": "/ˈsaɪd.splɪt.ɪŋ/", "register": "casual", "nuanceVi": "Rất mạnh, hình tượng 'cười đến vỡ bụng'. Dùng khi muốn cường điệu cho vui." },
+        { "term": "amusing", "ipa": "/əˈmjuː.zɪŋ/", "register": "formal", "nuanceVi": "Nhẹ hơn, 'thú vị, làm mỉm cười' chứ chưa đến mức cười phá lên. Hơi lịch sự/văn vẻ." }
+      ]
+    },
+    {
+      "term": "witty",
+      "ipa": "/ˈwɪt.i/",
+      "vi": "hóm hỉnh, dí dỏm thông minh (tính từ)",
+      "register": "neutral",
+      "example": "She's so witty that she always has a clever comeback ready.",
+      "exampleVi": "Cô ấy dí dỏm đến mức lúc nào cũng có sẵn câu đáp trả sắc sảo.",
+      "note": "Tính từ. Khen cái hài 'thông minh, nhanh trí', khác 'silly' (hài kiểu ngớ ngẩn, vô tư).",
+      "synonyms": [
+        { "term": "humorous", "ipa": "/ˈhjuː.mə.rəs/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa chung 'có tính hài hước'. Dùng cho văn viết hoặc khen ai đó nói chung." },
+        { "term": "sharp", "ipa": "/ʃɑːp/", "register": "casual", "nuanceVi": "Nhấn 'nhanh trí, sắc bén'. Thường khen người phản ứng nhanh, đối đáp giỏi." }
+      ]
+    },
+    {
+      "term": "to crack up",
+      "ipa": "/kræk ʌp/",
+      "vi": "cười phá lên / làm ai cười ngất (động từ)",
+      "register": "casual",
+      "example": "Honestly, his impression of the teacher cracked everyone up.",
+      "exampleVi": "Thật tình, màn nhái thầy giáo của cậu ấy làm cả lớp cười ngất.",
+      "note": "Cụm động từ đời thường. 'crack up' (tự cười phá lên) hoặc 'crack someone up' (làm ai đó cười phá).",
+      "synonyms": [
+        { "term": "to burst out laughing", "ipa": "/bɜːst aʊt ˈlɑːf.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'bật cười đột ngột, không kìm được'. Trung tính, dùng được trong cả văn viết." },
+        { "term": "to giggle", "ipa": "/ˈɡɪɡ.əl/", "register": "neutral", "nuanceVi": "Cười khúc khích, nhỏ và nhẹ; thường do ngượng hoặc cố nhịn. Khác hẳn cười phá lên." }
+      ]
+    },
+    {
+      "term": "sense of humour",
+      "ipa": "/sens əv ˈhjuː.mə/",
+      "vi": "khiếu hài hước (danh từ)",
+      "register": "neutral",
+      "example": "What I love about her is her great sense of humour.",
+      "exampleVi": "Điều tôi thích ở cô ấy chính là khiếu hài hước tuyệt vời.",
+      "note": "Cụm danh từ cố định. Anh-Anh viết 'humour', Anh-Mỹ viết 'humor'. 'have a good sense of humour' = biết đùa, dễ tính."
+    },
+    {
+      "term": "sarcastic",
+      "ipa": "/sɑːˈkæs.tɪk/",
+      "vi": "mỉa mai, châm biếm (tính từ)",
+      "register": "neutral",
+      "example": "Was that a genuine compliment, or were you being sarcastic?",
+      "exampleVi": "Đó là lời khen thật lòng hay bạn đang mỉa mai vậy?",
+      "note": "Tính từ. Nói ngược ý mình nghĩ để châm chọc. Danh từ là 'sarcasm'. Người nước ngoài rất hay dùng kiểu hài này.",
+      "synonyms": [
+        { "term": "ironic", "ipa": "/aɪˈrɒn.ɪk/", "register": "neutral", "nuanceVi": "Nhấn 'trái ngược với điều mong đợi', không nhất thiết để châm chọc ai. Khác 'sarcastic' (cố ý mỉa người)." },
+        { "term": "tongue-in-cheek", "ipa": "/ˌtʌŋ.ɪnˈtʃiːk/", "register": "casual", "nuanceVi": "Nói đùa nhưng cố giả vờ nghiêm túc; nhẹ nhàng, không ác, ai cũng hiểu là đùa." }
+      ]
+    },
+    {
+      "term": "to take a joke",
+      "ipa": "/teɪk ə dʒəʊk/",
+      "vi": "biết tiếp nhận lời đùa (động từ)",
+      "register": "casual",
+      "example": "Don't get upset — you really need to learn to take a joke.",
+      "exampleVi": "Đừng giận mà — cậu thật sự cần học cách tiếp nhận lời đùa.",
+      "note": "Cụm cố định. 'can take a joke' = không tự ái khi bị trêu. Trái nghĩa: 'can't take a joke' (dễ tự ái)."
+    },
+    {
+      "term": "to go too far",
+      "ipa": "/ɡəʊ tuː fɑː/",
+      "vi": "đi quá giới hạn / đùa quá trớn (động từ)",
+      "register": "neutral",
+      "example": "It started as a harmless prank, but it eventually went too far.",
+      "exampleVi": "Ban đầu chỉ là trò chơi khăm vô hại, nhưng cuối cùng nó đi quá xa.",
+      "note": "Cụm động từ. Dùng khi lời đùa/hành động vượt mức chấp nhận và làm người khác tổn thương."
+    },
+    {
+      "term": "playfully",
+      "ipa": "/ˈpleɪ.fəl.i/",
+      "vi": "một cách vui đùa, tinh nghịch (trạng từ)",
+      "register": "neutral",
+      "example": "She playfully nudged him and said she was only kidding.",
+      "exampleVi": "Cô ấy huých vai anh ta một cách tinh nghịch và bảo chỉ đùa thôi.",
+      "note": "Trạng từ. Diễn tả cách làm gì đó vui vẻ, không nghiêm túc, để thể hiện thiện chí.",
+      "synonyms": [
+        { "term": "jokingly", "ipa": "/ˈdʒəʊ.kɪŋ.li/", "register": "neutral", "nuanceVi": "Nhấn rõ 'với ý đùa', để làm rõ rằng câu nói không nên hiểu nghiêm túc." },
+        { "term": "teasingly", "ipa": "/ˈtiː.zɪŋ.li/", "register": "neutral", "nuanceVi": "Nhấn 'với giọng trêu chọc', thường kèm ý chọc cho người kia phản ứng cho vui." }
+      ]
+    },
+    {
+      "term": "no offence",
+      "ipa": "/nəʊ əˈfens/",
+      "vi": "đừng giận nhé / không có ý gì đâu (cụm thành ngữ)",
+      "register": "casual",
+      "example": "No offence, but that shirt looks like my grandma's curtains!",
+      "exampleVi": "Đừng giận nhé, nhưng cái áo đó trông như rèm cửa nhà bà tớ ấy!",
+      "note": "Cụm rào đón TRƯỚC một câu đùa/nhận xét có thể chạm tự ái. Đáp lại: 'None taken' (không sao đâu). Anh-Mỹ viết 'no offense'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Have you heard the one about [chủ đề]?",
+      "use": "Mở đầu để rủ người nghe vào một câu chuyện đùa.",
+      "register": "casual",
+      "examples": [
+        "Have you heard the one about the programmer who got stuck in the shower?",
+        "Have you heard the one about the two cats and the mouse?"
+      ],
+      "explanationVi": "Mẫu mở chuyện đùa kinh điển. 'the one' ở đây = 'the joke'. Nói câu này là báo hiệu 'chuẩn bị nghe tôi kể chuyện cười nhé'.",
+      "altOf": "starting-a-joke"
+    },
+    {
+      "pattern": "This reminds me of a funny thing that happened when [mệnh đề].",
+      "use": "Dẫn vào một mẩu chuyện vui có thật từ trải nghiệm của mình.",
+      "register": "neutral",
+      "examples": [
+        "This reminds me of a funny thing that happened when I was travelling in Japan."
+      ],
+      "explanationVi": "Cách bắc cầu tự nhiên từ câu chuyện đang nói sang chuyện vui của mình, nghe mượt hơn là kể đột ngột.",
+      "altOf": "starting-a-joke"
+    },
+    {
+      "pattern": "I'm only kidding — [làm rõ ý thật].",
+      "use": "Trấn an người nghe rằng câu vừa rồi chỉ là đùa.",
+      "register": "casual",
+      "examples": [
+        "Relax, I'm only kidding — your cooking is actually amazing.",
+        "I'm just joking, don't take it the wrong way."
+      ],
+      "explanationVi": "Dùng khi sợ người kia hiểu lầm. 'kidding' và 'joking' thay thế cho nhau được. Dấu gạch ngang dẫn vào lời giải thích cho dịu đi.",
+      "altOf": "clarifying-its-a-joke"
+    },
+    {
+      "pattern": "No offence, but [nhận xét hài].",
+      "use": "Rào đón trước khi nói một câu đùa có thể hơi chạm tự ái.",
+      "register": "casual",
+      "examples": [
+        "No offence, but you dance like nobody's watching — and maybe they shouldn't!"
+      ],
+      "explanationVi": "Báo trước rằng mình không có ác ý, giúp người nghe đỡ tự ái. Người kia thường đáp 'None taken'.",
+      "altOf": "clarifying-its-a-joke"
+    },
+    {
+      "pattern": "Although it sounds [tính từ], [mệnh đề bất ngờ].",
+      "use": "Tạo bất ngờ cho câu chuyện bằng mệnh đề nhượng bộ.",
+      "register": "neutral",
+      "examples": [
+        "Although it sounds unbelievable, the dog actually answered the phone."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). Bắt đầu bằng điều tưởng vô lý rồi 'chốt' bằng vế bất ngờ là công thức gây cười phổ biến.",
+      "altOf": "building-the-story"
+    },
+    {
+      "pattern": "It was so funny that [kết quả].",
+      "use": "Nhấn mạnh mức độ buồn cười và hậu quả của nó.",
+      "register": "neutral",
+      "examples": [
+        "It was so funny that we couldn't stop laughing for a full ten minutes."
+      ],
+      "explanationVi": "Cấu trúc 'so + tính từ + that + mệnh đề' diễn tả mức độ và hệ quả. Cách hay để 'lên cao trào' trước khi tung câu chốt.",
+      "altOf": "building-the-story"
+    },
+    {
+      "pattern": "Come on, you can take a joke, can't you?",
+      "use": "Nhẹ nhàng nhắc người kia đừng tự ái khi bị trêu.",
+      "register": "casual",
+      "examples": [
+        "Come on, you can take a joke, can't you? I didn't mean anything by it."
+      ],
+      "explanationVi": "'can't you?' là câu hỏi đuôi (tag question) để rủ rê đồng tình. Dùng khi muốn xoa dịu sau một câu đùa hơi lố."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật tình mà nói", "when": "Mở đầu một nhận xét chân thành, thường trước câu chốt cho thêm sức nặng.", "example": "Honestly, that was the funniest thing I've seen all year." },
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "nghe đâu / hình như là", "when": "Kể lại chuyện nghe được, tạo cảm giác 'tin đồn vui' khi dẫn truyện.", "example": "Apparently, he walked into the wrong meeting and presented for ten minutes." },
+    { "term": "out of nowhere", "ipa": "/aʊt əv ˈnəʊ.weə/", "vi": "tự dưng, bất thình lình", "when": "Tạo yếu tố bất ngờ ngay trước cao trào của câu chuyện.", "example": "Out of nowhere, the cat jumped onto the keyboard and joined the video call." },
+    { "term": "in fairness", "ipa": "/ɪn ˈfeə.nəs/", "vi": "nói cho công bằng thì", "when": "Chèn vào để bênh nhẹ ai đó sau khi đã trêu họ, làm câu đùa bớt gắt.", "example": "In fairness, he did warn us that he couldn't sing." },
+    { "term": "for a laugh", "ipa": "/fɔːr ə lɑːf/", "vi": "cho vui / để chọc cười", "when": "Giải thích rằng mình làm gì đó chỉ để đùa, không nghiêm túc.", "example": "We hid his phone just for a laugh, but he didn't find it funny at all." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn thân, Minh và Lan, đang ngồi cà phê và kể cho nhau nghe những chuyện vui. Lan kể một câu chuyện hài, còn Minh thì trêu chọc lại.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "You look exhausted! Honestly, you need to hear this — this reminds me of a hilarious thing that happened ____ I was waiting at the airport yesterday.",
+        "ipa": "/juː lʊk ɪɡˈzɔːs.tɪd ˈɒn.ɪst.li juː niːd tə hɪə ðɪs ðɪs rɪˈmaɪndz miː əv ə hɪˈleə.ri.əs θɪŋ ðæt ˈhæp.ənd wen aɪ wɒz ˈweɪt.ɪŋ ət ði ˈeə.pɔːt ˈjes.tə.deɪ/",
+        "vi": "Trông cậu mệt phờ kìa! Thật tình, cậu phải nghe cái này — nó làm tớ nhớ tới một chuyện cười xỉu xảy ra ____ tớ đang đợi ở sân bay hôm qua.",
+        "blanks": [
+          { "type": "knowledge", "answer": "when", "explanationVi": "Dùng 'when' (= khi) để nối mệnh đề chỉ thời điểm sự việc xảy ra. Xem mẫu câu 'This reminds me of a funny thing that happened when…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Go on, I could use a good laugh. Although I have to warn you, your stories are usually funnier in your head than they are out loud!",
+        "ipa": "/ɡəʊ ɒn aɪ kʊd juːz ə ɡʊd lɑːf ɔːlˈðəʊ aɪ hæv tə wɔːn juː jɔː ˈstɔː.riz ɑː ˈjuː.ʒu.ə.li ˈfʌn.i.ə ɪn jɔː hed ðæn ðeɪ ɑː aʊt laʊd/",
+        "vi": "Kể đi, tớ đang cần cười một trận. Mặc dù phải cảnh báo trước, mấy chuyện của cậu thường buồn cười trong đầu cậu hơn là khi kể ra đấy!"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Very funny. Anyway, there was this businessman ____ was so busy on his phone that he walked straight into a glass door, in front of about fifty people.",
+        "ipa": "/ˈver.i ˈfʌn.i ˈen.i.weɪ ðeə wɒz ðɪs ˈbɪz.nɪs.mæn huː wɒz səʊ ˈbɪz.i ɒn hɪz fəʊn ðæt hiː wɔːkt streɪt ˈɪn.tə ə ɡlɑːs dɔː ɪn frʌnt əv əˈbaʊt ˈfɪf.ti ˈpiː.pəl/",
+        "vi": "Buồn cười ghê. Tóm lại, có một ông doanh nhân ____ mải mê dùng điện thoại đến nỗi đâm thẳng vào cửa kính, ngay trước mặt khoảng năm mươi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì đang nói về một người (the businessman). Nếu là vật thì dùng 'which'/'that'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "No way! Out of nowhere, just smack into the glass? That's the kind of thing ____ only happens in comedies, not in real life.",
+        "ipa": "/nəʊ weɪ aʊt əv ˈnəʊ.weə dʒʌst smæk ˈɪn.tə ðə ɡlɑːs ðæts ðə kaɪnd əv θɪŋ wɪtʃ ˈəʊn.li ˈhæp.ənz ɪn ˈkɒm.ə.diz nɒt ɪn rɪəl laɪf/",
+        "vi": "Không thể nào! Tự dưng đâm sầm vào kính luôn á? Đó là kiểu chuyện ____ chỉ xảy ra trong phim hài thôi chứ, đâu phải đời thực.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng 'which' (hoặc 'that') vì đang nói về một vật/sự việc ('the kind of thing'). Với người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "It was so embarrassing that he pretended to be on a call about the door, ____ everyone could clearly see there was nobody on the line. I nearly cracked up right there.",
+        "ipa": "/ɪt wɒz səʊ ɪmˈbær.ə.sɪŋ ðæt hiː prɪˈten.dɪd tə biː ɒn ə kɔːl əˈbaʊt ðə dɔː əlˈðəʊ ˈev.ri.wʌn kʊd ˈklɪə.li siː ðeə wɒz ˈnəʊ.bɒd.i ɒn ðə laɪn aɪ ˈnɪə.li krækt ʌp raɪt ðeə/",
+        "vi": "Ngượng đến mức ổng giả vờ đang gọi điện than phiền về cái cửa, ____ ai cũng thấy rõ là chẳng có ai ở đầu dây cả. Tớ suýt phá lên cười ngay tại chỗ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: ổng giả vờ gọi điện, dù ai cũng biết là không có ai. Xem mẫu 'Although it sounds…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's brilliant! You know, not only ____ you tell stories with great energy, but you also make them sound hilarious. No offence — I mean it as a compliment!",
+        "ipa": "/ðæts ˈbrɪl.jənt juː nəʊ nɒt ˈəʊn.li duː juː tel ˈstɔː.riz wɪð ɡreɪt ˈen.ə.dʒi bʌt juː ˈɔːl.səʊ meɪk ðəm saʊnd hɪˈleə.ri.əs nəʊ əˈfens aɪ miːn ɪt æz ə ˈkɒm.plɪ.mənt/",
+        "vi": "Hay quá đi! Cậu biết không, không chỉ cậu kể chuyện rất có năng lượng, mà cậu còn khiến chúng nghe cực kỳ buồn cười. Đừng giận nhé — tớ khen thật đấy!",
+        "blanks": [
+          { "type": "knowledge", "answer": "do", "explanationVi": "Khi 'Not only' đứng đầu mệnh đề phải đảo ngữ: đưa trợ động từ lên trước chủ ngữ. Ở thì hiện tại đơn với 'you', trợ động từ là 'do' → 'not only DO you tell…'. Không viết 'not only you tell'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Cheeky! In fairness, I'll take that, ____ it was only half a compliment. So, do you have any funny stories from your trip, such as that time you got lost in Bangkok?",
+        "ipa": "/ˈtʃiː.ki ɪn ˈfeə.nəs aɪl teɪk ðæt ɪˈven ðəʊ ɪt wɒz ˈəʊn.li hɑːf ə ˈkɒm.plɪ.mənt səʊ duː juː hæv ˈen.i ˈfʌn.i ˈstɔː.riz frɒm jɔː trɪp sʌtʃ æz ðæt taɪm juː ɡɒt lɒst ɪn ˌbæŋˈkɒk/",
+        "vi": "Đồ tinh nghịch! Nói cho công bằng thì tớ nhận lời khen đó, ____ nó chỉ là nửa lời khen thôi. Vậy cậu có chuyện vui nào từ chuyến đi không, chẳng hạn lần cậu bị lạc ở Bangkok?",
+        "blanks": [
+          { "type": "knowledge", "answer": "even though", "explanationVi": "Dùng 'even though' (= dù cho) nhấn mạnh sự nhượng bộ hơn 'although' một chút: vẫn nhận, dù chỉ là nửa lời khen. Cả 'although' lẫn 'even though' đều đúng ở đây." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Oh, don't get me started! That was a disaster, but looking back, it's actually one of the ____ stories I have. I'll tell you over another coffee — my treat this time.",
+        "ipa": "/əʊ dəʊnt ɡet miː ˈstɑː.tɪd ðæt wɒz ə dɪˈzɑːs.tə bʌt ˈlʊk.ɪŋ bæk ɪts ˈæk.tʃu.ə.li wʌn əv ðə ˈfʌn.i.ɪst ˈstɔː.riz aɪ hæv aɪl tel juː ˈəʊ.vər əˈnʌð.ə ˈkɒf.i maɪ triːt ðɪs taɪm/",
+        "vi": "Ôi, đừng có khơi mào! Lúc đó đúng là thảm họa, nhưng nhìn lại thì thật ra đó là một trong những câu chuyện ____ nhất mà tớ có. Để tớ kể qua một ly cà phê nữa — lần này tớ mời.",
+        "blanks": [
+          { "type": "knowledge", "answer": "funniest", "explanationVi": "Dùng dạng so sánh nhất 'funniest' sau cấu trúc 'one of the + tính từ so sánh nhất + danh từ số nhiều'. 'funny' biến thành 'funniest'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Người phương Tây dùng mỉa mai (sarcasm) và tự giễu (self-deprecating humour — tự cười nhược điểm của chính mình) rất nhiều; biết tự cười bản thân được xem là dấu hiệu của sự tự tin và dễ gần.",
+    "Trêu chọc bạn bè (banter) là cách thể hiện thân thiết ở Anh, Mỹ, Úc — nhưng giữa người mới quen thì nên nhẹ tay, vì ranh giới vui/lố rất mong manh.",
+    "Tránh đùa về tôn giáo, chủng tộc, cân nặng hay chính trị với người chưa thân. Câu rào đón 'No offence, but…' và lời chốt 'I'm only kidding' giúp giữ an toàn.",
+    "Nếu lỡ đùa làm ai đó khó chịu, một câu xin lỗi chân thành ('Sorry, that came out wrong') quan trọng hơn nhiều việc cố giải thích rằng 'đó chỉ là đùa'."
+  ],
+
+  "commonMistakes": [
+    "Nói 'say a joke' — sai. Phải là 'tell a joke' (kể chuyện đùa) hoặc 'make a joke' (pha trò).",
+    "Dùng 'very hilarious' — sai. 'hilarious' đã là mức cực điểm, đi với 'absolutely', không đi với 'very'.",
+    "Sai cặp 'not only… but also': khi 'Not only' đứng đầu câu phải đảo trợ động từ — 'Not only DID I…', không phải 'Not only I did…'.",
+    "Dịch nguyên 'cười ra nước mắt' hay đùa kiểu Việt sang tiếng Anh; nhiều trò đùa phụ thuộc văn hóa, dịch word-by-word thường không gây cười."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể chuyện vui và đối đáp dí dỏm như đang ngồi cà phê với bạn thân.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh, đang ngồi cà phê tán gẫu với tôi. Hãy bắt đầu bằng cách kể cho tôi một câu chuyện vui ngắn, rồi rủ tôi kể lại một chuyện của mình. Sau mỗi câu trả lời của tôi, hãy: (1) phản ứng tự nhiên như một người bạn (cười, chọc lại, hỏi thêm), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên, hài hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also' và mệnh đề quan hệ who/which. Thỉnh thoảng hãy trêu tôi nhẹ nhàng để tôi tập đối đáp và tập nói 'I'm only kidding' / 'No offence'. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng câu chuyện vui đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy dùng nhiều mỉa mai (sarcasm) để tôi tập nhận ra và đáp lại.' khi bạn đã quen.",
+      "Thêm: 'Hãy dạy tôi 3 thành ngữ tiếng Anh về sự hài hước và bắt tôi dùng chúng trong câu.' để mở rộng vốn từ."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi kể được một câu chuyện vui có mở đầu, cao trào và câu chốt mà không nhìn gợi ý.",
+    "Tôi dùng đúng 'although', mệnh đề quan hệ who/which và đảo ngữ 'not only… but also' khi nói.",
+    "Tôi biết cách làm rõ mình chỉ đùa ('I'm only kidding', 'No offence') và đáp lại khi bị trêu."
+  ]
+}

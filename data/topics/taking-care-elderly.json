@@ -1,0 +1,357 @@
+{
+  "id": "taking-care-elderly",
+  "category": "family",
+  "title": "Chăm sóc người lớn tuổi",
+  "titleEn": "Caring for the Elderly",
+  "level": "B1",
+  "functions": ["describing", "suggesting", "opinions", "asking-info"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Nói về sức khỏe và sinh hoạt hằng ngày của ông bà, cha mẹ lớn tuổi bằng câu vừa phải, tự nhiên",
+    "Đề xuất và bàn bạc cách chăm sóc người cao tuổi (đưa đi khám, thuê người giúp, nhắc uống thuốc)",
+    "Bày tỏ sự quan tâm, lo lắng và đưa lời khuyên nhẹ nhàng",
+    "Dùng được các cấu trúc B1 như 'such as', 'because', 'although', mệnh đề quan hệ 'who/which' khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "elderly",
+      "ipa": "/ˈel.dɚ.li/",
+      "vi": "lớn tuổi, cao tuổi (tính từ)",
+      "register": "neutral",
+      "example": "My grandmother is elderly, so she needs help with the stairs.",
+      "exampleVi": "Bà tôi đã lớn tuổi nên bà cần người giúp khi lên xuống cầu thang.",
+      "note": "Tính từ lịch sự, trang nhã hơn 'old' khi nói về người. 'The elderly' (có 'the') = người cao tuổi nói chung.",
+      "synonyms": [
+        { "term": "aged", "ipa": "/ˈeɪ.dʒɪd/", "register": "formal", "nuanceVi": "Trang trọng, thường gặp trong văn bản chính thức ('the aged'). Lưu ý: đọc hai âm tiết /ˈeɪ.dʒɪd/ khi mang nghĩa 'cao tuổi'." },
+        { "term": "senior", "ipa": "/ˈsiː.ni.ɚ/", "register": "neutral", "nuanceVi": "Lịch sự, hay dùng ở Mỹ ('senior citizen'). Nghe tôn trọng và tích cực hơn 'old'." },
+        { "term": "old", "ipa": "/oʊld/", "register": "casual", "nuanceVi": "Đời thường, trực tiếp; nói về người đôi khi nghe hơi kém tế nhị. Dùng 'elderly/senior' khi muốn lịch sự." }
+      ]
+    },
+    {
+      "term": "to take care of",
+      "ipa": "/teɪk ker əv/",
+      "vi": "chăm sóc, trông nom (động từ)",
+      "register": "neutral",
+      "example": "I take care of my grandfather every weekend.",
+      "exampleVi": "Cuối tuần nào tôi cũng chăm sóc ông tôi.",
+      "note": "Cụm động từ rất thông dụng. Đồng nghĩa 'look after'. Đừng nhầm với 'care about' (quan tâm, để tâm đến).",
+      "synonyms": [
+        { "term": "to look after", "ipa": "/lʊk ˈɑːf.tɚ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, rất tự nhiên trong văn nói (Anh-Anh dùng nhiều). 'Look after the kids/your health'." },
+        { "term": "to care for", "ipa": "/ker fɔːr/", "register": "formal", "nuanceVi": "Trang trọng hơn, mang sắc thái chăm sóc lâu dài, có tình cảm; hay gặp trong y tế ('care for patients')." },
+        { "term": "to tend to", "ipa": "/tend tə/", "register": "formal", "nuanceVi": "Văn vẻ, nhấn việc chăm lo, phục vụ tận tình; ít dùng trong hội thoại đời thường." }
+      ]
+    },
+    {
+      "term": "caregiver",
+      "ipa": "/ˈker.ɡɪv.ɚ/",
+      "vi": "người chăm sóc (danh từ)",
+      "register": "neutral",
+      "example": "We hired a caregiver to help my mother during the day.",
+      "exampleVi": "Chúng tôi thuê một người chăm sóc để giúp mẹ tôi vào ban ngày.",
+      "note": "Danh từ. Anh-Anh thường viết 'carer'. Chỉ người (trong gia đình hoặc thuê) lo việc chăm nom.",
+      "synonyms": [
+        { "term": "carer", "ipa": "/ˈker.ɚ/", "register": "neutral", "nuanceVi": "Cách viết/nói phổ biến của người Anh, nghĩa y hệt 'caregiver'." },
+        { "term": "nurse", "ipa": "/nɜːrs/", "register": "neutral", "nuanceVi": "Cụ thể là y tá/điều dưỡng có chuyên môn y tế; hẹp hơn 'caregiver' (vốn có thể là người nhà)." }
+      ]
+    },
+    {
+      "term": "medication",
+      "ipa": "/ˌmed.ɪˈkeɪ.ʃən/",
+      "vi": "thuốc men (theo toa) (danh từ)",
+      "register": "neutral",
+      "example": "She has to take her medication twice a day.",
+      "exampleVi": "Bà ấy phải uống thuốc hai lần mỗi ngày.",
+      "note": "Danh từ trang trọng, chỉ thuốc theo điều trị. 'Take medication' = uống thuốc. Phân biệt với 'medicine' (chung chung hơn).",
+      "synonyms": [
+        { "term": "medicine", "ipa": "/ˈmed.ɪ.sɪn/", "register": "neutral", "nuanceVi": "Phổ biến, đời thường hơn; vừa chỉ thuốc, vừa chỉ ngành y. 'Take your medicine'." },
+        { "term": "pills", "ipa": "/pɪlz/", "register": "casual", "nuanceVi": "Cụ thể là thuốc viên; đời thường, hẹp hơn 'medication'." }
+      ]
+    },
+    {
+      "term": "check-up",
+      "ipa": "/ˈtʃek.ʌp/",
+      "vi": "buổi khám sức khỏe định kỳ (danh từ)",
+      "register": "neutral",
+      "example": "My dad goes to the hospital for a regular check-up every six months.",
+      "exampleVi": "Bố tôi đi bệnh viện khám sức khỏe định kỳ sáu tháng một lần.",
+      "note": "Danh từ có gạch nối. 'Have/go for a check-up' = đi khám tổng quát.",
+      "synonyms": [
+        { "term": "examination", "ipa": "/ɪɡˌzæm.ɪˈneɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, chỉ buổi khám/kiểm tra y khoa cụ thể; thường rút gọn thành 'exam' trong nói." }
+      ]
+    },
+    {
+      "term": "lonely",
+      "ipa": "/ˈloʊn.li/",
+      "vi": "cô đơn (tính từ)",
+      "register": "neutral",
+      "example": "Many elderly people feel lonely when they live alone.",
+      "exampleVi": "Nhiều người cao tuổi cảm thấy cô đơn khi sống một mình.",
+      "note": "Tính từ chỉ cảm giác buồn vì thiếu bầu bạn. Khác 'alone' (chỉ trạng thái ở một mình, không nhất thiết buồn).",
+      "synonyms": [
+        { "term": "isolated", "ipa": "/ˈaɪ.sə.leɪ.tɪd/", "register": "formal", "nuanceVi": "Nhấn việc bị tách biệt, ít tiếp xúc xã hội; mang tính khách quan hơn cảm xúc 'lonely'." },
+        { "term": "alone", "ipa": "/əˈloʊn/", "register": "neutral", "nuanceVi": "Chỉ trạng thái 'một mình', trung tính, không nhất thiết buồn. Đừng nhầm với 'lonely'." }
+      ]
+    },
+    {
+      "term": "to remind",
+      "ipa": "/rɪˈmaɪnd/",
+      "vi": "nhắc nhở (động từ)",
+      "register": "neutral",
+      "example": "I always remind my grandmother to take her pills after lunch.",
+      "exampleVi": "Tôi luôn nhắc bà uống thuốc sau bữa trưa.",
+      "note": "Cấu trúc: 'remind somebody to do something'. Đừng nhầm 'remind' (nhắc người khác) với 'remember' (tự mình nhớ).",
+      "synonyms": [
+        { "term": "to prompt", "ipa": "/prɑːmpt/", "register": "formal", "nuanceVi": "Nhấn việc 'thúc, gợi' để ai đó làm gì đúng lúc; hơi trang trọng/kỹ thuật hơn 'remind'." }
+      ]
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "kiên nhẫn (tính từ)",
+      "register": "neutral",
+      "example": "You have to be very patient with elderly people who forget things.",
+      "exampleVi": "Bạn phải thật kiên nhẫn với người lớn tuổi hay quên.",
+      "note": "Tính từ (kiên nhẫn) viết giống danh từ 'patient' (bệnh nhân) nhưng nghĩa khác hẳn — phân biệt theo ngữ cảnh.",
+      "synonyms": [
+        { "term": "understanding", "ipa": "/ˌʌn.dɚˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn sự thông cảm, dễ chấp nhận; thiên về cảm xúc hơn là chịu đựng như 'patient'." },
+        { "term": "tolerant", "ipa": "/ˈtɑː.lɚ.ənt/", "register": "formal", "nuanceVi": "Nhấn việc chịu đựng, bao dung điều khó chịu; trang trọng hơn." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lɚ.li/",
+      "vi": "một cách thường xuyên, đều đặn (trạng từ)",
+      "register": "neutral",
+      "example": "We visit our grandparents regularly, usually every Sunday.",
+      "exampleVi": "Chúng tôi thăm ông bà thường xuyên, thường là mỗi Chủ nhật.",
+      "note": "Trạng từ chỉ tần suất đều đặn. Hợp khi nói về thói quen chăm sóc.",
+      "synonyms": [
+        { "term": "frequently", "ipa": "/ˈfriː.kwənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhiều lần, hay xảy ra'; không nhất thiết theo lịch đều đặn như 'regularly'." },
+        { "term": "often", "ipa": "/ˈɔː.fən/", "register": "casual", "nuanceVi": "Đời thường nhất, nghĩa 'thường'; nhẹ và chung chung hơn." }
+      ]
+    },
+    {
+      "term": "mobility",
+      "ipa": "/moʊˈbɪl.ə.ti/",
+      "vi": "khả năng đi lại, vận động (danh từ)",
+      "register": "formal",
+      "example": "Her mobility has decreased, so she uses a walking stick now.",
+      "exampleVi": "Khả năng đi lại của bà giảm sút nên giờ bà phải dùng gậy chống.",
+      "note": "Danh từ, hay gặp khi nói về sức khỏe người già ('limited/reduced mobility' = khả năng vận động hạn chế)."
+    },
+    {
+      "term": "to rely on",
+      "ipa": "/rɪˈlaɪ ɑːn/",
+      "vi": "dựa vào, trông cậy vào (động từ)",
+      "register": "neutral",
+      "example": "Elderly parents often have to rely on their children for support.",
+      "exampleVi": "Cha mẹ già thường phải trông cậy vào con cái để được hỗ trợ.",
+      "note": "Cụm động từ, luôn đi với 'on'. Đồng nghĩa 'depend on'.",
+      "synonyms": [
+        { "term": "to depend on", "ipa": "/dɪˈpend ɑːn/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa với 'rely on'; cả hai đều đi với 'on' và rất thông dụng." },
+        { "term": "to count on", "ipa": "/kaʊnt ɑːn/", "register": "casual", "nuanceVi": "Đời thường, nhấn niềm tin 'tin chắc ai đó sẽ giúp/có mặt'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm a bit worried about [danh từ / V-ing] because [mệnh đề].",
+      "use": "Bày tỏ sự lo lắng về sức khỏe/sinh hoạt của người thân và nêu lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'm a bit worried about my grandmother because she often forgets to take her medication.",
+        "I'm a bit worried about Dad living alone because his mobility isn't good anymore."
+      ],
+      "explanationVi": "'a bit' làm lời lo lắng nghe nhẹ nhàng, đỡ nặng nề. 'because' nêu lý do — cấu trúc nền tảng ở cấp B1."
+    },
+    {
+      "pattern": "Maybe we should [động từ nguyên thể].",
+      "use": "Đưa ra một đề xuất nhẹ nhàng về cách chăm sóc.",
+      "register": "neutral",
+      "examples": [
+        "Maybe we should take her to the hospital for a check-up.",
+        "Maybe we should visit them more regularly."
+      ],
+      "explanationVi": "'Maybe' + 'should' làm lời đề nghị mềm, không áp đặt. Rất an toàn khi bàn bạc với người thân.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Gợi ý một việc nên cùng làm.",
+      "register": "casual",
+      "examples": [
+        "Why don't we hire a caregiver to help during the day?",
+        "Why don't we set a reminder on her phone for her pills?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách rủ rê/đề xuất thân mật, nghe gần gũi giữa người trong nhà.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "It might be a good idea to [động từ nguyên thể].",
+      "use": "Đề xuất một giải pháp một cách tế nhị, không chắc chắn.",
+      "register": "neutral",
+      "examples": [
+        "It might be a good idea to install handrails in the bathroom.",
+        "It might be a good idea to ask the doctor about her medication."
+      ],
+      "explanationVi": "'It might be a good idea to...' nghe khiêm tốn, để ngỏ cho người kia cân nhắc — lịch sự hơn 'You should'.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "We need someone who [mệnh đề quan hệ].",
+      "use": "Mô tả loại người chăm sóc mình cần, dùng mệnh đề quan hệ.",
+      "register": "neutral",
+      "examples": [
+        "We need someone who can cook and help her move around.",
+        "We need a caregiver who is patient and reliable."
+      ],
+      "explanationVi": "'who' là đại từ quan hệ chỉ người, dùng để mô tả thêm về 'someone/a caregiver'. Với vật thì dùng 'which/that'."
+    },
+    {
+      "pattern": "She has to [động từ] every day, such as [ví dụ].",
+      "use": "Mô tả việc người lớn tuổi phải làm hằng ngày và nêu ví dụ.",
+      "register": "neutral",
+      "examples": [
+        "She has to do a few light exercises every day, such as walking and stretching.",
+        "He has to follow a routine every day, such as taking his pills and checking his blood pressure."
+      ],
+      "explanationVi": "'has to' diễn tả việc bắt buộc; 'such as' nêu ví dụ minh họa. Nêu ví dụ cụ thể giúp câu nói rõ ràng, sinh động hơn."
+    },
+    {
+      "pattern": "Although [mệnh đề], [mệnh đề].",
+      "use": "Nối hai ý trái ngược: dù khó khăn nhưng vẫn tích cực.",
+      "register": "neutral",
+      "examples": [
+        "Although my grandfather is quite old, he is still very independent.",
+        "Although she has limited mobility, she insists on cooking by herself."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù...). Giúp câu dài và mượt hơn, là cấu trúc B1–B2 thường gặp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɑːn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ chân thành, đôi khi hơi tế nhị về sức khỏe người thân.", "example": "Honestly, I'm quite worried about how lonely she feels." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Đính chính nhẹ hoặc bổ sung một thông tin bất ngờ.", "example": "Actually, the doctor said her health is improving." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần, từ từ", "when": "Mô tả một thay đổi diễn ra chậm theo thời gian.", "example": "His memory has been getting worse gradually over the past year." },
+    { "term": "fortunately", "ipa": "/ˈfɔːr.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một thông tin tích cực, đáng mừng.", "example": "Fortunately, my aunt lives nearby and visits her every day." },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Đồng ý nhanh, thể hiện sự sẵn lòng giúp đỡ.", "example": "Of course I'll help you look after Grandma this weekend." }
+  ],
+
+  "dialogue": {
+    "context": "Hai anh chị em (Lan và Minh) đang ngồi nói chuyện và bàn bạc về việc chăm sóc người bà đã lớn tuổi đang sống một mình.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Minh, I'm a bit worried about Grandma these days because she often forgets to take her ____ on time.",
+        "ipa": "/mɪn aɪm ə bɪt ˈwɜːr.id əˈbaʊt ˈɡrænd.mɑː ðiːz deɪz bɪˈkɔz ʃiː ˈɔf.ən fɚˈɡets tə teɪk hɚ ... ɑːn taɪm/",
+        "vi": "Minh à, dạo này chị hơi lo cho bà vì bà hay quên uống ____ đúng giờ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "medication", "explanationVi": "Dùng 'medication' (thuốc theo toa). Cụm 'take her medication' = uống thuốc của bà. Xem từ vựng 'medication'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, I've noticed that too. Although she is still quite independent, her ____ has decreased, so going up the stairs is becoming difficult for her.",
+        "ipa": "/ˈɑːn.ɪst.li aɪv ˈnoʊ.tɪst ðæt tuː ɔːlˈðoʊ ʃiː ɪz stɪl kwaɪt ˌɪn.dɪˈpen.dənt hɚ ... hæz dɪˈkriːst soʊ ˈɡoʊ.ɪŋ ʌp ðə sterz ɪz bɪˈkʌm.ɪŋ ˈdɪf.ɪ.kəlt fɔːr hɚ/",
+        "vi": "Thành thật thì em cũng để ý thấy vậy. Dù bà vẫn còn khá tự lập, nhưng ____ của bà đã giảm sút, nên việc lên cầu thang đang trở nên khó khăn với bà.",
+        "blanks": [
+          { "type": "knowledge", "answer": "mobility", "explanationVi": "Dùng 'mobility' (khả năng đi lại, vận động). 'Her mobility has decreased' = khả năng đi lại của bà giảm. Xem từ vựng 'mobility'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Exactly. Maybe we should take her to the hospital for a regular ____, just to make sure everything is fine.",
+        "ipa": "/ɪɡˈzækt.li ˈmeɪ.biː wiː ʃʊd teɪk hɚ tə ðə ˈhɑːs.pɪ.təl fɔːr ə ˈreɡ.jə.lɚ ... dʒʌst tə meɪk ʃʊr ˈev.ri.θɪŋ ɪz faɪn/",
+        "vi": "Đúng vậy. Có lẽ chúng ta nên đưa bà đi bệnh viện ____ định kỳ, để chắc chắn mọi thứ đều ổn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "check-up", "explanationVi": "Dùng 'check-up' (buổi khám sức khỏe định kỳ). 'A regular check-up' = khám định kỳ. Xem từ vựng 'check-up'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's a good idea. And honestly, I think she also feels quite ____ living alone, because none of us can be there during the day.",
+        "ipa": "/ðæts ə ɡʊd aɪˈdiːə ænd ˈɑːn.ɪst.li aɪ θɪŋk ʃiː ˈɔːl.soʊ fiːlz kwaɪt ... ˈlɪv.ɪŋ əˈloʊn bɪˈkɔz nʌn əv ʌs kæn biː ðer ˈdjʊr.ɪŋ ðə deɪ/",
+        "vi": "Ý hay đấy. Và thật lòng mà nói, em nghĩ bà cũng cảm thấy khá ____ khi sống một mình, vì không ai trong chúng ta ở đó vào ban ngày.",
+        "blanks": [
+          { "type": "knowledge", "answer": "lonely", "explanationVi": "Dùng 'lonely' (cô đơn, buồn vì thiếu bầu bạn). Khác 'alone' (chỉ ở một mình). Xem từ vựng 'lonely'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "You're right. Why don't we hire a ____ to help her during the day? We need someone who is patient and can cook for her.",
+        "ipa": "/jɔːr raɪt waɪ doʊnt wiː ˈhaɪr ə ... tə help hɚ ˈdjʊr.ɪŋ ðə deɪ wiː niːd ˈsʌm.wʌn huː ɪz ˈpeɪ.ʃənt ænd kæn kʊk fɔːr hɚ/",
+        "vi": "Em nói đúng. Sao chúng ta không thuê một ____ để giúp bà vào ban ngày nhỉ? Chúng ta cần một người kiên nhẫn và biết nấu ăn cho bà.",
+        "blanks": [
+          { "type": "knowledge", "answer": "caregiver", "explanationVi": "Dùng 'caregiver' (người chăm sóc). Anh-Anh viết 'carer'. Theo sau là mệnh đề quan hệ 'who is patient...'. Xem từ vựng 'caregiver'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Definitely. In the meantime, I can ____ her to take her pills by setting an alarm on her phone every morning and evening.",
+        "ipa": "/ˈdef.ə.nət.li ɪn ðə ˈmiːn.taɪm aɪ kæn ... hɚ tə teɪk hɚ pɪlz baɪ ˈset.ɪŋ ən əˈlɑːrm ɑːn hɚ foʊn ˈev.ri ˈmɔːr.nɪŋ ænd ˈiːv.nɪŋ/",
+        "vi": "Chắc chắn rồi. Trong lúc đó, em có thể ____ bà uống thuốc bằng cách đặt báo thức trên điện thoại của bà mỗi sáng và mỗi tối.",
+        "blanks": [
+          { "type": "knowledge", "answer": "remind", "explanationVi": "Dùng 'remind' (nhắc nhở). Cấu trúc: 'remind somebody to do something'. Khác 'remember' (tự mình nhớ). Xem từ vựng 'to remind'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Perfect. Let's also try to visit her ____, maybe every weekend, so that she doesn't feel so isolated.",
+        "ipa": "/ˈpɜːr.fɪkt lets ˈɔːl.soʊ traɪ tə ˈvɪz.ɪt hɚ ... ˈmeɪ.biː ˈev.ri ˈwiːk.end soʊ ðæt ʃiː ˈdʌz.ənt fiːl soʊ ˈaɪ.sə.leɪ.tɪd/",
+        "vi": "Tuyệt. Mình cũng nên cố gắng thăm bà ____, có lẽ mỗi cuối tuần, để bà không cảm thấy quá tách biệt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "regularly", "explanationVi": "Dùng trạng từ 'regularly' (thường xuyên, đều đặn). Hợp khi nói về thói quen thăm nom. Xem từ vựng 'regularly'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Agreed. Fortunately, we have each other to ____ on, so taking care of Grandma won't be too hard if we share the work. By the way, when are you free to talk to her about it?",
+        "ipa": "/əˈɡriːd ˈfɔːr.tʃən.ət.li wiː hæv iːtʃ ˈʌð.ɚ tə ... ɑːn soʊ ˈteɪk.ɪŋ ker əv ˈɡrænd.mɑː woʊnt biː tuː hɑːrd ɪf wiː ʃer ðə wɜːrk baɪ ðə weɪ wen ɑːr juː friː tə tɔːk tə hɚ əˈbaʊt ɪt/",
+        "vi": "Đồng ý. May mắn là chúng ta có nhau để ____ vào, nên việc chăm sóc bà sẽ không quá khó nếu mình chia sẻ công việc. Mà tiện thể, khi nào chị rảnh để nói chuyện với bà về việc này?",
+        "blanks": [
+          { "type": "knowledge", "answer": "rely", "explanationVi": "Dùng 'rely' trong cụm 'rely on' (trông cậy vào). Ở đây 'each other to rely on' = có nhau để dựa vào. Xem từ vựng 'to rely on'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I'm free ____. Let's go over together and talk to her gently, so she knows we just want to help.",
+        "ipa": "/aɪm friː ... lets ɡoʊ ˈoʊ.vɚ təˈɡeð.ɚ ænd tɔːk tə hɚ ˈdʒent.li soʊ ʃiː noʊz wiː dʒʌst wɑːnt tə help/",
+        "vi": "Chị rảnh ____. Mình cùng qua đó và nói chuyện nhẹ nhàng với bà, để bà biết chúng ta chỉ muốn giúp thôi.",
+        "blanks": [
+          { "type": "personal", "hint": "Thời điểm bạn rảnh. Ví dụ: 'this Saturday', 'tomorrow afternoon'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Việt Nam, con cháu thường sống chung và trực tiếp chăm sóc ông bà cha mẹ; ở nhiều nước phương Tây, người cao tuổi hay sống riêng hoặc vào viện dưỡng lão (nursing home) và điều này được xem là bình thường, không phải bất hiếu.",
+    "Khi nói về người lớn tuổi bằng tiếng Anh, dùng 'elderly' hoặc 'senior' nghe tôn trọng hơn 'old'. Tránh gọi thẳng ai đó là 'an old person'.",
+    "Ở phương Tây, các dịch vụ hỗ trợ như caregiver tại nhà, trung tâm chăm sóc ban ngày (day-care center) cho người già khá phổ biến và được nói đến cởi mở.",
+    "Chủ đề sức khỏe và tiền bạc của người già được xem là chuyện riêng tư; nên hỏi tế nhị và tránh phán xét cách gia đình khác chăm sóc người thân của họ."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'remind' với 'remember': 'remind somebody' = nhắc người khác; 'remember' = tự mình nhớ. Nói 'I remembered her to take pills' là sai.",
+    "Nhầm 'lonely' (cô đơn, buồn) với 'alone' (ở một mình, trung tính). 'She lives alone but she isn't lonely' là một câu rất tự nhiên.",
+    "Quên giới từ 'on' sau 'rely' và 'depend': luôn là 'rely ON' / 'depend ON somebody'.",
+    "Dùng 'take care' thiếu 'of' khi có tân ngữ: phải nói 'take care OF my grandmother', không phải 'take care my grandmother'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về việc chăm sóc người lớn tuổi như thật.",
+    "prompt": "Hãy đóng vai anh/chị/em của tôi nói tiếng Anh. Chúng ta đang cùng bàn cách chăm sóc người bà (hoặc ông, cha, mẹ) đã lớn tuổi của mình. Hãy bắt đầu bằng cách bày tỏ một mối lo về sức khỏe của bà. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như người trong nhà, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'because', 'such as', 'although' và mệnh đề quan hệ 'who/which'. Thỉnh thoảng hãy đưa ra một tình huống bất ngờ (ví dụ bà bị ngã, hoặc không chịu uống thuốc) để tôi tập đề xuất giải pháp. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai chính người bà lớn tuổi, hơi cứng đầu, để tôi tập thuyết phục nhẹ nhàng.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy yêu cầu tôi giải thích quyết định chăm sóc của mình bằng ít nhất ba câu liên tiếp.' để luyện nói dài và mạch lạc."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được ít nhất hai câu mô tả sức khỏe/sinh hoạt của người lớn tuổi mà không nhìn gợi ý.",
+    "Tôi đưa ra được lời đề xuất chăm sóc bằng 'Maybe we should...' hoặc 'Why don't we...?'.",
+    "Tôi dùng đúng 'remind' (thay vì 'remember') và 'rely on / take care of' kèm giới từ chính xác."
+  ]
+}

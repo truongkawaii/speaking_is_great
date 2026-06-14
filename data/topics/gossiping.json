@@ -1,0 +1,354 @@
+{
+  "id": "gossiping",
+  "category": "friends",
+  "title": "Tám chuyện",
+  "titleEn": "Gossiping",
+  "level": "B2",
+  "functions": ["small-talk", "opinions", "agreeing", "describing"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Bắt đầu và duy trì một cuộc tám chuyện tự nhiên với bạn bè",
+    "Chia sẻ và phản ứng với tin đồn một cách tế nhị, không quá soi mói",
+    "Bày tỏ ngạc nhiên, nghi ngờ hoặc đồng tình bằng câu dài, nhiều sắc thái",
+    "Dùng ngữ pháp nâng cao (apparently, such as, although, mệnh đề quan hệ) khi kể chuyện",
+    "Biết cách rút lui khỏi chuyện tám một cách lịch sự khi cần"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "gossip",
+      "ipa": "/ˈɡɒs.ɪp/",
+      "vi": "chuyện tám, tin đồn (danh từ); tám chuyện (động từ)",
+      "register": "casual",
+      "example": "We spent the whole afternoon catching up on the latest gossip.",
+      "exampleVi": "Chúng tôi dành cả buổi chiều cập nhật những tin tám mới nhất.",
+      "note": "Vừa là danh từ (không đếm được) vừa là động từ. Mang sắc thái đời thường, thân mật; hơi tiêu cực nếu nói xấu sau lưng.",
+      "synonyms": [
+        { "term": "rumor", "ipa": "/ˈruː.mər/", "register": "neutral", "nuanceVi": "Nhấn vào 'thông tin chưa được xác minh' đang lan truyền, không nhất thiết về chuyện riêng tư. Trung tính hơn 'gossip'." },
+        { "term": "the grapevine", "ipa": "/ðə ˈɡreɪp.vaɪn/", "register": "casual", "nuanceVi": "Thành ngữ 'I heard it through the grapevine' = nghe qua lời đồn truyền tai. Nhấn vào kênh truyền tin không chính thức." },
+        { "term": "the scoop", "ipa": "/ðə skuːp/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'tin sốt dẻo, tin nóng'. 'What's the scoop?' = Có gì hot không?" }
+      ]
+    },
+    {
+      "term": "to spread",
+      "ipa": "/spred/",
+      "vi": "lan truyền, phát tán (động từ)",
+      "register": "neutral",
+      "example": "Rumors tend to spread incredibly fast in a small office.",
+      "exampleVi": "Tin đồn thường lan cực nhanh trong một văn phòng nhỏ.",
+      "note": "Động từ bất quy tắc: spread - spread - spread (không đổi dạng). Đi với 'spread rumors / spread the word'.",
+      "synonyms": [
+        { "term": "to circulate", "ipa": "/ˈsɜː.kjə.leɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'lưu chuyển qua nhiều người'. Hay dùng cho tin tức/tài liệu." },
+        { "term": "to go around", "ipa": "/ɡəʊ əˈraʊnd/", "register": "casual", "nuanceVi": "Đời thường: 'There's a rumor going around.' = Đang có tin đồn lan đi khắp nơi." }
+      ]
+    },
+    {
+      "term": "juicy",
+      "ipa": "/ˈdʒuː.si/",
+      "vi": "hấp dẫn, giật gân (về tin đồn) (tính từ)",
+      "register": "casual",
+      "example": "Tell me everything — I love a juicy bit of gossip!",
+      "exampleVi": "Kể hết đi — tôi mê mấy tin tám giật gân lắm!",
+      "note": "Nghĩa đen là 'mọng nước'; nghĩa bóng (đời thường) là 'tin hấp dẫn, nhiều tình tiết'. Đi rất hợp với 'gossip / detail / story'.",
+      "synonyms": [
+        { "term": "scandalous", "ipa": "/ˈskæn.də.ləs/", "register": "neutral", "nuanceVi": "Mạnh hơn, nhấn 'gây sốc, tai tiếng'. Dùng cho chuyện đáng xấu hổ, không chỉ là hấp dẫn." },
+        { "term": "intriguing", "ipa": "/ɪnˈtriː.ɡɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'gây tò mò, kích thích suy nghĩ'. Lịch sự hơn 'juicy'." }
+      ]
+    },
+    {
+      "term": "to confide in",
+      "ipa": "/kənˈfaɪd ɪn/",
+      "vi": "tâm sự, thổ lộ điều riêng tư với ai (động từ)",
+      "register": "neutral",
+      "example": "She only confides in her closest friends about personal matters.",
+      "exampleVi": "Cô ấy chỉ thổ lộ chuyện riêng tư với những người bạn thân nhất.",
+      "note": "Luôn đi với giới từ 'in' + người: 'confide IN somebody'. Khác 'confide something to somebody' (kể điều gì cho ai).",
+      "synonyms": [
+        { "term": "to open up to", "ipa": "/ˈəʊ.pən ʌp tə/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'cởi mở, chịu chia sẻ cảm xúc'. Nhẹ nhàng và phổ biến hơn 'confide in'." },
+        { "term": "to disclose", "ipa": "/dɪsˈkləʊz/", "register": "formal", "nuanceVi": "Rất trang trọng, nhấn 'tiết lộ thông tin chính thức/bí mật'. Hợp văn bản, không hợp lúc tám chuyện." }
+      ]
+    },
+    {
+      "term": "discreet",
+      "ipa": "/dɪˈskriːt/",
+      "vi": "kín đáo, biết giữ mồm giữ miệng (tính từ)",
+      "register": "neutral",
+      "example": "Don't worry, I'll be discreet — I won't tell a soul.",
+      "exampleVi": "Đừng lo, tôi sẽ kín đáo — sẽ không nói với một ai cả.",
+      "note": "Tính từ. Đừng nhầm chính tả với 'discrete' (= riêng rẽ, rời rạc) — phát âm giống nhau nhưng nghĩa khác hẳn.",
+      "synonyms": [
+        { "term": "tight-lipped", "ipa": "/ˌtaɪtˈlɪpt/", "register": "casual", "nuanceVi": "Đời thường, hình ảnh 'mím chặt môi', nhấn 'không hé răng nửa lời'. Hơi mạnh hơn 'discreet'." },
+        { "term": "tactful", "ipa": "/ˈtækt.fəl/", "register": "neutral", "nuanceVi": "Nhấn 'khéo léo, tế nhị khi nói', thiên về cách cư xử hơn là giữ bí mật." }
+      ]
+    },
+    {
+      "term": "to exaggerate",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "vi": "phóng đại, thổi phồng (động từ)",
+      "register": "neutral",
+      "example": "I think people tend to exaggerate when they pass on a story.",
+      "exampleVi": "Tôi nghĩ người ta hay phóng đại khi truyền tai một câu chuyện.",
+      "note": "Động từ. Phát âm bẫy: âm 'gg' đọc là /dʒ/ và có âm /z/ ở giữa: /ɪɡˈzædʒ.ə.reɪt/.",
+      "synonyms": [
+        { "term": "to blow out of proportion", "ipa": "/bləʊ aʊt əv prəˈpɔː.ʃən/", "register": "casual", "nuanceVi": "Thành ngữ, nhấn 'làm to chuyện quá mức'. Hình ảnh, đời thường hơn 'exaggerate'." },
+        { "term": "to overstate", "ipa": "/ˌəʊ.vəˈsteɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nói quá lên so với sự thật'. Hợp văn cảnh nghiêm túc." }
+      ]
+    },
+    {
+      "term": "trustworthy",
+      "ipa": "/ˈtrʌstˌwɜː.ði/",
+      "vi": "đáng tin cậy (tính từ)",
+      "register": "neutral",
+      "example": "He's the only colleague I'd call genuinely trustworthy.",
+      "exampleVi": "Anh ấy là đồng nghiệp duy nhất mà tôi thật sự coi là đáng tin.",
+      "note": "Tính từ ghép từ 'trust' + 'worthy'. Dùng cho người đáng tin tưởng để giao phó bí mật.",
+      "synonyms": [
+        { "term": "reliable", "ipa": "/rɪˈlaɪ.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'đáng dựa vào, làm đúng như đã hứa'. Thiên về độ ổn định trong công việc hơn là giữ bí mật." },
+        { "term": "dependable", "ipa": "/dɪˈpen.də.bəl/", "register": "neutral", "nuanceVi": "Gần nghĩa 'reliable', nhấn 'luôn có mặt khi cần'. Ấm áp, thiên về tình cảm hơn một chút." }
+      ]
+    },
+    {
+      "term": "behind someone's back",
+      "ipa": "/bɪˈhaɪnd ˈsʌm.wʌnz bæk/",
+      "vi": "sau lưng ai đó (cụm trạng ngữ)",
+      "register": "casual",
+      "example": "It's unfair to criticize her behind her back like that.",
+      "exampleVi": "Chỉ trích cô ấy sau lưng như vậy là không công bằng.",
+      "note": "Cụm cố định mang sắc thái tiêu cực: làm/nói điều gì lén lút khi người ta không có mặt. Trái nghĩa: 'to someone's face'."
+    },
+    {
+      "term": "allegedly",
+      "ipa": "/əˈledʒ.ɪd.li/",
+      "vi": "theo lời đồn / được cho là (trạng từ)",
+      "register": "formal",
+      "example": "She allegedly turned down the promotion, but no one knows for sure.",
+      "exampleVi": "Nghe đồn cô ấy đã từ chối thăng chức, nhưng chẳng ai biết chắc.",
+      "note": "Trạng từ dùng để rào đón: 'tôi chỉ nghe nói, chưa chắc đúng'. Giúp bạn kể tin đồn mà không khẳng định.",
+      "synonyms": [
+        { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "register": "neutral", "nuanceVi": "Phổ biến nhất khi tám chuyện, nghĩa 'hình như, nghe nói là'. Đời thường và nhẹ nhàng hơn 'allegedly'." },
+        { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "register": "neutral", "nuanceVi": "Nhấn thêm chút hoài nghi 'người ta bảo thế nhưng tôi không chắc tin'. Hơi mỉa mai." }
+      ]
+    },
+    {
+      "term": "to keep something to oneself",
+      "ipa": "/kiːp ˈsʌm.θɪŋ tə wʌnˈself/",
+      "vi": "giữ kín điều gì cho riêng mình (cụm động từ)",
+      "register": "neutral",
+      "example": "Please keep this to yourself — I really shouldn't have said anything.",
+      "exampleVi": "Làm ơn giữ kín chuyện này nhé — đáng lẽ tôi không nên nói gì cả.",
+      "note": "Cụm cố định, rất hay dùng khi vừa kể bí mật và muốn người nghe đừng lan ra."
+    },
+    {
+      "term": "nosy",
+      "ipa": "/ˈnəʊ.zi/",
+      "vi": "tò mò soi mói (chuyện người khác) (tính từ)",
+      "register": "casual",
+      "example": "I don't mean to be nosy, but is everything okay between them?",
+      "exampleVi": "Tôi không có ý soi mói đâu, nhưng giữa họ ổn cả chứ?",
+      "note": "Tính từ mang sắc thái hơi tiêu cực. 'I don't mean to be nosy, but...' là câu mở đầu lịch sự khi muốn hỏi chuyện riêng.",
+      "synonyms": [
+        { "term": "curious", "ipa": "/ˈkjʊə.ri.əs/", "register": "neutral", "nuanceVi": "Trung tính, chỉ 'tò mò muốn biết', không hàm ý soi mói. Lịch sự hơn 'nosy' nhiều." },
+        { "term": "inquisitive", "ipa": "/ɪnˈkwɪz.ə.tɪv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thích tìm hiểu, ham hỏi'. Thường mang nghĩa tích cực hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Have you heard the news about [người / chuyện]?",
+      "use": "Mở màn một cuộc tám chuyện, khơi gợi sự tò mò.",
+      "register": "casual",
+      "examples": [
+        "Have you heard the news about Mai and the new manager?",
+        "Have you heard what happened at the party last weekend?"
+      ],
+      "explanationVi": "Câu mở đầu kinh điển để bắt chuyện tám. Hạ giọng một chút sẽ tạo cảm giác bí mật, hấp dẫn.",
+      "altOf": "opening-gossip"
+    },
+    {
+      "pattern": "You'll never guess what I just found out about [người / chuyện].",
+      "use": "Mở màn tin sốt dẻo một cách kịch tính, gây tò mò mạnh.",
+      "register": "casual",
+      "examples": [
+        "You'll never guess what I just found out about our old classmate.",
+        "You'll never guess what happened to Tom at work yesterday."
+      ],
+      "explanationVi": "Cách mở đầu 'câu khách' rất tự nhiên. 'You'll never guess' khiến người nghe lập tức muốn biết — kịch tính hơn 'Have you heard...?'.",
+      "altOf": "opening-gossip"
+    },
+    {
+      "pattern": "Apparently, [mệnh đề], although nobody knows for sure.",
+      "use": "Kể một tin đồn nhưng rào đón rằng chưa chắc đúng.",
+      "register": "neutral",
+      "examples": [
+        "Apparently, they broke up last month, although nobody knows for sure.",
+        "Apparently, she's moving abroad, although I haven't heard it from her directly."
+      ],
+      "explanationVi": "'Apparently' = nghe nói, hình như. Kết hợp 'although nobody knows for sure' để thể hiện bạn không khẳng định — vừa tám vừa giữ chừng mực, rất tinh tế."
+    },
+    {
+      "pattern": "I heard it from [người], who said that [mệnh đề].",
+      "use": "Dẫn nguồn của tin đồn bằng mệnh đề quan hệ.",
+      "register": "neutral",
+      "examples": [
+        "I heard it from Lan, who said that the whole team is being relocated.",
+        "I heard it from a friend, who swears it's completely true."
+      ],
+      "explanationVi": "Mệnh đề quan hệ 'who said that...' giúp gộp nguồn tin và nội dung vào một câu mượt. Dẫn nguồn làm câu chuyện đáng tin (hoặc đỡ trách nhiệm) hơn."
+    },
+    {
+      "pattern": "No way! Are you serious?",
+      "use": "Phản ứng ngạc nhiên, không tin nổi khi nghe tin sốc.",
+      "register": "casual",
+      "examples": [
+        "No way! Are you serious? I had no idea!",
+        "No way! I really can't believe she did that."
+      ],
+      "explanationVi": "Cụm phản ứng tự nhiên, đầy cảm xúc. Người bản xứ dùng liên tục khi tám để tỏ ra mình đang chăm chú và bất ngờ.",
+      "altOf": "reacting-surprise"
+    },
+    {
+      "pattern": "Honestly, I find that hard to believe, considering [lý do].",
+      "use": "Bày tỏ hoài nghi một cách tế nhị, kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "Honestly, I find that hard to believe, considering she never mentioned it.",
+        "Honestly, I find that hard to believe — it just doesn't sound like him."
+      ],
+      "explanationVi": "'I find that hard to believe' là cách phủ nhận lịch sự, không nói thẳng 'That's a lie'. 'considering' (= xét đến/vì) dẫn vào lý do cụ thể khiến lời hoài nghi thuyết phục hơn. Lưu ý: KHÔNG dùng 'such as' ở đây — 'such as' chỉ dẫn ví dụ cho danh từ, không nối được lý do.",
+      "altOf": "reacting-surprise"
+    },
+    {
+      "pattern": "Anyway, we probably shouldn't be talking about this behind their back.",
+      "use": "Rút lui khỏi chuyện tám một cách lịch sự, có ý thức.",
+      "register": "casual",
+      "examples": [
+        "Anyway, we probably shouldn't be talking about this behind their back.",
+        "Anyway, let's change the subject — I feel a bit guilty gossiping like this."
+      ],
+      "explanationVi": "'Anyway' là tín hiệu chuyển/kết thúc chủ đề. Câu này thể hiện bạn biết điểm dừng, không trở thành kẻ ngồi lê đôi mách — rất văn minh."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "hình như, nghe nói là", "when": "Dẫn vào tin đồn bạn nghe được nhưng chưa kiểm chứng.", "example": "Apparently, they've been dating for months without telling anyone." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi tế nhị.", "example": "Honestly, I never expected those two to get together." },
+    { "term": "between you and me", "ipa": "/bɪˈtwiːn juː ænd miː/", "vi": "chuyện này giữa hai ta thôi", "when": "Trước khi tiết lộ điều bí mật, dặn người nghe giữ kín.", "example": "Between you and me, I think he's planning to quit." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói công bằng thì", "when": "Khi muốn bênh vực hoặc nhìn nhận khách quan giữa lúc tám.", "example": "To be fair, we don't really know her side of the story." },
+    { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "vi": "người ta bảo là (kèm chút hoài nghi)", "when": "Kể lại điều người khác nói nhưng bạn không hoàn toàn tin.", "example": "She supposedly got a huge raise, but who knows if that's true." },
+    { "term": "out of the blue", "ipa": "/aʊt əv ðə bluː/", "vi": "bất ngờ, từ trên trời rơi xuống", "when": "Nhấn rằng một sự việc xảy ra hoàn toàn bất ngờ.", "example": "He quit out of the blue, and nobody saw it coming." }
+  ],
+
+  "dialogue": {
+    "context": "Lan và Minh là bạn thân, đang ngồi cà phê và tám chuyện về một người bạn chung tên Hương vừa có nhiều thay đổi bất ngờ trong cuộc sống.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Hey, you'll never guess what I just found out about Huong — apparently she's quitting her job to start her own business, although she hasn't told many people yet.",
+        "ipa": "/heɪ juːl ˈnev.ər ɡes wɒt aɪ dʒʌst faʊnd aʊt əˈbaʊt ˈhɜːŋ əˈpær.ənt.li ʃiːz ˈkwɪt.ɪŋ hɜː dʒɒb tə stɑːt hɜː əʊn ˈbɪz.nəs ɔːlˈðəʊ ʃiː ˈhæz.ənt təʊld ˈmen.i ˈpiː.pəl jet/",
+        "vi": "Này, cậu không đoán được tớ vừa biết gì về Hương đâu — hình như cậu ấy sắp nghỉ việc để mở công ty riêng, mặc dù chưa kể cho nhiều người biết."
+      },
+      {
+        "speaker": "Minh",
+        "text": "____ Are you serious? I had absolutely no idea — where did you hear that?",
+        "ipa": "/nəʊ weɪ ɑː juː ˈsɪə.ri.əs aɪ hæd ˈæb.sə.luːt.li nəʊ aɪˈdɪə weə dɪd juː hɪə ðæt/",
+        "vi": "____ Cậu nói thật à? Tớ hoàn toàn không biết gì — cậu nghe chuyện đó ở đâu vậy?",
+        "blanks": [
+          { "type": "knowledge", "answer": "No way!", "explanationVi": "Cụm phản ứng ngạc nhiên 'No way!' = Không thể nào! Đây là cách đáp tự nhiên khi nghe tin sốc. Xem mẫu câu 'No way! Are you serious?'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I heard it from Quan, ____ said that she's already found investors. Honestly, I find it a bit hard to believe, considering she always seemed so cautious about money.",
+        "ipa": "/aɪ hɜːd ɪt frɒm kwɑːn huː sed ðæt ʃiːz ɔːlˈred.i faʊnd ɪnˈves.təz ˈɒn.ɪst.li aɪ faɪnd ɪt ə bɪt hɑːd tə bɪˈliːv kənˈsɪd.ər.ɪŋ ʃiː ˈɔːl.weɪz siːmd səʊ ˈkɔː.ʃəs əˈbaʊt ˈmʌn.i/",
+        "vi": "Tớ nghe từ Quân, ____ bảo là cậu ấy đã tìm được nhà đầu tư rồi. Thật lòng thì tớ thấy hơi khó tin, xét chuyện cậu ấy lúc nào cũng có vẻ rất thận trọng về tiền bạc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' thay cho 'Quan' (người) để nối mệnh đề. Nếu là vật thì dùng 'which'. Xem mẫu câu 'I heard it from..., who said that...'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "To be fair, people do change. But between you and ____, I always thought she was too attached to her steady salary to take such a big risk.",
+        "ipa": "/tə biː feə ˈpiː.pəl duː tʃeɪndʒ bʌt bɪˈtwiːn juː ænd miː aɪ ˈɔːl.weɪz θɔːt ʃiː wɒz tuː əˈtætʃt tə hɜː ˈsted.i ˈsæl.ə.ri tə teɪk sʌtʃ ə bɪɡ rɪsk/",
+        "vi": "Nói công bằng thì người ta cũng thay đổi mà. Nhưng chuyện giữa cậu và ____ thôi nhé, tớ luôn nghĩ cậu ấy quá gắn bó với mức lương ổn định nên khó mà dám liều lớn vậy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "me", "explanationVi": "Cụm cố định 'between you and me' (= chuyện riêng giữa hai ta). Dùng tân ngữ 'me', KHÔNG dùng 'I' — đây là lỗi rất phổ biến. Xem phần Trạng từ & cụm từ." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's exactly what I thought! But she ____ been planning this for over a year, so maybe she's more prepared than we give her credit for.",
+        "ipa": "/ðæts ɪɡˈzækt.li wɒt aɪ θɔːt bʌt ʃiː həz əˈledʒ.ɪd.li biːn ˈplæn.ɪŋ ðɪs fɔːr ˈəʊ.vər ə jɪə səʊ ˈmeɪ.biː ʃiːz mɔː prɪˈpeəd ðæn wiː ɡɪv hɜː ˈkred.ɪt fɔː/",
+        "vi": "Đó đúng là điều tớ nghĩ! Nhưng nghe đồn cậu ấy đã lên kế hoạch chuyện này hơn một năm rồi, nên có khi cậu ấy chuẩn bị kỹ hơn ta tưởng đấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "has allegedly", "explanationVi": "Thì hiện tại hoàn thành tiếp diễn cần trợ động từ 'has' (chủ ngữ 'she'), kèm trạng từ rào đón 'allegedly' (= theo lời đồn). Trạng từ đứng giữa trợ động từ và động từ. Xem từ vựng 'allegedly'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I really hope it works out for her. Not only is starting a business stressful, ____ also incredibly risky, especially in this economy.",
+        "ipa": "/aɪ ˈrɪə.li həʊp ɪt wɜːks aʊt fɔː hɜː nɒt ˈəʊn.li ɪz ˈstɑː.tɪŋ ə ˈbɪz.nəs ˈstres.fəl bʌt ˈɔːl.səʊ ɪnˈkred.ɪ.bli ˈrɪs.ki ɪˈspeʃ.əl.i ɪn ðɪs ɪˈkɒn.ə.mi/",
+        "vi": "Tớ thật sự mong mọi chuyện suôn sẻ cho cậu ấy. Khởi nghiệp không những căng thẳng ____ còn cực kỳ rủi ro, nhất là trong tình hình kinh tế thế này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only... but also...'. Sau 'not only' đầu câu phải đảo ngữ ('is starting...'), và liên từ nối là 'but (also)'. Đây là cấu trúc nâng cao ăn điểm." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Definitely. Despite all the risks, ____, she's always been the most determined person I know, so I wouldn't bet against her.",
+        "ipa": "/ˈdef.ɪ.nət.li dɪˈspaɪt ɔːl ðə rɪsks ðəʊ ʃiːz ˈɔːl.weɪz biːn ðə məʊst dɪˈtɜː.mɪnd ˈpɜː.sən aɪ nəʊ səʊ aɪ ˈwʊd.ənt bet əˈɡenst hɜː/",
+        "vi": "Chắc chắn rồi. Dù có bao nhiêu rủi ro đi nữa ____, cậu ấy luôn là người quyết tâm nhất mà tớ biết, nên tớ sẽ không đặt cược là cậu ấy thất bại đâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "though", "explanationVi": "'though' đặt cuối/giữa câu mang nghĩa 'tuy vậy, dù sao' (= however), làm mềm câu. Khác 'although' chỉ đứng đầu mệnh đề. 'Despite' + danh từ đã có ở đầu câu." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Anyway, we probably shouldn't be discussing all this ____ her back. Let's promise to keep it to ourselves until she's ready to share it herself.",
+        "ipa": "/ˈen.i.weɪ wiː ˈprɒb.ə.bli ˈʃʊd.ənt biː dɪˈskʌs.ɪŋ ɔːl ðɪs bɪˈhaɪnd hɜː bæk lets ˈprɒm.ɪs tə kiːp ɪt tə aʊəˈselvz ənˈtɪl ʃiːz ˈred.i tə ʃeə ɪt hɜːˈself/",
+        "vi": "Mà thôi, có khi tụi mình không nên bàn tán hết mấy chuyện này ____ lưng cậu ấy. Hứa giữ kín cho riêng mình đến khi cậu ấy sẵn sàng tự kể nhé.",
+        "blanks": [
+          { "type": "knowledge", "answer": "behind", "explanationVi": "Cụm cố định 'behind someone's back' = sau lưng ai đó (làm/nói lén). Đây là cách rút lui có ý thức khỏi chuyện tám. Xem từ vựng 'behind someone's back'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Agreed. By the way, I'm meeting ____ this weekend, so I'll keep my mouth shut and just let her tell me everything in her own time.",
+        "ipa": "/əˈɡriːd baɪ ðə weɪ aɪm ˈmiː.tɪŋ ... ðɪs ˈwiːk.end səʊ aɪl kiːp maɪ maʊθ ʃʌt ænd dʒʌst let hɜː tel miː ˈev.ri.θɪŋ ɪn hɜː əʊn taɪm/",
+        "vi": "Nhất trí. Tiện thể, cuối tuần này tớ có hẹn gặp ____, nên tớ sẽ giữ mồm giữ miệng và để cậu ấy tự kể hết khi nào cậu ấy muốn.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên người bạn dự định gặp cuối tuần. Ví dụ: 'her', 'Huong', 'some old friends'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Tám chuyện (gossiping) trong văn hóa phương Tây là một phần tự nhiên của tình bạn và gắn kết xã hội, nhưng nói xấu sau lưng (behind someone's back) vẫn bị xem là kém tinh tế.",
+    "Người bản xứ thường rào đón bằng 'apparently', 'allegedly', 'supposedly' để tránh khẳng định chắc chắn về chuyện chưa kiểm chứng — vừa an toàn vừa lịch sự.",
+    "Cụm 'between you and me' hoặc 'don't tell anyone' báo hiệu thông tin nhạy cảm; nếu được dặn vậy, việc giữ kín được coi là chuẩn mực đạo đức của tình bạn.",
+    "Biết dừng đúng lúc ('Anyway, let's change the subject') được đánh giá cao hơn là người tám không có điểm dừng — thể hiện sự chín chắn và tôn trọng người vắng mặt."
+  ],
+
+  "commonMistakes": [
+    "Nói 'between you and I' — sai ngữ pháp. Sau giới từ 'between' phải dùng tân ngữ: 'between you and ME'.",
+    "Đặt 'although' và 'but' trong cùng một câu ('Although..., but...'). Tiếng Anh chỉ dùng MỘT trong hai, không dùng cả hai cùng lúc.",
+    "Nhầm 'discreet' (kín đáo) với 'discrete' (riêng rẽ) — phát âm giống nhau nhưng nghĩa và chính tả khác hẳn.",
+    "Quên đảo ngữ sau 'Not only' đầu câu: phải nói 'Not only IS starting a business stressful...', không phải 'Not only starting a business is...'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tám chuyện với bạn bè bằng tiếng Anh như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh, đang ngồi cà phê tám chuyện với tôi về một người bạn chung. Hãy bắt đầu bằng cách chia sẻ một tin sốt dẻo (juicy gossip) và hỏi ý kiến tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản ứng tự nhiên như một người bạn đang hào hứng tám chuyện, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các cách rào đón và cấu trúc như 'apparently', 'between you and me', 'I heard it from... who said that...', 'not only... but also...'. Thỉnh thoảng hãy thả một tin gây sốc để tôi tập phản ứng ngạc nhiên. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé!",
+    "advancedTips": [
+      "Thêm: 'Hãy nói nhanh và dùng nhiều tiếng lóng/đời thường (slang) hơn như người bản xứ trẻ.' khi bạn đã quen.",
+      "Thêm: 'Hãy đẩy tôi vào tình huống khó xử — ví dụ tôi vô tình tiết lộ bí mật — để tôi tập xử lý khéo léo bằng tiếng Anh.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được một cuộc tám chuyện bằng câu dài, gây tò mò mà không cần nhìn gợi ý.",
+    "Tôi dùng được các từ rào đón như 'apparently', 'allegedly', 'between you and me' đúng sắc thái.",
+    "Tôi biết phản ứng ngạc nhiên ('No way!') và rút lui khỏi chuyện tám một cách lịch sự khi cần."
+  ]
+}

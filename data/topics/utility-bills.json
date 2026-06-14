@@ -1,0 +1,333 @@
+{
+  "id": "utility-bills",
+  "category": "services",
+  "title": "Hóa đơn điện nước",
+  "titleEn": "Utility Bills",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "complaining", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gọi điện hoặc đến quầy để hỏi về hóa đơn điện nước của mình",
+    "Hỏi vì sao hóa đơn tháng này tăng cao và yêu cầu kiểm tra lại",
+    "Báo lỗi đồng hồ hoặc khiếu nại một khoản thu sai một cách lịch sự",
+    "Hỏi cách thanh toán, gia hạn hạn nộp và đăng ký thanh toán tự động",
+    "Dùng 'because / such as / although' để giải thích lý do khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "utility bill",
+      "ipa": "/juːˈtɪl.ə.ti bɪl/",
+      "vi": "hóa đơn dịch vụ tiện ích (điện, nước, gas) (danh từ)",
+      "register": "neutral",
+      "example": "My utility bills are usually higher in winter because of the heating.",
+      "exampleVi": "Hóa đơn điện nước của tôi thường cao hơn vào mùa đông vì phải sưởi.",
+      "note": "Danh từ. 'Utilities' (số nhiều) chỉ chung điện, nước, gas, internet. 'Bill' là tờ hóa đơn phải trả.",
+      "synonyms": [
+        { "term": "invoice", "ipa": "/ˈɪn.vɔɪs/", "register": "formal", "nuanceVi": "Trang trọng hơn, thường dùng cho hóa đơn giữa doanh nghiệp/dịch vụ chuyên nghiệp. 'Bill' đời thường hơn, hay dùng cho điện nước trong nhà." },
+        { "term": "statement", "ipa": "/ˈsteɪt.mənt/", "register": "neutral", "nuanceVi": "Nhấn vào 'bảng kê chi tiết các khoản'. Dùng nhiều cho ngân hàng/thẻ tín dụng, nhưng cũng gặp ở hóa đơn điện nước." }
+      ]
+    },
+    {
+      "term": "meter",
+      "ipa": "/ˈmiː.tər/",
+      "vi": "đồng hồ đo (điện/nước/gas) (danh từ)",
+      "register": "neutral",
+      "example": "Could you send someone to read the meter? I think it's faulty.",
+      "exampleVi": "Anh/chị có thể cử người đến đọc đồng hồ không? Tôi nghĩ nó bị lỗi.",
+      "note": "Danh từ. 'To read the meter' = đọc chỉ số đồng hồ. Đừng nhầm với 'metre' (đơn vị mét).",
+      "synonyms": [
+        { "term": "gauge", "ipa": "/ɡeɪdʒ/", "register": "neutral", "nuanceVi": "Cũng là 'đồng hồ đo' nhưng thiên về đo áp suất/mức (xăng, nước). Với điện nước trong nhà, 'meter' tự nhiên hơn nhiều." }
+      ]
+    },
+    {
+      "term": "overcharge",
+      "ipa": "/ˌəʊ.vəˈtʃɑːdʒ/",
+      "vi": "tính tiền quá mức, thu lố (động từ)",
+      "register": "neutral",
+      "example": "I believe I was overcharged on last month's bill.",
+      "exampleVi": "Tôi tin rằng hóa đơn tháng trước đã thu tôi quá tay.",
+      "note": "Động từ, thường ở thể bị động 'to be overcharged' (bị thu quá mức). Trái nghĩa: 'undercharge' (thu thiếu).",
+      "synonyms": [
+        { "term": "to bill incorrectly", "ipa": "/tə bɪl ˌɪn.kəˈrekt.li/", "register": "neutral", "nuanceVi": "Trung tính, nhẹ nhàng hơn — chỉ nói 'tính sai' chứ không khẳng định thu quá tay. Dùng khi muốn nói lịch sự, tránh đổ lỗi." }
+      ]
+    },
+    {
+      "term": "due date",
+      "ipa": "/ˈdjuː deɪt/",
+      "vi": "hạn nộp, ngày đến hạn (danh từ)",
+      "register": "neutral",
+      "example": "The due date for this bill is the fifteenth of the month.",
+      "exampleVi": "Hạn nộp của hóa đơn này là ngày 15 trong tháng.",
+      "note": "Danh từ. 'The bill is due on...' = hóa đơn đến hạn vào... 'Overdue' = quá hạn.",
+      "synonyms": [
+        { "term": "deadline", "ipa": "/ˈded.laɪn/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn 'thời hạn cuối'. Dùng được cho hóa đơn, nhưng 'due date' chuyên biệt và tự nhiên hơn khi nói về thanh toán." }
+      ]
+    },
+    {
+      "term": "to settle",
+      "ipa": "/ˈset.əl/",
+      "vi": "thanh toán (cho xong khoản nợ/hóa đơn) (động từ)",
+      "register": "neutral",
+      "example": "I'd like to settle the bill in full today.",
+      "exampleVi": "Tôi muốn thanh toán hết hóa đơn ngay hôm nay.",
+      "note": "Động từ, mang sắc thái 'trả cho dứt điểm, xong nợ'. 'Settle a bill' nghe chỉn chu hơn 'pay'.",
+      "synonyms": [
+        { "term": "to pay off", "ipa": "/tə peɪ ɒf/", "register": "neutral", "nuanceVi": "Nhấn vào việc trả cho HẾT một khoản nợ tích lũy. Gần nghĩa 'settle' nhưng thiên về xóa nợ dần đến hết." },
+        { "term": "to clear", "ipa": "/tə klɪər/", "register": "neutral", "nuanceVi": "Nghĩa 'trả cho sạch' (clear a balance/debt). Hơi đời thường, dùng khi muốn nói trả hết số còn nợ." }
+      ]
+    },
+    {
+      "term": "consumption",
+      "ipa": "/kənˈsʌmp.ʃən/",
+      "vi": "mức tiêu thụ (điện/nước/gas) (danh từ)",
+      "register": "formal",
+      "example": "My electricity consumption seems much higher than usual this month.",
+      "exampleVi": "Mức tiêu thụ điện của tôi tháng này có vẻ cao hơn bình thường nhiều.",
+      "note": "Danh từ, hơi trang trọng. Động từ: 'to consume' (tiêu thụ). Hay xuất hiện trên hóa đơn dưới dạng 'energy/water consumption'.",
+      "synonyms": [
+        { "term": "usage", "ipa": "/ˈjuː.sɪdʒ/", "register": "neutral", "nuanceVi": "Đời thường, dễ dùng hơn 'consumption': 'my water usage'. Nghĩa gần như y hệt, an toàn khi nói chuyện thường ngày." }
+      ]
+    },
+    {
+      "term": "estimated",
+      "ipa": "/ˈes.tɪ.meɪ.tɪd/",
+      "vi": "(số liệu) ước tính, áng chừng (tính từ)",
+      "register": "neutral",
+      "example": "This is only an estimated bill, not based on an actual meter reading.",
+      "exampleVi": "Đây chỉ là hóa đơn ước tính, không dựa trên chỉ số đồng hồ thực tế.",
+      "note": "Tính từ. Trên hóa đơn, 'estimated' nghĩa là công ty đoán mức dùng vì chưa đọc đồng hồ thật — đây là lý do thường gặp khiến hóa đơn tăng vọt.",
+      "synonyms": [
+        { "term": "approximate", "ipa": "/əˈprɒk.sɪ.mət/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'gần đúng, xấp xỉ'. Dùng cho con số nói chung; với hóa đơn thì 'estimated' chuyên biệt hơn." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, hỏng hóc (tính từ)",
+      "register": "neutral",
+      "example": "I think the meter is faulty because the reading keeps jumping.",
+      "exampleVi": "Tôi nghĩ đồng hồ bị lỗi vì chỉ số cứ nhảy lung tung.",
+      "note": "Tính từ, chỉ thiết bị 'không hoạt động đúng'. Hợp khi báo hỏng đồng hồ, thiết bị.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có khuyết tật ngay từ đầu/từ nhà sản xuất'. Hợp văn bản khiếu nại chính thức." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hỏng hẳn, không chạy'. 'Faulty' nhẹ hơn — vẫn chạy nhưng sai/chập chờn." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, kịp thời (trạng từ)",
+      "register": "neutral",
+      "example": "I always pay my bills promptly to avoid late fees.",
+      "exampleVi": "Tôi luôn trả hóa đơn kịp thời để tránh phí trễ hạn.",
+      "note": "Trạng từ, nhấn 'đúng lúc, không chậm trễ'. Khác 'quickly' (nhanh về tốc độ) — 'promptly' nhấn đúng thời điểm.",
+      "synonyms": [
+        { "term": "on time", "ipa": "/ɒn taɪm/", "register": "neutral", "nuanceVi": "Cụm đơn giản, đời thường: 'pay on time'. Nghĩa 'đúng hạn', dễ dùng hơn 'promptly'." },
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, không chần chừ'. Gấp hơn 'promptly' (vốn chỉ cần đúng lúc, không nhất thiết tức thì)." }
+      ]
+    },
+    {
+      "term": "refund",
+      "ipa": "/ˈriː.fʌnd/",
+      "vi": "khoản hoàn tiền (danh từ); hoàn tiền (động từ)",
+      "register": "neutral",
+      "example": "If I was overcharged, I'd like a refund, please.",
+      "exampleVi": "Nếu tôi bị thu quá tay, tôi muốn được hoàn tiền.",
+      "note": "Danh từ nhấn 'RE-fund', động từ nhấn 're-FUND'. 'A refund' = tiền trả lại; 'to refund' = hoàn lại tiền.",
+      "synonyms": [
+        { "term": "reimbursement", "ipa": "/ˌriː.ɪmˈbɜːs.mənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'bồi hoàn khoản đã chi'. Hay dùng công sở/bảo hiểm; với hóa đơn điện nước thì 'refund' tự nhiên hơn." },
+        { "term": "credit", "ipa": "/ˈkred.ɪt/", "register": "neutral", "nuanceVi": "Nghĩa 'khoản ghi có, trừ vào hóa đơn sau' chứ không trả tiền mặt. Công ty điện nước hay 'credit' vào kỳ tới thay vì 'refund'." }
+      ]
+    },
+    {
+      "term": "direct debit",
+      "ipa": "/dəˌrekt ˈdeb.ɪt/",
+      "vi": "thanh toán tự động trừ từ tài khoản ngân hàng (danh từ)",
+      "register": "neutral",
+      "example": "You can set up a direct debit so the bill is paid automatically each month.",
+      "exampleVi": "Bạn có thể đăng ký trừ tự động để hóa đơn được trả mỗi tháng.",
+      "note": "Danh từ. 'Set up a direct debit' = đăng ký trừ tự động. Anh-Mỹ cũng nói 'autopay / automatic payment'.",
+      "synonyms": [
+        { "term": "autopay", "ipa": "/ˈɔː.təʊ.peɪ/", "register": "casual", "nuanceVi": "Cách nói Mỹ, đời thường, gọn. Nghĩa giống 'direct debit' (Anh-Anh). Dùng cái nào người ta cũng hiểu." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling about my [loại] bill, which seems [tính từ] this month.",
+      "use": "Mở đầu cuộc gọi, nêu lý do và vấn đề ngay trong một câu.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling about my electricity bill, which seems much higher than usual this month.",
+        "I'm calling about my water bill, which looks incorrect this month."
+      ],
+      "explanationVi": "'which' là mệnh đề quan hệ nối thêm thông tin về 'bill'. Gộp lý do gọi + vấn đề vào một câu nghe mạch lạc, chuyên nghiệp hơn nói cụt từng câu."
+    },
+    {
+      "pattern": "Could you tell me why [mệnh đề], please?",
+      "use": "Hỏi nguyên nhân một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me why my bill has gone up so much, please?",
+        "Could you tell me why I was charged twice this month, please?"
+      ],
+      "explanationVi": "'Could you tell me why...' là câu hỏi gián tiếp, lịch sự hơn 'Why is my bill so high?'. Lưu ý: sau 'why' dùng trật tự câu kể (chủ ngữ + động từ), KHÔNG đảo ngữ.",
+      "altOf": "asking-reason"
+    },
+    {
+      "pattern": "I'd like to know the reason for [danh từ].",
+      "use": "Yêu cầu được biết lý do, trung tính và chỉn chu.",
+      "register": "formal",
+      "examples": [
+        "I'd like to know the reason for this extra charge.",
+        "I'd like to know the reason for the increase in my bill."
+      ],
+      "explanationVi": "'the reason for + danh từ' (luôn đi với giới từ 'for'). Cách hỏi này điềm tĩnh, hợp khi khiếu nại mà vẫn muốn giữ lịch sự.",
+      "altOf": "asking-reason"
+    },
+    {
+      "pattern": "I think there may be a mistake, because [mệnh đề].",
+      "use": "Báo nghi ngờ có sai sót mà không buộc tội gay gắt.",
+      "register": "neutral",
+      "examples": [
+        "I think there may be a mistake, because my usage hasn't changed at all.",
+        "I think there may be a mistake, because I was away for two weeks last month."
+      ],
+      "explanationVi": "'may be' (có thể) làm câu nhẹ nhàng, lịch sự — bạn nghi ngờ chứ không khẳng định họ sai. 'because' dẫn lý do, rất hợp trình độ B1."
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể]?",
+      "use": "Đề nghị một việc tế nhị (gia hạn, chia nhỏ khoản trả, cử người kiểm tra).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to extend the due date by a week?",
+        "Would it be possible to send someone to check the meter?"
+      ],
+      "explanationVi": "Đây là cách đề nghị lịch sự bậc cao, dùng khi xin một đặc ân mà bên kia có quyền từ chối. Nghe rất nhã, dễ được giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể], please?",
+      "use": "Xin phép hoặc yêu cầu điều gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I pay in two installments, please?",
+        "Could I set up a direct debit for next month, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?', rất hợp khi nói với nhân viên dịch vụ. Dùng cho việc bạn cần họ cho phép/làm giúp.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I paid that bill last week." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một câu nói chân thành, hơi tế nhị (khi than phiền).", "example": "To be honest, I was quite surprised by how high the bill was." },
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "nghe nói là / có vẻ như", "when": "Khi nêu thông tin bạn nghe được nhưng chưa chắc chắn.", "example": "Apparently, the bill was based on an estimated reading, not the real one." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt sau vấn đề.", "example": "Fortunately, they agreed to correct the bill straight away." },
+    { "term": "in that case", "ipa": "/ɪn ðæt keɪs/", "vi": "nếu vậy thì / trong trường hợp đó", "when": "Khi đưa ra quyết định dựa trên điều vừa nghe.", "example": "In that case, I'd like to set up a direct debit." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gọi điện cho tổng đài công ty điện vì hóa đơn tháng này cao bất thường. Nhân viên chăm sóc khách hàng tiếp nhận và xử lý.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning, City Power customer service. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ ˈsɪt.i ˈpaʊ.ər ˈkʌs.tə.mər ˈsɜː.vɪs haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, bộ phận chăm sóc khách hàng City Power. Tôi có thể giúp gì cho quý khách hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm calling about my electricity bill, ____ seems much higher than usual this month. To be honest, I was quite surprised when I saw the total.",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ aɪm ˈkɔː.lɪŋ əˈbaʊt maɪ ɪˌlekˈtrɪs.ə.ti bɪl ... siːmz mʌtʃ ˈhaɪ.ər ðæn ˈjuː.ʒu.əl ðɪs mʌnθ tə biː ˈɒn.ɪst aɪ wɒz kwaɪt səˈpraɪzd wen aɪ sɔː ðə ˈtəʊ.təl/",
+        "vi": "Chào buổi sáng. Tôi gọi về hóa đơn điện của mình, ____ tháng này có vẻ cao hơn bình thường nhiều. Thành thật mà nói, tôi khá bất ngờ khi thấy tổng tiền.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'my electricity bill' (vật) để nối thêm thông tin. Nếu là người thì dùng 'who'. Xem mẫu câu 'I'm calling about my... bill, which seems...'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm sorry to hear that. Could you give me your account number so that I can look into it for you?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt kʊd juː ɡɪv miː jɔːr əˈkaʊnt ˈnʌm.bər səʊ ðæt aɪ kæn lʊk ˈɪn.tuː ɪt fɔːr juː/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Quý khách cho tôi xin số tài khoản để tôi kiểm tra giúp được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. It's ____. Could you tell me why my bill ____ gone up so much, please? My usage hasn't really changed.",
+        "ipa": "/ɒv kɔːs ɪts ... kʊd juː tel miː waɪ maɪ bɪl ... ɡɒn ʌp səʊ mʌtʃ pliːz maɪ ˈjuː.sɪdʒ ˈhæz.ənt ˈrɪə.li tʃeɪndʒd/",
+        "vi": "Tất nhiên rồi. Số là ____. Anh/chị cho tôi biết vì sao hóa đơn của tôi ____ tăng nhiều thế không? Mức dùng của tôi gần như không đổi.",
+        "blanks": [
+          { "type": "personal", "hint": "Số tài khoản khách hàng của bạn. Ví dụ: 'four-five-six-seven'." },
+          { "type": "knowledge", "answer": "has", "explanationVi": "Thì hiện tại hoàn thành: 'why my bill HAS gone up' (tăng lên và còn ảnh hưởng đến giờ). Sau 'why' dùng trật tự câu kể, không đảo ngữ. Xem mẫu 'Could you tell me why..., please?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me check... Ah, I see. Although your usage is similar, last month's bill was based on an estimated reading, not an actual one. Apparently, our meter reader couldn't access your property.",
+        "ipa": "/let miː tʃek ɑː aɪ siː ɔːlˈðəʊ jɔːr ˈjuː.sɪdʒ ɪz ˈsɪm.ɪ.lər lɑːst mʌnθs bɪl wɒz beɪst ɒn ən ˈes.tɪ.meɪ.tɪd ˈriː.dɪŋ nɒt ən ˈæk.tʃu.əl wʌn əˈpær.ənt.li ˈaʊə ˈmiː.tər ˈriː.dər ˈkʊd.ənt ˈæk.ses jɔːr ˈprɒp.ə.ti/",
+        "vi": "Để tôi kiểm tra... À, tôi hiểu rồi. Mặc dù mức dùng của quý khách tương tự, hóa đơn tháng trước lại dựa trên chỉ số ước tính, không phải chỉ số thực. Có vẻ như nhân viên đọc đồng hồ của chúng tôi không vào được nhà quý khách."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Ah, that explains it. I think there may be a mistake, ____ I was actually away for two weeks last month. Would it be possible to send someone to read the meter properly?",
+        "ipa": "/ɑː ðæt ɪkˈspleɪnz ɪt aɪ θɪŋk ðeə meɪ biː ə mɪˈsteɪk ... aɪ wɒz ˈæk.tʃu.ə.li əˈweɪ fɔːr tuː wiːks lɑːst mʌnθ wʊd ɪt biː ˈpɒs.ə.bəl tə send ˈsʌm.wʌn tə riːd ðə ˈmiː.tər ˈprɒp.ə.li/",
+        "vi": "À, thì ra là vậy. Tôi nghĩ có thể có nhầm lẫn, ____ thật ra tháng trước tôi đi vắng hai tuần. Anh/chị có thể cử người đến đọc đồng hồ cho chính xác không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do tại sao bạn nghĩ có nhầm lẫn (bạn đi vắng nên không thể dùng nhiều điện). Xem mẫu 'I think there may be a mistake, because...'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Certainly. I'll arrange a meter reading this week, and if the actual figure is lower, we'll either issue a refund or credit the difference to your next bill.",
+        "ipa": "/ˈsɜː.tən.li aɪl əˈreɪndʒ ə ˈmiː.tər ˈriː.dɪŋ ðɪs wiːk ænd ɪf ðə ˈæk.tʃu.əl ˈfɪɡ.ər ɪz ˈləʊ.ər wiːl ˈaɪ.ðər ˈɪʃ.uː ə ˈriː.fʌnd ɔːr ˈkred.ɪt ðə ˈdɪf.ər.əns tə jɔːr nekst bɪl/",
+        "vi": "Chắc chắn rồi ạ. Tôi sẽ sắp xếp đọc đồng hồ trong tuần này, và nếu chỉ số thực thấp hơn, chúng tôi sẽ hoặc hoàn tiền hoặc ghi có phần chênh lệch vào hóa đơn kỳ sau cho quý khách."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds fair. In that case, could I also ____ up a direct debit, so that I don't miss the due date in future? I'd like to pay everything promptly from now on.",
+        "ipa": "/ðæt saʊndz feə ɪn ðæt keɪs kʊd aɪ ˈɔːl.səʊ ... ʌp ə dəˌrekt ˈdeb.ɪt səʊ ðæt aɪ dəʊnt mɪs ðə ˈdjuː deɪt ɪn ˈfjuː.tʃər aɪd laɪk tə peɪ ˈev.ri.θɪŋ ˈprɒmpt.li frɒm naʊ ɒn/",
+        "vi": "Nghe hợp lý đấy. Nếu vậy, tôi đăng ký luôn ____ trừ tự động được không, để sau này không bị trễ hạn? Tôi muốn trả mọi thứ kịp thời từ giờ trở đi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "set", "explanationVi": "Cụm động từ 'set up a direct debit' = đăng ký trừ tự động. Sau 'Could I' dùng động từ nguyên thể 'set'. Xem mẫu 'Could I..., please?' và từ vựng 'direct debit'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely. I'll send you the direct debit form by email today, and once it's set up, your bills will be paid automatically each month. Is there anything else I can help you with?",
+        "ipa": "/ˌæb.səˈluːt.li aɪl send juː ðə dəˌrekt ˈdeb.ɪt fɔːm baɪ ˈiː.meɪl təˈdeɪ ænd wʌns ɪts set ʌp jɔːr bɪlz wɪl biː peɪd ˌɔː.təˈmæt.ɪk.li iːtʃ mʌnθ ɪz ðeər ˈen.i.θɪŋ els aɪ kæn help juː wɪð/",
+        "vi": "Chắc chắn ạ. Tôi sẽ gửi quý khách mẫu đăng ký trừ tự động qua email hôm nay, và một khi đã thiết lập xong, hóa đơn của quý khách sẽ được trả tự động mỗi tháng. Quý khách còn cần tôi giúp gì nữa không ạ?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, hóa đơn 'estimated' (ước tính) rất phổ biến khi nhân viên không đọc được đồng hồ — họ đoán mức dùng, nên hóa đơn có thể cao/thấp bất thường rồi điều chỉnh kỳ sau.",
+    "Nhiều công ty cho phép tự gửi chỉ số đồng hồ ('submit a meter reading') qua app/website để tránh bị tính ước tính.",
+    "Khi khiếu nại, người bản xứ thường giữ giọng điềm tĩnh, lịch sự và xin 'account number' sẵn sàng — to tiếng hiếm khi giúp giải quyết nhanh hơn.",
+    "'Direct debit' (Anh-Anh) hay 'autopay' (Anh-Mỹ) rất được khuyến khích vì giúp tránh phí trễ hạn ('late fee')."
+  ],
+
+  "commonMistakes": [
+    "Đảo ngữ sai trong câu hỏi gián tiếp: phải nói 'Could you tell me why my bill HAS gone up?' (trật tự câu kể), KHÔNG phải 'why has my bill gone up?'.",
+    "Quên giới từ 'for' sau 'reason': luôn là 'the reason FOR the charge', không phải 'the reason of'.",
+    "Nói 'I want to know why...' nghe cộc và đòi hỏi. Dùng 'Could you tell me why...?' hoặc 'I'd like to know...' cho lịch sự.",
+    "Nhầm 'estimated' (ước tính) với 'estimate' — trên hóa đơn là tính từ 'an estimated reading', còn 'an estimate' là danh từ (bản dự toán)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi điện hỏi/khiếu nại hóa đơn như thật.",
+    "prompt": "Hãy đóng vai một nhân viên chăm sóc khách hàng của công ty điện nước nói tiếng Anh. Tôi là khách hàng gọi điện vì hóa đơn tháng này cao bất thường. Hãy bắt đầu bằng cách chào và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ: hóa đơn dựa trên chỉ số ước tính, đồng hồ bị lỗi, hoặc tôi đã quá hạn nộp) để tôi tập xử lý. Khuyến khích tôi dùng câu dài với 'because', 'such as', 'although'. Nói chậm rãi, lịch sự. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai nhân viên hơi khó tính, ban đầu từ chối hoàn tiền, để tôi tập thuyết phục lịch sự.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được lý do gọi và vấn đề trong một câu có mệnh đề quan hệ 'which', không cần nhìn gợi ý.",
+    "Tôi hỏi được nguyên nhân một cách lịch sự bằng 'Could you tell me why...?' (không đảo ngữ).",
+    "Tôi đề nghị được kiểm tra đồng hồ / gia hạn / đăng ký trừ tự động bằng 'Would it be possible to...?' hoặc 'Could I...?'."
+  ]
+}

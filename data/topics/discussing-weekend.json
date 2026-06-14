@@ -1,0 +1,343 @@
+{
+  "id": "discussing-weekend",
+  "category": "friends",
+  "title": "Kể chuyện cuối tuần",
+  "titleEn": "Talking About Your Weekend",
+  "level": "B1",
+  "functions": ["small-talk", "describing", "opinions", "suggesting"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi và kể về việc bạn đã làm vào cuối tuần một cách tự nhiên",
+    "Mô tả cảm xúc và đánh giá một trải nghiệm (vui, mệt, đáng nhớ)",
+    "Dùng thì quá khứ đơn và 'because / so / such as' để kể chuyện mạch lạc",
+    "Đề xuất một kế hoạch đi chơi cho cuối tuần tới"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to relax",
+      "ipa": "/rɪˈlæks/",
+      "vi": "thư giãn, nghỉ ngơi (động từ)",
+      "register": "neutral",
+      "example": "I just stayed home to relax after a busy week.",
+      "exampleVi": "Tôi chỉ ở nhà nghỉ ngơi sau một tuần bận rộn.",
+      "note": "Động từ. Cụm hay dùng: 'relax at home', 'just relax'. Danh từ là 'relaxation'.",
+      "synonyms": [
+        { "term": "to chill", "ipa": "/tʃɪl/", "register": "casual", "nuanceVi": "Rất đời thường, hợp khi nói chuyện với bạn bè. 'chill out' = nghỉ ngơi thoải mái, không làm gì căng thẳng." },
+        { "term": "to unwind", "ipa": "/ˌʌnˈwaɪnd/", "register": "neutral", "nuanceVi": "Nhấn ý 'gỡ bỏ căng thẳng, thả lỏng đầu óc' sau khi mệt mỏi; nghe hơi tinh tế hơn 'relax'." }
+      ]
+    },
+    {
+      "term": "to hang out",
+      "ipa": "/hæŋ aʊt/",
+      "vi": "đi chơi, tụ tập (cụm động từ)",
+      "register": "casual",
+      "example": "We hung out at a café and chatted for hours.",
+      "exampleVi": "Bọn tôi tụ tập ở quán cà phê và tán gẫu hàng giờ.",
+      "note": "Cụm động từ thân mật, đi với 'with somebody'. Quá khứ: 'hung out' (không phải 'hanged').",
+      "synonyms": [
+        { "term": "to get together", "ipa": "/ɡet təˈɡeð.ər/", "register": "neutral", "nuanceVi": "Trung tính hơn, nhấn việc 'gặp gỡ tụ họp', hợp cho cả gia đình lẫn bạn bè." },
+        { "term": "to meet up", "ipa": "/miːt ʌp/", "register": "neutral", "nuanceVi": "Nhấn việc 'hẹn gặp nhau', thường có sắp xếp trước; nhẹ hơn 'hang out' (vốn nhấn cả việc ở bên nhau lâu)." }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "vi": "kiệt sức, mệt lử (tính từ)",
+      "register": "neutral",
+      "example": "After the hike, I was completely exhausted.",
+      "exampleVi": "Sau chuyến leo núi, tôi kiệt sức hoàn toàn.",
+      "note": "Tính từ mạnh hơn 'tired' rất nhiều. Đi với trạng từ 'completely / absolutely', KHÔNG dùng 'very exhausted'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːrn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt rã rời'. Hợp khi than thở với bạn bè." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn 'cạn hết năng lượng, kể cả tinh thần'. Dùng khi mệt cả về cảm xúc, không chỉ thể chất." }
+      ]
+    },
+    {
+      "term": "enjoyable",
+      "ipa": "/ɪnˈdʒɔɪ.ə.bəl/",
+      "vi": "thú vị, đem lại niềm vui (tính từ)",
+      "register": "neutral",
+      "example": "It was a really enjoyable afternoon by the lake.",
+      "exampleVi": "Đó là một buổi chiều thật thú vị bên hồ.",
+      "note": "Tính từ mô tả trải nghiệm mang lại sự thích thú. Khác 'enjoyed' (động từ, chỉ hành động).",
+      "synonyms": [
+        { "term": "lovely", "ipa": "/ˈlʌv.li/", "register": "casual", "nuanceVi": "Ấm áp, thân mật; người Anh dùng rất nhiều để khen một buổi đi chơi/bữa ăn 'dễ chịu, đáng yêu'." },
+        { "term": "delightful", "ipa": "/dɪˈlaɪt.fəl/", "register": "formal", "nuanceVi": "Trang trọng và biểu cảm mạnh hơn, nghĩa 'tuyệt vời, làm vui lòng'. Dùng khi muốn khen nhấn mạnh." },
+        { "term": "fun", "ipa": "/fʌn/", "register": "casual", "nuanceVi": "Đơn giản, đời thường nhất: 'It was so fun.' An toàn khi nói với bạn bè." }
+      ]
+    },
+    {
+      "term": "to come up",
+      "ipa": "/kʌm ʌp/",
+      "vi": "(việc gì đó) bất ngờ xảy đến (cụm động từ)",
+      "register": "neutral",
+      "example": "Something came up at the last minute, so I had to cancel.",
+      "exampleVi": "Có việc đột xuất nên tôi đành phải hủy.",
+      "note": "Cụm động từ rất hữu ích để giải thích vì sao kế hoạch thay đổi. 'something came up' = có việc phát sinh.",
+      "synonyms": [
+        { "term": "to crop up", "ipa": "/krɒp ʌp/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn việc 'bất chợt nảy sinh'. Hơi ít gặp hơn 'come up'." }
+      ]
+    },
+    {
+      "term": "errand",
+      "ipa": "/ˈer.ənd/",
+      "vi": "việc vặt phải ra ngoài làm (danh từ)",
+      "register": "neutral",
+      "example": "I spent Saturday morning running errands around town.",
+      "exampleVi": "Sáng thứ Bảy tôi chạy việc vặt khắp thị trấn.",
+      "note": "Danh từ, thường dùng số nhiều với động từ 'run errands' (đi làm các việc vặt như mua đồ, ra ngân hàng).",
+      "synonyms": [
+        { "term": "chore", "ipa": "/tʃɔːr/", "register": "neutral", "nuanceVi": "Nhấn 'việc nhà lặt vặt' (rửa bát, lau nhà), thường làm tại nhà; còn 'errand' thường phải ra ngoài." }
+      ]
+    },
+    {
+      "term": "weekend getaway",
+      "ipa": "/ˈwiːk.end ˈɡet.ə.weɪ/",
+      "vi": "chuyến đi chơi ngắn cuối tuần (danh từ)",
+      "register": "neutral",
+      "example": "We booked a short weekend getaway to the coast.",
+      "exampleVi": "Bọn tôi đặt một chuyến đi chơi ngắn cuối tuần ra biển.",
+      "note": "Danh từ. 'getaway' = kỳ nghỉ ngắn để thoát khỏi cuộc sống thường ngày, thường 1-2 đêm.",
+      "synonyms": [
+        { "term": "short break", "ipa": "/ʃɔːrt breɪk/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến ở Anh, nhấn 'kỳ nghỉ ngắn'. Gần nghĩa nhưng không gợi cảm giác 'trốn đi' như getaway." }
+      ]
+    },
+    {
+      "term": "eventually",
+      "ipa": "/ɪˈven.tʃu.ə.li/",
+      "vi": "rốt cuộc, cuối cùng thì (trạng từ)",
+      "register": "neutral",
+      "example": "We got lost for a while, but eventually we found the trail.",
+      "exampleVi": "Bọn tôi lạc một lúc, nhưng rốt cuộc cũng tìm ra đường mòn.",
+      "note": "Trạng từ chỉ kết quả sau một quá trình. Đừng nhầm với 'finally' (cuối cùng trong danh sách).",
+      "synonyms": [
+        { "term": "in the end", "ipa": "/ɪn ði end/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng khi kể chuyện: 'In the end, we just stayed home.'" }
+      ]
+    },
+    {
+      "term": "barely",
+      "ipa": "/ˈbeə.li/",
+      "vi": "hầu như không, vừa đủ (trạng từ)",
+      "register": "neutral",
+      "example": "I was so busy that I barely had time to rest.",
+      "exampleVi": "Tôi bận đến mức gần như không có thời gian nghỉ.",
+      "note": "Trạng từ mang nghĩa phủ định nhẹ ('hầu như không'). Đứng trước động từ chính: 'I barely slept.'",
+      "synonyms": [
+        { "term": "hardly", "ipa": "/ˈhɑːrd.li/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa với 'barely'. Cả hai đều mang sắc thái phủ định: 'I hardly slept.'" }
+      ]
+    },
+    {
+      "term": "to catch up on",
+      "ipa": "/kætʃ ʌp ɒn/",
+      "vi": "bù lại, làm cho kịp (việc còn dang dở) (cụm động từ)",
+      "register": "neutral",
+      "example": "I used Sunday to catch up on some sleep and housework.",
+      "exampleVi": "Tôi dùng Chủ nhật để ngủ bù và làm cho kịp việc nhà.",
+      "note": "Cụm 'catch up ON something' = làm bù việc bị tụt lại. Khác 'catch up WITH somebody' = gặp lại để cập nhật tin tức.",
+      "synonyms": [
+        { "term": "to make up for", "ipa": "/meɪk ʌp fɔːr/", "register": "neutral", "nuanceVi": "Nhấn 'đền bù, bù đắp' cho điều đã thiếu/mất; rộng hơn 'catch up on' (vốn thiên về làm cho kịp tiến độ)." }
+      ]
+    },
+    {
+      "term": "memorable",
+      "ipa": "/ˈmem.ər.ə.bəl/",
+      "vi": "đáng nhớ (tính từ)",
+      "register": "neutral",
+      "example": "It turned out to be a really memorable trip.",
+      "exampleVi": "Hóa ra đó lại là một chuyến đi thật đáng nhớ.",
+      "note": "Tính từ, nhấn trọng âm âm đầu 'MEM'. Khác 'memorial' (thuộc về tưởng niệm).",
+      "synonyms": [
+        { "term": "unforgettable", "ipa": "/ˌʌn.fəˈɡet.ə.bəl/", "register": "neutral", "nuanceVi": "Mạnh hơn, nhấn 'không thể nào quên'. Dùng cho trải nghiệm đặc biệt sâu đậm." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What did you get up to [at the weekend / last weekend]?",
+      "use": "Hỏi ai đó đã làm gì vào cuối tuần một cách thân mật.",
+      "register": "casual",
+      "examples": [
+        "Hey, what did you get up to at the weekend?",
+        "So, what did you get up to last weekend?"
+      ],
+      "explanationVi": "'get up to' = làm gì đó (thường mang sắc thái tò mò, thân mật). Cách hỏi rất tự nhiên của người bản xứ, nghe sống động hơn 'What did you do?'.",
+      "altOf": "asking-about-weekend"
+    },
+    {
+      "pattern": "How was your weekend?",
+      "use": "Hỏi thăm cuối tuần một cách ngắn gọn, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Morning! How was your weekend?",
+        "How was your weekend, by the way?"
+      ],
+      "explanationVi": "Câu xã giao kinh điển sáng thứ Hai. An toàn, dùng được với cả đồng nghiệp lẫn bạn bè. Trả lời thường bắt đầu bằng 'It was...'.",
+      "altOf": "asking-about-weekend"
+    },
+    {
+      "pattern": "I spent the weekend + [V-ing].",
+      "use": "Tóm tắt việc chính bạn đã làm cuối tuần.",
+      "register": "neutral",
+      "examples": [
+        "I spent the weekend relaxing at home.",
+        "I spent the weekend visiting my grandparents."
+      ],
+      "explanationVi": "'spend + thời gian + V-ing' = dành thời gian làm gì. Cấu trúc cốt lõi để kể cuối tuần; nhớ động từ phải ở dạng V-ing."
+    },
+    {
+      "pattern": "It was [tính từ] because [mệnh đề].",
+      "use": "Đánh giá trải nghiệm kèm lý do, làm câu kể có chiều sâu.",
+      "register": "neutral",
+      "examples": [
+        "It was exhausting because we walked nearly twenty kilometres.",
+        "It was really enjoyable because the weather was perfect."
+      ],
+      "explanationVi": "Ở B1, dùng 'because' để thêm lý do giúp câu kể dài và thuyết phục hơn, thay vì chỉ nói 'It was good.' cộc lốc."
+    },
+    {
+      "pattern": "We did a few things, such as [ví dụ] and [ví dụ].",
+      "use": "Liệt kê vài hoạt động cụ thể bằng ví dụ minh họa.",
+      "register": "neutral",
+      "examples": [
+        "We did a few things, such as cooking together and watching a film.",
+        "I tried lots of things, such as kayaking and cycling."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ. Nêu hoạt động cụ thể luôn sinh động hơn nói chung chung 'we did many things'."
+    },
+    {
+      "pattern": "Although [mệnh đề], I really [V].",
+      "use": "Kể một trải nghiệm có mặt trái nhưng vẫn tích cực.",
+      "register": "neutral",
+      "examples": [
+        "Although it rained all day, I really enjoyed the trip.",
+        "Although I was tired, I really had a great time."
+      ],
+      "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ. Mẫu này giúp bạn kể chuyện có 'twist', nghe trưởng thành và tự nhiên hơn."
+    },
+    {
+      "pattern": "How about + [V-ing / danh từ] this weekend?",
+      "use": "Đề xuất một kế hoạch cho cuối tuần tới.",
+      "register": "casual",
+      "examples": [
+        "How about going to the beach this weekend?",
+        "How about a picnic in the park this weekend?"
+      ],
+      "explanationVi": "'How about + V-ing' là cách gợi ý thân thiện, nhẹ nhàng. Nhớ dùng V-ing chứ không phải động từ nguyên thể.",
+      "altOf": "making-suggestion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc nói điều hơi bất ngờ so với mong đợi.", "example": "Actually, I just stayed in and did nothing." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời thú nhận chân thành về cảm xúc của mình.", "example": "Honestly, I was too tired to go out at all." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt sau một trục trặc.", "example": "Fortunately, the rain stopped just before the picnic." },
+    { "term": "pretty much", "ipa": "/ˈprɪt.i mʌtʃ/", "vi": "gần như là, đại khái", "when": "Khi muốn nói 'phần lớn' một cách thoải mái, đời thường.", "example": "I pretty much spent the whole weekend sleeping." },
+    { "term": "in the end", "ipa": "/ɪn ði end/", "vi": "rốt cuộc thì", "when": "Khi kể kết quả cuối cùng sau khi kế hoạch thay đổi.", "example": "In the end, we just ordered pizza and stayed home." }
+  ],
+
+  "dialogue": {
+    "context": "Sáng thứ Hai, hai người bạn (Mai và Tom) gặp nhau và kể cho nhau nghe về cuối tuần vừa rồi, rồi rủ nhau đi chơi cuối tuần tới.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "Morning, Mai! You look really relaxed today. So, what did you ____ up to at the weekend?",
+        "ipa": "/ˈmɔːr.nɪŋ maɪ juː lʊk ˈrɪə.li rɪˈlækst təˈdeɪ səʊ wɒt dɪd juː ʌp tə ət ðə ˈwiːk.end/",
+        "vi": "Chào buổi sáng, Mai! Hôm nay trông cậu thư thái ghê. Thế cuối tuần cậu đã làm những gì?",
+        "blanks": [
+          { "type": "knowledge", "answer": "get", "explanationVi": "Cụm 'get up to' = làm gì đó (cách hỏi thân mật, tò mò). Xem mẫu câu 'What did you get up to at the weekend?'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Morning! Honestly, I spent most of it ____ at home because I was completely exhausted after such a long week at work.",
+        "ipa": "/ˈmɔːr.nɪŋ ˈɒn.ɪst.li aɪ spent məʊst ɒv ɪt ət həʊm bɪˈkɒz aɪ wɒz kəmˈpliːt.li ɪɡˈzɔːs.tɪd ˈɑːf.tər sʌtʃ ə lɒŋ wiːk ət wɜːk/",
+        "vi": "Chào cậu! Thành thật mà nói, tớ dành phần lớn cuối tuần để ____ ở nhà vì tớ kiệt sức sau một tuần làm việc dài đằng đẵng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "relaxing", "explanationVi": "Sau 'spent ... it' phải dùng V-ing: 'spend + thời gian + V-ing'. Xem mẫu câu 'I spent the weekend + V-ing'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "I don't blame you at all. I did a few things, such as ____ and meeting some old friends, although I barely had any time to rest.",
+        "ipa": "/aɪ dəʊnt bleɪm juː ət ɔːl aɪ dɪd ə fjuː θɪŋz sʌtʃ æz ænd ˈmiː.tɪŋ sʌm əʊld frendz ɔːlˈðəʊ aɪ ˈbeə.li hæd ˈen.i taɪm tə rest/",
+        "vi": "Tớ chẳng trách cậu chút nào. Tớ thì làm vài thứ, chẳng hạn như ____ và gặp vài người bạn cũ, mặc dù gần như chẳng có thời gian nghỉ.",
+        "blanks": [
+          { "type": "personal", "hint": "Một hoạt động bạn làm cuối tuần, dạng V-ing. Ví dụ: 'going shopping', 'cooking'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That sounds busy! By the way, my sister, ____ lives near the coast, invited me to visit her next weekend for a short getaway.",
+        "ipa": "/ðæt saʊndz ˈbɪz.i baɪ ðə weɪ maɪ ˈsɪs.tər lɪvz nɪər ðə kəʊst ɪnˈvaɪ.tɪd miː tə ˈvɪz.ɪt hɜːr nekst ˈwiːk.end fɔːr ə ʃɔːrt ˈɡet.ə.weɪ/",
+        "vi": "Nghe bận rộn ghê! Tiện thể, chị gái tớ, ____ sống gần biển, đã mời tớ đến chơi cuối tuần tới cho một chuyến đi chơi ngắn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì 'my sister' là người. Nếu là vật/nơi chốn thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Wow, that sounds lovely! Although I'd planned to catch up ____ some housework, I'd much rather come along if there's room.",
+        "ipa": "/waʊ ðæt saʊndz ˈlʌv.li ɔːlˈðəʊ aɪd plænd tə kætʃ ʌp sʌm ˈhaʊs.wɜːk aɪd mʌtʃ ˈrɑː.ðər kʌm əˈlɒŋ ɪf ðeəz ruːm/",
+        "vi": "Ồ, nghe tuyệt thật đấy! Mặc dù tớ định bù lại một số việc nhà, tớ thà đi cùng còn hơn nếu còn chỗ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "on", "explanationVi": "Cụm 'catch up ON something' = làm bù việc còn dang dở. Khác 'catch up WITH somebody' (gặp lại để hỏi thăm)." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Of course there's room! It should be really ____ because we can go hiking, try fresh seafood, and just relax by the sea.",
+        "ipa": "/ɒv kɔːs ðeəz ruːm ɪt ʃʊd biː ˈrɪə.li bɪˈkɒz wiː kæn ɡəʊ ˈhaɪ.kɪŋ traɪ freʃ ˈsiː.fuːd ænd dʒʌst rɪˈlæks baɪ ðə siː/",
+        "vi": "Tất nhiên là còn chỗ! Chắc sẽ rất ____ vì bọn mình có thể đi leo núi, thử hải sản tươi và cứ thế thư giãn bên biển.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ đánh giá tích cực. Ví dụ: 'enjoyable', 'fun', 'memorable'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Perfect. ____ about leaving early on Saturday morning so that we don't get stuck in traffic?",
+        "ipa": "/ˈpɜː.fɪkt əˈbaʊt ˈliː.vɪŋ ˈɜː.li ɒn ˈsæt.ə.deɪ ˈmɔːr.nɪŋ səʊ ðæt wiː dəʊnt ɡet stʌk ɪn ˈtræf.ɪk/",
+        "vi": "Tuyệt. ____ khởi hành sớm vào sáng thứ Bảy để bọn mình không bị kẹt xe nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "How", "explanationVi": "Mẫu gợi ý 'How about + V-ing?' để đề xuất kế hoạch một cách thân thiện. Xem mẫu câu 'How about + V-ing this weekend?'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Sounds like a plan! Fortunately, the weather forecast looks great, so I'm sure it'll be a memorable trip. I can't wait!",
+        "ipa": "/saʊndz laɪk ə plæn ˈfɔː.tʃən.ət.li ðə ˈweð.ər ˈfɔːr.kɑːst lʊks ɡreɪt səʊ aɪm ʃʊər ɪtl biː ə ˈmem.ər.ə.bəl trɪp aɪ kɑːnt weɪt/",
+        "vi": "Nghe ổn đấy! May mắn là dự báo thời tiết rất đẹp, nên tớ chắc chắn đó sẽ là một chuyến đi đáng nhớ. Tớ nóng lòng quá!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, câu hỏi 'How was your weekend?' sáng thứ Hai chủ yếu là xã giao. Bạn không cần kể quá dài, chỉ 1-2 câu kèm một chi tiết nhỏ là lịch sự.",
+    "Người Anh hay nói 'at the weekend', còn người Mỹ thường nói 'on the weekend'. Cả hai đều đúng tùy vùng.",
+    "Trả lời 'Nothing much, just relaxed' là hoàn toàn bình thường và được chấp nhận — không cần phải có một cuối tuần 'hoành tráng' mới đáng kể.",
+    "Khi nghe bạn kể, người bản xứ hay phản hồi ngắn để thể hiện hứng thú: 'Oh nice!', 'That sounds fun!', 'No way!'. Học vài câu này giúp hội thoại tự nhiên hơn."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'very exhausted'. 'exhausted' đã rất mạnh nên đi với 'completely / absolutely', không dùng 'very'.",
+    "Quên V-ing sau 'spend': phải nói 'I spent the weekend RELAXING', không phải 'I spent the weekend relax'.",
+    "Nhầm 'fun' (tính từ/danh từ) với 'funny' (buồn cười). 'It was fun' = vui; 'It was funny' = buồn cười.",
+    "Dùng 'How about to go...?'. Sau 'How about' phải là V-ing: 'How about GOING...?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể chuyện cuối tuần như đang nói với một người bạn.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh. Chúng ta vừa gặp nhau sáng thứ Hai và đang trò chuyện về cuối tuần. Hãy bắt đầu bằng cách hỏi tôi đã làm gì cuối tuần. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật và kể đôi chút về cuối tuần của bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'because', 'such as' và 'although', (4) cuối cùng hãy rủ tôi lên một kế hoạch cho cuối tuần tới. Nói thân thiện, đời thường. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đặt cho tôi một tình huống bất ngờ, ví dụ kế hoạch bị hủy vì trời mưa, để tôi tập xử lý.'",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý 3 cụm từ tự nhiên hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi kể được việc chính mình làm cuối tuần bằng mẫu 'I spent the weekend + V-ing'.",
+    "Tôi dùng được 'because', 'such as' và 'although' để câu kể dài và mạch lạc hơn.",
+    "Tôi đề xuất được một kế hoạch cuối tuần tới bằng mẫu 'How about + V-ing?'."
+  ]
+}

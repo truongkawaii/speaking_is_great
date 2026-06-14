@@ -1,0 +1,339 @@
+{
+  "id": "emphasizing-points",
+  "category": "advanced",
+  "title": "Nhấn mạnh ý",
+  "titleEn": "Emphasizing Points",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "negotiating", "describing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Dùng nhiều tầng cấu trúc nhấn mạnh (cleft sentence, đảo ngữ, fronting) để làm nổi bật ý mấu chốt khi tranh luận",
+    "Chọn đúng sắc thái nhấn mạnh: khẳng định dứt khoát, nhấn ý đối lập, hay nhấn ý mình đặc biệt quan tâm",
+    "Phối hợp trạng từ tăng cường (utterly, undeniably, by far) một cách tự nhiên thay vì lặp 'very/really'",
+    "Bảo vệ quan điểm trong một cuộc họp chiến lược mà vẫn giữ giọng điệu chuyên nghiệp, không gay gắt",
+    "Phân biệt nhấn mạnh ngữ điệu (intonation) với nhấn mạnh bằng cấu trúc và từ vựng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to emphasize",
+      "ipa": "/ˈem.fə.saɪz/",
+      "vi": "nhấn mạnh (động từ)",
+      "register": "neutral",
+      "example": "I'd like to emphasize that this decision cannot be reversed once it's made.",
+      "exampleVi": "Tôi muốn nhấn mạnh rằng quyết định này không thể đảo ngược một khi đã đưa ra.",
+      "note": "Động từ trung tâm của bài. Anh-Anh viết 'emphasise'. Danh từ: 'emphasis' /ˈem.fə.sɪs/, đi với 'place/put emphasis ON something'.",
+      "synonyms": [
+        { "term": "to stress", "ipa": "/stres/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, ngắn gọn và rất tự nhiên khi nói: 'I must stress that…'. Nhẹ nhàng hơn 'emphasize' một chút." },
+        { "term": "to highlight", "ipa": "/ˈhaɪ.laɪt/", "register": "neutral", "nuanceVi": "Nhấn ý 'làm cho ai đó CHÚ Ý tới', như tô đậm một điểm trong nhiều điểm. Hợp khi chỉ ra một chi tiết cụ thể." },
+        { "term": "to underscore", "ipa": "/ˌʌn.dəˈskɔːr/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ; thường gặp trong văn viết/bài phát biểu. Nhấn ý 'củng cố thêm tầm quan trọng của điều đã nói'." },
+        { "term": "to drive home", "ipa": "/draɪv həʊm/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'nói cho thấm, cho người nghe thật sự hiểu'. Mạnh và đời thường: 'Let me drive home one point.'" }
+      ]
+    },
+    {
+      "term": "crucial",
+      "ipa": "/ˈkruː.ʃəl/",
+      "vi": "mang tính then chốt, sống còn (tính từ)",
+      "register": "neutral",
+      "example": "What's crucial here is that we don't lose the client's trust.",
+      "exampleVi": "Điều then chốt ở đây là chúng ta không được đánh mất niềm tin của khách hàng.",
+      "note": "Tính từ. Mạnh hơn 'important'. Là từ tuyệt đối (absolute adjective) nên thường không dùng 'very crucial' — đã hàm ý mức cao nhất.",
+      "synonyms": [
+        { "term": "pivotal", "ipa": "/ˈpɪv.ə.təl/", "register": "formal", "nuanceVi": "Nhấn ý 'là bản lề, mọi thứ xoay quanh nó'. Trang trọng, hợp khi nói về thời điểm/quyết định bước ngoặt." },
+        { "term": "vital", "ipa": "/ˈvaɪ.təl/", "register": "neutral", "nuanceVi": "Nhấn ý 'thiết yếu để tồn tại/duy trì', gốc nghĩa 'sự sống'. Gần 'crucial' nhưng thiên về 'không thể thiếu'." },
+        { "term": "paramount", "ipa": "/ˈpær.ə.maʊnt/", "register": "formal", "nuanceVi": "Trang trọng bậc cao, nghĩa 'quan trọng hơn tất cả'. Hay đi với 'of paramount importance'. Nghe rất trịnh trọng." }
+      ]
+    },
+    {
+      "term": "to overlook",
+      "ipa": "/ˌəʊ.vəˈlʊk/",
+      "vi": "bỏ sót, xem nhẹ (động từ)",
+      "register": "neutral",
+      "example": "It's a detail we simply cannot afford to overlook.",
+      "exampleVi": "Đây là chi tiết mà chúng ta tuyệt đối không thể xem nhẹ.",
+      "note": "Động từ. Phổ biến trong cụm phủ định-nhấn-mạnh 'cannot afford to overlook' (không thể để sót). Đừng nhầm với 'oversee' = giám sát.",
+      "synonyms": [
+        { "term": "to disregard", "ipa": "/ˌdɪs.rɪˈɡɑːd/", "register": "formal", "nuanceVi": "Nhấn ý 'cố tình phớt lờ, coi như không đáng quan tâm'. Có phần chủ động hơn 'overlook' (vốn thường là vô ý bỏ sót)." },
+        { "term": "to gloss over", "ipa": "/ɡlɒs ˈəʊ.vər/", "register": "neutral", "nuanceVi": "Thành ngữ, nghĩa 'nói lướt qua cho nhẹ tội, né phần khó'. Hàm ý hơi tiêu cực về việc né tránh." }
+      ]
+    },
+    {
+      "term": "undeniable",
+      "ipa": "/ˌʌn.dɪˈnaɪ.ə.bəl/",
+      "vi": "không thể chối cãi (tính từ)",
+      "register": "neutral",
+      "example": "The figures point to an undeniable upward trend.",
+      "exampleVi": "Các con số cho thấy một xu hướng đi lên không thể chối cãi.",
+      "note": "Tính từ nhấn mạnh. Trạng từ 'undeniably' rất đắt khi muốn khẳng định: 'This is undeniably the best option.'",
+      "synonyms": [
+        { "term": "indisputable", "ipa": "/ˌɪn.dɪˈspjuː.tə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'không thể tranh cãi'. Nghe sắc bén, hợp văn bản phân tích/báo cáo." },
+        { "term": "irrefutable", "ipa": "/ˌɪr.ɪˈfjuː.tə.bəl/", "register": "formal", "nuanceVi": "Bậc cao nhất, nghĩa 'không thể bác bỏ bằng bất kỳ lập luận nào'. Thường đi với 'irrefutable evidence/proof'." },
+        { "term": "clear-cut", "ipa": "/ˌklɪəˈkʌt/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'rõ ràng, dứt khoát, không mập mờ'. Hợp khi nói chuyện thân mật trong nhóm." }
+      ]
+    },
+    {
+      "term": "to reiterate",
+      "ipa": "/riˈɪt.ə.reɪt/",
+      "vi": "nhắc lại (để nhấn mạnh) (động từ)",
+      "register": "formal",
+      "example": "Let me reiterate that quality, not speed, is our top priority.",
+      "exampleVi": "Cho phép tôi nhắc lại rằng chất lượng, chứ không phải tốc độ, mới là ưu tiên hàng đầu.",
+      "note": "Động từ trang trọng, dùng khi cố ý nhắc lại để khắc sâu. Khác 'repeat' (chỉ là lặp lại đơn thuần, không kèm dụng ý nhấn mạnh).",
+      "synonyms": [
+        { "term": "to restate", "ipa": "/ˌriːˈsteɪt/", "register": "formal", "nuanceVi": "Nhấn ý 'nói lại theo cách rõ hơn', không nhất thiết để nhấn mạnh. Trung tính hơn 'reiterate'." }
+      ]
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "thuyết phục, có sức nặng (tính từ)",
+      "register": "neutral",
+      "example": "She made a compelling case for delaying the launch.",
+      "exampleVi": "Cô ấy đưa ra lập luận đầy sức nặng cho việc hoãn ra mắt.",
+      "note": "Tính từ mạnh, nghĩa 'cuốn hút/khiến người ta phải đồng tình'. Hay đi với 'a compelling argument/case/reason'.",
+      "synonyms": [
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Phổ biến, an toàn, nghĩa 'đủ sức làm người khác tin'. Nhẹ hơn 'compelling' (vốn còn hàm ý hấp dẫn, khó cưỡng)." },
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn vào 'kỹ năng thuyết phục, khéo léo dẫn dắt'. Thiên về cách trình bày hơn là sức nặng của bằng chứng." }
+      ]
+    },
+    {
+      "term": "categorically",
+      "ipa": "/ˌkæt.əˈɡɒr.ɪk.li/",
+      "vi": "một cách dứt khoát, không úp mở (trạng từ)",
+      "register": "formal",
+      "example": "I categorically disagree with cutting the testing phase.",
+      "exampleVi": "Tôi dứt khoát phản đối việc cắt giảm giai đoạn kiểm thử.",
+      "note": "Trạng từ rất mạnh, dùng khi muốn phủ nhận/khẳng định không chừa đường lùi. Thường đi với 'deny/disagree/reject categorically'.",
+      "synonyms": [
+        { "term": "unequivocally", "ipa": "/ˌʌn.ɪˈkwɪv.ə.kli/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'rõ ràng tuyệt đối, không thể hiểu khác'. Nhấn vào sự minh bạch của lập trường." },
+        { "term": "flatly", "ipa": "/ˈflæt.li/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'thẳng thừng, dứt khoát', thường đi với 'flatly refuse/deny'. Nghe có phần lạnh lùng." }
+      ]
+    },
+    {
+      "term": "by far",
+      "ipa": "/baɪ ˈfɑːr/",
+      "vi": "vượt trội hẳn (cụm trạng từ)",
+      "register": "neutral",
+      "example": "This is by far the most cost-effective solution on the table.",
+      "exampleVi": "Đây là giải pháp tiết kiệm chi phí nhất một cách vượt trội trong những phương án đang bàn.",
+      "note": "Cụm trạng từ chuyên đi với so sánh nhất ('by far the best'). Với so sánh hơn, người bản xứ thường nói 'far better' chứ ít khi 'by far better'. Cách nhấn mạnh mức độ rất tự nhiên.",
+      "synonyms": [
+        { "term": "easily", "ipa": "/ˈiː.zəl.i/", "register": "neutral", "nuanceVi": "Khi đứng trước so sánh nhất, 'easily' = 'rõ ràng, không bàn cãi' (easily the best). Đời thường và nhẹ hơn 'by far'." }
+      ]
+    },
+    {
+      "term": "utterly",
+      "ipa": "/ˈʌt.əl.i/",
+      "vi": "hoàn toàn, tuyệt đối (trạng từ)",
+      "register": "neutral",
+      "example": "The first proposal was utterly unrealistic given our budget.",
+      "exampleVi": "Đề xuất đầu tiên hoàn toàn phi thực tế so với ngân sách của chúng ta.",
+      "note": "Trạng từ tăng cường đi với tính từ mang nghĩa cực đoan/tiêu cực (utterly impossible, utterly useless). Mạnh hơn 'completely' về sắc thái cảm xúc.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˈæb.sə.luːt.li/", "register": "neutral", "nuanceVi": "Phổ biến nhất, đi được với cả nghĩa tích cực lẫn tiêu cực (absolutely right/wrong). An toàn và linh hoạt hơn 'utterly'." },
+        { "term": "thoroughly", "ipa": "/ˈθʌr.ə.li/", "register": "neutral", "nuanceVi": "Nhấn ý 'một cách trọn vẹn, đến tận cùng' (thoroughly enjoyed it). Hơi khác: thiên về 'kỹ lưỡng/trọn vẹn' hơn là 'cực đoan'." }
+      ]
+    },
+    {
+      "term": "the bottom line",
+      "ipa": "/ðə ˈbɒt.əm laɪn/",
+      "vi": "điểm mấu chốt, kết luận cuối cùng (danh từ)",
+      "register": "neutral",
+      "example": "The bottom line is that we either invest now or lose the market entirely.",
+      "exampleVi": "Điểm mấu chốt là hoặc chúng ta đầu tư ngay, hoặc mất trắng thị trường.",
+      "note": "Cụm danh từ rất hay dùng trong họp hành để dẫn vào kết luận quan trọng nhất, gạt hết râu ria. Mở đầu: 'The bottom line is (that)…'.",
+      "synonyms": [
+        { "term": "the key takeaway", "ipa": "/ðə kiː ˈteɪk.ə.weɪ/", "register": "neutral", "nuanceVi": "Nhấn ý 'điều cần ghi nhớ/mang về sau buổi nói'. Hợp khi tổng kết bài thuyết trình hơn là chốt một tranh luận." },
+        { "term": "the crux", "ipa": "/ðə krʌks/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'cốt lõi của vấn đề' (the crux of the matter). Thiên về 'điểm khó/then chốt cần giải' hơn là 'kết luận'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What [chủ ngữ + động từ] is (that) [mệnh đề nhấn mạnh].",
+      "use": "Câu chẻ (cleft) với 'what' để đẩy ý quan trọng nhất ra cuối câu, làm nó nổi bật.",
+      "register": "neutral",
+      "examples": [
+        "What really matters here is that we keep the customer informed at every stage.",
+        "What I'm trying to say is that speed should never come at the expense of quality."
+      ],
+      "explanationVi": "Câu chẻ với 'What…': dồn sự chú ý vào phần đứng sau 'is'. Nghe có trọng lượng và tự nhiên hơn nhiều so với nói thẳng 'We should keep the customer informed.'",
+      "altOf": "emphasis-structure"
+    },
+    {
+      "pattern": "It is [phần nhấn mạnh] that/who [phần còn lại].",
+      "use": "Câu chẻ với 'It' để làm nổi bật một thành phần cụ thể (chủ thể, thời gian, lý do).",
+      "register": "formal",
+      "examples": [
+        "It is the timing, not the budget, that worries me most.",
+        "It was her attention to detail that ultimately saved the project."
+      ],
+      "explanationVi": "Câu chẻ 'It is/was … that …': tách một thành phần ra để soi đèn vào nó, hàm ý 'chính là cái này chứ không phải cái khác'. Rất mạnh khi muốn đính chính hoặc đối lập.",
+      "altOf": "emphasis-structure"
+    },
+    {
+      "pattern": "Not only [đảo ngữ trợ động từ + chủ ngữ + V], but [chủ ngữ] also [V].",
+      "use": "Đảo ngữ để nhấn mạnh rằng có tới hai điều đáng chú ý, không chỉ một.",
+      "register": "formal",
+      "examples": [
+        "Not only does this approach cut costs, but it also shortens the timeline dramatically.",
+        "Not only did they miss the deadline, but they also went over budget."
+      ],
+      "explanationVi": "Khi 'Not only' đứng đầu câu, bắt buộc đảo trợ động từ lên trước chủ ngữ ('does this approach…'). Đây là cấu trúc nhấn mạnh nâng cao, sai đảo ngữ là lộ trình độ ngay."
+    },
+    {
+      "pattern": "Under no circumstances [đảo ngữ trợ động từ + chủ ngữ + V].",
+      "use": "Đảo ngữ với cụm phủ định đứng đầu câu để nhấn mạnh sự cấm đoán/khẳng định dứt khoát.",
+      "register": "formal",
+      "examples": [
+        "Under no circumstances should we compromise on safety.",
+        "Never have I seen a team turn a project around so quickly."
+      ],
+      "explanationVi": "Cụm phủ định đầu câu (Under no circumstances / Never / Not until…) kéo theo đảo ngữ. Sắc thái rất trang trọng và dứt khoát — dùng khi muốn 'đóng đinh' một lập trường.",
+      "altOf": "emphatic-negation"
+    },
+    {
+      "pattern": "I do [động từ nguyên thể] (that) [mệnh đề].",
+      "use": "Dùng trợ động từ 'do/does/did' để nhấn mạnh động từ chính trong câu khẳng định.",
+      "register": "neutral",
+      "examples": [
+        "I do appreciate your point, but the data tells a different story.",
+        "We did warn them about the risk well in advance."
+      ],
+      "explanationVi": "Thêm 'do/does/did' trước động từ thường (vốn không cần trợ động từ) để nhấn mạnh: 'tôi THỰC SỰ…'. Hữu ích khi muốn vừa thừa nhận ý người khác vừa giữ lập trường.",
+      "altOf": "emphatic-negation"
+    },
+    {
+      "pattern": "The (single) most [tính từ] thing/factor here is [danh từ / mệnh đề].",
+      "use": "Dùng so sánh nhất kèm 'single' để cô lập và đề cao một yếu tố duy nhất.",
+      "register": "neutral",
+      "examples": [
+        "The single most important factor here is whether the team can scale.",
+        "The most pressing concern right now is cash flow, nothing else."
+      ],
+      "explanationVi": "Chèn 'single' trước 'most + tính từ' để nhấn mạnh tuyệt đối 'chỉ duy nhất một thứ này quan trọng'. Cách đề cao một yếu tố rất thuyết phục trong tranh luận."
+    },
+    {
+      "pattern": "Let me be (perfectly) clear: [tuyên bố].",
+      "use": "Mở đầu trang trọng báo hiệu một tuyên bố quan trọng, không thể hiểu sai.",
+      "register": "formal",
+      "examples": [
+        "Let me be perfectly clear: this deadline is non-negotiable.",
+        "Let me be clear about one thing — we will not cut corners on testing."
+      ],
+      "explanationVi": "Câu dẫn báo hiệu 'điều sắp nói rất hệ trọng, hãy nghe kỹ'. Nâng trọng lượng cho tuyên bố ngay sau dấu hai chấm. Dùng tiết chế kẻo nghe gay gắt."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Mở đầu một nhận định thẳng thắn, đôi khi hơi mất lòng, để tăng sức nặng.", "example": "Frankly, the second option simply doesn't hold up under scrutiny." },
+    { "term": "above all", "ipa": "/əˈbʌv ɔːl/", "vi": "hơn hết là", "when": "Nhấn yếu tố quan trọng nhất trong một loạt yếu tố vừa nêu.", "example": "We need speed, clarity and, above all, a plan everyone actually understands." },
+    { "term": "make no mistake", "ipa": "/meɪk nəʊ mɪˈsteɪk/", "vi": "đừng nhầm lẫn / xin nói rõ", "when": "Chèn vào để cảnh báo và nhấn mạnh một sự thật người nghe dễ coi nhẹ.", "example": "Make no mistake, our competitors are watching this launch very closely." },
+    { "term": "if anything", "ipa": "/ɪf ˈen.i.θɪŋ/", "vi": "nếu có thì (còn hơn thế)", "when": "Nhấn mạnh bằng cách bác nhẹ một ý và đẩy mức độ lên cao hơn.", "example": "The delay didn't hurt us; if anything, it gave us time to fix the bugs." },
+    { "term": "first and foremost", "ipa": "/ˌfɜːst ænd ˈfɔː.məʊst/", "vi": "trước hết và quan trọng nhất", "when": "Dẫn vào ưu tiên số một một cách trang trọng, dứt khoát.", "example": "First and foremost, we have to rebuild the client's confidence in us." },
+    { "term": "to put it bluntly", "ipa": "/tə pʊt ɪt ˈblʌnt.li/", "vi": "nói toạc ra thì", "when": "Báo hiệu sắp nói một điều thẳng thừng, không vòng vo, để nhấn mạnh.", "example": "To put it bluntly, the current plan is setting us up to fail." }
+  ],
+
+  "dialogue": {
+    "context": "Một cuộc họp chiến lược về việc có nên đẩy nhanh ngày ra mắt sản phẩm hay không. Bạn (trưởng nhóm sản phẩm) cần bảo vệ quan điểm 'chất lượng quan trọng hơn tốc độ' trước Giám đốc, người đang muốn ra mắt sớm.",
+    "lines": [
+      {
+        "speaker": "Giám đốc",
+        "text": "Let's get straight to the point. Sales are pushing hard for an earlier launch, and frankly, although I understand the engineering concerns, I think we should bring the date forward by three weeks.",
+        "ipa": "/lets ɡet streɪt tə ðə pɔɪnt seɪlz ɑːr ˈpʊʃ.ɪŋ hɑːd fɔːr ən ˈɜː.li.ər lɔːntʃ ænd ˈfræŋk.li ɔːlˈðəʊ aɪ ˌʌn.dəˈstænd ðə ˌen.dʒɪˈnɪə.rɪŋ kənˈsɜːnz aɪ θɪŋk wiː ʃʊd brɪŋ ðə deɪt ˈfɔː.wəd baɪ θriː wiːks/",
+        "vi": "Ta vào thẳng vấn đề nhé. Bộ phận kinh doanh đang thúc rất gắt việc ra mắt sớm hơn, và nói thẳng ra thì, dù tôi hiểu các lo ngại về kỹ thuật, tôi vẫn nghĩ ta nên dời ngày lên ba tuần."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I do appreciate the pressure from sales, but let me be perfectly clear: what really matters here is that we don't ship a product the market isn't ready to trust. ____ I'd love to launch early, rushing it could undo years of brand work.",
+        "ipa": "/aɪ duː əˈpriː.ʃi.eɪt ðə ˈpreʃ.ər frɒm seɪlz bʌt let miː biː ˈpɜː.fɪkt.li klɪər wɒt ˈrɪə.li ˈmæt.əz hɪər ɪz ðæt wiː dəʊnt ʃɪp ə ˈprɒd.ʌkt ðə ˈmɑː.kɪt ˈɪz.ənt ˈred.i tə trʌst .../",
+        "vi": "Tôi thực sự hiểu áp lực từ bộ phận kinh doanh, nhưng cho phép tôi nói thật rõ: điều quan trọng nhất ở đây là chúng ta không tung ra một sản phẩm mà thị trường chưa sẵn sàng tin tưởng. ____ tôi rất muốn ra mắt sớm, vội vàng có thể phá hỏng nhiều năm xây dựng thương hiệu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) mở mệnh đề nhượng bộ: dù muốn ra mắt sớm, nhưng vẫn lo hệ quả. Có thể thay bằng 'Even though'. Xem cấu trúc nhượng bộ và câu chẻ 'What … is that …'." }
+        ]
+      },
+      {
+        "speaker": "Giám đốc",
+        "text": "That's a fair concern. But our competitors are moving fast, and I worry that if we wait too long, we'll miss the window entirely. What makes you so confident that the extra three weeks are ____ necessary?",
+        "ipa": "/ðæts ə feər kənˈsɜːn bʌt ˈaʊər ˈkɒm.pə.tɪ.təz ɑːr ˈmuːv.ɪŋ fɑːst ænd aɪ ˈwʌr.i ðæt ɪf wiː weɪt tuː lɒŋ wiːl mɪs ðə ˈwɪn.dəʊ ɪnˈtaɪə.li wɒt meɪks juː səʊ ˈkɒn.fɪ.dənt/",
+        "vi": "Đó là một lo ngại chính đáng. Nhưng đối thủ đang đi rất nhanh, và tôi sợ nếu chờ quá lâu, ta sẽ lỡ hoàn toàn thời cơ. Điều gì khiến cậu chắc chắn đến vậy rằng ba tuần thêm là ____ cần thiết?",
+        "blanks": [
+          { "type": "knowledge", "answer": "absolutely", "explanationVi": "Trạng từ tăng cường 'absolutely' đi với tính từ 'necessary' để nhấn mức độ tuyệt đối. Lưu ý: 'utterly' chỉ hợp với tính từ tiêu cực/cực đoan (utterly useless), KHÔNG nói 'utterly necessary'; ở đây 'absolutely' là lựa chọn tự nhiên." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Because the data is undeniable. Not only ____ our last beta reveal three critical bugs, but it also showed a drop-off rate which we simply cannot afford to overlook. To put it bluntly, launching now would be by far the riskiest move we could make.",
+        "ipa": "/bɪˈkɒz ðə ˈdeɪ.tə ɪz ˌʌn.dɪˈnaɪ.ə.bəl nɒt ˈəʊn.li ... ˈaʊər lɑːst ˈbiː.tə rɪˈviːl θriː ˈkrɪt.ɪ.kəl bʌɡz bʌt ɪt ˈɔːl.səʊ ʃəʊd ə ˈdrɒp.ɒf reɪt wɪtʃ wiː ˈsɪm.pli ˈkæn.ɒt əˈfɔːd tə ˌəʊ.vəˈlʊk/",
+        "vi": "Bởi vì dữ liệu là không thể chối cãi. Không những bản beta gần nhất ____ lộ ra ba lỗi nghiêm trọng, mà nó còn cho thấy một tỉ lệ rời bỏ mà chúng ta tuyệt đối không thể xem nhẹ. Nói toạc ra thì, ra mắt ngay bây giờ sẽ là nước đi rủi ro nhất một cách vượt trội mà ta có thể làm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "did", "explanationVi": "Sau 'Not only' đầu câu phải đảo ngữ: trợ động từ lên trước chủ ngữ. Vì 'reveal' chia quá khứ (bản beta đã xảy ra) nên dùng 'did' + động từ nguyên thể: 'Not only did our last beta reveal…'. Xem cấu trúc đảo ngữ 'Not only … but also'." }
+        ]
+      },
+      {
+        "speaker": "Giám đốc",
+        "text": "Those bugs are concerning, I'll grant you that. However, despite the risks you've outlined, I still need a launch we can defend to the board, who are expecting visible progress this quarter.",
+        "ipa": "/ðəʊz bʌɡz ɑːr kənˈsɜː.nɪŋ aɪl ɡrɑːnt juː ðæt haʊˈev.ər dɪsˈpaɪt ðə rɪsks juːv ˈaʊt.laɪnd aɪ stɪl niːd ə lɔːntʃ wiː kæn dɪˈfend tə ðə bɔːd huː ɑːr ɪkˈspek.tɪŋ ˈvɪz.ə.bəl ˈprəʊ.ɡres ðɪs ˈkwɔː.tər/",
+        "vi": "Mấy lỗi đó đáng lo, tôi công nhận. Tuy nhiên, bất chấp những rủi ro cậu vừa nêu, tôi vẫn cần một lần ra mắt mà ta có thể bảo vệ được trước hội đồng quản trị, những người đang trông đợi tiến triển rõ rệt trong quý này."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I hear you, and I'm not asking to delay indefinitely. ____ no circumstances should we ship something broken; that said, what if we present the board a phased rollout in order to show momentum while still protecting quality?",
+        "ipa": "/aɪ hɪər juː ænd aɪm nɒt ˈɑːs.kɪŋ tə dɪˈleɪ ɪnˈdef.ɪ.nət.li ... nəʊ ˈsɜː.kəm.stæn.sɪz ʃʊd wiː ʃɪp ˈsʌm.θɪŋ ˈbrəʊ.kən ðæt sed wɒt ɪf wiː prɪˈzent ðə bɔːd ə feɪzd ˈrəʊl.aʊt ɪn ˈɔː.də tə ʃəʊ məˈmen.təm/",
+        "vi": "Tôi nghe rõ ý anh, và tôi không đề nghị hoãn vô thời hạn. ____ bất kỳ hoàn cảnh nào chúng ta cũng không nên tung ra thứ còn lỗi; dù vậy, hay là ta trình hội đồng một kế hoạch ra mắt theo từng giai đoạn để cho thấy đà tiến mà vẫn bảo vệ được chất lượng?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Under", "explanationVi": "Cụm 'Under no circumstances' đứng đầu câu để nhấn mạnh sự cấm đoán tuyệt đối, kéo theo đảo ngữ 'should we ship'. Xem cấu trúc đảo ngữ với cụm phủ định đầu câu." }
+        ]
+      },
+      {
+        "speaker": "Giám đốc",
+        "text": "Now that's a compelling idea. A phased rollout might actually give us the best of both worlds. Walk me through how you'd ____ it without confusing the customers.",
+        "ipa": "/naʊ ðæts ə kəmˈpel.ɪŋ aɪˈdɪə ə feɪzd ˈrəʊl.aʊt maɪt ˈæk.tʃu.ə.li ɡɪv ʌs ðə best ɒv bəʊθ wɜːldz wɔːk miː θruː haʊ juːd ... ɪt wɪˈðaʊt kənˈfjuːz.ɪŋ ðə ˈkʌs.tə.məz/",
+        "vi": "Giờ thì đó là một ý tưởng đầy sức nặng. Ra mắt theo giai đoạn có thể cho ta cả hai cái lợi cùng lúc. Trình bày cho tôi xem cậu sẽ ____ nó thế nào mà không làm khách hàng rối nhé.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ chỉ việc triển khai/thực hiện kế hoạch. Ví dụ: 'structure', 'roll out', 'sequence'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "The bottom line is this: we release a stable core to ____ first, gather their feedback, then expand. Make no mistake — this protects the brand and keeps the board happy. First and foremost, though, it means we never put our reputation on the line.",
+        "ipa": "/ðə ˈbɒt.əm laɪn ɪz ðɪs wiː rɪˈliːs ə ˈsteɪ.bəl kɔːr tə ... fɜːst ˈɡæð.ər ðeər ˈfiːd.bæk ðen ɪkˈspænd meɪk nəʊ mɪˈsteɪk ðɪs prəˈtekts ðə brænd ænd kiːps ðə bɔːd ˈhæp.i/",
+        "vi": "Điểm mấu chốt là thế này: ta phát hành phần lõi ổn định cho ____ trước, thu thập phản hồi của họ, rồi mở rộng. Đừng nhầm — cách này vừa bảo vệ thương hiệu vừa làm hội đồng hài lòng. Nhưng trước hết và quan trọng nhất, nó có nghĩa là ta không bao giờ đem uy tín ra đánh cược.",
+        "blanks": [
+          { "type": "personal", "hint": "Nhóm người dùng đầu tiên bạn muốn nhắm tới. Ví dụ: 'a small group of loyal users', 'our existing enterprise clients'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong họp hành phương Tây, nhấn mạnh quan điểm mạnh mẽ được coi là chuyên nghiệp, miễn là bạn 'tấn công vấn đề chứ không tấn công con người'. Câu kiểu 'I hear you, but…' giúp vừa giữ lập trường vừa tôn trọng đối phương.",
+    "Người bản xứ nhấn mạnh chủ yếu bằng NGỮ ĐIỆU (đọc nhấn vào từ khóa) chứ không chỉ bằng từ vựng. Cùng một câu, nhấn vào 'quality' hay vào 'now' sẽ đổi hẳn ý — hãy luyện nhấn giọng đúng từ.",
+    "Lạm dụng trạng từ cực đoan (absolutely, utterly, totally) trong mọi câu sẽ làm chúng mất tác dụng và nghe thiếu chín chắn. Người C1 nhấn mạnh có chọn lọc, để dành 'đạn mạnh' cho ý quan trọng nhất.",
+    "Các câu dẫn như 'Let me be clear' hay 'To put it bluntly' rất hiệu quả nhưng cũng rất 'nặng đô' — dùng quá nhiều sẽ nghe hung hăng hoặc trịch thượng. Một lần mỗi cuộc trao đổi là vừa đủ."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ sau cụm phủ định/'Not only' đầu câu: phải đảo trợ động từ — 'Not only DID our beta reveal…' / 'Under no circumstances SHOULD we…', không phải 'Not only our beta revealed…'.",
+    "Thêm 'very' vào tính từ tuyệt đối: nói 'very crucial', 'very undeniable' là thừa và sai sắc thái — bản thân các từ này đã ở mức cao nhất.",
+    "Nhấn mạnh bằng cách lặp 'very very' hoặc 'really really'. Hãy thay bằng một trạng từ đắt giá (utterly, by far, categorically) hoặc một cấu trúc nhấn mạnh.",
+    "Dùng 'do/does/did' nhấn mạnh sai chỗ: chỉ thêm vào động từ thường ('I DO appreciate'), không dùng với động từ đã có trợ động từ hay 'to be' ('I do am' là sai)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện bảo vệ quan điểm và nhấn mạnh ý trong một cuộc họp như thật.",
+    "prompt": "Hãy đóng vai một vị giám đốc nói tiếng Anh trong một cuộc họp chiến lược, và bạn KHÔNG dễ bị thuyết phục. Tôi sẽ bảo vệ một quan điểm (ví dụ: 'chất lượng quan trọng hơn tốc độ ra mắt'). Hãy phản biện lại tôi ở từng lượt để buộc tôi phải nhấn mạnh và bảo vệ ý của mình. Sau mỗi câu trả lời của tôi, hãy: (1) phản biện tự nhiên như một giám đốc thật, (2) sửa lỗi ngữ pháp và chỉ ra cách nhấn mạnh hay hơn bằng tiếng Việt (gợi ý câu chẻ 'What… is that…', 'It is… that…', đảo ngữ 'Not only…', 'Under no circumstances…', và trạng từ như 'by far', 'categorically', 'undeniably'), (3) nhắc tôi nếu tôi lạm dụng 'very/really' thay vì dùng cấu trúc nhấn mạnh. Cuối buổi, chấm điểm khả năng nhấn mạnh của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu lập trường trái ngược của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy yêu cầu tôi nói lại cùng một câu nhưng đổi từ được nhấn (nhấn giọng) để luyện nhấn mạnh bằng ngữ điệu.'",
+      "Thêm: 'Hãy đẩy tôi vào thế bị dồn ép, ngắt lời tôi giữa chừng, để tôi tập giữ bình tĩnh và tái khẳng định ý chính.'",
+      "Thêm: 'Cuối mỗi lượt, hãy gợi ý một cách diễn đạt cùng ý nhưng trang trọng hơn (formal) và một cách đời thường hơn (casual) để tôi linh hoạt đổi register.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi dùng được ít nhất hai cấu trúc nhấn mạnh khác nhau (câu chẻ và đảo ngữ) trong cùng một lập luận mà không nhìn gợi ý.",
+    "Tôi chọn trạng từ tăng cường (by far, categorically, undeniably) đúng sắc thái thay vì lặp 'very/really'.",
+    "Tôi bảo vệ được quan điểm trái với cấp trên một cách dứt khoát nhưng vẫn lịch sự, chuyên nghiệp."
+  ]
+}

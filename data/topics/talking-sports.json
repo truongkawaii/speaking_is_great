@@ -1,0 +1,360 @@
+{
+  "id": "talking-sports",
+  "category": "friends",
+  "title": "Nói về thể thao",
+  "titleEn": "Talking About Sports",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "suggesting", "agreeing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi và nói về môn thể thao yêu thích, đội bóng và vận động viên mình hâm mộ",
+    "Bày tỏ quan điểm và lý do bằng câu vừa phải, có 'because', 'such as', 'although'",
+    "Rủ bạn cùng xem trận đấu hoặc đi chơi thể thao một cách tự nhiên",
+    "Đồng ý hoặc lịch sự không đồng ý với ý kiến của bạn về thể thao"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "supporter",
+      "ipa": "/səˈpɔː.tər/",
+      "vi": "cổ động viên, người hâm mộ (danh từ)",
+      "register": "neutral",
+      "example": "I've been a loyal supporter of this team since I was a child.",
+      "exampleVi": "Tôi là cổ động viên trung thành của đội này từ khi còn bé.",
+      "note": "Danh từ. Người Anh hay dùng 'supporter' cho cổ động viên bóng đá; người Mỹ thường nói 'fan'.",
+      "synonyms": [
+        { "term": "fan", "ipa": "/fæn/", "register": "casual", "nuanceVi": "Đời thường, phổ biến toàn cầu, rút gọn từ 'fanatic'. Dùng cho cả thể thao, ca nhạc, phim ảnh." },
+        { "term": "follower", "ipa": "/ˈfɒl.əʊ.ər/", "register": "neutral", "nuanceVi": "Nhấn 'người theo dõi'. Nhẹ hơn fan/supporter, không nhất thiết cuồng nhiệt; cũng hay dùng cho mạng xã hội." }
+      ]
+    },
+    {
+      "term": "match",
+      "ipa": "/mætʃ/",
+      "vi": "trận đấu (danh từ)",
+      "register": "neutral",
+      "example": "The match between the two rivals was absolutely thrilling.",
+      "exampleVi": "Trận đấu giữa hai đối thủ thực sự nghẹt thở.",
+      "note": "Danh từ. 'match' hay dùng cho bóng đá, tennis (Anh-Anh). Người Mỹ thường nói 'game'.",
+      "synonyms": [
+        { "term": "game", "ipa": "/ɡeɪm/", "register": "neutral", "nuanceVi": "Phổ biến ở Anh-Mỹ; người Mỹ gần như luôn dùng 'game' thay cho 'match'." },
+        { "term": "fixture", "ipa": "/ˈfɪks.tʃər/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'trận đã được xếp lịch'. Hay gặp trong lịch thi đấu, báo thể thao." }
+      ]
+    },
+    {
+      "term": "to support",
+      "ipa": "/səˈpɔːt/",
+      "vi": "ủng hộ, cổ vũ (động từ)",
+      "register": "neutral",
+      "example": "Which team do you support in the Premier League?",
+      "exampleVi": "Bạn cổ vũ đội nào ở giải Ngoại hạng Anh?",
+      "note": "Động từ. 'support a team' nghĩa là 'là fan của đội đó', không chỉ là cổ vũ một lần.",
+      "synonyms": [
+        { "term": "to root for", "ipa": "/tə ˈruːt fɔːr/", "register": "casual", "nuanceVi": "Đời thường, kiểu Mỹ, nghĩa 'cổ vũ, mong đội thắng'. Đi với 'for'." },
+        { "term": "to cheer for", "ipa": "/tə ˈtʃɪər fɔːr/", "register": "casual", "nuanceVi": "Nhấn hành động hò reo, cổ vũ to tiếng tại trận; thiên về khoảnh khắc hơn là 'là fan lâu dài'." }
+      ]
+    },
+    {
+      "term": "to take up",
+      "ipa": "/tə teɪk ʌp/",
+      "vi": "bắt đầu chơi / theo đuổi (một môn) (động từ)",
+      "register": "neutral",
+      "example": "I recently took up swimming to stay in shape.",
+      "exampleVi": "Gần đây tôi bắt đầu tập bơi để giữ dáng.",
+      "note": "Cụm động từ, dùng khi bắt đầu một sở thích/môn thể thao mới. Khác 'play' (đang chơi).",
+      "synonyms": [
+        { "term": "to get into", "ipa": "/tə ɡet ˈɪn.tuː/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'bắt đầu thấy thích và đam mê'. Vd 'I got into running last year.'" }
+      ]
+    },
+    {
+      "term": "competitive",
+      "ipa": "/kəmˈpet.ɪ.tɪv/",
+      "vi": "có tính cạnh tranh, ganh đua (tính từ)",
+      "register": "neutral",
+      "example": "He's very competitive, so he hates losing even a friendly game.",
+      "exampleVi": "Cậu ấy rất ganh đua, nên ghét thua dù chỉ là trận giao hữu.",
+      "note": "Tính từ. Tả người thích thắng; cũng tả một giải đấu/môn 'gay cấn, nhiều cạnh tranh'.",
+      "synonyms": [
+        { "term": "ambitious", "ipa": "/æmˈbɪʃ.əs/", "register": "neutral", "nuanceVi": "Nhấn 'tham vọng, muốn đạt mục tiêu lớn', không nhất thiết là so kè với người khác." }
+      ]
+    },
+    {
+      "term": "exciting",
+      "ipa": "/ɪkˈsaɪ.tɪŋ/",
+      "vi": "hấp dẫn, hứng khởi (tính từ)",
+      "register": "neutral",
+      "example": "It was such an exciting final that nobody left their seat.",
+      "exampleVi": "Một trận chung kết hấp dẫn đến mức không ai rời ghế.",
+      "note": "Tính từ tả sự vật/trận đấu (-ing). Tả cảm giác của người thì dùng 'excited' (-ed). Đừng nhầm hai đuôi.",
+      "synonyms": [
+        { "term": "thrilling", "ipa": "/ˈθrɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn 'exciting', nhấn cảm giác hồi hộp, tim đập nhanh." },
+        { "term": "gripping", "ipa": "/ˈɡrɪp.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'cuốn hút đến mức không dứt ra được', tập trung hoàn toàn vào diễn biến." },
+        { "term": "intense", "ipa": "/ɪnˈtens/", "register": "neutral", "nuanceVi": "Nhấn 'căng thẳng, dữ dội', thiên về mức độ gay cấn hơn là vui." }
+      ]
+    },
+    {
+      "term": "to score",
+      "ipa": "/tə skɔːr/",
+      "vi": "ghi bàn, ghi điểm (động từ)",
+      "register": "neutral",
+      "example": "Our striker scored twice in the second half.",
+      "exampleVi": "Tiền đạo của chúng tôi ghi hai bàn trong hiệp hai.",
+      "note": "Động từ. Danh từ 'score' nghĩa là 'tỉ số': 'What's the score?' (Tỉ số bao nhiêu rồi?).",
+      "synonyms": [
+        { "term": "to net", "ipa": "/tə net/", "register": "casual", "nuanceVi": "Đời thường trong bóng đá, nghĩa 'sút tung lưới, ghi bàn'. Hay gặp trên báo thể thao." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "một cách đều đặn, thường xuyên (trạng từ)",
+      "register": "neutral",
+      "example": "I try to exercise regularly, usually three times a week.",
+      "exampleVi": "Tôi cố tập luyện đều đặn, thường ba lần một tuần.",
+      "note": "Trạng từ chỉ tần suất. Đặt trước động từ thường hoặc cuối câu.",
+      "synonyms": [
+        { "term": "frequently", "ipa": "/ˈfriː.kwənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhiều lần', không nhất thiết theo lịch đều. 'regularly' ngụ ý có nhịp/thói quen cố định." },
+        { "term": "consistently", "ipa": "/kənˈsɪs.tənt.li/", "register": "formal", "nuanceVi": "Nhấn 'kiên trì, ổn định không bỏ', trang trọng hơn; hợp khi nói về kỷ luật tập luyện." }
+      ]
+    },
+    {
+      "term": "to keep fit",
+      "ipa": "/tə kiːp fɪt/",
+      "vi": "giữ gìn sức khỏe, giữ dáng (cụm động từ)",
+      "register": "neutral",
+      "example": "Playing badminton is a great way to keep fit.",
+      "exampleVi": "Chơi cầu lông là cách tuyệt vời để giữ sức khỏe.",
+      "note": "Cụm cố định. 'fit' ở đây là tính từ nghĩa 'khỏe, săn chắc', không phải 'vừa vặn'.",
+      "synonyms": [
+        { "term": "to stay in shape", "ipa": "/tə steɪ ɪn ʃeɪp/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa tương đương 'giữ dáng/giữ phong độ thể chất'." },
+        { "term": "to work out", "ipa": "/tə wɜːk aʊt/", "register": "casual", "nuanceVi": "Nhấn hành động 'tập luyện, đến phòng gym', là phương tiện để keep fit chứ không phải kết quả." }
+      ]
+    },
+    {
+      "term": "draw",
+      "ipa": "/drɔː/",
+      "vi": "trận hòa (danh từ)",
+      "register": "neutral",
+      "example": "The match ended in a two-all draw.",
+      "exampleVi": "Trận đấu kết thúc với tỉ số hòa 2-2.",
+      "note": "Danh từ (Anh-Anh). Người Mỹ thường dùng 'tie'. Động từ: 'The teams drew 1-1.'",
+      "synonyms": [
+        { "term": "tie", "ipa": "/taɪ/", "register": "neutral", "nuanceVi": "Cách nói kiểu Mỹ cho 'trận hòa'. Nghĩa y hệt 'draw'." }
+      ]
+    },
+    {
+      "term": "underdog",
+      "ipa": "/ˈʌn.də.dɒɡ/",
+      "vi": "đội/người bị xem là cửa dưới (danh từ)",
+      "register": "neutral",
+      "example": "Everyone loves it when the underdog wins against a stronger team.",
+      "exampleVi": "Ai cũng thích khi đội cửa dưới đánh bại đội mạnh hơn.",
+      "note": "Danh từ. Chỉ bên bị đánh giá yếu hơn, ít cơ hội thắng — nhưng vì thế mà dễ được cổ vũ."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm really into [danh từ / V-ing].",
+      "use": "Nói bạn rất thích/mê một môn thể thao.",
+      "register": "casual",
+      "examples": [
+        "I'm really into football, especially the Premier League.",
+        "I'm really into running these days."
+      ],
+      "explanationVi": "'be into something' = mê, hứng thú với điều gì. Nghe tự nhiên và đời thường, hợp khi nói chuyện với bạn bè.",
+      "altOf": "stating-preference"
+    },
+    {
+      "pattern": "My favourite [môn] is [tên], because [lý do].",
+      "use": "Nêu môn/đội yêu thích kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "My favourite sport is basketball, because it's fast and exciting.",
+        "My favourite team is Liverpool, because they never give up."
+      ],
+      "explanationVi": "Mẫu an toàn, rõ ràng. 'because' giúp câu dài hơn và thuyết phục hơn so với chỉ nói tên môn.",
+      "altOf": "stating-preference"
+    },
+    {
+      "pattern": "Do you fancy [V-ing] ... ?",
+      "use": "Rủ bạn làm gì đó một cách thân mật (kiểu Anh).",
+      "register": "casual",
+      "examples": [
+        "Do you fancy watching the match at my place tonight?",
+        "Do you fancy a game of tennis this weekend?"
+      ],
+      "explanationVi": "'fancy + V-ing' (Anh-Anh) nghĩa 'có muốn... không'. Rất tự nhiên khi rủ rê bạn bè; thân mật hơn 'Would you like to...?'.",
+      "altOf": "inviting"
+    },
+    {
+      "pattern": "How about [V-ing] ... ?",
+      "use": "Gợi ý một hoạt động một cách nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "How about going to the stadium together?",
+        "How about watching the final at a sports bar?"
+      ],
+      "explanationVi": "'How about + V-ing' là cách gợi ý phổ biến, trung tính. Lưu ý sau 'How about' là danh từ hoặc V-ing, không phải động từ nguyên thể.",
+      "altOf": "inviting"
+    },
+    {
+      "pattern": "I couldn't agree more, [thêm ý].",
+      "use": "Đồng ý mạnh mẽ với ý kiến của người kia.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't agree more; their defence was outstanding.",
+        "I couldn't agree more, he definitely deserved the award."
+      ],
+      "explanationVi": "'I couldn't agree more' = không thể đồng ý hơn (tức là rất đồng ý). Đừng dịch máy móc thành 'không đồng ý' — đây là cách nhấn đồng tình.",
+      "altOf": "responding-opinion"
+    },
+    {
+      "pattern": "I see what you mean, but [quan điểm khác].",
+      "use": "Lịch sự không đồng ý hoàn toàn.",
+      "register": "neutral",
+      "examples": [
+        "I see what you mean, but I still think the referee made a mistake.",
+        "I see what you mean, but tennis can be just as exciting as football."
+      ],
+      "explanationVi": "Công nhận ý người kia trước ('I see what you mean') rồi mới đưa ý khác sau 'but' — cách phản biện nhã nhặn, không làm mất lòng.",
+      "altOf": "responding-opinion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một nhận xét chân thành về trận đấu hay cầu thủ.", "example": "Honestly, that was the best goal I've seen all season." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ)", "when": "Khi muốn sửa lại hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I prefer basketball to football." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh khi đồng ý hoặc nhận lời rủ.", "example": "Yeah, I'd definitely love to come and watch the final." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "nói thật thì", "when": "Mở đầu ý kiến thẳng thắn, đôi khi hơi trái chiều.", "example": "To be honest, I find golf a bit boring." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt của trận đấu.", "example": "Fortunately, our team scored in the last minute." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Minh và Lan, đang trò chuyện trong giờ nghỉ về thể thao và rủ nhau cuối tuần đi xem một trận đấu.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "Hey Lan, did you watch the match last night? It was honestly one of the most exciting games I've seen this year.",
+        "ipa": "/heɪ læn dɪd juː wɒtʃ ðə mætʃ lɑːst naɪt ɪt wɒz ˈɒn.ɪst.li wʌn ɒv ðə məʊst ɪkˈsaɪ.tɪŋ ɡeɪmz aɪv siːn ðɪs jɪər/",
+        "vi": "Này Lan, tối qua cậu có xem trận đấu không? Thật lòng mà nói đó là một trong những trận hấp dẫn nhất tớ xem năm nay."
+      },
+      {
+        "speaker": "Lan",
+        "text": "I did! I'm really ____ football, so I never miss a big game. Although I was quite tired, I stayed up until the very end.",
+        "ipa": "/aɪ dɪd aɪm ˈrɪə.li ... ˈfʊt.bɔːl səʊ aɪ ˈnev.ər mɪs ə bɪɡ ɡeɪm ɔːlˈðəʊ aɪ wɒz kwaɪt ˈtaɪəd aɪ steɪd ʌp ənˈtɪl ðə ˈver.i end/",
+        "vi": "Có chứ! Tớ rất mê bóng đá nên không bao giờ bỏ lỡ trận lớn. Dù khá mệt, tớ vẫn thức đến tận phút cuối.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "into",
+            "explanationVi": "Cụm 'be really into something' = rất mê điều gì. Xem mẫu câu 'I'm really into...'. Sau 'into' là danh từ hoặc V-ing."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Same here. Which team do you ____, by the way? I've supported the local club since I was a kid.",
+        "ipa": "/seɪm hɪər wɪtʃ tiːm duː juː ... baɪ ðə weɪ aɪv səˈpɔː.tɪd ðə ˈləʊ.kəl klʌb sɪns aɪ wɒz ə kɪd/",
+        "vi": "Tớ cũng vậy. Mà cậu cổ vũ đội nào thế? Tớ ủng hộ câu lạc bộ địa phương từ hồi còn bé.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "support",
+            "explanationVi": "Động từ 'support a team' = là fan, cổ vũ một đội lâu dài. Đây là từ vựng trọng tâm của bài; sau 'do you' dùng động từ nguyên thể."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I support ____, mainly because they play attacking football and they never give up, even when they're losing.",
+        "ipa": "/aɪ səˈpɔːt ... ˈmeɪn.li bɪˈkɔːz ðeɪ pleɪ əˈtæk.ɪŋ ˈfʊt.bɔːl ænd ðeɪ ˈnev.ər ɡɪv ʌp ˈiː.vən wen ðeə ˈluː.zɪŋ/",
+        "vi": "Tớ cổ vũ đội ____, chủ yếu vì họ chơi tấn công và không bao giờ bỏ cuộc, kể cả khi đang thua.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tên đội bóng bạn yêu thích. Ví dụ: 'Liverpool', 'Manchester City', 'Việt Nam'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I see what you mean, but I think their defence is a bit weak. However, their striker is brilliant; he scored such a beautiful goal yesterday.",
+        "ipa": "/aɪ siː wɒt juː miːn bʌt aɪ θɪŋk ðeə dɪˈfens ɪz ə bɪt wiːk haʊˈev.ər ðeə ˈstraɪ.kər ɪz ˈbrɪl.jənt hiː skɔːd sʌtʃ ə ˈbjuː.tɪ.fəl ɡəʊl ˈjes.tə.deɪ/",
+        "vi": "Tớ hiểu ý cậu, nhưng tớ thấy hàng thủ của họ hơi yếu. Tuy nhiên, tiền đạo của họ thì cực giỏi; hôm qua cậu ấy ghi một bàn đẹp ơi là đẹp."
+      },
+      {
+        "speaker": "Lan",
+        "text": "I couldn't agree ____! That goal was incredible. Not only is he fast, but he also reads the game really well.",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː ... ðæt ɡəʊl wɒz ɪnˈkred.ə.bəl nɒt ˈəʊn.li ɪz hiː fɑːst bʌt hiː ˈɔːl.səʊ riːdz ðə ɡeɪm ˈrɪə.li wel/",
+        "vi": "Tớ hoàn toàn đồng ý! Bàn thắng đó thật khó tin. Cậu ấy không chỉ nhanh, mà còn đọc trận đấu rất tốt.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "more",
+            "explanationVi": "Cụm 'I couldn't agree more' = không thể đồng ý hơn nữa, tức là rất đồng ý. Xem mẫu câu cùng tên ở phần Cấu trúc."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Exactly. Anyway, the final is on this Saturday. ____ you fancy watching it together at my place?",
+        "ipa": "/ɪɡˈzækt.li ˈen.i.weɪ ðə ˈfaɪ.nəl ɪz ɒn ðɪs ˈsæt.ə.deɪ ... juː ˈfæn.si ˈwɒtʃ.ɪŋ ɪt təˈɡeð.ər ət maɪ pleɪs/",
+        "vi": "Chính xác. Mà này, trận chung kết diễn ra thứ Bảy này đấy. Cậu có muốn xem cùng tớ ở nhà tớ không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Do",
+            "explanationVi": "Mẫu rủ rê thân mật: 'Do you fancy + V-ing?' (Anh-Anh). Sau 'fancy' dùng V-ing ('watching'). Xem mẫu câu 'Do you fancy...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I'd definitely love to! In order to make it more fun, why don't we invite ____ as well, and order some pizza?",
+        "ipa": "/aɪd ˈdef.ɪn.ət.li lʌv tuː ɪn ˈɔː.də tə meɪk ɪt mɔː fʌn waɪ dəʊnt wiː ɪnˈvaɪt ... æz wel ænd ˈɔː.də sʌm ˈpiːt.sə/",
+        "vi": "Tớ chắc chắn muốn đi chứ! Để cho vui hơn, hay là mình rủ thêm ____ và gọi ít pizza nhỉ?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tên một người bạn bạn muốn rủ thêm. Ví dụ: 'Tuan', 'my brother', 'the others'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Great idea! Despite my busy schedule, I'll definitely make time for the final. It's going to be a fantastic weekend.",
+        "ipa": "/ɡreɪt aɪˈdɪə dɪˈspaɪt maɪ ˈbɪz.i ˈʃed.juːl aɪl ˈdef.ɪn.ət.li meɪk taɪm fɔː ðə ˈfaɪ.nəl ɪts ˈɡəʊ.ɪŋ tə biː ə fænˈtæs.tɪk ˌwiːkˈend/",
+        "vi": "Ý hay đấy! Dù lịch của tớ khá bận, tớ chắc chắn sẽ dành thời gian cho trận chung kết. Sẽ là một cuối tuần tuyệt vời cho mà xem."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Anh, 'football' nghĩa là bóng đá; ở Mỹ, 'football' lại là bóng bầu dục, còn bóng đá gọi là 'soccer'. Hỏi rõ để tránh hiểu nhầm.",
+    "Thể thao là chủ đề small-talk rất an toàn ở phương Tây để mở đầu trò chuyện với người mới quen, giống như nói về thời tiết.",
+    "Người Anh thường dùng 'match', 'supporter', 'pitch' (sân), còn người Mỹ dùng 'game', 'fan', 'field'. Cả hai đều đúng, tùy vùng.",
+    "Khi không đồng ý về đội bóng hay cầu thủ, người bản xứ vẫn giữ thái độ vui vẻ, hài hước; tranh luận thể thao nên nhẹ nhàng, không gay gắt."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'exciting' (tả trận đấu) với 'excited' (tả cảm giác của người): trận đấu là 'exciting', còn bạn cảm thấy 'excited'.",
+    "Quên 'be' trong cụm 'be into': phải nói 'I'm into football', không phải 'I into football'.",
+    "Đảo ngữ sai với 'Not only': phải đảo trợ động từ — 'Not only IS he fast...', không phải 'Not only he is fast...'.",
+    "Dùng 'How about play...' — sau 'How about' phải là V-ing ('How about playing...') hoặc danh từ, không dùng động từ nguyên thể."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về thể thao như với một người bạn thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện thân mật với tôi về thể thao. Hãy bắt đầu bằng cách hỏi tôi có xem trận đấu nào gần đây không. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn, chia sẻ quan điểm của bạn và đôi khi không đồng ý một cách vui vẻ để tôi tập phản biện, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'because', 'although', 'such as' và 'not only... but also'. Cuối buổi, hãy rủ tôi đi xem một trận đấu hoặc chơi một môn thể thao để tôi tập nhận lời/từ chối. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy dùng nhiều từ lóng thể thao kiểu Anh-Anh (match, supporter, fixture) để tôi làm quen.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy tranh luận gay cấn hơn một chút để tôi tập giữ vững quan điểm bằng tiếng Anh.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được môn/đội yêu thích kèm ít nhất một lý do bằng 'because'.",
+    "Tôi rủ được bạn xem trận đấu bằng 'Do you fancy...?' hoặc 'How about...?'.",
+    "Tôi biết cách đồng ý ('I couldn't agree more') và lịch sự không đồng ý ('I see what you mean, but...')."
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "train-station",
+  "category": "travel",
+  "title": "Ở ga tàu",
+  "titleEn": "At the Train Station",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mua vé tàu và nói rõ điểm đến, loại vé",
+    "Hỏi giờ tàu chạy, sân ga và đường ray",
+    "Hỏi đường đến đúng sân ga một cách lịch sự",
+    "Xử lý tình huống lỡ tàu hoặc tàu bị trễ"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "ticket",
+      "ipa": "/ˈtɪk.ɪt/",
+      "vi": "vé (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to buy a ticket to London, please.",
+      "exampleVi": "Tôi muốn mua một vé đi London.",
+      "note": "Danh từ. Vé một chiều là 'one-way ticket', vé khứ hồi là 'return ticket' (Anh-Anh) hoặc 'round-trip ticket' (Anh-Mỹ).",
+      "synonyms": [
+        { "term": "fare", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Nhấn vào 'số tiền' phải trả cho chuyến đi, không phải tờ vé. Ví dụ: 'How much is the fare?' (Giá vé bao nhiêu?)." },
+        { "term": "pass", "ipa": "/pɑːs/", "register": "neutral", "nuanceVi": "Là loại vé dùng nhiều lần trong một khoảng thời gian (vé tháng, vé tuần). Khác 'ticket' chỉ đi một lần." }
+      ]
+    },
+    {
+      "term": "platform",
+      "ipa": "/ˈplæt.fɔːm/",
+      "vi": "sân ga (danh từ)",
+      "register": "neutral",
+      "example": "The train leaves from platform 4.",
+      "exampleVi": "Tàu khởi hành từ sân ga số 4.",
+      "note": "Danh từ. Nơi bạn đứng chờ để lên tàu. Người Mỹ đôi khi gọi đường ray là 'track'.",
+      "synonyms": [
+        { "term": "track", "ipa": "/træk/", "register": "neutral", "nuanceVi": "Anh-Mỹ hay dùng 'track' để chỉ chỗ tàu đến (= đường ray). 'platform' nghiêng về phần nền cho khách đứng." }
+      ]
+    },
+    {
+      "term": "timetable",
+      "ipa": "/ˈtaɪm.teɪ.bəl/",
+      "vi": "bảng giờ tàu / lịch trình (danh từ)",
+      "register": "neutral",
+      "example": "Let me check the timetable for the next train.",
+      "exampleVi": "Để tôi xem bảng giờ tàu cho chuyến tiếp theo.",
+      "note": "Danh từ. Anh-Anh dùng 'timetable', Anh-Mỹ hay dùng 'schedule'.",
+      "synonyms": [
+        { "term": "schedule", "ipa": "/ˈskedʒ.uːl/", "register": "neutral", "nuanceVi": "Nghĩa y hệt nhưng phổ biến hơn ở Anh-Mỹ. Phát âm Anh-Mỹ là /ˈskedʒ.uːl/, Anh-Anh là /ˈʃedʒ.uːl/." }
+      ]
+    },
+    {
+      "term": "to depart",
+      "ipa": "/dɪˈpɑːt/",
+      "vi": "khởi hành (động từ)",
+      "register": "formal",
+      "example": "The train to Paris departs at 9 a.m.",
+      "exampleVi": "Tàu đi Paris khởi hành lúc 9 giờ sáng.",
+      "note": "Động từ, hơi trang trọng, hay thấy trên bảng điện tử ở ga. Danh từ: 'departure' (sự khởi hành).",
+      "synonyms": [
+        { "term": "to leave", "ipa": "/liːv/", "register": "neutral", "nuanceVi": "Đời thường, dễ dùng nhất khi nói. 'What time does the train leave?' tự nhiên hơn 'depart' trong hội thoại." }
+      ]
+    },
+    {
+      "term": "to arrive",
+      "ipa": "/əˈraɪv/",
+      "vi": "đến nơi (động từ)",
+      "register": "neutral",
+      "example": "What time does the train arrive in London?",
+      "exampleVi": "Mấy giờ tàu đến London?",
+      "note": "Động từ. Lưu ý giới từ: 'arrive IN + thành phố', 'arrive AT + nơi cụ thể (ga, sân bay)'.",
+      "synonyms": [
+        { "term": "to get in", "ipa": "/ɡet ɪn/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'tàu/xe đến nơi'. Ví dụ: 'The train gets in at 6.' Thân mật hơn 'arrive'." }
+      ]
+    },
+    {
+      "term": "return ticket",
+      "ipa": "/rɪˈtɜːn ˈtɪk.ɪt/",
+      "vi": "vé khứ hồi (danh từ)",
+      "register": "neutral",
+      "example": "Can I have a return ticket to Oxford, please?",
+      "exampleVi": "Cho tôi một vé khứ hồi đi Oxford nhé?",
+      "note": "Anh-Anh dùng 'return ticket', Anh-Mỹ dùng 'round-trip ticket'. Ngược lại là 'one-way ticket' (vé một chiều).",
+      "synonyms": [
+        { "term": "round-trip ticket", "ipa": "/ˌraʊnd.trɪp ˈtɪk.ɪt/", "register": "neutral", "nuanceVi": "Cách nói Anh-Mỹ cho cùng nghĩa 'vé khứ hồi'. Ở Mỹ dùng từ này, ở Anh dùng 'return'." }
+      ]
+    },
+    {
+      "term": "delayed",
+      "ipa": "/dɪˈleɪd/",
+      "vi": "bị trễ / hoãn (tính từ)",
+      "register": "neutral",
+      "example": "I'm sorry, the train is delayed by twenty minutes.",
+      "exampleVi": "Xin lỗi, tàu bị trễ hai mươi phút.",
+      "note": "Tính từ. Trên bảng điện tử ở ga bạn sẽ thấy chữ 'Delayed'. Ngược lại là 'on time' (đúng giờ).",
+      "synonyms": [
+        { "term": "late", "ipa": "/leɪt/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng: 'The train is late.' 'delayed' nghe chính thức hơn, hay dùng trong thông báo." },
+        { "term": "behind schedule", "ipa": "/bɪˈhaɪnd ˈskedʒ.uːl/", "register": "neutral", "nuanceVi": "Cụm từ, nghĩa 'chậm so với lịch trình'. Nghe trang trọng hơn 'late' một chút." }
+      ]
+    },
+    {
+      "term": "to miss",
+      "ipa": "/mɪs/",
+      "vi": "lỡ (chuyến tàu) (động từ)",
+      "register": "neutral",
+      "example": "Hurry up, or we'll miss the train!",
+      "exampleVi": "Nhanh lên không thì chúng ta lỡ tàu mất!",
+      "note": "Động từ. 'miss the train/bus/flight' = không kịp lên. Đừng nhầm với 'miss someone' (nhớ ai đó).",
+      "synonyms": [
+        { "term": "to catch", "ipa": "/kætʃ/", "register": "neutral", "nuanceVi": "Là động từ TRÁI NGHĨA: 'catch the train' = kịp lên tàu. Học cặp 'catch/miss' cùng nhau rất tiện." }
+      ]
+    },
+    {
+      "term": "single",
+      "ipa": "/ˈsɪŋ.ɡəl/",
+      "vi": "(vé) một chiều (tính từ)",
+      "register": "neutral",
+      "example": "A single to Cambridge, please.",
+      "exampleVi": "Cho tôi một vé một chiều đi Cambridge.",
+      "note": "Anh-Anh nói 'a single' (= a single ticket). Anh-Mỹ nói 'a one-way'. Có thể dùng như danh từ luôn: 'a single, please'."
+    },
+    {
+      "term": "ticket office",
+      "ipa": "/ˈtɪk.ɪt ˈɒf.ɪs/",
+      "vi": "quầy bán vé (danh từ)",
+      "register": "neutral",
+      "example": "You can buy tickets at the ticket office or from the machine.",
+      "exampleVi": "Bạn có thể mua vé ở quầy bán vé hoặc từ máy bán vé.",
+      "note": "Danh từ ghép. Nơi nhân viên bán vé. Máy bán vé tự động gọi là 'ticket machine'."
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "Please walk quickly, the train is about to leave.",
+      "exampleVi": "Đi nhanh lên, tàu sắp chạy rồi.",
+      "note": "Trạng từ. Bổ nghĩa cho động từ (walk quickly, run quickly).",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ, đời thường: 'walk fast'. Không có đuôi -ly." },
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng trong văn viết. Trong hội thoại ở ga thì 'quickly' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "Where can I leave my luggage?",
+      "exampleVi": "Tôi có thể gửi hành lý ở đâu?",
+      "note": "Danh từ KHÔNG đếm được: không có 'luggages', không nói 'a luggage'. Một kiện thì nói 'a piece of luggage'.",
+      "synonyms": [
+        { "term": "baggage", "ipa": "/ˈbæɡ.ɪdʒ/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt, cũng không đếm được. Anh-Mỹ hay dùng 'baggage' (vd 'baggage claim' ở sân bay)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like a [loại vé] to [địa điểm], please.",
+      "use": "Mua vé và nói rõ điểm đến một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like a single to Cambridge, please.",
+        "I'd like a return ticket to Oxford, please."
+      ],
+      "explanationVi": "'I'd like' (= I would like) lịch sự và an toàn hơn 'I want'. Đây là câu xương sống khi mua vé ở quầy.",
+      "altOf": "buying-ticket"
+    },
+    {
+      "pattern": "Can I have a [loại vé] to [địa điểm], please?",
+      "use": "Cách khác để mua vé, thân thiện và rất thông dụng.",
+      "register": "neutral",
+      "examples": [
+        "Can I have a return to London, please?",
+        "Can I have two singles to Bath, please?"
+      ],
+      "explanationVi": "'Can I have...?' đời thường và phổ biến không kém 'I'd like'. Cả hai đều lịch sự nếu có 'please'.",
+      "altOf": "buying-ticket"
+    },
+    {
+      "pattern": "What time does the train to [địa điểm] leave?",
+      "use": "Hỏi giờ tàu khởi hành.",
+      "register": "neutral",
+      "examples": [
+        "What time does the train to Paris leave?",
+        "What time does the next train to Leeds depart?"
+      ],
+      "explanationVi": "Dùng 'does ... leave' vì là hiện tại đơn cho lịch trình cố định. Có thể thay 'leave' bằng 'depart' (trang trọng hơn)."
+    },
+    {
+      "pattern": "Which platform does the train to [địa điểm] leave from?",
+      "use": "Hỏi xem tàu chạy từ sân ga số mấy.",
+      "register": "neutral",
+      "examples": [
+        "Which platform does the train to Manchester leave from?",
+        "Which platform is the 9 o'clock train?"
+      ],
+      "explanationVi": "Để ý giới từ 'from' ở cuối câu (leave FROM a platform). Đây là câu cực kỳ hữu ích để khỏi đứng nhầm sân ga."
+    },
+    {
+      "pattern": "Excuse me, could you tell me where [danh từ] is?",
+      "use": "Hỏi đường lịch sự đến một nơi trong ga.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, could you tell me where platform 6 is?",
+        "Excuse me, could you tell me where the ticket office is?"
+      ],
+      "explanationVi": "'Could you tell me where ... is?' là câu hỏi gián tiếp, lịch sự hơn 'Where is...?'. Lưu ý trật tự từ: chủ ngữ + động từ ('platform 6 is'), không đảo."
+    },
+    {
+      "pattern": "Is the train on time?",
+      "use": "Hỏi xem tàu có chạy đúng giờ không.",
+      "register": "neutral",
+      "examples": [
+        "Is the train to Bristol on time?",
+        "Excuse me, is the 10:15 train on time?"
+      ],
+      "explanationVi": "'on time' = đúng giờ. Nếu tàu trễ thì câu trả lời sẽ có 'delayed' hoặc 'late'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "excuse me",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "vi": "xin lỗi (để bắt chuyện / hỏi đường)",
+      "when": "Mở đầu khi muốn hỏi người lạ điều gì đó ở ga.",
+      "example": "Excuse me, where is platform 3?"
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin mà không muốn nghe cộc.",
+      "example": "Actually, I wanted a return, not a single."
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn yêu cầu hoặc hỏi nghe nhẹ nhàng.",
+      "example": "I just have a quick question about the platform."
+    },
+    {
+      "term": "unfortunately",
+      "ipa": "/ʌnˈfɔː.tʃən.ət.li/",
+      "vi": "không may là...",
+      "when": "Dẫn vào một tin không vui (tàu trễ, lỡ tàu).",
+      "example": "Unfortunately, I missed the earlier train."
+    },
+    {
+      "term": "luckily",
+      "ipa": "/ˈlʌk.ɪ.li/",
+      "vi": "may là...",
+      "when": "Dẫn vào một tin tốt sau khi có chuyện không hay.",
+      "example": "Luckily, there's another train in ten minutes."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang ở ga tàu và đến quầy bán vé để mua vé. Bạn cần hỏi thêm về giờ tàu và sân ga, và xử lý việc tàu bị trễ.",
+    "lines": [
+      {
+        "speaker": "Nhân viên bán vé",
+        "text": "Good morning! Where would you like to go today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ weər wʊd juː laɪk tə ɡəʊ təˈdeɪ/",
+        "vi": "Chào buổi sáng! Hôm nay anh/chị muốn đi đâu ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like a return ticket to ____, please. Although it's a bit far, I really want to visit the city today.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk ə rɪˈtɜːn ˈtɪk.ɪt tə ... pliːz ɔːlˈðəʊ ɪts ə bɪt fɑː aɪ ˈrɪə.li wɒnt tə ˈvɪz.ɪt ðə ˈsɪt.i təˈdeɪ/",
+        "vi": "Chào buổi sáng. Cho tôi một vé khứ hồi đi ____ nhé. Mặc dù hơi xa, tôi rất muốn đến thăm thành phố đó hôm nay.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên thành phố bạn muốn đến. Ví dụ: 'Oxford', 'London'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bán vé",
+        "text": "Of course. That will be 25 pounds. The next train leaves at 9:30. By the way, would you like a window seat?",
+        "ipa": "/ɒv kɔːs ðæt wɪl biː ˈtwen.ti faɪv paʊndz ðə nekst treɪn liːvz æt ˈnaɪn ˈθɜː.ti baɪ ðə weɪ wʊd juː laɪk ə ˈwɪn.dəʊ siːt/",
+        "vi": "Tất nhiên rồi. Tổng cộng là 25 bảng. Chuyến tàu tiếp theo khởi hành lúc 9 giờ 30. Nhân tiện, anh/chị có muốn ghế cạnh cửa sổ không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. Excuse me, could you tell me which platform the train ____ from?",
+        "ipa": "/jes pliːz ɪkˈskjuːz miː kʊd juː tel miː wɪtʃ ˈplæt.fɔːm ðə treɪn ... frɒm/",
+        "vi": "Vâng, cảm ơn. Xin lỗi, anh/chị cho tôi hỏi tàu chạy ____ sân ga nào ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "leaves", "explanationVi": "Dùng 'leaves' (hiện tại đơn, thêm 's' vì chủ ngữ 'the train' số ít) cho lịch trình cố định. Câu đầy đủ: 'which platform the train leaves from'. Xem mẫu câu 'Which platform does the train leave from?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bán vé",
+        "text": "It usually leaves from platform 4, which is just over there on the right. However, please check the board, because platforms can change.",
+        "ipa": "/ɪt ˈjuː.ʒu.ə.li liːvz frɒm ˈplæt.fɔːm fɔː wɪtʃ ɪz dʒʌst ˈəʊ.və ðeə ɒn ðə raɪt haʊˈev.ə pliːz tʃek ðə bɔːd bɪˈkɒz ˈplæt.fɔːmz kæn tʃeɪndʒ/",
+        "vi": "Tàu thường chạy từ sân ga số 4, ngay đằng kia bên phải. Tuy nhiên, anh/chị nhớ xem bảng điện tử, vì sân ga có thể thay đổi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. Oh no, the board says the train is ____ by thirty minutes. Unfortunately, that means I might be late for my meeting.",
+        "ipa": "/θæŋk juː əʊ nəʊ ðə bɔːd sez ðə treɪn ɪz ... baɪ ˈθɜː.ti ˈmɪn.ɪts ʌnˈfɔː.tʃən.ət.li ðæt miːnz aɪ maɪt biː leɪt fɔː maɪ ˈmiː.tɪŋ/",
+        "vi": "Cảm ơn. Ôi không, bảng báo tàu bị ____ ba mươi phút. Không may là điều đó có nghĩa tôi có thể trễ cuộc họp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "delayed", "explanationVi": "Dùng tính từ 'delayed' (bị trễ/hoãn) sau động từ 'is'. Đây là từ bạn hay thấy trên bảng điện tử ở ga, trang trọng hơn 'late'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bán vé",
+        "text": "I'm really sorry about that. Luckily, there is an earlier train on platform 2, which leaves in five minutes, so you should walk ____ if you want to catch it.",
+        "ipa": "/aɪm ˈrɪə.li ˈsɒr.i əˈbaʊt ðæt ˈlʌk.ɪ.li ðeər ɪz ən ˈɜː.li.ə treɪn ɒn ˈplæt.fɔːm tuː wɪtʃ liːvz ɪn faɪv ˈmɪn.ɪts səʊ juː ʃʊd wɔːk ... ɪf juː wɒnt tə kætʃ ɪt/",
+        "vi": "Tôi rất tiếc về điều đó. May là có một chuyến sớm hơn ở sân ga số 2, khởi hành sau năm phút nữa, nên anh/chị nên đi bộ ____ nếu muốn kịp lên tàu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "quickly", "explanationVi": "Dùng trạng từ 'quickly' để bổ nghĩa cho động từ 'walk' (đi bộ nhanh). Tính từ 'quick' thì sai vì ở đây cần bổ nghĩa cho hành động." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's great news, thank you so much! I'll go now in order to ____ that train. Have a nice day!",
+        "ipa": "/ðæts ɡreɪt njuːz θæŋk juː səʊ mʌtʃ aɪl ɡəʊ naʊ ɪn ˈɔː.də tə ... ðæt treɪn hæv ə naɪs deɪ/",
+        "vi": "Đúng là tin tốt, cảm ơn anh/chị nhiều! Tôi đi ngay đây để ____ chuyến tàu đó. Chúc một ngày tốt lành!",
+        "blanks": [
+          { "type": "knowledge", "answer": "catch", "explanationVi": "Dùng động từ 'catch' (kịp lên tàu) sau 'in order to' (để mà). 'catch the train' là trái nghĩa của 'miss the train' (lỡ tàu)." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bán vé",
+        "text": "You're welcome. Have a safe trip, and enjoy your time in the city!",
+        "ipa": "/jɔː ˈwel.kəm hæv ə seɪf trɪp ænd ɪnˈdʒɔɪ jɔː taɪm ɪn ðə ˈsɪt.i/",
+        "vi": "Không có gì. Chúc anh/chị một chuyến đi an toàn và tận hưởng thời gian ở thành phố nhé!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Anh, vé một chiều gọi là 'single', vé khứ hồi gọi là 'return'. Ở Mỹ thì dùng 'one-way' và 'round-trip'.",
+    "Sân ga (platform) có thể thay đổi vào phút chót, nên người bản xứ luôn nhắc nhau xem bảng điện tử ('the board' / 'departure board').",
+    "Nhiều ga lớn có máy bán vé tự động ('ticket machine') ngoài quầy bán vé — thường nhanh hơn khi đông khách.",
+    "Khi hỏi đường người lạ ở ga, hãy bắt đầu bằng 'Excuse me' cho lịch sự, rồi mới hỏi."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a ticket' nghe hơi cộc. Người bản xứ dùng 'I'd like...' hoặc 'Can I have..., please?'.",
+    "Dùng sai giới từ với 'arrive': phải là 'arrive IN London' (thành phố) và 'arrive AT the station' (nơi cụ thể).",
+    "Coi 'luggage' là danh từ đếm được: KHÔNG nói 'luggages' hay 'a luggage'; nói 'some luggage' hoặc 'a piece of luggage'.",
+    "Nhầm 'miss' với 'lose': 'miss the train' là lỡ tàu, còn 'lose' là làm mất đồ vật."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ở ga tàu như thật.",
+    "prompt": "Hãy đóng vai một nhân viên bán vé ở ga tàu nói tiếng Anh. Tôi là khách muốn mua vé và hỏi về giờ tàu, sân ga. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ tàu bị trễ, đổi sân ga, hết vé chuyến đó) để tôi tập xử lý. Hãy nói chậm rãi, dùng từ ngữ đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mua được vé và nói rõ điểm đến, loại vé mà không nhìn gợi ý.",
+    "Tôi hỏi được giờ tàu và sân ga một cách lịch sự.",
+    "Tôi xử lý được tình huống tàu bị trễ và hỏi chuyến thay thế."
+  ]
+}

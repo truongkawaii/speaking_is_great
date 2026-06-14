@@ -1,0 +1,381 @@
+{
+  "id": "small-talk-weather",
+  "category": "daily-life",
+  "title": "Tán gẫu về thời tiết",
+  "titleEn": "Small Talk About Weather",
+  "level": "A2",
+  "functions": ["small-talk", "opinions", "agreeing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Bắt chuyện xã giao bằng cách nói về thời tiết một cách tự nhiên",
+    "Mô tả thời tiết hôm nay bằng các tính từ cơ bản (sunny, cold, rainy...)",
+    "Đồng ý và đáp lại nhận xét của người khác về thời tiết",
+    "Dùng vài trạng từ và mẫu câu đơn giản để câu nói bớt cộc lốc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "weather",
+      "ipa": "/ˈweð.ər/",
+      "vi": "thời tiết (danh từ)",
+      "register": "neutral",
+      "example": "The weather is really nice today.",
+      "exampleVi": "Thời tiết hôm nay đẹp thật.",
+      "note": "Danh từ không đếm được, KHÔNG dùng 'a weather'. Phát âm bẫy: 'ea' đọc /e/, giống 'whether'."
+    },
+    {
+      "term": "sunny",
+      "ipa": "/ˈsʌn.i/",
+      "vi": "có nắng, nắng đẹp (tính từ)",
+      "register": "neutral",
+      "example": "It's bright and sunny outside.",
+      "exampleVi": "Bên ngoài trời sáng và nắng.",
+      "note": "Tính từ, từ 'sun' (mặt trời) + ny. Thường đi với 'It's...': 'It's sunny.'",
+      "synonyms": [
+        { "term": "bright", "ipa": "/braɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'sáng', nhiều ánh sáng. Có thể sáng mà không quá nắng gắt." },
+        { "term": "clear", "ipa": "/klɪər/", "register": "neutral", "nuanceVi": "Nghĩa 'trời quang, không mây'. Hay dùng cho cả ban ngày lẫn ban đêm (a clear sky)." }
+      ]
+    },
+    {
+      "term": "cloudy",
+      "ipa": "/ˈklaʊ.di/",
+      "vi": "nhiều mây, âm u (tính từ)",
+      "register": "neutral",
+      "example": "It's a bit cloudy this morning.",
+      "exampleVi": "Sáng nay trời hơi nhiều mây.",
+      "note": "Tính từ, từ 'cloud' (đám mây) + y. Trời nhiều mây nhưng chưa chắc đã mưa.",
+      "synonyms": [
+        { "term": "overcast", "ipa": "/ˌəʊ.vəˈkɑːst/", "register": "neutral", "nuanceVi": "Nhấn 'mây phủ kín cả bầu trời', xám xịt hơn 'cloudy'. Nghe tự nhiên trong dự báo thời tiết." },
+        { "term": "grey", "ipa": "/ɡreɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'trời xám'. Người Anh hay than 'It's so grey today.'" }
+      ]
+    },
+    {
+      "term": "rainy",
+      "ipa": "/ˈreɪ.ni/",
+      "vi": "có mưa, mưa nhiều (tính từ)",
+      "register": "neutral",
+      "example": "It's been rainy all week.",
+      "exampleVi": "Cả tuần nay trời mưa.",
+      "note": "Tính từ. Danh từ là 'rain', động từ là 'to rain' (It's raining = trời đang mưa)."
+    },
+    {
+      "term": "windy",
+      "ipa": "/ˈwɪn.di/",
+      "vi": "có gió, nhiều gió (tính từ)",
+      "register": "neutral",
+      "example": "It's quite windy by the sea.",
+      "exampleVi": "Ở gần biển khá nhiều gió.",
+      "note": "Tính từ, từ 'wind' (gió) + y. Lưu ý 'wind' (gió) đọc /wɪnd/, khác 'wind' (lên dây) đọc /waɪnd/."
+    },
+    {
+      "term": "warm",
+      "ipa": "/wɔːm/",
+      "vi": "ấm áp, dễ chịu (tính từ)",
+      "register": "neutral",
+      "example": "It's nice and warm in the sun.",
+      "exampleVi": "Đứng dưới nắng thật ấm áp dễ chịu.",
+      "note": "Tính từ. 'warm' là ấm vừa, dễ chịu; nóng hơn nữa là 'hot'.",
+      "synonyms": [
+        { "term": "mild", "ipa": "/maɪld/", "register": "neutral", "nuanceVi": "Nhấn 'ôn hòa, không quá nóng cũng không quá lạnh'. Hay dùng cho thời tiết mùa thu/xuân dễ chịu." },
+        { "term": "boiling", "ipa": "/ˈbɔɪ.lɪŋ/", "register": "casual", "nuanceVi": "Đời thường, phóng đại 'nóng như đổ lửa'. Dùng khi than nóng: 'It's boiling today!'" }
+      ]
+    },
+    {
+      "term": "cold",
+      "ipa": "/kəʊld/",
+      "vi": "lạnh (tính từ)",
+      "register": "neutral",
+      "example": "Wear a jacket, it's cold outside.",
+      "exampleVi": "Mặc áo khoác vào, bên ngoài lạnh đấy.",
+      "note": "Tính từ. Lạnh vừa là 'cold'; lạnh hơn nữa, buốt thì dùng 'freezing'.",
+      "synonyms": [
+        { "term": "chilly", "ipa": "/ˈtʃɪl.i/", "register": "neutral", "nuanceVi": "Nhấn 'se se lạnh, hơi lạnh', nhẹ hơn 'cold'. Hợp cho buổi sáng sớm mát lạnh." },
+        { "term": "freezing", "ipa": "/ˈfriː.zɪŋ/", "register": "casual", "nuanceVi": "Phóng đại 'lạnh cóng, rét buốt'. Dùng khi than rất lạnh: 'I'm freezing!'" }
+      ]
+    },
+    {
+      "term": "forecast",
+      "ipa": "/ˈfɔː.kɑːst/",
+      "vi": "dự báo (thời tiết) (danh từ)",
+      "register": "neutral",
+      "example": "The forecast says it will rain tomorrow.",
+      "exampleVi": "Dự báo nói ngày mai sẽ mưa.",
+      "note": "Danh từ, thường nói 'the weather forecast'. Cũng là động từ: 'They forecast rain.'",
+      "synonyms": [
+        { "term": "prediction", "ipa": "/prɪˈdɪk.ʃən/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn là 'dự đoán' nói chung, không riêng thời tiết. 'forecast' chuyên dùng cho thời tiết/kinh tế." }
+      ]
+    },
+    {
+      "term": "umbrella",
+      "ipa": "/ʌmˈbrel.ə/",
+      "vi": "cái ô, cái dù (danh từ)",
+      "register": "neutral",
+      "example": "Don't forget your umbrella, it might rain.",
+      "exampleVi": "Đừng quên cái ô, có thể trời sẽ mưa đấy.",
+      "note": "Danh từ đếm được: an umbrella. Trọng âm rơi vào âm giữa: um-BREL-la."
+    },
+    {
+      "term": "to clear up",
+      "ipa": "/tə klɪər ʌp/",
+      "vi": "tạnh / trời quang trở lại (động từ)",
+      "register": "neutral",
+      "example": "I think it will clear up this afternoon.",
+      "exampleVi": "Tôi nghĩ chiều nay trời sẽ tạnh và quang trở lại.",
+      "note": "Cụm động từ: mưa/mây tan đi, trời đẹp lại. Trái với việc trời tối sầm chuẩn bị mưa.",
+      "synonyms": [
+        { "term": "to brighten up", "ipa": "/tə ˈbraɪ.tən ʌp/", "register": "neutral", "nuanceVi": "Nhấn 'trời sáng/nắng lên', tươi tắn hơn. Gần nghĩa với 'clear up' nhưng thiên về ánh sáng." }
+      ]
+    },
+    {
+      "term": "nice",
+      "ipa": "/naɪs/",
+      "vi": "đẹp, dễ chịu (tính từ)",
+      "register": "casual",
+      "example": "What a nice day!",
+      "exampleVi": "Hôm nay đẹp trời ghê!",
+      "note": "Tính từ rất thông dụng để khen thời tiết đẹp nói chung. Đơn giản, an toàn, ai cũng dùng.",
+      "synonyms": [
+        { "term": "lovely", "ipa": "/ˈlʌv.li/", "register": "neutral", "nuanceVi": "Nhấn 'đáng yêu, dễ chịu', nghe ấm áp hơn 'nice'. Người Anh rất hay dùng: 'Lovely weather!'" },
+        { "term": "gorgeous", "ipa": "/ˈɡɔː.dʒəs/", "register": "casual", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'đẹp tuyệt'. Dùng khi trời thực sự đẹp xuất sắc." }
+      ]
+    },
+    {
+      "term": "outside",
+      "ipa": "/ˌaʊtˈsaɪd/",
+      "vi": "bên ngoài, ở ngoài trời (trạng từ)",
+      "register": "neutral",
+      "example": "It's freezing outside today.",
+      "exampleVi": "Hôm nay bên ngoài lạnh cóng.",
+      "note": "Trạng từ chỉ nơi chốn, hay đặt cuối câu khi nói về thời tiết ngoài trời. Trái nghĩa: inside.",
+      "synonyms": [
+        { "term": "out there", "ipa": "/aʊt ðeər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngoài kia'. Nghe thân mật: 'It's cold out there.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "It's [tính từ thời tiết] today.",
+      "use": "Câu cơ bản nhất để nhận xét thời tiết hôm nay.",
+      "register": "neutral",
+      "examples": [
+        "It's sunny today.",
+        "It's really cold today."
+      ],
+      "explanationVi": "'It' ở đây là chủ ngữ giả khi nói về thời tiết, KHÔNG dịch là 'nó'. Đây là mẫu câu xương sống nhất khi tán gẫu về thời tiết.",
+      "altOf": "commenting-weather"
+    },
+    {
+      "pattern": "What a [tính từ] day!",
+      "use": "Cảm thán khen (hoặc than) về một ngày, nghe tự nhiên và thân thiện.",
+      "register": "casual",
+      "examples": [
+        "What a lovely day!",
+        "What a horrible day!"
+      ],
+      "explanationVi": "Câu cảm thán với 'What a + tính từ + danh từ!'. Rất hay dùng để bắt chuyện vui vẻ. Chú ý có mạo từ 'a'.",
+      "altOf": "commenting-weather"
+    },
+    {
+      "pattern": "Lovely weather, isn't it?",
+      "use": "Bắt chuyện xã giao với người lạ bằng một câu hỏi đuôi.",
+      "register": "casual",
+      "examples": [
+        "Lovely weather, isn't it?",
+        "Cold today, isn't it?"
+      ],
+      "explanationVi": "'isn't it?' là câu hỏi đuôi, dùng để mời người kia đồng ý, mở đầu cuộc trò chuyện. Đây là cách bắt chuyện kinh điển của người Anh."
+    },
+    {
+      "pattern": "I think it's going to [động từ].",
+      "use": "Dự đoán thời tiết sắp tới một cách nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "I think it's going to rain.",
+        "I think it's going to clear up later."
+      ],
+      "explanationVi": "'be going to + động từ' dùng để dự đoán dựa trên dấu hiệu (mây đen, trời tối). Thêm 'I think' để nghe khiêm tốn, không quả quyết."
+    },
+    {
+      "pattern": "Yes, you're right, [mệnh đề].",
+      "use": "Đồng ý và đáp lại nhận xét của người khác về thời tiết.",
+      "register": "neutral",
+      "examples": [
+        "Yes, you're right, it's lovely.",
+        "Yes, you're right, although it might rain later."
+      ],
+      "explanationVi": "Cách đồng ý đơn giản, lịch sự. Đáp lại bằng một câu thay vì chỉ 'Yes' giúp cuộc trò chuyện tiếp tục.",
+      "altOf": "agreeing-weather"
+    },
+    {
+      "pattern": "I agree, but [mệnh đề].",
+      "use": "Vừa đồng ý vừa thêm ý kiến nhỏ của mình.",
+      "register": "neutral",
+      "examples": [
+        "I agree, but it's a bit windy.",
+        "I agree, but the forecast says it will rain."
+      ],
+      "explanationVi": "'I agree' đồng ý ngắn gọn; thêm 'but' để bổ sung một ý hơi khác. Giúp bạn vừa hòa nhã vừa có chính kiến.",
+      "altOf": "agreeing-weather"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "really",
+      "ipa": "/ˈrɪə.li/",
+      "vi": "thật sự, rất",
+      "when": "Nhấn mạnh tính từ thời tiết để câu nghe có cảm xúc hơn.",
+      "example": "It's really hot today."
+    },
+    {
+      "term": "a bit",
+      "ipa": "/ə bɪt/",
+      "vi": "hơi, một chút",
+      "when": "Làm nhẹ tính từ, tránh nói quá: 'hơi lạnh', 'hơi nhiều mây'.",
+      "example": "It's a bit cloudy this morning."
+    },
+    {
+      "term": "quite",
+      "ipa": "/kwaɪt/",
+      "vi": "khá là",
+      "when": "Diễn tả mức độ vừa phải, hơn 'a bit' nhưng chưa tới 'really'.",
+      "example": "It's quite windy outside."
+    },
+    {
+      "term": "luckily",
+      "ipa": "/ˈlʌk.ɪ.li/",
+      "vi": "may là, may mắn thay",
+      "when": "Dẫn vào một điều tốt về thời tiết: 'may là không mưa'.",
+      "example": "Luckily, it stopped raining."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể, nhân tiện",
+      "when": "Chuyển nhẹ sang một câu hỏi khác sau khi tán gẫu thời tiết.",
+      "example": "By the way, did you bring an umbrella?"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gặp một người hàng xóm ở ngoài sân vào buổi sáng. Hai người tán gẫu xã giao về thời tiết trong khi chờ xe buýt.",
+    "lines": [
+      {
+        "speaker": "Hàng xóm",
+        "text": "Good morning! Lovely weather today, ____ it?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈlʌv.li ˈweð.ər təˈdeɪ ˈɪz.ənt ɪt/",
+        "vi": "Chào buổi sáng! Hôm nay đẹp trời nhỉ, ____ nhỉ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "isn't",
+            "explanationVi": "Câu hỏi đuôi: vế đầu khẳng định 'It's lovely' nên đuôi phải phủ định 'isn't it?'. Xem mẫu câu 'Lovely weather, isn't it?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning! Yes, you're right, it's really ____ and warm. It's so nice after all the rain last week.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ jes jɔː raɪt ɪts ˈrɪə.li ænd wɔːm ɪts səʊ naɪs ˈɑːf.tər ɔːl ðə reɪn lɑːst wiːk/",
+        "vi": "Chào buổi sáng! Vâng, đúng vậy, hôm nay nắng và ấm thật. Thật dễ chịu sau cả tuần mưa vừa rồi.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một tính từ chỉ trời đẹp. Ví dụ: 'sunny' hoặc 'bright'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "I agree, although it was quite cold and windy yesterday. I had to wear my big jacket, which I don't usually need in spring.",
+        "ipa": "/aɪ əˈɡriː ɔːlˈðəʊ ɪt wɒz kwaɪt kəʊld ænd ˈwɪn.di ˈjes.tə.deɪ aɪ hæd tə weər maɪ bɪɡ ˈdʒæk.ɪt wɪtʃ aɪ dəʊnt ˈjuː.ʒu.ə.li niːd ɪn sprɪŋ/",
+        "vi": "Tôi đồng ý, mặc dù hôm qua thì khá lạnh và nhiều gió. Tôi đã phải mặc áo khoác dày, cái mà mùa xuân tôi thường không cần đến."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's true. ____ the rain, I quite enjoy spring because the weather changes so often. By the way, did you check the ____ for tomorrow?",
+        "ipa": "/dɪˈspaɪt ðə reɪn aɪ kwaɪt ɪnˈdʒɔɪ sprɪŋ bɪˈkɒz ðə ˈweð.ər ˈtʃeɪn.dʒɪz səʊ ˈɒf.ən baɪ ðə weɪ dɪd juː tʃek ðə ˈfɔː.kɑːst fə təˈmɒr.əʊ/",
+        "vi": "Đúng vậy. Mặc dù có mưa, tôi vẫn khá thích mùa xuân vì thời tiết thay đổi liên tục. Tiện thể, anh/chị xem ____ cho ngày mai chưa?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Despite",
+            "explanationVi": "'Despite + danh từ' nghĩa 'mặc dù' (= dù có mưa). Sau 'despite' là danh từ ('the rain'), không phải mệnh đề. Khác 'although' (theo sau là cả mệnh đề)."
+          },
+          {
+            "type": "knowledge",
+            "answer": "forecast",
+            "explanationVi": "'forecast' = dự báo thời tiết. Cụm thường gặp: 'check the forecast' (xem dự báo). Xem từ vựng 'forecast'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "I did. The forecast says it's going to be cloudy in the morning, but luckily it should clear up in the afternoon.",
+        "ipa": "/aɪ dɪd ðə ˈfɔː.kɑːst sez ɪts ˈɡəʊ.ɪŋ tə biː ˈklaʊ.di ɪn ðə ˈmɔː.nɪŋ bʌt ˈlʌk.ɪ.li ɪt ʃʊd klɪər ʌp ɪn ðə ˌɑːf.təˈnuːn/",
+        "vi": "Tôi xem rồi. Dự báo nói buổi sáng sẽ nhiều mây, nhưng may là buổi chiều trời sẽ tạnh và quang trở lại."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's good to hear. I think I'll still bring an ____ with me, just in case it rains.",
+        "ipa": "/ðæts ɡʊd tə hɪər aɪ θɪŋk aɪl stɪl brɪŋ ən ʌmˈbrel.ə wɪð miː dʒʌst ɪn keɪs ɪt reɪnz/",
+        "vi": "Nghe vậy thì tốt quá. Tôi nghĩ mình vẫn sẽ mang theo một cái ____, phòng khi trời mưa.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "umbrella",
+            "explanationVi": "'umbrella' = cái ô/dù. Lưu ý dùng mạo từ 'an' vì 'umbrella' bắt đầu bằng nguyên âm. Xem từ vựng 'umbrella'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "Good idea. Not only is the weather hard to predict, but it also changes very quickly here, so it's always safer to be prepared.",
+        "ipa": "/ɡʊd aɪˈdɪə nɒt ˈəʊn.li ɪz ðə ˈweð.ər hɑːd tə prɪˈdɪkt bʌt ɪt ˈɔːl.səʊ ˈtʃeɪn.dʒɪz ˈver.i ˈkwɪk.li hɪər səʊ ɪts ˈɔːl.weɪz ˈseɪ.fər tə biː prɪˈpeəd/",
+        "vi": "Ý hay đấy. Không chỉ thời tiết khó đoán mà nó còn thay đổi rất nhanh ở đây, nên luôn an toàn hơn nếu chuẩn bị sẵn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. Well, my bus is coming. It was nice chatting with you. Have a ____ day!",
+        "ipa": "/ɪɡˈzækt.li wel maɪ bʌs ɪz ˈkʌm.ɪŋ ɪt wɒz naɪs ˈtʃæt.ɪŋ wɪð juː hæv ə deɪ/",
+        "vi": "Chính xác. Thôi, xe buýt của tôi đến rồi. Rất vui được trò chuyện với anh/chị. Chúc một ngày ____!",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một tính từ tích cực để chúc. Ví dụ: 'lovely', 'nice' hoặc 'great'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Anh và nhiều nước phương Tây, nói về thời tiết là cách bắt chuyện xã giao an toàn và phổ biến nhất với người lạ hoặc người quen sơ.",
+    "Câu hỏi đuôi như 'Lovely weather, isn't it?' không thật sự hỏi thông tin — nó chỉ là lời mời trò chuyện, người kia chỉ cần đồng tình cho vui.",
+    "Người Anh nổi tiếng hay than phiền về thời tiết (đặc biệt là mưa và trời xám). Than nhẹ về thời tiết được xem là thân thiện chứ không tiêu cực.",
+    "Tán gẫu thời tiết thường rất ngắn, chỉ vài câu, rồi chuyển sang chủ đề khác hoặc kết thúc bằng lời chúc 'Have a nice day!'."
+  ],
+
+  "commonMistakes": [
+    "Nói 'a weather' — sai, vì 'weather' là danh từ không đếm được. Đúng là 'the weather' hoặc 'nice weather'.",
+    "Dịch 'It's sunny' thành 'Nó nắng'. 'It' ở đây là chủ ngữ giả khi nói về thời tiết, không dịch là 'nó'.",
+    "Quên mạo từ 'an' trước 'umbrella' (bắt đầu bằng nguyên âm): phải là 'an umbrella', không phải 'a umbrella'.",
+    "Trả lời cụt lủn 'Yes.' khi được hỏi về thời tiết. Hãy thêm một câu (vd 'Yes, it's lovely.') để cuộc trò chuyện tiếp tục."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tán gẫu về thời tiết như thật.",
+    "prompt": "Hãy đóng vai một người hàng xóm thân thiện nói tiếng Anh. Tôi vừa gặp bạn ở ngoài sân vào buổi sáng. Hãy bắt chuyện xã giao với tôi về thời tiết bằng những câu đơn giản, ngắn gọn (trình độ A2). Sau mỗi câu trả lời của tôi, hãy: (1) đáp lại tự nhiên như một người hàng xóm thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng tính từ thời tiết (sunny, cloudy, windy...) và câu hỏi đuôi 'isn't it?'. Nói chậm rãi, thân thiện. Bắt đầu bằng một lời chào và một câu nhận xét về thời tiết nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy thỉnh thoảng hỏi tôi về dự báo thời tiết ngày mai để tôi tập trả lời.'",
+      "Thêm câu: 'Khi tôi đã quen, hãy dùng câu dài hơn một chút và thêm vài từ mới về thời tiết.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự bắt chuyện được về thời tiết bằng một câu (vd 'Lovely weather, isn't it?') mà không nhìn gợi ý.",
+    "Tôi mô tả được thời tiết hôm nay bằng ít nhất 2 tính từ (sunny, cold, windy...).",
+    "Tôi đồng ý và đáp lại được nhận xét của người khác thay vì chỉ trả lời 'Yes.'."
+  ]
+}

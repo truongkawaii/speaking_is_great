@@ -1,0 +1,338 @@
+{
+  "id": "giving-presentations",
+  "category": "work",
+  "title": "Thuyết trình",
+  "titleEn": "Giving Presentations",
+  "level": "B2",
+  "functions": ["describing", "opinions", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Mở đầu và kết thúc một bài thuyết trình bằng câu dài, mạch lạc",
+    "Dẫn dắt khán giả qua từng phần bằng các cụm chuyển ý chuyên nghiệp",
+    "Giới thiệu và diễn giải số liệu, biểu đồ một cách rõ ràng",
+    "Xử lý câu hỏi của khán giả một cách tự tin, lịch sự",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, in order to) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "audience",
+      "ipa": "/ˈɔː.di.əns/",
+      "vi": "khán giả, người nghe (danh từ)",
+      "register": "neutral",
+      "example": "I tried to engage the audience right from the start.",
+      "exampleVi": "Tôi cố gắng thu hút khán giả ngay từ đầu.",
+      "note": "Danh từ. Có thể dùng số ít coi như một khối ('the audience is...') hoặc số nhiều coi như nhiều cá nhân ('the audience are...'). Trong Anh-Mỹ thường dùng số ít.",
+      "synonyms": [
+        { "term": "attendees", "ipa": "/əˌten.diːz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn vào 'những người tham dự' một sự kiện cụ thể. Luôn dùng số nhiều, hay gặp trong email/hội nghị." },
+        { "term": "listeners", "ipa": "/ˈlɪs.ən.əz/", "register": "neutral", "nuanceVi": "Nhấn vào hành động 'lắng nghe'. Hợp khi nói về podcast, radio hơn là khán giả ngồi xem trực tiếp." }
+      ]
+    },
+    {
+      "term": "slide",
+      "ipa": "/slaɪd/",
+      "vi": "trang trình chiếu (danh từ)",
+      "register": "neutral",
+      "example": "As you can see on this slide, sales have doubled.",
+      "exampleVi": "Như bạn thấy trên trang chiếu này, doanh số đã tăng gấp đôi.",
+      "note": "Danh từ. Cả bộ slide gọi là 'a slide deck' hoặc 'slides'. Phần mềm: PowerPoint, Keynote, Google Slides."
+    },
+    {
+      "term": "to outline",
+      "ipa": "/ˈaʊt.laɪn/",
+      "vi": "phác thảo, trình bày khái quát (động từ)",
+      "register": "neutral",
+      "example": "Let me briefly outline what I'm going to cover today.",
+      "exampleVi": "Hãy để tôi trình bày khái quát những gì sẽ nói hôm nay.",
+      "note": "Động từ, nghĩa 'nêu ra các ý chính một cách tổng quát'. Cũng là danh từ ('an outline' = dàn ý).",
+      "synonyms": [
+        { "term": "to summarize", "ipa": "/ˈsʌm.ə.raɪz/", "register": "neutral", "nuanceVi": "Nhấn 'tóm tắt lại điều đã nói', thường dùng ở cuối. Còn 'outline' thiên về nêu trước cấu trúc ở đầu." },
+        { "term": "to sketch out", "ipa": "/sketʃ aʊt/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'phác qua sơ bộ, chưa chi tiết'. Hợp lúc nói thân mật." }
+      ]
+    },
+    {
+      "term": "to highlight",
+      "ipa": "/ˈhaɪ.laɪt/",
+      "vi": "làm nổi bật, nhấn mạnh (động từ)",
+      "register": "neutral",
+      "example": "I'd like to highlight three key findings from our research.",
+      "exampleVi": "Tôi muốn nhấn mạnh ba phát hiện chính từ nghiên cứu của chúng tôi.",
+      "note": "Động từ rất hợp khi thuyết trình để hướng sự chú ý của khán giả vào điểm quan trọng.",
+      "synonyms": [
+        { "term": "to emphasize", "ipa": "/ˈem.fə.saɪz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'làm cho điều gì đó trở nên quan trọng/được chú ý'. Gần nghĩa nhưng nghe học thuật hơn." },
+        { "term": "to point out", "ipa": "/pɔɪnt aʊt/", "register": "neutral", "nuanceVi": "Nhấn 'chỉ ra, lưu ý cho người khác thấy'. Nhẹ và thông dụng hơn, không nhất thiết là điều quan trọng nhất." },
+        { "term": "to stress", "ipa": "/stres/", "register": "neutral", "nuanceVi": "Nhấn 'nhấn mạnh tầm quan trọng', thường đi với một quan điểm hoặc cảnh báo. 'I must stress that…'." }
+      ]
+    },
+    {
+      "term": "key takeaway",
+      "ipa": "/kiː ˈteɪk.ə.weɪ/",
+      "vi": "điểm mấu chốt cần ghi nhớ (danh từ)",
+      "register": "neutral",
+      "example": "The key takeaway is that we need to invest in training.",
+      "exampleVi": "Điểm mấu chốt là chúng ta cần đầu tư vào đào tạo.",
+      "note": "Cụm danh từ rất phổ biến ở phần kết, nghĩa 'thông điệp/bài học quan trọng nhất khán giả nên mang về'.",
+      "synonyms": [
+        { "term": "main point", "ipa": "/meɪn pɔɪnt/", "register": "neutral", "nuanceVi": "Đơn giản, trung tính: 'ý chính'. An toàn và dễ dùng trong mọi ngữ cảnh." },
+        { "term": "bottom line", "ipa": "/ˌbɒt.əm ˈlaɪn/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'kết luận cuối cùng quan trọng nhất'. Nghe dứt khoát, hơi thiên về kinh doanh." }
+      ]
+    },
+    {
+      "term": "concise",
+      "ipa": "/kənˈsaɪs/",
+      "vi": "súc tích, ngắn gọn (tính từ)",
+      "register": "neutral",
+      "example": "A good presentation should be clear and concise.",
+      "exampleVi": "Một bài thuyết trình tốt nên rõ ràng và súc tích.",
+      "note": "Tính từ tích cực: nói đủ ý mà không lan man. Trái nghĩa: 'long-winded' (dài dòng).",
+      "synonyms": [
+        { "term": "succinct", "ipa": "/səkˈsɪŋkt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'gói gọn trong ít từ nhất có thể'. Tạo ấn tượng chuyên nghiệp." },
+        { "term": "to the point", "ipa": "/tə ðə ˈpɔɪnt/", "register": "neutral", "nuanceVi": "Cụm thông dụng, nghĩa 'đi thẳng vào vấn đề, không vòng vo'. Dễ dùng khi nói chuyện." }
+      ]
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "thuyết phục, cuốn hút (tính từ)",
+      "register": "formal",
+      "example": "She presented a compelling argument for the new strategy.",
+      "exampleVi": "Cô ấy đưa ra một lập luận thuyết phục cho chiến lược mới.",
+      "note": "Tính từ mạnh, nghĩa 'cuốn hút đến mức khiến người ta tin/chú ý'. Mạnh và hay hơn 'interesting'.",
+      "synonyms": [
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'làm người nghe tin là đúng'. Gần nghĩa nhưng thiên về tính logic, ít về cảm xúc cuốn hút." },
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn 'có sức thuyết phục khiến người ta hành động/đổi ý'. Hay dùng cho bài nói, quảng cáo." }
+      ]
+    },
+    {
+      "term": "clearly",
+      "ipa": "/ˈklɪə.li/",
+      "vi": "một cách rõ ràng (trạng từ)",
+      "register": "neutral",
+      "example": "I always try to speak clearly so everyone can follow.",
+      "exampleVi": "Tôi luôn cố gắng nói rõ ràng để mọi người theo kịp.",
+      "note": "Trạng từ. Cũng dùng đầu câu để nêu kết luận hiển nhiên: 'Clearly, this approach works.'",
+      "synonyms": [
+        { "term": "distinctly", "ipa": "/dɪˈstɪŋkt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tách bạch, dễ phân biệt từng phần'. Hay dùng cho cách phát âm/diễn đạt rạch ròi." },
+        { "term": "plainly", "ipa": "/ˈpleɪn.li/", "register": "neutral", "nuanceVi": "Nhấn 'giản dị, dễ hiểu, không màu mè'. Hợp khi muốn nói thẳng, mộc mạc." }
+      ]
+    },
+    {
+      "term": "briefly",
+      "ipa": "/ˈbriːf.li/",
+      "vi": "một cách ngắn gọn (trạng từ)",
+      "register": "neutral",
+      "example": "Let me briefly explain the background before we start.",
+      "exampleVi": "Hãy để tôi giải thích ngắn gọn bối cảnh trước khi bắt đầu.",
+      "note": "Trạng từ. Báo trước rằng bạn sẽ nói gọn, giúp khán giả yên tâm về thời lượng.",
+      "synonyms": [
+        { "term": "in brief", "ipa": "/ɪn briːf/", "register": "neutral", "nuanceVi": "Cụm trạng ngữ, nghĩa 'nói ngắn gọn lại'. Thường đứng đầu câu để tóm tắt." },
+        { "term": "in a nutshell", "ipa": "/ɪn ə ˈnʌt.ʃel/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'tóm lại trong một câu'. Nghe thân thiện, hợp khi muốn gần gũi với khán giả." }
+      ]
+    },
+    {
+      "term": "to demonstrate",
+      "ipa": "/ˈdem.ən.streɪt/",
+      "vi": "chứng minh, minh họa (động từ)",
+      "register": "formal",
+      "example": "This chart demonstrates how demand has grown over time.",
+      "exampleVi": "Biểu đồ này minh họa nhu cầu đã tăng theo thời gian như thế nào.",
+      "note": "Động từ trang trọng, hợp khi dùng số liệu/ví dụ để chứng minh một luận điểm.",
+      "synonyms": [
+        { "term": "to show", "ipa": "/ʃəʊ/", "register": "neutral", "nuanceVi": "Đơn giản, trung tính, thông dụng nhất. 'demonstrate' nghe học thuật và thuyết phục hơn." },
+        { "term": "to illustrate", "ipa": "/ˈɪl.ə.streɪt/", "register": "formal", "nuanceVi": "Nhấn 'dùng ví dụ/hình ảnh để làm rõ một ý trừu tượng'. Hợp khi minh họa bằng câu chuyện hay biểu đồ." }
+      ]
+    },
+    {
+      "term": "to wrap up",
+      "ipa": "/ræp ʌp/",
+      "vi": "kết thúc, gói lại (cụm động từ)",
+      "register": "neutral",
+      "example": "To wrap up, I'd like to leave you with one final thought.",
+      "exampleVi": "Để kết lại, tôi muốn để lại cho các bạn một suy nghĩ cuối cùng.",
+      "note": "Cụm động từ thân thiện để báo hiệu phần kết. Trang trọng hơn thì dùng 'to conclude'.",
+      "synonyms": [
+        { "term": "to conclude", "ipa": "/kənˈkluːd/", "register": "formal", "nuanceVi": "Trang trọng, dùng trong bài nói chính thức: 'In conclusion…' hoặc 'To conclude…'." },
+        { "term": "to sum up", "ipa": "/sʌm ʌp/", "register": "neutral", "nuanceVi": "Nhấn 'tóm tắt các ý lại với nhau' trước khi kết. Trung tính, rất thông dụng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Good morning everyone. Today, I'm going to talk about [chủ đề], which [mệnh đề quan hệ].",
+      "use": "Mở đầu bài thuyết trình, nêu chủ đề kèm một câu giải thích vì sao quan trọng.",
+      "register": "formal",
+      "examples": [
+        "Good morning everyone. Today, I'm going to talk about our new marketing strategy, which has already shown promising results."
+      ],
+      "explanationVi": "'which' mở mệnh đề quan hệ không xác định, gắn thêm thông tin về chủ đề trong cùng một câu mượt. Mở đầu mạch lạc gây ấn tượng chuyên nghiệp ngay từ đầu.",
+      "altOf": "opening-presentation"
+    },
+    {
+      "pattern": "I'd like to begin by [V-ing], and then I'll move on to [danh từ].",
+      "use": "Báo trước cấu trúc bài nói để khán giả dễ theo dõi.",
+      "register": "formal",
+      "examples": [
+        "I'd like to begin by giving you some background, and then I'll move on to our main findings."
+      ],
+      "explanationVi": "Nêu lộ trình ('begin by… then move on to…') giúp khán giả biết bạn sẽ đi đâu, làm bài nói có cấu trúc rõ ràng.",
+      "altOf": "opening-presentation"
+    },
+    {
+      "pattern": "As you can see on this slide, [mệnh đề].",
+      "use": "Giới thiệu và dẫn khán giả nhìn vào nội dung trên slide/biểu đồ.",
+      "register": "neutral",
+      "examples": [
+        "As you can see on this slide, our revenue has increased steadily over the past three years."
+      ],
+      "explanationVi": "Cụm 'As you can see…' hướng sự chú ý của khán giả vào hình ảnh. Rất thông dụng khi diễn giải số liệu, biểu đồ."
+    },
+    {
+      "pattern": "This is important not only because [mệnh đề], but also because [mệnh đề].",
+      "use": "Nhấn mạnh một điểm có nhiều lý do quan trọng.",
+      "register": "formal",
+      "examples": [
+        "This is important not only because it saves money, but also because it improves customer satisfaction."
+      ],
+      "explanationVi": "'not only… but also…' nối hai lý do song song để tăng sức nặng. Cấu trúc nâng cao, nghe rất thuyết phục trong thuyết trình."
+    },
+    {
+      "pattern": "Moving on to my next point, I'd like to [V].",
+      "use": "Chuyển sang phần/ý tiếp theo một cách mượt mà.",
+      "register": "neutral",
+      "examples": [
+        "Moving on to my next point, I'd like to discuss how we can reduce costs."
+      ],
+      "explanationVi": "Cụm chuyển ý ('Moving on to…') giúp bài nói liền mạch, tránh tình trạng nhảy ý đột ngột khiến khán giả lạc.",
+      "altOf": "transitioning"
+    },
+    {
+      "pattern": "That brings me to [danh từ], which [mệnh đề quan hệ].",
+      "use": "Một cách chuyển ý khác, nối ý vừa nói sang ý mới.",
+      "register": "formal",
+      "examples": [
+        "That brings me to my final point, which is perhaps the most important of all."
+      ],
+      "explanationVi": "'That brings me to…' tạo cảm giác các ý liên kết tự nhiên với nhau. 'which' bổ sung thông tin về ý mới. Nghe trau chuốt hơn 'Now, next point'.",
+      "altOf": "transitioning"
+    },
+    {
+      "pattern": "To wrap up, the key takeaway is that [mệnh đề].",
+      "use": "Kết thúc và chốt lại thông điệp quan trọng nhất.",
+      "register": "neutral",
+      "examples": [
+        "To wrap up, the key takeaway is that investing in training will pay off in the long run."
+      ],
+      "explanationVi": "Phần kết nên nhắc lại một thông điệp cốt lõi để khán giả nhớ. 'key takeaway' là cụm rất tự nhiên cho mục đích này."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "essentially", "ipa": "/ɪˈsen.ʃəl.i/", "vi": "về cơ bản thì", "when": "Diễn giải lại một ý phức tạp thành điều cốt lõi, dễ hiểu.", "example": "Essentially, what these numbers tell us is that demand is rising." },
+    { "term": "in fact", "ipa": "/ɪn ˈfækt/", "vi": "thực tế là", "when": "Bổ sung một thông tin gây bất ngờ hoặc nhấn mạnh điều vừa nói.", "example": "In fact, we exceeded our target by nearly thirty percent." },
+    { "term": "as I mentioned earlier", "ipa": "/əz aɪ ˈmen.ʃənd ˈɜː.li.ər/", "vi": "như tôi đã đề cập trước đó", "when": "Nhắc lại một ý đã nói để tạo liên kết giữa các phần.", "example": "As I mentioned earlier, our priority this year is customer retention." },
+    { "term": "to put it simply", "ipa": "/tə pʊt ɪt ˈsɪm.pli/", "vi": "nói một cách đơn giản", "when": "Trước khi diễn đạt lại một ý cho dễ hiểu hơn.", "example": "To put it simply, the more we invest now, the more we save later." },
+    { "term": "interestingly", "ipa": "/ˈɪn.trəs.tɪŋ.li/", "vi": "điều thú vị là", "when": "Dẫn vào một phát hiện hay chi tiết đáng chú ý để thu hút khán giả.", "example": "Interestingly, most of our growth came from a single market." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang thuyết trình kết quả kinh doanh quý vừa rồi trước đồng nghiệp và quản lý. Ở cuối, một đồng nghiệp đặt câu hỏi.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Good morning everyone, and thank you for joining. Today, I'm going to talk about our quarterly results, ____ I believe are quite encouraging despite the challenging market.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈev.ri.wʌn ænd θæŋk juː fɔːr ˈdʒɔɪn.ɪŋ təˈdeɪ aɪm ˈɡəʊ.ɪŋ tə tɔːk əˈbaʊt ˈaʊə ˈkwɔː.tə.li rɪˈzʌlts wɪtʃ aɪ bɪˈliːv ɑːr kwaɪt ɪnˈkʌr.ɪdʒ.ɪŋ dɪˈspaɪt ðə ˈtʃæl.ɪn.dʒɪŋ ˈmɑː.kɪt/",
+        "vi": "Chào buổi sáng mọi người, và cảm ơn các bạn đã tham dự. Hôm nay tôi sẽ nói về kết quả kinh doanh quý vừa rồi, ____ tôi tin là khá khả quan dù thị trường nhiều thử thách.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'our quarterly results' (vật, số nhiều) để nối mệnh đề bổ sung. Nếu chỉ người thì dùng 'who'. Xem mẫu câu mở đầu 'Today, I'm going to talk about…, which…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd like to begin by giving you some background, and then I'll move on to the figures. To put it simply, although our costs rose slightly, our overall revenue grew by ____ percent compared to last quarter.",
+        "ipa": "/aɪd laɪk tə bɪˈɡɪn baɪ ˈɡɪv.ɪŋ juː sʌm ˈbæk.ɡraʊnd ænd ðen aɪl muːv ɒn tə ðə ˈfɪɡ.əz tə pʊt ɪt ˈsɪm.pli ɔːlˈðəʊ ˈaʊə kɒsts rəʊz ˈslaɪt.li ˈaʊə ˈəʊ.vəˌɔːl ˈrev.ə.njuː ɡruː baɪ pəˈsent kəmˈpeəd tə lɑːst ˈkwɔː.tə/",
+        "vi": "Tôi muốn bắt đầu bằng việc cung cấp một chút bối cảnh, rồi sau đó sẽ chuyển sang các con số. Nói đơn giản, dù chi phí có tăng nhẹ, tổng doanh thu của chúng ta đã tăng ____ phần trăm so với quý trước.",
+        "blanks": [
+          { "type": "personal", "hint": "Con số tăng trưởng bạn muốn nêu. Ví dụ: 'fifteen', 'twenty'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "As you can see on this slide, the growth came from several areas, ____ online sales and our new subscription service. This is important not only because it boosts revenue, but also because it builds long-term customer loyalty.",
+        "ipa": "/əz juː kæn siː ɒn ðɪs slaɪd ðə ɡrəʊθ keɪm frɒm ˈsev.rəl ˈeə.ri.əz sʌtʃ æz ˈɒn.laɪn seɪlz ænd ˈaʊə njuː səbˈskrɪp.ʃən ˈsɜː.vɪs ðɪs ɪz ɪmˈpɔː.tənt nɒt ˈəʊn.li bɪˈkɒz ɪt buːsts ˈrev.ə.njuː bʌt ˈɔːl.səʊ bɪˈkɒz ɪt bɪldz lɒŋ tɜːm ˈkʌs.tə.mə ˈlɔɪ.əl.ti/",
+        "vi": "Như các bạn thấy trên trang chiếu này, mức tăng trưởng đến từ nhiều mảng, ____ bán hàng trực tuyến và dịch vụ đăng ký mới. Điều này quan trọng không chỉ vì nó tăng doanh thu, mà còn vì nó xây dựng lòng trung thành lâu dài của khách hàng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'several areas'. Nêu ví dụ cụ thể luôn thuyết phục hơn nói chung chung. Lưu ý cấu trúc song song 'not only… but also…' ở vế sau." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Moving on to my next point, I'd like to highlight what we did ____ to achieve this. We invested heavily in digital marketing in order to reach a younger audience, and the results clearly speak for themselves.",
+        "ipa": "/ˈmuːv.ɪŋ ɒn tə maɪ nekst pɔɪnt aɪd laɪk tə ˈhaɪ.laɪt wɒt wiː dɪd dɪˈfrənt.li tə əˈtʃiːv ðɪs wiː ɪnˈves.tɪd ˈhev.ɪ.li ɪn ˈdɪdʒ.ɪ.təl ˈmɑː.kɪ.tɪŋ ɪn ˈɔː.də tə riːtʃ ə ˈjʌŋ.ɡə ˈɔː.di.əns ænd ðə rɪˈzʌlts ˈklɪə.li spiːk fɔːr ðəmˈselvz/",
+        "vi": "Chuyển sang ý tiếp theo, tôi muốn nhấn mạnh điều chúng ta đã làm ____ để đạt được kết quả này. Chúng ta đã đầu tư mạnh vào tiếp thị số nhằm tiếp cận nhóm khán giả trẻ hơn, và kết quả rõ ràng đã tự nói lên điều đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "differently", "explanationVi": "Dùng trạng từ 'differently' (một cách khác biệt) để bổ nghĩa cho động từ 'did'. Trạng từ đứng sau tân ngữ trực tiếp. Lưu ý cụm 'in order to' = nhằm để, diễn đạt mục đích." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "To wrap up, the key takeaway is that our strategy is working, and I'm confident that ____ we keep investing wisely, we'll see even stronger results next quarter. Thank you. I'm happy to take any questions.",
+        "ipa": "/tə ræp ʌp ðə kiː ˈteɪk.ə.weɪ ɪz ðæt ˈaʊə ˈstræt.ə.dʒi ɪz ˈwɜː.kɪŋ ænd aɪm ˈkɒn.fɪ.dənt ðæt ɪf wiː kiːp ɪnˈves.tɪŋ ˈwaɪz.li wiːl siː ˈiːv.ən ˈstrɒŋ.ɡə rɪˈzʌlts nekst ˈkwɔː.tə θæŋk juː aɪm ˈhæp.i tə teɪk ˈen.i ˈkwes.tʃənz/",
+        "vi": "Để kết lại, điểm mấu chốt là chiến lược của chúng ta đang phát huy hiệu quả, và tôi tin rằng ____ chúng ta tiếp tục đầu tư khôn ngoan, chúng ta sẽ thấy kết quả còn mạnh mẽ hơn vào quý tới. Cảm ơn. Tôi sẵn lòng trả lời mọi câu hỏi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "if", "explanationVi": "Dùng 'if' để mở câu điều kiện loại 1 (điều kiện có thật ở tương lai): if + hiện tại đơn ('keep'), mệnh đề chính dùng 'will' ('we'll see'). Diễn đạt kết quả khả thi nếu điều kiện được duy trì." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Thanks, that was a really clear presentation. I was just wondering, however, whether this growth is sustainable if the market slows down next year?",
+        "ipa": "/θæŋks ðæt wɒz ə ˈrɪə.li klɪə ˌprez.ənˈteɪ.ʃən aɪ wɒz dʒʌst ˈwʌn.dər.ɪŋ haʊˈev.ər ˈweð.ər ðɪs ɡrəʊθ ɪz səˈsteɪ.nə.bəl ɪf ðə ˈmɑː.kɪt sləʊz daʊn nekst jɪə/",
+        "vi": "Cảm ơn, đó là một bài thuyết trình rất rõ ràng. Tuy nhiên, tôi đang băn khoăn liệu mức tăng trưởng này có bền vững không nếu thị trường chững lại vào năm tới?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's an excellent question, and to be honest, it's something we've thought about ____. Although the market may slow down, we've diversified our revenue streams, so we believe we're well positioned to handle any downturn.",
+        "ipa": "/ðæts ən ˈek.sə.lənt ˈkwes.tʃən ænd tə biː ˈɒn.ɪst ɪts ˈsʌm.θɪŋ wiːv θɔːt əˈbaʊt ˈkeə.fə.li ɔːlˈðəʊ ðə ˈmɑː.kɪt meɪ sləʊ daʊn wiːv daɪˈvɜː.sɪ.faɪd ˈaʊə ˈrev.ə.njuː striːmz səʊ wiː bɪˈliːv wɪə wel pəˈzɪʃ.ənd tə ˈhæn.dəl ˈen.i ˈdaʊn.tɜːn/",
+        "vi": "Đó là một câu hỏi rất hay, và thành thật mà nói, đó là điều chúng tôi đã suy nghĩ ____. Dù thị trường có thể chững lại, chúng tôi đã đa dạng hóa các nguồn doanh thu, nên chúng tôi tin mình đang ở vị thế tốt để ứng phó với bất kỳ sự suy giảm nào.",
+        "blanks": [
+          { "type": "knowledge", "answer": "carefully", "explanationVi": "Dùng trạng từ 'carefully' (một cách cẩn thận) bổ nghĩa cho cụm động từ 'thought about'. Lưu ý 'Although' mở mệnh đề nhượng bộ ở câu sau — một cấu trúc TOEIC kinh điển." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "That's reassuring to hear. Thank you for explaining it so thoroughly; I think you've covered everything I wanted to know.",
+        "ipa": "/ðæts ˌriːəˈʃʊə.rɪŋ tə hɪə θæŋk juː fɔːr ɪkˈspleɪ.nɪŋ ɪt səʊ ˈθʌr.ə.li aɪ θɪŋk juːv ˈkʌv.əd ˈev.ri.θɪŋ aɪ ˈwɒn.tɪd tə nəʊ/",
+        "vi": "Nghe vậy thật yên tâm. Cảm ơn bạn đã giải thích kỹ lưỡng như vậy; tôi nghĩ bạn đã đề cập đến mọi thứ tôi muốn biết."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa thuyết trình phương Tây, một cấu trúc rõ ràng rất được coi trọng: 'Tell them what you'll say, say it, then tell them what you said' (báo trước – trình bày – tóm lại).",
+    "Khán giả phương Tây thường thoải mái ngắt để hỏi, hoặc đặt câu hỏi khó ngay sau bài nói. Hãy chuẩn bị tinh thần và xem câu hỏi là sự quan tâm, không phải công kích.",
+    "Nên dùng số liệu cụ thể và biểu đồ để 'demonstrate' luận điểm — 'sales grew by 20%' thuyết phục hơn 'sales grew a lot'.",
+    "Giao tiếp bằng mắt (eye contact) với khán giả và giọng nói tự tin được đánh giá cao; đọc nguyên văn slide bị coi là thiếu chuyên nghiệp."
+  ],
+
+  "commonMistakes": [
+    "Đọc nguyên chữ trên slide thay vì diễn giải bằng lời — slide chỉ nên là gợi ý, không phải kịch bản.",
+    "Quên cụm chuyển ý nên bài nói nhảy cóc; hãy dùng 'Moving on to…', 'That brings me to…' để liền mạch.",
+    "Sai cấu trúc song song với 'not only… but also…' — hai vế phải cùng dạng (cùng because-clause, hoặc cùng danh từ).",
+    "Trả lời câu hỏi quá cụt ('Yes' / 'No'). Hãy mở rộng bằng 'Although…', 'so…' để nghe tự tin và đầy đủ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện thuyết trình và trả lời câu hỏi như thật.",
+    "prompt": "Hãy đóng vai khán giả trong một buổi thuyết trình công việc bằng tiếng Anh. Tôi sẽ thuyết trình về một chủ đề tôi tự chọn (ví dụ: kết quả kinh doanh, một dự án, một ý tưởng mới). Hãy yêu cầu tôi mở đầu, rồi sau mỗi phần tôi nói, hãy: (1) phản hồi tự nhiên như một khán giả thật và thỉnh thoảng đặt câu hỏi khó, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also', 'in order to' và các cụm chuyển ý như 'moving on to…'. Cuối buổi, hãy chấm điểm phần trình bày của tôi và nêu 3 điểm cần cải thiện. Hãy bắt đầu bằng cách mời tôi mở đầu bài thuyết trình.",
+    "advancedTips": [
+      "Thêm: 'Hãy đặt thêm những câu hỏi phản biện gay gắt để tôi tập giữ bình tĩnh và trả lời thuyết phục.'",
+      "Thêm: 'Hãy giả định khán giả là ban lãnh đạo cấp cao và yêu cầu tôi nói súc tích hơn.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được bài thuyết trình bằng một câu dài có mệnh đề quan hệ, không cần nhìn gợi ý.",
+    "Tôi dùng được ít nhất hai cụm chuyển ý ('Moving on to…', 'That brings me to…') để nối các phần.",
+    "Tôi trả lời được một câu hỏi của khán giả bằng câu dài có 'although' và lý do rõ ràng."
+  ]
+}

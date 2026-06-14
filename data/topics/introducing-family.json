@@ -1,0 +1,325 @@
+{
+  "id": "introducing-family",
+  "category": "family",
+  "title": "Giới thiệu gia đình",
+  "titleEn": "Introducing Your Family",
+  "level": "A2",
+  "functions": ["greetings", "describing", "small-talk"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Giới thiệu các thành viên trong gia đình bằng câu đơn giản, rõ ràng",
+    "Nói số lượng người và quan hệ trong gia đình (bố, mẹ, anh, chị, em)",
+    "Mô tả ngắn gọn công việc và tính cách của người thân",
+    "Dùng tự nhiên các mẫu câu 'There are…', 'My… is…' và một vài liên từ cơ bản (and, but, because)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "family",
+      "ipa": "/ˈfæm.ə.li/",
+      "vi": "gia đình (danh từ)",
+      "register": "neutral",
+      "example": "There are four people in my family.",
+      "exampleVi": "Gia đình tôi có bốn người.",
+      "note": "Danh từ. Câu mẫu kinh điển để mở đầu: 'There are … people in my family.'",
+      "synonyms": [
+        { "term": "household", "ipa": "/ˈhaʊs.həʊld/", "register": "formal", "nuanceVi": "Nhấn vào 'những người sống chung một nhà', kể cả người không cùng huyết thống. Trang trọng hơn, hay gặp trong giấy tờ." },
+        { "term": "relatives", "ipa": "/ˈrel.ə.tɪvz/", "register": "neutral", "nuanceVi": "Nghĩa 'họ hàng' (cô, dì, chú, bác). Rộng hơn 'family' vốn thường chỉ người thân gần." }
+      ]
+    },
+    {
+      "term": "parents",
+      "ipa": "/ˈpeə.rənts/",
+      "vi": "bố mẹ (danh từ)",
+      "register": "neutral",
+      "example": "My parents live in a small town.",
+      "exampleVi": "Bố mẹ tôi sống ở một thị trấn nhỏ.",
+      "note": "Danh từ số nhiều = cả bố và mẹ. Số ít 'parent' = một người (bố hoặc mẹ)."
+    },
+    {
+      "term": "sibling",
+      "ipa": "/ˈsɪb.lɪŋ/",
+      "vi": "anh/chị/em ruột (danh từ)",
+      "register": "neutral",
+      "example": "I have two siblings, a brother and a sister.",
+      "exampleVi": "Tôi có hai anh chị em, một anh trai và một chị gái.",
+      "note": "Danh từ trung lập, không phân biệt giới hay tuổi. Tiếng Anh không có một từ riêng cho 'anh' hay 'em' như tiếng Việt — phải nói 'older/younger brother'.",
+      "synonyms": [
+        { "term": "brothers and sisters", "ipa": "/ˈbrʌð.əz ænd ˈsɪs.təz/", "register": "casual", "nuanceVi": "Cách nói đời thường, dễ hiểu hơn 'siblings'. Khi nói chuyện bình thường, người ta hay dùng cụm này." }
+      ]
+    },
+    {
+      "term": "to live",
+      "ipa": "/lɪv/",
+      "vi": "sống, sinh sống (động từ)",
+      "register": "neutral",
+      "example": "We live together in Hanoi.",
+      "exampleVi": "Chúng tôi sống cùng nhau ở Hà Nội.",
+      "note": "Động từ. Đi với giới từ 'in' (in Hanoi) hoặc 'with' (live with my parents). Phát âm /lɪv/ (i ngắn), khác 'leave' /liːv/.",
+      "synonyms": [
+        { "term": "to stay", "ipa": "/steɪ/", "register": "casual", "nuanceVi": "Nhấn vào việc ở tạm thời hơn là sống lâu dài. Nói 'I stay with my aunt' nghe như ở nhờ một thời gian." },
+        { "term": "to reside", "ipa": "/rɪˈzaɪd/", "register": "formal", "nuanceVi": "Rất trang trọng, hay gặp trong giấy tờ/văn bản. Trong nói chuyện hằng ngày dùng 'live' là đủ." }
+      ]
+    },
+    {
+      "term": "kind",
+      "ipa": "/kaɪnd/",
+      "vi": "tốt bụng, tử tế (tính từ)",
+      "register": "neutral",
+      "example": "My mother is very kind and patient.",
+      "exampleVi": "Mẹ tôi rất tốt bụng và kiên nhẫn.",
+      "note": "Tính từ tả tính cách tích cực. Đừng nhầm với danh từ 'kind' (loại, kiểu) trong 'what kind of…?'.",
+      "synonyms": [
+        { "term": "nice", "ipa": "/naɪs/", "register": "casual", "nuanceVi": "Đời thường, chung chung ('dễ thương, dễ chịu'). 'kind' nhấn vào lòng tốt cụ thể hơn." },
+        { "term": "caring", "ipa": "/ˈkeə.rɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào sự quan tâm, chăm sóc người khác. Hợp khi nói về bố mẹ, ông bà." },
+        { "term": "warm-hearted", "ipa": "/ˌwɔːmˈhɑː.tɪd/", "register": "neutral", "nuanceVi": "Nghĩa 'ấm áp, giàu tình cảm'. Nghe tình cảm và sinh động hơn 'kind'." }
+      ]
+    },
+    {
+      "term": "funny",
+      "ipa": "/ˈfʌn.i/",
+      "vi": "hài hước, vui tính (tính từ)",
+      "register": "neutral",
+      "example": "My younger brother is really funny.",
+      "exampleVi": "Em trai tôi rất vui tính.",
+      "note": "Tính từ. 'funny' = làm người khác cười (vui tính). Cẩn thận: 'funny' cũng có thể nghĩa 'kỳ lạ' tùy ngữ cảnh.",
+      "synonyms": [
+        { "term": "humorous", "ipa": "/ˈhjuː.mə.rəs/", "register": "formal", "nuanceVi": "Trang trọng hơn, thiên về 'có khiếu hài hước'. Trong nói chuyện thường ngày 'funny' tự nhiên hơn." },
+        { "term": "cheerful", "ipa": "/ˈtʃɪə.fəl/", "register": "neutral", "nuanceVi": "Nghĩa 'vui vẻ, yêu đời' — tả tâm trạng tích cực, không nhất thiết gây cười như 'funny'." }
+      ]
+    },
+    {
+      "term": "hard-working",
+      "ipa": "/ˌhɑːdˈwɜː.kɪŋ/",
+      "vi": "chăm chỉ, siêng năng (tính từ)",
+      "register": "neutral",
+      "example": "My father is a hard-working man.",
+      "exampleVi": "Bố tôi là một người chăm chỉ.",
+      "note": "Tính từ ghép (có gạch nối). Một phẩm chất rất hay dùng khi khen người thân.",
+      "synonyms": [
+        { "term": "diligent", "ipa": "/ˈdɪl.ɪ.dʒənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'cẩn thận và bền bỉ trong công việc'. Hay gặp trong văn viết." }
+      ]
+    },
+    {
+      "term": "to take care of",
+      "ipa": "/teɪk keə ɒv/",
+      "vi": "chăm sóc (động từ/cụm động từ)",
+      "register": "neutral",
+      "example": "My grandmother takes care of the children.",
+      "exampleVi": "Bà tôi chăm sóc lũ trẻ.",
+      "note": "Cụm động từ, luôn đi với 'of' + người/vật. Rất hữu ích khi nói về vai trò trong gia đình.",
+      "synonyms": [
+        { "term": "to look after", "ipa": "/lʊk ˈɑːf.tə/", "register": "casual", "nuanceVi": "Nghĩa gần như y hệt 'take care of', đời thường hơn một chút. Anh-Anh dùng rất nhiều." }
+      ]
+    },
+    {
+      "term": "close",
+      "ipa": "/kləʊs/",
+      "vi": "gắn bó, thân thiết (tính từ)",
+      "register": "neutral",
+      "example": "We are a very close family.",
+      "exampleVi": "Gia đình chúng tôi rất gắn bó.",
+      "note": "Tính từ chỉ quan hệ thân thiết. Phát âm /kləʊs/ với 's' (khác động từ 'close' /kləʊz/ = đóng lại)."
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ə/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "We often have dinner together.",
+      "exampleVi": "Chúng tôi thường ăn tối cùng nhau.",
+      "note": "Trạng từ. Thường đứng cuối câu. Hay đi với 'live together', 'work together', 'spend time together'."
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thường (trạng từ)",
+      "register": "neutral",
+      "example": "We usually visit my grandparents on weekends.",
+      "exampleVi": "Chúng tôi thường thăm ông bà vào cuối tuần.",
+      "note": "Trạng từ chỉ tần suất. Thường đứng TRƯỚC động từ thường ('usually visit') nhưng SAU động từ 'to be' ('is usually').",
+      "synonyms": [
+        { "term": "often", "ipa": "/ˈɒf.ən/", "register": "neutral", "nuanceVi": "Nghĩa 'thường xuyên'. Tần suất hơi thấp hơn 'usually' một chút và linh hoạt về vị trí." },
+        { "term": "normally", "ipa": "/ˈnɔː.mə.li/", "register": "neutral", "nuanceVi": "Nghĩa 'thông thường thì' — nhấn vào điều bình thường hay xảy ra. Gần nghĩa 'usually'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "There are [số] people in my family.",
+      "use": "Mở đầu giới thiệu gia đình bằng cách nói tổng số người.",
+      "register": "neutral",
+      "examples": [
+        "There are four people in my family.",
+        "There are five people in my family: my parents, my two sisters and me."
+      ],
+      "explanationVi": "'There are' = 'có (nhiều)' dùng cho số nhiều. Đây là câu mở đầu chuẩn nhất khi giới thiệu gia đình. Nếu chỉ có 1 người thì dùng 'There is'.",
+      "altOf": "introducing-family"
+    },
+    {
+      "pattern": "I have [số] [brothers/sisters/siblings].",
+      "use": "Nói về số anh chị em của mình.",
+      "register": "neutral",
+      "examples": [
+        "I have one brother and one sister.",
+        "I have two younger brothers."
+      ],
+      "explanationVi": "'I have' dùng để nói bạn 'có' ai trong nhà. Tiếng Anh phải thêm 'older' (lớn hơn) hoặc 'younger' (nhỏ hơn) nếu muốn rõ anh/em, vì không có từ riêng như tiếng Việt.",
+      "altOf": "introducing-family"
+    },
+    {
+      "pattern": "My [người thân] is [tính từ / nghề nghiệp].",
+      "use": "Mô tả một thành viên (tính cách hoặc nghề nghiệp).",
+      "register": "neutral",
+      "examples": [
+        "My mother is a teacher.",
+        "My father is very kind and hard-working."
+      ],
+      "explanationVi": "Mẫu câu cơ bản nhất để tả người: 'My + người thân + is + …'. Với nghề nghiệp nhớ thêm mạo từ 'a/an' ('a teacher'), với tính từ thì không cần."
+    },
+    {
+      "pattern": "My [người thân] works as a [nghề nghiệp].",
+      "use": "Nói nghề nghiệp của người thân theo cách đầy đủ hơn.",
+      "register": "neutral",
+      "examples": [
+        "My father works as an engineer.",
+        "My older sister works as a nurse in a hospital."
+      ],
+      "explanationVi": "'works as a + nghề' = 'làm nghề…'. Cách này nghe đầy đủ hơn 'is a teacher'. Nhớ giới từ 'as' và mạo từ 'a/an'.",
+      "altOf": "saying-job"
+    },
+    {
+      "pattern": "We [usually/often] [hoạt động] together.",
+      "use": "Kể hoạt động chung của gia đình.",
+      "register": "neutral",
+      "examples": [
+        "We usually have dinner together.",
+        "We often watch films together on weekends."
+      ],
+      "explanationVi": "Trạng từ tần suất ('usually', 'often') đứng trước động từ thường. 'together' (cùng nhau) đứng cuối câu. Mẫu này giúp câu giới thiệu sinh động hơn."
+    },
+    {
+      "pattern": "We are a [tính từ] family because [lý do].",
+      "use": "Nêu cảm nhận về gia đình kèm lý do đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "We are a close family because we spend a lot of time together.",
+        "We are a happy family because we always help each other."
+      ],
+      "explanationVi": "'because' dùng để nêu lý do. Ở trình độ A2, thêm 'because + lý do' là cách dễ nhất để câu dài và tự nhiên hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "well", "ipa": "/wel/", "vi": "à, ờm (mở đầu câu nói)", "when": "Khi cần một giây suy nghĩ trước khi trả lời, để câu nói tự nhiên hơn.", "example": "Well, there are four people in my family." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì…", "when": "Khi muốn bổ sung hoặc đính chính nhẹ một thông tin.", "example": "Actually, my brother is younger than me." },
+    { "term": "for example", "ipa": "/fɔːr ɪɡˈzɑːm.pəl/", "vi": "ví dụ như", "when": "Khi muốn nêu một ví dụ cho điều vừa nói.", "example": "We do many things together, for example cooking and watching films." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi muốn khẳng định nhanh, thân thiện.", "example": "Of course, I love my family very much." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi hoặc nói thêm một điều ngoài lề.", "example": "By the way, do you have any brothers or sisters?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang trò chuyện làm quen với một người bạn mới. Người bạn ấy hỏi về gia đình của bạn.",
+    "lines": [
+      {
+        "speaker": "Bạn mới",
+        "text": "Hi! We don't know each other very well yet, so tell me a little about your family. How many people are there in your family?",
+        "ipa": "/haɪ wiː dəʊnt nəʊ iːtʃ ˈʌð.ə ˈver.i wel jet səʊ tel miː ə ˈlɪt.əl əˈbaʊt jɔː ˈfæm.ə.li haʊ ˈmen.i ˈpiː.pəl ɑː ðeə ɪn jɔː ˈfæm.ə.li/",
+        "vi": "Chào! Chúng mình chưa biết nhau rõ lắm, nên kể cho mình nghe về gia đình bạn đi. Nhà bạn có bao nhiêu người?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, there ____ four people in my family: my parents, my younger brother and me. We all live ____ in a small house in the countryside.",
+        "ipa": "/wel ðeər fɔː ˈpiː.pəl ɪn maɪ ˈfæm.ə.li maɪ ˈpeə.rənts maɪ ˈjʌŋ.ɡə ˈbrʌð.ər ænd miː wiː ɔːl lɪv təˈɡeð.ər ɪn ə smɔːl haʊs ɪn ðə ˈkʌn.tri.saɪd/",
+        "vi": "À, nhà mình có bốn người: bố mẹ, em trai và mình. Chúng mình sống cùng nhau trong một ngôi nhà nhỏ ở quê.",
+        "blanks": [
+          { "type": "knowledge", "answer": "are", "explanationVi": "Dùng 'are' vì 'There are' đi với số nhiều ('four people'). Xem mẫu câu 'There are … people in my family.'" },
+          { "type": "knowledge", "answer": "together", "explanationVi": "'together' (cùng nhau) là trạng từ, đứng sau động từ 'live'. Đây là từ rất hay dùng khi nói về gia đình." }
+        ]
+      },
+      {
+        "speaker": "Bạn mới",
+        "text": "That sounds lovely! What do your parents do? I mean, what jobs do they have?",
+        "ipa": "/ðæt saʊndz ˈlʌv.li wɒt duː jɔː ˈpeə.rənts duː aɪ miːn wɒt dʒɒbz duː ðeɪ hæv/",
+        "vi": "Nghe dễ thương quá! Bố mẹ bạn làm gì vậy? Ý mình là họ làm nghề gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "My father works ____ a teacher, and my mother is a nurse. They are both very hard-working, but they always have time for us.",
+        "ipa": "/maɪ ˈfɑː.ðə wɜːks ə ˈtiː.tʃər ænd maɪ ˈmʌð.ər ɪz ə nɜːs ðeɪ ɑː bəʊθ ˈver.i ˌhɑːdˈwɜː.kɪŋ bʌt ðeɪ ˈɔːl.weɪz hæv taɪm fɔːr ʌs/",
+        "vi": "Bố mình làm giáo viên, còn mẹ mình là y tá. Cả hai đều rất chăm chỉ, nhưng họ luôn có thời gian dành cho chúng mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "as", "explanationVi": "'work as a + nghề' = làm nghề gì. Cần giới từ 'as' và mạo từ 'a'. Xem mẫu câu 'My … works as a …'." }
+        ]
+      },
+      {
+        "speaker": "Bạn mới",
+        "text": "And what about your younger brother? What is he like as a person?",
+        "ipa": "/ænd wɒt əˈbaʊt jɔː ˈjʌŋ.ɡə ˈbrʌð.ə wɒt ɪz hiː laɪk æz ə ˈpɜː.sən/",
+        "vi": "Thế còn em trai bạn thì sao? Cậu ấy là người thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "He is really funny ____ he makes everyone laugh, although he can be a bit lazy sometimes. He is the youngest, so my parents usually ____ care of him the most.",
+        "ipa": "/hiː ɪz ˈrɪə.li ˈfʌn.i biˈkɒz hiː meɪks ˈev.ri.wʌn lɑːf ɔːlˈðəʊ hiː kæn biː ə bɪt ˈleɪ.zi ˈsʌm.taɪmz hiː ɪz ðə ˈjʌŋ.ɡɪst səʊ maɪ ˈpeə.rənts ˈjuː.ʒu.ə.li teɪk keər ɒv hɪm ðə məʊst/",
+        "vi": "Cậu ấy rất vui tính vì cậu ấy làm mọi người cười, mặc dù đôi khi cậu ấy hơi lười. Cậu ấy là út, nên bố mẹ mình thường chăm sóc cậu ấy nhiều nhất.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do tại sao cậu ấy vui tính. Xem mẫu câu '… because + lý do'." },
+          { "type": "knowledge", "answer": "take", "explanationVi": "Cụm 'take care of' = chăm sóc. Sau 'usually' (trạng từ tần suất) dùng động từ nguyên thể 'take'." }
+        ]
+      },
+      {
+        "speaker": "Bạn mới",
+        "text": "Your family seems really close. Do you spend a lot of time together?",
+        "ipa": "/jɔː ˈfæm.ə.li siːmz ˈrɪə.li kləʊs duː juː spend ə lɒt ɒv taɪm təˈɡeð.ə/",
+        "vi": "Gia đình bạn có vẻ rất gắn bó. Các bạn có dành nhiều thời gian bên nhau không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, we are a very close family ____ we always help each other. We usually have dinner together, and on weekends we visit my grandparents, ____ live near us.",
+        "ipa": "/jes wiː ɑːr ə ˈver.i kləʊs ˈfæm.ə.li biˈkɒz wiː ˈɔːl.weɪz help iːtʃ ˈʌð.ə wiː ˈjuː.ʒu.ə.li hæv ˈdɪn.ə təˈɡeð.ər ænd ɒn ˈwiːk.endz wiː ˈvɪz.ɪt maɪ ˈɡræn.peə.rənts huː lɪv nɪər ʌs/",
+        "vi": "Có chứ, gia đình mình rất gắn bó vì chúng mình luôn giúp đỡ nhau. Chúng mình thường ăn tối cùng nhau, và cuối tuần thì đi thăm ông bà, những người sống gần nhà mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do gia đình gắn bó. Xem mẫu câu 'We are a … family because …'." },
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' để chỉ người ('my grandparents'). Nếu chỉ vật thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Bạn mới",
+        "text": "That's wonderful. Family time is so important, isn't it?",
+        "ipa": "/ðæts ˈwʌn.də.fəl ˈfæm.ə.li taɪm ɪz səʊ ɪmˈpɔː.tənt ˈɪz.ənt ɪt/",
+        "vi": "Tuyệt quá. Thời gian bên gia đình thật sự quan trọng, đúng không?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Tiếng Anh không phân biệt 'anh/chị/em' bằng một từ riêng như tiếng Việt. Phải nói 'older brother' (anh trai) hoặc 'younger sister' (em gái) nếu muốn rõ thứ bậc.",
+    "Người phương Tây thường gọi tên riêng của các thành viên kể cả người lớn tuổi, nhưng với ông bà vẫn hay dùng 'Grandpa/Grandma'. Họ ít hỏi sâu về thu nhập gia đình vì coi đó là chuyện riêng tư.",
+    "Khi mới quen, hỏi 'Do you have any brothers or sisters?' là câu small-talk rất phổ biến và an toàn để bắt chuyện.",
+    "Ở nhiều gia đình phương Tây, con cái thường ra ở riêng sau 18 tuổi, nên việc 'sống cùng bố mẹ' khi trưởng thành không phổ biến như ở Việt Nam."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai 'There is/There are': số nhiều phải là 'There ARE four people', không phải 'There is four people'.",
+    "Quên mạo từ 'a/an' khi nói nghề: phải nói 'My mother is A teacher', không phải 'My mother is teacher'.",
+    "Nhầm 'live' /lɪv/ (sống) với 'leave' /liːv/ (rời đi) do phát âm gần giống — chú ý âm 'i' ngắn hay dài.",
+    "Dịch thẳng 'em trai' thành 'small brother'. Phải nói 'younger brother' (em trai) hoặc 'little brother'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện giới thiệu gia đình như đang trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn mới nói tiếng Anh đang làm quen với tôi. Hãy hỏi tôi về gia đình bằng những câu đơn giản, hỏi từng câu một (nhà có mấy người, bố mẹ làm gì, có anh chị em không, gia đình hay làm gì cùng nhau). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi thân thiện và tự nhiên như một người bạn, (2) nếu tôi sai ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và giải thích bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn một chút với 'and', 'but', 'because'. Hãy nói chậm và dùng từ vựng đơn giản phù hợp trình độ A2. Bắt đầu bằng một câu chào nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi thêm về ông bà và họ hàng của tôi.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho ví dụ đúng.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được nhà mình có mấy người bằng mẫu 'There are … people in my family.' mà không cần nhìn gợi ý.",
+    "Tôi giới thiệu được nghề nghiệp và tính cách của ít nhất hai người thân.",
+    "Tôi dùng được 'and', 'but', 'because' để nối câu cho dài và tự nhiên hơn."
+  ]
+}

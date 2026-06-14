@@ -1,0 +1,352 @@
+{
+  "id": "supporting-friend",
+  "category": "friends",
+  "title": "An ủi bạn",
+  "titleEn": "Supporting a Friend",
+  "level": "B2",
+  "functions": ["opinions", "suggesting", "agreeing", "small-talk"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "An ủi và động viên một người bạn đang buồn bằng câu dài, ấm áp và tự nhiên",
+    "Bày tỏ sự đồng cảm mà không phán xét hay vội đưa lời khuyên",
+    "Đề nghị giúp đỡ và gợi ý giải pháp một cách tế nhị",
+    "Dùng ngữ pháp nâng cao (although, in order to, not only… but also, mệnh đề quan hệ) khi nói lời động viên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to comfort",
+      "ipa": "/ˈkʌm.fət/",
+      "vi": "an ủi, vỗ về (động từ)",
+      "register": "neutral",
+      "example": "She did her best to comfort her friend after the bad news.",
+      "exampleVi": "Cô ấy đã cố hết sức an ủi bạn mình sau tin xấu.",
+      "note": "Động từ. 'comfort somebody' = làm ai đó bớt buồn. Danh từ cùng gốc 'comfort' nghĩa là sự an ủi / sự dễ chịu.",
+      "synonyms": [
+        { "term": "to console", "ipa": "/kənˈsəʊl/", "register": "formal", "nuanceVi": "Trang trọng hơn, thường dùng cho nỗi buồn lớn (mất mát, tang tóc). 'console somebody on their loss'." },
+        { "term": "to reassure", "ipa": "/ˌriː.əˈʃɔːr/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'trấn an, làm yên tâm' rằng mọi chuyện sẽ ổn — thiên về xua tan lo lắng hơn là xoa dịu nỗi buồn." },
+        { "term": "to soothe", "ipa": "/suːð/", "register": "neutral", "nuanceVi": "Nhẹ nhàng, thiên về 'làm dịu cảm xúc đang dâng trào' (cơn giận, sự hoảng loạn). Hơi văn vẻ." }
+      ]
+    },
+    {
+      "term": "empathy",
+      "ipa": "/ˈem.pə.θi/",
+      "vi": "sự đồng cảm (danh từ)",
+      "register": "neutral",
+      "example": "What my friend needed most was a bit of empathy, not advice.",
+      "exampleVi": "Điều bạn tôi cần nhất là một chút đồng cảm, chứ không phải lời khuyên.",
+      "note": "Danh từ. 'empathy' = đặt mình vào vị trí người khác để cảm nhận. Tính từ: empathetic.",
+      "synonyms": [
+        { "term": "sympathy", "ipa": "/ˈsɪm.pə.θi/", "register": "neutral", "nuanceVi": "'thương cảm' — cảm thấy tiếc cho ai đó từ bên ngoài. Khác empathy ở chỗ empathy là 'cảm như chính mình', sympathy là 'thấy thương cho họ'." },
+        { "term": "compassion", "ipa": "/kəmˈpæʃ.ən/", "register": "formal", "nuanceVi": "'lòng trắc ẩn' — đồng cảm sâu sắc kèm mong muốn giúp đỡ. Trang trọng và mạnh hơn." }
+      ]
+    },
+    {
+      "term": "supportive",
+      "ipa": "/səˈpɔː.tɪv/",
+      "vi": "luôn ủng hộ, hỗ trợ (tính từ)",
+      "register": "neutral",
+      "example": "Thank you for being so supportive during a really hard time.",
+      "exampleVi": "Cảm ơn cậu vì đã luôn ở bên hỗ trợ trong lúc khó khăn thế này.",
+      "note": "Tính từ. 'be supportive of somebody' = luôn đứng về phía và giúp đỡ ai đó.",
+      "synonyms": [
+        { "term": "caring", "ipa": "/ˈkeə.rɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'quan tâm, chu đáo, dịu dàng' với cảm xúc người khác. Ấm áp hơn." },
+        { "term": "understanding", "ipa": "/ˌʌn.dəˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'thấu hiểu, không phán xét'. Hợp khi muốn nói bạn là người dễ thông cảm." }
+      ]
+    },
+    {
+      "term": "overwhelmed",
+      "ipa": "/ˌəʊ.vəˈwelmd/",
+      "vi": "choáng ngợp, quá tải (tính từ)",
+      "register": "neutral",
+      "example": "I've been feeling completely overwhelmed by everything lately.",
+      "exampleVi": "Dạo này tôi cảm thấy hoàn toàn quá tải vì mọi thứ.",
+      "note": "Tính từ. Thường đi với 'by/with'. Mô tả cảm giác bị mọi thứ đè nặng, không xoay xở nổi.",
+      "synonyms": [
+        { "term": "stressed out", "ipa": "/strest aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'căng thẳng quá mức'. Nhẹ và bình dân hơn 'overwhelmed'." },
+        { "term": "swamped", "ipa": "/swɒmpt/", "register": "casual", "nuanceVi": "Thân mật, nhấn 'ngập đầu trong việc/áp lực'. Hình ảnh như bị nhấn chìm." }
+      ]
+    },
+    {
+      "term": "to cope with",
+      "ipa": "/kəʊp wɪð/",
+      "vi": "đối phó, xoay xở với (động từ)",
+      "register": "neutral",
+      "example": "It can be hard to cope with so much pressure on your own.",
+      "exampleVi": "Thật khó để một mình đối phó với áp lực lớn đến vậy.",
+      "note": "Cụm động từ, luôn đi với 'with' + danh từ. Nhấn việc xử lý một tình huống khó về mặt cảm xúc.",
+      "synonyms": [
+        { "term": "to deal with", "ipa": "/diːl wɪð/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính, nghĩa 'xử lý'. Rộng hơn 'cope with' (vốn thiên về chịu đựng khó khăn)." },
+        { "term": "to handle", "ipa": "/ˈhæn.dəl/", "register": "neutral", "nuanceVi": "Nhấn vào năng lực 'kiểm soát, làm chủ' tình huống. Nghe chủ động hơn 'cope with'." }
+      ]
+    },
+    {
+      "term": "to go through",
+      "ipa": "/ɡəʊ θruː/",
+      "vi": "trải qua (chuyện khó khăn) (động từ)",
+      "register": "neutral",
+      "example": "I can't imagine what you must be going through right now.",
+      "exampleVi": "Tôi không thể tưởng tượng nổi cậu đang phải trải qua điều gì lúc này.",
+      "note": "Cụm động từ. 'go through' một giai đoạn/biến cố khó khăn. Câu 'what you're going through' rất thông dụng khi an ủi.",
+      "synonyms": [
+        { "term": "to experience", "ipa": "/ɪkˈspɪə.ri.əns/", "register": "formal", "nuanceVi": "Trang trọng và trung tính hơn, không nhất thiết là chuyện xấu. 'go through' nghe đời thường và đồng cảm hơn." },
+        { "term": "to endure", "ipa": "/ɪnˈdjʊər/", "register": "formal", "nuanceVi": "Nhấn vào sự 'chịu đựng' nỗi đau kéo dài. Mạnh và văn vẻ hơn nhiều." }
+      ]
+    },
+    {
+      "term": "to cheer up",
+      "ipa": "/tʃɪər ʌp/",
+      "vi": "làm cho vui lên / vui lên (động từ)",
+      "register": "casual",
+      "example": "Let's go out tonight — it might cheer you up a little.",
+      "exampleVi": "Tối nay đi chơi đi — biết đâu sẽ giúp cậu vui lên một chút.",
+      "note": "Cụm động từ. 'cheer somebody up' = làm ai vui lên. Câu mệnh lệnh 'Cheer up!' nghĩa 'Vui lên nào!'.",
+      "synonyms": [
+        { "term": "to lift one's spirits", "ipa": "/lɪft wʌnz ˈspɪr.ɪts/", "register": "formal", "nuanceVi": "Văn vẻ hơn, nghĩa 'nâng đỡ tinh thần'. Nghe tinh tế, hợp văn viết hoặc lời động viên trang trọng." }
+      ]
+    },
+    {
+      "term": "setback",
+      "ipa": "/ˈset.bæk/",
+      "vi": "trở ngại, bước lùi (danh từ)",
+      "register": "neutral",
+      "example": "Try to see this as a temporary setback, not a failure.",
+      "exampleVi": "Hãy xem đây là một trở ngại tạm thời, chứ không phải thất bại.",
+      "note": "Danh từ. Một sự cố làm chậm tiến độ; nhẹ nhàng và bớt nặng nề hơn 'failure'.",
+      "synonyms": [
+        { "term": "obstacle", "ipa": "/ˈɒb.stə.kəl/", "register": "neutral", "nuanceVi": "'vật cản, chướng ngại' — thứ cản đường bạn tiến tới, không nhất thiết là bước lùi đã xảy ra." },
+        { "term": "hurdle", "ipa": "/ˈhɜː.dəl/", "register": "neutral", "nuanceVi": "Ẩn dụ 'rào cản phải vượt qua' (như rào trong điền kinh). Mang sắc thái tích cực: vượt được là tiến lên." }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành (trạng từ)",
+      "register": "neutral",
+      "example": "I'm genuinely worried about how much you've been working.",
+      "exampleVi": "Tôi thực sự lo lắng về việc cậu làm việc quá nhiều dạo này.",
+      "note": "Trạng từ. Nhấn rằng cảm xúc/quan tâm là thật lòng, không xã giao. Tính từ: genuine.",
+      "synonyms": [
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Phổ biến, nghĩa 'thật sự'. Hơi nhẹ và rộng hơn 'genuinely' (vốn nhấn sự chân thành từ tâm)." },
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thành thật, không giả tạo'. Hay dùng trong lời chia buồn hoặc văn viết." }
+      ]
+    },
+    {
+      "term": "to reach out",
+      "ipa": "/riːtʃ aʊt/",
+      "vi": "chủ động liên hệ / tìm đến (để giúp hoặc xin giúp) (động từ)",
+      "register": "neutral",
+      "example": "Please don't hesitate to reach out whenever you need to talk.",
+      "exampleVi": "Đừng ngại tìm đến tôi bất cứ khi nào cậu cần tâm sự nhé.",
+      "note": "Cụm động từ. 'reach out to somebody' = chủ động liên hệ để hỗ trợ hoặc nhờ hỗ trợ. Rất thông dụng và ấm áp.",
+      "synonyms": [
+        { "term": "to get in touch", "ipa": "/ɡet ɪn tʌtʃ/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'liên lạc'. Không mang sắc thái 'mở lòng giúp đỡ' đậm như 'reach out'." }
+      ]
+    },
+    {
+      "term": "wholeheartedly",
+      "ipa": "/ˌhəʊlˈhɑː.tɪd.li/",
+      "vi": "một cách hết lòng, toàn tâm (trạng từ)",
+      "register": "formal",
+      "example": "I wholeheartedly believe that things will get better for you.",
+      "exampleVi": "Tôi hết lòng tin rằng mọi chuyện sẽ tốt đẹp hơn với cậu.",
+      "note": "Trạng từ. Nhấn sự ủng hộ/tin tưởng không chút do dự. Tạo cảm giác chân thành, mạnh mẽ.",
+      "synonyms": [
+        { "term": "fully", "ipa": "/ˈfʊl.i/", "register": "neutral", "nuanceVi": "Đơn giản, nghĩa 'hoàn toàn'. Nhẹ và trung tính hơn 'wholeheartedly' (vốn thêm sắc thái tình cảm chân thành)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm so sorry to hear that you're [tính từ / V-ing].",
+      "use": "Mở lời an ủi, thể hiện bạn đã lắng nghe và lấy làm tiếc.",
+      "register": "neutral",
+      "examples": [
+        "I'm so sorry to hear that you're going through such a tough time.",
+        "I'm so sorry to hear that you've been feeling so overwhelmed."
+      ],
+      "explanationVi": "Câu mở đầu chuẩn mực và ấm áp khi an ủi. 'to hear that…' cho thấy bạn phản hồi sau khi đã lắng nghe. Tránh nói 'I'm sorry' cụt lủn nghe như xin lỗi.",
+      "altOf": "showing-empathy"
+    },
+    {
+      "pattern": "I can only imagine how [tính từ] you must be feeling.",
+      "use": "Bày tỏ đồng cảm sâu sắc mà không tỏ ra mình hiểu hết.",
+      "register": "neutral",
+      "examples": [
+        "I can only imagine how exhausted you must be feeling right now.",
+        "I can only imagine how stressful all of this must be for you."
+      ],
+      "explanationVi": "'I can only imagine' rất tinh tế: thừa nhận mình không trải qua nên không dám nói 'I know how you feel'. 'must be feeling' diễn đạt suy đoán có cơ sở (chắc hẳn).",
+      "altOf": "showing-empathy"
+    },
+    {
+      "pattern": "If you ever need [danh từ], I'm always here for you.",
+      "use": "Cam kết luôn sẵn sàng giúp đỡ, để bạn không thấy cô đơn.",
+      "register": "neutral",
+      "examples": [
+        "If you ever need someone to talk to, I'm always here for you.",
+        "If you ever need a hand with anything, I'm always here for you."
+      ],
+      "explanationVi": "Câu điều kiện 'If you ever need…' mở ra lời mời giúp đỡ không áp lực. 'I'm here for you' là cụm ấm áp kinh điển, nghĩa 'có tôi bên cạnh'.",
+      "altOf": "offering-support"
+    },
+    {
+      "pattern": "Have you thought about [V-ing] in order to [V]?",
+      "use": "Gợi ý một giải pháp một cách nhẹ nhàng, không áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "Have you thought about taking a few days off in order to recharge?",
+        "Have you thought about talking to someone in order to get some perspective?"
+      ],
+      "explanationVi": "'Have you thought about…?' đề xuất dưới dạng câu hỏi nên không nghe như ra lệnh. 'in order to + V' nêu mục đích rõ ràng, trang trọng và mạch lạc.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Maybe it would help if you [V quá khứ đơn].",
+      "use": "Đưa lời khuyên tế nhị dưới dạng giả định, để bạn dễ tiếp nhận.",
+      "register": "casual",
+      "examples": [
+        "Maybe it would help if you talked to your manager about your workload.",
+        "Maybe it would help if you took some time for yourself this weekend."
+      ],
+      "explanationVi": "Cấu trúc giả định: 'it would help if + S + V quá khứ đơn'. Dùng quá khứ đơn để giảm tính áp đặt, nghe như một gợi ý nhẹ thay vì mệnh lệnh.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Although things seem [tính từ] now, I'm sure [mệnh đề].",
+      "use": "Động viên, gieo hy vọng rằng tình hình sẽ tốt lên.",
+      "register": "neutral",
+      "examples": [
+        "Although things seem hopeless now, I'm sure you'll come out of this stronger.",
+        "Although things seem overwhelming now, I'm sure it will get easier soon."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù hiện tại tệ…). Vế sau 'I'm sure…' trấn an hướng tới tương lai tốt đẹp. Bộ đôi này vừa thừa nhận thực tại, vừa nâng đỡ tinh thần."
+    },
+    {
+      "pattern": "You're not only [tính từ], but you're also [tính từ].",
+      "use": "Khích lệ bằng cách nhắc bạn về những phẩm chất tốt của họ.",
+      "register": "neutral",
+      "examples": [
+        "You're not only resilient, but you're also one of the kindest people I know.",
+        "You're not only capable, but you're also far stronger than you think."
+      ],
+      "explanationVi": "'not only… but also…' nhấn mạnh hai phẩm chất cùng lúc, làm lời khen nghe đầy đặn và chân thành hơn. Khi cả hai vế cùng cấu trúc (tính từ) thì không cần đảo ngữ."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời nói chân thành, từ tận đáy lòng.", "example": "Honestly, you've handled all of this far better than most people would." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói cho công bằng thì", "when": "Khi muốn nhắc bạn nhìn nhận tình huống công bằng hơn với chính mình.", "example": "To be fair, none of this was your fault in the first place." },
+    { "term": "for what it's worth", "ipa": "/fɔː wɒt ɪts wɜːθ/", "vi": "dù chẳng đáng là bao (nói khiêm tốn trước khi cho lời khuyên)", "when": "Đưa ý kiến/lời khuyên một cách khiêm tốn, không áp đặt.", "example": "For what it's worth, I think you made absolutely the right decision." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Trấn an rằng mọi thứ sẽ tốt lên từ từ, không vội.", "example": "Things will gradually start to feel more manageable, I promise." },
+    { "term": "no matter what", "ipa": "/nəʊ ˈmæt.ə wɒt/", "vi": "dù có chuyện gì đi nữa", "when": "Cam kết sự ủng hộ vô điều kiện.", "example": "I'll be by your side no matter what happens." }
+  ],
+
+  "dialogue": {
+    "context": "Người bạn thân của bạn (Linh) gần đây trông rất mệt mỏi và vừa nhắn rằng cô ấy đang gặp chuyện không vui trong công việc. Bạn rủ cô ấy đi cà phê để tâm sự và an ủi.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Hey Linh, you've seemed really down lately, and honestly I'm ____ worried about you. Do you want to talk about what's been going on?",
+        "ipa": "/heɪ lɪŋ juːv siːmd ˈrɪə.li daʊn ˈleɪt.li ænd ˈɒn.ɪst.li aɪm ... ˈwʌr.id əˈbaʊt juː duː juː wɒnt tə tɔːk əˈbaʊt wɒts bɪn ˈɡəʊ.ɪŋ ɒn/",
+        "vi": "Này Linh, dạo này trông cậu buồn lắm, và thật lòng mình ____ lo cho cậu. Cậu có muốn kể xem chuyện gì đang xảy ra không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "genuinely", "explanationVi": "Dùng trạng từ 'genuinely' (một cách chân thành) để nhấn rằng sự lo lắng là thật lòng. Đứng trước tính từ 'worried'. Xem mục Từ vựng: genuinely." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Thanks for asking. Honestly, I've been feeling completely overwhelmed at work, and although I keep telling myself it's fine, I just can't seem to cope with the pressure anymore.",
+        "ipa": "/θæŋks fɔːr ˈɑːs.kɪŋ ˈɒn.ɪst.li aɪv bɪn ˈfiː.lɪŋ kəmˈpliːt.li ˌəʊ.vəˈwelmd ət wɜːk ænd ɔːlˈðəʊ aɪ kiːp ˈtel.ɪŋ maɪˈself ɪts faɪn aɪ dʒʌst kɑːnt siːm tə kəʊp wɪð ðə ˈpreʃ.ə ˌen.iˈmɔː/",
+        "vi": "Cảm ơn cậu đã hỏi. Thật lòng, ở chỗ làm mình thấy hoàn toàn quá tải, và dù mình cứ tự nhủ là không sao, mình vẫn chẳng tài nào đối phó nổi với áp lực nữa."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm so sorry to hear that you're ____ such a hard time. I can only imagine how exhausted you must be feeling, especially when you've been carrying all of this on your own.",
+        "ipa": "/aɪm səʊ ˈsɒr.i tə hɪər ðæt jʊə ... sʌtʃ ə hɑːd taɪm aɪ kæn ˈəʊn.li ɪˈmædʒ.ɪn haʊ ɪɡˈzɔːs.tɪd juː mʌst biː ˈfiː.lɪŋ ɪˈspeʃ.ə.li wen juːv bɪn ˈkær.i.ɪŋ ɔːl ɒv ðɪs ɒn jɔːr əʊn/",
+        "vi": "Mình rất tiếc khi biết cậu đang ____ một quãng thời gian khó khăn như vậy. Mình chỉ có thể tưởng tượng cậu mệt mỏi đến nhường nào, nhất là khi cậu đã một mình gánh hết mọi thứ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "going through", "explanationVi": "Dùng cụm động từ 'going through' (đang trải qua) cho chuyện khó khăn. Cấu trúc: 'sorry to hear that you're going through…'. Xem mẫu câu 'I'm so sorry to hear that you're…'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That really means a lot. The worst part is that my manager, ____ never seems to listen, keeps adding more tasks despite knowing how stretched the whole team already is.",
+        "ipa": "/ðæt ˈrɪə.li miːnz ə lɒt ðə wɜːst pɑːt ɪz ðæt maɪ ˈmæn.ɪdʒ.ə ... ˈnev.ə siːmz tə ˈlɪs.ən kiːps ˈæd.ɪŋ mɔː tɑːsks dɪsˈpaɪt ˈnəʊ.ɪŋ haʊ stretʃt ðə həʊl tiːm ɔːlˈred.i ɪz/",
+        "vi": "Điều đó thật sự có ý nghĩa với mình lắm. Tệ nhất là sếp mình, ____ chẳng bao giờ chịu lắng nghe, cứ liên tục giao thêm việc dù biết rõ cả nhóm đã căng đến mức nào rồi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' thay cho 'my manager' (người) để nối mệnh đề mô tả. Nếu là vật/sự việc thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds incredibly frustrating, and to be fair, none of this is your fault. Have you thought about speaking to HR ____ to set some clearer boundaries around your workload?",
+        "ipa": "/ðæt saʊndz ɪnˈkred.ɪ.bli frʌsˈtreɪ.tɪŋ ænd tə biː feə nʌn ɒv ðɪs ɪz jɔːr fɔːlt hæv juː θɔːt əˈbaʊt ˈspiː.kɪŋ tə ˌeɪtʃˈɑː ... tə set sʌm ˈklɪə.rə ˈbaʊn.dri.z əˈraʊnd jɔːr ˈwɜːk.ləʊd/",
+        "vi": "Nghe ức chế thật đấy, và nói cho công bằng thì chẳng có gì là lỗi của cậu cả. Cậu đã nghĩ đến chuyện trao đổi với phòng nhân sự ____ đặt ra giới hạn rõ ràng hơn cho khối lượng công việc chưa?",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Dùng 'in order to + V' (nhằm để) để nêu mục đích. Cụm hoàn chỉnh là 'in order to set'. Xem mẫu câu 'Have you thought about… in order to…?'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Maybe you're right. I've been so afraid of seeming weak that I haven't told anyone how bad it's gotten. Do you really think things can get better?",
+        "ipa": "/ˈmeɪ.biː jʊə raɪt aɪv bɪn səʊ əˈfreɪd ɒv ˈsiː.mɪŋ wiːk ðæt aɪ ˈhæv.ənt təʊld ˈen.i.wʌn haʊ bæd ɪts ˈɡɒt.ən duː juː ˈrɪə.li θɪŋk θɪŋz kæn ɡet ˈbet.ə/",
+        "vi": "Có lẽ cậu nói đúng. Mình sợ bị xem là yếu đuối đến mức chẳng dám kể với ai chuyện đã tệ đến đâu. Cậu thật sự nghĩ mọi chuyện có thể tốt lên à?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____ things seem overwhelming right now, I'm absolutely sure you'll come out of this stronger. You're not only one of the most capable people I know, but you're also far more resilient than you give yourself credit for.",
+        "ipa": "/... θɪŋz siːm ˌəʊ.vəˈwel.mɪŋ raɪt naʊ aɪm ˈæb.sə.luːt.li ʃɔː juːl kʌm aʊt ɒv ðɪs ˈstrɒŋ.ɡə juː ɑː nɒt ˈəʊn.li wʌn ɒv ðə məʊst ˈkeɪ.pə.bəl ˈpiː.pəl aɪ nəʊ bʌt juː ɑːr ˈɔːl.səʊ fɑː mɔː rɪˈzɪl.i.ənt ðæn juː ɡɪv jɔːrˈself ˈkred.ɪt fɔː/",
+        "vi": "____ mọi thứ bây giờ trông thật ngột ngạt, mình chắc chắn cậu sẽ vượt qua chuyện này và mạnh mẽ hơn. Cậu không chỉ là một trong những người giỏi giang nhất mình biết, mà còn kiên cường hơn nhiều so với cậu vẫn nghĩ về bản thân.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' đầu câu để mở mệnh đề nhượng bộ (dù hiện tại tệ…), vế sau gieo hy vọng. Xem mẫu câu 'Although things seem… now, I'm sure…'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Thank you, I really needed to hear that today. It's such a relief to finally talk to someone who actually understands.",
+        "ipa": "/θæŋk juː aɪ ˈrɪə.li ˈniː.dɪd tə hɪər ðæt təˈdeɪ ɪts sʌtʃ ə rɪˈliːf tə ˈfaɪ.nə.li tɔːk tə ˈsʌm.wʌn huː ˈæk.tʃu.ə.li ˌʌn.dəˈstændz/",
+        "vi": "Cảm ơn cậu, hôm nay mình thực sự cần nghe điều đó. Cuối cùng cũng được tâm sự với một người thật sự thấu hiểu, thật nhẹ cả lòng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Always. And remember, if you ever need ____ to talk to, I'm here for you no matter what. Why don't we grab dinner this weekend in order to take your mind off things for a while?",
+        "ipa": "/ˈɔːl.weɪz ænd rɪˈmem.bə ɪf juː ˈev.ə niːd ... tə tɔːk tuː aɪm hɪə fɔː juː nəʊ ˈmæt.ə wɒt waɪ dəʊnt wiː ɡræb ˈdɪn.ə ðɪs ˈwiːk.end ɪn ˈɔː.də tə teɪk jɔː maɪnd ɒf θɪŋz fɔːr ə waɪl/",
+        "vi": "Lúc nào cũng vậy mà. Và nhớ nhé, nếu cậu cần ____ để tâm sự, mình luôn ở đây vì cậu dù có chuyện gì đi nữa. Hay cuối tuần này mình đi ăn tối đi, để cậu tạm gác mọi chuyện lại một chút nhỉ?",
+        "blanks": [
+          { "type": "personal", "hint": "Một người để tâm sự. Ví dụ: 'someone' hoặc 'a friend'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, khi an ủi người ta thường ưu tiên LẮNG NGHE và đồng cảm trước, thay vì vội đưa lời khuyên hay 'sửa chữa' vấn đề. Câu hỏi 'Do you want to talk about it?' rất phổ biến.",
+    "Tránh nói 'I know exactly how you feel' — nhiều người thấy hơi áp đặt. 'I can only imagine how you must feel' được xem là tinh tế và tôn trọng hơn.",
+    "Câu 'I'm here for you' và 'reach out anytime' là những lời cam kết ấm áp, rất được trân trọng và dùng thường xuyên giữa bạn bè thân.",
+    "Người phương Tây nói chung khá thoải mái khi nhắc đến sức khỏe tinh thần và việc gặp chuyên gia tư vấn (therapist), không coi đó là điều đáng xấu hổ."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I'm sorry for you' nghe như thương hại. Nên dùng 'I'm so sorry to hear that…' hoặc 'I'm sorry you're going through this.'",
+    "Nhầm 'empathy' (đồng cảm, cảm như chính mình) với 'sympathy' (thương cảm từ bên ngoài) — hai sắc thái khác nhau.",
+    "Vội đưa lời khuyên kiểu mệnh lệnh ('You should quit your job'). Hãy bọc bằng 'Have you thought about…?' hoặc 'Maybe it would help if…' cho tế nhị.",
+    "Quên giới từ: 'cope WITH something', 'go THROUGH something' — thiếu giới từ là sai và nghe lủng củng."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống an ủi bạn như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang trải qua chuyện buồn (ví dụ áp lực công việc, chia tay, hoặc thi trượt). Tôi sẽ là người an ủi bạn. Hãy bắt đầu bằng cách kể cho tôi nghe bạn đang buồn chuyện gì. Sau mỗi câu an ủi của tôi, hãy: (1) phản hồi tự nhiên và đầy cảm xúc như một người bạn thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc nói chưa tự nhiên/chưa tế nhị thì sửa nhẹ nhàng và gợi ý cách diễn đạt ấm áp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'in order to', 'not only… but also' và mệnh đề quan hệ. Cuối buổi, hãy nhận xét xem lời an ủi của tôi đã đủ đồng cảm chưa và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người bạn khó mở lòng, trả lời cộc lốc lúc đầu, để tôi tập kiên nhẫn dẫn dắt.'",
+      "Thêm: 'Hãy tạo một tình huống nhạy cảm hơn (mất người thân) để tôi tập dùng lời lẽ trang trọng, tế nhị.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời an ủi được bằng câu dài, ấm áp (I'm so sorry to hear…, I can only imagine…) mà không nhìn gợi ý.",
+    "Tôi gợi ý giải pháp một cách tế nhị bằng 'Have you thought about…?' hoặc 'Maybe it would help if…'.",
+    "Tôi dùng đúng 'although', 'in order to', 'not only… but also' và mệnh đề quan hệ who/which khi động viên bạn."
+  ]
+}

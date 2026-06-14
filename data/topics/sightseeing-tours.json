@@ -1,0 +1,350 @@
+{
+  "id": "sightseeing-tours",
+  "category": "travel",
+  "title": "Tham quan & tour",
+  "titleEn": "Sightseeing & Tours",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "suggesting", "describing"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Hỏi thông tin về tour, giá vé, giờ giấc và điểm tham quan",
+    "Đặt và đề nghị tham gia một tour có hướng dẫn viên một cách lịch sự",
+    "Mô tả cảm nhận về một địa điểm bằng câu dài, có tính từ và trạng từ phong phú",
+    "Dùng ngữ pháp B1 (such as, because, although, which) tự nhiên khi nói về du lịch"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "sightseeing",
+      "ipa": "/ˈsaɪtˌsiː.ɪŋ/",
+      "vi": "việc tham quan, ngắm cảnh (danh từ)",
+      "register": "neutral",
+      "example": "We spent the whole morning sightseeing in the old town.",
+      "exampleVi": "Chúng tôi dành cả buổi sáng tham quan khu phố cổ.",
+      "note": "Danh từ không đếm được. Hay đi với 'go sightseeing' (đi tham quan) và 'do some sightseeing'.",
+      "synonyms": [
+        { "term": "touring", "ipa": "/ˈtʊə.rɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào việc đi vòng quanh nhiều nơi theo lộ trình, có thể dài ngày. 'sightseeing' thiên về ngắm cảnh đẹp, danh thắng." },
+        { "term": "exploring", "ipa": "/ɪkˈsplɔː.rɪŋ/", "register": "neutral", "nuanceVi": "Nhấn cảm giác khám phá, tự đi tìm hiểu chỗ mới mẻ, ít theo lịch trình cố định hơn." }
+      ]
+    },
+    {
+      "term": "guided tour",
+      "ipa": "/ˈɡaɪ.dɪd tʊər/",
+      "vi": "tour có hướng dẫn viên (danh từ)",
+      "register": "neutral",
+      "example": "We joined a guided tour because we wanted to learn the history.",
+      "exampleVi": "Chúng tôi tham gia tour có hướng dẫn vì muốn tìm hiểu lịch sử.",
+      "note": "Trái nghĩa là 'self-guided tour' (tự tham quan, không có người dẫn). Người dẫn gọi là 'tour guide'."
+    },
+    {
+      "term": "landmark",
+      "ipa": "/ˈlænd.mɑːrk/",
+      "vi": "địa danh / công trình nổi tiếng (danh từ)",
+      "register": "neutral",
+      "example": "The cathedral is the most famous landmark in the city.",
+      "exampleVi": "Nhà thờ lớn là công trình nổi tiếng nhất thành phố.",
+      "note": "Danh từ chỉ một nơi dễ nhận ra, mang tính biểu tượng (tháp, tượng đài, cầu...).",
+      "synonyms": [
+        { "term": "attraction", "ipa": "/əˈtræk.ʃən/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'thu hút du khách đến chơi'; rộng hơn, gồm cả công viên giải trí, bảo tàng. 'landmark' thiên về biểu tượng nhận diện." },
+        { "term": "monument", "ipa": "/ˈmɒn.jə.mənt/", "register": "formal", "nuanceVi": "Trang trọng, chỉ công trình tưởng niệm hoặc di tích lịch sử cụ thể (tượng đài, lăng mộ)." }
+      ]
+    },
+    {
+      "term": "itinerary",
+      "ipa": "/aɪˈtɪn.ə.rer.i/",
+      "vi": "lịch trình chuyến đi (danh từ)",
+      "register": "neutral",
+      "example": "The itinerary includes three temples and a boat trip.",
+      "exampleVi": "Lịch trình gồm ba ngôi đền và một chuyến đi thuyền.",
+      "note": "Danh từ, phát âm bẫy: nhấn âm thứ hai 'TIN'. Đừng nhầm với 'schedule' (lịch giờ giấc nói chung).",
+      "synonyms": [
+        { "term": "schedule", "ipa": "/ˈskedʒ.uːl/", "register": "neutral", "nuanceVi": "Nhấn vào giờ giấc, thời gian biểu. 'itinerary' nhấn vào chuỗi địa điểm/hoạt động của một chuyến đi." }
+      ]
+    },
+    {
+      "term": "to book",
+      "ipa": "/bʊk/",
+      "vi": "đặt trước (động từ)",
+      "register": "neutral",
+      "example": "I'd like to book two tickets for the city tour.",
+      "exampleVi": "Tôi muốn đặt hai vé cho tour thành phố.",
+      "note": "Động từ. Danh từ tương ứng là 'booking'. Có thể nói 'book a tour / book tickets / book in advance'.",
+      "synonyms": [
+        { "term": "to reserve", "ipa": "/rɪˈzɜːv/", "register": "formal", "nuanceVi": "Trang trọng hơn một chút, hay dùng cho nhà hàng, chỗ ngồi. 'book' phổ biến và đời thường hơn." }
+      ]
+    },
+    {
+      "term": "breathtaking",
+      "ipa": "/ˈbreθˌteɪ.kɪŋ/",
+      "vi": "đẹp đến nghẹt thở (tính từ)",
+      "register": "neutral",
+      "example": "The view from the top was absolutely breathtaking.",
+      "exampleVi": "Khung cảnh từ trên đỉnh đẹp đến nghẹt thở.",
+      "note": "Tính từ mạnh, mang sắc thái rất tích cực. Hợp để mô tả cảnh đẹp đặc biệt ấn tượng.",
+      "synonyms": [
+        { "term": "stunning", "ipa": "/ˈstʌn.ɪŋ/", "register": "neutral", "nuanceVi": "Rất phổ biến, nghĩa 'đẹp choáng ngợp'. An toàn và dễ dùng trong hầu hết tình huống." },
+        { "term": "spectacular", "ipa": "/spekˈtæk.jə.lər/", "register": "neutral", "nuanceVi": "Nhấn vào sự hoành tráng, gây ấn tượng về quy mô (cảnh núi, pháo hoa, công trình lớn)." },
+        { "term": "gorgeous", "ipa": "/ˈɡɔː.dʒəs/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'lộng lẫy, xinh đẹp'. Hợp khi trò chuyện thoải mái." }
+      ]
+    },
+    {
+      "term": "crowded",
+      "ipa": "/ˈkraʊ.dɪd/",
+      "vi": "đông đúc (tính từ)",
+      "register": "neutral",
+      "example": "The market was so crowded that we could hardly walk.",
+      "exampleVi": "Khu chợ đông đến mức chúng tôi gần như không đi nổi.",
+      "note": "Tính từ. Nói về nơi có quá nhiều người. Trái nghĩa: 'quiet' (vắng vẻ), 'empty' (vắng tanh).",
+      "synonyms": [
+        { "term": "packed", "ipa": "/pækt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'chật cứng, đông nghẹt'. Mạnh hơn 'crowded' một chút." },
+        { "term": "busy", "ipa": "/ˈbɪz.i/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'nhộn nhịp, nhiều người qua lại' nhưng chưa hẳn chật chội." }
+      ]
+    },
+    {
+      "term": "admission fee",
+      "ipa": "/ədˈmɪʃ.ən fiː/",
+      "vi": "phí vào cửa (danh từ)",
+      "register": "neutral",
+      "example": "Is there an admission fee for the museum?",
+      "exampleVi": "Bảo tàng có thu phí vào cửa không?",
+      "note": "Cụm danh từ. 'admission' = sự cho phép vào; 'entrance fee' là cách nói tương đương."
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "giới thiệu, gợi ý (động từ)",
+      "register": "neutral",
+      "example": "Could you recommend a good place to watch the sunset?",
+      "exampleVi": "Bạn có thể gợi ý một chỗ đẹp để ngắm hoàng hôn không?",
+      "note": "Động từ. Sau nó dùng danh từ hoặc V-ing: 'recommend visiting...', KHÔNG dùng 'recommend to visit'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhẹ hơn; chỉ đưa ý kiến để cân nhắc. 'recommend' hàm ý 'tôi thực sự khuyên nên'." }
+      ]
+    },
+    {
+      "term": "scenic",
+      "ipa": "/ˈsiː.nɪk/",
+      "vi": "có phong cảnh đẹp (tính từ)",
+      "register": "neutral",
+      "example": "We took the scenic route along the coast.",
+      "exampleVi": "Chúng tôi đi theo con đường có phong cảnh đẹp ven biển.",
+      "note": "Tính từ. Hay đi với 'scenic route' (đường ngắm cảnh), 'scenic spot' (điểm ngắm cảnh)."
+    },
+    {
+      "term": "conveniently",
+      "ipa": "/kənˈviː.ni.ənt.li/",
+      "vi": "một cách thuận tiện (trạng từ)",
+      "register": "neutral",
+      "example": "The hotel is conveniently located near the main square.",
+      "exampleVi": "Khách sạn nằm ở vị trí thuận tiện gần quảng trường chính.",
+      "note": "Trạng từ. Rất hay dùng với 'conveniently located' để nói về vị trí dễ đi lại.",
+      "synonyms": [
+        { "term": "handily", "ipa": "/ˈhæn.dɪ.li/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'tiện lợi, sẵn gần đó'. Ít trang trọng hơn 'conveniently'." }
+      ]
+    },
+    {
+      "term": "to wander",
+      "ipa": "/ˈwɒn.dər/",
+      "vi": "đi dạo lang thang (động từ)",
+      "register": "neutral",
+      "example": "We love to wander around the narrow streets without a plan.",
+      "exampleVi": "Chúng tôi thích lang thang quanh những con phố nhỏ mà không có kế hoạch.",
+      "note": "Động từ chỉ việc đi thong thả, không mục đích rõ. Đừng nhầm với 'wonder' (tự hỏi) — khác nghĩa hoàn toàn dù phát âm gần giống.",
+      "synonyms": [
+        { "term": "to stroll", "ipa": "/strəʊl/", "register": "neutral", "nuanceVi": "Nhấn vào việc đi bộ chậm rãi, thư thái để thưởng thức. 'wander' nhấn vào không có lộ trình rõ ràng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you tell me [câu hỏi gián tiếp] ... ?",
+      "use": "Hỏi thông tin về tour, giờ giấc, giá vé một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me how long the tour lasts?",
+        "Could you tell me where the bus leaves from?"
+      ],
+      "explanationVi": "Câu hỏi gián tiếp: sau 'Could you tell me' dùng trật tự câu khẳng định (chủ ngữ + động từ), KHÔNG đảo ngữ. Lịch sự hơn hỏi trực tiếp.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Do you know if [mệnh đề] ... ?",
+      "use": "Hỏi xem một điều gì đó có đúng/có sẵn không.",
+      "register": "neutral",
+      "examples": [
+        "Do you know if the tour includes lunch?",
+        "Do you know if we need to book in advance?"
+      ],
+      "explanationVi": "'if' ở đây nghĩa là 'liệu có... không'. Cũng là câu hỏi gián tiếp nên giữ trật tự khẳng định. Một cách hỏi thông tin nhẹ nhàng.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "I'd like to book [số] tickets for [tour], please.",
+      "use": "Đặt vé tham gia một tour.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to book two tickets for the city tour, please.",
+        "I'd like to book a ticket for the boat trip tomorrow."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want'. Mẫu xương sống để đặt vé/đặt tour trong du lịch.",
+      "altOf": "requesting"
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể] ... ?",
+      "use": "Đề nghị một việc tế nhị hơn (đổi giờ, thêm chỗ, ưu đãi).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to join the afternoon tour instead?",
+        "Would it be possible to get a discount for students?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một đặc ân mà người ta có quyền từ chối. Nghe rất nhã nhặn.",
+      "altOf": "requesting"
+    },
+    {
+      "pattern": "I'd recommend [V-ing / danh từ] because [lý do].",
+      "use": "Gợi ý một địa điểm/hoạt động kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'd recommend visiting the old quarter because it's full of history.",
+        "I'd recommend the night market because the food is amazing."
+      ],
+      "explanationVi": "Sau 'recommend' dùng V-ing hoặc danh từ, KHÔNG dùng 'to + V'. 'because' thêm lý do giúp lời gợi ý thuyết phục hơn.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "You should [động từ] such as [ví dụ].",
+      "use": "Khuyên nên làm gì và nêu ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "You should try the local dishes such as pho and banh mi.",
+        "You should visit some landmarks such as the cathedral and the old bridge."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Nêu ví dụ cụ thể luôn nghe rõ ràng và thuyết phục hơn nói chung chung.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "The [địa điểm] was [tính từ mạnh], although [mệnh đề nhượng bộ].",
+      "use": "Mô tả cảm nhận về một nơi, có ý nhượng bộ cho tự nhiên.",
+      "register": "neutral",
+      "examples": [
+        "The view was breathtaking, although the climb was quite tiring.",
+        "The temple was beautiful, although it was very crowded."
+      ],
+      "explanationVi": "'although' mở mệnh đề nhượng bộ (mặc dù...). Cho thấy cảm nhận hai chiều, nghe khách quan và trưởng thành hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính nhẹ nhàng hoặc nói điều hơi trái ý.", "example": "Actually, we'd prefer the morning tour if that's possible." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một nhận xét chân thật về trải nghiệm.", "example": "Honestly, it was the most beautiful place I've ever seen." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh khi gợi ý hoặc khen.", "example": "You should definitely take the sunset cruise." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, does the tour stop for lunch?" },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm nổi bật trong nhiều điểm.", "example": "I particularly enjoyed the boat ride along the river." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang ở quầy thông tin du lịch trong thành phố, hỏi nhân viên về các tour tham quan và đặt vé cho ngày hôm sau.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning, and welcome to our tourist information centre! How can I help you plan your day today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd ˈwel.kəm tə ˈaʊə ˈtʊə.rɪst ˌɪn.fəˈmeɪ.ʃən ˈsen.tər haʊ kæn aɪ help juː plæn jɔː deɪ təˈdeɪ/",
+        "vi": "Chào buổi sáng, chào mừng quý khách đến trung tâm thông tin du lịch! Tôi có thể giúp gì để bạn lên kế hoạch cho ngày hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm visiting from ____, and although I only have one full day here, I'd really like to see the main landmarks. Could you tell me what guided tours you ____?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪm ˈvɪz.ɪ.tɪŋ frɒm ænd ɔːlˈðəʊ aɪ ˈəʊn.li hæv wʌn fʊl deɪ hɪə aɪd ˈrɪə.li laɪk tə siː ðə meɪn ˈlænd.mɑːks kʊd juː tel miː wɒt ˈɡaɪ.dɪd tʊəz juː/",
+        "vi": "Chào buổi sáng. Tôi đến từ ____, và mặc dù chỉ có trọn một ngày ở đây, tôi rất muốn xem những địa danh chính. Bạn có thể cho tôi biết bạn ____ những tour có hướng dẫn nào không?",
+        "blanks": [
+          { "type": "personal", "hint": "Nơi bạn đến từ. Ví dụ: 'Vietnam', 'Hanoi'." },
+          { "type": "knowledge", "answer": "offer", "explanationVi": "Dùng động từ 'offer' (cung cấp, có sẵn) cho dịch vụ/tour. Câu gián tiếp 'Could you tell me what... you offer?' giữ trật tự khẳng định." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "We have several options, such as a walking tour of the old town and a bus tour that covers the whole city. The walking tour is particularly popular because the guide, who grew up here, shares wonderful local stories.",
+        "ipa": "/wiː hæv ˈsev.rəl ˈɒp.ʃənz sʌtʃ æz ə ˈwɔː.kɪŋ tʊər ɒv ðə əʊld taʊn ænd ə bʌs tʊər ðæt ˈkʌv.əz ðə həʊl ˈsɪt.i ðə ˈwɔː.kɪŋ tʊər ɪz pəˈtɪk.jə.lə.li ˈpɒp.jə.lə bɪˈkɒz ðə ɡaɪd huː ɡruː ʌp hɪə ʃeəz ˈwʌn.də.fəl ˈləʊ.kəl ˈstɔː.riz/",
+        "vi": "Chúng tôi có vài lựa chọn, chẳng hạn tour đi bộ khu phố cổ và tour xe buýt đi khắp thành phố. Tour đi bộ đặc biệt được ưa chuộng vì hướng dẫn viên, người lớn lên ở đây, kể những câu chuyện địa phương rất thú vị."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "The walking tour sounds perfect. Do you know ____ it includes the museum, and could you tell me how much the admission ____ is?",
+        "ipa": "/ðə ˈwɔː.kɪŋ tʊər saʊndz ˈpɜː.fɪkt duː juː nəʊ ɪt ɪnˈkluːdz ðə mjuˈziː.əm ænd kʊd juː tel miː haʊ mʌtʃ ðə ədˈmɪʃ.ən ɪz/",
+        "vi": "Tour đi bộ nghe hoàn hảo đấy. Bạn có biết ____ nó có bao gồm bảo tàng không, và cho tôi biết phí ____ vào cửa là bao nhiêu được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "if", "explanationVi": "Dùng 'if' (= liệu có... không) trong câu hỏi gián tiếp 'Do you know if...'. Giữ trật tự khẳng định sau 'if'." },
+          { "type": "knowledge", "answer": "fee", "explanationVi": "'admission fee' = phí vào cửa. Đây là cụm danh từ cố định đã học ở phần từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "The museum is included, and the whole tour costs 25 dollars per person, although children under twelve go in for free. The views from the bell tower are absolutely breathtaking, so I'd definitely recommend it.",
+        "ipa": "/ðə mjuˈziː.əm ɪz ɪnˈkluː.dɪd ænd ðə həʊl tʊər kɒsts ˈtwen.ti faɪv ˈdɒl.əz pɜː ˈpɜː.sən ɔːlˈðəʊ ˈtʃɪl.drən ˈʌn.də twelv ɡəʊ ɪn fə friː ðə vjuːz frɒm ðə bel ˈtaʊə ər ˈæb.sə.luːt.li ˈbreθˌteɪ.kɪŋ səʊ aɪd ˈdef.ɪn.ət.li ˌrek.əˈmend ɪt/",
+        "vi": "Bảo tàng đã được bao gồm, và cả tour có giá 25 đô mỗi người, mặc dù trẻ dưới mười hai tuổi được vào miễn phí. Cảnh nhìn từ tháp chuông đẹp đến nghẹt thở, nên tôi chắc chắn khuyên bạn nên đi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds wonderful. I'd like to ____ two tickets for tomorrow morning, please. By the way, would it be possible to ____ the meeting point on this map?",
+        "ipa": "/ðæt saʊndz ˈwʌn.də.fəl aɪd laɪk tə tuː ˈtɪk.ɪts fə təˈmɒr.əʊ ˈmɔː.nɪŋ pliːz baɪ ðə weɪ wʊd ɪt biː ˈpɒs.ə.bəl tə ðə ˈmiː.tɪŋ pɔɪnt ɒn ðɪs mæp/",
+        "vi": "Nghe tuyệt quá. Tôi muốn ____ hai vé cho sáng mai. Tiện thể, có thể ____ điểm hẹn trên bản đồ này không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "book", "explanationVi": "Dùng động từ 'book' (đặt trước) cho vé. Mẫu câu 'I'd like to book... tickets, please.' ở phần Cấu trúc." },
+          { "type": "personal", "hint": "Một động từ chỉ việc bạn muốn nhân viên làm với điểm hẹn. Ví dụ: 'show', 'mark', 'point out'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. The group meets right here in front of the main square, which is conveniently located just a five-minute walk from most hotels. Please arrive ten minutes early, as the tour leaves promptly at nine.",
+        "ipa": "/ɒv kɔːs ðə ɡruːp miːts raɪt hɪə ɪn frʌnt ɒv ðə meɪn skweə wɪtʃ ɪz kənˈviː.ni.ənt.li ləʊˈkeɪ.tɪd dʒʌst ə faɪv ˈmɪn.ɪt wɔːk frɒm məʊst həʊˈtelz pliːz əˈraɪv ten ˈmɪn.ɪts ˈɜː.li æz ðə tʊər liːvz ˈprɒmpt.li æt naɪn/",
+        "vi": "Tất nhiên rồi. Nhóm tập trung ngay đây phía trước quảng trường chính, nơi có vị trí thuận tiện chỉ cách hầu hết khách sạn năm phút đi bộ. Vui lòng đến sớm mười phút, vì tour khởi hành đúng chín giờ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect, thank you so much. Honestly, I can't wait to ____ around the old streets and take some photos. One last question: do you ____ a good place to watch the sunset afterwards?",
+        "ipa": "/ˈpɜː.fɪkt θæŋk juː səʊ mʌtʃ ˈɒn.ɪst.li aɪ kɑːnt weɪt tə əˈraʊnd ðə əʊld striːts ænd teɪk sʌm ˈfəʊ.təʊz wʌn lɑːst ˈkwes.tʃən duː juː ə ɡʊd pleɪs tə wɒtʃ ðə ˈsʌn.set ˈɑːf.tə.wədz/",
+        "vi": "Tuyệt vời, cảm ơn rất nhiều. Thành thật mà nói, tôi nóng lòng được ____ quanh những con phố cổ và chụp vài tấm ảnh. Một câu hỏi cuối: bạn có ____ chỗ nào đẹp để ngắm hoàng hôn sau đó không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "wander", "explanationVi": "Dùng động từ 'wander' (đi dạo lang thang) — hợp với việc đi thong thả quanh phố cổ. Đừng nhầm với 'wonder' (tự hỏi)." },
+          { "type": "knowledge", "answer": "recommend", "explanationVi": "Dùng 'recommend' (gợi ý, khuyên) — 'Do you recommend a good place...?'. Sau 'recommend' dùng danh từ hoặc V-ing." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely. I'd recommend walking up to the riverside park, which offers a stunning, scenic view of the whole valley. It can get crowded at weekends, however, so going on a weekday is usually much quieter.",
+        "ipa": "/ˌæb.səˈluːt.li aɪd ˌrek.əˈmend ˈwɔː.kɪŋ ʌp tə ðə ˈrɪv.ə.saɪd pɑːk wɪtʃ ˈɒf.əz ə ˈstʌn.ɪŋ ˈsiː.nɪk vjuː ɒv ðə həʊl ˈvæl.i ɪt kæn ɡet ˈkraʊ.dɪd æt ˈwiːk.endz haʊˈev.ə səʊ ˈɡəʊ.ɪŋ ɒn ə ˈwiːk.deɪ ɪz ˈjuː.ʒu.ə.li mʌtʃ ˈkwaɪ.ə.tə/",
+        "vi": "Chắc chắn rồi. Tôi khuyên bạn nên đi bộ lên công viên ven sông, nơi có khung cảnh tuyệt đẹp nhìn ra cả thung lũng. Tuy nhiên, chỗ đó có thể đông vào cuối tuần, nên đi vào ngày thường thường yên tĩnh hơn nhiều."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều thành phố phương Tây có 'tourist information centre' (trung tâm thông tin du lịch) miễn phí, nơi bạn lấy bản đồ, hỏi tour và mẹo đi lại.",
+    "Với các tour có hướng dẫn viên, việc tip (boa) cho guide khoảng 5-10% hoặc vài đô cuối tour là thông lệ lịch sự ở nhiều nước, dù không bắt buộc.",
+    "Nhiều bảo tàng và danh thắng có ngày/giờ miễn phí hoặc giảm giá cho sinh viên, trẻ em và người cao tuổi — nên hỏi trước khi mua vé.",
+    "Nên đặt tour nổi tiếng trước (book in advance), đặc biệt vào mùa cao điểm, vì chỗ thường hết nhanh."
+  ],
+
+  "commonMistakes": [
+    "Đảo ngữ trong câu hỏi gián tiếp: sai 'Could you tell me where is the bus?' — đúng phải là 'Could you tell me where the bus is?'.",
+    "Dùng 'recommend to do' — sai. Phải là 'recommend doing' hoặc 'recommend + danh từ' (recommend visiting the museum).",
+    "Nhầm 'wander' (đi dạo) với 'wonder' (tự hỏi), và nhầm 'scenery' (danh từ, phong cảnh) với 'scenic' (tính từ).",
+    "Nói 'I want a ticket' nghe cộc. Người bản xứ dùng 'I'd like to book...' hoặc 'Could I get...?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống hỏi tour và đặt vé như thật.",
+    "prompt": "Hãy đóng vai một nhân viên ở trung tâm thông tin du lịch nói tiếng Anh. Tôi là khách du lịch muốn tìm hiểu và đặt một tour tham quan trong thành phố. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, gợi ý vài lựa chọn tour; (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt; (3) khuyến khích tôi dùng câu dài với 'such as', 'because', 'although', và câu hỏi gián tiếp 'Could you tell me...?'; (4) thỉnh thoảng tạo tình huống bất ngờ (tour đã hết chỗ, trời sắp mưa) để tôi tập xử lý. Cuối buổi hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi mô tả một địa điểm tôi từng đến bằng ít nhất 3 câu có tính từ mạnh.' để luyện kỹ năng mô tả.",
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật và dùng thêm thành ngữ du lịch.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được thông tin về tour bằng câu hỏi gián tiếp 'Could you tell me...?' hoặc 'Do you know if...?'.",
+    "Tôi đặt được vé tour bằng mẫu 'I'd like to book... tickets, please.' mà không nhìn gợi ý.",
+    "Tôi mô tả được một địa điểm bằng câu dài có 'such as' hoặc 'although' và ít nhất một tính từ mạnh."
+  ]
+}

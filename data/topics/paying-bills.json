@@ -1,0 +1,353 @@
+{
+  "id": "paying-bills",
+  "category": "daily-life",
+  "title": "Thanh toán & tính tiền",
+  "titleEn": "Paying the Bill",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Xin hóa đơn và hỏi tổng tiền tại nhà hàng hoặc quán",
+    "Hỏi cách thanh toán: tiền mặt, thẻ, hay quét mã",
+    "Hỏi xem tiền tip đã tính sẵn trong hóa đơn chưa",
+    "Báo lỗi nhẹ nhàng khi hóa đơn có món bạn không gọi"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "bill",
+      "ipa": "/bɪl/",
+      "vi": "hóa đơn (danh từ)",
+      "register": "neutral",
+      "example": "Could we have the bill, please?",
+      "exampleVi": "Cho chúng tôi xin hóa đơn nhé?",
+      "note": "Danh từ. Người Anh hay nói 'the bill', người Mỹ thường nói 'the check'. Ở nhà hàng cả hai đều hiểu.",
+      "synonyms": [
+        { "term": "check", "ipa": "/tʃek/", "register": "neutral", "nuanceVi": "Cách nói của người Mỹ cho 'hóa đơn nhà hàng'. 'Can I get the check?' rất phổ biến ở Mỹ." },
+        { "term": "invoice", "ipa": "/ˈɪn.vɔɪs/", "register": "formal", "nuanceVi": "Trang trọng, là 'hóa đơn chính thức' của công ty/dịch vụ, thường có ghi rõ thông tin để khai báo hoặc thanh toán sau." }
+      ]
+    },
+    {
+      "term": "total",
+      "ipa": "/ˈtəʊ.təl/",
+      "vi": "tổng số tiền (danh từ)",
+      "register": "neutral",
+      "example": "What's the total, please?",
+      "exampleVi": "Tổng cộng là bao nhiêu vậy?",
+      "note": "Danh từ. 'the total' là số tiền cuối cùng phải trả, đã cộng hết các món.",
+      "synonyms": [
+        { "term": "amount", "ipa": "/əˈmaʊnt/", "register": "neutral", "nuanceVi": "Nghĩa 'số tiền'. 'the total amount' = tổng số tiền. Trung tính, hay đi cùng 'total'." }
+      ]
+    },
+    {
+      "term": "cash",
+      "ipa": "/kæʃ/",
+      "vi": "tiền mặt (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to pay in cash.",
+      "exampleVi": "Tôi muốn trả bằng tiền mặt.",
+      "note": "Danh từ không đếm được. Trả tiền mặt là 'pay in cash' hoặc 'pay with cash'."
+    },
+    {
+      "term": "to pay",
+      "ipa": "/peɪ/",
+      "vi": "trả tiền, thanh toán (động từ)",
+      "register": "neutral",
+      "example": "Can I pay by card?",
+      "exampleVi": "Tôi trả bằng thẻ được không?",
+      "note": "Động từ. 'pay by card', 'pay in cash', 'pay for the meal'. Chú ý giới từ đi kèm khác nhau.",
+      "synonyms": [
+        { "term": "to settle", "ipa": "/ˈset.əl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'thanh toán dứt điểm'. 'settle the bill' nghe lịch sự, hay dùng ở khách sạn/nhà hàng sang." },
+        { "term": "to cover", "ipa": "/ˈkʌv.ər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'trả giúp/bao'. 'I'll cover it.' = để mình trả cho. Thân mật giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "change",
+      "ipa": "/tʃeɪndʒ/",
+      "vi": "tiền thừa, tiền thối lại (danh từ)",
+      "register": "neutral",
+      "example": "Here's your change, sir.",
+      "exampleVi": "Đây là tiền thối lại của anh ạ.",
+      "note": "Danh từ không đếm được khi nói về tiền thối. 'Keep the change' = giữ tiền thừa lại (cho tip)."
+    },
+    {
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vi": "biên lai, hóa đơn thanh toán (danh từ)",
+      "register": "neutral",
+      "example": "Could I have a receipt, please?",
+      "exampleVi": "Cho tôi xin biên lai nhé?",
+      "note": "Danh từ. Bẫy phát âm: chữ 'p' CÂM, đọc là /rɪˈsiːt/, không đọc 'p'."
+    },
+    {
+      "term": "to split",
+      "ipa": "/splɪt/",
+      "vi": "chia (hóa đơn) ra (động từ)",
+      "register": "neutral",
+      "example": "Shall we split the bill?",
+      "exampleVi": "Mình chia đôi hóa đơn nhé?",
+      "note": "Động từ. 'split the bill' = chia tiền ra mỗi người trả một phần. Rất hay dùng khi ăn cùng bạn bè.",
+      "synonyms": [
+        { "term": "to share", "ipa": "/ʃeər/", "register": "neutral", "nuanceVi": "Nghĩa 'cùng nhau chịu'. 'share the bill' gần nghĩa 'split', nhưng 'split' nhấn vào việc chia ra rõ ràng từng phần hơn." }
+      ]
+    },
+    {
+      "term": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "vi": "đắt, mắc (tính từ)",
+      "register": "neutral",
+      "example": "The meal was a bit expensive, but it was delicious.",
+      "exampleVi": "Bữa ăn hơi đắt, nhưng rất ngon.",
+      "note": "Tính từ. Trái nghĩa là 'cheap' (rẻ). Dùng 'a bit expensive' để nói nhẹ nhàng hơn là 'too expensive'.",
+      "synonyms": [
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'hơi đắt'. Nghe nhẹ và tự nhiên trong nói chuyện bạn bè." },
+        { "term": "costly", "ipa": "/ˈkɒst.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, thường nói về chi phí lớn nói chung, ít dùng cho một bữa ăn cụ thể." }
+      ]
+    },
+    {
+      "term": "correct",
+      "ipa": "/kəˈrekt/",
+      "vi": "đúng, chính xác (tính từ)",
+      "register": "neutral",
+      "example": "I don't think this bill is correct.",
+      "exampleVi": "Tôi nghĩ hóa đơn này chưa đúng.",
+      "note": "Tính từ. Lịch sự khi báo lỗi: 'I don't think this is correct' nghe nhẹ hơn 'This is wrong'.",
+      "synonyms": [
+        { "term": "right", "ipa": "/raɪt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa y hệt 'correct' nhưng thân mật hơn. 'Is that right?' = vậy đúng không?" },
+        { "term": "accurate", "ipa": "/ˈæk.jə.rət/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'chính xác đến từng chi tiết/con số'. Hợp khi nói về số liệu, hóa đơn chi tiết." }
+      ]
+    },
+    {
+      "term": "separately",
+      "ipa": "/ˈsep.rət.li/",
+      "vi": "một cách riêng rẽ, riêng từng người (trạng từ)",
+      "register": "neutral",
+      "example": "Could we pay separately, please?",
+      "exampleVi": "Chúng tôi trả riêng từng người được không?",
+      "note": "Trạng từ. 'pay separately' = mỗi người trả phần của mình. Ngược lại là 'pay together' (trả chung).",
+      "synonyms": [
+        { "term": "individually", "ipa": "/ˌɪn.dɪˈvɪdʒ.u.ə.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'từng người một, riêng lẻ'. Gần nghĩa 'separately' nhưng nghe chính thức hơn." }
+      ]
+    },
+    {
+      "term": "tip",
+      "ipa": "/tɪp/",
+      "vi": "tiền boa, tiền tip (danh từ)",
+      "register": "neutral",
+      "example": "Is the tip included in the bill?",
+      "exampleVi": "Tiền tip có tính sẵn trong hóa đơn chưa?",
+      "note": "Danh từ và động từ. 'leave a tip' = để lại tiền boa. Ở nhiều nước phương Tây tip là thông lệ."
+    },
+    {
+      "term": "to charge",
+      "ipa": "/tʃɑːrdʒ/",
+      "vi": "tính tiền, thu phí (động từ)",
+      "register": "neutral",
+      "example": "I think you charged me twice for the coffee.",
+      "exampleVi": "Tôi nghĩ anh đã tính tiền cà phê cho tôi hai lần.",
+      "note": "Động từ. 'charge somebody for something' = tính tiền ai đó về món gì. Hữu ích khi báo hóa đơn sai."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could we have the bill, please?",
+      "use": "Xin hóa đơn một cách lịch sự khi đã ăn xong.",
+      "register": "neutral",
+      "examples": [
+        "Could we have the bill, please?",
+        "Could I have the check, please?"
+      ],
+      "explanationVi": "'Could we...?' lịch sự hơn 'Can we...?' và hợp khi nói với nhân viên phục vụ. Người Mỹ thay 'bill' bằng 'check'.",
+      "altOf": "asking-for-bill"
+    },
+    {
+      "pattern": "Can I get the check, please?",
+      "use": "Xin hóa đơn theo kiểu Mỹ, tự nhiên và thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Can I get the check, please?",
+        "Can we get the check when you have a moment?"
+      ],
+      "explanationVi": "'Can I get...?' rất thông dụng ở Mỹ, nghe thoải mái. 'when you have a moment' (khi nào anh rảnh) thêm vào cho lịch sự.",
+      "altOf": "asking-for-bill"
+    },
+    {
+      "pattern": "Can I pay by [card / phone]?",
+      "use": "Hỏi xem có thể trả bằng thẻ hoặc điện thoại không.",
+      "register": "neutral",
+      "examples": [
+        "Can I pay by card?",
+        "Can I pay by phone?"
+      ],
+      "explanationVi": "Trả bằng phương tiện gì thì dùng 'pay BY' + thẻ/điện thoại. Nhưng trả tiền mặt lại là 'pay IN cash' — giới từ khác nhau, dễ nhầm.",
+      "altOf": "asking-payment-method"
+    },
+    {
+      "pattern": "Do you take [cash / cards]?",
+      "use": "Hỏi xem quán có nhận tiền mặt hay thẻ không.",
+      "register": "neutral",
+      "examples": [
+        "Do you take cards?",
+        "Do you take cash?"
+      ],
+      "explanationVi": "'take' ở đây nghĩa là 'chấp nhận'. Câu rất hữu ích để biết quán nhận hình thức nào trước khi gọi món.",
+      "altOf": "asking-payment-method"
+    },
+    {
+      "pattern": "Is the [tip / service] included?",
+      "use": "Hỏi xem tiền tip hay phí phục vụ đã tính sẵn chưa.",
+      "register": "neutral",
+      "examples": [
+        "Is the tip included?",
+        "Is service included in the bill?"
+      ],
+      "explanationVi": "'included' = đã bao gồm trong hóa đơn. Hỏi câu này để tránh trả tip thừa hoặc thiếu."
+    },
+    {
+      "pattern": "I think there's a mistake on the bill.",
+      "use": "Báo lỗi hóa đơn một cách nhẹ nhàng, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I think there's a mistake on the bill.",
+        "Sorry, I think this isn't quite correct."
+      ],
+      "explanationVi": "Dùng 'I think' để nói nhẹ, tránh đổ lỗi thẳng. Lịch sự hơn nhiều so với 'This is wrong'."
+    },
+    {
+      "pattern": "Could we pay separately, please?",
+      "use": "Đề nghị chia hóa đơn, mỗi người trả phần của mình.",
+      "register": "neutral",
+      "examples": [
+        "Could we pay separately, please?",
+        "Could we split the bill, please?"
+      ],
+      "explanationVi": "'pay separately' = trả riêng từng người; 'split the bill' = chia đều. Cả hai đều lịch sự khi ăn cùng bạn bè."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin hoặc báo điều hơi trái ý mà không cộc lốc.", "example": "Actually, I think we didn't order this dish." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nói mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi.", "example": "I just wanted to check the total." },
+    { "term": "sorry", "ipa": "/ˈsɒr.i/", "vi": "xin lỗi (mở đầu cho lịch sự)", "when": "Mở đầu khi báo lỗi hoặc làm phiền nhân viên.", "example": "Sorry, could we have the bill, please?" },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you take cards?" },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi (đáp lại lịch sự)", "when": "Khi nhân viên hoặc bạn vui vẻ đồng ý một yêu cầu.", "example": "Of course, I'll bring it right away." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa ăn tối xong cùng một người bạn tại nhà hàng. Bây giờ bạn gọi nhân viên phục vụ để xin hóa đơn, hỏi cách thanh toán và xử lý một chút nhầm lẫn trên hóa đơn.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Excuse me, could we have the bill, please? The food was really delicious.",
+        "ipa": "/ɪkˈskjuːz miː kʊd wiː hæv ðə bɪl pliːz ðə fuːd wɒz ˈrɪə.li dɪˈlɪʃ.əs/",
+        "vi": "Xin lỗi, cho chúng tôi xin hóa đơn nhé? Đồ ăn rất ngon."
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course! Here you are. The total comes to forty-five dollars, although that does not include the tip.",
+        "ipa": "/əv ˈkɔːs hɪər juː ɑːr ðə ˈtəʊ.təl kʌmz tə ˈfɔːr.ti faɪv ˈdɒl.əz ɔːlˈðəʊ ðæt dʌz nɒt ɪnˈkluːd ðə tɪp/",
+        "vi": "Tất nhiên rồi! Của quý khách đây. Tổng cộng là bốn mươi lăm đô, mặc dù chưa bao gồm tiền tip ạ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. Actually, I think there is a small mistake, ____ you charged us twice for the orange juice.",
+        "ipa": "/θæŋk juː ˈæk.tʃu.ə.li aɪ θɪŋk ðeə ɪz ə smɔːl mɪˈsteɪk ... juː tʃɑːdʒd ʌs twaɪs fɔːr ðə ˈɒr.ɪndʒ dʒuːs/",
+        "vi": "Cảm ơn. Thật ra, tôi nghĩ có một lỗi nhỏ, ____ anh đã tính tiền nước cam cho chúng tôi hai lần.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "because",
+            "explanationVi": "Dùng 'because' (bởi vì) để giải thích lý do bạn nghĩ có lỗi. Đây là từ nối lý do đơn giản, rất hợp cấp độ A2."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Oh, I am so sorry about that! Let me check it again... You are right, I will fix the bill right away.",
+        "ipa": "/əʊ aɪ æm səʊ ˈsɒr.i əˈbaʊt ðæt let miː tʃek ɪt əˈɡen juː ɑːr raɪt aɪ wɪl fɪks ðə bɪl raɪt əˈweɪ/",
+        "vi": "Ồ, tôi rất xin lỗi về việc đó! Để tôi kiểm tra lại... Quý khách nói đúng, tôi sẽ sửa hóa đơn ngay ạ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. By the way, can I pay ____ card, or do you only take cash?",
+        "ipa": "/θæŋk juː baɪ ðə weɪ kæn aɪ peɪ ... kɑːd ɔːr duː juː ˈəʊn.li teɪk kæʃ/",
+        "vi": "Cảm ơn. Tiện thể, tôi trả ____ thẻ được không, hay anh chỉ nhận tiền mặt?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "by",
+            "explanationVi": "Trả bằng phương tiện gì thì dùng 'pay BY card / by phone'. Nhưng trả tiền mặt lại là 'pay IN cash' — giới từ khác nhau, dễ nhầm."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "We take both, so you can choose whichever is easier for you. Would you like the receipt as well?",
+        "ipa": "/wiː teɪk bəʊθ səʊ juː kæn tʃuːz wɪˈtʃev.ər ɪz ˈiː.zi.ər fɔːr juː wʊd juː laɪk ðə rɪˈsiːt æz wel/",
+        "vi": "Chúng tôi nhận cả hai, nên quý khách chọn cách nào tiện hơn cũng được. Quý khách có muốn lấy biên lai luôn không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. We would also like to pay ____, because we are two friends and we want to share the cost.",
+        "ipa": "/jes pliːz wiː wʊd ˈɔːl.səʊ laɪk tə peɪ ... bɪˈkɒz wiː ɑːr tuː frendz ænd wiː wɒnt tə ʃeə ðə kɒst/",
+        "vi": "Vâng, cho tôi xin. Chúng tôi cũng muốn trả ____, vì chúng tôi là hai người bạn và muốn chia đôi chi phí.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "separately",
+            "explanationVi": "'pay separately' = mỗi người trả riêng phần của mình. Trạng từ này rất hữu ích khi ăn cùng bạn bè. Xem mẫu câu 'Could we pay separately, please?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "No problem at all. That will be twenty-three dollars each. Here is your ____, and thank you very much for coming!",
+        "ipa": "/nəʊ ˈprɒb.ləm ət ɔːl ðæt wɪl biː ˈtwen.ti θriː ˈdɒl.əz iːtʃ hɪər ɪz jɔːr ... ænd θæŋk juː ˈver.i mʌtʃ fɔːr ˈkʌm.ɪŋ/",
+        "vi": "Không vấn đề gì đâu ạ. Vậy là hai mươi ba đô mỗi người. Đây là ____ của quý khách, và rất cảm ơn quý khách đã đến!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "receipt",
+            "explanationVi": "'receipt' (biên lai) là thứ nhân viên đưa lại sau khi tính tiền — đúng với việc khách vừa xin biên lai ở câu trên. Lưu ý: chữ 'p' câm, đọc /rɪˈsiːt/."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. The meal was a bit expensive, but it was definitely worth it. Have a good evening!",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ðə miːl wɒz ə bɪt ɪkˈspen.sɪv bʌt ɪt wɒz ˈdef.ɪn.ət.li wɜːθ ɪt hæv ə ɡʊd ˈiːv.nɪŋ/",
+        "vi": "Cảm ơn anh rất nhiều. Bữa ăn hơi đắt, nhưng chắc chắn rất đáng. Chúc anh buổi tối vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Mỹ, người ta hay nói 'check' thay cho 'bill', và tiền tip (15-20%) thường KHÔNG tính sẵn trong hóa đơn — bạn tự thêm vào.",
+    "Ở nhiều nước châu Âu, hóa đơn đã bao gồm 'service charge' (phí phục vụ), nên không bắt buộc tip thêm. Cứ hỏi 'Is service included?' cho chắc.",
+    "Ở phương Tây, nhân viên thường không tự mang hóa đơn ra cho đến khi bạn xin — đây là phép lịch sự để bạn ngồi thoải mái, không bị hối.",
+    "Chia hóa đơn ('splitting the bill' hay 'going Dutch') giữa bạn bè là chuyện rất bình thường, không hề bị xem là kém hào phóng."
+  ],
+
+  "commonMistakes": [
+    "Nói 'Give me the bill' nghe cộc và đòi hỏi. Hãy dùng 'Could we have the bill, please?' cho lịch sự.",
+    "Nhầm giới từ: phải là 'pay BY card' nhưng 'pay IN cash' — hai giới từ khác nhau.",
+    "Phát âm sai 'receipt': chữ 'p' CÂM, đọc là /rɪˈsiːt/, không bật âm 'p'.",
+    "Báo lỗi quá thẳng kiểu 'This is wrong'. Hãy nói nhẹ 'I think there's a small mistake' để giữ lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống thanh toán như thật.",
+    "prompt": "Hãy đóng vai một nhân viên phục vụ nhà hàng nói tiếng Anh. Tôi là khách vừa ăn xong và muốn thanh toán. Hãy bắt đầu bằng cách hỏi tôi có cần gì không. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ hóa đơn tính sai một món, hoặc quán không nhận thẻ) để tôi tập xử lý. Hãy nói chậm và đơn giản vì tôi đang ở trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi chia hóa đơn cho ba người với số tiền khác nhau.' để tập tính toán bằng tiếng Anh.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự xin được hóa đơn một cách lịch sự mà không nhìn gợi ý.",
+    "Tôi hỏi được cách thanh toán (thẻ/tiền mặt) và dùng đúng giới từ 'pay by' / 'pay in'.",
+    "Tôi báo được một lỗi nhỏ trên hóa đơn một cách nhẹ nhàng, lịch sự."
+  ]
+}

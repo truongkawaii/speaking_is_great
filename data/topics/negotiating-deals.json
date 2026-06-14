@@ -1,0 +1,353 @@
+{
+  "id": "negotiating-deals",
+  "category": "advanced",
+  "title": "Đàm phán",
+  "titleEn": "Negotiating Deals",
+  "level": "C1",
+  "functions": ["negotiating", "opinions", "agreeing", "requesting", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Mở đầu và dẫn dắt một cuộc đàm phán kinh doanh một cách chuyên nghiệp, tự tin",
+    "Đưa ra đề xuất, phản hồi và nhượng bộ có điều kiện bằng câu phức nhiều tầng",
+    "Bảo vệ lập trường khi bất đồng mà vẫn giữ thái độ hợp tác, không làm hỏng quan hệ",
+    "Vận dụng idiom và sắc thái tinh tế (meet halfway, the bottom line, leave room) đúng ngữ cảnh",
+    "Chốt thỏa thuận và tóm tắt các điều khoản đã thống nhất một cách mạch lạc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "concession",
+      "ipa": "/kənˈseʃ.ən/",
+      "vi": "sự nhượng bộ (danh từ)",
+      "register": "formal",
+      "example": "We're prepared to make a small concession on the delivery schedule if you can commit to a larger order.",
+      "exampleVi": "Chúng tôi sẵn sàng nhượng bộ một chút về lịch giao hàng nếu bên anh/chị cam kết đơn hàng lớn hơn.",
+      "note": "Danh từ. Cụm cốt lõi: 'make a concession' (nhượng bộ). Trong đàm phán, mỗi concession nên đổi lấy một thứ gì đó.",
+      "synonyms": [
+        { "term": "compromise", "ipa": "/ˈkɒm.prə.maɪz/", "register": "neutral", "nuanceVi": "Nhấn vào 'cả hai bên cùng lùi một bước để gặp nhau ở giữa', mang sắc thái thỏa hiệp tích cực; 'concession' thiên về 'một bên đơn phương nhường'." },
+        { "term": "trade-off", "ipa": "/ˈtreɪd.ɒf/", "register": "neutral", "nuanceVi": "Nhấn 'đánh đổi': được cái này thì mất cái kia. Dùng khi cân nhắc lợi-hại của một lựa chọn." },
+        { "term": "give-and-take", "ipa": "/ˌɡɪv.ən.ˈteɪk/", "register": "casual", "nuanceVi": "Đời thường hơn, chỉ tinh thần 'có qua có lại' trong cả quá trình, không phải một nhượng bộ đơn lẻ." }
+      ]
+    },
+    {
+      "term": "counteroffer",
+      "ipa": "/ˈkaʊn.tər.ɒf.ər/",
+      "vi": "đề nghị đối ứng (danh từ)",
+      "register": "neutral",
+      "example": "Rather than rejecting their proposal outright, we put forward a counteroffer that addressed both parties' concerns.",
+      "exampleVi": "Thay vì từ chối thẳng thừng đề xuất của họ, chúng tôi đưa ra một đề nghị đối ứng giải quyết mối lo của cả hai bên.",
+      "note": "Danh từ. Đây là phản hồi lại offer ban đầu bằng điều khoản khác. Động từ: 'to counter' (đối ứng lại).",
+      "synonyms": [
+        { "term": "counterproposal", "ipa": "/ˈkaʊn.tər.prə.pəʊ.zəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, thiên về một phương án/đề án đối ứng toàn diện, không chỉ về giá." }
+      ]
+    },
+    {
+      "term": "to leverage",
+      "ipa": "/ˈliː.vər.ɪdʒ/",
+      "vi": "tận dụng (lợi thế) để đạt mục đích (động từ)",
+      "register": "formal",
+      "example": "We leveraged our long-standing relationship to secure more favourable payment terms.",
+      "exampleVi": "Chúng tôi tận dụng mối quan hệ lâu năm để giành được điều khoản thanh toán có lợi hơn.",
+      "note": "Động từ (gốc là danh từ 'đòn bẩy'). Mang sắc thái chiến lược: dùng một thế mạnh sẵn có làm 'đòn bẩy'.",
+      "synonyms": [
+        { "term": "to capitalize on", "ipa": "/ˈkæp.ɪ.təl.aɪz ɒn/", "register": "formal", "nuanceVi": "Nhấn 'biến một cơ hội/lợi thế thành kết quả có lợi'. Gần nghĩa nhưng thiên về chớp thời cơ." },
+        { "term": "to use", "ipa": "/juːz/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản. Mất đi sắc thái 'đòn bẩy chiến lược' của 'leverage'." }
+      ]
+    },
+    {
+      "term": "mutually beneficial",
+      "ipa": "/ˈmjuː.tʃu.ə.li ˌben.ɪˈfɪ.ʃəl/",
+      "vi": "đôi bên cùng có lợi (tính từ)",
+      "register": "formal",
+      "example": "Our goal today is to reach a mutually beneficial agreement that both sides can be happy with.",
+      "exampleVi": "Mục tiêu hôm nay của chúng ta là đạt được một thỏa thuận đôi bên cùng có lợi mà cả hai phía đều hài lòng.",
+      "note": "Cụm tính từ. Rất 'ăn điểm' khi mở đầu đàm phán vì nó báo hiệu thiện chí hợp tác, không phải đối đầu thắng-thua.",
+      "synonyms": [
+        { "term": "win-win", "ipa": "/ˌwɪnˈwɪn/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng, nghĩa y hệt nhưng nghe bớt trang trọng. Hợp khi nói chuyện thân mật." },
+        { "term": "reciprocal", "ipa": "/rɪˈsɪp.rə.kəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'qua lại, có đi có lại'; thường dùng cho nghĩa vụ/quyền lợi đối ứng (reciprocal arrangement)." }
+      ]
+    },
+    {
+      "term": "to settle",
+      "ipa": "/ˈset.əl/",
+      "vi": "ngã ngũ, thống nhất / dàn xếp (động từ)",
+      "register": "neutral",
+      "example": "After hours of back-and-forth, we finally settled on a price that worked for everyone.",
+      "exampleVi": "Sau nhiều giờ qua lại, cuối cùng chúng tôi cũng thống nhất được một mức giá phù hợp cho tất cả.",
+      "note": "Động từ. 'settle on something' = chốt được điều gì; 'settle a dispute' = dàn xếp tranh chấp.",
+      "synonyms": [
+        { "term": "to finalize", "ipa": "/ˈfaɪ.nəl.aɪz/", "register": "formal", "nuanceVi": "Nhấn 'hoàn tất khâu cuối cùng, không sửa nữa'. Dùng cho việc chốt hợp đồng/chi tiết." },
+        { "term": "to clinch", "ipa": "/klɪntʃ/", "register": "neutral", "nuanceVi": "Nhấn 'chốt được sau nỗ lực, giành được vào phút chót' (clinch a deal). Nghe quyết liệt, đắc thắng hơn." }
+      ]
+    },
+    {
+      "term": "stipulation",
+      "ipa": "/ˌstɪp.jʊˈleɪ.ʃən/",
+      "vi": "điều khoản, điều kiện ràng buộc (danh từ)",
+      "register": "formal",
+      "example": "We accept the terms, with one stipulation: payment must be made within thirty days.",
+      "exampleVi": "Chúng tôi chấp nhận các điều khoản, với một điều kiện: thanh toán phải hoàn tất trong vòng ba mươi ngày.",
+      "note": "Danh từ trang trọng. Là điều kiện cụ thể bạn đặt ra như một phần của thỏa thuận. Động từ: 'to stipulate'.",
+      "synonyms": [
+        { "term": "condition", "ipa": "/kənˈdɪʃ.ən/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến hơn và dễ dùng hơn. 'stipulation' nghe pháp lý, chính thức hơn." },
+        { "term": "proviso", "ipa": "/prəˈvaɪ.zəʊ/", "register": "formal", "nuanceVi": "Rất trang trọng/pháp lý, nghĩa 'với điều kiện kèm theo'. Hơi văn vẻ, ít dùng trong nói." }
+      ]
+    },
+    {
+      "term": "feasible",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "vi": "khả thi (tính từ)",
+      "register": "formal",
+      "example": "Honestly, that timeline isn't feasible for us given our current production capacity.",
+      "exampleVi": "Thành thật mà nói, mốc thời gian đó không khả thi với chúng tôi xét theo công suất sản xuất hiện tại.",
+      "note": "Tính từ. Nhấn vào 'có thể thực hiện được trên thực tế'. Hay dùng để từ chối khéo một đề nghị phi thực tế.",
+      "synonyms": [
+        { "term": "viable", "ipa": "/ˈvaɪ.ə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'có khả năng tồn tại/thành công về lâu dài' (a viable option/business). Hơi khác 'feasible' (làm được về mặt kỹ thuật)." },
+        { "term": "workable", "ipa": "/ˈwɜː.kə.bəl/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'có thể vận hành/áp dụng được'. Nhẹ nhàng, dễ dùng trong hội thoại." },
+        { "term": "realistic", "ipa": "/ˌrɪə.ˈlɪs.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'sát thực tế, không viển vông'. Dùng nhiều cho kỳ vọng/mục tiêu/thời hạn." }
+      ]
+    },
+    {
+      "term": "tentatively",
+      "ipa": "/ˈten.tə.tɪv.li/",
+      "vi": "một cách tạm thời / dè dặt chưa chắc chắn (trạng từ)",
+      "register": "formal",
+      "example": "We've tentatively agreed on the figure, although it still needs sign-off from our finance team.",
+      "exampleVi": "Chúng tôi đã sơ bộ đồng ý về con số đó, mặc dù nó vẫn cần được bộ phận tài chính phê duyệt.",
+      "note": "Trạng từ. Báo hiệu 'đồng ý nhưng chưa chính thức/chưa chắc chắn', để chừa đường lui.",
+      "synonyms": [
+        { "term": "provisionally", "ipa": "/prəˈvɪʒ.ən.əl.i/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tạm thời, có thể thay đổi khi có điều kiện chính thức'. Rất gần 'tentatively'." },
+        { "term": "in principle", "ipa": "/ɪn ˈprɪn.sə.pəl/", "register": "formal", "nuanceVi": "Cụm nghĩa 'đồng ý về mặt nguyên tắc/đại thể', còn chi tiết bàn sau. Hay dùng khi gật đầu chung chung." }
+      ]
+    },
+    {
+      "term": "to reconsider",
+      "ipa": "/ˌriː.kənˈsɪd.ər/",
+      "vi": "cân nhắc lại, xem xét lại (động từ)",
+      "register": "neutral",
+      "example": "I'd urge you to reconsider, because walking away now would mean losing a partner you've worked with for years.",
+      "exampleVi": "Tôi mong anh/chị cân nhắc lại, vì rút lui lúc này đồng nghĩa mất đi một đối tác đã hợp tác nhiều năm.",
+      "note": "Động từ. Lịch sự khi muốn đối phương suy nghĩ lại mà không gây áp lực thô thiển.",
+      "synonyms": [
+        { "term": "to rethink", "ipa": "/ˌriːˈθɪŋk/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'nghĩ lại từ đầu'. Hơi trực diện hơn 'reconsider'." },
+        { "term": "to revisit", "ipa": "/ˌriːˈvɪz.ɪt/", "register": "formal", "nuanceVi": "Nhấn 'quay lại bàn bạc tiếp về một vấn đề đã gác'. Dùng cho điều khoản/chủ đề (revisit the terms)." }
+      ]
+    },
+    {
+      "term": "amicably",
+      "ipa": "/ˈæm.ɪ.kə.bli/",
+      "vi": "một cách thân thiện, ôn hòa (trạng từ)",
+      "register": "formal",
+      "example": "Despite our differences, we managed to resolve the matter amicably and shook hands at the end.",
+      "exampleVi": "Dù còn bất đồng, chúng tôi vẫn giải quyết được vấn đề một cách ôn hòa và bắt tay nhau lúc kết thúc.",
+      "note": "Trạng từ. Nhấn 'giữ hòa khí, thân thiện' ngay cả khi bất đồng — phẩm chất quý trong đàm phán.",
+      "synonyms": [
+        { "term": "cordially", "ipa": "/ˈkɔː.di.ə.li/", "register": "formal", "nuanceVi": "Nhấn 'nồng hậu, lịch thiệp', thiên về thái độ ấm áp khi giao tiếp hơn là việc dàn xếp xong xuôi." },
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Nhấn 'khéo léo, tế nhị, tránh va chạm'. Thiên về cách ăn nói khôn ngoan để giữ quan hệ." }
+      ]
+    },
+    {
+      "term": "ballpark figure",
+      "ipa": "/ˈbɔːl.pɑːk ˈfɪɡ.ər/",
+      "vi": "con số ước chừng, áng chừng (danh từ, idiom)",
+      "register": "casual",
+      "example": "Before we go into detail, could you give me a ballpark figure of what you had in mind?",
+      "exampleVi": "Trước khi đi vào chi tiết, anh/chị có thể cho tôi một con số áng chừng mình đang nghĩ tới không?",
+      "note": "Idiom (Mỹ). Dùng để hỏi/đưa một con số gần đúng, chưa chính thức. Nghe tự nhiên, thân thiện.",
+      "synonyms": [
+        { "term": "rough estimate", "ipa": "/rʌf ˈes.tɪ.mət/", "register": "neutral", "nuanceVi": "Trung tính, trang trọng hơn idiom 'ballpark figure', nghĩa 'ước tính sơ bộ'. Dùng an toàn trong văn cảnh chính thức." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Before we get down to specifics, I'd like to make sure we're both aiming for [mục tiêu chung].",
+      "use": "Mở đầu đàm phán bằng cách thiết lập tinh thần hợp tác trước khi vào chi tiết.",
+      "register": "formal",
+      "examples": [
+        "Before we get down to specifics, I'd like to make sure we're both aiming for a deal that works in the long run.",
+        "Before we get down to specifics, I'd like to make sure we're both aiming for a mutually beneficial outcome."
+      ],
+      "explanationVi": "'get down to specifics' = bắt đầu bàn chi tiết. Câu này định khung 'cùng phe' ngay từ đầu, giúp không khí bớt đối đầu — một chiến thuật mở màn rất hiệu quả ở cấp C1."
+    },
+    {
+      "pattern": "I'm afraid that figure is a little higher/lower than we were anticipating; would you be open to [đề xuất]?",
+      "use": "Phản đối nhẹ một con số rồi mở đường thương lượng tiếp.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid that figure is a little higher than we were anticipating; would you be open to meeting somewhere in the middle?",
+        "I'm afraid that timeline is a little tighter than we were anticipating; would you be open to extending it by two weeks?"
+      ],
+      "explanationVi": "'I'm afraid' làm lời từ chối/phản đối mềm đi. 'Would you be open to…?' mời đối phương cân nhắc mà không ép — cách phản đối lịch sự, giữ thể diện cho cả hai.",
+      "altOf": "pushing-back"
+    },
+    {
+      "pattern": "We simply can't go that low/high; however, what we can do is [phương án thay thế].",
+      "use": "Giữ vững lập trường nhưng vẫn đưa ra một lối thoát để không bế tắc.",
+      "register": "neutral",
+      "examples": [
+        "We simply can't go that low; however, what we can do is offer free shipping for the first six months.",
+        "We simply can't go that high; however, what we can do is extend the warranty period instead."
+      ],
+      "explanationVi": "'however' nối hai vế đối lập (không thể… nhưng có thể…). 'what we can do is…' chuyển hướng từ phủ định sang đề xuất tích cực — kỹ thuật 'từ chối nhưng vẫn cho lựa chọn'.",
+      "altOf": "pushing-back"
+    },
+    {
+      "pattern": "If you can [điều kiện của họ], then we'd be willing to [nhượng bộ của bạn].",
+      "use": "Đưa ra nhượng bộ có điều kiện (đổi qua đổi lại).",
+      "register": "neutral",
+      "examples": [
+        "If you can commit to a two-year contract, then we'd be willing to reduce the unit price by ten percent.",
+        "If you can pay upfront, then we'd be willing to throw in installation at no extra cost."
+      ],
+      "explanationVi": "Câu điều kiện loại 1 (If + present, … would). Nguyên tắc vàng khi đàm phán: KHÔNG nhượng bộ miễn phí — mỗi 'if you can' phải đi kèm một cái 'then we'd'.",
+      "altOf": "making-conditional-offer"
+    },
+    {
+      "pattern": "We'd be happy to [nhượng bộ], provided that [điều kiện].",
+      "use": "Đồng ý một việc nhưng kèm điều kiện ràng buộc, cách diễn đạt trang trọng hơn.",
+      "register": "formal",
+      "examples": [
+        "We'd be happy to lower the price, provided that you double the order volume.",
+        "We'd be happy to bring the deadline forward, provided that the specifications are finalized this week."
+      ],
+      "explanationVi": "'provided that' = với điều kiện là (trang trọng hơn 'if'). Nghe chuyên nghiệp, hợp văn cảnh hợp đồng. Cùng chức năng với mẫu 'If you can…, then we'd…'.",
+      "altOf": "making-conditional-offer"
+    },
+    {
+      "pattern": "Why don't we meet halfway and [phương án trung gian]?",
+      "use": "Đề xuất một phương án ở giữa để phá thế bế tắc.",
+      "register": "casual",
+      "examples": [
+        "Why don't we meet halfway and split the shipping costs?",
+        "Why don't we meet halfway and settle on a six-month trial first?"
+      ],
+      "explanationVi": "'meet halfway' (idiom) = mỗi bên lùi một nửa. 'Why don't we…?' là cách gợi ý nhẹ nhàng, thân thiện — hợp lúc cuộc thương lượng cần một cú hích để chốt.",
+      "altOf": "proposing-middle-ground"
+    },
+    {
+      "pattern": "So, just to make sure we're on the same page, we've agreed that [tóm tắt điều khoản].",
+      "use": "Tóm tắt lại các điểm đã thống nhất trước khi chốt.",
+      "register": "neutral",
+      "examples": [
+        "So, just to make sure we're on the same page, we've agreed that you'll deliver by the 15th and we'll pay within thirty days.",
+        "So, just to make sure we're on the same page, we've agreed on a ten-percent discount in exchange for a two-year commitment."
+      ],
+      "explanationVi": "'on the same page' (idiom) = cùng hiểu giống nhau. Câu này dùng để xác nhận lại trước khi ký, tránh hiểu lầm — bước không thể thiếu để chốt deal chuyên nghiệp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "realistically", "ipa": "/rɪəˈlɪs.tɪk.li/", "vi": "xét một cách thực tế", "when": "Khi muốn kéo cuộc nói chuyện về với thực tế, ngụ ý một kỳ vọng là phi thực tế.", "example": "Realistically, there's no way we could deliver that quantity within a week." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Mở đầu một nhận định thẳng thắn, đôi khi hơi khó nghe nhưng chân thành.", "example": "Frankly, that price is well above the market rate, and we both know it." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "xét cho cùng / rốt cuộc", "when": "Khi quy mọi thứ về điểm mấu chốt, lợi ích sau cùng.", "example": "Ultimately, what matters to us is a reliable supply, not just the lowest price." },
+    { "term": "in fairness", "ipa": "/ɪn ˈfeə.nəs/", "vi": "nói cho công bằng thì", "when": "Khi thừa nhận một điểm hợp lý của phía đối phương để tỏ ra khách quan.", "example": "In fairness, you have been a loyal customer, so we're willing to make an exception." },
+    { "term": "all things considered", "ipa": "/ɔːl θɪŋz kənˈsɪd.əd/", "vi": "cân nhắc mọi mặt thì", "when": "Khi đưa ra kết luận sau khi đã tính tới mọi yếu tố.", "example": "All things considered, I think this is a deal we can both live with." },
+    { "term": "at the end of the day", "ipa": "/ət ðə end əv ðə ˈdeɪ/", "vi": "suy cho cùng (idiom đời thường)", "when": "Chốt lại điều quan trọng nhất sau nhiều tranh luận, nghe thân mật.", "example": "At the end of the day, we both want this partnership to succeed." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là đại diện một công ty cung cấp phần mềm, đang đàm phán với một khách hàng doanh nghiệp (người mua) về giá và điều khoản của một hợp đồng cung cấp dịch vụ dài hạn.",
+    "lines": [
+      {
+        "speaker": "Người mua",
+        "text": "Thanks for making the time today. We've reviewed your proposal carefully, and although we're genuinely impressed with the product, the annual fee you've quoted is honestly a fair bit higher than what we had budgeted for.",
+        "ipa": "/θæŋks fə ˈmeɪ.kɪŋ ðə taɪm təˈdeɪ wiːv rɪˈvjuːd jɔː prəˈpəʊ.zəl ˈkeə.fəl.i ænd ɔːlˈðəʊ wɪə ˈdʒen.ju.ɪn.li ɪmˈprest wɪð ðə ˈprɒd.ʌkt ði ˈæn.ju.əl fiː juːv kwəʊ.tɪd ɪz ˈɒn.ɪst.li ə feə bɪt ˈhaɪ.ər ðæn wɒt wiː hæd ˈbʌdʒ.ɪt.ɪd fɔː/",
+        "vi": "Cảm ơn anh/chị đã dành thời gian hôm nay. Chúng tôi đã xem xét kỹ đề xuất, và mặc dù thực sự ấn tượng với sản phẩm, thú thật mức phí thường niên các anh/chị báo cao hơn kha khá so với ngân sách chúng tôi dự trù."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate your honesty. Before we get down to specifics, I'd like to make sure we're both aiming for a ____ beneficial agreement. The price reflects not only the software itself but also the round-the-clock support that comes with it.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt jɔː ˈɒn.ɪs.ti bɪˈfɔː wiː ɡet daʊn tə spəˈsɪf.ɪks aɪd laɪk tə meɪk ʃʊə wɪə bəʊθ ˈeɪ.mɪŋ fər ə ... ˌben.ɪˈfɪ.ʃəl əˈɡriː.mənt ðə praɪs rɪˈflekts nɒt ˈəʊn.li ðə ˈsɒft.weər ɪtˈself bʌt ˈɔːl.səʊ ðə ˌraʊnd.ðə.ˈklɒk səˈpɔːt ðæt kʌmz wɪð ɪt/",
+        "vi": "Tôi trân trọng sự thẳng thắn của anh/chị. Trước khi đi vào chi tiết, tôi muốn chắc rằng cả hai ta đều hướng tới một thỏa thuận ____ cùng có lợi. Mức giá phản ánh không chỉ bản thân phần mềm mà còn cả dịch vụ hỗ trợ 24/7 đi kèm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "mutually", "explanationVi": "Dùng trạng từ 'mutually' bổ nghĩa cho tính từ 'beneficial' → 'mutually beneficial' (đôi bên cùng có lợi). Đây là cụm cố định mở đầu đàm phán thiện chí, xem phần Từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Người mua",
+        "text": "We understand that, and the support package is certainly valuable. However, in order to get this signed off internally, I'd need the figure to come down significantly. Realistically, could you give me a ____ figure of what's possible?",
+        "ipa": "/wiː ˌʌn.dəˈstænd ðæt ænd ðə səˈpɔːt ˈpæk.ɪdʒ ɪz ˈsɜːt.ən.li ˈvæl.jʊ.bəl haʊˈev.ər ɪn ˈɔː.də tə ɡet ðɪs saɪnd ɒf ɪnˈtɜː.nəl.i aɪd niːd ðə ˈfɪɡ.ər tə kʌm daʊn sɪɡˈnɪf.ɪ.kənt.li ˌrɪə.ˈlɪs.tɪk.li kʊd juː ɡɪv miː ə ... ˈfɪɡ.ər əv wɒts ˈpɒs.ə.bəl/",
+        "vi": "Chúng tôi hiểu điều đó, và gói hỗ trợ chắc chắn rất giá trị. Tuy nhiên, để được duyệt nội bộ, tôi cần con số giảm xuống đáng kể. Nói thực tế, anh/chị cho tôi một con số ____ về mức khả thi được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "ballpark", "explanationVi": "'ballpark figure' (idiom) = con số áng chừng, chưa chính thức. Người mua đang xin một mức ước lượng để dễ hình dung. Xem phần Từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Let me be frank with you. We simply can't drop the headline price by that much; ____, what we can do is offer you a tiered discount. If you can commit to a three-year term, then we'd be willing to reduce the annual fee by fifteen percent.",
+        "ipa": "/let miː biː fræŋk wɪð juː wiː ˈsɪm.pli kɑːnt drɒp ðə ˈhed.laɪn praɪs baɪ ðæt mʌtʃ ... wɒt wiː kæn duː ɪz ˈɒf.ər juː ə tɪəd ˈdɪs.kaʊnt ɪf juː kæn kəˈmɪt tə ə θriː jɪə tɜːm ðen wiːd biː ˈwɪl.ɪŋ tə rɪˈdjuːs ði ˈæn.ju.əl fiː baɪ ˈfɪf.tiːn pəˈsent/",
+        "vi": "Để tôi nói thẳng với anh/chị. Chúng tôi thực sự không thể hạ mức giá niêm yết nhiều đến vậy; ____, điều chúng tôi có thể làm là đưa ra mức chiết khấu theo bậc. Nếu anh/chị cam kết hợp đồng ba năm thì chúng tôi sẵn sàng giảm phí thường niên mười lăm phần trăm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' để nối hai vế đối lập: không thể hạ giá NHƯNG có thể chiết khấu theo bậc. Sau 'however' thường có dấu phẩy. Xem mẫu câu 'We simply can't… ; however, what we can do is…'." }
+        ]
+      },
+      {
+        "speaker": "Người mua",
+        "text": "A three-year commitment is a big ask, although I do see the logic behind it. In fairness, a fifteen-percent reduction is a step in the right direction, but it's still not quite enough to win over my board.",
+        "ipa": "/ə θriː jɪə kəˈmɪt.mənt ɪz ə bɪɡ ɑːsk ɔːlˈðəʊ aɪ duː siː ðə ˈlɒdʒ.ɪk bɪˈhaɪnd ɪt ɪn ˈfeə.nəs ə ˈfɪf.tiːn pəˈsent rɪˈdʌk.ʃən ɪz ə step ɪn ðə raɪt dɪˈrek.ʃən bʌt ɪts stɪl nɒt kwaɪt ɪˈnʌf tə wɪn ˈəʊ.və maɪ bɔːd/",
+        "vi": "Cam kết ba năm là một yêu cầu lớn, mặc dù tôi cũng thấy được lý lẽ đằng sau nó. Nói cho công bằng, giảm mười lăm phần trăm là một bước đi đúng hướng, nhưng vẫn chưa đủ để thuyết phục hội đồng của tôi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I hear you. Why don't we meet ____ on this? We'd be happy to extend the discount to eighteen percent, provided that you also agree to be featured as a reference client, ____ would give us valuable exposure in your industry.",
+        "ipa": "/aɪ hɪə juː waɪ dəʊnt wiː miːt ... ɒn ðɪs wiːd biː ˈhæp.i tʊ ɪkˈstend ðə ˈdɪs.kaʊnt tʊ eɪˈtiːn pəˈsent prəˈvaɪ.dɪd ðæt juː ˈɔːl.səʊ əˈɡriː tə biː ˈfiː.tʃəd æz ə ˈref.ər.əns ˈklaɪ.ənt ... wʊd ɡɪv ʌs ˈvæl.jʊ.bəl ɪkˈspəʊ.ʒər ɪn jɔːr ˈɪn.də.stri/",
+        "vi": "Tôi hiểu ý anh/chị. Hay là chúng ta ____ nhau ở điểm này? Chúng tôi vui lòng nâng chiết khấu lên mười tám phần trăm, với điều kiện anh/chị đồng ý làm khách hàng tham chiếu, điều ____ sẽ mang lại cho chúng tôi sự hiện diện giá trị trong ngành của anh/chị.",
+        "blanks": [
+          { "type": "knowledge", "answer": "halfway", "explanationVi": "'meet halfway' (idiom) = mỗi bên lùi một nửa để gặp nhau ở giữa. Xem mẫu câu 'Why don't we meet halfway and…?'." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' mở mệnh đề quan hệ không xác định (sau dấu phẩy) để bổ sung về cả ý trước đó. Nếu chỉ người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Người mua",
+        "text": "Being a reference client is something I can tentatively agree to, despite the fact that it normally requires approval from our marketing team. Eighteen percent, plus the support package, is starting to look like a deal we can ____ with.",
+        "ipa": "/ˈbiː.ɪŋ ə ˈref.ər.əns ˈklaɪ.ənt ɪz ˈsʌm.θɪŋ aɪ kæn ˈten.tə.tɪv.li əˈɡriː tuː dɪˈspaɪt ðə fækt ðæt ɪt ˈnɔː.mə.li rɪˈkwaɪəz əˈpruː.vəl frɒm ˈaʊə ˈmɑː.kɪ.tɪŋ tiːm eɪˈtiːn pəˈsent plʌs ðə səˈpɔːt ˈpæk.ɪdʒ ɪz ˈstɑː.tɪŋ tə lʊk laɪk ə diːl wiː kæn ... wɪð/",
+        "vi": "Làm khách hàng tham chiếu là điều tôi có thể tạm thời đồng ý, mặc dù việc đó thường cần marketing của chúng tôi phê duyệt. Mười tám phần trăm, cộng với gói hỗ trợ, đang dần trông giống một thỏa thuận mà chúng tôi có thể ____ được.",
+        "blanks": [
+          { "type": "knowledge", "answer": "live", "explanationVi": "Cụm 'a deal we can live with' = một thỏa thuận chấp nhận được (không lý tưởng nhưng ổn). 'can live with something' = sống chung được với điều gì đó." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Excellent. So, just to make sure we're on the same page, we've agreed that you'll sign a ____-year contract, we'll apply an eighteen-percent discount, and you'll act as a reference client. I'll have our legal team draft the paperwork, and ultimately I'm confident we can wrap this up ____ by the end of the week.",
+        "ipa": "/ˈek.sə.lənt səʊ dʒʌst tə meɪk ʃʊə wɪə ɒn ðə seɪm peɪdʒ wiːv əˈɡriːd ðæt juːl saɪn ə ... jɪə ˈkɒn.trækt wiːl əˈplaɪ ən eɪˈtiːn pəˈsent ˈdɪs.kaʊnt ænd juːl ækt æz ə ˈref.ər.əns ˈklaɪ.ənt aɪl hæv ˈaʊə ˈliː.ɡəl tiːm drɑːft ðə ˈpeə.pə.wɜːk ænd ˈʌl.tɪ.mət.li aɪm ˈkɒn.fɪ.dənt wiː kæn ræp ðɪs ʌp ... baɪ ði end əv ðə wiːk/",
+        "vi": "Tuyệt vời. Vậy, để chắc rằng cả hai cùng hiểu giống nhau, ta đã thống nhất: anh/chị sẽ ký hợp đồng ____ năm, chúng tôi áp dụng chiết khấu mười tám phần trăm, và anh/chị đóng vai khách hàng tham chiếu. Tôi sẽ để bộ phận pháp lý soạn giấy tờ, và xét cho cùng tôi tin chúng ta có thể hoàn tất mọi việc ____ trước cuối tuần.",
+        "blanks": [
+          { "type": "personal", "hint": "Số năm của hợp đồng đã chốt trong hội thoại. Ví dụ: 'three'." },
+          { "type": "knowledge", "answer": "amicably", "explanationVi": "Dùng trạng từ 'amicably' (một cách ôn hòa, thân thiện) để mô tả việc kết thúc đàm phán trong hòa khí. Xem phần Từ vựng." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa kinh doanh phương Tây, đàm phán được xem là chuyện bình thường, không phải đối đầu cá nhân. Phản đối một con số không có nghĩa là không tôn trọng người ngồi đối diện — hãy tách 'vấn đề' khỏi 'con người'.",
+    "Nguyên tắc 'không nhượng bộ miễn phí' rất phổ biến: mỗi khi bạn cho đi điều gì (giảm giá), hãy đổi lấy một thứ khác (đơn lớn hơn, hợp đồng dài hơn). Đây là lý do mẫu 'If you can…, then we'd…' xuất hiện liên tục.",
+    "Người Anh-Mỹ thường dùng cách nói gián tiếp để giữ thể diện: 'a fair bit higher than we anticipated' thay vì 'too expensive'. Học cách 'gói' lời phản đối cho mềm là kỹ năng C1 quan trọng.",
+    "Im lặng sau một đề nghị không phải lúc nào cũng là điều xấu; ở nhiều nền văn hóa phương Tây, một khoảng lặng ngắn cho thấy bạn đang cân nhắc nghiêm túc, đừng vội lấp đầy nó bằng việc nhượng bộ thêm."
+  ],
+
+  "commonMistakes": [
+    "Phản đối quá thẳng và cộc: 'It's too expensive.' Nên gói lại: 'I'm afraid that's a little higher than we'd anticipated.' để giữ hòa khí.",
+    "Nhượng bộ mà không đòi lại gì. Đừng nói trống 'OK, we'll lower the price'; hãy gắn điều kiện: 'provided that…' hoặc 'if you can…, then we'd…'.",
+    "Nhầm 'feasible' (khả thi về mặt thực hiện) với 'viable' (có khả năng tồn tại/thành công lâu dài) — hai sắc thái khác nhau khi đánh giá đề xuất.",
+    "Quên đảo trật tự hoặc bỏ dấu phẩy sau 'however' khi nó nối hai câu: '…; however, what we can do is…', không viết liền như 'but'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện một phiên đàm phán kinh doanh như thật.",
+    "prompt": "Hãy đóng vai một đối tác kinh doanh nói tiếng Anh đang đàm phán hợp đồng với tôi (tôi sẽ nêu sản phẩm/dịch vụ và vai của tôi). Hãy thương lượng cứng rắn nhưng lịch sự về giá, thời hạn và điều khoản, và đừng đồng ý quá dễ dàng. Sau mỗi lượt của tôi, hãy: (1) phản hồi tự nhiên như một nhà đàm phán thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp, ngoại giao hơn bằng tiếng Việt, (3) khuyến khích tôi dùng nhượng bộ có điều kiện ('if you can…, then we'd…', 'provided that…'), cách phản đối mềm ('I'm afraid…', 'however'), và idiom ('meet halfway', 'on the same page'). Thỉnh thoảng tung ra một tình huống bất ngờ (đòi giảm thêm vào phút chót, dọa rút lui) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng đề xuất mở màn của anh/chị nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một đối tác khó tính, hay dùng chiến thuật im lặng và gây áp lực về thời gian.' khi bạn đã quen.",
+      "Thêm: 'Hãy nói nhanh và dùng nhiều idiom kinh doanh như người bản xứ thật, rồi giải thích idiom nào tôi chưa biết.'",
+      "Thêm: 'Sau khi chốt, hãy yêu cầu tôi tóm tắt lại toàn bộ điều khoản đã thống nhất bằng một câu dài, mạch lạc.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi phản đối được một con số một cách lịch sự, gián tiếp mà không làm hỏng không khí ('I'm afraid…', 'however…').",
+    "Tôi đưa ra được nhượng bộ có điều kiện, luôn đổi một thứ lấy một thứ ('If you can…, then we'd…' / 'provided that…').",
+    "Tôi tóm tắt lại và chốt được các điều khoản đã thống nhất bằng một câu dài, rõ ràng ('just to make sure we're on the same page…')."
+  ]
+}

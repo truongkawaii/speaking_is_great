@@ -1,0 +1,338 @@
+{
+  "id": "booking-flight",
+  "category": "travel",
+  "title": "Đặt vé máy bay",
+  "titleEn": "Booking a Flight",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "agreeing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nói được điểm đi, điểm đến và ngày bay khi đặt vé",
+    "Hỏi giá vé, giờ bay và loại vé (một chiều / khứ hồi)",
+    "Đưa ra yêu cầu lịch sự bằng 'I'd like...' và 'Could I...?'",
+    "Chọn chỗ ngồi và xác nhận thông tin đặt vé"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "flight",
+      "ipa": "/flaɪt/",
+      "vi": "chuyến bay (danh từ)",
+      "register": "neutral",
+      "example": "My flight leaves at nine in the morning.",
+      "exampleVi": "Chuyến bay của tôi khởi hành lúc 9 giờ sáng.",
+      "note": "Danh từ. 'to take a flight' = đi máy bay; 'a direct flight' = chuyến bay thẳng."
+    },
+    {
+      "term": "to book",
+      "ipa": "/buːk/",
+      "vi": "đặt (vé, phòng) (động từ)",
+      "register": "neutral",
+      "example": "I want to book a flight to Tokyo.",
+      "exampleVi": "Tôi muốn đặt một chuyến bay đi Tokyo.",
+      "note": "Động từ. 'book' cũng có nghĩa 'quyển sách', nhưng ở đây là 'đặt trước'.",
+      "synonyms": [
+        { "term": "to reserve", "ipa": "/rɪˈzɜːv/", "register": "neutral", "nuanceVi": "Cùng nghĩa 'đặt trước'. Nghe hơi trang trọng hơn 'book' một chút; hay dùng cho chỗ ngồi, bàn ăn." }
+      ]
+    },
+    {
+      "term": "ticket",
+      "ipa": "/ˈtɪk.ɪt/",
+      "vi": "vé (danh từ)",
+      "register": "neutral",
+      "example": "How much is a ticket to Hanoi?",
+      "exampleVi": "Một vé đi Hà Nội giá bao nhiêu?",
+      "note": "Danh từ. 'a one-way ticket' = vé một chiều; 'a return ticket' = vé khứ hồi.",
+      "synonyms": [
+        { "term": "fare", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Nhấn vào 'giá tiền của vé', không phải tờ vé. Vd 'The fare is $200.' (Giá vé là 200 đô)." }
+      ]
+    },
+    {
+      "term": "one-way",
+      "ipa": "/ˌwʌnˈweɪ/",
+      "vi": "một chiều (tính từ)",
+      "register": "neutral",
+      "example": "I'd like a one-way ticket, please.",
+      "exampleVi": "Tôi muốn một vé một chiều.",
+      "note": "Tính từ, đứng trước 'ticket' hoặc 'flight'. Ngược lại là 'round-trip' (Mỹ) / 'return' (Anh)."
+    },
+    {
+      "term": "round-trip",
+      "ipa": "/ˌraʊndˈtrɪp/",
+      "vi": "khứ hồi (tính từ)",
+      "register": "neutral",
+      "example": "A round-trip ticket is cheaper than two one-way tickets.",
+      "exampleVi": "Vé khứ hồi rẻ hơn hai vé một chiều.",
+      "note": "Tính từ. Người Mỹ nói 'round-trip', người Anh nói 'return'.",
+      "synonyms": [
+        { "term": "return", "ipa": "/rɪˈtɜːn/", "register": "neutral", "nuanceVi": "Cùng nghĩa 'khứ hồi' nhưng là cách nói của người Anh: 'a return ticket'. Dùng cái nào cũng được." }
+      ]
+    },
+    {
+      "term": "to depart",
+      "ipa": "/dɪˈpɑːt/",
+      "vi": "khởi hành, cất cánh (động từ)",
+      "register": "formal",
+      "example": "The plane departs at ten o'clock.",
+      "exampleVi": "Máy bay cất cánh lúc 10 giờ.",
+      "note": "Động từ, hơi trang trọng, hay thấy trên bảng thông báo ở sân bay. Danh từ: 'departure'.",
+      "synonyms": [
+        { "term": "to leave", "ipa": "/liːv/", "register": "neutral", "nuanceVi": "Đời thường và đơn giản hơn 'depart'. Khi nói chuyện bình thường, người ta hay nói 'The flight leaves at...'." },
+        { "term": "to take off", "ipa": "/ˌteɪk ˈɒf/", "register": "casual", "nuanceVi": "Cụm động từ, chỉ riêng lúc máy bay 'rời mặt đất' (cất cánh). Cụ thể hơn 'depart'." }
+      ]
+    },
+    {
+      "term": "seat",
+      "ipa": "/siːt/",
+      "vi": "chỗ ngồi (danh từ)",
+      "register": "neutral",
+      "example": "Could I have a window seat, please?",
+      "exampleVi": "Cho tôi một chỗ ngồi cạnh cửa sổ được không?",
+      "note": "Danh từ. 'a window seat' = ghế cạnh cửa sổ; 'an aisle seat' = ghế cạnh lối đi."
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "How much luggage can I bring?",
+      "exampleVi": "Tôi được mang bao nhiêu hành lý?",
+      "note": "Danh từ KHÔNG đếm được: nói 'a lot of luggage', KHÔNG nói 'luggages'.",
+      "synonyms": [
+        { "term": "baggage", "ipa": "/ˈbæɡ.ɪdʒ/", "register": "neutral", "nuanceVi": "Gần như y hệt 'luggage'. Cũng không đếm được. Ở sân bay hay thấy 'baggage claim' (khu lấy hành lý)." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "còn (chỗ), sẵn có (tính từ)",
+      "register": "neutral",
+      "example": "Are there any seats available on the morning flight?",
+      "exampleVi": "Chuyến bay sáng còn ghế trống không?",
+      "note": "Tính từ. Dùng để hỏi xem còn vé/ghế không.",
+      "synonyms": [
+        { "term": "free", "ipa": "/friː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'còn trống'. Vd 'Is this seat free?'. Nhưng 'free' cũng có nghĩa 'miễn phí' nên dễ nhầm." }
+      ]
+    },
+    {
+      "term": "cheap",
+      "ipa": "/tʃiːp/",
+      "vi": "rẻ (tính từ)",
+      "register": "neutral",
+      "example": "I'm looking for a cheap flight to Bangkok.",
+      "exampleVi": "Tôi đang tìm một chuyến bay rẻ đi Bangkok.",
+      "note": "Tính từ. Trái nghĩa: 'expensive' (đắt).",
+      "synonyms": [
+        { "term": "affordable", "ipa": "/əˈfɔː.də.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá phải chăng, đủ khả năng trả'. Nghe lịch sự hơn 'cheap' (đôi khi 'cheap' hàm ý kém chất lượng)." },
+        { "term": "low-cost", "ipa": "/ˌləʊˈkɒst/", "register": "neutral", "nuanceVi": "Nhấn 'chi phí thấp'. Hay dùng cho hãng bay giá rẻ: 'a low-cost airline'." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "I need to book my ticket quickly before the price goes up.",
+      "exampleVi": "Tôi cần đặt vé nhanh trước khi giá tăng.",
+      "note": "Trạng từ, đứng sau động từ. Trái nghĩa: 'slowly' (chậm).",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ, đời thường hơn: 'Book it fast!'." },
+        { "term": "right away", "ipa": "/ˌraɪt əˈweɪ/", "register": "neutral", "nuanceVi": "Cụm trạng từ nghĩa 'ngay lập tức'. Nhấn vào 'làm ngay bây giờ', không trì hoãn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to book a flight to [địa điểm].",
+      "use": "Mở đầu khi muốn đặt vé máy bay đi đâu đó.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to book a flight to Singapore.",
+        "I'd like to book a flight to Da Nang for next week."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want to'. Đây là câu mở đầu chuẩn khi đặt vé. Sau 'to' luôn là động từ nguyên thể.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể], please?",
+      "use": "Yêu cầu hoặc xin phép một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I have a window seat, please?",
+        "Could I pay by card, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?', rất hợp khi nói với nhân viên. Thêm 'please' ở cuối cho lịch sự hơn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "How much is a ticket to [địa điểm]?",
+      "use": "Hỏi giá vé đi một nơi.",
+      "register": "neutral",
+      "examples": [
+        "How much is a ticket to Hanoi?",
+        "How much is a round-trip ticket to Seoul?"
+      ],
+      "explanationVi": "'How much is...?' dùng để hỏi giá của một thứ (số ít). Nếu hỏi nhiều thứ thì dùng 'How much are...?'."
+    },
+    {
+      "pattern": "What time does the flight [động từ]?",
+      "use": "Hỏi giờ bay đi hoặc giờ đến.",
+      "register": "neutral",
+      "examples": [
+        "What time does the flight depart?",
+        "What time does the flight arrive in Tokyo?"
+      ],
+      "explanationVi": "Câu hỏi với 'does' ở thì hiện tại đơn cho lịch trình cố định. Sau 'does' thì động từ về nguyên thể (depart, arrive)."
+    },
+    {
+      "pattern": "Do you have any [danh từ] available?",
+      "use": "Hỏi xem còn vé/ghế trống không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any seats available on the evening flight?",
+        "Do you have any cheaper tickets available?"
+      ],
+      "explanationVi": "'available' = còn sẵn. Dùng khi bạn muốn biết còn chỗ hay đã hết. 'any' dùng trong câu hỏi."
+    },
+    {
+      "pattern": "I'd prefer [danh từ / to + động từ].",
+      "use": "Nói ra lựa chọn mình thích hơn.",
+      "register": "neutral",
+      "examples": [
+        "I'd prefer a window seat.",
+        "I'd prefer to fly in the morning."
+      ],
+      "explanationVi": "'I'd prefer' (= I would prefer) = tôi thích... hơn. Lịch sự và mềm mại hơn 'I want'. Sau nó có thể là danh từ hoặc 'to + động từ'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính nhẹ nhàng hoặc thêm thông tin.", "example": "Actually, I'd prefer an aisle seat." },
+    { "term": "let me see", "ipa": "/let miː siː/", "vi": "để tôi xem nào", "when": "Khi cần một chút thời gian để nghĩ hoặc kiểm tra.", "example": "Let me see... the morning flight is cheaper." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Đồng ý một cách thân thiện, sẵn lòng.", "example": "Of course, here is your ticket." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, how much luggage can I bring?" },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nói nhẹ hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi.", "example": "I just want a cheap one-way ticket." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến một đại lý vé máy bay (hoặc gọi điện) để đặt một vé bay đi du lịch. Nhân viên giúp bạn chọn chuyến, chỗ ngồi và xác nhận.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! Welcome to Sky Travel. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈwel.kəm tə skaɪ ˈtræv.əl haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng! Chào mừng đến với Sky Travel. Hôm nay tôi có thể giúp gì cho bạn ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to ____ a flight to ____, please. I'm planning a short holiday.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tə ... ə flaɪt tə ... pliːz aɪm ˈplæn.ɪŋ ə ʃɔːt ˈhɒl.ə.deɪ/",
+        "vi": "Chào buổi sáng. Tôi muốn ____ một chuyến bay đi ____. Tôi đang dự định một kỳ nghỉ ngắn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "book",
+            "explanationVi": "Dùng động từ 'book' (= đặt trước) sau 'I'd like to'. Sau 'to' luôn là động từ nguyên thể. Xem mẫu 'I'd like to book a flight to...'."
+          },
+          {
+            "type": "personal",
+            "hint": "Nơi bạn muốn bay đến. Ví dụ: 'Singapore', 'Da Nang'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Sure! Would you like a one-way ticket, or a round-trip ticket? A round-trip is usually cheaper.",
+        "ipa": "/ʃɔː wʊd juː laɪk ə ˌwʌnˈweɪ ˈtɪk.ɪt ɔː ə ˌraʊndˈtrɪp ˈtɪk.ɪt ə ˌraʊndˈtrɪp ɪz ˈjuː.ʒu.ə.li tʃiː.pər/",
+        "vi": "Được ạ! Bạn muốn vé một chiều hay vé khứ hồi? Vé khứ hồi thường rẻ hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "A round-trip ticket, please. By the way, how much ____ a ticket to that city?",
+        "ipa": "/ə ˌraʊndˈtrɪp ˈtɪk.ɪt pliːz baɪ ðə weɪ haʊ mʌtʃ ... ə ˈtɪk.ɪt tə ðæt ˈsɪt.i/",
+        "vi": "Cho tôi vé khứ hồi nhé. Tiện thể, một vé đi thành phố đó giá ____ bao nhiêu?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "is",
+            "explanationVi": "Dùng 'is' vì 'a ticket' là số ít. Mẫu câu hỏi giá: 'How much is a ticket to...?'. Xem phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me see... A round-trip ticket is 250 dollars. There is a morning flight and an evening flight. Which one do you prefer?",
+        "ipa": "/let miː siː ə ˌraʊndˈtrɪp ˈtɪk.ɪt ɪz tuː ˈhʌn.drəd ˈfɪf.ti ˈdɒl.əz ðeə ɪz ə ˈmɔː.nɪŋ flaɪt ænd ən ˈiːv.nɪŋ flaɪt wɪtʃ wʌn duː juː prɪˈfɜː/",
+        "vi": "Để tôi xem nào... Vé khứ hồi là 250 đô. Có một chuyến bay sáng và một chuyến bay tối. Bạn thích chuyến nào hơn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd prefer the morning flight because it's cheaper. What time does it ____?",
+        "ipa": "/aɪd prɪˈfɜː ðə ˈmɔː.nɪŋ flaɪt bɪˈkɒz ɪts ˈtʃiː.pər wɒt taɪm dʌz ɪt .../",
+        "vi": "Tôi thích chuyến bay sáng hơn vì nó rẻ hơn. Mấy giờ nó ____?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "depart",
+            "explanationVi": "Dùng động từ nguyên thể 'depart' (= khởi hành) sau 'does'. Mẫu câu hỏi giờ: 'What time does the flight depart?'. Sau 'does' động từ về nguyên thể."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "It departs at eight in the morning. Now, would you like a window seat or an aisle seat?",
+        "ipa": "/ɪt dɪˈpɑːts ət eɪt ɪn ðə ˈmɔː.nɪŋ naʊ wʊd juː laɪk ə ˈwɪn.dəʊ siːt ɔː ən aɪl siːt/",
+        "vi": "Chuyến đó cất cánh lúc 8 giờ sáng. Bây giờ, bạn muốn ghế cạnh cửa sổ hay ghế cạnh lối đi ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Could I ____ a window seat, please? I really like looking at the view.",
+        "ipa": "/kʊd aɪ ... ə ˈwɪn.dəʊ siːt pliːz aɪ ˈrɪə.li laɪk ˈlʊk.ɪŋ ət ðə vjuː/",
+        "vi": "Cho tôi một ghế cạnh cửa sổ được không? Tôi thực sự thích ngắm cảnh.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "have",
+            "explanationVi": "Dùng 'have' (= nhận, lấy) sau 'Could I'. Mẫu đề nghị lịch sự: 'Could I have...?'. Sau 'Could I' là động từ nguyên thể."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course! Your morning flight to that city is booked, with a window seat. Have a wonderful trip!",
+        "ipa": "/əv ˈkɔːs jɔː ˈmɔː.nɪŋ flaɪt tə ðæt ˈsɪt.i ɪz bʊkt wɪð ə ˈwɪn.dəʊ siːt hæv ə ˈwʌn.də.fəl trɪp/",
+        "vi": "Tất nhiên rồi! Chuyến bay sáng của bạn đến thành phố đó đã được đặt, kèm ghế cạnh cửa sổ. Chúc bạn một chuyến đi tuyệt vời!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Đặt vé sớm thường rẻ hơn rất nhiều. Giá vé máy bay thay đổi theo thời điểm và số ghế còn lại.",
+    "Hãng bay giá rẻ (low-cost airline) thường tính thêm tiền hành lý ký gửi, chọn chỗ ngồi và đồ ăn — hãy đọc kỹ trước khi mua.",
+    "Ở sân bay, bảng thông tin dùng 'Departures' (chuyến đi) và 'Arrivals' (chuyến đến). Nhớ hai từ này để xem đúng bảng.",
+    "Vé khứ hồi (round-trip / return) thường rẻ hơn mua hai vé một chiều riêng lẻ."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a ticket' nghe hơi cộc. Người bản xứ dùng 'I'd like...' hoặc 'Could I...?' cho lịch sự.",
+    "Dùng 'luggages' là SAI — 'luggage' không đếm được, không thêm 's'.",
+    "Quên đảo động từ về nguyên thể sau 'does': phải nói 'What time does it depart?', không phải 'departs'.",
+    "Nhầm 'How much' (hỏi giá/lượng không đếm được) với 'How many' (hỏi số lượng đếm được)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đặt vé máy bay như thật.",
+    "prompt": "Hãy đóng vai một nhân viên bán vé máy bay nói tiếng Anh. Tôi là khách muốn đặt một vé đi du lịch. Hãy bắt đầu bằng cách chào tôi và hỏi tôi muốn bay đi đâu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (hỏi về ngày bay, vé một chiều hay khứ hồi, chỗ ngồi, hành lý), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa ra cách nói hay hơn bằng tiếng Việt, (3) nói chậm rãi, dùng câu đơn giản vì trình độ của tôi là A2. Cuối buổi, hãy xác nhận lại thông tin đặt vé. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Thỉnh thoảng hãy tạo tình huống bất ngờ, ví dụ chuyến bay đã hết ghế hoặc bị hoãn, để tôi tập xử lý.'",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được điểm đến và ngày bay khi đặt vé mà không cần nhìn gợi ý.",
+    "Tôi hỏi được giá vé và giờ bay bằng 'How much is...?' và 'What time does...?'.",
+    "Tôi dùng được 'I'd like to...' và 'Could I...?' để yêu cầu một cách lịch sự."
+  ]
+}

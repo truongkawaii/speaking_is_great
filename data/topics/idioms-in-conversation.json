@@ -1,0 +1,365 @@
+{
+  "id": "idioms-in-conversation",
+  "category": "advanced",
+  "title": "Thành ngữ trong hội thoại",
+  "titleEn": "Idioms in Conversation",
+  "level": "C1",
+  "functions": ["small-talk", "opinions", "agreeing", "describing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Lồng thành ngữ tự nhiên vào hội thoại thay vì dịch từng từ một cách máy móc",
+    "Nhận biết sắc thái và mức trang trọng của idiom để chọn đúng ngữ cảnh",
+    "Diễn đạt quan điểm, đồng tình và mô tả tình huống bằng câu phức nhiều tầng",
+    "Linh hoạt đổi register (trang trọng/thân mật) khi dùng thành ngữ trong cùng một cuộc trò chuyện",
+    "Tránh các lỗi điển hình của người Việt khi dùng idiom (dịch word-by-word, sai ngữ cảnh)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to be on the same page",
+      "ipa": "/tə biː ɒn ðə seɪm peɪdʒ/",
+      "vi": "có chung quan điểm / hiểu nhau (thành ngữ, động từ)",
+      "register": "neutral",
+      "example": "Before we move forward, let's make sure we're all on the same page about the budget.",
+      "exampleVi": "Trước khi tiến hành, hãy chắc chắn tất cả chúng ta đều thống nhất quan điểm về ngân sách.",
+      "note": "Thành ngữ. Nghĩa 'cùng hiểu/cùng đồng thuận', không liên quan gì đến 'trang sách'. Rất thông dụng trong công sở lẫn đời thường.",
+      "synonyms": [
+        { "term": "to see eye to eye", "ipa": "/tə siː aɪ tə aɪ/", "register": "neutral", "nuanceVi": "Nhấn vào 'hoàn toàn nhất trí với nhau'; thường dùng ở thể phủ định ('we don't see eye to eye') để nói bất đồng." },
+        { "term": "to be in agreement", "ipa": "/tə biː ɪn əˈɡriː.mənt/", "register": "formal", "nuanceVi": "Trang trọng, trung tính; hợp văn bản hoặc cuộc họp chính thức hơn là tán gẫu." }
+      ]
+    },
+    {
+      "term": "to cost an arm and a leg",
+      "ipa": "/tə kɒst ən ɑːm ænd ə leɡ/",
+      "vi": "đắt cắt cổ, tốn cả gia tài (thành ngữ, động từ)",
+      "register": "casual",
+      "example": "The repairs cost an arm and a leg, although I'd budgeted for a much smaller bill.",
+      "exampleVi": "Tiền sửa chữa đắt cắt cổ, dù tôi đã dự trù một hóa đơn nhỏ hơn nhiều.",
+      "note": "Thành ngữ đời thường, dùng để than về giá cao. Đừng dịch thẳng 'một tay một chân' — sẽ vô nghĩa với người bản xứ nếu hiểu sai.",
+      "synonyms": [
+        { "term": "to be pricey", "ipa": "/tə biː ˈpraɪ.si/", "register": "casual", "nuanceVi": "Nhẹ nhàng, đời thường, chỉ 'hơi đắt'; không kịch tính bằng 'cost an arm and a leg'." },
+        { "term": "to be exorbitant", "ipa": "/tə biː ɪɡˈzɔː.bɪ.tənt/", "register": "formal", "nuanceVi": "Trang trọng, mang nghĩa 'cao đến mức vô lý'; hợp văn viết hoặc lời phàn nàn nghiêm túc." }
+      ]
+    },
+    {
+      "term": "to hit the nail on the head",
+      "ipa": "/tə hɪt ðə neɪl ɒn ðə hed/",
+      "vi": "nói trúng phóc, đúng vào trọng tâm (thành ngữ, động từ)",
+      "register": "neutral",
+      "example": "You've hit the nail on the head — that's exactly the problem we keep ignoring.",
+      "exampleVi": "Bạn nói trúng phóc — đó đúng là vấn đề mà chúng ta cứ phớt lờ.",
+      "note": "Thành ngữ dùng để tán dương ai vừa nhận xét cực kỳ chính xác. Một cách đồng tình rất 'tây'.",
+      "synonyms": [
+        { "term": "to be spot on", "ipa": "/tə biː spɒt ɒn/", "register": "casual", "nuanceVi": "Anh-Anh, đời thường; nghĩa 'chính xác hoàn toàn'. Ngắn gọn, hợp lời khen nhanh." }
+      ]
+    },
+    {
+      "term": "knack",
+      "ipa": "/næk/",
+      "vi": "khả năng thiên bẩm, bí quyết làm khéo điều gì (danh từ)",
+      "register": "neutral",
+      "example": "She has a real knack for explaining complicated ideas simply.",
+      "exampleVi": "Cô ấy có biệt tài giải thích những ý phức tạp một cách đơn giản.",
+      "note": "Danh từ, luôn đi với 'a knack for + N/V-ing'. Nhấn vào tài khéo có vẻ tự nhiên, không phải khổ luyện.",
+      "synonyms": [
+        { "term": "flair", "ipa": "/fleər/", "register": "neutral", "nuanceVi": "Nhấn 'năng khiếu kèm phong cách, sự duyên dáng' (a flair for design); hơi nghệ thuật hơn 'knack'." },
+        { "term": "aptitude", "ipa": "/ˈæp.tɪ.tʃuːd/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'năng lực bẩm sinh để học/làm tốt một lĩnh vực'; hay dùng trong giáo dục, tuyển dụng." },
+        { "term": "talent", "ipa": "/ˈtæl.ənt/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính; rộng hơn 'knack' (vốn thiên về mẹo/kỹ năng cụ thể nhỏ)." }
+      ]
+    },
+    {
+      "term": "to beat around the bush",
+      "ipa": "/tə biːt əˈraʊnd ðə bʊʃ/",
+      "vi": "nói vòng vo, không vào thẳng vấn đề (thành ngữ, động từ)",
+      "register": "neutral",
+      "example": "Stop beating around the bush and tell me what actually happened.",
+      "exampleVi": "Đừng nói vòng vo nữa, hãy nói cho tôi biết chuyện gì đã thực sự xảy ra.",
+      "note": "Thành ngữ. Thường dùng ở dạng phủ định/mệnh lệnh để giục ai vào thẳng vấn đề.",
+      "synonyms": [
+        { "term": "to get to the point", "ipa": "/tə ɡet tə ðə pɔɪnt/", "register": "neutral", "nuanceVi": "Là vế đối lập tích cực: 'đi thẳng vào vấn đề'. Dùng khi muốn ai nói ngắn gọn." },
+        { "term": "to mince words", "ipa": "/tə mɪns wɜːdz/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'nói tránh né cho đỡ phật lòng'; hay dùng phủ định 'not to mince words' (nói thẳng)." }
+      ]
+    },
+    {
+      "term": "to be a piece of cake",
+      "ipa": "/tə biː ə piːs ɒv keɪk/",
+      "vi": "dễ ợt, dễ như ăn bánh (thành ngữ, tính từ/danh ngữ)",
+      "register": "casual",
+      "example": "Honestly, the exam was a piece of cake compared with what we'd practised.",
+      "exampleVi": "Thật ra, kỳ thi dễ ợt so với những gì chúng tôi đã luyện.",
+      "note": "Thành ngữ đời thường chỉ việc rất dễ. Khá thân mật; trong ngữ cảnh trang trọng nên dùng 'straightforward'.",
+      "synonyms": [
+        { "term": "effortless", "ipa": "/ˈef.ət.ləs/", "register": "neutral", "nuanceVi": "Tính từ, nghĩa 'như chẳng tốn sức'; nghe mượt và trung tính hơn." },
+        { "term": "straightforward", "ipa": "/ˌstreɪtˈfɔː.wəd/", "register": "neutral", "nuanceVi": "Nhấn 'đơn giản, dễ hiểu, không rắc rối'; an toàn cho cả ngữ cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "to get cold feet",
+      "ipa": "/tə ɡet kəʊld fiːt/",
+      "vi": "chùn bước, đâm ra do dự vào phút chót (thành ngữ, động từ)",
+      "register": "casual",
+      "example": "He got cold feet the night before the presentation, even though he'd prepared thoroughly.",
+      "exampleVi": "Anh ấy chùn bước vào đêm trước buổi thuyết trình, dù đã chuẩn bị kỹ lưỡng.",
+      "note": "Thành ngữ chỉ sự lo sợ khiến muốn rút lui trước một việc lớn (kết hôn, thi, phỏng vấn).",
+      "synonyms": [
+        { "term": "to chicken out", "ipa": "/tə ˈtʃɪk.ɪn aʊt/", "register": "casual", "nuanceVi": "Rất đời thường, hơi chê bai (sợ hãi rồi bỏ cuộc); thân mật hơn 'get cold feet'." },
+        { "term": "to have second thoughts", "ipa": "/tə hæv ˈsek.ənd θɔːts/", "register": "neutral", "nuanceVi": "Trung tính, nhẹ nhàng hơn: 'đắn đo lại'; không nhất thiết là sợ hãi." }
+      ]
+    },
+    {
+      "term": "figuratively",
+      "ipa": "/ˈfɪɡ.ər.ə.tɪv.li/",
+      "vi": "theo nghĩa bóng (trạng từ)",
+      "register": "formal",
+      "example": "When I say I'm drowning in work, I mean it figuratively, of course.",
+      "exampleVi": "Khi tôi nói mình đang chết đuối trong công việc, dĩ nhiên là tôi nói theo nghĩa bóng.",
+      "note": "Trạng từ. Trái nghĩa là 'literally' (theo nghĩa đen). Hữu ích khi giải thích rằng một idiom không nên hiểu theo nghĩa đen.",
+      "synonyms": [
+        { "term": "metaphorically", "ipa": "/ˌmet.əˈfɒr.ɪk.əl.i/", "register": "formal", "nuanceVi": "Trang trọng, học thuật hơn; nhấn vào phép ẩn dụ cụ thể." }
+      ]
+    },
+    {
+      "term": "colloquial",
+      "ipa": "/kəˈləʊ.kwi.əl/",
+      "vi": "thuộc khẩu ngữ, thông tục (tính từ)",
+      "register": "formal",
+      "example": "That expression is far too colloquial for a formal report.",
+      "exampleVi": "Cách diễn đạt đó quá thông tục để đưa vào một báo cáo trang trọng.",
+      "note": "Tính từ. Mô tả ngôn ngữ đời thường khi nói chuyện, không hợp văn bản trang trọng. Trọng âm rơi vào 'lo'.",
+      "synonyms": [
+        { "term": "informal", "ipa": "/ɪnˈfɔː.məl/", "register": "neutral", "nuanceVi": "Phổ biến và trung tính hơn; rộng hơn 'colloquial' (vốn nhấn riêng vào lời nói hằng ngày)." },
+        { "term": "idiomatic", "ipa": "/ˌɪd.i.əˈmæt.ɪk/", "register": "formal", "nuanceVi": "Nhấn 'mang tính thành ngữ, tự nhiên như người bản xứ'; không hẳn đồng nghĩa nhưng hay đi cùng chủ đề này." }
+      ]
+    },
+    {
+      "term": "to ring a bell",
+      "ipa": "/tə rɪŋ ə bel/",
+      "vi": "nghe quen quen, gợi nhớ điều gì (thành ngữ, động từ)",
+      "register": "casual",
+      "example": "That name rings a bell, although I can't quite remember where I've heard it.",
+      "exampleVi": "Cái tên đó nghe quen quen, dù tôi không nhớ rõ đã nghe ở đâu.",
+      "note": "Thành ngữ, chủ ngữ là sự việc/tên/khái niệm (không phải người): 'it rings a bell'.",
+      "synonyms": [
+        { "term": "to sound familiar", "ipa": "/tə saʊnd fəˈmɪl.i.ər/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa đen rõ ràng hơn ('nghe quen'); an toàn khi không chắc về idiom." }
+      ]
+    },
+    {
+      "term": "aptly",
+      "ipa": "/ˈæpt.li/",
+      "vi": "một cách thích đáng, đúng chỗ (trạng từ)",
+      "register": "formal",
+      "example": "As you so aptly put it, we shouldn't put all our eggs in one basket.",
+      "exampleVi": "Như bạn diễn đạt rất đúng, chúng ta không nên đặt hết trứng vào một giỏ.",
+      "note": "Trạng từ trang trọng, khen cách ai đó diễn đạt 'rất khéo, rất hợp'. Hay đi với 'put it'.",
+      "synonyms": [
+        { "term": "fittingly", "ipa": "/ˈfɪt.ɪŋ.li/", "register": "formal", "nuanceVi": "Nhấn 'một cách phù hợp với hoàn cảnh'; gần nghĩa nhưng thiên về sự tương xứng." }
+      ]
+    },
+    {
+      "term": "to play it by ear",
+      "ipa": "/tə pleɪ ɪt baɪ ɪər/",
+      "vi": "tùy cơ ứng biến, không lên kế hoạch trước (thành ngữ, động từ)",
+      "register": "casual",
+      "example": "We don't have a fixed plan for the weekend; we'll just play it by ear.",
+      "exampleVi": "Cuối tuần chúng tôi không có kế hoạch cố định; cứ tùy cơ ứng biến thôi.",
+      "note": "Thành ngữ gốc từ âm nhạc (chơi đàn theo tai, không cần bản nhạc), nay nghĩa 'tùy cơ ứng biến, không định trước'.",
+      "synonyms": [
+        { "term": "to improvise", "ipa": "/ˈɪm.prə.vaɪz/", "register": "neutral", "nuanceVi": "Động từ trung tính, nghĩa 'ứng tác, làm ngay không chuẩn bị'; trang trọng hơn idiom." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "As the saying goes, [thành ngữ/tục ngữ].",
+      "use": "Dẫn vào một thành ngữ/tục ngữ để củng cố luận điểm.",
+      "register": "neutral",
+      "examples": [
+        "As the saying goes, you can't have your cake and eat it too.",
+        "As the saying goes, the early bird catches the worm."
+      ],
+      "explanationVi": "Cụm dẫn 'As the saying goes' báo hiệu câu sau là thành ngữ/tục ngữ, giúp người nghe không hiểu nhầm theo nghĩa đen. Nghe chững chạc, có học.",
+      "altOf": "introducing-idiom"
+    },
+    {
+      "pattern": "There's an idiom in English that goes, '[thành ngữ]', which means [giải thích].",
+      "use": "Giới thiệu một idiom kèm giải nghĩa cho người chưa biết.",
+      "register": "neutral",
+      "examples": [
+        "There's an idiom in English that goes, 'to bite the bullet', which means to force yourself to do something unpleasant."
+      ],
+      "explanationVi": "Mệnh đề quan hệ 'which means…' giải nghĩa ngay sau khi trích idiom — rất hữu ích khi bạn muốn dạy lại hoặc chắc chắn người nghe hiểu.",
+      "altOf": "introducing-idiom"
+    },
+    {
+      "pattern": "Not only does the expression [idiom] sound natural, but it also [lợi ích].",
+      "use": "Nhấn mạnh rằng một thành ngữ vừa tự nhiên vừa có thêm tác dụng.",
+      "register": "formal",
+      "examples": [
+        "Not only does the expression 'break the ice' sound natural, but it also makes you come across as fluent."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu, phải đảo trợ động từ 'does' lên trước chủ ngữ. Cấu trúc nâng cao C1, dùng để 'cộng dồn' hai lợi ích.",
+      "altOf": "emphasising-value"
+    },
+    {
+      "pattern": "If I'm not mistaken, that idiom is a bit too [tính từ] for [ngữ cảnh].",
+      "use": "Lưu ý nhã nhặn rằng một idiom không hợp register của tình huống.",
+      "register": "formal",
+      "examples": [
+        "If I'm not mistaken, that idiom is a bit too colloquial for a job interview."
+      ],
+      "explanationVi": "'If I'm not mistaken' (nếu tôi không nhầm) làm lời góp ý mềm đi, tránh nghe áp đặt. Rất hợp khi bàn về sự phù hợp của idiom.",
+      "altOf": "commenting-register"
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], I'd say [idiom] captures it perfectly.",
+      "use": "Khẳng định một idiom diễn đạt chuẩn dù có yếu tố trái chiều.",
+      "register": "neutral",
+      "examples": [
+        "Despite sounding old-fashioned, I'd say 'the ball is in your court' captures it perfectly."
+      ],
+      "explanationVi": "'Despite + N/V-ing' mở mệnh đề nhượng bộ (mặc dù). 'I'd say' làm câu khiêm tốn. Bộ đôi này giúp bạn bảo vệ lựa chọn từ ngữ một cách tinh tế."
+    },
+    {
+      "pattern": "Whenever I use [idiom], people tend to [phản ứng], which suggests [nhận xét].",
+      "use": "Kể trải nghiệm dùng idiom và rút ra nhận xét.",
+      "register": "neutral",
+      "examples": [
+        "Whenever I use 'touch base', people tend to relax, which suggests it sounds friendly rather than stiff."
+      ],
+      "explanationVi": "'Whenever' = mỗi khi (mệnh đề thời gian lặp lại); 'which suggests…' là mệnh đề quan hệ không xác định bình luận cả ý phía trước. Cấu trúc kể-rồi-kết-luận rất C1."
+    },
+    {
+      "pattern": "In order to sound more natural, you should [lời khuyên] rather than [điều nên tránh].",
+      "use": "Đưa lời khuyên về cách dùng idiom cho tự nhiên.",
+      "register": "formal",
+      "examples": [
+        "In order to sound more natural, you should learn idioms in context rather than memorising lists."
+      ],
+      "explanationVi": "'In order to + V' nêu mục đích (để mà…); 'A rather than B' đối lập lựa chọn nên/không nên. Khung câu lý tưởng để khuyên người học."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Dẫn vào một ý kiến thẳng thắn, đôi khi hơi trái chiều.", "example": "Honestly, that idiom went completely over my head the first time." },
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Nhượng bộ một điểm trước khi đưa lập luận của mình.", "example": "Admittedly, some idioms are falling out of use; however, the classics still work." },
+    { "term": "for what it's worth", "ipa": "/fɔːr wɒt ɪts wɜːθ/", "vi": "tùy bạn cân nhắc, nói cho có ý kiến", "when": "Đưa ý kiến cá nhân một cách khiêm tốn, không áp đặt.", "example": "For what it's worth, I think 'piece of cake' sounds a little childish in meetings." },
+    { "term": "as a rule of thumb", "ipa": "/əz ə ruːl ɒv θʌm/", "vi": "theo nguyên tắc chung", "when": "Nêu một quy tắc kinh nghiệm, không tuyệt đối.", "example": "As a rule of thumb, avoid idioms when you're not sure of the register." },
+    { "term": "more often than not", "ipa": "/mɔːr ˈɒf.ən ðæn nɒt/", "vi": "thường thì, phần lớn các trường hợp", "when": "Khẳng định một xu hướng phổ biến nhưng không phải luôn luôn.", "example": "More often than not, a well-placed idiom makes you sound more fluent." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói, đương nhiên là", "when": "Dẫn vào một điều hiển nhiên ai cũng đoán được.", "example": "Needless to say, translating idioms word for word rarely works." }
+  ],
+
+  "dialogue": {
+    "context": "Mai (người Việt đang học tiếng Anh) và Tom (đồng nghiệp bản xứ) đang uống cà phê và bàn về cách dùng thành ngữ sao cho tự nhiên trong giao tiếp.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "So, how's your English coming along? I noticed you used a couple of idioms in the meeting this morning, which honestly impressed me quite a lot.",
+        "ipa": "/səʊ haʊz jɔːr ˈɪŋ.ɡlɪʃ ˈkʌm.ɪŋ əˈlɒŋ aɪ ˈnəʊ.tɪst juː juːzd ə ˈkʌp.əl ɒv ˈɪd.i.əmz ɪn ðə ˈmiː.tɪŋ ðɪs ˈmɔːn.ɪŋ wɪtʃ ˈɒn.ɪst.li ɪmˈprest miː kwaɪt ə lɒt/",
+        "vi": "Tiếng Anh của cậu tiến bộ thế nào rồi? Tớ để ý sáng nay trong cuộc họp cậu dùng vài thành ngữ, thú thật là tớ khá ấn tượng đấy."
+      },
+      {
+        "speaker": "Mai",
+        "text": "Thanks! Admittedly, I used to translate everything word for word, which often went completely ____ my head. Now I try to learn idioms in context instead, although it still takes a lot of practice.",
+        "ipa": "/θæŋks ədˈmɪt.ɪd.li aɪ juːst tə trænzˈleɪt ˈev.ri.θɪŋ wɜːd fɔːr wɜːd wɪtʃ ˈɒf.ən went kəmˈpliːt.li ... maɪ hed naʊ aɪ traɪ tə lɜːn ˈɪd.i.əmz ɪn ˈkɒn.tekst ɪnˈsted ɔːlˈðəʊ ɪt stɪl teɪks ə lɒt ɒv ˈpræk.tɪs/",
+        "vi": "Cảm ơn cậu! Phải thừa nhận là trước đây tớ hay dịch từng từ một, mà điều đó nhiều khi vượt quá tầm hiểu của tớ (chẳng hiểu gì). Giờ tớ cố học thành ngữ theo ngữ cảnh, dù vẫn cần luyện tập nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "over", "explanationVi": "Thành ngữ 'to go over someone's head' = vượt quá khả năng hiểu của ai đó. Giới từ cố định là 'over'; không dùng 'above' hay 'on'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "You've hit the nail on the ____ there. Memorising long lists rarely helps, whereas hearing an idiom used naturally tends to stick far better in your memory.",
+        "ipa": "/juːv hɪt ðə neɪl ɒn ðə ... ðeər ˈmem.ə.raɪ.zɪŋ lɒŋ lɪsts ˈreə.li helps weərˈæz ˈhɪə.rɪŋ ən ˈɪd.i.əm juːzd ˈnætʃ.rə.li tendz tə stɪk fɑːr ˈbet.ər ɪn jɔːr ˈmem.ə.ri/",
+        "vi": "Cậu nói trúng phóc rồi đấy. Học thuộc danh sách dài hiếm khi có tác dụng, trong khi nghe một thành ngữ dùng tự nhiên thường khắc sâu vào trí nhớ hơn nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "head", "explanationVi": "Thành ngữ 'to hit the nail on the head' = nói trúng phóc, đúng trọng tâm. Từ cố định cuối là 'head' (đầu đinh), không thay bằng từ khác. Xem mục Từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Exactly. By the way, I learnt the phrase '____ an arm and a leg' the other day, and I used it when my laptop repair turned out to be ridiculously expensive. Was that appropriate?",
+        "ipa": "/ɪɡˈzækt.li baɪ ðə weɪ aɪ lɜːnt ðə freɪz ... ən ɑːm ænd ə leɡ ðə ˈʌð.ər deɪ ænd aɪ juːzd ɪt wen maɪ ˈlæp.tɒp rɪˈpeər tɜːnd aʊt tə biː rɪˈdɪk.jə.ləs.li ɪkˈspen.sɪv wɒz ðæt əˈprəʊ.pri.ət/",
+        "vi": "Chính xác. Nhân tiện, hôm nọ tớ học được cụm '____ một tay một chân' (đắt cắt cổ), và tớ dùng nó khi tiền sửa laptop hóa ra đắt một cách vô lý. Dùng vậy có hợp không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "cost", "explanationVi": "Thành ngữ 'to cost an arm and a leg' = đắt cắt cổ. Động từ cố định là 'cost' (chia cost/cost/cost). Cả cụm là idiom, không dịch nghĩa đen 'tay và chân'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Spot on, that's a perfect context! Just bear in mind it's fairly ____, so I wouldn't use it in a formal report — you'd say something like 'exorbitant' or 'prohibitively expensive' instead.",
+        "ipa": "/spɒt ɒn ðæts ə ˈpɜː.fɪkt ˈkɒn.tekst dʒʌst beər ɪn maɪnd ɪts ˈfeə.li ... səʊ aɪ ˈwʊd.ənt juːz ɪt ɪn ə ˈfɔː.məl rɪˈpɔːt juːd seɪ ˈsʌm.θɪŋ laɪk ɪɡˈzɔː.bɪ.tənt ɔːr prəˈhɪb.ɪ.tɪv.li ɪkˈspen.sɪv ɪnˈsted/",
+        "vi": "Chuẩn luôn, ngữ cảnh hoàn hảo! Chỉ cần nhớ là nó khá ____ (thông tục), nên tớ sẽ không dùng trong báo cáo trang trọng — thay vào đó cậu sẽ nói kiểu 'exorbitant' hoặc 'prohibitively expensive'.",
+        "blanks": [
+          { "type": "knowledge", "answer": "colloquial", "explanationVi": "Tính từ 'colloquial' = thuộc khẩu ngữ, thông tục. Đây chính là điểm cốt lõi: idiom có register riêng. Xem mẫu câu 'that idiom is a bit too colloquial for…'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That makes sense. ____ to say, I really don't want to sound too casual in front of clients, so I suppose I should play it by ear and read the room first.",
+        "ipa": "/ðæt meɪks sens ... tə seɪ aɪ ˈrɪə.li dəʊnt wɒnt tə saʊnd tuː ˈkæʒ.u.əl ɪn frʌnt ɒv ˈklaɪ.ənts səʊ aɪ səˈpəʊz aɪ ʃʊd pleɪ ɪt baɪ ɪər ænd riːd ðə ruːm fɜːst/",
+        "vi": "Hợp lý đấy. Khỏi phải nói, tớ thực sự không muốn nghe quá xuề xòa trước mặt khách hàng, nên chắc tớ nên tùy cơ ứng biến và 'đọc' bầu không khí trước đã.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Needless", "explanationVi": "Cụm 'Needless to say' = khỏi phải nói, đương nhiên là. Dẫn vào điều hiển nhiên. Xem mục Trạng từ & cụm làm mượt câu." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's a smart approach. As ____ rule of thumb, when you're unsure of the register, stick to plainer language; you can always add colour with idioms once you feel confident.",
+        "ipa": "/ðæts ə smɑːt əˈprəʊtʃ əz ... ruːl ɒv θʌm wen jɔːr ʌnˈʃɔːr ɒv ðə ˈredʒ.ɪs.tər stɪk tə ˈpleɪ.nər ˈlæŋ.ɡwɪdʒ juː kæn ˈɔːl.weɪz æd ˈkʌl.ər wɪð ˈɪd.i.əmz wʌns juː fiːl ˈkɒn.fɪ.dənt/",
+        "vi": "Cách tiếp cận thông minh đấy. Theo ____ nguyên tắc chung, khi cậu chưa chắc về register thì cứ dùng ngôn ngữ giản dị hơn; lúc nào tự tin rồi cậu luôn có thể thêm màu sắc bằng thành ngữ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "a", "explanationVi": "Mạo từ không xác định 'a' trong cụm cố định 'as a rule of thumb'. Người Việt hay quên mạo từ — đây là cụm bắt buộc có 'a'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Brilliant advice. From now on, I'll definitely pick up new idioms ____ I come across them in real conversations, rather than cramming them from a list the night before a test.",
+        "ipa": "/ˈbrɪl.jənt ədˈvaɪs frɒm naʊ ɒn aɪl ˈdef.ɪn.ət.li pɪk ʌp njuː ˈɪd.i.əmz ... aɪ kʌm əˈkrɒs ðəm ɪn rɪəl ˌkɒn.vəˈseɪ.ʃənz ˈrɑː.ðər ðæn ˈkræm.ɪŋ ðəm frɒm ə lɪst ðə naɪt bɪˈfɔːr ə test/",
+        "vi": "Lời khuyên tuyệt vời. Từ giờ trở đi, tớ chắc chắn sẽ nhặt nhạnh thành ngữ mới ____ tớ bắt gặp chúng trong hội thoại thực tế, thay vì nhồi nhét từ một danh sách vào đêm trước kỳ thi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "as", "explanationVi": "Liên từ 'as' = khi/trong lúc (vừa làm vừa xảy ra). Ở đây 'as I come across them' nghĩa 'mỗi khi/ngay khi tớ bắt gặp chúng'. Có thể thay 'whenever' với nghĩa tương tự." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's the spirit! Tell you what — next week let's grab a coffee and you can teach me a few Vietnamese idioms, since I'd love to know how ____ would translate them into something natural.",
+        "ipa": "/ðæts ðə ˈspɪr.ɪt tel juː wɒt nekst wiːk lets ɡræb ə ˈkɒf.i ænd juː kæn tiːtʃ miː ə fjuː ˌviː.et.nəˈmiːz ˈɪd.i.əmz sɪns aɪd lʌv tə nəʊ haʊ ... wʊd trænzˈleɪt ðəm ˈɪn.tə ˈsʌm.θɪŋ ˈnætʃ.rəl/",
+        "vi": "Đúng tinh thần đó! Thế này nhé — tuần sau mình đi cà phê đi, cậu dạy tớ vài thành ngữ tiếng Việt, vì tớ rất muốn biết ____ sẽ dịch chúng sang tiếng Anh sao cho tự nhiên.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên hoặc đại từ chỉ chính bạn/người học. Ví dụ: 'you', hoặc tên của bạn như 'Mai'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Idiom luôn có 'register' riêng: 'a piece of cake' hay 'cost an arm and a leg' nghe thân mật, hợp bạn bè/đồng nghiệp thân; trong báo cáo hay email trang trọng nên chọn từ trung tính như 'straightforward', 'exorbitant'.",
+    "Người bản xứ dùng idiom rất chừng mực — nhồi quá nhiều thành ngữ trong một câu nghe gượng và 'cố quá'. Một idiom đặt đúng chỗ ấn tượng hơn năm idiom dồn dập.",
+    "Nhiều idiom có biến thể vùng miền: Anh-Anh hay nói 'spot on', Anh-Mỹ thiên về 'you nailed it'. Nghe quen tai vùng nào thì dùng nhất quán theo vùng đó.",
+    "Khi không chắc người nghe có hiểu idiom không (vd nói với người nước ngoài khác), có thể giải nghĩa nhẹ bằng 'which means…' hoặc dẫn 'as the saying goes' để tránh hiểu lầm."
+  ],
+
+  "commonMistakes": [
+    "Dịch idiom theo nghĩa đen word-by-word: 'cost an arm and a leg' KHÔNG phải nói về tay chân; hiểu sai gốc sẽ dùng sai ngữ cảnh.",
+    "Sai giới từ/từ cố định trong idiom: phải là 'go OVER one's head', 'hit the nail on the HEAD' — đổi từ là hỏng cả thành ngữ.",
+    "Dùng idiom thân mật trong ngữ cảnh trang trọng (phỏng vấn, báo cáo) khiến nghe thiếu chuyên nghiệp — cần cân nhắc register.",
+    "Quên mạo từ trong cụm cố định: 'as A rule of thumb', 'a piece of cake' — người Việt hay rơi rụng mạo từ 'a'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện dùng thành ngữ trong hội thoại tự nhiên.",
+    "prompt": "Hãy đóng vai một người bản xứ nói tiếng Anh ở trình độ C1, trò chuyện với tôi về một chủ đề đời thường (du lịch, công việc, phim ảnh). Trong cuộc trò chuyện, hãy chủ động dùng các thành ngữ thông dụng và mời tôi đáp lại cũng bằng thành ngữ. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên, (2) sửa lỗi ngữ pháp và lỗi dùng idiom (sai từ cố định, sai giới từ, sai register) rồi giải thích bằng tiếng Việt, (3) gợi ý một idiom hay hơn hoặc tự nhiên hơn cho ngữ cảnh đó kèm mức trang trọng (thân mật/trung tính/trang trọng). Thỉnh thoảng cố tình dùng một idiom lạ để kiểm tra xem tôi có hiểu và hỏi lại không. Cuối buổi, hãy liệt kê 5 idiom tôi đã dùng đúng và 3 idiom tôi nên luyện thêm. Bắt đầu bằng một câu hỏi mở nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy yêu cầu tôi giải thích nghĩa bóng của mỗi idiom tôi dùng để chắc chắn tôi hiểu, chứ không học vẹt.'",
+      "Thêm: 'Hãy chuyển sang ngữ cảnh trang trọng (cuộc họp với khách hàng) để tôi tập đổi register và tránh idiom quá thông tục.'",
+      "Thêm: 'Hãy đố tôi đoán nghĩa 3 idiom hiếm gặp dựa vào ngữ cảnh trước khi cho đáp án.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi dùng được ít nhất 3 thành ngữ đúng ngữ cảnh mà không dịch word-by-word.",
+    "Tôi nhận biết được idiom nào quá thông tục và biết chọn từ trang trọng thay thế khi cần.",
+    "Tôi giới thiệu/giải nghĩa được một idiom cho người khác bằng mẫu 'which means…' hoặc 'as the saying goes…'."
+  ]
+}

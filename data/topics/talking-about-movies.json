@@ -1,0 +1,329 @@
+{
+  "id": "talking-about-movies",
+  "category": "friends",
+  "title": "Bàn về phim ảnh",
+  "titleEn": "Talking About Movies",
+  "level": "B1",
+  "functions": ["opinions", "suggesting", "agreeing", "describing", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Nói được thể loại phim mình thích và giải thích lý do bằng câu có 'because' / 'such as'",
+    "Bày tỏ ý kiến về một bộ phim (hay, dở, đáng xem) một cách tự nhiên",
+    "Đồng ý hoặc không đồng ý nhẹ nhàng với ý kiến của bạn bè",
+    "Gợi ý đi xem phim hoặc đề xuất một phim để cùng xem"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "plot",
+      "ipa": "/plɒt/",
+      "vi": "cốt truyện (danh từ)",
+      "register": "neutral",
+      "example": "The plot was a bit confusing at the beginning, but it made sense later.",
+      "exampleVi": "Cốt truyện hơi khó hiểu lúc đầu, nhưng về sau thì rõ ràng.",
+      "note": "Danh từ. Là 'chuyện gì xảy ra' trong phim. Đừng nhầm với 'plan' (kế hoạch).",
+      "synonyms": [
+        { "term": "storyline", "ipa": "/ˈstɔː.ri.laɪn/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn vào 'mạch truyện' diễn biến từ đầu đến cuối. Dùng thay 'plot' rất tự nhiên." },
+        { "term": "story", "ipa": "/ˈstɔː.ri/", "register": "casual", "nuanceVi": "Đời thường, rộng hơn 'plot'. 'Story' là cả câu chuyện; 'plot' nhấn vào chuỗi sự kiện được sắp đặt." }
+      ]
+    },
+    {
+      "term": "genre",
+      "ipa": "/ˈʒɒn.rə/",
+      "vi": "thể loại (phim, sách, nhạc) (danh từ)",
+      "register": "neutral",
+      "example": "Comedy is my favorite genre because it always cheers me up.",
+      "exampleVi": "Hài là thể loại tôi thích nhất vì nó luôn làm tôi vui lên.",
+      "note": "Danh từ gốc tiếng Pháp, phát âm bẫy: /ˈʒɒn.rə/ (âm đầu giống 's' trong 'pleasure'), KHÔNG đọc là 'gen-re'.",
+      "synonyms": [
+        { "term": "type", "ipa": "/taɪp/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng: 'What type of movie is it?'. Rộng hơn và bớt trang trọng hơn 'genre'." },
+        { "term": "category", "ipa": "/ˈkæt.ə.ɡər.i/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'phân loại, xếp nhóm'. Hơi kỹ thuật hơn, hay thấy trên các nền tảng xem phim." }
+      ]
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "giới thiệu, gợi ý (động từ)",
+      "register": "neutral",
+      "example": "I'd really recommend this film if you enjoy action movies.",
+      "exampleVi": "Tôi rất khuyên bạn xem phim này nếu bạn thích phim hành động.",
+      "note": "Động từ. Chú ý chính tả: hai chữ 'm', một chữ 'c'. Đi với 'recommend something to somebody'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Nhẹ hơn, mang nghĩa 'đưa ra để cân nhắc'. 'recommend' thể hiện bạn thực sự tin nó tốt và nên xem." }
+      ]
+    },
+    {
+      "term": "gripping",
+      "ipa": "/ˈɡrɪp.ɪŋ/",
+      "vi": "hấp dẫn, cuốn hút (đến mức không rời mắt) (tính từ)",
+      "register": "neutral",
+      "example": "The film was so gripping that I couldn't look away for a second.",
+      "exampleVi": "Phim cuốn đến mức tôi không thể rời mắt một giây nào.",
+      "note": "Tính từ. Từ 'grip' = nắm chặt, nên 'gripping' = giữ chặt sự chú ý của bạn. Khen phim rất tự nhiên.",
+      "synonyms": [
+        { "term": "thrilling", "ipa": "/ˈθrɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào cảm giác hồi hộp, kịch tính, tim đập nhanh. Hợp với phim hành động/kinh dị." },
+        { "term": "captivating", "ipa": "/ˈkæp.tɪ.veɪ.tɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ hơn, nghĩa 'mê hoặc'. Hợp khi bình phim một cách tinh tế." },
+        { "term": "engaging", "ipa": "/ɪnˈɡeɪ.dʒɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'gripping', nghĩa 'thu hút, dễ theo dõi'. Không nhất thiết hồi hộp, chỉ là cuốn vừa phải." }
+      ]
+    },
+    {
+      "term": "boring",
+      "ipa": "/ˈbɔː.rɪŋ/",
+      "vi": "chán, tẻ nhạt (tính từ)",
+      "register": "neutral",
+      "example": "Honestly, I found the middle part quite boring.",
+      "exampleVi": "Thành thật mà nói, tôi thấy đoạn giữa khá chán.",
+      "note": "Tính từ mô tả vật/sự việc gây chán. 'I'm bored' (tôi thấy chán) khác 'I'm boring' (tôi là người nhạt nhẽo) — đừng nhầm!",
+      "synonyms": [
+        { "term": "dull", "ipa": "/dʌl/", "register": "neutral", "nuanceVi": "Nhấn vào 'thiếu sức sống, không có gì thú vị'. Hơi nhẹ và lịch sự hơn 'boring' một chút." },
+        { "term": "tedious", "ipa": "/ˈtiː.di.əs/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'dài dòng, lê thê đến mức mệt mỏi'. Hay dùng khi phim quá dài." }
+      ]
+    },
+    {
+      "term": "performance",
+      "ipa": "/pəˈfɔː.məns/",
+      "vi": "màn diễn xuất (của diễn viên) (danh từ)",
+      "register": "neutral",
+      "example": "Her performance in the final scene was absolutely brilliant.",
+      "exampleVi": "Màn diễn của cô ấy ở cảnh cuối thật sự xuất sắc.",
+      "note": "Danh từ. Khi nói về diễn xuất, dùng 'performance' (không nói 'acting performance' cũng được). 'a strong performance' = diễn rất tốt."
+    },
+    {
+      "term": "to release",
+      "ipa": "/rɪˈliːs/",
+      "vi": "phát hành, công chiếu (động từ)",
+      "register": "neutral",
+      "example": "The movie was released last week and it's already a huge hit.",
+      "exampleVi": "Phim ra mắt tuần trước và đã trở thành hiện tượng.",
+      "note": "Động từ, thường ở thể bị động: 'the film was released'. Danh từ: 'a new release' (phim mới ra)."
+    },
+    {
+      "term": "predictable",
+      "ipa": "/prɪˈdɪk.tə.bəl/",
+      "vi": "dễ đoán (kết cục) (tính từ)",
+      "register": "neutral",
+      "example": "Although the acting was good, the ending was too predictable.",
+      "exampleVi": "Dù diễn xuất tốt, nhưng cái kết quá dễ đoán.",
+      "note": "Tính từ, thường mang nghĩa CHÊ với phim (đoán được trước nên kém hấp dẫn). Trái nghĩa: 'unpredictable'."
+    },
+    {
+      "term": "subtitles",
+      "ipa": "/ˈsʌb.taɪ.təlz/",
+      "vi": "phụ đề (danh từ)",
+      "register": "neutral",
+      "example": "I usually watch foreign films with English subtitles.",
+      "exampleVi": "Tôi thường xem phim nước ngoài kèm phụ đề tiếng Anh.",
+      "note": "Danh từ, hầu như luôn dùng số nhiều. Khác 'dubbing' (lồng tiếng). Viết tắt thường gặp: 'subs'."
+    },
+    {
+      "term": "absolutely",
+      "ipa": "/ˈæb.sə.luːt.li/",
+      "vi": "hoàn toàn, cực kỳ (trạng từ)",
+      "register": "neutral",
+      "example": "The special effects were absolutely stunning.",
+      "exampleVi": "Hiệu ứng đặc biệt thật sự choáng ngợp.",
+      "note": "Trạng từ nhấn mạnh, đi trước tính từ mạnh (stunning, amazing, terrible). 'Absolutely!' đứng một mình = 'Hoàn toàn đồng ý!'.",
+      "synonyms": [
+        { "term": "totally", "ipa": "/ˈtəʊ.təl.i/", "register": "casual", "nuanceVi": "Đời thường hơn, hợp khi nói chuyện với bạn bè: 'I totally agree.'" },
+        { "term": "completely", "ipa": "/kəmˈpliːt.li/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'một cách trọn vẹn'. An toàn trong mọi ngữ cảnh." },
+        { "term": "really", "ipa": "/ˈrɪə.li/", "register": "casual", "nuanceVi": "Nhẹ nhất, phổ biến nhất trong hội thoại. Nhấn mạnh ít hơn 'absolutely'." }
+      ]
+    },
+    {
+      "term": "overrated",
+      "ipa": "/ˌəʊ.vəˈreɪ.tɪd/",
+      "vi": "được đánh giá quá cao (so với thực tế) (tính từ)",
+      "register": "neutral",
+      "example": "A lot of people loved it, but I think it's a bit overrated.",
+      "exampleVi": "Nhiều người mê nó, nhưng tôi nghĩ nó hơi bị đánh giá quá cao.",
+      "note": "Tính từ rất hay dùng khi bàn phim. Trái nghĩa: 'underrated' (bị đánh giá thấp hơn xứng đáng)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm really into [thể loại / V-ing], especially [ví dụ].",
+      "use": "Nói về sở thích xem phim của mình.",
+      "register": "casual",
+      "examples": [
+        "I'm really into sci-fi movies, especially ones with a clever plot.",
+        "I'm really into watching documentaries, especially about nature."
+      ],
+      "explanationVi": "'be into something' = rất thích, mê cái gì đó (đời thường, tự nhiên hơn 'like'). 'especially' dùng để nêu điểm cụ thể mình thích nhất."
+    },
+    {
+      "pattern": "In my opinion, [mệnh đề], because [lý do].",
+      "use": "Bày tỏ ý kiến cá nhân kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, the first film was better, because the story felt more original."
+      ],
+      "explanationVi": "'In my opinion' mở đầu một ý kiến chủ quan, nghe khiêm tốn và lịch sự. 'because' nối lý do — ở B1, luôn nên giải thích vì sao thay vì chỉ phán một câu.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Đưa ý kiến cá nhân theo cách thân mật hơn.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, it's one of the best films of the year."
+      ],
+      "explanationVi": "'If you ask me' = 'theo tôi thì' — cách nói thân mật, hợp khi tán gẫu với bạn bè. Tương đương 'In my opinion' nhưng casual hơn.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I couldn't agree more.",
+      "use": "Đồng ý mạnh mẽ với ý kiến của người kia.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't agree more — the soundtrack made the whole film."
+      ],
+      "explanationVi": "Nghĩa đen là 'tôi không thể đồng ý hơn được nữa', tức là ĐỒNG Ý HOÀN TOÀN. Đừng dịch sát thành 'không đồng ý' — đây là lời khen/tán thành rất mạnh.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see what you mean, but [ý kiến khác].",
+      "use": "Không đồng ý một cách nhẹ nhàng, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I see what you mean, but I actually found the ending a little disappointing."
+      ],
+      "explanationVi": "Công nhận ý người kia trước ('I see what you mean') rồi mới nêu ý khác bằng 'but'. Cách phản đối nhã nhặn, giữ không khí vui vẻ — rất quan trọng khi bàn luận.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "Why don't we [V] this weekend?",
+      "use": "Gợi ý cùng làm gì đó (đi xem phim).",
+      "register": "casual",
+      "examples": [
+        "Why don't we watch the new Marvel film this weekend?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách gợi ý thân thiện, rủ rê (không phải câu hỏi 'tại sao'). Tương đương 'Let's...' nhưng mềm mại hơn vì để ngỏ cho người kia đáp.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "How about [V-ing / danh từ]?",
+      "use": "Đề xuất một lựa chọn cụ thể.",
+      "register": "casual",
+      "examples": [
+        "How about going to the 7 p.m. show instead?",
+        "How about a comedy for a change?"
+      ],
+      "explanationVi": "'How about + V-ing/danh từ' để ném ra một đề xuất nhanh gọn. Nhớ dùng V-ing sau 'How about' (How about WATCHING), không phải động từ nguyên thể.",
+      "altOf": "making-suggestion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi sắp đưa ra một nhận xét thẳng thắn, đôi khi hơi chê.", "example": "Honestly, I expected a lot more from the sequel." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi nói điều hơi trái với người kia mà không muốn cộc lốc.", "example": "Actually, I thought the book was much better than the film." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khi khẳng định mạnh hoặc đồng ý nhiệt tình.", "example": "You should definitely watch it — you'll love it." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn cân bằng lại sau một lời chê, nêu mặt tốt.", "example": "To be fair, the visuals were stunning even if the plot was weak." },
+    { "term": "kind of", "ipa": "/ˈkaɪnd əv/", "vi": "kiểu kiểu, hơi hơi", "when": "Khi muốn nói nhận xét nhẹ đi, không quá tuyệt đối.", "example": "It was kind of slow in the middle, but the ending saved it." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Mai và Tom, đang ngồi cà phê và tán gẫu về một bộ phim mới ra rạp, rồi rủ nhau đi xem cuối tuần.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "Hey Mai, did you watch that new sci-fi movie everyone keeps talking about? Apparently it was released last week and it's already a huge hit.",
+        "ipa": "/heɪ maɪ dɪd juː wɒtʃ ðæt njuː ˈsaɪ.faɪ ˈmuː.vi ˈev.ri.wʌn kiːps ˈtɔː.kɪŋ əˈbaʊt əˈper.ənt.li ɪt wɒz rɪˈliːst lɑːst wiːk ænd ɪts ɔːlˈred.i ə hjuːdʒ hɪt/",
+        "vi": "Này Mai, cậu xem phim khoa học viễn tưởng mới mà ai cũng nhắc tới chưa? Nghe nói nó ra rạp tuần trước và đã thành hiện tượng rồi đấy."
+      },
+      {
+        "speaker": "Mai",
+        "text": "Yes, I saw it on Saturday! Honestly, I'm really ____ sci-fi, especially films with a clever plot, so I had high hopes.",
+        "ipa": "/jes aɪ sɔː ɪt ɒn ˈsæt.ə.deɪ ˈɒn.ɪst.li aɪm ˈrɪə.li ˈɪn.tuː ˈsaɪ.faɪ ɪˈspeʃ.əl.i fɪlmz wɪð ə ˈklev.ər plɒt səʊ aɪ hæd haɪ həʊps/",
+        "vi": "Có, tớ xem hôm thứ Bảy! Thành thật mà nói, tớ rất ____ phim khoa học viễn tưởng, đặc biệt là phim có cốt truyện thông minh, nên tớ kỳ vọng cao lắm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "into", "explanationVi": "'be into something' = rất thích, mê cái gì đó. Sau 'really' và trước danh từ 'sci-fi' cần giới từ 'into'. Xem mẫu câu 'I'm really into...'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Same here. So what did you think of it? In my opinion the special effects were absolutely stunning, although the ending felt a bit ____ to me.",
+        "ipa": "/seɪm hɪər səʊ wɒt dɪd juː θɪŋk ɒv ɪt ɪn maɪ əˈpɪn.jən ðə ˈspeʃ.əl ɪˈfekts wɜː ˈæb.sə.luːt.li ˈstʌn.ɪŋ ɔːlˈðəʊ ðə ˈen.dɪŋ felt ə bɪt tə miː/",
+        "vi": "Tớ cũng vậy. Thế cậu thấy phim sao? Theo tớ thì hiệu ứng đặc biệt thật sự choáng ngợp, mặc dù cái kết với tớ thì hơi ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "predictable", "explanationVi": "'predictable' (dễ đoán) là từ rất hay dùng để chê cái kết của phim. 'although' ở đây nối ý nhượng bộ: hiệu ứng đẹp nhưng kết lại đoán được trước." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I see what you mean, but I actually loved the ending! Not only did it surprise me, but it also tied the whole storyline together. The lead actress's ____ in the final scene was brilliant.",
+        "ipa": "/aɪ siː wɒt juː miːn bʌt aɪ ˈæk.tʃu.ə.li lʌvd ðə ˈen.dɪŋ nɒt ˈəʊn.li dɪd ɪt səˈpraɪz miː bʌt ɪt ˈɔːl.səʊ taɪd ðə həʊl ˈstɔː.ri.laɪn təˈɡeð.ər ðə liːd ˈæk.trəs ɪz ɪn ðə ˈfaɪ.nəl siːn wɒz ˈbrɪl.jənt/",
+        "vi": "Tớ hiểu ý cậu, nhưng thật ra tớ lại mê cái kết! Nó không những làm tớ bất ngờ, mà còn gắn kết cả mạch truyện lại. Màn ____ của nữ diễn viên chính ở cảnh cuối thật xuất sắc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "performance", "explanationVi": "'performance' = màn diễn xuất của diễn viên. Đây là danh từ chuẩn để khen diễn xuất. Lưu ý cấu trúc đảo ngữ 'Not only did it..., but it also...' trong câu." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's a fair point. To be fair, her acting was the best part for me too. A lot of critics called the film a masterpiece, though — do you think it deserves all that praise, or is it a bit ____?",
+        "ipa": "/ðæts ə feər pɔɪnt tə biː feər hɜːr ˈæk.tɪŋ wɒz ðə best pɑːt fɔː miː tuː ə lɒt ɒv ˈkrɪt.ɪks kɔːld ðə fɪlm ə ˈmɑːs.tə.piːs ðəʊ duː juː θɪŋk ɪt dɪˈzɜːvz ɔːl ðæt preɪz ɔːr ɪz ɪt ə bɪt/",
+        "vi": "Cậu nói có lý. Nói cho công bằng thì với tớ diễn xuất của cô ấy cũng là phần hay nhất. Mà nhiều nhà phê bình gọi phim là kiệt tác đấy — cậu nghĩ nó xứng với mọi lời khen đó không, hay là hơi ____?",
+        "blanks": [
+          { "type": "knowledge", "answer": "overrated", "explanationVi": "'overrated' = được đánh giá quá cao so với thực tế. Rất hợp ngữ cảnh khi nhiều người khen mà mình thấy chưa xứng. 'though' cuối câu nghĩa là 'tuy nhiên'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I couldn't agree more that it's a little overrated. It was gripping, but to be honest, parts of the middle were quite ____. Anyway, ____ we watch something together this weekend?",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː mɔː ðæt ɪts ə ˈlɪt.əl ˌəʊ.vəˈreɪ.tɪd ɪt wɒz ˈɡrɪp.ɪŋ bʌt tə biː ˈɒn.ɪst pɑːts ɒv ðə ˈmɪd.əl wɜː kwaɪt ˈen.i.weɪ duː wiː wɒtʃ ˈsʌm.θɪŋ təˈɡeð.ər ðɪs ˈwiːk.end/",
+        "vi": "Tớ hoàn toàn đồng ý là nó hơi bị đánh giá cao quá. Phim cuốn, nhưng thành thật thì vài đoạn ở giữa khá ____. Mà thôi, ____ cuối tuần này bọn mình xem chung gì đó nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "boring", "explanationVi": "'boring' = chán, tẻ nhạt (mô tả phim/đoạn phim gây chán). Nhớ: phim 'boring', còn người xem thì 'bored'." },
+          { "type": "knowledge", "answer": "why don't", "explanationVi": "'Why don't we + V...?' là cách rủ rê, gợi ý thân thiện. Xem mẫu câu 'Why don't we...?' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Sounds great! How about a comedy for a change? I'd really ____ the new one with Ryan Reynolds — my brother, who hardly ever laughs, said it was hilarious.",
+        "ipa": "/saʊndz ɡreɪt haʊ əˈbaʊt ə ˈkɒm.ə.di fɔːr ə tʃeɪndʒ aɪd ˈrɪə.li ðə njuː wʌn wɪð ˈraɪ.ən ˈren.əldz maɪ ˈbrʌð.ər huː ˈhɑːd.li ˈev.ər lɑːfs sed ɪt wɒz hɪˈler.i.əs/",
+        "vi": "Nghe hay đấy! Hay đổi gió bằng một phim hài nhỉ? Tớ rất ____ phim mới của Ryan Reynolds — ông anh tớ, người mà hầu như chẳng bao giờ cười, bảo nó cười muốn xỉu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "recommend", "explanationVi": "'recommend' = giới thiệu, khuyên nên xem. Sau 'I'd really' cần động từ nguyên thể. Chú ý mệnh đề quan hệ 'who hardly ever laughs' bổ nghĩa cho 'my brother'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Perfect, let's do that! Let's book tickets for ____ so we don't miss it. I'll bring the snacks, and we can watch it with English subtitles in order to catch all the jokes.",
+        "ipa": "/ˈpɜː.fɪkt lets duː ðæt lets bʊk ˈtɪk.ɪts fɔː səʊ wiː dəʊnt mɪs ɪt aɪl brɪŋ ðə snæks ænd wiː kæn wɒtʃ ɪt wɪð ˈɪŋ.ɡlɪʃ ˈsʌb.taɪ.təlz ɪn ˈɔː.də tə kætʃ ɔːl ðə dʒəʊks/",
+        "vi": "Tuyệt, làm vậy đi! Đặt vé cho ____ để khỏi lỡ nhé. Tớ sẽ mang đồ ăn vặt, và mình xem kèm phụ đề tiếng Anh để bắt được hết mấy câu đùa.",
+        "blanks": [
+          { "type": "personal", "hint": "Buổi chiếu bạn muốn đi. Ví dụ: 'Saturday evening' hoặc 'the 7 p.m. show'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi bàn phim với bạn bè ở phương Tây, việc bất đồng ý kiến là chuyện bình thường và vui — nhưng nên dùng 'I see what you mean, but...' để giữ không khí nhẹ nhàng thay vì phản bác thẳng.",
+    "Tránh tiết lộ nội dung quan trọng (gọi là 'spoilers'). Người ta thường hỏi 'No spoilers, please!' trước khi nghe bạn kể phim chưa xem.",
+    "Ở nhiều nước, phim được phân loại độ tuổi (PG-13, R...). Khi rủ đi xem, đôi khi cần để ý phim có hợp với cả nhóm không.",
+    "Người bản xứ rất hay dùng 'overrated' / 'underrated' khi tán gẫu về phim, nhạc — nắm hai từ này giúp bạn nghe rất tự nhiên."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'I'm boring' (tôi là người nhạt nhẽo) với 'I'm bored' (tôi đang thấy chán). Phim thì 'boring', người xem thì 'bored'.",
+    "Quên giới từ trong 'be into': phải nói 'I'm into action films', không phải 'I'm into to action films' hay bỏ 'into'.",
+    "Sau 'How about' phải dùng V-ing: 'How about WATCHING a comedy?', không phải 'How about watch...'.",
+    "Hiểu sai 'I couldn't agree more' thành 'không đồng ý'. Thực ra đây là ĐỒNG Ý HOÀN TOÀN."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói chuyện về phim ảnh với một người bạn ảo.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang tán gẫu với tôi về phim ảnh. Hãy bắt đầu bằng cách hỏi gần đây tôi xem phim gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, nêu ý kiến của bạn về phim đó để tạo tranh luận nhẹ nhàng, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'although', 'such as', 'in my opinion', 'I couldn't agree more'. Thỉnh thoảng hãy không đồng ý với tôi để tôi tập bảo vệ quan điểm. Cuối buổi, hãy rủ tôi cùng chọn một phim để xem. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng nhiều tiếng lóng đời thường (như awesome, a must-watch) như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và 3 từ mới tôi nên học.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được thể loại phim mình thích và giải thích lý do bằng câu có 'because' hoặc 'such as'.",
+    "Tôi bày tỏ và bảo vệ được ý kiến về một phim, dùng 'In my opinion' và 'I see what you mean, but...'.",
+    "Tôi rủ được bạn đi xem phim bằng 'Why don't we...?' hoặc 'How about...?'."
+  ]
+}

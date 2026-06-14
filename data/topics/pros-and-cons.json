@@ -1,0 +1,351 @@
+{
+  "id": "pros-and-cons",
+  "category": "opinions",
+  "title": "Lợi & hại",
+  "titleEn": "Pros and Cons",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Cân nhắc và trình bày cả mặt lợi lẫn mặt hại của một vấn đề bằng câu dài, mạch lạc",
+    "Bày tỏ quan điểm và bảo vệ lập luận một cách thuyết phục, có ví dụ minh họa",
+    "Đồng ý một phần rồi nêu ý kiến trái chiều một cách lịch sự (đồng ý có điều kiện)",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, mệnh đề quan hệ which) tự nhiên khi tranh luận",
+    "Đưa ra kết luận cân bằng sau khi đã so sánh lợi và hại"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "advantage",
+      "ipa": "/ədˈvɑːn.tɪdʒ/",
+      "vi": "lợi thế, ưu điểm (danh từ)",
+      "register": "neutral",
+      "example": "One major advantage of working from home is the flexibility it offers.",
+      "exampleVi": "Một ưu điểm lớn của làm việc tại nhà là sự linh hoạt mà nó mang lại.",
+      "note": "Danh từ. Đi với giới từ 'of': 'the advantage of something'. Trái nghĩa: disadvantage.",
+      "synonyms": [
+        { "term": "benefit", "ipa": "/ˈben.ɪ.fɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'lợi ích thiết thực mang lại'. Gần nghĩa nhưng thiên về cái bạn nhận được, không chỉ là thế hơn người khác." },
+        { "term": "upside", "ipa": "/ˈʌp.saɪd/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mặt tích cực'. Hay đi cặp với 'downside': 'The upside is…, but the downside is…'." },
+        { "term": "perk", "ipa": "/pɜːk/", "register": "casual", "nuanceVi": "Nghĩa 'đặc lợi/quyền lợi nhỏ kèm theo' (thường trong công việc). Vd 'free lunch is a nice perk'." }
+      ]
+    },
+    {
+      "term": "drawback",
+      "ipa": "/ˈdrɔː.bæk/",
+      "vi": "nhược điểm, mặt hạn chế (danh từ)",
+      "register": "neutral",
+      "example": "The main drawback of this plan is that it's quite expensive.",
+      "exampleVi": "Nhược điểm chính của kế hoạch này là khá tốn kém.",
+      "note": "Danh từ. Chỉ điểm bất lợi cụ thể của một thứ vốn nhìn chung tốt. Đi với 'of'.",
+      "synonyms": [
+        { "term": "disadvantage", "ipa": "/ˌdɪs.ədˈvɑːn.tɪdʒ/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến nhất, đối lập trực tiếp với 'advantage'. An toàn để dùng." },
+        { "term": "downside", "ipa": "/ˈdaʊn.saɪd/", "register": "casual", "nuanceVi": "Đời thường, 'mặt trái'. Đi cặp tự nhiên với 'upside'." },
+        { "term": "shortcoming", "ipa": "/ˈʃɔːtˌkʌm.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thiếu sót/khuyết điểm' của một thứ đáng lẽ phải tốt hơn. Hay dùng cho con người hoặc hệ thống." }
+      ]
+    },
+    {
+      "term": "trade-off",
+      "ipa": "/ˈtreɪd.ɒf/",
+      "vi": "sự đánh đổi (danh từ)",
+      "register": "neutral",
+      "example": "There's always a trade-off between speed and quality.",
+      "exampleVi": "Luôn có một sự đánh đổi giữa tốc độ và chất lượng.",
+      "note": "Danh từ. Chỉ việc được cái này thì mất cái kia. Đi với 'between A and B'. Rất 'ăn điểm' khi cân nhắc lợi-hại.",
+      "synonyms": [
+        { "term": "compromise", "ipa": "/ˈkɒm.prə.maɪz/", "register": "neutral", "nuanceVi": "Nhấn 'giải pháp dung hòa hai bên cùng nhượng bộ', không chỉ là mất-được như trade-off." }
+      ]
+    },
+    {
+      "term": "to outweigh",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "vi": "quan trọng hơn, lấn át (động từ)",
+      "register": "formal",
+      "example": "In my view, the benefits clearly outweigh the risks.",
+      "exampleVi": "Theo tôi, lợi ích rõ ràng lớn hơn rủi ro.",
+      "note": "Động từ. Mẫu kinh điển để kết luận: 'the pros outweigh the cons'. Nghĩa đen là 'nặng cân hơn'.",
+      "synonyms": [
+        { "term": "to overshadow", "ipa": "/ˌəʊ.vəˈʃæd.əʊ/", "register": "formal", "nuanceVi": "Nhấn 'làm lu mờ, che khuất', thiên về cảm nhận hơn là cân đo. Vd 'the risks overshadow the gains'." }
+      ]
+    },
+    {
+      "term": "to weigh up",
+      "ipa": "/weɪ ʌp/",
+      "vi": "cân nhắc, đắn đo (động từ)",
+      "register": "neutral",
+      "example": "Before deciding, you should weigh up the pros and cons carefully.",
+      "exampleVi": "Trước khi quyết định, bạn nên cân nhắc kỹ lợi và hại.",
+      "note": "Cụm động từ. Đi với 'the pros and cons / the options'. Anh-Mỹ đôi khi dùng 'weigh' không có 'up'.",
+      "synonyms": [
+        { "term": "to consider", "ipa": "/kənˈsɪd.ər/", "register": "neutral", "nuanceVi": "Trung tính, chung chung 'xem xét'. Nhẹ hơn 'weigh up' (vốn nhấn việc so đo hai mặt)." },
+        { "term": "to evaluate", "ipa": "/ɪˈvæl.ju.eɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đánh giá có hệ thống, có tiêu chí'. Hợp văn viết/công việc." }
+      ]
+    },
+    {
+      "term": "beneficial",
+      "ipa": "/ˌben.ɪˈfɪʃ.əl/",
+      "vi": "có lợi, có ích (tính từ)",
+      "register": "formal",
+      "example": "Regular exercise is highly beneficial for both body and mind.",
+      "exampleVi": "Tập thể dục đều đặn rất có lợi cho cả thân thể lẫn tinh thần.",
+      "note": "Tính từ trang trọng. Đi với 'for/to somebody'. Trang trọng hơn 'good for'.",
+      "synonyms": [
+        { "term": "advantageous", "ipa": "/ˌæd.vənˈteɪ.dʒəs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tạo lợi thế'. Hơi sách vở hơn 'beneficial'." },
+        { "term": "worthwhile", "ipa": "/ˌwɜːθˈwaɪl/", "register": "neutral", "nuanceVi": "Nhấn 'đáng công sức/thời gian bỏ ra'. Khác biệt: không nói 'có ích' chung chung mà 'bõ công'." }
+      ]
+    },
+    {
+      "term": "detrimental",
+      "ipa": "/ˌdet.rɪˈmen.təl/",
+      "vi": "có hại, gây tổn hại (tính từ)",
+      "register": "formal",
+      "example": "Too much screen time can be detrimental to children's health.",
+      "exampleVi": "Quá nhiều thời gian dùng màn hình có thể gây hại cho sức khỏe trẻ em.",
+      "note": "Tính từ trang trọng. Đi với 'to somebody/something'. Mạnh và trang trọng hơn 'bad for'.",
+      "synonyms": [
+        { "term": "harmful", "ipa": "/ˈhɑːm.fəl/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính 'gây hại'. Dễ dùng hơn 'detrimental' nhưng kém trang trọng." },
+        { "term": "damaging", "ipa": "/ˈdæm.ɪ.dʒɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'gây thiệt hại/tổn thất cụ thể', thường cho danh tiếng, môi trường, kinh tế." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "tiện lợi (tính từ)",
+      "register": "neutral",
+      "example": "Online shopping is convenient, although it has its downsides.",
+      "exampleVi": "Mua sắm trực tuyến tiện lợi, dù nó có những mặt trái.",
+      "note": "Tính từ. Bẫy phát âm: trọng âm rơi vào âm thứ hai 'ven'. Danh từ là 'convenience'.",
+      "synonyms": [
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện, dễ dùng'. Thân mật hơn 'convenient'." },
+        { "term": "practical", "ipa": "/ˈpræk.tɪ.kəl/", "register": "neutral", "nuanceVi": "Nhấn 'thiết thực, hữu dụng trong thực tế', không hẳn là 'đỡ mất công' như convenient." }
+      ]
+    },
+    {
+      "term": "significantly",
+      "ipa": "/sɪɡˈnɪf.ɪ.kənt.li/",
+      "vi": "một cách đáng kể (trạng từ)",
+      "register": "formal",
+      "example": "Remote work has significantly reduced my commuting time.",
+      "exampleVi": "Làm việc từ xa đã giảm đáng kể thời gian đi lại của tôi.",
+      "note": "Trạng từ trang trọng dùng để nhấn mức độ thay đổi lớn. Hay đi trước động từ chỉ tăng/giảm.",
+      "synonyms": [
+        { "term": "considerably", "ipa": "/kənˈsɪd.ər.ə.bli/", "register": "formal", "nuanceVi": "Gần như đồng nghĩa, nhấn 'khá nhiều'. Trang trọng, dễ thay cho nhau." },
+        { "term": "dramatically", "ipa": "/drəˈmæt.ɪ.kəl.i/", "register": "neutral", "nuanceVi": "Mạnh hơn, nhấn 'một cách đột ngột/gây ấn tượng'. Dùng khi thay đổi rất lớn." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːɡ.ju.ə.bli/",
+      "vi": "có thể lập luận rằng, có lẽ (trạng từ)",
+      "register": "formal",
+      "example": "This is arguably the biggest drawback of the whole approach.",
+      "exampleVi": "Đây có lẽ là nhược điểm lớn nhất của cả cách tiếp cận này.",
+      "note": "Trạng từ. Dùng để đưa ra nhận định mạnh nhưng vẫn để ngỏ tranh luận — rất tự nhiên trong văn nói tranh biện.",
+      "synonyms": [
+        { "term": "possibly", "ipa": "/ˈpɒs.ə.bli/", "register": "neutral", "nuanceVi": "Nhẹ hơn, chỉ 'có thể'. Không hàm ý 'có cơ sở để lập luận' như arguably." }
+      ]
+    },
+    {
+      "term": "to justify",
+      "ipa": "/ˈdʒʌs.tɪ.faɪ/",
+      "vi": "biện minh, chứng minh là hợp lý (động từ)",
+      "register": "neutral",
+      "example": "The long-term savings justify the high initial cost.",
+      "exampleVi": "Khoản tiết kiệm dài hạn biện minh cho chi phí ban đầu cao.",
+      "note": "Động từ. Đi với danh từ hoặc V-ing: 'justify spending more'. Dùng để bảo vệ một lựa chọn tốn kém/rủi ro.",
+      "synonyms": [
+        { "term": "to warrant", "ipa": "/ˈwɒr.ənt/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'đáng để/đủ lý do cho'. Vd 'the results warrant the effort'." }
+      ]
+    },
+    {
+      "term": "balanced",
+      "ipa": "/ˈbæl.ənst/",
+      "vi": "cân bằng, khách quan (tính từ)",
+      "register": "neutral",
+      "example": "I try to take a balanced view rather than only seeing the negatives.",
+      "exampleVi": "Tôi cố nhìn nhận một cách cân bằng thay vì chỉ thấy mặt tiêu cực.",
+      "note": "Tính từ. 'a balanced view/argument' = quan điểm nhìn cả hai mặt — thể hiện tư duy chín chắn khi tranh luận.",
+      "synonyms": [
+        { "term": "objective", "ipa": "/əbˈdʒek.tɪv/", "register": "formal", "nuanceVi": "Nhấn 'khách quan, không thiên vị cảm xúc'. Mạnh hơn 'balanced' (vốn chỉ là cân nhắc cả hai phía)." },
+        { "term": "fair", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Đời thường, nghĩa 'công bằng, không thiên lệch'. Nhẹ và dễ dùng hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "On the one hand, [mệnh đề]; on the other hand, [mệnh đề].",
+      "use": "Trình bày cả hai mặt của một vấn đề một cách cân đối.",
+      "register": "neutral",
+      "examples": [
+        "On the one hand, remote work saves time; on the other hand, it can feel isolating."
+      ],
+      "explanationVi": "Cặp 'On the one hand… on the other hand…' là khung kinh điển để so sánh lợi-hại. Lưu ý: 'on the one hand' (có 'the'), và vế hai luôn là mặt đối lập.",
+      "altOf": "presenting-both-sides"
+    },
+    {
+      "pattern": "While [mệnh đề lợi], it's worth noting that [mệnh đề hại].",
+      "use": "Thừa nhận mặt lợi rồi chỉ ra mặt hại đi kèm.",
+      "register": "formal",
+      "examples": [
+        "While online learning is flexible, it's worth noting that it requires a lot of self-discipline."
+      ],
+      "explanationVi": "'While' mở mệnh đề tương phản (= trong khi/mặc dù). 'it's worth noting that' là cách trang trọng để dẫn vào điểm cần lưu ý. Nghe chín chắn, khách quan.",
+      "altOf": "presenting-both-sides"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], I still believe that [mệnh đề].",
+      "use": "Giữ vững quan điểm dù đã thừa nhận một bất lợi.",
+      "register": "neutral",
+      "examples": [
+        "Despite the high cost, I still believe that investing in good tools pays off."
+      ],
+      "explanationVi": "'Despite' (= mặc dù) PHẢI đi với danh từ hoặc V-ing, KHÔNG đi với mệnh đề có chủ ngữ + động từ (đó là 'although'). Đây là lỗi rất hay gặp.",
+      "altOf": "conceding-point"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề nêu ý trái chiều].",
+      "use": "Đồng ý một phần rồi đưa ý kiến ngược lại một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I think the long-term benefits matter more than the short-term cost."
+      ],
+      "explanationVi": "'I see your point, but…' giúp phản bác mà không gây đối đầu — thừa nhận đối phương có lý trước, rồi mới nêu khác biệt. Rất lịch sự khi tranh luận.",
+      "altOf": "partial-agreement"
+    },
+    {
+      "pattern": "That's true to some extent, although [mệnh đề].",
+      "use": "Đồng ý có điều kiện, giới hạn mức độ đồng tình.",
+      "register": "neutral",
+      "examples": [
+        "That's true to some extent, although it really depends on the situation."
+      ],
+      "explanationVi": "'to some extent' = ở một mức độ nào đó (không đồng ý hoàn toàn). 'although' mở mệnh đề nhượng bộ. Cách nói tinh tế thể hiện bạn suy nghĩ có sắc thái.",
+      "altOf": "partial-agreement"
+    },
+    {
+      "pattern": "Not only does it [V], but it also [V].",
+      "use": "Nhấn mạnh một thứ có nhiều lợi (hoặc nhiều hại) cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does it save money, but it also reduces stress."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ ('does it') lên trước chủ ngữ. Cấu trúc nâng cao gây ấn tượng, nhưng phải đảo đúng kẻo sai ngữ pháp.",
+      "altOf": "emphasizing"
+    },
+    {
+      "pattern": "All things considered, I'd say the pros outweigh the cons.",
+      "use": "Đưa ra kết luận cân bằng sau khi đã xét cả hai mặt.",
+      "register": "neutral",
+      "examples": [
+        "All things considered, I'd say the advantages outweigh the disadvantages."
+      ],
+      "explanationVi": "'All things considered' (= xét mọi mặt) là cách mở câu kết luận rất tự nhiên. 'outweigh' = lớn hơn, lấn át. Dùng để chốt lại quan điểm cuối cùng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "về phần tôi, cá nhân tôi", "when": "Mở đầu khi muốn nhấn đây là quan điểm riêng, không áp đặt.", "example": "Personally, I think the convenience makes it worth the price." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn thừa nhận một điểm tốt của phía đối lập để nghe khách quan.", "example": "To be fair, the older method did have some real advantages." },
+    { "term": "in other words", "ipa": "/ɪn ˈʌð.ər wɜːdz/", "vi": "nói cách khác", "when": "Khi muốn diễn giải lại ý vừa nói cho rõ hơn.", "example": "In other words, you gain flexibility but lose some structure." },
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Khi nhượng bộ một điểm yếu trong lập luận của mình.", "example": "Admittedly, it does take longer to set up at first." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "rốt cuộc, cuối cùng thì", "when": "Dẫn vào câu kết luận hoặc điều quan trọng nhất.", "example": "Ultimately, it comes down to what matters most to you." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "thẳng thắn mà nói", "when": "Mở đầu một ý kiến chân thật, đôi khi hơi thẳng thắn.", "example": "Frankly, I think the drawbacks are often exaggerated." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn/đồng nghiệp đang thảo luận xem làm việc từ xa (remote work) là lợi hay hại. Mỗi người nêu quan điểm, cân nhắc cả hai mặt và cố thuyết phục bên kia.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "I've been thinking about whether working from home is really worth it. Honestly, what's your take on the pros and cons?",
+        "ipa": "/aɪv biːn ˈθɪŋ.kɪŋ əˈbaʊt ˈweð.ər ˈwɜː.kɪŋ frɒm həʊm ɪz ˈrɪə.li wɜːθ ɪt ˈɒn.ɪst.li wɒts jɔːr teɪk ɒn ðə prəʊz ænd kɒnz/",
+        "vi": "Mình đang băn khoăn liệu làm việc tại nhà có thực sự đáng không. Thành thật mà nói, bạn nghĩ sao về mặt lợi và hại của nó?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, personally I think it has clear advantages. ____ the one hand, it saves me a lot of commuting time; on the other hand, I do sometimes feel a bit isolated working alone all day.",
+        "ipa": "/wel ˈpɜː.sən.əl.i aɪ θɪŋk ɪt hæz klɪər ədˈvɑːn.tɪ.dʒɪz ɒn ðə wʌn hænd ɪt seɪvz miː ə lɒt ɒv kəˈmjuː.tɪŋ taɪm ɒn ði ˈʌð.ər hænd aɪ duː ˈsʌm.taɪmz fiːl ə bɪt ˈaɪ.sə.leɪ.tɪd/",
+        "vi": "Ừm, cá nhân mình thấy nó có những ưu điểm rõ ràng. ____ một mặt, nó giúp mình tiết kiệm rất nhiều thời gian đi lại; mặt khác, đôi khi mình cũng thấy hơi cô lập khi làm việc một mình cả ngày.",
+        "blanks": [
+          { "type": "knowledge", "answer": "On", "explanationVi": "Khung 'On the one hand…, on the other hand…' để trình bày hai mặt. Phải có 'the' và bắt đầu bằng 'On'. Xem mẫu câu 'On the one hand…; on the other hand…'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's a good point. But don't you think the lack of face-to-face contact can be detrimental to teamwork, especially for new projects that need a lot of discussion?",
+        "ipa": "/ðæts ə ɡʊd pɔɪnt bʌt dəʊnt juː θɪŋk ðə læk ɒv feɪs tə feɪs ˈkɒn.tækt kæn biː ˌdet.rɪˈmen.təl tə ˈtiːm.wɜːk ɪˈspeʃ.əl.i fɔːr njuː ˈprɒdʒ.ekts ðæt niːd ə lɒt ɒv dɪˈskʌʃ.ən/",
+        "vi": "Ý hay đấy. Nhưng bạn không nghĩ việc thiếu tiếp xúc trực tiếp có thể gây hại cho làm việc nhóm sao, nhất là với những dự án mới cần thảo luận nhiều?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see your point, but I'd argue the benefits still outweigh that drawback. ____ the occasional miscommunication, most of my projects, ____ used to take weeks, now move faster because nobody wastes time stuck in traffic.",
+        "ipa": "/aɪ siː jɔːr pɔɪnt bʌt aɪd ˈɑː.ɡjuː ðə ˈben.ɪ.fɪts stɪl ˌaʊtˈweɪ ðæt ˈdrɔː.bæk dɪˈspaɪt ði əˈkeɪ.ʒən.əl ˌmɪs.kəˈmjuː.nɪˈkeɪ.ʃən məʊst ɒv maɪ ˈprɒdʒ.ekts wɪtʃ juːst tə teɪk wiːks naʊ muːv ˈfɑːs.tər/",
+        "vi": "Mình hiểu ý bạn, nhưng mình cho rằng lợi ích vẫn lớn hơn nhược điểm đó. ____ thi thoảng có chuyện hiểu lầm, hầu hết các dự án của mình, ____ trước đây tốn cả tuần, giờ tiến nhanh hơn vì không ai phí thời gian kẹt xe.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Despite", "explanationVi": "'Despite' (= mặc dù) đi với DANH TỪ/cụm danh từ ('the occasional miscommunication'), không đi với mệnh đề. Xem mẫu câu 'Despite…, I still believe that…'." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Đại từ quan hệ 'which' thay cho 'my projects' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's true to some extent, although it really depends on the type of job. Not everyone can stay productive at home, can they?",
+        "ipa": "/ðæts truː tə sʌm ɪkˈstent ɔːlˈðəʊ ɪt ˈrɪə.li dɪˈpendz ɒn ðə taɪp ɒv dʒɒb nɒt ˈev.ri.wʌn kæn steɪ prəˈdʌk.tɪv ət həʊm kænt ðeɪ/",
+        "vi": "Điều đó đúng ở một mức độ nào đó, dù nó thực sự phụ thuộc vào loại công việc. Không phải ai cũng giữ được năng suất khi ở nhà, đúng không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Admittedly, that's fair. Working from home isn't for everyone, since it ____ a lot of self-discipline. Not only do you have to manage your own time, but you also have to resist endless distractions at home.",
+        "ipa": "/ədˈmɪt.ɪd.li ðæts feər ˈwɜː.kɪŋ frɒm həʊm ˈɪz.ənt fɔːr ˈev.ri.wʌn sɪns ɪt rɪˈkwaɪəz ə lɒt ɒv self ˈdɪs.ə.plɪn nɒt ˈəʊn.li duː juː hæv tə ˈmæn.ɪdʒ jɔːr əʊn taɪm bʌt juː ˈɔːl.səʊ hæv tə rɪˈzɪst ˈend.ləs dɪˈstræk.ʃənz ət həʊm/",
+        "vi": "Phải thừa nhận là bạn nói đúng. Làm việc tại nhà không hợp với tất cả mọi người, vì nó ____ rất nhiều tính kỷ luật tự giác. Bạn không những phải tự quản lý thời gian, mà còn phải cưỡng lại vô số thứ gây xao nhãng ở nhà.",
+        "blanks": [
+          { "type": "knowledge", "answer": "requires", "explanationVi": "Chủ ngữ 'it' (số ít) nên động từ chia 'requires' (thêm -s). 'require' = đòi hỏi, đi với danh từ ('a lot of self-discipline')." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Exactly. So how would you sum it up if a friend asked you for advice?",
+        "ipa": "/ɪɡˈzækt.li səʊ haʊ wʊd juː sʌm ɪt ʌp ɪf ə frend ɑːskt juː fɔːr ədˈvaɪs/",
+        "vi": "Chính xác. Vậy bạn sẽ tóm lại thế nào nếu một người bạn hỏi xin lời khuyên?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd tell them to weigh up the trade-offs honestly based on their own ____. All things considered, I'd say the pros outweigh the cons for me, but ____, it comes down to whether you can work well on your own.",
+        "ipa": "/aɪd tel ðem tə weɪ ʌp ðə ˈtreɪd.ɒfs ˈɒn.ɪst.li beɪst ɒn ðeər əʊn ... ɔːl θɪŋz kənˈsɪd.əd aɪd seɪ ðə prəʊz ˌaʊtˈweɪ ðə kɒnz fɔːr miː bʌt ˈʌl.tɪ.mət.li ɪt kʌmz daʊn tə ˈweð.ər juː kæn wɜːk wel ɒn jɔːr əʊn/",
+        "vi": "Mình sẽ khuyên họ cân nhắc thật lòng những sự đánh đổi dựa trên ____ của chính họ. Xét mọi mặt, với mình thì lợi nhiều hơn hại, nhưng ____, mọi thứ quy về việc bạn có làm việc tốt một mình được không.",
+        "blanks": [
+          { "type": "personal", "hint": "Một yếu tố cá nhân để cân nhắc. Ví dụ: 'situation', 'personality', 'job'." },
+          { "type": "knowledge", "answer": "ultimately", "explanationVi": "Trạng từ 'ultimately' (= rốt cuộc) dẫn vào điều quan trọng nhất / kết luận. Xem phần Trạng từ & cụm từ." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận phương Tây, nêu được CẢ hai mặt (a balanced view) được đánh giá là chín chắn hơn việc chỉ khăng khăng một phía.",
+    "Phản bác trực diện ('You're wrong') bị coi là thô. Người bản xứ thường đệm 'I see your point, but…' hoặc 'That's true to some extent, but…' để giữ hòa khí.",
+    "Khi đưa ý kiến cá nhân, mở đầu bằng 'Personally', 'In my view', 'I'd say' nghe khiêm tốn hơn là khẳng định như một sự thật hiển nhiên.",
+    "Thừa nhận điểm yếu trong lập luận của mình ('Admittedly…', 'To be fair…') không làm bạn yếu thế mà ngược lại cho thấy bạn khách quan và đáng tin."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'Despite' với cả mệnh đề: SAI 'Despite it was expensive'. Đúng là 'Despite the high price' (danh từ) hoặc 'Although it was expensive' (mệnh đề).",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it save…', không phải 'Not only it saves…'.",
+    "Nói 'In one hand / In the other hand'. Đúng là 'On the one hand… on the other hand…' (dùng 'On' và có 'the').",
+    "Lạm dụng 'good' và 'bad'. Ở cấp B2 nên dùng 'beneficial / advantageous' và 'detrimental / harmful' cho sắc thái và đa dạng hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận lợi-hại như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh và tranh luận với tôi về mặt lợi và hại của một chủ đề mà tôi sẽ nêu (ví dụ: làm việc từ xa, mạng xã hội, học online). Hãy chọn quan điểm ngược với tôi để tôi phải bảo vệ ý kiến của mình. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và nêu một lập luận phản biện, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'on the one hand… on the other hand', 'although', 'despite', 'not only… but also'. Cuối buổi, hãy chấm điểm khả năng tranh luận của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách hỏi tôi chọn chủ đề nào nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người phản biện gắt gao hơn để tôi tập giữ bình tĩnh và bảo vệ quan điểm.'",
+      "Thêm: 'Mỗi lượt hãy bắt tôi phải nêu ít nhất một mặt lợi VÀ một mặt hại trước khi kết luận.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi trình bày được cả mặt lợi lẫn mặt hại bằng khung 'On the one hand… on the other hand…' mà không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'despite' (với danh từ) và 'although' (với mệnh đề), không nhầm lẫn.",
+    "Tôi phản bác lịch sự được bằng 'I see your point, but…' và chốt lại bằng một kết luận cân bằng."
+  ]
+}

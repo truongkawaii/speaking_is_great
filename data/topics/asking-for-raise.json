@@ -1,0 +1,368 @@
+{
+  "id": "asking-for-raise",
+  "category": "work",
+  "title": "Xin tăng lương",
+  "titleEn": "Asking for a Raise",
+  "level": "C1",
+  "functions": ["negotiating", "requesting", "opinions", "describing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Mở lời xin tăng lương một cách khéo léo, tự tin nhưng không đòi hỏi",
+    "Trình bày thành tích và đóng góp bằng con số, dẫn chứng thuyết phục",
+    "Thương lượng linh hoạt, xử lý lời từ chối và đề xuất phương án thay thế",
+    "Vận dụng ngữ pháp C1 (đảo ngữ, mệnh đề nhượng bộ, mệnh đề quan hệ) và idiom công sở tự nhiên",
+    "Đổi register linh hoạt giữa lịch sự trang trọng và thẳng thắn khi cần"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "raise",
+      "ipa": "/reɪz/",
+      "vi": "việc tăng lương (danh từ, Anh-Mỹ)",
+      "register": "neutral",
+      "example": "I'd like to discuss the possibility of a raise this year.",
+      "exampleVi": "Tôi muốn trao đổi về khả năng được tăng lương năm nay.",
+      "note": "Danh từ trong tiếng Anh-Mỹ. Người Anh-Anh dùng 'pay rise'. Đừng nói 'up my salary' — không tự nhiên.",
+      "synonyms": [
+        { "term": "pay rise", "ipa": "/peɪ raɪz/", "register": "neutral", "nuanceVi": "Phiên bản Anh-Anh của 'raise'. Trong môi trường công ty Anh/Úc thì đây là cách nói chuẩn." },
+        { "term": "salary increase", "ipa": "/ˈsæl.ər.i ˈɪn.kriːs/", "register": "formal", "nuanceVi": "Trang trọng, mang tính văn bản/HR. Hợp khi viết email hoặc nói trong cuộc họp chính thức." },
+        { "term": "bump", "ipa": "/bʌmp/", "register": "casual", "nuanceVi": "Đời thường, kiểu 'tăng một chút'. Vd 'a pay bump'. Chỉ dùng khi nói chuyện thân mật với đồng nghiệp." }
+      ]
+    },
+    {
+      "term": "compensation",
+      "ipa": "/ˌkɒm.penˈseɪ.ʃən/",
+      "vi": "chế độ đãi ngộ / tổng thu nhập (danh từ)",
+      "register": "formal",
+      "example": "I feel my current compensation no longer reflects my contribution.",
+      "exampleVi": "Tôi cảm thấy mức đãi ngộ hiện tại không còn phản ánh đúng đóng góp của mình.",
+      "note": "Danh từ trang trọng, bao gồm lương + thưởng + phúc lợi, rộng hơn 'salary'. Rất hay dùng trong đàm phán cấp cao.",
+      "synonyms": [
+        { "term": "remuneration", "ipa": "/rɪˌmjuː.nəˈreɪ.ʃən/", "register": "formal", "nuanceVi": "Cực kỳ trang trọng, thiên về văn bản pháp lý/hợp đồng. Nghe rất chuyên nghiệp nhưng dễ bị coi là cứng nhắc nếu nói nhiều." },
+        { "term": "pay package", "ipa": "/peɪ ˈpæk.ɪdʒ/", "register": "neutral", "nuanceVi": "Trung tính, dễ nghe, nhấn vào 'gói tổng thể' gồm lương và quyền lợi. An toàn trong hội thoại." }
+      ]
+    },
+    {
+      "term": "to deserve",
+      "ipa": "/dɪˈzɜːv/",
+      "vi": "xứng đáng được (động từ)",
+      "register": "neutral",
+      "example": "After two record-breaking quarters, I believe I deserve to be recognised.",
+      "exampleVi": "Sau hai quý phá kỷ lục, tôi tin mình xứng đáng được ghi nhận.",
+      "note": "Động từ, đi với 'to + V' hoặc danh từ. Nói khéo: thay vì 'I deserve more money', hãy gắn với thành tích cụ thể.",
+      "synonyms": [
+        { "term": "to merit", "ipa": "/ˈmer.ɪt/", "register": "formal", "nuanceVi": "Trang trọng, mang sắc thái 'xứng đáng dựa trên năng lực/thành tích khách quan'. Nghe điềm tĩnh, ít cảm tính hơn 'deserve'." },
+        { "term": "to warrant", "ipa": "/ˈwɒr.ənt/", "register": "formal", "nuanceVi": "Nghĩa 'đủ lý do để biện minh cho'. Vd 'My results warrant a review.' Khách quan, thiên về lập luận logic." },
+        { "term": "to be entitled to", "ipa": "/tə biː ɪnˈtaɪ.təld tuː/", "register": "formal", "nuanceVi": "Nhấn 'có quyền được hưởng' (theo hợp đồng/quy định). Mạnh và hơi cứng — dùng cẩn thận kẻo nghe như đòi hỏi." }
+      ]
+    },
+    {
+      "term": "to negotiate",
+      "ipa": "/nəˈɡəʊ.ʃi.eɪt/",
+      "vi": "thương lượng, đàm phán (động từ)",
+      "register": "neutral",
+      "example": "I'm hoping we can negotiate a figure that works for both of us.",
+      "exampleVi": "Tôi hy vọng chúng ta có thể thương lượng một con số phù hợp cho cả hai bên.",
+      "note": "Động từ. Đi với 'negotiate something with somebody'. Danh từ: 'negotiation'. Phát âm bẫy: âm thứ hai là /ɡəʊ/.",
+      "synonyms": [
+        { "term": "to bargain", "ipa": "/ˈbɑː.ɡɪn/", "register": "casual", "nuanceVi": "Thiên về 'mặc cả, kì kèo giá', nghe đời thường (chợ búa, mua bán). Ít trang trọng, không hợp lắm với đàm phán lương cấp cao." },
+        { "term": "to hammer out", "ipa": "/ˈhæm.ər aʊt/", "register": "casual", "nuanceVi": "Cụm động từ idiom: 'bàn bạc gay go để chốt được thỏa thuận'. Sinh động, nhấn vào quá trình vất vả đi đến đồng thuận." }
+      ]
+    },
+    {
+      "term": "contribution",
+      "ipa": "/ˌkɒn.trɪˈbjuː.ʃən/",
+      "vi": "sự đóng góp (danh từ)",
+      "register": "neutral",
+      "example": "My contribution to the launch went well beyond my job description.",
+      "exampleVi": "Đóng góp của tôi cho đợt ra mắt vượt xa phạm vi công việc được giao.",
+      "note": "Danh từ. Đi với 'contribution to something'. Là từ trung tâm khi lập luận xin tăng lương — gắn nó với kết quả đo được.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhẹ nhàng hơn, nhấn 'những gì mình bỏ vào (ý kiến/công sức)'. Thường dùng cho đóng góp ý tưởng hơn là kết quả lớn." },
+        { "term": "added value", "ipa": "/ˈæd.ɪd ˈvæl.juː/", "register": "formal", "nuanceVi": "Thuật ngữ kinh doanh: 'giá trị gia tăng mình tạo ra'. Rất 'ăn điểm' trong đàm phán vì nói bằng ngôn ngữ kết quả." }
+      ]
+    },
+    {
+      "term": "market rate",
+      "ipa": "/ˈmɑː.kɪt reɪt/",
+      "vi": "mức giá/lương theo thị trường (danh từ)",
+      "register": "neutral",
+      "example": "My research suggests my salary is below the current market rate.",
+      "exampleVi": "Tìm hiểu của tôi cho thấy lương tôi đang dưới mức thị trường hiện tại.",
+      "note": "Cụm danh từ. Lý lẽ khách quan mạnh nhất: so sánh với 'market rate' thay vì cảm tính cá nhân.",
+      "synonyms": [
+        { "term": "going rate", "ipa": "/ˈɡəʊ.ɪŋ reɪt/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'mức giá phổ biến hiện hành'. Gần như đồng nghĩa, nghe tự nhiên trong hội thoại." },
+        { "term": "industry benchmark", "ipa": "/ˈɪn.də.stri ˈbentʃ.mɑːk/", "register": "formal", "nuanceVi": "Trang trọng, mang tính dữ liệu: 'mốc chuẩn của ngành'. Tạo ấn tượng bạn đã nghiên cứu nghiêm túc." }
+      ]
+    },
+    {
+      "term": "invaluable",
+      "ipa": "/ɪnˈvæl.ju.ə.bəl/",
+      "vi": "vô cùng giá trị, quý giá (tính từ)",
+      "register": "formal",
+      "example": "She has been an invaluable member of the team this year.",
+      "exampleVi": "Năm nay cô ấy là một thành viên vô cùng giá trị của nhóm.",
+      "note": "Tính từ. BẪY: 'invaluable' KHÔNG phải 'không có giá trị' — mà là 'giá trị đến mức không định giá nổi'. Trái nghĩa thực sự là 'worthless'.",
+      "synonyms": [
+        { "term": "indispensable", "ipa": "/ˌɪn.dɪˈspen.sə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'không thể thiếu, thiếu là hỏng việc'. Mạnh hơn, nhưng đừng tự khen mình thế kẻo nghe kiêu." },
+        { "term": "priceless", "ipa": "/ˈpraɪs.ləs/", "register": "neutral", "nuanceVi": "Hơi cảm tính/văn vẻ, 'quý không gì sánh được'. Hay dùng cho trải nghiệm, ít dùng để mô tả đóng góp công việc." }
+      ]
+    },
+    {
+      "term": "tactfully",
+      "ipa": "/ˈtækt.fəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "neutral",
+      "example": "He raised the subject of money tactfully, without sounding greedy.",
+      "exampleVi": "Anh ấy nêu chuyện tiền bạc một cách khéo léo, không nghe có vẻ tham lam.",
+      "note": "Trạng từ. Chìa khóa của cả bài: nói chuyện lương phải 'tactfully'. Danh từ là 'tact'.",
+      "synonyms": [
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Nhấn 'khéo léo trong xử lý quan hệ, tránh xung đột', như một nhà ngoại giao. Trang trọng và rất chuyên nghiệp." },
+        { "term": "delicately", "ipa": "/ˈdel.ɪ.kət.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, thận trọng vì vấn đề nhạy cảm'. Thiên về sự dè dặt hơn là kỹ năng xử lý." }
+      ]
+    },
+    {
+      "term": "candidly",
+      "ipa": "/ˈkæn.dɪd.li/",
+      "vi": "một cách thẳng thắn, thật lòng (trạng từ)",
+      "register": "formal",
+      "example": "Let me speak candidly: I feel I've outgrown my current role.",
+      "exampleVi": "Cho phép tôi nói thẳng: tôi cảm thấy mình đã vượt khỏi vai trò hiện tại.",
+      "note": "Trạng từ. Dùng để mở một câu thật lòng, hơi nhạy cảm nhưng chân thành. Tính từ là 'candid'.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Phổ biến nhất, 'nói thẳng'. An toàn, ai cũng hiểu. Nhẹ hơn 'candidly' một chút về độ trang trọng." },
+        { "term": "openly", "ipa": "/ˈəʊ.pən.li/", "register": "neutral", "nuanceVi": "Nhấn 'cởi mở, không giấu giếm'. Thiên về thái độ minh bạch hơn là sự thẳng thừng." }
+      ]
+    },
+    {
+      "term": "to take on",
+      "ipa": "/tə teɪk ɒn/",
+      "vi": "đảm nhận thêm (trách nhiệm/công việc) (động từ)",
+      "register": "neutral",
+      "example": "Over the past year I've taken on far more responsibility than my title suggests.",
+      "exampleVi": "Suốt năm qua tôi đã đảm nhận nhiều trách nhiệm hơn nhiều so với chức danh.",
+      "note": "Cụm động từ. Lập luận kinh điển: 'I've taken on more, so my pay should reflect that.'",
+      "synonyms": [
+        { "term": "to shoulder", "ipa": "/ˈʃəʊl.dər/", "register": "formal", "nuanceVi": "Nhấn 'gánh vác' trách nhiệm nặng, hơi văn vẻ. Vd 'shoulder the responsibility'. Tạo cảm giác bạn chịu áp lực lớn." },
+        { "term": "to handle", "ipa": "/ˈhæn.dəl/", "register": "neutral", "nuanceVi": "Trung tính, 'xử lý, lo liệu'. Nhấn vào việc làm được, không nhất thiết là nhận thêm gánh nặng mới." }
+      ]
+    },
+    {
+      "term": "reluctant",
+      "ipa": "/rɪˈlʌk.tənt/",
+      "vi": "miễn cưỡng, ngần ngại (tính từ)",
+      "register": "neutral",
+      "example": "I was reluctant to bring this up, but I think the timing is right.",
+      "exampleVi": "Tôi đã ngần ngại nêu chuyện này, nhưng tôi nghĩ thời điểm đã chín muồi.",
+      "note": "Tính từ, đi với 'reluctant to + V'. Câu mở đầu khéo léo, thể hiện bạn cân nhắc kỹ chứ không bốc đồng.",
+      "synonyms": [
+        { "term": "hesitant", "ipa": "/ˈhez.ɪ.tənt/", "register": "neutral", "nuanceVi": "Nhấn 'lưỡng lự, do dự' vì chưa chắc chắn. Nhẹ hơn 'reluctant' (vốn ngụ ý có phần không muốn)." },
+        { "term": "loath", "ipa": "/ləʊθ/", "register": "formal", "nuanceVi": "Trang trọng/văn chương, 'rất không muốn'. Vd 'I'm loath to push, but...'. Mạnh và hơi cổ điển." }
+      ]
+    },
+    {
+      "term": "review",
+      "ipa": "/rɪˈvjuː/",
+      "vi": "kỳ đánh giá / xem xét lại (danh từ)",
+      "register": "neutral",
+      "example": "Could we schedule a salary review for the end of the quarter?",
+      "exampleVi": "Chúng ta có thể sắp xếp một kỳ xem xét lương vào cuối quý không?",
+      "note": "Danh từ. 'performance review' (đánh giá hiệu suất) và 'salary review' (xem xét lương) là hai mốc quan trọng để nêu chuyện tăng lương.",
+      "synonyms": [
+        { "term": "appraisal", "ipa": "/əˈpreɪ.zəl/", "register": "formal", "nuanceVi": "Trang trọng, 'kỳ đánh giá chính thức về hiệu suất'. Anh-Anh hay dùng 'appraisal' cho buổi đánh giá định kỳ." },
+        { "term": "assessment", "ipa": "/əˈses.mənt/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'đo lường, định lượng năng lực/kết quả'. Rộng hơn, không chỉ riêng lương." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I was wondering if we might find a moment to discuss [danh từ].",
+      "use": "Mở lời xin một buổi nói chuyện về lương một cách cực kỳ tế nhị.",
+      "register": "formal",
+      "examples": [
+        "I was wondering if we might find a moment to discuss my compensation.",
+        "I was wondering if we might find a moment to discuss my role going forward."
+      ],
+      "explanationVi": "Thì quá khứ tiếp diễn 'was wondering' + 'might' tạo lớp lịch sự kép, nghe rất nhã nhặn và không áp đặt. Đây là cách mở đầu an toàn nhất khi chủ đề nhạy cảm.",
+      "altOf": "opening-the-conversation"
+    },
+    {
+      "pattern": "I'd like to revisit the conversation about [danh từ], if now is a good time.",
+      "use": "Mở lời trực tiếp hơn nhưng vẫn lịch sự, nhường quyền chọn thời điểm cho sếp.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to revisit the conversation about my salary, if now is a good time.",
+        "I'd like to revisit the conversation about my career path, if now is a good time."
+      ],
+      "explanationVi": "'revisit the conversation' nghe chuyên nghiệp, ngụ ý đây là việc đã đến lúc bàn lại. Mệnh đề 'if now is a good time' trao thế chủ động cho người nghe, giảm áp lực.",
+      "altOf": "opening-the-conversation"
+    },
+    {
+      "pattern": "Over the past [khoảng thời gian], I have not only [V] but also [V].",
+      "use": "Trình bày thành tích kép một cách trang trọng, gây ấn tượng mạnh.",
+      "register": "formal",
+      "examples": [
+        "Over the past year, I have not only exceeded every target but also mentored two new hires.",
+        "Over the past six months, I have not only led the rollout but also cut our costs significantly."
+      ],
+      "explanationVi": "'not only... but also' nhấn mạnh bạn làm được nhiều việc. Lưu ý: khi 'not only' KHÔNG đứng đầu câu (như ở đây) thì KHÔNG đảo ngữ. Gắn với mốc thời gian cụ thể để lập luận chắc chắn.",
+      "altOf": "presenting-achievements"
+    },
+    {
+      "pattern": "Not only did I [V], but I also [V].",
+      "use": "Nêu thành tích kép với đảo ngữ, nhấn mạnh tối đa.",
+      "register": "formal",
+      "examples": [
+        "Not only did I bring in three major clients, but I also trained the entire support team.",
+        "Not only did I hit my targets, but I also took on the project no one else wanted."
+      ],
+      "explanationVi": "Khi 'Not only' đứng ĐẦU câu thì BẮT BUỘC đảo trợ động từ lên trước chủ ngữ ('did I'). Đây là dấu hiệu C1 rõ rệt — ấn tượng nhưng phải đảo đúng kẻo sai.",
+      "altOf": "presenting-achievements"
+    },
+    {
+      "pattern": "Given [danh từ/mệnh đề], I believe a review of my [danh từ] would be reasonable.",
+      "use": "Đưa ra đề nghị tăng lương dựa trên lý lẽ, nghe có cơ sở chứ không cảm tính.",
+      "register": "formal",
+      "examples": [
+        "Given these results, I believe a review of my salary would be reasonable.",
+        "Given the scope of my responsibilities now, I believe a review of my compensation would be reasonable."
+      ],
+      "explanationVi": "'Given...' (= xét đến/căn cứ vào) dẫn lý do trước, rồi mới đề nghị — cấu trúc lập luận thuyết phục. 'would be reasonable' nghe khiêm tốn và hợp lý hơn là đòi một con số cứng.",
+      "altOf": "making-the-ask"
+    },
+    {
+      "pattern": "Although I completely understand [mệnh đề], I'd appreciate it if we could [V].",
+      "use": "Xử lý lời từ chối/khó khăn về ngân sách mà vẫn giữ cánh cửa mở.",
+      "register": "formal",
+      "examples": [
+        "Although I completely understand budgets are tight, I'd appreciate it if we could set a date to revisit this.",
+        "Although I completely understand the timing isn't ideal, I'd appreciate it if we could explore other options."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ thể hiện bạn lắng nghe và đồng cảm; vế sau 'I'd appreciate it if...' giữ đề nghị một cách lịch sự. Bộ đôi này giúp bạn không bị cụt khi bị từ chối.",
+      "altOf": "handling-refusal"
+    },
+    {
+      "pattern": "If a raise isn't feasible right now, would you be open to [danh từ/V-ing] instead?",
+      "use": "Đề xuất phương án thay thế khi tiền lương chưa tăng được ngay.",
+      "register": "neutral",
+      "examples": [
+        "If a raise isn't feasible right now, would you be open to discussing extra leave instead?",
+        "If a raise isn't feasible right now, would you be open to a performance bonus instead?"
+      ],
+      "explanationVi": "Câu điều kiện loại 1 ('If... isn't... would you...') mở ra giải pháp linh hoạt (thưởng, ngày nghỉ, đào tạo). Thể hiện bạn thực tế và hợp tác, tăng khả năng đạt được điều gì đó.",
+      "altOf": "handling-refusal"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chân thành, hơi nhạy cảm về tiền bạc.", "example": "Honestly, I've been putting off this conversation for a while." },
+    { "term": "to be frank", "ipa": "/tə biː fræŋk/", "vi": "nói thẳng ra thì", "when": "Báo hiệu bạn sắp nói thật, thẳng thắn nhưng vẫn lịch sự.", "example": "To be frank, my pay hasn't kept pace with my responsibilities." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói thì cũng rõ", "when": "Dẫn vào một điều hiển nhiên mà cả hai đều biết.", "example": "Needless to say, I'm fully committed to staying with the team." },
+    { "term": "with that said", "ipa": "/wɪð ðæt sed/", "vi": "dù vậy / nói vậy thôi chứ", "when": "Chuyển ý sau khi đã nhượng bộ, để quay lại đề nghị của mình.", "example": "With that said, I'd still like us to agree on a timeline." },
+    { "term": "all things considered", "ipa": "/ɔːl θɪŋz kənˈsɪd.əd/", "vi": "xét cho cùng / cân nhắc mọi mặt", "when": "Tổng kết lập luận trước khi chốt đề nghị.", "example": "All things considered, I feel a modest increase is more than justified." },
+    { "term": "ideally", "ipa": "/aɪˈdiː.ə.li/", "vi": "lý tưởng nhất thì", "when": "Nêu mong muốn của mình một cách mềm mỏng, để ngỏ thương lượng.", "example": "Ideally, I'd be looking at something in the region of a ten-percent increase." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đã gắn bó với công ty hơn hai năm, vừa hoàn thành xuất sắc một dự án lớn. Bạn xin một buổi gặp riêng với sếp (line manager) để đề nghị tăng lương. Sếp tỏ ra cởi mở nhưng cũng nêu khó khăn về ngân sách, và hai bên cùng tìm hướng giải quyết.",
+    "lines": [
+      {
+        "speaker": "Sếp",
+        "text": "Hi, thanks for setting up the meeting. You mentioned there was something on your mind — what would you like to talk about?",
+        "ipa": "/haɪ θæŋks fɔːr ˈset.ɪŋ ʌp ðə ˈmiː.tɪŋ juː ˈmen.ʃənd ðeə wɒz ˈsʌm.θɪŋ ɒn jɔːr maɪnd wɒt wʊd juː laɪk tə tɔːk əˈbaʊt/",
+        "vi": "Chào em, cảm ơn đã sắp xếp buổi gặp. Em có nói có điều muốn trao đổi — em muốn nói về chuyện gì vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thanks for making the time. Honestly, I was ____ to bring this up, but I was wondering if we might find a moment to discuss my compensation, particularly in light of everything I've taken on this year.",
+        "ipa": "/θæŋks fɔːr ˈmeɪ.kɪŋ ðə taɪm ˈɒn.ɪst.li aɪ wɒz rɪˈlʌk.tənt tə brɪŋ ðɪs ʌp bʌt aɪ wɒz ˈwʌn.dər.ɪŋ ɪf wiː maɪt faɪnd ə ˈməʊ.mənt tə dɪsˈkʌs maɪ ˌkɒm.penˈseɪ.ʃən pəˈtɪk.jə.lə.li ɪn laɪt ɒv ˈev.ri.θɪŋ aɪv ˈteɪ.kən ɒn ðɪs jɪər/",
+        "vi": "Cảm ơn anh/chị đã dành thời gian. Thành thật mà nói, em đã hơi ____ khi nêu chuyện này, nhưng em muốn hỏi liệu chúng ta có thể bàn về chế độ đãi ngộ của em không, nhất là xét đến tất cả những việc em đã đảm nhận trong năm nay.",
+        "blanks": [
+          { "type": "knowledge", "answer": "reluctant", "explanationVi": "Dùng tính từ 'reluctant' (ngần ngại, miễn cưỡng) đi với 'to + V'. Mở đầu thế này cho thấy bạn cân nhắc kỹ, không bốc đồng — một cách mở lời tế nhị rất hiệu quả." }
+        ]
+      },
+      {
+        "speaker": "Sếp",
+        "text": "Of course, I'm always happy to talk about this. You've clearly been working hard. So, walk me through it — why do you feel now is the right time?",
+        "ipa": "/ɒv kɔːs aɪm ˈɔːl.weɪz ˈhæp.i tə tɔːk əˈbaʊt ðɪs juːv ˈklɪə.li biːn ˈwɜː.kɪŋ hɑːd səʊ wɔːk miː θruː ɪt waɪ duː juː fiːl naʊ ɪz ðə raɪt taɪm/",
+        "vi": "Tất nhiên rồi, anh/chị luôn sẵn lòng nói về chuyện này. Rõ ràng là em đã làm việc rất chăm chỉ. Vậy em trình bày cụ thể xem — vì sao em thấy bây giờ là thời điểm thích hợp?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, over the past year I have not only exceeded every target I was given, but I have also taken on the client-onboarding process, ____ used to be handled by a senior colleague who left. To be frank, my responsibilities have grown considerably, although my pay has stayed exactly the same.",
+        "ipa": "/wel ˈəʊ.vər ðə pɑːst jɪər aɪ hæv nɒt ˈəʊn.li ɪɡˈziː.dɪd ˈev.ri ˈtɑː.ɡɪt aɪ wɒz ˈɡɪv.ən bʌt aɪ hæv ˈɔːl.səʊ ˈteɪ.kən ɒn ðə ˈklaɪ.ənt ˈɒn.bɔːd.ɪŋ ˈprəʊ.ses wɪtʃ juːst tə biː ˈhæn.dəld baɪ ə ˈsiː.ni.ə ˈkɒl.iːɡ huː left tə biː fræŋk maɪ rɪˈspɒn.sə.bɪl.ə.tiz hæv ɡrəʊn kənˈsɪd.ər.ə.bli ˈɔːl.ðəʊ maɪ peɪ hæz steɪd ɪɡˈzækt.li ðə seɪm/",
+        "vi": "À, suốt năm qua em không những vượt mọi chỉ tiêu được giao, mà còn đảm nhận quy trình tiếp nhận khách hàng, ____ trước đây vốn do một đồng nghiệp cấp cao đã nghỉ việc phụ trách. Nói thẳng ra, trách nhiệm của em đã tăng đáng kể, mặc dù lương vẫn y nguyên.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'the client-onboarding process' (vật/sự việc) để nối mệnh đề mô tả. Nếu thay cho người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Sếp",
+        "text": "That's a fair point, and I genuinely appreciate the extra effort. The challenge, however, is that our budget for this quarter has already been finalised. What sort of figure did you have in mind?",
+        "ipa": "/ðæts ə feə pɔɪnt ænd aɪ ˈdʒen.ju.ɪn.li əˈpriː.ʃi.eɪt ðə ˈek.strə ˈef.ət ðə ˈtʃæl.ɪndʒ haʊˈev.ər ɪz ðæt ˈaʊə ˈbʌdʒ.ɪt fɔːr ðɪs ˈkwɔː.tər hæz ɔːlˈred.i biːn ˈfaɪ.nə.laɪzd wɒt sɔːt ɒv ˈfɪɡ.ər dɪd juː hæv ɪn maɪnd/",
+        "vi": "Đó là một ý hợp lý, và anh/chị thật sự trân trọng nỗ lực thêm của em. Tuy nhiên, vấn đề là ngân sách quý này đã được chốt rồi. Vậy em có nghĩ đến con số khoảng bao nhiêu?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Ideally, I'd be looking at something in the region of a ____ increase, which my research suggests would simply bring me in line with the current market rate for this role. Given those results, I believe a review of my salary would be reasonable.",
+        "ipa": "/aɪˈdiː.ə.li aɪd biː ˈlʊk.ɪŋ æt ˈsʌm.θɪŋ ɪn ðə ˈriː.dʒən ɒv ə ˈɪn.kriːs wɪtʃ maɪ rɪˈsɜːtʃ səˈdʒests wʊd ˈsɪm.pli brɪŋ miː ɪn laɪn wɪð ðə ˈkʌr.ənt ˈmɑː.kɪt reɪt fɔːr ðɪs rəʊl ˈɡɪv.ən ðəʊz rɪˈzʌlts aɪ bɪˈliːv ə rɪˈvjuː ɒv maɪ ˈsæl.ər.i wʊd biː ˈriː.zən.ə.bəl/",
+        "vi": "Lý tưởng nhất thì em mong mức tăng khoảng ____, mà theo em tìm hiểu thì chỉ đơn giản là đưa em ngang bằng mức lương thị trường hiện tại cho vị trí này thôi. Xét đến những kết quả đó, em tin rằng xem xét lại lương của em là hợp lý.",
+        "blanks": [
+          { "type": "personal", "hint": "Mức phần trăm tăng bạn mong muốn. Ví dụ: 'ten-percent' hoặc 'fifteen-percent'." }
+        ]
+      },
+      {
+        "speaker": "Sếp",
+        "text": "I see where you're coming from, and the market argument is a strong one. Despite that, I simply can't commit to a full raise before the next budget cycle. Is there anything else that would make a difference to you in the meantime?",
+        "ipa": "/aɪ siː weər jɔːr ˈkʌm.ɪŋ frɒm ænd ðə ˈmɑː.kɪt ˈɑː.ɡjə.mənt ɪz ə strɒŋ wʌn dɪsˈpaɪt ðæt aɪ ˈsɪm.pli kɑːnt kəˈmɪt tʊ ə fʊl reɪz bɪˈfɔːr ðə nekst ˈbʌdʒ.ɪt ˈsaɪ.kəl ɪz ðeər ˈen.i.θɪŋ els ðæt wʊd meɪk ə ˈdɪf.ər.əns tə juː ɪn ðə ˈmiːn.taɪm/",
+        "vi": "Anh/chị hiểu quan điểm của em, và lý lẽ về thị trường rất thuyết phục. Dù vậy, anh/chị thực sự không thể cam kết tăng lương đầy đủ trước kỳ ngân sách tới. Trong thời gian chờ đợi, liệu có điều gì khác có thể tạo khác biệt cho em không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I completely understand the constraints. With that said, if a raise isn't feasible right now, would you be open to ____ instead — perhaps a one-off bonus tied to the project, or an earlier review date? All things considered, I just want us to agree on a concrete plan so this doesn't drift.",
+        "ipa": "/aɪ kəmˈpliːt.li ˌʌn.dəˈstænd ðə kənˈstreɪnts wɪð ðæt sed ɪf ə reɪz ˈɪz.ənt ˈfiː.zə.bəl raɪt naʊ wʊd juː biː ˈəʊ.pən tʊ ɪnˈsted pəˈhæps ə ˈwʌn.ɒf ˈbəʊ.nəs taɪd tə ðə ˈprɒdʒ.ekt ɔːr ən ˈɜː.li.ə rɪˈvjuː deɪt ɔːl θɪŋz kənˈsɪd.əd aɪ dʒʌst wɒnt ʌs tʊ əˈɡriː ɒn ə ˈkɒŋ.kriːt plæn səʊ ðɪs ˈdʌz.ənt drɪft/",
+        "vi": "Em hoàn toàn hiểu những ràng buộc đó. Dù vậy, nếu chưa thể tăng lương ngay bây giờ, liệu anh/chị có sẵn lòng cân nhắc ____ thay vào đó không — chẳng hạn một khoản thưởng một lần gắn với dự án, hoặc một ngày xem xét lương sớm hơn? Xét cho cùng, em chỉ mong hai bên thống nhất một kế hoạch cụ thể để chuyện này không bị bỏ ngỏ.",
+        "blanks": [
+          { "type": "personal", "hint": "Phương án thay thế bạn muốn đề xuất. Ví dụ: 'a performance bonus', 'extra annual leave', 'a training budget'." }
+        ]
+      },
+      {
+        "speaker": "Sếp",
+        "text": "That's a very reasonable proposal, and I appreciate how constructively you've approached this. Let me run the bonus idea past finance, and in the meantime I'll pencil in a formal salary review for early next quarter. Does that sound fair?",
+        "ipa": "/ðæts ə ˈver.i ˈriː.zən.ə.bəl prəˈpəʊ.zəl ænd aɪ əˈpriː.ʃi.eɪt haʊ kənˈstrʌk.tɪv.li juːv əˈprəʊtʃt ðɪs let miː rʌn ðə ˈbəʊ.nəs aɪˈdɪər pɑːst ˈfaɪ.næns ænd ɪn ðə ˈmiːn.taɪm aɪl ˈpen.səl ɪn ə ˈfɔː.məl ˈsæl.ər.i rɪˈvjuː fɔːr ˈɜː.li nekst ˈkwɔː.tər dʌz ðæt saʊnd feə/",
+        "vi": "Đó là một đề xuất rất hợp lý, và anh/chị đánh giá cao cách em tiếp cận vấn đề một cách xây dựng. Để anh/chị trao đổi ý tưởng thưởng với bộ phận tài chính, và trong lúc đó anh/chị sẽ lên lịch tạm một kỳ xem xét lương chính thức vào đầu quý sau. Nghe ổn không em?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, xin tăng lương là chuyện bình thường và được tôn trọng nếu trình bày chuyên nghiệp — không bị coi là 'tham' như nhiều người Việt lo. Im lặng chờ sếp tự tăng thường không hiệu quả.",
+    "Lý lẽ thuyết phục nhất là dữ liệu khách quan: thành tích đo được (con số, %, dự án) và so sánh 'market rate'. Tránh lý do cảm tính như 'tôi cần tiền vì chi phí sinh hoạt tăng'.",
+    "Thời điểm rất quan trọng: nên nêu vào kỳ đánh giá (performance review), sau một thành công lớn, hoặc khi công ty đang làm ăn tốt — tránh lúc công ty cắt giảm.",
+    "Luôn chuẩn bị một phương án thay thế (bonus, ngày nghỉ, ngân sách đào tạo, ngày review sớm hơn). Linh hoạt giúp bạn ra về với 'một điều gì đó' thay vì tay trắng."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only' đầu câu: phải đảo trợ động từ — 'Not only DID I exceed...', không phải 'Not only I exceeded...'. Lưu ý: khi 'not only' không đứng đầu câu thì KHÔNG đảo.",
+    "Hiểu sai 'invaluable' là 'không có giá trị'. Thực ra nó nghĩa là 'quý giá đến mức không định giá nổi' — một lời khen rất mạnh.",
+    "Dùng 'I want a raise' nghe cộc và đòi hỏi. Hãy bọc bằng 'I was wondering if we might discuss...' hoặc 'Given..., I believe a review would be reasonable.'",
+    "Nói lý do cảm tính ('tôi đã ở đây lâu', 'tôi cần tiền') thay vì gắn đề nghị với thành tích đo được và market rate — lập luận yếu sẽ dễ bị từ chối."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để tập một buổi đàm phán tăng lương như thật ở trình độ C1.",
+    "prompt": "Hãy đóng vai sếp trực tiếp (line manager) của tôi, nói tiếng Anh trình độ C1, trong một buổi gặp riêng về lương. Tôi là nhân viên muốn xin tăng lương. Hãy bắt đầu bằng cách hỏi tôi muốn trao đổi điều gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người sếp thật — đôi khi đồng tình, đôi khi nêu khó khăn về ngân sách hoặc thời điểm để gây áp lực hợp lý; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt khéo léo, chuyên nghiệp hơn bằng tiếng Việt; (3) khuyến khích tôi dùng cấu trúc C1 như đảo ngữ 'Not only did I...', mệnh đề nhượng bộ 'Although/Despite...', mệnh đề quan hệ 'which/who', và các cụm như 'Given...', 'I was wondering if...', 'would you be open to...'. Ít nhất một lần hãy từ chối khéo để tôi tập đề xuất phương án thay thế. Cuối buổi, hãy chấm điểm khả năng đàm phán của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người sếp khó tính, hay ngắt lời và hỏi vặn về con số, để tôi tập giữ bình tĩnh và bảo vệ lập luận.'",
+      "Thêm: 'Sau khi luyện nói, hãy giúp tôi soạn một email ngắn trang trọng để xin lịch họp về lương.'",
+      "Thêm: 'Hãy yêu cầu tôi đưa ra dẫn chứng bằng con số cụ thể cho mọi thành tích tôi nêu.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời xin tăng lương được một cách tế nhị, dùng 'I was wondering if...' hoặc 'I'd like to revisit...'.",
+    "Tôi trình bày được thành tích bằng đảo ngữ 'Not only did I...' và gắn đề nghị với 'market rate' / kết quả cụ thể.",
+    "Tôi xử lý được lời từ chối và đề xuất phương án thay thế bằng 'Although..., I'd appreciate it if...' và 'would you be open to...?'."
+  ]
+}

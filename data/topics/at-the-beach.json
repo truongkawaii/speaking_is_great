@@ -1,0 +1,444 @@
+{
+  "id": "at-the-beach",
+  "category": "travel",
+  "title": "Ở bãi biển",
+  "titleEn": "At the Beach",
+  "level": "A2",
+  "functions": [
+    "asking-info",
+    "requesting",
+    "suggesting",
+    "small-talk"
+  ],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nói về việc đi biển và các hoạt động đơn giản (bơi, tắm nắng, chơi cát)",
+    "Hỏi và thuê đồ dùng ở bãi biển (ghế, dù, ván lướt) bằng câu lịch sự",
+    "Hỏi thông tin cơ bản: giá thuê, giờ giấc, thời tiết, độ an toàn",
+    "Dùng vài cấu trúc trọng tâm A2 để đề nghị và gợi ý ngắn gọn, tự nhiên"
+  ],
+  "vocabulary": [
+    {
+      "term": "beach",
+      "ipa": "/biːtʃ/",
+      "vi": "bãi biển (danh từ)",
+      "register": "neutral",
+      "example": "We went to the beach early in the morning.",
+      "exampleVi": "Chúng tôi ra bãi biển từ sáng sớm.",
+      "note": "Danh từ. Đừng nhầm với 'sea' (biển/nước biển nói chung). 'Beach' là dải cát ven biển nơi bạn nằm chơi.",
+      "synonyms": [
+        {
+          "term": "seaside",
+          "ipa": "/ˈsiː.saɪd/",
+          "register": "neutral",
+          "nuanceVi": "Anh-Anh hay dùng, nghĩa 'vùng ven biển có khu nghỉ'. Vd 'a day at the seaside'."
+        },
+        {
+          "term": "shore",
+          "ipa": "/ʃɔːr/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn vào 'mép nước, đường bờ' nơi sóng vỗ vào, hơi văn hơn 'beach'."
+        }
+      ]
+    },
+    {
+      "term": "to swim",
+      "ipa": "/swɪm/",
+      "vi": "bơi (động từ)",
+      "register": "neutral",
+      "example": "I love to swim in the sea when the water is warm.",
+      "exampleVi": "Tôi thích bơi ở biển khi nước ấm.",
+      "note": "Động từ bất quy tắc: swim - swam - swum. Danh từ: 'a swim' (Vd 'Let's go for a swim').",
+      "synonyms": [
+        {
+          "term": "to have a dip",
+          "ipa": "/hæv ə dɪp/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, nghĩa 'ngâm mình/bơi nhanh một chút', nhẹ nhàng hơn 'swim'."
+        }
+      ]
+    },
+    {
+      "term": "sunbathe",
+      "ipa": "/ˈsʌn.beɪð/",
+      "vi": "tắm nắng (động từ)",
+      "register": "neutral",
+      "example": "She likes to sunbathe on the warm sand.",
+      "exampleVi": "Cô ấy thích tắm nắng trên cát ấm.",
+      "note": "Động từ. Đuôi 'bathe' đọc là /beɪð/ (âm /ð/ rung), không phải /beɪθ/."
+    },
+    {
+      "term": "sunscreen",
+      "ipa": "/ˈsʌn.skriːn/",
+      "vi": "kem chống nắng (danh từ)",
+      "register": "neutral",
+      "example": "Don't forget to put on sunscreen before you go out.",
+      "exampleVi": "Đừng quên bôi kem chống nắng trước khi ra ngoài.",
+      "note": "Danh từ không đếm được. Cụm hay dùng: 'put on sunscreen' (bôi kem chống nắng).",
+      "synonyms": [
+        {
+          "term": "sunblock",
+          "ipa": "/ˈsʌn.blɒk/",
+          "register": "neutral",
+          "nuanceVi": "Gần như đồng nghĩa, nhấn ý 'chặn nắng mạnh'. Người Mỹ hay dùng cả hai từ."
+        },
+        {
+          "term": "suntan lotion",
+          "ipa": "/ˈsʌn.tæn ˌləʊ.ʃən/",
+          "register": "neutral",
+          "nuanceVi": "Loại kem để da rám nắng đẹp (không hẳn để chống nắng). Khác mục đích đôi chút."
+        }
+      ]
+    },
+    {
+      "term": "towel",
+      "ipa": "/ˈtaʊ.əl/",
+      "vi": "khăn tắm (danh từ)",
+      "register": "neutral",
+      "example": "I put my towel on the sand and lay down.",
+      "exampleVi": "Tôi trải khăn lên cát rồi nằm xuống.",
+      "note": "Danh từ. Phát âm hai âm tiết /ˈtaʊ.əl/, đừng đọc thành 'tao'. 'Beach towel' = khăn tắm biển to."
+    },
+    {
+      "term": "to rent",
+      "ipa": "/rent/",
+      "vi": "thuê (động từ)",
+      "register": "neutral",
+      "example": "We can rent a beach umbrella for the whole day.",
+      "exampleVi": "Mình có thể thuê một cái dù biển cả ngày.",
+      "note": "Động từ. 'rent' = trả tiền để dùng tạm. Danh từ 'rent' nghĩa là tiền thuê.",
+      "synonyms": [
+        {
+          "term": "to hire",
+          "ipa": "/ˈhaɪər/",
+          "register": "neutral",
+          "nuanceVi": "Anh-Anh dùng 'hire' cho thuê đồ/xe ngắn hạn; người Mỹ thường dùng 'rent'. Nghĩa như nhau ở ngữ cảnh này."
+        }
+      ]
+    },
+    {
+      "term": "wave",
+      "ipa": "/weɪv/",
+      "vi": "sóng biển (danh từ)",
+      "register": "neutral",
+      "example": "The waves are really big today.",
+      "exampleVi": "Hôm nay sóng to thật.",
+      "note": "Danh từ. 'wave' cũng là động từ 'vẫy tay'. Ở biển thường nói số nhiều 'waves'."
+    },
+    {
+      "term": "sandy",
+      "ipa": "/ˈsæn.di/",
+      "vi": "đầy cát, nhiều cát (tính từ)",
+      "register": "neutral",
+      "example": "It is a long, sandy beach with clear water.",
+      "exampleVi": "Đó là một bãi biển dài, đầy cát với nước trong.",
+      "note": "Tính từ tạo từ danh từ 'sand' (cát) + đuôi -y.",
+      "synonyms": [
+        {
+          "term": "rocky",
+          "ipa": "/ˈrɒk.i/",
+          "register": "neutral",
+          "nuanceVi": "Trái nghĩa thực dụng: bãi 'nhiều đá', không phải cát. Học kèm để mô tả loại bãi biển."
+        }
+      ]
+    },
+    {
+      "term": "crowded",
+      "ipa": "/ˈkraʊ.dɪd/",
+      "vi": "đông người (tính từ)",
+      "register": "neutral",
+      "example": "The beach gets crowded on weekends.",
+      "exampleVi": "Bãi biển đông người vào cuối tuần.",
+      "note": "Tính từ. Trái nghĩa: 'quiet' (vắng) hoặc 'empty' (trống).",
+      "synonyms": [
+        {
+          "term": "packed",
+          "ipa": "/pækt/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, nhấn mạnh 'rất đông, chật cứng'. Mạnh hơn 'crowded'."
+        },
+        {
+          "term": "busy",
+          "ipa": "/ˈbɪz.i/",
+          "register": "neutral",
+          "nuanceVi": "Nhẹ hơn, nghĩa 'nhộn nhịp, nhiều người qua lại', không hẳn chật chội."
+        }
+      ]
+    },
+    {
+      "term": "lifeguard",
+      "ipa": "/ˈlaɪf.ɡɑːrd/",
+      "vi": "nhân viên cứu hộ bãi biển (danh từ)",
+      "register": "neutral",
+      "example": "The lifeguard told us not to swim too far.",
+      "exampleVi": "Nhân viên cứu hộ bảo chúng tôi đừng bơi ra quá xa.",
+      "note": "Danh từ ghép: life (mạng sống) + guard (người canh giữ). Người ngồi trên ghế cao trông coi an toàn."
+    },
+    {
+      "term": "refreshing",
+      "ipa": "/rɪˈfreʃ.ɪŋ/",
+      "vi": "mát mẻ, sảng khoái (tính từ)",
+      "register": "neutral",
+      "example": "A swim in the sea is so refreshing on a hot day.",
+      "exampleVi": "Bơi biển vào ngày nóng thật sảng khoái.",
+      "note": "Tính từ. Dùng để khen cảm giác mát mẻ, dễ chịu (nước, gió, đồ uống).",
+      "synonyms": [
+        {
+          "term": "cool",
+          "ipa": "/kuːl/",
+          "register": "casual",
+          "nuanceVi": "Đơn giản, nghĩa 'mát'. Nhẹ và đời thường hơn 'refreshing' (vốn nhấn cảm giác hồi sức)."
+        }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "The clouds came in quickly and it started to rain.",
+      "exampleVi": "Mây kéo đến nhanh và trời bắt đầu mưa.",
+      "note": "Trạng từ từ 'quick' + -ly. Đứng sau động từ để nói hành động nhanh.",
+      "synonyms": [
+        {
+          "term": "fast",
+          "ipa": "/fɑːst/",
+          "register": "neutral",
+          "nuanceVi": "Vừa là tính từ vừa là trạng từ; 'fast' thiên về tốc độ di chuyển, 'quickly' rộng hơn (làm việc gì đó nhanh)."
+        },
+        {
+          "term": "rapidly",
+          "ipa": "/ˈræp.ɪd.li/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, hay dùng khi mô tả thay đổi/tăng giảm (vd 'prices rose rapidly')."
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "pattern": "Let's [động từ nguyên thể] ... .",
+      "use": "Rủ rê, đề xuất cùng làm gì đó một cách thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Let's go for a swim before lunch.",
+        "Let's find a quiet spot near the water."
+      ],
+      "explanationVi": "'Let's' = 'Let us', rủ cả hai cùng làm. Sau 'Let's' dùng động từ nguyên thể không 'to'. Mẫu A2 cực kỳ thông dụng khi đi chơi cùng bạn.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể] ... ?",
+      "use": "Gợi ý nhẹ nhàng dưới dạng câu hỏi.",
+      "register": "casual",
+      "examples": [
+        "Why don't we rent a beach umbrella?",
+        "Why don't we have lunch first?"
+      ],
+      "explanationVi": "Dù có 'Why' và 'don't', đây KHÔNG phải câu phủ định thật — nó là cách gợi ý lịch sự (= hay là mình...?). Sau nó dùng động từ nguyên thể.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Can I [động từ nguyên thể] ... ?",
+      "use": "Hỏi xin phép hoặc yêu cầu đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "Can I rent two beach chairs, please?",
+        "Can I leave my bag here for a minute?"
+      ],
+      "explanationVi": "'Can I...?' là cách hỏi cơ bản, dễ dùng ở trình độ A2. Thêm 'please' cho lịch sự. Muốn lịch sự hơn nữa thì dùng 'Could I...?'.",
+      "altOf": "requesting"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể] ... ?",
+      "use": "Yêu cầu lịch sự hơn 'Can I', hợp khi nói với người lạ.",
+      "register": "neutral",
+      "examples": [
+        "Could I rent an umbrella for the afternoon?",
+        "Could I have a beach towel as well?"
+      ],
+      "explanationVi": "'Could I...?' nghe nhã nhặn hơn 'Can I...?'. Rất hợp khi nói với nhân viên cho thuê đồ ở bãi biển.",
+      "altOf": "requesting"
+    },
+    {
+      "pattern": "How much is it to [động từ] ... ?",
+      "use": "Hỏi giá của một việc/dịch vụ.",
+      "register": "neutral",
+      "examples": [
+        "How much is it to rent a chair for the day?",
+        "How much is it to hire a surfboard?"
+      ],
+      "explanationVi": "Mẫu hỏi giá quen thuộc. Cũng có thể nói gọn 'How much is the umbrella?'. 'for the day' = thuê cả ngày.",
+      "altOf": "asking-price"
+    },
+    {
+      "pattern": "Is it safe to [động từ nguyên thể] ... ?",
+      "use": "Hỏi về độ an toàn trước khi làm gì đó.",
+      "register": "neutral",
+      "examples": [
+        "Is it safe to swim here today?",
+        "Is it safe to leave our things on the sand?"
+      ],
+      "explanationVi": "'safe' = an toàn. Mẫu này rất hữu ích ở biển để hỏi sóng, dòng chảy, hay để đồ trên cát."
+    },
+    {
+      "pattern": "It's so [tính từ] today!",
+      "use": "Khen/nhận xét nhanh về thời tiết hoặc cảnh vật.",
+      "register": "casual",
+      "examples": [
+        "It's so hot today!",
+        "The water is so refreshing today!"
+      ],
+      "explanationVi": "'so + tính từ' để nhấn mạnh cảm xúc (rất, quá). Câu mở đầu trò chuyện xã giao (small talk) tự nhiên ở bãi biển."
+    }
+  ],
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì...",
+      "when": "Khi muốn đính chính nhẹ hoặc nói thêm một ý.",
+      "example": "Actually, the water is a bit cold."
+    },
+    {
+      "term": "maybe",
+      "ipa": "/ˈmeɪ.bi/",
+      "vi": "có lẽ / chắc là",
+      "when": "Khi gợi ý hoặc đoán mà không chắc chắn.",
+      "example": "Maybe we should sit under an umbrella."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːrs/",
+      "vi": "tất nhiên rồi",
+      "when": "Khi đồng ý nhiệt tình với một lời đề nghị.",
+      "example": "Of course, here are your two chairs."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, what time do you close?"
+    },
+    {
+      "term": "really",
+      "ipa": "/ˈrɪə.li/",
+      "vi": "thật sự, rất",
+      "when": "Nhấn mạnh tính từ hoặc cảm xúc.",
+      "example": "The beach is really beautiful in the morning."
+    }
+  ],
+  "dialogue": {
+    "context": "Bạn và một người bạn đang ở một bãi biển vào ngày nắng đẹp. Hai bạn nói chuyện với nhau rồi tới quầy cho thuê đồ để thuê ghế và dù.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Wow, the beach is really beautiful today! The water looks so clear, and it isn't too crowded yet.",
+        "ipa": "/waʊ ðə biːtʃ ɪz ˈrɪə.li ˈbjuː.tɪ.fəl təˈdeɪ ðə ˈwɔː.tər lʊks səʊ klɪər ænd ɪt ˈɪz.ənt tuː ˈkraʊ.dɪd jet/",
+        "vi": "Ồ, hôm nay bãi biển đẹp thật! Nước trông trong veo, mà cũng chưa quá đông người."
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "I agree. It's so hot, though. Why don't we ____ a beach umbrella and two chairs, so we can sit in the shade?",
+        "ipa": "/aɪ əˈɡriː ɪts səʊ hɒt ðəʊ waɪ dəʊnt wiː ... ə biːtʃ ʌmˈbrel.ə ænd tuː tʃeəz səʊ wiː kæn sɪt ɪn ðə ʃeɪd/",
+        "vi": "Mình đồng ý. Mà nóng quá. Hay là mình ____ một cái dù biển và hai cái ghế, để ngồi trong bóng râm nhỉ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "rent",
+            "explanationVi": "Dùng động từ 'rent' (thuê) sau 'Why don't we'. Sau 'Why don't we' luôn là động từ nguyên thể không chia. Xem mẫu câu gợi ý 'Why don't we...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good idea! Let's go to that rental stand over there. Although the sun is lovely now, we'll definitely need some shade later.",
+        "ipa": "/ɡʊd aɪˈdɪə lets ɡəʊ tə ðæt ˈren.təl stænd ˈəʊ.vər ðeə ɔːlˈðəʊ ðə sʌn ɪz ˈlʌv.li naʊ wiːl ˈdef.ɪ.nət.li niːd səm ʃeɪd ˈleɪ.tər/",
+        "vi": "Ý hay đấy! Mình ra cái quầy cho thuê đằng kia đi. Mặc dù bây giờ nắng dễ chịu, nhưng lát nữa chắc chắn mình sẽ cần chỗ râm."
+      },
+      {
+        "speaker": "Nhân viên cho thuê",
+        "text": "Hello there! How can I help you both today?",
+        "ipa": "/həˈləʊ ðeə haʊ kæn aɪ help juː bəʊθ təˈdeɪ/",
+        "vi": "Chào hai bạn! Hôm nay tôi có thể giúp gì cho hai bạn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi! ____ I rent one umbrella and two chairs for the whole day, please? Also, how much is it in total?",
+        "ipa": "/haɪ ... aɪ rent wʌn ʌmˈbrel.ə ænd tuː tʃeəz fɔːr ðə həʊl deɪ pliːz ˈɔːl.səʊ haʊ mʌtʃ ɪz ɪt ɪn ˈtəʊ.təl/",
+        "vi": "Chào anh! ____ tôi thuê một cái dù và hai cái ghế cả ngày được không ạ? Với lại, tổng cộng bao nhiêu tiền vậy ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "Dùng 'Could I...?' để yêu cầu lịch sự với nhân viên (lịch sự hơn 'Can I...?'). Xem mẫu câu yêu cầu 'Could I...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên cho thuê",
+        "text": "Of course! That will be fifteen dollars in total. The chairs are comfortable, and the umbrella is big, so both of you will fit nicely in the shade.",
+        "ipa": "/əv ˈkɔːrs ðæt wɪl biː fɪfˈtiːn ˈdɒl.əz ɪn ˈtəʊ.təl ðə tʃeəz ɑːr ˈkʌm.fə.tə.bəl ænd ðə ʌmˈbrel.ə ɪz bɪɡ səʊ bəʊθ əv juː wɪl fɪt ˈnaɪs.li ɪn ðə ʃeɪd/",
+        "vi": "Tất nhiên rồi! Tổng cộng là mười lăm đô. Ghế rất êm, còn dù thì to, nên cả hai bạn ngồi vừa thoải mái trong bóng râm."
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "Perfect. By the way, is it ____ to swim here? The waves look a little big today.",
+        "ipa": "/ˈpɜː.fɪkt baɪ ðə weɪ ɪz ɪt ... tə swɪm hɪə ðə weɪvz lʊk ə ˈlɪt.əl bɪɡ təˈdeɪ/",
+        "vi": "Tuyệt. Tiện thể, bơi ở đây có ____ không ạ? Hôm nay sóng trông hơi to.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "safe",
+            "explanationVi": "Dùng tính từ 'safe' (an toàn) trong mẫu 'Is it safe to + động từ?'. Đây là cách hỏi về độ an toàn trước khi xuống nước."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên cho thuê",
+        "text": "Yes, it's safe, but please swim between the flags, where the lifeguard can see you. The water is really refreshing, although it can get a bit cold in the afternoon.",
+        "ipa": "/jes ɪts seɪf bʌt pliːz swɪm bɪˈtwiːn ðə flæɡz weə ðə ˈlaɪf.ɡɑːd kæn siː juː ðə ˈwɔː.tər ɪz ˈrɪə.li rɪˈfreʃ.ɪŋ ɔːlˈðəʊ ɪt kæn ɡet ə bɪt kəʊld ɪn ðə ˌɑːf.tərˈnuːn/",
+        "vi": "Vâng, an toàn ạ, nhưng hai bạn nhớ bơi giữa hai lá cờ, nơi nhân viên cứu hộ nhìn thấy. Nước rất mát, dù buổi chiều có thể hơi lạnh một chút."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much! Let's put on some ____ first, and then we can go for a swim right away.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ lets pʊt ɒn səm ... fɜːst ænd ðen wiː kæn ɡəʊ fɔːr ə swɪm raɪt əˈweɪ/",
+        "vi": "Cảm ơn anh nhiều! Mình bôi ____ trước đã, rồi mình đi bơi luôn nhé.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "sunscreen",
+            "explanationVi": "Danh từ 'sunscreen' (kem chống nắng) đi với cụm 'put on sunscreen' (bôi kem chống nắng). Đây là từ vựng trọng tâm của bài."
+          }
+        ]
+      }
+    ]
+  },
+  "culturalNotes": [
+    "Ở nhiều bãi biển phương Tây, bạn bơi giữa hai lá cờ đỏ-vàng để nhân viên cứu hộ (lifeguard) trông coi. Cờ đỏ nghĩa là cấm xuống nước vì nguy hiểm.",
+    "Thuê ghế và dù (deck chair, umbrella) theo giờ hoặc theo ngày là dịch vụ rất phổ biến ở bãi biển du lịch; nên hỏi giá trước khi dùng.",
+    "Người phương Tây rất coi trọng chống nắng: bôi 'sunscreen' thường xuyên là chuyện bình thường, không phải làm dáng.",
+    "Giữ bãi biển sạch là phép lịch sự: mang rác của mình về và bỏ đúng thùng."
+  ],
+  "commonMistakes": [
+    "Nói 'I want to rent a chair' nghe hơi cộc. Người bản xứ dùng 'Could I rent...?' hoặc 'Can I rent..., please?' cho lịch sự.",
+    "Nhầm 'beach' /biːtʃ/ với 'sea'. 'Beach' là bãi cát, 'sea' là nước biển/biển nói chung.",
+    "Quên mạo từ 'a': phải nói 'rent A chair', 'put on sunscreen' (sunscreen không đếm được nên không có 'a').",
+    "Phát âm sai 'sunbathe' — đuôi đọc /beɪð/ (âm /ð/ rung), không phải /beɪθ/."
+  ],
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ở bãi biển như thật.",
+    "prompt": "Hãy đóng vai một nhân viên cho thuê đồ ở bãi biển nói tiếng Anh, dùng câu đơn giản cho người mới học (trình độ A2). Tôi là khách du lịch muốn thuê ghế và dù, hỏi giá và hỏi xem bơi có an toàn không. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ hết ghế, trời sắp mưa, sóng to nên không được bơi) để tôi tập xử lý. Hãy nói chậm, thân thiện và dùng câu ngắn. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy dùng câu dài hơn một chút và thêm vài trạng từ như really, actually.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi vài câu mẫu để học thuộc.'"
+    ]
+  },
+  "selfCheck": [
+    "Tôi rủ bạn làm gì đó được bằng 'Let's...' hoặc 'Why don't we...?' mà không cần nhìn gợi ý.",
+    "Tôi thuê được ghế/dù và hỏi giá bằng câu lịch sự ('Could I...?', 'How much is it...?').",
+    "Tôi hỏi được về độ an toàn khi bơi bằng mẫu 'Is it safe to...?'."
+  ]
+}

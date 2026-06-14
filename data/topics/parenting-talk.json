@@ -1,0 +1,325 @@
+{
+  "id": "parenting-talk",
+  "category": "family",
+  "title": "Chuyện nuôi dạy con",
+  "titleEn": "Parenting Talk",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "suggesting", "agreeing"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Trò chuyện tự nhiên với phụ huynh khác về việc nuôi dạy con",
+    "Bày tỏ quan điểm về cách dạy con và lắng nghe ý kiến khác",
+    "Đưa ra lời khuyên hoặc gợi ý một cách nhẹ nhàng, không áp đặt",
+    "Dùng các cấu trúc B1 (such as, because, although, in order to) khi nói về con cái"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to raise (a child)",
+      "ipa": "/reɪz/",
+      "vi": "nuôi dạy (con) (động từ)",
+      "register": "neutral",
+      "example": "It isn't easy to raise a child while working full-time.",
+      "exampleVi": "Nuôi dạy một đứa trẻ trong khi làm việc toàn thời gian không hề dễ.",
+      "note": "Động từ. 'Raise a child' = nuôi dạy con (cả về thể chất lẫn tính cách). Đừng nhầm với 'rise' (tự dâng lên, không có tân ngữ).",
+      "synonyms": [
+        { "term": "to bring up", "ipa": "/brɪŋ ʌp/", "register": "neutral", "nuanceVi": "Cụm động từ rất phổ biến trong tiếng Anh-Anh, nghĩa gần như y hệt 'raise'. Có thể tách: 'bring children up'." },
+        { "term": "to rear", "ipa": "/rɪər/", "register": "formal", "nuanceVi": "Trang trọng/hơi cũ, hay gặp trong văn viết. Nói chuyện hằng ngày ít dùng." }
+      ]
+    },
+    {
+      "term": "to behave",
+      "ipa": "/bɪˈheɪv/",
+      "vi": "cư xử, ngoan ngoãn (động từ)",
+      "register": "neutral",
+      "example": "The kids behaved really well at the party.",
+      "exampleVi": "Bọn trẻ cư xử rất ngoan ở bữa tiệc.",
+      "note": "Động từ. 'Behave well/badly' = cư xử tốt/xấu. Danh từ là 'behaviour' (Anh-Anh) / 'behavior' (Anh-Mỹ).",
+      "synonyms": [
+        { "term": "to act", "ipa": "/ækt/", "register": "casual", "nuanceVi": "Đời thường hơn, thường đi với 'up': 'The kids are acting up' = bọn trẻ đang quậy/hư." }
+      ]
+    },
+    {
+      "term": "discipline",
+      "ipa": "/ˈdɪs.ə.plɪn/",
+      "vi": "kỷ luật, sự rèn nề nếp (danh từ)",
+      "register": "neutral",
+      "example": "Children need a bit of discipline to feel secure.",
+      "exampleVi": "Trẻ con cần một chút kỷ luật để cảm thấy an toàn.",
+      "note": "Danh từ (và cả động từ: 'to discipline a child' = rèn/phạt con). Trọng âm rơi vào âm đầu: DIS-ci-pline.",
+      "synonyms": [
+        { "term": "boundaries", "ipa": "/ˈbaʊn.dər.iz/", "register": "neutral", "nuanceVi": "Nghĩa 'giới hạn, ranh giới được phép'. Hiện đại và nhẹ nhàng hơn 'discipline', nhấn vào việc đặt quy tắc rõ ràng thay vì trừng phạt." },
+        { "term": "control", "ipa": "/kənˈtrəʊl/", "register": "neutral", "nuanceVi": "Nhấn 'kiểm soát'. Có thể nghe hơi tiêu cực/áp đặt nếu lạm dụng khi nói về con cái." }
+      ]
+    },
+    {
+      "term": "to spoil",
+      "ipa": "/spɔɪl/",
+      "vi": "nuông chiều (làm hư) (động từ)",
+      "register": "neutral",
+      "example": "Grandparents often spoil their grandchildren.",
+      "exampleVi": "Ông bà thường nuông chiều cháu.",
+      "note": "Động từ. 'Spoil a child' = chiều quá mức khiến hư. Quá khứ: spoiled / spoilt (cả hai đều đúng).",
+      "synonyms": [
+        { "term": "to pamper", "ipa": "/ˈpæm.pər/", "register": "neutral", "nuanceVi": "Nhấn 'chăm chút, cưng nựng', sắc thái nhẹ và ít tiêu cực hơn 'spoil' (vốn ám chỉ làm hư)." }
+      ]
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "kiên nhẫn (tính từ)",
+      "register": "neutral",
+      "example": "You have to be very patient with toddlers.",
+      "exampleVi": "Bạn phải rất kiên nhẫn với trẻ mới biết đi.",
+      "note": "Tính từ. Danh từ là 'patience' /ˈpeɪ.ʃəns/ (sự kiên nhẫn). Đừng nhầm 'patient' (kiên nhẫn) với 'patient' (bệnh nhân) — viết giống nhau.",
+      "synonyms": [
+        { "term": "tolerant", "ipa": "/ˈtɒl.ər.ənt/", "register": "neutral", "nuanceVi": "Nhấn 'bao dung, chịu đựng được điều khó chịu'. Khác 'patient' (biết chờ đợi, không nóng vội)." },
+        { "term": "easy-going", "ipa": "/ˌiː.ziˈɡəʊ.ɪŋ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'dễ tính, thoải mái'. Mô tả tính cách chung chứ không chỉ riêng việc chờ đợi." }
+      ]
+    },
+    {
+      "term": "strict",
+      "ipa": "/strɪkt/",
+      "vi": "nghiêm khắc (tính từ)",
+      "register": "neutral",
+      "example": "My parents were quite strict about bedtime.",
+      "exampleVi": "Bố mẹ tôi khá nghiêm khắc về giờ đi ngủ.",
+      "note": "Tính từ. 'Strict about/with' = nghiêm khắc về/với. Trái nghĩa: lenient (dễ dãi), easy-going.",
+      "synonyms": [
+        { "term": "firm", "ipa": "/fɜːm/", "register": "neutral", "nuanceVi": "Nhấn 'kiên định, dứt khoát' nhưng không cứng nhắc. Nghe tích cực hơn 'strict' khi nói về cách dạy con." },
+        { "term": "harsh", "ipa": "/hɑːʃ/", "register": "neutral", "nuanceVi": "Mang nghĩa tiêu cực rõ: 'khắc nghiệt, gay gắt'. Dùng khi muốn phê phán cách dạy quá nặng." }
+      ]
+    },
+    {
+      "term": "to encourage",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "vi": "khuyến khích, động viên (động từ)",
+      "register": "neutral",
+      "example": "We try to encourage our son to read every day.",
+      "exampleVi": "Chúng tôi cố gắng khuyến khích con trai đọc sách mỗi ngày.",
+      "note": "Động từ. Cấu trúc: 'encourage somebody TO do something'. Trái nghĩa: discourage.",
+      "synonyms": [
+        { "term": "to motivate", "ipa": "/ˈməʊ.tɪ.veɪt/", "register": "neutral", "nuanceVi": "Nhấn 'tạo động lực từ bên trong'. Hơi mạnh và 'lý trí' hơn 'encourage' (nghiêng về động viên tinh thần)." },
+        { "term": "to support", "ipa": "/səˈpɔːt/", "register": "neutral", "nuanceVi": "Nhấn 'ủng hộ, hỗ trợ', rộng hơn — bao gồm cả giúp đỡ thực tế chứ không chỉ động viên bằng lời." }
+      ]
+    },
+    {
+      "term": "tantrum",
+      "ipa": "/ˈtæn.trəm/",
+      "vi": "cơn ăn vạ, mè nheo (danh từ)",
+      "register": "neutral",
+      "example": "My daughter threw a tantrum in the supermarket.",
+      "exampleVi": "Con gái tôi ăn vạ ngay trong siêu thị.",
+      "note": "Danh từ. Cụm cố định: 'throw / have a tantrum' = ăn vạ, làm mình làm mẩy. Rất thường gặp với trẻ nhỏ."
+    },
+    {
+      "term": "calmly",
+      "ipa": "/ˈkɑːm.li/",
+      "vi": "một cách bình tĩnh (trạng từ)",
+      "register": "neutral",
+      "example": "She always speaks to the children calmly, even when they misbehave.",
+      "exampleVi": "Cô ấy luôn nói chuyện với bọn trẻ một cách bình tĩnh, ngay cả khi chúng hư.",
+      "note": "Trạng từ. Chữ 'l' trong 'calm' câm: đọc /kɑːm/, không đọc /kælm/.",
+      "synonyms": [
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, dịu dàng' (trong cử chỉ/giọng nói). Khác 'calmly' (không nóng giận, giữ bình tĩnh)." },
+        { "term": "patiently", "ipa": "/ˈpeɪ.ʃənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'một cách kiên nhẫn, không vội vã'. Hợp khi nói về việc lặp đi lặp lại với trẻ." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "dần dần, từ từ (trạng từ)",
+      "register": "neutral",
+      "example": "Children gradually learn to control their emotions.",
+      "exampleVi": "Trẻ con dần dần học cách kiểm soát cảm xúc.",
+      "note": "Trạng từ. Diễn tả sự thay đổi diễn ra từng chút một theo thời gian. Đối nghĩa: suddenly (đột ngột).",
+      "synonyms": [
+        { "term": "slowly", "ipa": "/ˈsləʊ.li/", "register": "neutral", "nuanceVi": "Đơn giản, nhấn 'chậm'. 'Gradually' nhấn thêm ý 'theo từng bước, có tiến triển', còn 'slowly' chỉ thuần về tốc độ." },
+        { "term": "step by step", "ipa": "/step baɪ step/", "register": "casual", "nuanceVi": "Cụm đời thường, nhấn 'từng bước một'. Dễ hình dung khi nói về quá trình học/dạy." }
+      ]
+    },
+    {
+      "term": "upbringing",
+      "ipa": "/ˈʌpˌbrɪŋ.ɪŋ/",
+      "vi": "sự nuôi dạy, cách giáo dục (từ nhỏ) (danh từ)",
+      "register": "neutral",
+      "example": "He had a very traditional upbringing.",
+      "exampleVi": "Anh ấy được nuôi dạy theo cách rất truyền thống.",
+      "note": "Danh từ, không đếm được. Chỉ toàn bộ cách một người được dạy dỗ khi còn nhỏ. Liên quan động từ 'bring up'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I think it's important to [động từ], because [mệnh đề].",
+      "use": "Bày tỏ quan điểm về cách nuôi dạy con và đưa lý do.",
+      "register": "neutral",
+      "examples": [
+        "I think it's important to set clear rules, because children feel safer when they know the limits."
+      ],
+      "explanationVi": "Mẫu nêu ý kiến cơ bản ở trình độ B1: 'I think + it's important to + V'. Thêm 'because' để giải thích lý do, giúp câu dài và thuyết phục hơn.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "In my opinion, children should [động từ], especially when [mệnh đề].",
+      "use": "Nêu quan điểm cá nhân kèm điều kiện/bối cảnh.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, children should learn to share, especially when they have brothers or sisters."
+      ],
+      "explanationVi": "'In my opinion' hơi trang trọng hơn 'I think', hợp khi muốn nhấn đây là ý kiến riêng. 'especially when' giúp khoanh vùng tình huống cụ thể.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "Have you tried [V-ing]? It really worked for us.",
+      "use": "Gợi ý nhẹ nhàng một cách làm dựa trên kinh nghiệm của mình.",
+      "register": "casual",
+      "examples": [
+        "Have you tried reading to her before bed? It really worked for us."
+      ],
+      "explanationVi": "Đặt câu hỏi 'Have you tried...?' nghe như gợi ý chứ không ra lệnh, lịch sự hơn 'You should...'. Sau 'tried' dùng V-ing.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "If I were you, I'd [động từ].",
+      "use": "Đưa lời khuyên một cách khéo léo (đặt mình vào vị trí người kia).",
+      "register": "neutral",
+      "examples": [
+        "If I were you, I'd stay calm and wait until the tantrum is over."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 dùng để khuyên: 'If I were you' (luôn dùng 'were'), theo sau là 'I'd + V' (= I would). Cách khuyên này nhã nhặn, không áp đặt.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "We try to [động từ] in order to [động từ].",
+      "use": "Nói về cách mình làm và mục đích của nó.",
+      "register": "neutral",
+      "examples": [
+        "We try to limit screen time in order to help them sleep better."
+      ],
+      "explanationVi": "'in order to + V' diễn tả mục đích (= để mà...), trang trọng và rõ ràng hơn 'to' đơn thuần. Là cấu trúc TOEIC hay gặp."
+    },
+    {
+      "pattern": "Although [mệnh đề], we still [động từ].",
+      "use": "Thừa nhận một khó khăn nhưng vẫn giữ một cách làm.",
+      "register": "neutral",
+      "examples": [
+        "Although it's tiring, we still read to our kids every single night."
+      ],
+      "explanationVi": "'Although' mở đầu mệnh đề nhượng bộ (mặc dù...). Lưu ý: không dùng 'but' ở mệnh đề sau khi đã có 'although' ở đầu."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một chia sẻ chân thành về việc làm cha mẹ vốn không dễ.", "example": "Honestly, some days are really exhausting." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi muốn đính chính nhẹ hoặc đưa ra một góc nhìn hơi khác.", "example": "Actually, I find that being too strict makes things worse." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Khi muốn nhìn nhận một mặt khác, công tâm hơn.", "example": "To be fair, every child is different." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Đồng tình mạnh mẽ với điều người kia vừa nói.", "example": "Of course, you know your own child best." },
+    { "term": "I guess", "ipa": "/aɪ ɡes/", "vi": "tôi nghĩ chắc là", "when": "Đưa ý kiến một cách nhẹ nhàng, không quá chắc chắn.", "example": "I guess every family has its own way of doing things." }
+  ],
+
+  "dialogue": {
+    "context": "Hai phụ huynh (Lan và Mai) tình cờ gặp nhau ở cổng trường khi đón con, và trò chuyện về chuyện nuôi dạy con cái.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Hi Mai! It's so nice to see you here. Honestly, I'm exhausted today, because my son threw a huge ____ this morning and refused to go to school.",
+        "ipa": "/haɪ maɪ ɪts səʊ naɪs tə siː juː hɪər ˈɒn.ɪst.li aɪm ɪɡˈzɔːs.tɪd təˈdeɪ bɪˈkɒz maɪ sʌn θruː ə hjuːdʒ ... ðɪs ˈmɔːn.ɪŋ ænd rɪˈfjuːzd tə ɡəʊ tə skuːl/",
+        "vi": "Chào Mai! Gặp bạn ở đây thật vui. Thành thật mà nói, hôm nay tôi kiệt sức, vì sáng nay con trai tôi ăn vạ một trận to đùng và không chịu đi học.",
+        "blanks": [
+          { "type": "knowledge", "answer": "tantrum", "explanationVi": "Cụm cố định 'throw a tantrum' = ăn vạ, làm mình làm mẩy. Đây là từ vựng trong bài, rất hay gặp với trẻ nhỏ." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Oh, I know that feeling so well! My daughter does exactly the same thing, especially when she's tired. To be fair, ____ every child is different, so what works for one may not work for another.",
+        "ipa": "/əʊ aɪ nəʊ ðæt ˈfiː.lɪŋ səʊ wel maɪ ˈdɔː.tər dʌz ɪɡˈzækt.li ðə seɪm θɪŋ ɪˈspeʃ.əl.i wen ʃiːz ˈtaɪəd tə biː feər ... ˈev.ri tʃaɪld ɪz ˈdɪf.ər.ənt səʊ wɒt wɜːks fɔːr wʌn meɪ nɒt wɜːk fɔːr əˈnʌð.ər/",
+        "vi": "Ôi, tôi hiểu cảm giác đó quá rõ luôn! Con gái tôi cũng làm y hệt vậy, đặc biệt là khi nó mệt. Công bằng mà nói, mỗi đứa trẻ một khác, nên cách hiệu quả với đứa này chưa chắc hiệu quả với đứa kia.",
+        "blanks": [
+          { "type": "personal", "hint": "Bạn có thể thêm một từ nối nhỏ trước câu nhận xét, ví dụ: 'well' hoặc để trống cũng được." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's so true. I think it's important to stay ____ when they cry, ____ it's really hard sometimes. If I shout, my son just gets even more upset.",
+        "ipa": "/ðæts səʊ truː aɪ θɪŋk ɪts ɪmˈpɔː.tənt tə steɪ ... wen ðeɪ kraɪ ... ɪts ˈrɪə.li hɑːd ˈsʌm.taɪmz ɪf aɪ ʃaʊt maɪ sʌn dʒʌst ɡets ˈiː.vən mɔːr ʌpˈset/",
+        "vi": "Đúng quá đi. Tôi nghĩ điều quan trọng là phải giữ ____ khi chúng khóc, ____ đôi khi thật sự rất khó. Nếu tôi quát lên, con trai tôi chỉ càng buồn bực hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "calm", "explanationVi": "'stay calm' = giữ bình tĩnh. Sau 'stay' (động từ nối) dùng tính từ 'calm', không dùng trạng từ 'calmly'." },
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: giữ bình tĩnh là quan trọng, mặc dù khó. Xem mẫu câu 'Although..., we still...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Exactly. Have you tried giving him a little warning before things change, such as ____? It really worked for us, although it took a few weeks.",
+        "ipa": "/ɪɡˈzækt.li hæv juː traɪd ˈɡɪv.ɪŋ hɪm ə ˈlɪt.əl ˈwɔː.nɪŋ bɪˈfɔːr θɪŋz tʃeɪndʒ sʌtʃ æz ... ɪt ˈrɪə.li wɜːkt fɔːr ʌs ɔːlˈðəʊ ɪt tʊk ə fjuː wiːks/",
+        "vi": "Chính xác. Bạn đã thử báo trước cho bé một chút trước khi mọi thứ thay đổi chưa, chẳng hạn như ____? Cách đó thật sự hiệu quả với nhà tôi, dù mất vài tuần.",
+        "blanks": [
+          { "type": "personal", "hint": "Một ví dụ về lời báo trước cho trẻ. Ví dụ: 'five more minutes, then bedtime' (năm phút nữa rồi đi ngủ)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That sounds helpful. I guess I should be more ____ but still firm, because children need clear boundaries in order to feel secure.",
+        "ipa": "/ðæt saʊndz ˈhelp.fəl aɪ ɡes aɪ ʃʊd biː mɔːr ... bʌt stɪl fɜːm bɪˈkɒz ˈtʃɪl.drən niːd klɪər ˈbaʊn.dər.iz ɪn ˈɔː.dər tə fiːl sɪˈkjʊər/",
+        "vi": "Nghe có vẻ hữu ích đấy. Tôi nghĩ chắc mình nên ____ hơn nhưng vẫn dứt khoát, vì trẻ con cần ranh giới rõ ràng để cảm thấy an toàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "patient", "explanationVi": "Sau 'be more' dùng tính từ. 'patient' (kiên nhẫn) hợp ngữ cảnh và đối lại với 'firm' (dứt khoát) ngay sau đó." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Definitely. My mother was very ____ with me when I was young, but to be honest, I'm trying to encourage my kids more instead of just punishing them.",
+        "ipa": "/ˈdef.ɪn.ət.li maɪ ˈmʌð.ər wɒz ˈver.i ... wɪð miː wen aɪ wɒz jʌŋ bʌt tə biː ˈɒn.ɪst aɪm ˈtraɪ.ɪŋ tʊ ɪnˈkʌr.ɪdʒ maɪ kɪdz mɔːr ɪnˈsted ɒv dʒʌst ˈpʌn.ɪʃ.ɪŋ ðəm/",
+        "vi": "Chắc chắn rồi. Mẹ tôi từng rất ____ với tôi hồi nhỏ, nhưng thành thật mà nói, tôi đang cố khuyến khích các con nhiều hơn thay vì chỉ phạt chúng.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ mô tả cách mẹ bạn dạy bạn. Ví dụ: 'strict' (nghiêm khắc) hoặc 'easy-going' (dễ tính)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I completely agree. Children gradually learn good behaviour when we praise them, not only when we correct them. If I ____ you, I'd reward the small wins too.",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː ˈtʃɪl.drən ˈɡrædʒ.u.ə.li lɜːn ɡʊd bɪˈheɪ.vjər wen wiː preɪz ðəm nɒt ˈəʊn.li wen wiː kəˈrekt ðəm ɪf aɪ ... juː aɪd rɪˈwɔːd ðə smɔːl wɪnz tuː/",
+        "vi": "Tôi hoàn toàn đồng ý. Trẻ con dần dần học cách cư xử tốt khi ta khen chúng, chứ không chỉ khi ta sửa lỗi cho chúng. Nếu là bạn, tôi cũng sẽ thưởng cho cả những thành công nhỏ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "were", "explanationVi": "Câu điều kiện loại 2 dùng để khuyên: 'If I WERE you, I'd...'. Luôn dùng 'were' cho mọi chủ ngữ trong cấu trúc này. Xem mẫu câu 'If I were you, I'd...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "What great advice! It's lovely to share these things with another parent who really understands. Let's grab a coffee next week and chat more, shall we?",
+        "ipa": "/wɒt ɡreɪt ədˈvaɪs ɪts ˈlʌv.li tə ʃeər ðiːz θɪŋz wɪð əˈnʌð.ər ˈpeə.rənt huː ˈrɪə.li ˌʌn.dəˈstændz lets ɡræb ə ˈkɒf.i nekst wiːk ænd tʃæt mɔːr ʃæl wiː/",
+        "vi": "Lời khuyên hay quá! Thật dễ chịu khi được chia sẻ những điều này với một phụ huynh thực sự thấu hiểu. Tuần sau mình đi cà phê và trò chuyện thêm nhé?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, cha mẹ thường khen ngợi cụ thể ('I'm proud of how you shared your toys') thay vì khen chung chung, vì điều này giúp trẻ hiểu rõ hành vi nào là tốt.",
+    "Phương pháp 'time-out' (cho trẻ ngồi yên một chỗ vài phút để bình tĩnh) rất phổ biến ở Anh, Mỹ, được xem là cách kỷ luật tích cực thay cho việc đánh mắng.",
+    "Nói chuyện với phụ huynh khác về con cái là chủ đề small-talk an toàn và gắn kết, nhưng tránh so sánh con mình giỏi hơn con họ — điều này bị xem là kém tế nhị.",
+    "Quan niệm 'cha mẹ nghiêm khắc mới tốt' ở châu Á khác với xu hướng 'nuôi con tích cực, tôn trọng cảm xúc' đang phổ biến ở phương Tây — cả hai đều có giá trị riêng."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'raise' nhầm thành 'rise': 'raise a child' (có tân ngữ) đúng; 'rise' không có tân ngữ (the sun rises).",
+    "Sau động từ nối 'stay/be' phải dùng tính từ: nói 'stay calm', không nói 'stay calmly'.",
+    "Quên 'to' sau 'encourage somebody': đúng là 'encourage him TO read', không phải 'encourage him read'.",
+    "Câu điều kiện khuyên nhủ phải dùng 'were': 'If I WERE you', không phải 'If I WAS you' (dù trong nói chuyện rất đời thường người ta đôi khi nói 'was')."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về nuôi dạy con như thật.",
+    "prompt": "Hãy đóng vai một phụ huynh nói tiếng Anh, cùng tôi trò chuyện về chuyện nuôi dạy con cái ở mức độ B1 (câu vừa phải, không quá khó). Hãy bắt đầu bằng cách chào tôi ở cổng trường và hỏi về con tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một phụ huynh thật, chia sẻ kinh nghiệm của bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các cấu trúc như 'I think it's important to...', 'If I were you, I'd...', 'such as', 'because'. Cuối buổi, hãy nêu 3 điểm tôi làm tốt và 2 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đưa ra một tình huống khó (con tôi ăn vạ nơi công cộng) để tôi tập đưa lời khuyên.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng vài thành ngữ về gia đình để tôi học thêm.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được ít nhất 2 câu nêu quan điểm về cách dạy con (dùng 'I think it's important to...' hoặc 'In my opinion...').",
+    "Tôi đưa được một lời khuyên nhẹ nhàng bằng 'If I were you, I'd...' hoặc 'Have you tried...?'.",
+    "Tôi dùng đúng 'because', 'although' và 'in order to' khi nói về con cái."
+  ]
+}

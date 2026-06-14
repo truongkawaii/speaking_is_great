@@ -1,0 +1,348 @@
+{
+  "id": "video-call-relatives",
+  "category": "family",
+  "title": "Gọi video cho người thân",
+  "titleEn": "Video-Calling Relatives",
+  "level": "A2",
+  "functions": ["greetings", "small-talk", "asking-info", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mở đầu và kết thúc một cuộc gọi video với người thân một cách tự nhiên",
+    "Hỏi thăm sức khỏe và tin tức của gia đình bằng câu đơn giản",
+    "Kể ngắn gọn về cuộc sống, công việc hoặc việc học của mình",
+    "Xử lý các sự cố thường gặp khi gọi video (mạng yếu, hình mờ, âm thanh ngắt)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "video call",
+      "ipa": "/ˈvɪd.i.əʊ kɔːl/",
+      "vi": "cuộc gọi video (danh từ)",
+      "register": "neutral",
+      "example": "We have a video call with grandma every Sunday.",
+      "exampleVi": "Chủ nhật nào chúng tôi cũng gọi video cho bà.",
+      "note": "Danh từ. Động từ là 'to video-call' hoặc 'to video chat'. Cũng hay nói 'a call on Zoom/Messenger'.",
+      "synonyms": [
+        { "term": "video chat", "ipa": "/ˈvɪd.i.əʊ tʃæt/", "register": "casual", "nuanceVi": "Đời thường, thân mật hơn; nghe nhẹ nhàng như 'trò chuyện video'." },
+        { "term": "FaceTime", "ipa": "/ˈfeɪs.taɪm/", "register": "casual", "nuanceVi": "Tên ứng dụng của Apple, nhưng người ta hay dùng như động từ chung: 'Let's FaceTime tonight.' Chỉ hợp khi dùng thiết bị Apple." }
+      ]
+    },
+    {
+      "term": "relative",
+      "ipa": "/ˈrel.ə.tɪv/",
+      "vi": "người thân, họ hàng (danh từ)",
+      "register": "neutral",
+      "example": "I miss my relatives back home.",
+      "exampleVi": "Tôi nhớ người thân ở quê nhà.",
+      "note": "Danh từ, thường dùng số nhiều 'relatives'. Chỉ họ hàng nói chung (cô, dì, chú, bác, ông bà...).",
+      "synonyms": [
+        { "term": "family member", "ipa": "/ˈfæm.əl.i ˌmem.bər/", "register": "neutral", "nuanceVi": "Trung tính, nhấn vào 'một thành viên trong gia đình'. Dễ dùng và an toàn." },
+        { "term": "loved ones", "ipa": "/ˈlʌvd wʌnz/", "register": "neutral", "nuanceVi": "Mang sắc thái tình cảm 'những người mình yêu thương'. Ấm áp hơn, hay dùng khi nói về nhớ nhung." }
+      ]
+    },
+    {
+      "term": "to miss",
+      "ipa": "/mɪs/",
+      "vi": "nhớ (ai/cái gì) (động từ)",
+      "register": "neutral",
+      "example": "I really miss you, Grandma.",
+      "exampleVi": "Cháu nhớ bà lắm.",
+      "note": "Động từ. 'miss + somebody/something'. Đừng nhầm với nghĩa 'lỡ, bỏ lỡ' (miss the bus).",
+      "synonyms": [
+        { "term": "to long for", "ipa": "/lɒŋ fɔːr/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ hơn, nhấn 'khao khát, mong mỏi'. Ít dùng trong nói chuyện đời thường." }
+      ]
+    },
+    {
+      "term": "to connect",
+      "ipa": "/kəˈnekt/",
+      "vi": "kết nối (mạng/thiết bị) (động từ)",
+      "register": "neutral",
+      "example": "I can't connect to the wifi here.",
+      "exampleVi": "Tôi không kết nối được wifi ở đây.",
+      "note": "Động từ. 'connect to something'. Danh từ là 'connection' (kết nối/đường truyền).",
+      "synonyms": [
+        { "term": "to get through", "ipa": "/ɡet θruː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'gọi/liên lạc được tới ai'. Vd 'I finally got through to mum.'" }
+      ]
+    },
+    {
+      "term": "frozen",
+      "ipa": "/ˈfrəʊ.zən/",
+      "vi": "bị đứng hình (tính từ)",
+      "register": "casual",
+      "example": "Sorry, your screen is frozen.",
+      "exampleVi": "Xin lỗi, màn hình của bạn bị đứng hình.",
+      "note": "Tính từ. Khi hình ảnh video bị kẹt, không chuyển động. Câu hay dùng: 'You're frozen.'",
+      "synonyms": [
+        { "term": "stuck", "ipa": "/stʌk/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'bị kẹt, không nhúc nhích'. Gần nghĩa, dùng được cho cả hình ảnh lẫn tình huống bí." },
+        { "term": "lagging", "ipa": "/ˈlæɡ.ɪŋ/", "register": "casual", "nuanceVi": "Nhấn 'bị trễ, giật do mạng yếu' (lag). Hình vẫn chạy nhưng chậm, khác 'frozen' (đứng hẳn)." }
+      ]
+    },
+    {
+      "term": "blurry",
+      "ipa": "/ˈblɜː.ri/",
+      "vi": "mờ, không rõ (tính từ)",
+      "register": "casual",
+      "example": "The picture is a bit blurry.",
+      "exampleVi": "Hình ảnh hơi mờ.",
+      "note": "Tính từ, mô tả hình ảnh không rõ nét. Trái nghĩa: 'clear' (rõ).",
+      "synonyms": [
+        { "term": "fuzzy", "ipa": "/ˈfʌz.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'nhòe, không rõ nét'. Gần như đồng nghĩa với 'blurry'." },
+        { "term": "unclear", "ipa": "/ʌnˈklɪər/", "register": "neutral", "nuanceVi": "Trung tính hơn; dùng được cho cả hình ảnh lẫn âm thanh hoặc ý nghĩa chưa rõ." }
+      ]
+    },
+    {
+      "term": "to hang up",
+      "ipa": "/hæŋ ʌp/",
+      "vi": "cúp máy, tắt cuộc gọi (động từ)",
+      "register": "neutral",
+      "example": "Don't hang up yet, I have one more thing to say.",
+      "exampleVi": "Đừng cúp máy vội, tớ còn một điều muốn nói.",
+      "note": "Cụm động từ. Ngược lại với 'to call/pick up'. Vẫn dùng cho cả gọi video lẫn gọi thường.",
+      "synonyms": [
+        { "term": "to end the call", "ipa": "/end ðə kɔːl/", "register": "neutral", "nuanceVi": "Trung tính, hơi trang trọng hơn, nhấn 'kết thúc cuộc gọi' một cách trung lập." }
+      ]
+    },
+    {
+      "term": "clearly",
+      "ipa": "/ˈklɪə.li/",
+      "vi": "một cách rõ ràng (trạng từ)",
+      "register": "neutral",
+      "example": "Can you hear me clearly now?",
+      "exampleVi": "Giờ cậu nghe tớ rõ chưa?",
+      "note": "Trạng từ, hay dùng với 'hear' và 'see' khi kiểm tra chất lượng cuộc gọi.",
+      "synonyms": [
+        { "term": "properly", "ipa": "/ˈprɒp.ə.li/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'cho đàng hoàng, đúng cách'. Vd 'I can't hear you properly.'" }
+      ]
+    },
+    {
+      "term": "to catch up",
+      "ipa": "/kætʃ ʌp/",
+      "vi": "hỏi han, cập nhật tin tức (động từ)",
+      "register": "casual",
+      "example": "It's so nice to catch up with you.",
+      "exampleVi": "Thật vui được hàn huyên với bạn.",
+      "note": "Cụm động từ thân mật, nghĩa 'nói chuyện để cập nhật những gì đã xảy ra'. Rất hay dùng khi lâu ngày gặp lại."
+    },
+    {
+      "term": "healthy",
+      "ipa": "/ˈhel.θi/",
+      "vi": "khỏe mạnh (tính từ)",
+      "register": "neutral",
+      "example": "I'm glad to hear that grandpa is healthy.",
+      "exampleVi": "Cháu mừng khi nghe ông vẫn khỏe.",
+      "note": "Tính từ. Khác 'health' (danh từ: sức khỏe). Câu hỏi thăm: 'Are you keeping healthy?'",
+      "synonyms": [
+        { "term": "well", "ipa": "/wel/", "register": "neutral", "nuanceVi": "Tính từ chỉ trạng thái 'khỏe', hay dùng trong câu hỏi thăm: 'I hope you're well.'" },
+        { "term": "fit", "ipa": "/fɪt/", "register": "casual", "nuanceVi": "Nhấn 'khỏe khoắn, dẻo dai về thể chất' (do tập luyện). Hơi khác 'healthy' (không bệnh tật)." }
+      ]
+    },
+    {
+      "term": "to wave",
+      "ipa": "/weɪv/",
+      "vi": "vẫy tay (động từ)",
+      "register": "casual",
+      "example": "Wave to your cousin on the screen!",
+      "exampleVi": "Vẫy tay chào em họ trên màn hình đi!",
+      "note": "Động từ. Hành động vẫy tay chào, rất hay làm khi gọi video với trẻ con hoặc người lớn tuổi."
+    },
+    {
+      "term": "out loud",
+      "ipa": "/aʊt ˈlaʊd/",
+      "vi": "thành tiếng (đọc/nói ra tiếng, trạng từ)",
+      "register": "casual",
+      "example": "Can you read the message out loud so I can hear it?",
+      "exampleVi": "Cậu đọc to tin nhắn ấy thành tiếng cho tớ nghe được không?",
+      "note": "Cụm trạng từ, nghĩa 'thành tiếng' (đối lập với đọc thầm), KHÔNG có nghĩa 'to/lớn về âm lượng'. Muốn bảo ai nói to hơn thì dùng 'speak up' hoặc 'speak louder'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi [tên], can you hear/see me [trạng từ]?",
+      "use": "Mở đầu cuộc gọi và kiểm tra hình ảnh/âm thanh.",
+      "register": "casual",
+      "examples": [
+        "Hi Grandma, can you hear me clearly?",
+        "Hi Auntie, can you see me okay?"
+      ],
+      "explanationVi": "Câu mở đầu kinh điển khi gọi video. 'can you hear/see me' kiểm tra kết nối; thêm trạng từ như 'clearly', 'okay' để hỏi chất lượng.",
+      "altOf": "starting-call"
+    },
+    {
+      "pattern": "Sorry, you're [tính từ: frozen/blurry]. Can you say that again?",
+      "use": "Báo sự cố hình ảnh và xin nhắc lại.",
+      "register": "casual",
+      "examples": [
+        "Sorry, you're frozen. Can you say that again?",
+        "Sorry, the picture is blurry. Can you move closer to the wifi?"
+      ],
+      "explanationVi": "A2 nên dùng câu ngắn để báo lỗi. 'you're frozen' (bạn bị đứng hình), 'blurry' (mờ). Thêm 'Can you say that again?' để xin nhắc lại lịch sự.",
+      "altOf": "handling-trouble"
+    },
+    {
+      "pattern": "How are you? / How is [người thân] doing?",
+      "use": "Hỏi thăm sức khỏe của người nghe và của người thân khác.",
+      "register": "neutral",
+      "examples": [
+        "How are you, Grandpa?",
+        "How is everyone at home doing?"
+      ],
+      "explanationVi": "Câu hỏi thăm cơ bản nhất. 'How is ... doing?' nghe thân mật và quan tâm hơn chỉ 'How is ...?'.",
+      "altOf": "asking-news"
+    },
+    {
+      "pattern": "I miss you. I can't wait to [động từ nguyên thể].",
+      "use": "Bày tỏ tình cảm và mong gặp lại.",
+      "register": "casual",
+      "examples": [
+        "I miss you so much. I can't wait to see you next month.",
+        "We miss you. I can't wait to visit at Tet."
+      ],
+      "explanationVi": "'I can't wait to + V' = 'rất mong/nóng lòng làm gì'. Cách diễn đạt tình cảm tự nhiên, ấm áp khi nói với người thân.",
+      "altOf": "showing-feelings"
+    },
+    {
+      "pattern": "It's so nice to catch up with you, but I have to [động từ] now.",
+      "use": "Báo hiệu sắp kết thúc cuộc gọi một cách lịch sự.",
+      "register": "casual",
+      "examples": [
+        "It's so nice to catch up with you, but I have to go now.",
+        "It's lovely to see you, but I have to start cooking dinner."
+      ],
+      "explanationVi": "Cách kết thúc cuộc gọi nhẹ nhàng: khen cuộc trò chuyện trước, rồi mới nêu lý do phải đi. Tránh cúp máy đột ngột.",
+      "altOf": "ending-call"
+    },
+    {
+      "pattern": "Take care, and let's talk again [thời gian].",
+      "use": "Lời chào tạm biệt và hẹn lần sau.",
+      "register": "casual",
+      "examples": [
+        "Take care, and let's talk again next Sunday.",
+        "Take care of yourself, and say hi to everyone for me."
+      ],
+      "explanationVi": "'Take care' là lời chào tạm biệt ấm áp. 'let's talk again + thời gian' để hẹn cuộc gọi tiếp theo, giữ liên lạc.",
+      "altOf": "ending-call"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi cần đính chính hoặc thêm thông tin nhẹ nhàng.", "example": "Actually, I can hear you now." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói điều gì đó chân thành.", "example": "Honestly, I miss your cooking so much." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc đổi nhẹ chủ đề.", "example": "By the way, how is the new puppy?" },
+    { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "vi": "may mà", "when": "Khi kể một kết quả tốt sau khi gặp khó.", "example": "Luckily, the wifi is working better now." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là (làm câu mềm hơn)", "when": "Khi muốn nói nhẹ nhàng, không nặng nề.", "example": "I just wanted to see your face." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang sống xa nhà và gọi video cho bà ngoại vào cuối tuần. Lúc đầu mạng hơi yếu, sau đó hai bà cháu hỏi thăm và hàn huyên.",
+    "lines": [
+      {
+        "speaker": "Bà",
+        "text": "Oh, hello dear! It's so lovely to see your face, although the picture is a little ____ at the moment.",
+        "ipa": "/əʊ həˈləʊ dɪər ɪts səʊ ˈlʌv.li tə siː jɔːr feɪs ɔːlˈðəʊ ðə ˈpɪk.tʃər ɪz ə ˈlɪt.əl ... ət ðə ˈməʊ.mənt/",
+        "vi": "Ồ, chào cháu yêu! Bà vui lắm khi được thấy mặt cháu, mặc dù hình ảnh lúc này hơi ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "blurry", "explanationVi": "Dùng tính từ 'blurry' (mờ) để mô tả hình ảnh không rõ. Xem mẫu câu báo sự cố 'the picture is blurry'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi Grandma! I can see you ____ now, even though my wifi was weak earlier. Luckily, it works better when I sit near the window.",
+        "ipa": "/haɪ ˈɡræn.mɑː aɪ kæn siː juː ... naʊ ˈiː.vən ðəʊ maɪ ˈwaɪ.faɪ wɒz wiːk ˈɜː.li.ər ˈlʌk.ɪ.li ɪt wɜːks ˈbet.ər wen aɪ sɪt nɪər ðə ˈwɪn.dəʊ/",
+        "vi": "Chào bà! Giờ cháu thấy bà ____ rồi, dù lúc nãy wifi của cháu yếu. May mà nó chạy tốt hơn khi cháu ngồi gần cửa sổ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "clearly", "explanationVi": "Dùng trạng từ 'clearly' (rõ ràng) sau động từ 'see'. Trạng từ bổ nghĩa cho động từ, nên dùng 'clearly' chứ không phải 'clear'." }
+        ]
+      },
+      {
+        "speaker": "Bà",
+        "text": "That's much better! So tell me, how are you doing over there, and how is your new job ____ you started last month?",
+        "ipa": "/ðæts mʌtʃ ˈbet.ər səʊ tel miː haʊ ɑːr juː ˈduː.ɪŋ ˈəʊ.vər ðeər ænd haʊ ɪz jɔːr njuː dʒɒb ... juː ˈstɑːr.tɪd lɑːst mʌnθ/",
+        "vi": "Vậy tốt hơn nhiều rồi! Vậy kể bà nghe, cháu sống bên đó thế nào, và công việc mới ____ cháu bắt đầu tháng trước ra sao?",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' để thay cho 'your new job' (vật) và nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It's going well, thank you! The work is busy, but I really like my team. Honestly, I ____ you and everyone at home so much.",
+        "ipa": "/ɪts ˈɡəʊ.ɪŋ wel θæŋk juː ðə wɜːk ɪz ˈbɪz.i bʌt aɪ ˈrɪə.li laɪk maɪ tiːm ˈɒn.ɪst.li aɪ ... juː ænd ˈev.ri.wʌn ət həʊm səʊ mʌtʃ/",
+        "vi": "Mọi thứ ổn ạ, cháu cảm ơn bà! Công việc bận, nhưng cháu rất thích đội của mình. Thành thật mà nói, cháu ____ bà và mọi người ở nhà lắm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "miss", "explanationVi": "Dùng động từ 'miss' (nhớ). Cấu trúc 'miss + somebody'. Câu khẳng định ở thì hiện tại đơn với chủ ngữ 'I' nên giữ nguyên 'miss'." }
+        ]
+      },
+      {
+        "speaker": "Bà",
+        "text": "We miss you too, sweetheart. Your little cousin keeps asking about you, and he often ____ to your photo on the wall!",
+        "ipa": "/wiː mɪs juː tuː ˈswiːt.hɑːt jɔːr ˈlɪt.əl ˈkʌz.ən kiːps ˈɑːs.kɪŋ əˈbaʊt juː ænd hiː ˈɒf.ən ... tə jɔːr ˈfəʊ.təʊ ɒn ðə wɔːl/",
+        "vi": "Cả nhà cũng nhớ cháu, cháu yêu. Em họ nhỏ của cháu cứ hỏi về cháu suốt, và nó hay ____ vào tấm ảnh cháu trên tường nữa!",
+        "blanks": [
+          { "type": "knowledge", "answer": "waves", "explanationVi": "Dùng động từ 'wave' (vẫy tay). Chủ ngữ 'he' (ngôi thứ ba số ít) ở hiện tại đơn nên thêm '-s' thành 'waves'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Aww, that's so sweet! Please give him a big hug for me. By the way, are you ____, Grandma? Are you taking your medicine every day?",
+        "ipa": "/ɔː ðæts səʊ swiːt pliːz ɡɪv hɪm ə bɪɡ hʌɡ fɔːr miː baɪ ðə weɪ ɑːr juː ... ˈɡræn.mɑː ɑːr juː ˈteɪ.kɪŋ jɔːr ˈmed.ɪ.sən ˈev.ri deɪ/",
+        "vi": "Ôi, dễ thương quá! Bà ôm em ấy một cái thật chặt giúp cháu nhé. Tiện thể, bà có ____ không ạ? Bà có uống thuốc mỗi ngày không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "healthy", "explanationVi": "Dùng tính từ 'healthy' (khỏe mạnh) sau động từ 'are'. Hỏi thăm sức khỏe: 'Are you healthy?'." }
+        ]
+      },
+      {
+        "speaker": "Bà",
+        "text": "Don't worry, I'm very healthy and I walk in the park every morning. It's so nice to catch up with you, dear, but I have to go and cook dinner now.",
+        "ipa": "/dəʊnt ˈwʌr.i aɪm ˈver.i ˈhel.θi ænd aɪ wɔːk ɪn ðə pɑːk ˈev.ri ˈmɔː.nɪŋ ɪts səʊ naɪs tə kætʃ ʌp wɪð juː dɪər bʌt aɪ hæv tə ɡəʊ ænd kʊk ˈdɪn.ər naʊ/",
+        "vi": "Đừng lo, bà rất khỏe và sáng nào bà cũng đi bộ trong công viên. Thật vui được hàn huyên với cháu, nhưng giờ bà phải đi nấu bữa tối rồi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course, Grandma. Take care of yourself, and let's talk again ____ Sunday. I can't wait to see you when I visit at Tet!",
+        "ipa": "/ɒv kɔːs ˈɡræn.mɑː teɪk keər ɒv jɔːrˈself ænd lets tɔːk əˈɡen ... ˈsʌn.deɪ aɪ kɑːnt weɪt tə siː juː wen aɪ ˈvɪz.ɪt ət tet/",
+        "vi": "Vâng ạ. Bà giữ gìn sức khỏe nhé, và mình nói chuyện lại ____ Chủ nhật ạ. Cháu nóng lòng được gặp bà khi cháu về vào dịp Tết!",
+        "blanks": [
+          { "type": "personal", "hint": "Thời điểm hẹn cuộc gọi sau. Ví dụ: 'next' (= next Sunday, Chủ nhật tới)." }
+        ]
+      },
+      {
+        "speaker": "Bà",
+        "text": "Wonderful! Bye for now, my dear. Don't ____ up too quickly next time — stay and chat a little longer!",
+        "ipa": "/ˈwʌn.də.fəl baɪ fɔːr naʊ maɪ dɪər dəʊnt ... ʌp tuː ˈkwɪk.li nekst taɪm steɪ ænd tʃæt ə ˈlɪt.əl ˈlɒŋ.ɡər/",
+        "vi": "Tuyệt vời! Tạm biệt cháu nhé, cháu yêu. Lần sau đừng ____ máy nhanh quá — ở lại trò chuyện lâu hơn chút nha!",
+        "blanks": [
+          { "type": "knowledge", "answer": "hang", "explanationVi": "Cụm động từ 'hang up' (cúp máy). Sau 'don't' dùng động từ nguyên thể, nên điền 'hang' để tạo thành 'hang up'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều gia đình phương Tây, gọi video định kỳ (vd mỗi Chủ nhật) là cách giữ liên lạc quen thuộc với ông bà, người thân ở xa.",
+    "Câu chào tạm biệt 'Take care' rất phổ biến và ấm áp, dùng được với cả người thân lẫn bạn bè.",
+    "Người lớn tuổi đôi khi chưa quen công nghệ, nên hãy nói chậm, nhắc lại nhẹ nhàng và kiên nhẫn khi mạng trục trặc.",
+    "Vẫy tay (wave) và mỉm cười qua màn hình là cách thể hiện tình cảm tự nhiên, đặc biệt với trẻ nhỏ và người già."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I miss for you' — sai. 'miss' đi thẳng với tân ngữ: 'I miss YOU' (không có giới từ).",
+    "Dùng 'clear' thay cho trạng từ: phải nói 'I can see you CLEARLY' (clearly bổ nghĩa cho động từ see).",
+    "Quên thêm '-s' cho ngôi thứ ba số ít: 'he WAVES', không phải 'he wave'.",
+    "Nói 'close the phone' để chỉ cúp máy. Người bản xứ nói 'hang up' hoặc 'end the call'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi video cho người thân như thật.",
+    "prompt": "Hãy đóng vai một người thân của tôi (ví dụ bà ngoại hoặc một người cô) đang nói tiếng Anh đơn giản. Chúng ta đang gọi video cho nhau. Hãy bắt đầu bằng cách chào tôi thật ấm áp. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người thân yêu thương, hỏi thăm tôi, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ mạng yếu, hình bị đứng, một em nhỏ chạy vào vẫy tay chào) để tôi tập xử lý. Dùng câu ngắn, dễ hiểu phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi nhiều câu hỏi hơn về công việc và cuộc sống để tôi tập kể dài hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi vài câu để luyện thêm.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu và kết thúc được cuộc gọi video một cách tự nhiên (chào, kiểm tra hình/tiếng, tạm biệt).",
+    "Tôi hỏi thăm được sức khỏe và tin tức của người thân bằng câu đơn giản.",
+    "Tôi báo được sự cố (hình mờ, đứng hình) và xin nhắc lại khi cần."
+  ]
+}

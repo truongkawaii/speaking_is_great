@@ -1,0 +1,375 @@
+{
+  "id": "planning-vacation",
+  "category": "family",
+  "title": "Lên kế hoạch nghỉ mát",
+  "titleEn": "Planning a Vacation",
+  "level": "B1",
+  "functions": ["suggesting", "opinions", "agreeing", "describing"],
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Đề xuất điểm đến và thời gian đi nghỉ cho cả gia đình bằng câu tự nhiên",
+    "Bày tỏ ý kiến, đồng ý hoặc nhẹ nhàng phản đối một gợi ý",
+    "Thảo luận về ngân sách, chỗ ở và hoạt động khi đi nghỉ",
+    "Dùng các mẫu gợi ý (How about, Why don't we, What if) và lý do (because, so, such as) một cách mượt mà"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "destination",
+      "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+      "vi": "điểm đến (danh từ)",
+      "register": "neutral",
+      "example": "Da Nang is a popular destination for family holidays.",
+      "exampleVi": "Đà Nẵng là một điểm đến nổi tiếng cho kỳ nghỉ gia đình.",
+      "note": "Danh từ, chỉ nơi bạn định đến. Khác với 'place' chung chung, 'destination' nhấn vào đích của chuyến đi.",
+      "synonyms": [
+        { "term": "spot", "ipa": "/spɒt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chỗ, địa điểm' nhỏ và cụ thể. Vd 'a nice spot for a picnic'. Thân mật hơn 'destination'." },
+        { "term": "getaway", "ipa": "/ˈɡet.ə.weɪ/", "register": "neutral", "nuanceVi": "Nhấn ý 'nơi/chuyến đi ngắn để trốn khỏi cuộc sống bận rộn'. Vd 'a weekend getaway'. Mang sắc thái thư giãn." }
+      ]
+    },
+    {
+      "term": "budget",
+      "ipa": "/ˈbʌdʒ.ɪt/",
+      "vi": "ngân sách, khoản tiền dự chi (danh từ)",
+      "register": "neutral",
+      "example": "We need to set a budget before we book anything.",
+      "exampleVi": "Chúng ta cần đặt ngân sách trước khi đặt bất cứ thứ gì.",
+      "note": "Danh từ. Cũng dùng làm tính từ với nghĩa 'giá rẻ': 'a budget hotel' (khách sạn bình dân).",
+      "synonyms": [
+        { "term": "spending limit", "ipa": "/ˈspen.dɪŋ ˌlɪm.ɪt/", "register": "neutral", "nuanceVi": "Cụm rõ nghĩa 'giới hạn chi tiêu', nhấn vào mức trần không nên vượt qua. Cụ thể hơn 'budget'." }
+      ]
+    },
+    {
+      "term": "accommodation",
+      "ipa": "/əˌkɒm.əˈdeɪ.ʃən/",
+      "vi": "chỗ ở (danh từ)",
+      "register": "neutral",
+      "example": "We still need to find accommodation near the beach.",
+      "exampleVi": "Chúng ta vẫn cần tìm chỗ ở gần biển.",
+      "note": "Danh từ, thường không đếm được (Anh-Anh). Người Mỹ đôi khi viết 'accommodations' số nhiều. Chỉ chung khách sạn, homestay, nhà thuê...",
+      "synonyms": [
+        { "term": "lodging", "ipa": "/ˈlɒdʒ.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng và hơi cổ, nghĩa 'nơi trú ngụ'. Hay gặp trong văn bản du lịch hơn là lời nói hằng ngày." },
+        { "term": "a place to stay", "ipa": "/ə ˈpleɪs tə steɪ/", "register": "casual", "nuanceVi": "Cách nói đời thường, dễ dùng nhất khi trò chuyện trong gia đình. Vd 'Let's find a place to stay.'" }
+      ]
+    },
+    {
+      "term": "to book",
+      "ipa": "/buːk/",
+      "vi": "đặt chỗ trước (động từ)",
+      "register": "neutral",
+      "example": "Should we book the flights now or wait for a better price?",
+      "exampleVi": "Chúng ta nên đặt vé máy bay ngay hay chờ giá tốt hơn?",
+      "note": "Động từ, dùng cho vé, phòng, tour. Danh từ 'a booking' = một lượt đặt chỗ.",
+      "synonyms": [
+        { "term": "to reserve", "ipa": "/rɪˈzɜːv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'giữ chỗ trước'. Hay dùng cho bàn nhà hàng, phòng khách sạn." }
+      ]
+    },
+    {
+      "term": "to relax",
+      "ipa": "/rɪˈlæks/",
+      "vi": "thư giãn, nghỉ ngơi (động từ)",
+      "register": "neutral",
+      "example": "I just want to relax on the beach and do nothing.",
+      "exampleVi": "Tôi chỉ muốn thư giãn trên bãi biển và chẳng làm gì cả.",
+      "note": "Động từ. Tính từ 'relaxing' (làm người ta thư giãn) khác với 'relaxed' (cảm thấy thư giãn).",
+      "synonyms": [
+        { "term": "to unwind", "ipa": "/ˌʌnˈwaɪnd/", "register": "neutral", "nuanceVi": "Nhấn 'gỡ bỏ căng thẳng sau thời gian áp lực'. Hình ảnh 'tháo dây cót', nghe hơi văn vẻ và dễ chịu." },
+        { "term": "to chill", "ipa": "/tʃɪl/", "register": "casual", "nuanceVi": "Rất đời thường, giới trẻ hay dùng: 'just chill at home'. Không hợp ngữ cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔː.də.bəl/",
+      "vi": "giá phải chăng, đủ tiền chi trả (tính từ)",
+      "register": "neutral",
+      "example": "We found an affordable resort with a free breakfast.",
+      "exampleVi": "Chúng tôi tìm được một resort giá phải chăng có bữa sáng miễn phí.",
+      "note": "Tính từ tích cực: rẻ một cách hợp lý chứ không phải 'rẻ tiền'. Khác 'cheap' đôi khi mang nghĩa kém chất lượng.",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zə.nə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'mức giá hợp lý so với chất lượng'. Vd 'a reasonable price'. Gần nghĩa, rất an toàn để dùng." },
+        { "term": "cheap", "ipa": "/tʃiːp/", "register": "casual", "nuanceVi": "Đời thường, nhưng đôi khi ngụ ý 'rẻ tiền, kém chất lượng'. Dùng 'affordable' nghe lịch sự, tích cực hơn." }
+      ]
+    },
+    {
+      "term": "crowded",
+      "ipa": "/ˈkraʊ.dɪd/",
+      "vi": "đông đúc, chật người (tính từ)",
+      "register": "neutral",
+      "example": "The beach gets really crowded in the summer.",
+      "exampleVi": "Bãi biển trở nên rất đông vào mùa hè.",
+      "note": "Tính từ. Trái nghĩa: 'quiet' (vắng vẻ). Lưu ý động từ 'crowd' khác với danh từ 'a crowd' (đám đông).",
+      "synonyms": [
+        { "term": "packed", "ipa": "/pækt/", "register": "casual", "nuanceVi": "Nhấn 'đông kín, chật ních' — mạnh hơn 'crowded'. Đời thường: 'The bus was packed.'" },
+        { "term": "busy", "ipa": "/ˈbɪz.i/", "register": "neutral", "nuanceVi": "Nhẹ hơn, chỉ 'nhộn nhịp, nhiều người qua lại', chưa hẳn chật. Vd 'a busy street'." }
+      ]
+    },
+    {
+      "term": "itinerary",
+      "ipa": "/aɪˈtɪn.ər.ər.i/",
+      "vi": "lịch trình chuyến đi (danh từ)",
+      "register": "formal",
+      "example": "Let's plan a flexible itinerary so we don't feel rushed.",
+      "exampleVi": "Hãy lên một lịch trình linh hoạt để không bị vội vàng.",
+      "note": "Danh từ, hơi trang trọng. Chỉ kế hoạch chi tiết của chuyến đi (đi đâu, ngày nào). Phát âm bẫy: /aɪˈtɪn.ər.ər.i/.",
+      "synonyms": [
+        { "term": "schedule", "ipa": "/ˈʃed.juːl/", "register": "neutral", "nuanceVi": "Chung hơn, chỉ 'lịch, thời gian biểu' bất kỳ, không riêng chuyến đi. Anh-Mỹ đọc /ˈskedʒ.uːl/." },
+        { "term": "plan", "ipa": "/plæn/", "register": "casual", "nuanceVi": "Đơn giản, đời thường nhất: 'What's the plan for tomorrow?'. Ít trang trọng hơn 'itinerary'." }
+      ]
+    },
+    {
+      "term": "scenery",
+      "ipa": "/ˈsiː.nər.i/",
+      "vi": "phong cảnh, cảnh vật (danh từ)",
+      "register": "neutral",
+      "example": "The mountain scenery up there is absolutely breathtaking.",
+      "exampleVi": "Phong cảnh núi non trên đó đẹp đến nghẹt thở.",
+      "note": "Danh từ KHÔNG đếm được: nói 'beautiful scenery', không nói 'a scenery' hay 'sceneries'.",
+      "synonyms": [
+        { "term": "view", "ipa": "/vjuː/", "register": "neutral", "nuanceVi": "Đếm được, chỉ 'cảnh nhìn thấy từ một chỗ'. Vd 'a room with a sea view'. Cụ thể hơn 'scenery' (cảnh vật nói chung)." },
+        { "term": "landscape", "ipa": "/ˈlænd.skeɪp/", "register": "neutral", "nuanceVi": "Nhấn 'toàn cảnh đất đai, địa hình một vùng' (đồng ruộng, đồi núi). Rộng và mang tính tả cảnh hơn." }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "vi": "kiệt sức, mệt lả (tính từ)",
+      "register": "neutral",
+      "example": "After the long flight, the kids were completely exhausted.",
+      "exampleVi": "Sau chuyến bay dài, bọn trẻ kiệt sức hoàn toàn.",
+      "note": "Tính từ chỉ mức độ mệt rất mạnh (mạnh hơn 'tired'). Không dùng 'very exhausted'; thay bằng 'absolutely/completely exhausted'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/ˌwɔːn ˈaʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt rã rời vì làm nhiều'. Vd 'I'm worn out after packing.'" },
+        { "term": "tired", "ipa": "/ˈtaɪəd/", "register": "neutral", "nuanceVi": "Mức nhẹ nhất, 'mệt, buồn ngủ' bình thường. Khi muốn nhấn rất mệt thì dùng 'exhausted'." }
+      ]
+    },
+    {
+      "term": "peacefully",
+      "ipa": "/ˈpiːs.fəl.i/",
+      "vi": "một cách yên bình, thanh thản (trạng từ)",
+      "register": "neutral",
+      "example": "We spent the whole afternoon walking peacefully along the shore.",
+      "exampleVi": "Chúng tôi dành cả buổi chiều thong dong đi dạo dọc bờ biển.",
+      "note": "Trạng từ. Gợi cảm giác tĩnh lặng, dễ chịu. Tính từ gốc: 'peaceful'.",
+      "synonyms": [
+        { "term": "quietly", "ipa": "/ˈkwaɪ.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'không ồn ào, lặng lẽ'. Thiên về âm thanh, còn 'peacefully' thiên về cảm giác an yên." },
+        { "term": "calmly", "ipa": "/ˈkɑːm.li/", "register": "neutral", "nuanceVi": "Nhấn 'bình tĩnh, không hoảng loạn', thường nói về trạng thái tâm lý con người hơn là khung cảnh." }
+      ]
+    },
+    {
+      "term": "to make up one's mind",
+      "ipa": "/meɪk ʌp wʌnz maɪnd/",
+      "vi": "quyết định dứt khoát (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's make up our minds tonight so we can book early.",
+      "exampleVi": "Hãy quyết định dứt khoát tối nay để mình đặt sớm.",
+      "note": "Thành ngữ = 'decide'. 'one's' đổi theo chủ ngữ: make up MY mind / make up OUR minds.",
+      "synonyms": [
+        { "term": "to decide", "ipa": "/dɪˈsaɪd/", "register": "neutral", "nuanceVi": "Trung tính, trực tiếp nhất. 'make up one's mind' nhấn quá trình đắn đo rồi mới chốt." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "How about [V-ing / danh từ]?",
+      "use": "Gợi ý một ý tưởng một cách nhẹ nhàng, thân mật.",
+      "register": "casual",
+      "examples": [
+        "How about going to Da Lat this time?",
+        "How about a beach holiday instead of the mountains?"
+      ],
+      "explanationVi": "'How about' luôn đi với V-ing hoặc danh từ (KHÔNG đi với động từ nguyên thể). Là cách gợi ý phổ biến, thân thiện nhất trong gia đình.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Rủ rê, đề xuất cùng làm gì đó.",
+      "register": "neutral",
+      "examples": [
+        "Why don't we rent a car so we can explore freely?",
+        "Why don't we split the budget between flights and hotels?"
+      ],
+      "explanationVi": "Sau 'Why don't we' là động từ NGUYÊN THỂ (không 'to'). Nghĩa 'sao chúng ta không...?', một lời rủ tích cực chứ không phải hỏi thật.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "What if we [động từ nguyên thể]?",
+      "use": "Đưa ra một phương án giả định để cả nhà cân nhắc.",
+      "register": "neutral",
+      "examples": [
+        "What if we go in May, when it's less crowded?",
+        "What if we stay an extra night to relax a bit more?"
+      ],
+      "explanationVi": "'What if we...?' = 'Hay là mình...?', nhẹ nhàng đặt ra một khả năng để mọi người phản hồi. Hợp khi bạn chưa chắc chắn.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I think [mệnh đề], because [lý do].",
+      "use": "Nêu ý kiến kèm lý do để thuyết phục.",
+      "register": "neutral",
+      "examples": [
+        "I think we should go to the beach, because the kids love swimming.",
+        "I think May is better, because the weather is cooler."
+      ],
+      "explanationVi": "Nêu ý kiến rồi thêm 'because' để giải thích luôn — nghe có sức thuyết phục hơn là chỉ nói trống không. Đây là mẫu B1 cốt lõi.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "In my opinion, [mệnh đề].",
+      "use": "Mở đầu một ý kiến cá nhân một cách rõ ràng, lịch sự.",
+      "register": "formal",
+      "examples": [
+        "In my opinion, a quiet homestay would suit us better than a big hotel.",
+        "In my opinion, we should set a budget first."
+      ],
+      "explanationVi": "Trang trọng và rõ ràng hơn 'I think'. Dùng khi muốn nhấn rằng đây là quan điểm riêng của bạn, mời mọi người tranh luận.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "That sounds [tính từ], but [mệnh đề].",
+      "use": "Đồng tình một phần rồi nêu băn khoăn / phản đối nhẹ.",
+      "register": "neutral",
+      "examples": [
+        "That sounds great, but it might be too expensive for us.",
+        "That sounds fun, but the kids may get exhausted."
+      ],
+      "explanationVi": "Mẫu 'khen trước, lo sau' rất lịch sự để không đồng ý mà không làm mất lòng. 'That sounds...' = nghe có vẻ...",
+      "altOf": "agreeing-disagreeing"
+    },
+    {
+      "pattern": "I'd rather [động từ nguyên thể] than [động từ nguyên thể].",
+      "use": "Bày tỏ điều mình thích hơn khi so sánh hai lựa chọn.",
+      "register": "neutral",
+      "examples": [
+        "I'd rather relax by the sea than walk around a busy city.",
+        "I'd rather book early than risk losing a good price."
+      ],
+      "explanationVi": "'I'd rather A than B' = 'tôi thích A hơn B'. Cả hai động từ đều ở dạng nguyên thể không 'to'. Cách nói tự nhiên để thể hiện sở thích.",
+      "altOf": "giving-opinion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi trái với mọi người.", "example": "Honestly, I'd prefer somewhere quieter this year." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ)", "when": "Khi muốn sửa lại hoặc đưa ra một góc nhìn khác mà không cộc lốc.", "example": "Actually, flying might be cheaper than driving this time." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh sự đồng tình với một gợi ý.", "example": "We should definitely book the rooms before the holiday rush." },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ, biết đâu", "when": "Đưa gợi ý nhẹ nhàng, để ngỏ khả năng thay đổi.", "example": "Maybe we could leave a day earlier to avoid the traffic." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "nói thật lòng thì", "when": "Dẫn vào ý kiến chân thật, đôi khi tế nhị.", "example": "To be honest, a five-star hotel is a bit beyond our budget." }
+  ],
+
+  "dialogue": {
+    "context": "Một gia đình (hai vợ chồng) đang ngồi cùng nhau vào buổi tối để bàn xem hè này sẽ đi nghỉ ở đâu, đi khi nào, ở chỗ nào và chi tiêu thế nào.",
+    "lines": [
+      {
+        "speaker": "Vợ",
+        "text": "So, the school holidays are coming up soon. How about ____ somewhere together this summer, since we haven't taken a proper break in ages?",
+        "ipa": "/səʊ ðə skuːl ˈhɒl.ə.deɪz ɑːr ˈkʌm.ɪŋ ʌp suːn haʊ əˈbaʊt ... ˈsʌm.weər təˈɡeð.ər ðɪs ˈsʌm.ər sɪns wiː ˈhæv.ənt ˈteɪ.kən ə ˈprɒp.ər breɪk ɪn ˈeɪ.dʒɪz/",
+        "vi": "Này, sắp đến kỳ nghỉ hè của bọn trẻ rồi. Hè này cả nhà mình ____ đâu đó đi, vì lâu lắm rồi nhà mình chưa nghỉ ngơi đàng hoàng nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "going", "explanationVi": "Sau 'How about' luôn dùng V-ing, nên là 'going'. Xem mẫu câu 'How about [V-ing]?' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "That sounds wonderful, honestly. I'd rather relax by the sea ____ walk around a crowded city, because work has left me completely exhausted lately.",
+        "ipa": "/ðæt saʊndz ˈwʌn.də.fəl ˈɒn.ɪst.li aɪd ˈrɑː.ðər rɪˈlæks baɪ ðə siː ... wɔːk əˈraʊnd ə ˈkraʊ.dɪd ˈsɪt.i bɪˈkɒz wɜːk hæz left miː kəmˈpliːt.li ɪɡˈzɔːs.tɪd ˈleɪt.li/",
+        "vi": "Thành thật mà nói, nghe tuyệt đấy. Anh thích thư giãn bên biển ____ là đi loanh quanh thành phố đông đúc, vì dạo này công việc làm anh kiệt sức.",
+        "blanks": [
+          { "type": "knowledge", "answer": "than", "explanationVi": "Mẫu 'I'd rather A than B': dùng 'than' để so sánh hai lựa chọn. Cả hai động từ ở dạng nguyên thể (relax... walk...)." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "I agree. What if we go to Phu Quoc, ____ has beautiful beaches and is quite affordable, although it can get busy in July?",
+        "ipa": "/aɪ əˈɡriː wɒt ɪf wiː ɡəʊ tə fuː kwɒk ... hæz ˈbjuː.tɪ.fəl ˈbiː.tʃɪz ænd ɪz kwaɪt əˈfɔː.də.bəl ɔːlˈðəʊ ɪt kæn ɡet ˈbɪz.i ɪn dʒʊˈlaɪ/",
+        "vi": "Em đồng ý. Hay là mình đi Phú Quốc, ____ có những bãi biển đẹp và giá khá phải chăng, dù tháng Bảy có thể hơi đông?",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'Phu Quoc' (nơi chốn/vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "Good idea. ____ we go a bit earlier, in late May? The scenery would be just as lovely, but the beaches wouldn't be so packed.",
+        "ipa": "/ɡʊd aɪˈdɪə ... wiː ɡəʊ ə bɪt ˈɜː.li.ər ɪn leɪt meɪ ðə ˈsiː.nər.i wʊd biː dʒʌst æz ˈlʌv.li bʌt ðə ˈbiː.tʃɪz ˈwʊd.ənt biː səʊ pækt/",
+        "vi": "Ý hay. ____ mình đi sớm hơn một chút, cuối tháng Năm nhỉ? Phong cảnh cũng đẹp y như vậy, mà bãi biển sẽ không quá đông.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Why don't", "explanationVi": "Mẫu rủ rê 'Why don't we + động từ nguyên thể?'. Sau cụm này là 'go' (nguyên thể, không 'to'). Xem phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "Honestly, that's a clever idea. Now, we should ____ a budget first, so that we don't overspend on accommodation and end up worrying about money.",
+        "ipa": "/ˈɒn.ɪst.li ðæts ə ˈklev.ər aɪˈdɪə naʊ wiː ʃʊd ... ə ˈbʌdʒ.ɪt fɜːst səʊ ðæt wiː dəʊnt ˌəʊ.vəˈspend ɒn əˌkɒm.əˈdeɪ.ʃən ænd end ʌp ˈwʌr.i.ɪŋ əˈbaʊt ˈmʌn.i/",
+        "vi": "Thật lòng đây là ý hay. Giờ thì mình nên ____ ngân sách trước, để khỏi tiêu quá tay vào chỗ ở rồi lại lo lắng chuyện tiền nong.",
+        "blanks": [
+          { "type": "knowledge", "answer": "set", "explanationVi": "Cụm cố định 'set a budget' = đặt ra ngân sách. 'so that' theo sau chỉ mục đích (để mà...)." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "Agreed. In my opinion, we could spend a little more on a homestay with a sea view, such as one of those cosy places near the harbour, ____ it makes us feel relaxed.",
+        "ipa": "/əˈɡriːd ɪn maɪ əˈpɪn.jən wiː kʊd spend ə ˈlɪt.əl mɔːr ɒn ə ˈhəʊm.steɪ wɪð ə siː vjuː sʌtʃ æz wʌn ɒv ðəʊz ˈkəʊ.zi ˈpleɪ.sɪz nɪər ðə ˈhɑː.bər ... ɪt meɪks ʌs fiːl rɪˈlækst/",
+        "vi": "Đồng ý. Theo anh, mình có thể chi thêm chút cho một homestay có view biển, chẳng hạn một trong những chỗ ấm cúng gần bến cảng, ____ nó khiến cả nhà thấy thư thái.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho việc chi thêm tiền. Trong câu cũng có 'such as' để nêu ví dụ minh họa." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "That sounds lovely, but we should also plan a flexible ____ so that the kids can rest and we don't try to do too much in one day.",
+        "ipa": "/ðæt saʊndz ˈlʌv.li bʌt wiː ʃʊd ˈɔːl.səʊ plæn ə ˈflek.sə.bəl ... səʊ ðæt ðə kɪdz kæn rest ænd wiː dəʊnt traɪ tə duː tuː mʌtʃ ɪn wʌn deɪ/",
+        "vi": "Nghe dễ thương đấy, nhưng mình cũng nên lên một ____ linh hoạt để bọn trẻ được nghỉ và mình đừng cố nhồi nhét quá nhiều trong một ngày.",
+        "blanks": [
+          { "type": "knowledge", "answer": "itinerary", "explanationVi": "'itinerary' = lịch trình chuyến đi. Đi với tính từ 'flexible' (linh hoạt) nghe rất tự nhiên trong ngữ cảnh lên kế hoạch." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "Perfect. Let's make up our minds tonight and book everything early, because the good places ____ quickly during the holidays.",
+        "ipa": "/ˈpɜː.fɪkt lets meɪk ʌp ˈaʊə maɪndz təˈnaɪt ænd bʊk ˈev.ri.θɪŋ ˈɜː.li bɪˈkɒz ðə ɡʊd ˈpleɪ.sɪz ... ˈkwɪk.li ˈdjʊə.rɪŋ ðə ˈhɒl.ə.deɪz/",
+        "vi": "Tuyệt. Tối nay mình quyết định dứt khoát rồi đặt hết sớm đi, vì những chỗ đẹp ____ rất nhanh trong dịp nghỉ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "fill up", "explanationVi": "'fill up' = kín chỗ, hết phòng. Dùng thì hiện tại đơn 'fill up' vì đây là một sự thật/thói quen thường xảy ra." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "Definitely. I can already picture us walking peacefully along the beach at sunset, ____ feeling completely worn out from work for once.",
+        "ipa": "/ˈdef.ɪn.ət.li aɪ kæn ɔːlˈred.i ˈpɪk.tʃər ʌs ˈwɔː.kɪŋ ˈpiːs.fəl.i əˈlɒŋ ðə biːtʃ æt ˈsʌn.set ... ˈfiː.lɪŋ kəmˈpliːt.li wɔːn aʊt frɒm wɜːk fɔːr wʌns/",
+        "vi": "Chắc chắn rồi. Em đã hình dung ra cảnh cả nhà thong dong đi dạo dọc biển lúc hoàng hôn, ____ là rã rời vì công việc như mọi khi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "instead of", "explanationVi": "'instead of' + V-ing = thay vì (làm gì). Ở đây nhấn sự đối lập: đi dạo thư thái thay vì mệt mỏi vì công việc." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, gia đình thường lên kế hoạch nghỉ mát sớm (vài tháng trước) vì vé máy bay và khách sạn mùa cao điểm tăng giá và hết chỗ nhanh.",
+    "Khi bàn bạc trong gia đình, người bản xứ thường gợi ý nhẹ ('How about...?', 'Why don't we...?') rồi cùng thảo luận, ít khi áp đặt một quyết định.",
+    "Nhiều gia đình phương Tây thích kỳ nghỉ thư giãn, chậm rãi ('a relaxing holiday') hơn là lịch trình dày đặc — đề cao chất lượng nghỉ ngơi hơn số điểm đến.",
+    "Người Anh hay nói 'holiday', người Mỹ nói 'vacation' cho cùng một nghĩa là kỳ đi nghỉ."
+  ],
+
+  "commonMistakes": [
+    "Sau 'How about' phải dùng V-ing, không dùng nguyên thể: 'How about GOING...', không phải 'How about go...'.",
+    "Sau 'Why don't we' và 'I'd rather' lại dùng động từ NGUYÊN THỂ (không 'to'): 'Why don't we go', 'I'd rather relax'.",
+    "Nói 'a scenery' hoặc 'sceneries' là sai — 'scenery' là danh từ không đếm được: 'beautiful scenery'.",
+    "Dùng 'very exhausted' nghe không tự nhiên; với từ mạnh như 'exhausted' hãy nói 'absolutely/completely exhausted'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện bàn kế hoạch đi nghỉ như thật.",
+    "prompt": "Hãy đóng vai một thành viên trong gia đình tôi (vợ/chồng hoặc anh/chị) nói tiếng Anh, và cùng tôi bàn kế hoạch đi nghỉ hè cho cả nhà. Hãy bắt đầu bằng cách hỏi tôi muốn đi đâu. Trong lúc trò chuyện, hãy lần lượt bàn về điểm đến, thời gian đi, ngân sách, chỗ ở và các hoạt động. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người thân, có lúc đồng ý có lúc nêu băn khoăn riêng, (2) nếu tôi sai ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu gợi ý như 'How about...?', 'Why don't we...?', 'What if we...?' và nêu lý do bằng 'because'. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ ngân sách bị cắt giảm, một điểm đến hết phòng) để tôi tập thương lượng. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy cố tình không đồng ý với gợi ý của tôi để tôi tập thuyết phục và bảo vệ ý kiến.'",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi 2 câu mẫu hay để học thuộc.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đưa ra được ít nhất 2 gợi ý bằng 'How about...?', 'Why don't we...?' hoặc 'What if we...?'.",
+    "Tôi nêu được ý kiến kèm lý do với 'because' và biết phản đối nhẹ bằng 'That sounds..., but...'.",
+    "Tôi nói được một câu dài có mệnh đề quan hệ (which/who) hoặc 'although' khi bàn về điểm đến."
+  ]
+}

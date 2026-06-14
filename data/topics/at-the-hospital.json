@@ -1,0 +1,340 @@
+{
+  "id": "at-the-hospital",
+  "category": "services",
+  "title": "Ở bệnh viện",
+  "titleEn": "At the Hospital",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "describing", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả triệu chứng và cảm giác đau của mình một cách rõ ràng",
+    "Đăng ký khám, hỏi đường và hỏi về thủ tục tại bệnh viện",
+    "Đề nghị lịch sự (gặp bác sĩ, xin đơn thuốc, đặt lịch hẹn)",
+    "Hiểu và phản hồi câu hỏi của lễ tân/y tá/bác sĩ bằng câu đầy đủ"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "symptom",
+      "ipa": "/ˈsɪmp.təm/",
+      "vi": "triệu chứng (danh từ)",
+      "register": "neutral",
+      "example": "My main symptoms are a headache and a sore throat.",
+      "exampleVi": "Triệu chứng chính của tôi là đau đầu và đau họng.",
+      "note": "Danh từ. Là dấu hiệu cho thấy bạn bị bệnh; thường dùng số nhiều khi kể nhiều biểu hiện.",
+      "synonyms": [
+        { "term": "sign", "ipa": "/saɪn/", "register": "neutral", "nuanceVi": "Nhấn vào dấu hiệu mà bác sĩ quan sát được (vd phát ban, sốt), còn 'symptom' nghiêng về điều bệnh nhân cảm thấy. Trong y khoa hai từ hơi khác nhau." }
+      ]
+    },
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "vi": "cuộc hẹn (khám bệnh) (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make an appointment with a doctor.",
+      "exampleVi": "Tôi muốn đặt lịch hẹn với bác sĩ.",
+      "note": "Danh từ. Cụm cốt lõi: 'make / book an appointment' (đặt lịch hẹn).",
+      "synonyms": [
+        { "term": "booking", "ipa": "/ˈbʊk.ɪŋ/", "register": "neutral", "nuanceVi": "Dùng được nhưng thiên về đặt chỗ/dịch vụ nói chung (khách sạn, nhà hàng). Với phòng khám bác sĩ, 'appointment' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "to register",
+      "ipa": "/ˈredʒ.ɪ.stər/",
+      "vi": "đăng ký (khám) (động từ)",
+      "register": "neutral",
+      "example": "You need to register at the front desk first.",
+      "exampleVi": "Bạn cần đăng ký ở quầy lễ tân trước.",
+      "note": "Động từ. Danh từ là 'registration' (việc đăng ký): 'Where is the registration desk?'.",
+      "synonyms": [
+        { "term": "to sign in", "ipa": "/saɪn ɪn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ghi tên báo đã đến'. Nhẹ và thân mật hơn 'register', hay thấy ở phòng khám." },
+        { "term": "to check in", "ipa": "/tʃek ɪn/", "register": "neutral", "nuanceVi": "Nhấn vào việc trình diện báo bạn đã tới cho cuộc hẹn. Gần nghĩa nhưng giống thủ tục 'điểm danh' hơn là đăng ký hồ sơ mới." }
+      ]
+    },
+    {
+      "term": "to feel dizzy",
+      "ipa": "/fiːl ˈdɪz.i/",
+      "vi": "cảm thấy chóng mặt (động từ + tính từ)",
+      "register": "neutral",
+      "example": "I feel dizzy whenever I stand up too quickly.",
+      "exampleVi": "Tôi thấy chóng mặt mỗi khi đứng dậy quá nhanh.",
+      "note": "'dizzy' là tính từ chỉ cảm giác choáng váng, đầu quay quay. Đi với 'feel' hoặc 'get'.",
+      "synonyms": [
+        { "term": "lightheaded", "ipa": "/ˌlaɪtˈhed.ɪd/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'lâng lâng, nhẹ đầu như sắp ngất', nhẹ hơn 'dizzy' (quay cuồng)." },
+        { "term": "faint", "ipa": "/feɪnt/", "register": "neutral", "nuanceVi": "Nghĩa 'xây xẩm như sắp xỉu', nặng hơn. 'I feel faint' báo hiệu nghiêm trọng hơn 'dizzy'." }
+      ]
+    },
+    {
+      "term": "painful",
+      "ipa": "/ˈpeɪn.fəl/",
+      "vi": "đau, gây đau (tính từ)",
+      "register": "neutral",
+      "example": "My knee is very painful when I walk.",
+      "exampleVi": "Đầu gối tôi rất đau khi đi lại.",
+      "note": "Tính từ mô tả chỗ/việc gây đau. Khác 'in pain' (đang đau) mô tả người: 'I'm in pain'.",
+      "synonyms": [
+        { "term": "sore", "ipa": "/sɔːr/", "register": "neutral", "nuanceVi": "Nhấn đau ê ẩm, rát nhẹ do dùng nhiều hoặc viêm (sore throat, sore muscles). Nhẹ hơn 'painful'." },
+        { "term": "aching", "ipa": "/ˈeɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Nhấn cơn đau âm ỉ kéo dài, nhức (aching back). Khác với đau nhói cấp tính." }
+      ]
+    },
+    {
+      "term": "prescription",
+      "ipa": "/prɪˈskrɪp.ʃən/",
+      "vi": "đơn thuốc (danh từ)",
+      "register": "neutral",
+      "example": "The doctor gave me a prescription for some antibiotics.",
+      "exampleVi": "Bác sĩ kê cho tôi một đơn thuốc kháng sinh.",
+      "note": "Danh từ. Tờ giấy bác sĩ ghi thuốc; bạn cầm ra hiệu thuốc (pharmacy) để mua. Động từ là 'prescribe'."
+    },
+    {
+      "term": "to recover",
+      "ipa": "/rɪˈkʌv.ər/",
+      "vi": "hồi phục, bình phục (động từ)",
+      "register": "neutral",
+      "example": "It usually takes about a week to recover from the flu.",
+      "exampleVi": "Thường mất khoảng một tuần để hồi phục sau cúm.",
+      "note": "Động từ, đi với 'from' + bệnh. Danh từ là 'recovery'.",
+      "synonyms": [
+        { "term": "to get better", "ipa": "/ɡet ˈbet.ər/", "register": "casual", "nuanceVi": "Đời thường, dễ nói, nghĩa 'khá lên, đỡ hơn'. Tự nhiên trong hội thoại hằng ngày." },
+        { "term": "to heal", "ipa": "/hiːl/", "register": "neutral", "nuanceVi": "Nhấn vết thương/mô lành lại (a wound heals). Hợp với chấn thương hơn là bệnh nói chung." }
+      ]
+    },
+    {
+      "term": "seriously",
+      "ipa": "/ˈsɪə.ri.əs.li/",
+      "vi": "nghiêm trọng, một cách nghiêm túc (trạng từ)",
+      "register": "neutral",
+      "example": "Don't worry, you're not seriously ill.",
+      "exampleVi": "Đừng lo, anh không bị bệnh nặng đâu.",
+      "note": "Trạng từ. 'seriously ill' = bệnh nặng. Cũng dùng để nói 'thật đấy' khi nhấn mạnh.",
+      "synonyms": [
+        { "term": "severely", "ipa": "/sɪˈvɪə.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn mức độ nặng/gay gắt (severely injured). Hơi mạnh và y khoa hơn 'seriously'." },
+        { "term": "badly", "ipa": "/ˈbæd.li/", "register": "casual", "nuanceVi": "Đời thường (badly hurt = đau nặng). Nhẹ và thông tục hơn 'severely'." }
+      ]
+    },
+    {
+      "term": "to examine",
+      "ipa": "/ɪɡˈzæm.ɪn/",
+      "vi": "khám, kiểm tra (động từ)",
+      "register": "neutral",
+      "example": "The doctor will examine you in a few minutes.",
+      "exampleVi": "Bác sĩ sẽ khám cho bạn sau vài phút.",
+      "note": "Động từ. Danh từ y khoa là 'examination' / nói tắt 'check-up' (khám tổng quát).",
+      "synonyms": [
+        { "term": "to check", "ipa": "/tʃek/", "register": "casual", "nuanceVi": "Đời thường, nhẹ hơn (the doctor checked my blood pressure). 'examine' nghe chuyên môn và kỹ lưỡng hơn." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "It's not urgent, but I'd like to see a doctor today.",
+      "exampleVi": "Không gấp lắm, nhưng tôi muốn được khám trong hôm nay.",
+      "note": "Tính từ. Trạng từ là 'urgently'. Khu cấp cứu là 'emergency room (ER)' / 'A&E' (Anh-Anh).",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'cần xử lý ngay'. Ít dùng cho y tế, hay dùng cho vấn đề/công việc." }
+      ]
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "bệnh nhân (danh từ)",
+      "register": "neutral",
+      "example": "The nurse called the next patient into the room.",
+      "exampleVi": "Y tá gọi bệnh nhân tiếp theo vào phòng.",
+      "note": "Danh từ. Đừng nhầm với tính từ 'patient' (kiên nhẫn) — viết giống nhau nhưng nghĩa khác hẳn."
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Please read the instructions on the medicine carefully.",
+      "exampleVi": "Hãy đọc kỹ hướng dẫn trên thuốc.",
+      "note": "Trạng từ. Hay dùng khi dặn dò uống thuốc/giữ gìn sau khi khám.",
+      "synonyms": [
+        { "term": "closely", "ipa": "/ˈkləʊs.li/", "register": "neutral", "nuanceVi": "Nhấn 'sát sao, theo dõi kỹ' (watch closely). Khác 'carefully' nghiêng về làm việc tỉ mỉ tránh sai sót." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I've had [triệu chứng] for [khoảng thời gian].",
+      "use": "Báo triệu chứng và đã kéo dài bao lâu.",
+      "register": "neutral",
+      "examples": [
+        "I've had a bad headache for three days.",
+        "I've had a sore throat since Monday."
+      ],
+      "explanationVi": "Dùng hiện tại hoàn thành ('I've had') vì triệu chứng bắt đầu trong quá khứ và còn đến hiện tại. 'for' + khoảng thời gian, 'since' + mốc thời gian."
+    },
+    {
+      "pattern": "I'd like to make an appointment with [bác sĩ/khoa].",
+      "use": "Đặt lịch khám một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to make an appointment with a dentist.",
+        "I'd like to book an appointment for this afternoon if possible."
+      ],
+      "explanationVi": "'I'd like to' lịch sự hơn 'I want to'. Có thể thay 'make' bằng 'book'. Đây là câu xương sống khi liên hệ phòng khám.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể] ... , please?",
+      "use": "Xin phép hoặc nhờ nhân viên y tế làm gì đó.",
+      "register": "neutral",
+      "examples": [
+        "Could I see a doctor as soon as possible, please?",
+        "Could I get a copy of my test results, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự, hợp khi nói với người lạ (lễ tân, y tá). Dùng cho việc bạn cần họ cho phép hoặc làm giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể] ... ?",
+      "use": "Đề nghị tế nhị một việc có thể bị từ chối (khám sớm, đổi lịch).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to see the doctor today instead of tomorrow?",
+        "Would it be possible to reschedule my appointment?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một đặc ân mà người ta có quyền từ chối — nghe rất nhã nhặn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "It hurts when [mệnh đề].",
+      "use": "Mô tả khi nào hoặc làm gì thì đau.",
+      "register": "neutral",
+      "examples": [
+        "It hurts when I breathe in deeply.",
+        "My back hurts when I bend down."
+      ],
+      "explanationVi": "'hurt' ở đây là nội động từ (tự đau). Mẫu này giúp bác sĩ khoanh vùng vấn đề. Khác 'painful' (tính từ mô tả chỗ đau)."
+    },
+    {
+      "pattern": "Should I [động từ nguyên thể] ... ?",
+      "use": "Xin lời khuyên từ bác sĩ về việc nên làm.",
+      "register": "neutral",
+      "examples": [
+        "Should I take this medicine before or after meals?",
+        "Should I come back if the pain gets worse?"
+      ],
+      "explanationVi": "'Should I...?' dùng để hỏi lời khuyên/khuyến nghị. Rất hữu ích để xác nhận cách dùng thuốc và chăm sóc tiếp theo."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi sửa lại thông tin hoặc nói thêm điều quan trọng mà không cộc lốc.", "example": "Actually, the pain started last week, not yesterday." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói thật về mức độ khó chịu của mình.", "example": "Honestly, the pain is getting worse every day." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một thông tin tích cực, trấn an.", "example": "Fortunately, it doesn't seem to be anything serious." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Mô tả triệu chứng thay đổi từ từ theo thời gian.", "example": "The headache has gradually got worse over the past few days." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.", "example": "I just need a quick check-up, nothing serious." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn cảm thấy không khỏe và đến bệnh viện. Trước tiên bạn nói chuyện với lễ tân để đăng ký, sau đó gặp bác sĩ để mô tả triệu chứng và nhận lời khuyên.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good morning, welcome to City Hospital. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈwel.kəm tə ˈsɪt.i ˈhɒs.pɪ.təl haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, hân hạnh đón anh/chị đến Bệnh viện Thành phố. Hôm nay tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm not feeling well, so I'd like to ____ an appointment with a doctor, please. My name is ____.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪm nɒt ˈfiː.lɪŋ wel səʊ aɪd laɪk tə ... ən əˈpɔɪnt.mənt wɪð ə ˈdɒk.tər pliːz maɪ neɪm ɪz/",
+        "vi": "Chào buổi sáng. Tôi thấy không khỏe, nên tôi muốn ____ một lịch hẹn với bác sĩ. Tên tôi là ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "make", "explanationVi": "Cụm cố định 'make an appointment' (đặt lịch hẹn); có thể thay bằng 'book'. Xem mẫu câu 'I'd like to make an appointment with...'." },
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Nam' hoặc 'Tran Van Nam'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course. Although the doctor is quite busy this morning, I can fit you in at around eleven. Could you fill in this form while you wait?",
+        "ipa": "/ɒv kɔːs ɔːlˈðəʊ ðə ˈdɒk.tər ɪz kwaɪt ˈbɪz.i ðɪs ˈmɔː.nɪŋ aɪ kæn fɪt juː ɪn ət əˈraʊnd ɪˈlev.ən kʊd juː fɪl ɪn ðɪs fɔːm waɪl juː weɪt/",
+        "vi": "Tất nhiên rồi. Mặc dù bác sĩ khá bận sáng nay, tôi vẫn có thể xếp anh/chị vào khoảng mười một giờ. Anh/chị điền giúp tôi mẫu đơn này trong lúc chờ nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure, thank you. Actually, the form asks for my symptoms — I've had a high fever and a bad cough ____ three days, so I'm a bit worried.",
+        "ipa": "/ʃʊə θæŋk juː ˈæk.tʃu.ə.li ðə fɔːm ɑːsks fɔːr maɪ ˈsɪmp.təmz aɪv hæd ə haɪ ˈfiː.vər ænd ə bæd kɒf ... θriː deɪz səʊ aɪm ə bɪt ˈwʌr.id/",
+        "vi": "Vâng, cảm ơn. Thật ra, mẫu đơn hỏi về triệu chứng của tôi — tôi đã bị sốt cao và ho nặng ____ ba ngày rồi, nên tôi hơi lo.",
+        "blanks": [
+          { "type": "knowledge", "answer": "for", "explanationVi": "Dùng 'for' + khoảng thời gian (three days) với thì hiện tại hoàn thành. Nếu là mốc thời gian (Monday) thì dùng 'since'. Xem mẫu 'I've had... for...'." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "Hello, please take a seat. I'm going to examine you now. Can you describe exactly how you feel, and tell me whether it ____ anywhere in particular?",
+        "ipa": "/həˈləʊ pliːz teɪk ə siːt aɪm ˈɡəʊ.ɪŋ tə ɪɡˈzæm.ɪn juː naʊ kæn juː dɪsˈkraɪb ɪɡˈzækt.li haʊ juː fiːl ænd tel miː ˈweð.ər ɪt ... ˈen.i.weər ɪn pəˈtɪk.jə.lər/",
+        "vi": "Xin chào, mời ngồi. Bây giờ tôi sẽ khám cho anh/chị. Anh/chị mô tả chính xác cảm giác của mình, và cho tôi biết nó có ____ ở chỗ nào cụ thể không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "hurts", "explanationVi": "Dùng 'hurts' (ngôi 'it', thì hiện tại đơn nên thêm -s). 'hurt' là nội động từ chỉ chỗ tự đau. Xem mẫu 'It hurts when...'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I feel exhausted, and my chest hurts when I cough. I also feel ____ whenever I stand up too quickly, although it gets a little better after I rest.",
+        "ipa": "/ˈɒn.ɪst.li aɪ fiːl ɪɡˈzɔːs.tɪd ænd maɪ tʃest hɜːts wen aɪ kɒf aɪ ˈɔːl.səʊ fiːl ... wenˈev.ər aɪ stænd ʌp tuː ˈkwɪk.li ɔːlˈðəʊ ɪt ɡets ə ˈlɪt.əl ˈbet.ər ˈɑːf.tər aɪ rest/",
+        "vi": "Thành thật mà nói, tôi thấy kiệt sức, và ngực tôi đau khi ho. Tôi cũng thấy ____ mỗi khi đứng dậy quá nhanh, mặc dù đỡ hơn một chút sau khi nghỉ ngơi.",
+        "blanks": [
+          { "type": "personal", "hint": "Một cảm giác cơ thể bạn gặp. Ví dụ: 'dizzy' (chóng mặt), 'lightheaded' (lâng lâng), 'weak' (yếu)." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "I see. Fortunately, it doesn't seem to be anything serious — most likely a chest infection. I'll write you a prescription, which you can take to the pharmacy downstairs.",
+        "ipa": "/aɪ siː ˈfɔː.tʃən.ət.li ɪt ˈdʌz.ənt siːm tə biː ˈen.i.θɪŋ ˈsɪə.ri.əs məʊst ˈlaɪk.li ə tʃest ɪnˈfek.ʃən aɪl raɪt juː ə prɪˈskrɪp.ʃən wɪtʃ juː kæn teɪk tə ðə ˈfɑː.mə.si ˌdaʊnˈsteəz/",
+        "vi": "Tôi hiểu rồi. May mắn là có vẻ không có gì nghiêm trọng — nhiều khả năng là nhiễm trùng đường hô hấp. Tôi sẽ kê cho anh/chị một đơn thuốc, mà anh/chị có thể mang xuống hiệu thuốc ở tầng dưới."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a relief, thank you. ____ I take this medicine before or after meals? And should I come back if I don't recover within a week?",
+        "ipa": "/ðæts ə rɪˈliːf θæŋk juː ... aɪ teɪk ðɪs ˈmed.ɪ.sən bɪˈfɔːr ɔːr ˈɑːf.tər miːlz ænd ʃʊd aɪ kʌm bæk ɪf aɪ dəʊnt rɪˈkʌv.ər wɪˈðɪn ə wiːk/",
+        "vi": "Vậy thì nhẹ cả người, cảm ơn bác sĩ. Tôi ____ uống thuốc này trước hay sau bữa ăn? Và tôi có nên quay lại nếu không khỏi trong vòng một tuần không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Should", "explanationVi": "Dùng 'Should I...?' để hỏi lời khuyên/khuyến nghị từ bác sĩ. Xem mẫu câu 'Should I...?' trong phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "Take it after meals, and please read the instructions carefully. If you don't feel better within a week, or if the fever gets worse, come back immediately so that we can run more tests.",
+        "ipa": "/teɪk ɪt ˈɑːf.tər miːlz ænd pliːz riːd ðə ɪnˈstrʌk.ʃənz ˈkeə.fəl.i ɪf juː dəʊnt fiːl ˈbet.ər wɪˈðɪn ə wiːk ɔːr ɪf ðə ˈfiː.vər ɡets wɜːs kʌm bæk ɪˈmiː.di.ət.li səʊ ðæt wiː kæn rʌn mɔː tests/",
+        "vi": "Hãy uống sau bữa ăn, và đọc kỹ hướng dẫn nhé. Nếu trong vòng một tuần không đỡ hơn, hoặc nếu sốt nặng thêm, hãy quay lại ngay để chúng tôi làm thêm xét nghiệm."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, bạn thường phải đặt lịch hẹn (appointment) với bác sĩ gia đình (GP) trước; chỉ đến thẳng phòng cấp cứu (ER / A&E) khi thật sự khẩn cấp.",
+    "Bác sĩ thường hỏi rất kỹ về thời gian, mức độ và vị trí cơn đau. Mô tả càng cụ thể (đau từ bao giờ, đau thế nào) thì càng được chẩn đoán chính xác.",
+    "Đơn thuốc (prescription) được mang ra hiệu thuốc (pharmacy / chemist's ở Anh) để mua; nhiều loại thuốc kê đơn không bán tự do.",
+    "Thông tin sức khỏe được giữ bí mật. Nhân viên y tế quen với việc bệnh nhân hỏi lại cho rõ, nên đừng ngại nói 'Could you explain that again, please?'."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai thì: nói 'I have a fever since three days'. Đúng là 'I've HAD a fever FOR three days' (hiện tại hoàn thành + for/since).",
+    "Nhầm 'painful' (tính từ, chỉ chỗ đau) với động từ 'hurt': nói 'My head hurts' hoặc 'My head is painful', KHÔNG nói 'My head pains'.",
+    "Quên mạo từ 'an': phải nói 'make AN appointment', không phải 'make appointment'.",
+    "Yêu cầu cộc lốc 'Give me medicine'. Hãy dùng 'Could I...?' hoặc 'Should I...?' để nghe lịch sự và tự nhiên hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ở bệnh viện như thật.",
+    "prompt": "Hãy đóng vai một lễ tân rồi sau đó là một bác sĩ nói tiếng Anh tại bệnh viện. Tôi là bệnh nhân đến khám vì thấy không khỏe. Hãy bắt đầu bằng cách chào và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như nhân viên y tế thật, hỏi tiếp về triệu chứng, thời gian và mức độ đau; (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt; (3) khuyến khích tôi dùng câu dài với 'although', 'such as', mệnh đề quan hệ 'which', và thì hiện tại hoàn thành ('I've had... for...'). Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy tạo một tình huống bất ngờ, ví dụ bác sĩ cần tôi mô tả thêm hoặc đề nghị làm xét nghiệm.' để tập xử lý.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và chấm điểm phần mô tả triệu chứng của tôi.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được triệu chứng và đã kéo dài bao lâu bằng thì hiện tại hoàn thành ('I've had... for...').",
+    "Tôi đặt được lịch hẹn và đề nghị lịch sự bằng 'I'd like to...', 'Could I...?'.",
+    "Tôi hỏi được lời khuyên về thuốc và việc chăm sóc tiếp theo bằng 'Should I...?'."
+  ]
+}

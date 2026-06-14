@@ -1,0 +1,366 @@
+{
+  "id": "phone-conference",
+  "category": "work",
+  "title": "Họp qua điện thoại",
+  "titleEn": "Phone Conference",
+  "level": "B2",
+  "functions": ["requesting", "opinions", "agreeing", "handling-problems"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Mở đầu và dẫn dắt một cuộc họp qua điện thoại một cách chuyên nghiệp",
+    "Xử lý sự cố kết nối, âm thanh bằng câu lịch sự, mạch lạc",
+    "Bày tỏ và bảo lưu ý kiến, đồng ý hoặc phản biện nhã nhặn trong cuộc họp",
+    "Chốt việc, phân công và kết thúc cuộc họp bằng câu dài tự nhiên",
+    "Dùng ngữ pháp nâng cao (although, in order to, not only… but also, mệnh đề quan hệ) khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "agenda",
+      "ipa": "/əˈdʒen.də/",
+      "vi": "chương trình họp / nội dung cần bàn (danh từ)",
+      "register": "neutral",
+      "example": "There are three main items on today's agenda.",
+      "exampleVi": "Có ba nội dung chính trong chương trình họp hôm nay.",
+      "note": "Danh từ. Mỗi mục trong agenda gọi là 'an item'. 'Hidden agenda' lại mang nghĩa xấu: ý đồ giấu giếm.",
+      "synonyms": [
+        { "term": "schedule", "ipa": "/ˈskedʒ.uːl/", "register": "neutral", "nuanceVi": "Nhấn vào trình tự thời gian (lúc mấy giờ làm gì), trong khi 'agenda' nhấn vào các CHỦ ĐỀ cần bàn." },
+        { "term": "plan", "ipa": "/plæn/", "register": "neutral", "nuanceVi": "Chung chung hơn, là kế hoạch tổng thể; 'agenda' cụ thể cho một cuộc họp." }
+      ]
+    },
+    {
+      "term": "to attend",
+      "ipa": "/əˈtend/",
+      "vi": "tham dự (động từ)",
+      "register": "formal",
+      "example": "Everyone who was invited managed to attend the call.",
+      "exampleVi": "Tất cả những người được mời đều tham dự được cuộc gọi.",
+      "note": "Động từ, KHÔNG đi với giới từ: 'attend the meeting', không phải 'attend TO the meeting'. 'attend to somebody' lại nghĩa là chăm sóc/xử lý.",
+      "synonyms": [
+        { "term": "to join", "ipa": "/dʒɔɪn/", "register": "neutral", "nuanceVi": "Đời thường, rất hợp khi nói về vào cuộc gọi online: 'join the call'. Nhẹ nhàng hơn 'attend'." },
+        { "term": "to participate", "ipa": "/pɑːˈtɪs.ɪ.peɪt/", "register": "formal", "nuanceVi": "Nhấn 'tham gia chủ động, có đóng góp', không chỉ ngồi nghe. Đi với 'in': participate in." }
+      ]
+    },
+    {
+      "term": "to mute",
+      "ipa": "/mjuːt/",
+      "vi": "tắt tiếng micro (động từ)",
+      "register": "neutral",
+      "example": "Could you mute your microphone? There's some background noise.",
+      "exampleVi": "Bạn tắt tiếng micro giúp được không? Có tạp âm ở phía bạn.",
+      "note": "Động từ và danh từ. Ngược lại là 'unmute' (bật tiếng lại). Cụm rất hay gặp khi họp online.",
+      "synonyms": [
+        { "term": "to silence", "ipa": "/ˈsaɪ.ləns/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa làm cho im lặng; ít dùng cho micro, hay dùng cho 'silence your phone'." }
+      ]
+    },
+    {
+      "term": "to reschedule",
+      "ipa": "/ˌriːˈʃedʒ.uːl/",
+      "vi": "dời lịch / xếp lại lịch (động từ)",
+      "register": "neutral",
+      "example": "We may have to reschedule the call to next Monday.",
+      "exampleVi": "Có thể chúng ta phải dời cuộc gọi sang thứ Hai tới.",
+      "note": "Động từ. Tiền tố 're-' = làm lại. Khác 'cancel' (hủy hẳn): reschedule là dời sang lúc khác.",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəʊstˈpəʊn/", "register": "formal", "nuanceVi": "Nhấn 'hoãn lại đến sau', không nhất thiết đã có ngày mới. 'reschedule' thường ngụ ý đặt lại một thời điểm cụ thể." },
+        { "term": "to put off", "ipa": "/pʊt ɒf/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'hoãn, để sau'. Thân mật hơn 'postpone'." }
+      ]
+    },
+    {
+      "term": "follow-up",
+      "ipa": "/ˈfɒl.əʊ.ʌp/",
+      "vi": "việc theo dõi / xử lý tiếp sau (danh từ)",
+      "register": "neutral",
+      "example": "I'll send a follow-up email summarizing what we agreed on.",
+      "exampleVi": "Tôi sẽ gửi một email theo dõi tóm tắt những gì chúng ta đã thống nhất.",
+      "note": "Danh từ/tính từ có gạch nối ('a follow-up email'). Động từ thì tách rời: 'to follow up on something'.",
+      "synonyms": [
+        { "term": "recap", "ipa": "/ˈriː.kæp/", "register": "neutral", "nuanceVi": "Nhấn việc 'tóm tắt lại điểm chính'. Thiên về ôn lại nội dung, còn follow-up thiên về hành động tiếp theo." }
+      ]
+    },
+    {
+      "term": "to clarify",
+      "ipa": "/ˈklær.ɪ.faɪ/",
+      "vi": "làm rõ (động từ)",
+      "register": "formal",
+      "example": "Could you clarify what you meant by 'a tight budget'?",
+      "exampleVi": "Bạn có thể làm rõ ý 'ngân sách eo hẹp' không?",
+      "note": "Động từ. Cách lịch sự để xin giải thích thêm mà không tỏ ra mình kém hiểu.",
+      "synonyms": [
+        { "term": "to elaborate", "ipa": "/ɪˈlæb.ə.reɪt/", "register": "formal", "nuanceVi": "Nhấn 'nói chi tiết, mở rộng thêm'. Đi với 'on': elaborate on. 'clarify' thiên về làm sáng tỏ điều mơ hồ." },
+        { "term": "to explain", "ipa": "/ɪkˈspleɪn/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'giải thích'. An toàn nhưng kém tinh tế hơn 'clarify' trong họp hành." }
+      ]
+    },
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "phản hồi, góp ý (danh từ)",
+      "register": "neutral",
+      "example": "I'd really appreciate your feedback on the proposal.",
+      "exampleVi": "Tôi rất mong nhận được phản hồi của bạn về đề xuất này.",
+      "note": "Danh từ KHÔNG đếm được: nói 'some feedback', không nói 'a feedback' hay 'feedbacks'.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhấn 'đóng góp ý kiến/chất xám vào'. Cũng không đếm được. Nghe thiên về tham gia tạo ra hơn là đánh giá." },
+        { "term": "comments", "ipa": "/ˈkɒm.ents/", "register": "neutral", "nuanceVi": "Cụ thể từng nhận xét, đếm được (số nhiều). Nhẹ và rời rạc hơn 'feedback' tổng thể." }
+      ]
+    },
+    {
+      "term": "to wrap up",
+      "ipa": "/ræp ʌp/",
+      "vi": "kết thúc, gói lại (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's wrap up the meeting; we're running out of time.",
+      "exampleVi": "Chúng ta kết thúc cuộc họp nhé; sắp hết giờ rồi.",
+      "note": "Cụm động từ đời thường nhưng dùng được cả trong công sở. Nghĩa 'hoàn tất, khép lại' một việc.",
+      "synonyms": [
+        { "term": "to conclude", "ipa": "/kənˈkluːd/", "register": "formal", "nuanceVi": "Trang trọng hơn nhiều, dùng trong văn cảnh chính thức: 'conclude the meeting'." },
+        { "term": "to finish up", "ipa": "/ˈfɪn.ɪʃ ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'làm nốt cho xong'. Nhẹ nhàng, gần gũi." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "rảnh, sẵn sàng (tính từ)",
+      "register": "neutral",
+      "example": "Are you available for a quick call tomorrow afternoon?",
+      "exampleVi": "Chiều mai bạn có rảnh cho một cuộc gọi ngắn không?",
+      "note": "Tính từ. Nói về người (rảnh) và về vật/thời gian (còn trống). Trái nghĩa: unavailable, busy.",
+      "synonyms": [
+        { "term": "free", "ipa": "/friː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rảnh'. Dễ dùng nhưng kém trang trọng hơn 'available' trong công sở." }
+      ]
+    },
+    {
+      "term": "briefly",
+      "ipa": "/ˈbriːf.li/",
+      "vi": "một cách ngắn gọn (trạng từ)",
+      "register": "neutral",
+      "example": "Let me briefly walk you through the main points.",
+      "exampleVi": "Để tôi trình bày ngắn gọn các điểm chính cho mọi người.",
+      "note": "Trạng từ. Báo hiệu bạn sẽ nói ngắn — rất hữu ích để giữ cuộc họp đúng giờ.",
+      "synonyms": [
+        { "term": "concisely", "ipa": "/kənˈsaɪs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'súc tích, không thừa lời'. 'briefly' thiên về 'ngắn về thời gian'." },
+        { "term": "in a nutshell", "ipa": "/ɪn ə ˈnʌt.ʃel/", "register": "casual", "nuanceVi": "Thành ngữ đời thường: 'nói tóm lại'. Dùng để chốt ý chính nhanh gọn." }
+      ]
+    },
+    {
+      "term": "clearly",
+      "ipa": "/ˈklɪə.li/",
+      "vi": "một cách rõ ràng (trạng từ)",
+      "register": "neutral",
+      "example": "Sorry, could you speak a bit more clearly? You're breaking up.",
+      "exampleVi": "Xin lỗi, bạn nói rõ hơn chút được không? Bạn bị rớt tiếng.",
+      "note": "Trạng từ. Hay dùng khi xin người kia nói rõ hơn vì đường truyền kém.",
+      "synonyms": [
+        { "term": "distinctly", "ipa": "/dɪˈstɪŋkt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'rành mạch, tách bạch từng tiếng'. Ít dùng đời thường hơn 'clearly'." }
+      ]
+    },
+    {
+      "term": "to summarize",
+      "ipa": "/ˈsʌm.ə.raɪz/",
+      "vi": "tóm tắt (động từ)",
+      "register": "neutral",
+      "example": "To summarize, we've agreed on the budget and the deadline.",
+      "exampleVi": "Tóm lại, chúng ta đã thống nhất về ngân sách và hạn chót.",
+      "note": "Động từ. 'To summarize, …' là cách mở đầu kinh điển khi chốt lại cuối cuộc họp.",
+      "synonyms": [
+        { "term": "to sum up", "ipa": "/sʌm ʌp/", "register": "neutral", "nuanceVi": "Cụm động từ, nghĩa y hệt nhưng đời thường hơn: 'To sum up, …'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Can everyone hear me clearly? / Can you all hear me okay?",
+      "use": "Kiểm tra âm thanh khi bắt đầu cuộc gọi.",
+      "register": "neutral",
+      "examples": [
+        "Hi everyone, can you all hear me clearly before we begin?"
+      ],
+      "explanationVi": "Câu mở đầu chuẩn để chắc đường truyền ổn trước khi vào nội dung. Hỏi sớm tránh phải nói lại cả đoạn.",
+      "altOf": "checking-audio"
+    },
+    {
+      "pattern": "Sorry, you're breaking up. Could you repeat that?",
+      "use": "Báo rớt tiếng và xin nói lại.",
+      "register": "neutral",
+      "examples": [
+        "Sorry, you're breaking up a little — could you repeat the last part?"
+      ],
+      "explanationVi": "'break up' (đường truyền) = bị rớt tiếng, ngắt quãng. Đây là cụm thực dụng nhất khi họp online gặp trục trặc mạng.",
+      "altOf": "checking-audio"
+    },
+    {
+      "pattern": "Shall we get started? / Why don't we get started?",
+      "use": "Đề nghị bắt đầu cuộc họp.",
+      "register": "neutral",
+      "examples": [
+        "Now that everyone has joined, shall we get started?"
+      ],
+      "explanationVi": "'Shall we …?' là lời rủ lịch sự (cùng làm gì đó). Dùng để dẫn dắt nhóm vào việc một cách nhã nhặn, không ra lệnh."
+    },
+    {
+      "pattern": "From my point of view, [mệnh đề], although [mệnh đề].",
+      "use": "Nêu quan điểm kèm một ý nhượng bộ cho cân bằng.",
+      "register": "formal",
+      "examples": [
+        "From my point of view, the plan is solid, although we should double-check the timeline."
+      ],
+      "explanationVi": "'From my point of view' (= theo quan điểm của tôi) mở đầu ý kiến nghe khách quan. 'although' thêm mệnh đề nhượng bộ giúp lập luận chín chắn, đỡ cực đoan.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I see your point, however, I think [mệnh đề].",
+      "use": "Phản biện lịch sự: công nhận trước, rồi nêu ý khác.",
+      "register": "neutral",
+      "examples": [
+        "I see your point; however, I think we should test it on a smaller scale first."
+      ],
+      "explanationVi": "Công thức 'công nhận + however + ý mình' giúp bất đồng mà vẫn tôn trọng người kia. 'however' nối hai ý trái chiều, trang trọng hơn 'but'.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "Could we possibly reschedule the call to [thời điểm]?",
+      "use": "Đề nghị dời lịch một cách lịch sự.",
+      "register": "formal",
+      "examples": [
+        "Could we possibly reschedule the call to Thursday morning, in order to give everyone time to prepare?"
+      ],
+      "explanationVi": "'Could we possibly …?' là đề nghị lịch sự bậc cao. 'in order to' nêu mục đích rõ ràng, khiến yêu cầu hợp lý và dễ được chấp nhận hơn."
+    },
+    {
+      "pattern": "To summarize, we've agreed that [mệnh đề], and I'll [V] as a follow-up.",
+      "use": "Chốt lại kết quả và phân công việc cuối cuộc họp.",
+      "register": "neutral",
+      "examples": [
+        "To summarize, we've agreed that the launch will be in May, and I'll send a follow-up email as a recap."
+      ],
+      "explanationVi": "Câu tổng kết kinh điển: nhắc lại điều đã thống nhất + nêu việc tiếp theo. Giúp mọi người rời cuộc họp với cùng một hiểu biết."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại hoặc bổ sung thông tin mà không muốn cộc lốc.", "example": "Actually, I'd like to add one point to the agenda." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Dẫn vào một ý kiến chân thành, đôi khi hơi thẳng thắn.", "example": "Honestly, I'm not entirely convinced this approach will work." },
+    { "term": "just to be clear", "ipa": "/dʒʌst tə biː ˈklɪər/", "vi": "nói cho rõ là", "when": "Khi muốn xác nhận lại để tránh hiểu lầm.", "example": "Just to be clear, are we launching in May or June?" },
+    { "term": "if I may", "ipa": "/ɪf aɪ meɪ/", "vi": "nếu tôi được phép", "when": "Xin phép xen vào hoặc bổ sung một cách rất lịch sự.", "example": "If I may, I'd like to add something to that point." },
+    { "term": "going forward", "ipa": "/ˈɡəʊ.ɪŋ ˈfɔː.wəd/", "vi": "từ giờ trở đi / về sau", "when": "Khi nói về cách làm cho các lần/giai đoạn tiếp theo.", "example": "Going forward, let's share the agenda a day in advance." },
+    { "term": "off the top of my head", "ipa": "/ɒf ðə tɒp əv maɪ hed/", "vi": "nghĩ ngay ra mà chưa kiểm tra kỹ", "when": "Khi đưa con số/ý kiến ước chừng, chưa chắc chắn.", "example": "Off the top of my head, I'd say we need about two more weeks." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn chủ trì một cuộc họp dự án qua điện thoại/online với một đồng nghiệp và một khách hàng. Cuộc họp gặp chút trục trặc âm thanh lúc đầu, sau đó bàn về tiến độ và chốt việc.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, everyone, and thank you for joining. Before we begin, can you all hear me ____? I just want to make sure the connection is stable.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈev.ri.wʌn ænd θæŋk juː fɔːr ˈdʒɔɪ.nɪŋ bɪˈfɔːr wiː bɪˈɡɪn kæn juː ɔːl hɪər miː ˈklɪə.li aɪ dʒʌst wɒnt tə meɪk ʃʊər ðə kəˈnek.ʃən ɪz ˈsteɪ.bəl/",
+        "vi": "Chào buổi sáng mọi người, cảm ơn các bạn đã tham gia. Trước khi bắt đầu, mọi người nghe tôi ____ chứ? Tôi chỉ muốn chắc là đường truyền ổn định.",
+        "blanks": [
+          { "type": "knowledge", "answer": "clearly", "explanationVi": "Dùng trạng từ 'clearly' (rõ ràng) để bổ nghĩa cho động từ 'hear'. Tính từ 'clear' không bổ nghĩa cho động từ được. Xem mẫu 'Can everyone hear me clearly?'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "Good morning. Honestly, you're ____ up a little on my end — could you possibly speak a bit closer to the microphone?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈɒn.ɪst.li jɔːr ˈbreɪ.kɪŋ ʌp ə ˈlɪt.əl ɒn maɪ end kʊd juː ˈpɒs.ə.bli spiːk ə bɪt ˈkləʊ.sər tə ðə ˈmaɪ.krə.fəʊn/",
+        "vi": "Chào buổi sáng. Thành thật mà nói, ở phía tôi bạn hơi bị ____ tiếng — bạn nói gần micro hơn một chút được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "breaking", "explanationVi": "'be breaking up' = (đường truyền) bị rớt tiếng, ngắt quãng. Đây là cụm cố định khi gọi online. Xem mẫu 'Sorry, you're breaking up.'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Is this better? Great. Now that everyone has joined, shall we get started? There are three items on today's ____, such as the budget, the timeline, and the launch plan.",
+        "ipa": "/ɪz ðɪs ˈbet.ər ɡreɪt naʊ ðæt ˈev.ri.wʌn hæz dʒɔɪnd ʃæl wiː ɡet ˈstɑː.tɪd ðeər ɑːr θriː ˈaɪ.təmz ɒn təˈdeɪz əˈdʒen.də sʌtʃ æz ðə ˈbʌdʒ.ɪt ðə ˈtaɪm.laɪn ænd ðə lɔːntʃ plæn/",
+        "vi": "Vậy đã rõ hơn chưa? Tuyệt. Giờ mọi người đã vào hết, ta bắt đầu nhé? Có ba nội dung trong ____ hôm nay, chẳng hạn như ngân sách, tiến độ và kế hoạch ra mắt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "agenda", "explanationVi": "'agenda' = danh sách các nội dung cần bàn trong cuộc họp. 'such as' phía sau dùng để nêu ví dụ các mục cụ thể." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "If I may, I'd like to start with the timeline, ____ I think it affects everything else we'll discuss today.",
+        "ipa": "/ɪf aɪ meɪ aɪd laɪk tə stɑːrt wɪð ðə ˈtaɪm.laɪn bɪˈkɒz aɪ θɪŋk ɪt əˈfekts ˈev.ri.θɪŋ els wiːl dɪˈskʌs təˈdeɪ/",
+        "vi": "Nếu được phép, tôi muốn bắt đầu với phần tiến độ, ____ tôi nghĩ nó ảnh hưởng đến mọi thứ khác mà hôm nay ta sẽ bàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho đề xuất (bắt đầu từ timeline). Mở đầu bằng 'If I may' khiến lời xin xen vào rất lịch sự." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "That makes sense. From my point of view, the current timeline looks tight, ____ as the team has limited resources this quarter. Could we discuss whether it's realistic?",
+        "ipa": "/ðæt meɪks sens frɒm maɪ pɔɪnt əv vjuː ðə ˈkʌr.ənt ˈtaɪm.laɪn lʊks taɪt ɪˈspeʃ.ə.li æz ðə tiːm hæz ˈlɪm.ɪ.tɪd rɪˈsɔː.sɪz ðɪs ˈkwɔː.tər kʊd wiː dɪˈskʌs ˈweð.ər ɪts ˌriː.əˈlɪs.tɪk/",
+        "vi": "Hợp lý đấy. Theo quan điểm của tôi, tiến độ hiện tại có vẻ gấp, ____ là vì nhóm có nguồn lực hạn chế trong quý này. Chúng ta bàn xem nó có khả thi không nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "especially", "explanationVi": "'especially' = đặc biệt là, dùng để nhấn vào một lý do nổi bật trong nhiều lý do. Đứng trước mệnh đề bắt đầu bằng 'as' (bởi vì)." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see your point. However, I believe we can still meet the deadline if we prioritize the key features first, in order ____ avoid overloading the team.",
+        "ipa": "/aɪ siː jɔːr pɔɪnt haʊˈev.ər aɪ bɪˈliːv wiː kæn stɪl miːt ðə ˈded.laɪn ɪf wiː praɪˈɒr.ɪ.taɪz ðə kiː ˈfiː.tʃəz fɜːst ɪn ˈɔː.dər tə əˈvɔɪd ˌəʊ.vəˈləʊ.dɪŋ ðə tiːm/",
+        "vi": "Tôi hiểu ý bạn. Tuy nhiên, tôi tin chúng ta vẫn kịp hạn nếu ưu tiên các tính năng cốt lõi trước, để ____ tránh làm nhóm quá tải.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Cấu trúc chỉ mục đích 'in order to + V': in order TO avoid. Đây là cách trang trọng để diễn đạt 'nhằm để'. Xem mẫu câu có 'in order to'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "I agree with that approach. Not only would it reduce pressure on the team, ____ it would also give us room to handle any unexpected problems.",
+        "ipa": "/aɪ əˈɡriː wɪð ðæt əˈprəʊtʃ nɒt ˈəʊn.li wʊd ɪt rɪˈdjuːs ˈpreʃ.ər ɒn ðə tiːm bʌt ɪt wʊd ˈɔːl.səʊ ɡɪv ʌs ruːm tə ˈhæn.dəl ˈen.i ˌʌn.ɪkˈspek.tɪd ˈprɒb.ləmz/",
+        "vi": "Tôi đồng ý với cách làm đó. Nó không những giảm áp lực cho nhóm, ____ còn cho chúng ta dư địa để xử lý những vấn đề bất ngờ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only … but also …': vế đầu đảo ngữ (Not only WOULD it…), vế sau bắt buộc có 'but … also'. Đây là điểm ngữ pháp TOEIC hay gặp." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "Sounds good to me. By the way, I have another meeting soon, so could we ____ the next call to Thursday morning?",
+        "ipa": "/saʊndz ɡʊd tə miː baɪ ðə weɪ aɪ hæv əˈnʌð.ər ˈmiː.tɪŋ suːn səʊ kʊd wiː ˌriːˈʃedʒ.uːl ðə nekst kɔːl tə ˈθɜːz.deɪ ˈmɔː.nɪŋ/",
+        "vi": "Tôi thấy ổn. Tiện thể, lát nữa tôi có cuộc họp khác, nên ta ____ cuộc gọi tới sang sáng thứ Năm được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "reschedule", "explanationVi": "'reschedule' = dời sang một thời điểm khác (khác 'cancel' là hủy hẳn). Sau 'could we' dùng động từ nguyên thể không 'to'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. To ____, we've agreed to prioritize the key features and to move our next call to Thursday, and I'll send a follow-up email as ____ for everyone.",
+        "ipa": "/əv kɔːs tə ˈsʌm.ə.raɪz wiːv əˈɡriːd tə praɪˈɒr.ɪ.taɪz ðə kiː ˈfiː.tʃəz ænd tə muːv ˈaʊər nekst kɔːl tə ˈθɜːz.deɪ ænd aɪl send ə ˈfɒl.əʊ.ʌp ˈiː.meɪl æz ə ˈriː.kæp fɔːr ˈev.ri.wʌn/",
+        "vi": "Tất nhiên rồi. Để ____, chúng ta đã thống nhất ưu tiên các tính năng cốt lõi và dời cuộc gọi tới sang thứ Năm, và tôi sẽ gửi một email theo dõi như một bản ____ cho mọi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "summarize", "explanationVi": "'To summarize, …' là cách mở đầu kinh điển khi chốt lại cuối cuộc họp. Sau 'To' là động từ nguyên thể." },
+          { "type": "personal", "hint": "Một danh từ chỉ bản tóm tắt nội dung họp. Ví dụ: 'recap' hoặc 'a summary'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, người chủ trì thường gửi agenda trước cuộc họp và một follow-up/recap email sau đó — thể hiện sự chuyên nghiệp và để mọi người cùng thống nhất.",
+    "Khi không nói, hãy 'mute' micro để tránh tạp âm; đây được coi là phép lịch sự cơ bản trong họp online.",
+    "Phản biện được khuyến khích nhưng phải lịch sự: công thức 'I see your point, however…' giúp bất đồng mà không gây mất lòng.",
+    "Đúng giờ rất quan trọng. Nếu phải dời lịch, hãy báo sớm và nêu lý do (in order to…) thay vì hủy đột ngột."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ 'Not only…': phải đảo trợ động từ và có 'but … also' ở vế sau — 'Not only WOULD it…, but it also…', không phải 'Not only it would…'.",
+    "Dùng 'attend' với giới từ thừa: nói 'attend the meeting', KHÔNG nói 'attend TO the meeting'.",
+    "Coi 'feedback'/'information' là đếm được: phải nói 'some feedback', không phải 'a feedback' hay 'feedbacks'.",
+    "Trả lời cụt lủn khi phản biện ('No, I don't think so.'). Hãy công nhận trước rồi nêu ý khác bằng 'however' để nghe khéo léo, chuyên nghiệp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện chủ trì một cuộc họp qua điện thoại như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp và một khách hàng nói tiếng Anh trong một cuộc họp dự án qua điện thoại; tôi là người chủ trì. Hãy mô phỏng đầy đủ: chào hỏi, kiểm tra âm thanh, đi qua agenda (tiến độ, ngân sách, kế hoạch), tranh luận nhẹ về một điểm, rồi chốt việc. Sau mỗi câu của tôi, hãy: (1) phản hồi tự nhiên như nhân vật đó, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'in order to', 'not only… but also', 'however'. Thỉnh thoảng tạo tình huống bất ngờ (rớt tiếng, một người xin dời lịch, một người phản đối ý kiến) để tôi tập xử lý. Cuối buổi hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc bạn (đồng nghiệp/khách hàng) vào cuộc gọi nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy làm âm thanh chập chờn nhiều hơn để tôi tập câu xử lý sự cố kết nối.'",
+      "Thêm: 'Hãy để khách hàng phản đối mạnh hơn để tôi luyện phản biện lịch sự.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu và dẫn dắt được cuộc họp (kiểm tra âm thanh, vào agenda) mà không cần nhìn gợi ý.",
+    "Tôi phản biện được lịch sự bằng 'I see your point, however…' và nêu lý do bằng 'in order to'.",
+    "Tôi tổng kết và phân công việc cuối cuộc họp bằng một câu dài bắt đầu 'To summarize…'."
+  ]
+}

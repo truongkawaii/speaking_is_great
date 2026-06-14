@@ -1,0 +1,314 @@
+{
+  "id": "asking-directions",
+  "category": "daily-life",
+  "title": "Hỏi đường",
+  "titleEn": "Asking for Directions",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi đường đến một địa điểm bằng câu lịch sự, đơn giản",
+    "Hiểu và làm theo các chỉ dẫn cơ bản (rẽ trái/phải, đi thẳng)",
+    "Hỏi lại khoảng cách và thời gian đi bộ đến nơi",
+    "Cảm ơn và xác nhận lại đường đi cho chắc chắn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "directions",
+      "ipa": "/dəˈrek.ʃənz/",
+      "vi": "lời chỉ đường (danh từ)",
+      "register": "neutral",
+      "example": "Excuse me, could you give me directions to the station?",
+      "exampleVi": "Xin lỗi, anh/chị có thể chỉ đường cho tôi đến nhà ga không?",
+      "note": "Danh từ, khi nói về chỉ đường luôn dùng số nhiều 'directions'. Cụm hay dùng: 'ask for directions', 'give directions'.",
+      "synonyms": [
+        { "term": "the way", "ipa": "/ðə weɪ/", "register": "casual", "nuanceVi": "Đời thường, đơn giản hơn. Hay dùng trong câu hỏi 'Which way is...?' (Đường nào đến...?)." }
+      ]
+    },
+    {
+      "term": "to turn",
+      "ipa": "/tɜːn/",
+      "vi": "rẽ, quẹo (động từ)",
+      "register": "neutral",
+      "example": "Turn left at the traffic lights.",
+      "exampleVi": "Rẽ trái ở chỗ đèn giao thông.",
+      "note": "Động từ, đi với 'left' (trái) hoặc 'right' (phải). Câu mệnh lệnh chỉ đường rất hay dùng: 'Turn left/right'."
+    },
+    {
+      "term": "straight",
+      "ipa": "/streɪt/",
+      "vi": "thẳng (trạng từ / tính từ)",
+      "register": "neutral",
+      "example": "Go straight for about two minutes.",
+      "exampleVi": "Đi thẳng khoảng hai phút.",
+      "note": "Hay đi cùng nhau thành cụm 'go straight on' hoặc 'go straight ahead' (đi thẳng về phía trước). Bẫy phát âm: đọc là /streɪt/, không phải 'straigh-t' tách rời.",
+      "synonyms": [
+        { "term": "straight ahead", "ipa": "/streɪt əˈhed/", "register": "neutral", "nuanceVi": "Thêm 'ahead' (phía trước) để nhấn rõ hướng đi tới trước mặt. Nghe đầy đủ và tự nhiên hơn khi chỉ đường." }
+      ]
+    },
+    {
+      "term": "corner",
+      "ipa": "/ˈkɔː.nər/",
+      "vi": "góc đường (danh từ)",
+      "register": "neutral",
+      "example": "The bank is on the corner.",
+      "exampleVi": "Ngân hàng ở ngay góc đường.",
+      "note": "Danh từ. Giới từ đi kèm: 'on the corner' (ở góc), 'around the corner' (ngay gần, vòng qua góc là tới)."
+    },
+    {
+      "term": "opposite",
+      "ipa": "/ˈɒp.ə.zɪt/",
+      "vi": "đối diện (giới từ / tính từ)",
+      "register": "neutral",
+      "example": "The pharmacy is opposite the supermarket.",
+      "exampleVi": "Hiệu thuốc nằm đối diện siêu thị.",
+      "note": "Dùng để chỉ vị trí 'đối diện qua đường'. Khác 'next to' (bên cạnh) và 'between' (ở giữa).",
+      "synonyms": [
+        { "term": "across from", "ipa": "/əˈkrɒs frɒm/", "register": "casual", "nuanceVi": "Nghĩa y hệt 'opposite' nhưng đời thường hơn, người Mỹ dùng nhiều: 'It's across from the park.'" }
+      ]
+    },
+    {
+      "term": "nearby",
+      "ipa": "/ˌnɪəˈbaɪ/",
+      "vi": "ở gần đây (trạng từ / tính từ)",
+      "register": "neutral",
+      "example": "Is there a bus stop nearby?",
+      "exampleVi": "Có trạm xe buýt nào gần đây không?",
+      "note": "Có thể là trạng từ ('Is it nearby?') hoặc tính từ đứng trước danh từ ('a nearby hotel').",
+      "synonyms": [
+        { "term": "close by", "ipa": "/kləʊs baɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ở sát bên, rất gần'. 'Is there one close by?'" },
+        { "term": "around here", "ipa": "/əˈraʊnd hɪər/", "register": "casual", "nuanceVi": "Nghĩa 'quanh khu vực này'. Hay dùng khi hỏi chung chung: 'Is there a café around here?'" }
+      ]
+    },
+    {
+      "term": "far",
+      "ipa": "/fɑːr/",
+      "vi": "xa (tính từ / trạng từ)",
+      "register": "neutral",
+      "example": "Is it far from here?",
+      "exampleVi": "Chỗ đó có xa đây không?",
+      "note": "Câu hỏi kinh điển: 'Is it far?'. Trái nghĩa là 'near/close'. Trong câu khẳng định người bản xứ hay nói 'a long way' thay vì 'very far'."
+    },
+    {
+      "term": "to get to",
+      "ipa": "/tə ɡet tuː/",
+      "vi": "đến được (một nơi nào đó) (động từ)",
+      "register": "neutral",
+      "example": "How do I get to the museum?",
+      "exampleVi": "Tôi đến bảo tàng bằng cách nào?",
+      "note": "Cụm động từ cốt lõi để hỏi đường: 'How do I get to + nơi chốn?'. 'get to' = tới được nơi nào đó.",
+      "synonyms": [
+        { "term": "to reach", "ipa": "/riːtʃ/", "register": "neutral", "nuanceVi": "Trang trọng hơn một chút, nghĩa 'đến tới nơi'. 'How can I reach the airport?' nghe hơi sách vở hơn 'get to'." }
+      ]
+    },
+    {
+      "term": "to miss",
+      "ipa": "/mɪs/",
+      "vi": "bỏ lỡ, đi quá (động từ)",
+      "register": "neutral",
+      "example": "Don't worry, you can't miss it.",
+      "exampleVi": "Đừng lo, anh/chị không thể đi nhầm được đâu.",
+      "note": "Câu 'You can't miss it!' rất phổ biến khi chỉ đường, nghĩa là 'dễ thấy lắm, không thể không thấy được'."
+    },
+    {
+      "term": "to walk",
+      "ipa": "/wɔːk/",
+      "vi": "đi bộ (động từ)",
+      "register": "neutral",
+      "example": "It's only a five-minute walk.",
+      "exampleVi": "Đi bộ chỉ mất năm phút thôi.",
+      "note": "Vừa là động từ ('walk straight'), vừa là danh từ ('a ten-minute walk' = đoạn đi bộ mười phút).",
+      "synonyms": [
+        { "term": "to head", "ipa": "/hed/", "register": "neutral", "nuanceVi": "Nghĩa 'đi về hướng nào đó'. 'Head north / head towards the river'. Nhấn vào hướng đi hơn là động tác đi bộ." }
+      ]
+    },
+    {
+      "term": "roughly",
+      "ipa": "/ˈrʌf.li/",
+      "vi": "khoảng chừng (trạng từ)",
+      "register": "neutral",
+      "example": "It takes roughly ten minutes on foot.",
+      "exampleVi": "Đi bộ mất khoảng chừng mười phút.",
+      "note": "Trạng từ chỉ con số ước lượng. Bẫy phát âm: 'rough' đọc là /rʌf/, không phải 'rau'.",
+      "synonyms": [
+        { "term": "about", "ipa": "/əˈbaʊt/", "register": "neutral", "nuanceVi": "Phổ biến và đơn giản nhất, ai cũng dùng: 'about ten minutes'. An toàn cho người mới." },
+        { "term": "approximately", "ipa": "/əˈprɒk.sɪ.mət.li/", "register": "formal", "nuanceVi": "Trang trọng, hơi dài, hợp văn viết hoặc thông báo chính thức hơn là hỏi đường ngoài phố." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Excuse me, how do I get to [nơi chốn]?",
+      "use": "Hỏi đường đến một địa điểm một cách lịch sự, đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, how do I get to the train station?",
+        "Excuse me, how do I get to the nearest pharmacy?"
+      ],
+      "explanationVi": "'Excuse me' để mở lời với người lạ cho lịch sự. 'How do I get to...?' là mẫu hỏi đường thông dụng nhất ở cấp A2 — dễ nói, dễ nhớ.",
+      "altOf": "asking-the-way"
+    },
+    {
+      "pattern": "Could you tell me the way to [nơi chốn]?",
+      "use": "Hỏi đường lịch sự hơn, nhẹ nhàng hơn.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me the way to the post office?",
+        "Could you tell me the way to the city centre?"
+      ],
+      "explanationVi": "'Could you tell me...?' nghe nhã nhặn hơn vì là câu hỏi gián tiếp. 'the way to' = đường đến. Dùng khi muốn lịch sự hơn một bậc.",
+      "altOf": "asking-the-way"
+    },
+    {
+      "pattern": "Is there a [nơi chốn] near here?",
+      "use": "Hỏi xem gần đó có một địa điểm nào không.",
+      "register": "neutral",
+      "examples": [
+        "Is there a bank near here?",
+        "Is there a supermarket near here?"
+      ],
+      "explanationVi": "Dùng khi bạn chưa biết tên cụ thể, chỉ cần tìm 'một' chỗ nào đó gần đây. 'near here' = gần đây."
+    },
+    {
+      "pattern": "Turn [left / right] at [mốc địa điểm].",
+      "use": "Đưa hoặc nhắc lại chỉ dẫn rẽ trái/phải tại một mốc.",
+      "register": "neutral",
+      "examples": [
+        "Turn left at the traffic lights.",
+        "Turn right at the corner."
+      ],
+      "explanationVi": "Câu mệnh lệnh đơn giản (không cần chủ ngữ). 'at' đi với mốc địa điểm (đèn giao thông, góc đường). Bạn cũng cần hiểu câu này khi nghe người ta chỉ."
+    },
+    {
+      "pattern": "Go straight on until you [thấy / đến mốc].",
+      "use": "Chỉ dẫn đi thẳng đến một mốc nào đó.",
+      "register": "neutral",
+      "examples": [
+        "Go straight on until you see the church.",
+        "Go straight on until you reach the bridge."
+      ],
+      "explanationVi": "'go straight on' = đi thẳng tiếp. 'until' = cho đến khi. Đây là mẫu cơ bản để mô tả quãng đường đi thẳng."
+    },
+    {
+      "pattern": "Is it far from here?",
+      "use": "Hỏi xem nơi đó có xa không.",
+      "register": "neutral",
+      "examples": [
+        "Is it far from here?",
+        "Is the museum far from here?"
+      ],
+      "explanationVi": "Câu hỏi cực ngắn và hữu ích. 'far' = xa, 'from here' = tính từ đây. Hỏi xong người ta sẽ cho biết nên đi bộ hay đi xe."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "excuse me", "ipa": "/ɪkˈskjuːz miː/", "vi": "xin lỗi (để bắt chuyện)", "when": "Mở lời lịch sự với người lạ trước khi hỏi đường.", "example": "Excuse me, can you help me?" },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính nhẹ hoặc bổ sung thông tin.", "example": "Actually, I'm looking for the old market, not the new one." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ... (làm câu mềm hơn)", "when": "Khi muốn hỏi nghe nhẹ nhàng, không phiền hà.", "example": "I just need to find the bus stop." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Hỏi thêm một câu ngoài lề.", "example": "By the way, is there a café nearby?" },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Bày tỏ mong điều tốt sẽ xảy ra.", "example": "Hopefully I won't get lost again." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là khách du lịch đang đi bộ trên phố và bị lạc. Bạn dừng một người đi đường (người địa phương) để hỏi đường đến nhà ga.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Excuse me, I'm a bit lost. Could you tell me how I can ____ to the train station?",
+        "ipa": "/ɪkˈskjuːz miː aɪm ə bɪt lɒst kʊd juː tel miː haʊ aɪ kæn ɡet tuː ðə treɪn ˈsteɪ.ʃən/",
+        "vi": "Xin lỗi, tôi hơi bị lạc. Anh/chị có thể chỉ tôi cách ____ đến nhà ga không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "get", "explanationVi": "Dùng 'get to' (= đến được một nơi). Cụm 'how I can get to...' là cách hỏi đường rất tự nhiên. Xem mẫu câu 'How do I get to...?'." }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "Of course! It's not far, although the road is a little confusing. Go straight on until you reach the traffic lights, which are next to a big supermarket.",
+        "ipa": "/ɒv kɔːs ɪts nɒt fɑːr ɔːlˈðəʊ ðə rəʊd ɪz ə ˈlɪt.əl kənˈfjuː.zɪŋ ɡəʊ streɪt ɒn ənˈtɪl juː riːtʃ ðə ˈtræf.ɪk laɪts wɪtʃ ɑːr nekst tuː ə bɪɡ ˈsuː.pə.mɑː.kɪt/",
+        "vi": "Tất nhiên rồi! Cũng không xa đâu, mặc dù con đường hơi khó hiểu một chút. Cứ đi thẳng cho đến khi tới chỗ đèn giao thông, ngay cạnh một siêu thị lớn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Okay, go straight to the traffic lights. And then, should I turn ____ or right there?",
+        "ipa": "/ˌəʊˈkeɪ ɡəʊ streɪt tuː ðə ˈtræf.ɪk laɪts ænd ðen ʃʊd aɪ tɜːn left ɔːr raɪt ðeər/",
+        "vi": "Được, đi thẳng đến chỗ đèn giao thông. Rồi sau đó tôi nên rẽ ____ hay rẽ phải ở đó?",
+        "blanks": [
+          { "type": "knowledge", "answer": "left", "explanationVi": "'left' (trái) là cặp đối với 'right' (phải) trong câu hỏi 'turn left or right?'. Đây là từ cốt lõi khi nghe và hỏi chỉ đường." }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "Turn left, and then take the second street on your right. The station is on the ____, right opposite a small park.",
+        "ipa": "/tɜːn left ænd ðen teɪk ðə ˈsek.ənd striːt ɒn jɔː raɪt ðə ˈsteɪ.ʃən ɪz ɒn ðə ˈkɔː.nər raɪt ˈɒp.ə.zɪt ə smɔːl pɑːk/",
+        "vi": "Rẽ trái, rồi đi vào con phố thứ hai bên phải. Nhà ga nằm ở ____ đường, ngay đối diện một công viên nhỏ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "corner", "explanationVi": "Dùng 'on the corner' (ở góc đường). Đây là cách định vị một địa điểm rất thông dụng khi chỉ đường." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds easy. Is it ____ from here? I'm asking because I have a heavy bag and I'd rather not walk too long.",
+        "ipa": "/ðæt saʊndz ˈiː.zi ɪz ɪt fɑːr frɒm hɪər aɪm ˈɑːs.kɪŋ bɪˈkɒz aɪ hæv ə ˈhev.i bæɡ ænd aɪd ˈrɑː.ðə nɒt wɔːk tuː lɒŋ/",
+        "vi": "Nghe có vẻ dễ. Chỗ đó có ____ đây không? Tôi hỏi vậy vì tôi mang túi nặng và không muốn đi bộ quá lâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "far", "explanationVi": "Dùng 'far' (xa) trong câu hỏi 'Is it far from here?'. Đây là mẫu câu hỏi khoảng cách ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "Don't worry, it's not far at all. It's roughly a ten-minute walk, and you really can't ____ it because the building is very big and bright.",
+        "ipa": "/dəʊnt ˈwʌr.i ɪts nɒt fɑːr ət ɔːl ɪts ˈrʌf.li ə ten ˈmɪn.ɪt wɔːk ænd juː ˈrɪə.li kɑːnt mɪs ɪt bɪˈkɒz ðə ˈbɪl.dɪŋ ɪz ˈver.i bɪɡ ænd braɪt/",
+        "vi": "Đừng lo, không xa chút nào đâu. Đi bộ khoảng chừng mười phút thôi, và anh/chị thực sự không thể ____ nó được vì tòa nhà rất to và sáng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "miss", "explanationVi": "Cụm 'You can't miss it' (= không thể đi nhầm/không thấy được) rất phổ biến khi chỉ đường, nghĩa là chỗ đó dễ thấy lắm." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much! By the way, is there a ____ nearby where I can buy some water before my trip?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ baɪ ðə weɪ ɪz ðeər ə ʃɒp ˈnɪə.baɪ weər aɪ kæn baɪ sʌm ˈwɔː.tə bɪˈfɔː maɪ trɪp/",
+        "vi": "Cảm ơn anh/chị rất nhiều! Tiện thể, gần đây có ____ nào để tôi mua ít nước trước chuyến đi không?",
+        "blanks": [
+          { "type": "personal", "hint": "Loại cửa hàng bạn muốn tìm. Ví dụ: 'shop', 'supermarket', 'convenience store'." }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "Yes, there's a small shop just around the corner, which is open all day. Have a safe trip, and enjoy your visit!",
+        "ipa": "/jes ðeəz ə smɔːl ʃɒp dʒʌst əˈraʊnd ðə ˈkɔː.nər wɪtʃ ɪz ˈəʊ.pən ɔːl deɪ hæv ə seɪf trɪp ænd ɪnˈdʒɔɪ jɔː ˈvɪz.ɪt/",
+        "vi": "Có chứ, có một cửa hàng nhỏ ngay vòng qua góc đường, mở cửa cả ngày. Chúc anh/chị đi đường bình an và có chuyến thăm vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, luôn mở đầu bằng 'Excuse me' khi dừng người lạ để hỏi đường — bỏ qua bước này nghe rất cộc.",
+    "Người bản xứ hay chỉ đường theo mốc (landmark) như 'the traffic lights', 'the church', 'the supermarket' thay vì tên đường, nên hãy chú ý các mốc đó.",
+    "Khoảng cách thường được nói theo thời gian đi bộ ('a ten-minute walk') hơn là theo mét, đặc biệt ở thành phố.",
+    "Nhớ cảm ơn ('Thank you so much') sau khi được chỉ đường — đây là phép lịch sự cơ bản và rất được coi trọng."
+  ],
+
+  "commonMistakes": [
+    "Nói 'How I get to...?' thiếu trợ động từ — phải là 'How DO I get to...?'.",
+    "Quên giới từ 'to' sau 'get': phải là 'get TO the station', không phải 'get the station'.",
+    "Dùng 'opposite to' — đúng là 'opposite the park' (không có 'to').",
+    "Nói 'Where is station?' thiếu mạo từ — phải là 'Where is THE station?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện hỏi đường như thật.",
+    "prompt": "Hãy đóng vai một người địa phương nói tiếng Anh trên phố. Tôi là khách du lịch bị lạc và muốn hỏi đường đến một địa điểm mà tôi sẽ nêu. Hãy chỉ đường cho tôi bằng câu đơn giản (turn left/right, go straight, near here, on the corner). Sau mỗi câu nói của tôi, hãy: (1) phản hồi tự nhiên như một người đi đường thân thiện, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ con đường đang sửa, phải đi vòng) để tôi tập hỏi lại. Nói chậm rãi, dùng từ vựng cấp độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy chỉ đường dài hơn, qua nhiều ngã rẽ hơn để tôi tập nghe.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được đường đến một nơi bằng mẫu 'How do I get to...?' mà không nhìn gợi ý.",
+    "Tôi hiểu và nhắc lại được các chỉ dẫn cơ bản (turn left/right, go straight, on the corner).",
+    "Tôi hỏi được khoảng cách bằng 'Is it far from here?' và cảm ơn người chỉ đường."
+  ]
+}

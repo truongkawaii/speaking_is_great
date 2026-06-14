@@ -1,0 +1,359 @@
+{
+  "id": "repairs-maintenance",
+  "category": "services",
+  "title": "Sửa chữa & bảo trì",
+  "titleEn": "Repairs & Maintenance",
+  "level": "B2",
+  "functions": ["describing", "requesting", "handling-problems", "complaining", "asking-info"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Mô tả chính xác sự cố/hỏng hóc bằng câu dài, có chi tiết và bối cảnh",
+    "Yêu cầu thợ đến kiểm tra, sửa chữa hoặc bảo trì một cách lịch sự, chuyên nghiệp",
+    "Hỏi về nguyên nhân, chi phí, thời gian sửa và bảo hành",
+    "Phàn nàn lịch sự khi sự cố lặp lại và thương lượng phương án xử lý",
+    "Dùng ngữ pháp nâng cao (although, in order to, despite, mệnh đề quan hệ which/who) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "malfunction",
+      "ipa": "/ˌmælˈfʌŋk.ʃən/",
+      "vi": "trục trặc, hỏng hóc (danh từ / động từ)",
+      "register": "formal",
+      "example": "The technician traced the malfunction to a faulty circuit board.",
+      "exampleVi": "Kỹ thuật viên truy ra trục trặc nằm ở một bo mạch lỗi.",
+      "note": "Vừa là danh từ vừa là động từ. Trang trọng/kỹ thuật hơn 'problem'; hay gặp trong báo cáo bảo trì.",
+      "synonyms": [
+        { "term": "fault", "ipa": "/fɔːlt/", "register": "neutral", "nuanceVi": "Phổ biến trong Anh-Anh, chỉ một lỗi/khiếm khuyết cụ thể ('a fault in the wiring'). Trung tính, dễ dùng." },
+        { "term": "glitch", "ipa": "/ɡlɪtʃ/", "register": "casual", "nuanceVi": "Đời thường, chỉ trục trặc nhỏ/tạm thời, thường về điện tử-phần mềm. Nghe nhẹ, không nghiêm trọng." },
+        { "term": "defect", "ipa": "/ˈdiː.fekt/", "register": "formal", "nuanceVi": "Nhấn 'khiếm khuyết do sản xuất/thiết kế', tức lỗi vốn có chứ không phải do dùng. Hay đi với bảo hành." }
+      ]
+    },
+    {
+      "term": "to repair",
+      "ipa": "/rɪˈpeər/",
+      "vi": "sửa chữa (động từ)",
+      "register": "neutral",
+      "example": "It would be cheaper to repair the boiler than to replace it.",
+      "exampleVi": "Sửa nồi hơi sẽ rẻ hơn là thay mới.",
+      "note": "Động từ trung tính, hợp văn nói lẫn văn viết. Danh từ: 'a repair'.",
+      "synonyms": [
+        { "term": "to fix", "ipa": "/fɪks/", "register": "casual", "nuanceVi": "Đời thường, ngắn gọn, ai cũng hiểu ('Can you fix it?'). Hợp nói chuyện thân mật hơn báo cáo." },
+        { "term": "to mend", "ipa": "/mend/", "register": "neutral", "nuanceVi": "Anh-Anh, thường cho đồ vật nhỏ/vải vóc, ống nước rò ('mend a leak'). Nghe hơi truyền thống." },
+        { "term": "to overhaul", "ipa": "/ˌəʊ.vəˈhɔːl/", "register": "formal", "nuanceVi": "Nhấn 'đại tu, sửa toàn diện', không chỉ vá lỗi nhỏ. Dùng cho máy móc lớn, hệ thống." }
+      ]
+    },
+    {
+      "term": "maintenance",
+      "ipa": "/ˈmeɪn.tən.əns/",
+      "vi": "việc bảo trì, bảo dưỡng (danh từ)",
+      "register": "neutral",
+      "example": "Regular maintenance helps prevent expensive breakdowns later on.",
+      "exampleVi": "Bảo trì định kỳ giúp tránh hỏng hóc tốn kém về sau.",
+      "note": "Danh từ không đếm được. Phát âm bẫy: trọng âm ở 'MAIN', đuôi đọc /tən.əns/, KHÔNG đọc như 'maintain'.",
+      "synonyms": [
+        { "term": "servicing", "ipa": "/ˈsɜː.vɪ.sɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào lần kiểm tra-bảo dưỡng định kỳ (xe cộ, thiết bị): 'the car is due for servicing'." },
+        { "term": "upkeep", "ipa": "/ˈʌp.kiːp/", "register": "neutral", "nuanceVi": "Nhấn 'giữ cho luôn ở tình trạng tốt theo thời gian', thiên về nhà cửa/tài sản. Hơi văn vẻ." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, hỏng (tính từ)",
+      "register": "neutral",
+      "example": "The whole unit stopped working because of a faulty power supply.",
+      "exampleVi": "Cả thiết bị ngừng chạy vì bộ nguồn bị lỗi.",
+      "note": "Tính từ mô tả bộ phận/thiết bị không hoạt động đúng. Đi trước danh từ: 'a faulty switch'.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'có khiếm khuyết, không đạt chuẩn'. Hay dùng khi đòi đổi/trả hàng theo bảo hành." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "neutral", "nuanceVi": "Nhấn 'đã hỏng hẳn, không chạy'. Trực diện hơn 'faulty' (vốn có thể chỉ chập chờn)." },
+        { "term": "dodgy", "ipa": "/ˈdɒdʒ.i/", "register": "casual", "nuanceVi": "Anh-Anh, rất đời thường, nghĩa 'có vẻ không ổn, đáng ngờ'. Tránh dùng trong văn cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "warranty",
+      "ipa": "/ˈwɒr.ən.ti/",
+      "vi": "bảo hành (danh từ)",
+      "register": "neutral",
+      "example": "Fortunately, the repair is covered by the warranty, so there's no charge.",
+      "exampleVi": "May là phần sửa này nằm trong bảo hành nên không mất phí.",
+      "note": "Danh từ. Cụm hay gặp: 'under warranty' (còn bảo hành), 'covered by the warranty' (được bảo hành).",
+      "synonyms": [
+        { "term": "guarantee", "ipa": "/ˌɡær.ənˈtiː/", "register": "neutral", "nuanceVi": "Gần nghĩa; 'guarantee' thiên về lời cam kết của nhà bán, 'warranty' thiên về văn bản pháp lý chính thức." }
+      ]
+    },
+    {
+      "term": "to leak",
+      "ipa": "/liːk/",
+      "vi": "rò rỉ (động từ)",
+      "register": "neutral",
+      "example": "Water has been leaking from under the sink since yesterday.",
+      "exampleVi": "Nước rò rỉ từ dưới bồn rửa từ hôm qua.",
+      "note": "Động từ. Danh từ: 'a leak' (chỗ rò). Hiện tại hoàn thành tiếp diễn rất hợp để mô tả sự cố kéo dài.",
+      "synonyms": [
+        { "term": "to drip", "ipa": "/drɪp/", "register": "neutral", "nuanceVi": "Nhấn 'nhỏ giọt từng giọt', nhẹ và chậm hơn 'leak' (rò thành dòng/loang)." },
+        { "term": "to seep", "ipa": "/siːp/", "register": "formal", "nuanceVi": "Nhấn 'thấm/rỉ ra từ từ qua khe nhỏ'. Hơi văn vẻ, hay dùng cho ẩm thấm tường." }
+      ]
+    },
+    {
+      "term": "to inspect",
+      "ipa": "/ɪnˈspekt/",
+      "vi": "kiểm tra, xem xét (động từ)",
+      "register": "formal",
+      "example": "An engineer will come round to inspect the wiring tomorrow morning.",
+      "exampleVi": "Một kỹ sư sẽ ghé qua kiểm tra hệ thống dây điện vào sáng mai.",
+      "note": "Động từ trang trọng, nhấn việc xem xét kỹ để tìm lỗi. Danh từ: 'inspection'.",
+      "synonyms": [
+        { "term": "to check", "ipa": "/tʃek/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nhẹ hơn 'inspect' (vốn nhấn xem xét tỉ mỉ chính thức)." },
+        { "term": "to examine", "ipa": "/ɪɡˈzæm.ɪn/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'xem xét chi tiết để đánh giá'. Gần 'inspect' nhưng thiên về phân tích." }
+      ]
+    },
+    {
+      "term": "estimate",
+      "ipa": "/ˈes.tɪ.mət/",
+      "vi": "báo giá ước tính (danh từ)",
+      "register": "neutral",
+      "example": "Could you give me a written estimate before you start the work?",
+      "exampleVi": "Anh có thể đưa tôi bản báo giá bằng văn bản trước khi bắt đầu không?",
+      "note": "Danh từ (đọc /ˈes.tɪ.mət/) khác động từ (đọc /ˈes.tɪ.meɪt/). 'a quote' là từ gần nghĩa, thường chắc chắn hơn.",
+      "synonyms": [
+        { "term": "quote", "ipa": "/kwəʊt/", "register": "neutral", "nuanceVi": "Nhấn 'giá chốt cố định cho công việc', ràng buộc hơn 'estimate' (chỉ là con số dự tính)." },
+        { "term": "quotation", "ipa": "/kwəʊˈteɪ.ʃən/", "register": "formal", "nuanceVi": "Dạng đầy đủ, trang trọng của 'quote'; hay xuất hiện trong văn bản kinh doanh chính thức." }
+      ]
+    },
+    {
+      "term": "urgently",
+      "ipa": "/ˈɜː.dʒənt.li/",
+      "vi": "một cách khẩn cấp (trạng từ)",
+      "register": "neutral",
+      "example": "The heating has broken down and we need it repaired urgently.",
+      "exampleVi": "Hệ thống sưởi hỏng rồi và chúng tôi cần sửa gấp.",
+      "note": "Trạng từ. Đặt cuối câu hoặc trước động từ để nhấn mức độ cần kíp.",
+      "synonyms": [
+        { "term": "promptly", "ipa": "/ˈprɒmpt.li/", "register": "formal", "nuanceVi": "Nhấn 'ngay, không chậm trễ', lịch sự-chuyên nghiệp. Nhẹ nhàng hơn 'urgently' (vốn báo nguy)." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngay lập tức'. Hợp nói chuyện thân mật." },
+        { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "register": "neutral", "nuanceVi": "Cụm trung tính phổ biến (viết tắt ASAP), mềm hơn 'urgently'." }
+      ]
+    },
+    {
+      "term": "intermittently",
+      "ipa": "/ˌɪn.təˈmɪt.ənt.li/",
+      "vi": "lúc được lúc không, không liên tục (trạng từ)",
+      "register": "formal",
+      "example": "The wifi keeps cutting out intermittently, particularly in the evenings.",
+      "exampleVi": "Wifi cứ chập chờn không liên tục, đặc biệt là vào buổi tối.",
+      "note": "Trạng từ rất 'ăn điểm' khi mô tả lỗi chập chờn — chính xác hơn nhiều so với chỉ nói 'sometimes'.",
+      "synonyms": [
+        { "term": "on and off", "ipa": "/ɒn ænd ɒf/", "register": "casual", "nuanceVi": "Cụm đời thường cùng nghĩa 'lúc có lúc không': 'It works on and off.'" },
+        { "term": "sporadically", "ipa": "/spəˈræd.ɪk.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thưa thớt, không theo quy luật'. Hơi văn vẻ hơn intermittently." }
+      ]
+    },
+    {
+      "term": "worn out",
+      "ipa": "/wɔːrn aʊt/",
+      "vi": "mòn, cũ hỏng do dùng nhiều (tính từ)",
+      "register": "neutral",
+      "example": "The brake pads are completely worn out and need replacing.",
+      "exampleVi": "Má phanh đã mòn hẳn và cần thay.",
+      "note": "Tính từ chỉ bộ phận hao mòn theo thời gian sử dụng. Khác 'broken' (hỏng đột ngột).",
+      "synonyms": [
+        { "term": "frayed", "ipa": "/freɪd/", "register": "neutral", "nuanceVi": "Riêng cho dây/vải bị sờn, tướp ('a frayed cable'). Cụ thể hơn 'worn out'." },
+        { "term": "run-down", "ipa": "/ˌrʌnˈdaʊn/", "register": "neutral", "nuanceVi": "Nhấn 'xuống cấp do thiếu bảo dưỡng', hay dùng cho cả tòa nhà/khu vực." }
+      ]
+    },
+    {
+      "term": "to replace",
+      "ipa": "/rɪˈpleɪs/",
+      "vi": "thay thế (động từ)",
+      "register": "neutral",
+      "example": "Rather than repairing it again, I'd recommend replacing the whole part.",
+      "exampleVi": "Thay vì sửa lại lần nữa, tôi khuyên nên thay cả bộ phận.",
+      "note": "Động từ. Cấu trúc 'replace A with B' (thay A bằng B). Danh từ: 'replacement'.",
+      "synonyms": [
+        { "term": "to swap out", "ipa": "/swɒp aʊt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'tháo cái cũ lắp cái mới' nhanh gọn. Hợp văn nói thân mật." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling because [thiết bị] has [V hoàn thành], and [chi tiết thêm].",
+      "use": "Mở đầu cuộc gọi báo sự cố một cách rõ ràng, chuyên nghiệp.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling because my washing machine has stopped draining, and there's water all over the floor."
+      ],
+      "explanationVi": "Hiện tại hoàn thành ('has stopped') diễn tả sự cố mới xảy ra còn ảnh hưởng đến hiện tại. Nêu luôn hệ quả ('water all over the floor') giúp thợ hình dung mức độ."
+    },
+    {
+      "pattern": "It's been [V-ing] [trạng từ chỉ tần suất] for [khoảng thời gian] now.",
+      "use": "Mô tả một sự cố kéo dài, lặp lại.",
+      "register": "neutral",
+      "examples": [
+        "It's been leaking intermittently for about a week now.",
+        "The boiler's been making a strange noise on and off for a few days now."
+      ],
+      "explanationVi": "Hiện tại hoàn thành tiếp diễn ('has been leaking') nhấn vào việc sự cố diễn ra liên tục từ quá khứ tới giờ. Thêm trạng từ ('intermittently') để mô tả chính xác."
+    },
+    {
+      "pattern": "Could you possibly send someone round to [V] [khung thời gian]?",
+      "use": "Yêu cầu thợ đến tận nơi một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you possibly send someone round to take a look this afternoon?"
+      ],
+      "explanationVi": "'send someone round' = cử người đến tận nơi (Anh-Anh). 'possibly' làm yêu cầu nghe khiêm tốn, dễ được đồng ý hơn.",
+      "altOf": "requesting-service"
+    },
+    {
+      "pattern": "Would it be possible to have it [V phân từ] [khung thời gian]?",
+      "use": "Đề nghị lịch sự bậc cao về việc sửa/giao trong thời hạn nào đó.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to have it repaired before the weekend?",
+        "Would it be possible to have the part replaced under warranty?"
+      ],
+      "explanationVi": "'have it repaired' là cấu trúc nhờ-vả (have + tân ngữ + V phân từ): nhờ người khác làm hộ. Rất lịch sự khi xin một ân huệ về thời gian.",
+      "altOf": "requesting-service"
+    },
+    {
+      "pattern": "Could you give me a rough idea of [how much / how long] ... ?",
+      "use": "Hỏi về chi phí hoặc thời gian sửa mà không gây áp lực.",
+      "register": "neutral",
+      "examples": [
+        "Could you give me a rough idea of how much the repair will cost?",
+        "Could you give me a rough idea of how long it'll take?"
+      ],
+      "explanationVi": "'a rough idea' = con số ước chừng. Cách hỏi mềm mại, không bắt người ta cam kết chắc chắn — nghe nhã nhặn."
+    },
+    {
+      "pattern": "Although I appreciate [điều tích cực], I'm afraid [phàn nàn lịch sự].",
+      "use": "Phàn nàn nhã nhặn khi sự cố lặp lại, vẫn giữ thiện chí.",
+      "register": "formal",
+      "examples": [
+        "Although I appreciate your quick response, I'm afraid the same problem has come back."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (ghi nhận điểm tốt trước), rồi 'I'm afraid' làm lời phàn nàn nhẹ đi. Bộ đôi này giúp khiếu nại mà không gây căng thẳng."
+    },
+    {
+      "pattern": "In order to [mục tiêu], I'd suggest [giải pháp] rather than [phương án kém hơn].",
+      "use": "Đề xuất giải pháp kèm lý do và so sánh phương án.",
+      "register": "formal",
+      "examples": [
+        "In order to avoid the same issue, I'd suggest replacing the whole unit rather than patching it up again."
+      ],
+      "explanationVi": "'In order to' nêu mục đích trang trọng; 'rather than' đặt hai lựa chọn cạnh nhau để làm rõ khuyến nghị. Nghe rất chuyên nghiệp khi tư vấn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "có vẻ như, nghe nói là", "when": "Khi thuật lại điều thợ chẩn đoán mà bạn chưa chắc chắn.", "example": "Apparently, it's the compressor that needs replacing, not the whole fridge." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Mô tả sự cố xấu đi từ từ theo thời gian.", "example": "The performance has gradually got worse over the past month." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là, không may là", "when": "Dẫn vào tin xấu một cách lịch sự.", "example": "Unfortunately, the spare part is out of stock until next week." },
+    { "term": "ideally", "ipa": "/aɪˈdɪə.li/", "vi": "lý tưởng nhất là", "when": "Nêu mong muốn tốt nhất khi yêu cầu lịch trình.", "example": "Ideally, I'd like it fixed before I leave for work tomorrow." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn ghi nhận một điểm hợp lý của bên kia giữa lúc phàn nàn.", "example": "To be fair, your team did come out quickly the first time." },
+    { "term": "essentially", "ipa": "/ɪˈsen.ʃəl.i/", "vi": "về cơ bản, nói gọn lại là", "when": "Tóm tắt bản chất vấn đề kỹ thuật cho dễ hiểu.", "example": "Essentially, the seal has perished, which is why it keeps leaking." }
+  ],
+
+  "dialogue": {
+    "context": "Hệ thống sưởi (boiler) trong căn hộ thuê của bạn bị trục trặc. Bạn gọi điện cho công ty dịch vụ sửa chữa để báo sự cố, hỏi chi phí và sắp xếp lịch thợ đến. Người nghe máy là điều phối viên (coordinator) của công ty.",
+    "lines": [
+      {
+        "speaker": "Điều phối viên",
+        "text": "Good morning, City Repairs, this is Daniel speaking. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ ˈsɪt.i rɪˈpeərz ðɪs ɪz ˈdæn.jəl ˈspiː.kɪŋ haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, City Repairs xin nghe, tôi là Daniel. Tôi có thể giúp gì cho anh/chị hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm calling because my boiler has stopped working, and it's been making a strange noise ____ for about three days now. Honestly, the flat is freezing, so I'd really appreciate it if someone could come and inspect it urgently.",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ aɪm ˈkɔː.lɪŋ bɪˈkɒz maɪ ˈbɔɪ.lər həz stɒpt ˈwɜː.kɪŋ ænd ɪts biːn ˈmeɪ.kɪŋ ə streɪndʒ nɔɪz ... fɔːr əˈbaʊt θriː deɪz naʊ ˈɒn.ɪst.li ðə flæt ɪz ˈfriː.zɪŋ səʊ aɪd ˈrɪə.li əˈpriː.ʃi.eɪt ɪt ɪf ˈsʌm.wʌn kʊd kʌm ænd ɪnˈspekt ɪt ˈɜː.dʒənt.li/",
+        "vi": "Chào buổi sáng. Tôi gọi vì hệ thống sưởi của tôi đã ngừng hoạt động, và nó phát ra tiếng kêu lạ ____ khoảng ba ngày nay. Thật lòng mà nói, căn hộ lạnh cóng, nên tôi rất mong có người đến kiểm tra gấp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "intermittently", "explanationVi": "Dùng trạng từ 'intermittently' (lúc có lúc không) để mô tả tiếng kêu chập chờn — chính xác và 'pro' hơn 'sometimes'. Xem mẫu câu 'It's been V-ing + trạng từ tần suất for...'." }
+        ]
+      },
+      {
+        "speaker": "Điều phối viên",
+        "text": "I'm sorry to hear that. It does sound like a fault with the heating element, although I can't confirm anything until our engineer has had a proper look. Could you tell me your address and roughly when the problem started?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt ɪt dʌz saʊnd laɪk ə fɔːlt wɪð ðə ˈhiː.tɪŋ ˈel.ɪ.mənt ɔːlˈðəʊ aɪ kɑːnt kənˈfɜːm ˈen.i.θɪŋ ʌnˈtɪl ˈaʊər ˌen.dʒɪˈnɪər həz hæd ə ˈprɒp.ər lʊk kʊd juː tel miː jɔːr əˈdres ænd ˈrʌf.li wen ðə ˈprɒb.ləm ˈstɑː.tɪd/",
+        "vi": "Tôi rất tiếc khi nghe vậy. Nghe có vẻ là lỗi ở bộ phận đốt nóng, mặc dù tôi chưa thể khẳng định gì cho đến khi kỹ sư của chúng tôi xem kỹ. Anh/chị cho tôi xin địa chỉ và đại khái sự cố bắt đầu từ khi nào nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. It's flat 4B, ____ Maple Street. It started last weekend, and despite switching it off and on several times, I couldn't get it to restart. By the way, could you give me a rough idea of how much the repair might ____?",
+        "ipa": "/ɒv kɔːs ɪts flæt fɔːr biː ... ˈmeɪ.pəl striːt ɪt ˈstɑː.tɪd lɑːst ˌwiːkˈend ænd dɪˈspaɪt ˈswɪ.tʃɪŋ ɪt ɒf ænd ɒn ˈsev.rəl taɪmz aɪ ˈkʊd.ənt ɡet ɪt tə riːˈstɑːt baɪ ðə weɪ kʊd juː ɡɪv miː ə rʌf aɪˈdɪə ɒv haʊ mʌtʃ ðə rɪˈpeər maɪt .../",
+        "vi": "Tất nhiên rồi. Đó là căn hộ 4B, ____ phố Maple. Nó bắt đầu từ cuối tuần trước, và mặc dù tôi đã tắt bật nó vài lần, tôi vẫn không khởi động lại được. Tiện thể, anh có thể cho tôi biết đại khái chi phí sửa khoảng bao nhiêu ____?",
+        "blanks": [
+          { "type": "personal", "hint": "Số nhà của bạn. Ví dụ: '12' hoặc '27'." },
+          { "type": "knowledge", "answer": "cost", "explanationVi": "Sau động từ khuyết thiếu 'might' phải là động từ nguyên thể không 'to': 'how much the repair might cost'. Xem mẫu câu 'Could you give me a rough idea of how much...?'." }
+        ]
+      },
+      {
+        "speaker": "Điều phối viên",
+        "text": "It really depends on what's wrong. A minor fix might be around fifty pounds, whereas replacing the heating element could cost considerably more. Fortunately, if your boiler is still under warranty, the parts would be covered, which would bring the price down quite a bit.",
+        "ipa": "/ɪt ˈrɪə.li dɪˈpendz ɒn wɒts rɒŋ ə ˈmaɪ.nər fɪks maɪt biː əˈraʊnd ˈfɪf.ti paʊndz weərˈæz rɪˈpleɪ.sɪŋ ðə ˈhiː.tɪŋ ˈel.ɪ.mənt kʊd kɒst kənˈsɪd.ər.ə.bli mɔːr ˈfɔː.tʃən.ət.li ɪf jɔːr ˈbɔɪ.lər ɪz stɪl ˈʌn.dər ˈwɒr.ən.ti ðə pɑːts wʊd biː ˈkʌv.əd wɪtʃ wʊd brɪŋ ðə praɪs daʊn kwaɪt ə bɪt/",
+        "vi": "Cái đó còn tùy hỏng cái gì. Sửa nhỏ thì khoảng năm mươi bảng, trong khi thay bộ phận đốt nóng có thể tốn hơn đáng kể. May mắn là nếu nồi sưởi của anh/chị còn bảo hành thì linh kiện sẽ được bao, điều đó sẽ kéo giá xuống kha khá."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's reassuring. I do think it's still under warranty, so ____ it be possible to have it repaired before the weekend? Ideally, I'd like an engineer who deals with this brand, in order to avoid any further delays.",
+        "ipa": "/ðæts ˌriː.əˈʃʊə.rɪŋ aɪ duː θɪŋk ɪts stɪl ˈʌn.dər ˈwɒr.ən.ti səʊ ... ɪt biː ˈpɒs.ə.bəl tə hæv ɪt rɪˈpeəd bɪˈfɔːr ðə ˈwiːk.end aɪˈdɪə.li aɪd laɪk ən ˌen.dʒɪˈnɪər huː diːlz wɪð ðɪs brænd ɪn ˈɔː.dər tə əˈvɔɪd ˈen.i ˈfɜː.ðər dɪˈleɪz/",
+        "vi": "Vậy thì yên tâm hơn. Tôi nghĩ nó vẫn còn bảo hành, nên ____ thể sửa xong trước cuối tuần không? Lý tưởng nhất là một kỹ sư chuyên xử lý hãng này, để tránh bị trễ thêm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Would", "explanationVi": "Mẫu đề nghị lịch sự bậc cao 'Would it be possible to + V?'. Ở đây dùng tiếp với cấu trúc nhờ vả 'have it repaired'. Xem mẫu câu cùng tên ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Điều phối viên",
+        "text": "I'll do my best. We have an engineer ____ specialises in that brand, and he's free on Friday morning. Not only will he diagnose the fault, but he'll also carry out a quick maintenance check while he's there, so you shouldn't run into the same issue again.",
+        "ipa": "/aɪl duː maɪ best wiː hæv ən ˌen.dʒɪˈnɪər ... ˈspeʃ.əl.aɪ.zɪz ɪn ðæt brænd ænd hiːz friː ɒn ˈfraɪ.deɪ ˈmɔːr.nɪŋ nɒt ˈəʊn.li wɪl hiː ˈdaɪ.əɡ.nəʊz ðə fɔːlt bʌt hiːl ˈɔːl.səʊ ˈkær.i aʊt ə kwɪk ˈmeɪn.tən.əns tʃek waɪl hiːz ðeər səʊ juː ˈʃʊd.ənt rʌn ˈɪn.tə ðə seɪm ˈɪʃ.uː əˈɡen/",
+        "vi": "Tôi sẽ cố hết sức. Chúng tôi có một kỹ sư ____ chuyên về hãng đó, và anh ấy rảnh sáng thứ Sáu. Anh ấy không những chẩn đoán lỗi mà còn kiểm tra bảo trì nhanh khi ở đó luôn, nên anh/chị sẽ không gặp lại sự cố này nữa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì danh từ đứng trước là 'an engineer' (người). Nếu là vật thì dùng 'which/that'. Đây là mệnh đề quan hệ xác định." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Friday morning works perfectly for me. To be fair, your service has always been reliable, although last time a similar repair didn't quite hold. This time, could you possibly ask him to give me a written estimate before he starts, just so there are no surprises on the bill?",
+        "ipa": "/ˈfraɪ.deɪ ˈmɔːr.nɪŋ wɜːks ˈpɜː.fɪkt.li fɔːr miː tə biː feər jɔːr ˈsɜː.vɪs həz ˈɔːl.weɪz biːn rɪˈlaɪ.ə.bəl ɔːlˈðəʊ lɑːst taɪm ə ˈsɪm.ɪ.lər rɪˈpeər ˈdɪd.ənt kwaɪt həʊld ðɪs taɪm kʊd juː ˈpɒs.ə.bli ɑːsk hɪm tə ɡɪv miː ə ˈrɪt.ən ˈes.tɪ.mət bɪˈfɔːr hiː stɑːts dʒʌst səʊ ðeər ɑːr nəʊ səˈpraɪ.zɪz ɒn ðə bɪl/",
+        "vi": "Sáng thứ Sáu rất hợp với tôi. Nói cho công bằng, dịch vụ của các anh luôn đáng tin cậy, mặc dù lần trước một ca sửa tương tự không bền lắm. Lần này, anh có thể nhờ kỹ sư đưa tôi bản báo giá bằng văn bản trước khi bắt đầu không, để không bị bất ngờ về hóa đơn?"
+      },
+      {
+        "speaker": "Điều phối viên",
+        "text": "Absolutely, that's a fair request, and I'll make a note of it on the job sheet. So, to confirm: an engineer will inspect and repair your boiler on Friday between nine and eleven, with a written estimate provided beforehand. Is there anything else I can help you with?",
+        "ipa": "/ˈæb.sə.luːt.li ðæts ə feər rɪˈkwest ænd aɪl meɪk ə nəʊt ɒv ɪt ɒn ðə dʒɒb ʃiːt səʊ tə kənˈfɜːm ən ˌen.dʒɪˈnɪər wɪl ɪnˈspekt ænd rɪˈpeər jɔːr ˈbɔɪ.lər ɒn ˈfraɪ.deɪ bɪˈtwiːn naɪn ænd ɪˈlev.ən wɪð ə ˈrɪt.ən ˈes.tɪ.mət prəˈvaɪ.dɪd bɪˌfɔːˈhænd ɪz ðeər ˈen.i.θɪŋ els aɪ kæn help juː wɪð/",
+        "vi": "Hoàn toàn được, đó là một yêu cầu hợp lý, và tôi sẽ ghi chú vào phiếu công việc. Vậy để xác nhận lại: một kỹ sư sẽ kiểm tra và sửa nồi sưởi của anh/chị vào thứ Sáu trong khoảng chín đến mười một giờ, kèm báo giá bằng văn bản trước đó. Còn gì khác tôi có thể giúp không ạ?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Anh/Mỹ, khách thường yêu cầu 'a written estimate' hoặc 'quote' trước khi cho thợ bắt đầu — đây là việc bình thường, không bị coi là thiếu tin tưởng.",
+    "Nếu đang thuê nhà (rented flat), việc sửa các hệ thống cố định (sưởi, nước, điện) thường là trách nhiệm của chủ nhà (landlord) chứ không phải người thuê — nên hỏi rõ ai trả tiền.",
+    "Phân biệt 'estimate' (con số ước tính, có thể đổi) và 'quote' (giá đã chốt). Khi muốn chắc chắn không phát sinh, hãy xin 'a fixed quote'.",
+    "Khi phàn nàn về dịch vụ kém, văn hóa phương Tây chuộng cách nói nhã nhặn-gián tiếp ('I'm afraid the same problem has come back') hơn là trách móc thẳng — vẫn đạt mục đích mà giữ quan hệ."
+  ],
+
+  "commonMistakes": [
+    "Lẫn thì: sự cố mới xảy ra còn ảnh hưởng hiện tại phải dùng hiện tại hoàn thành ('has stopped working'), không dùng quá khứ đơn ('stopped') khi nhấn kết quả còn đó.",
+    "Quên cấu trúc nhờ vả 'have something done': nói 'have it repaired' (nhờ người sửa), KHÔNG nói 'have it repair'.",
+    "Nhầm 'estimate' và 'invoice/bill': 'estimate' là báo giá trước, 'bill/invoice' là hóa đơn phải trả sau khi xong việc.",
+    "Dùng 'sometimes' cho lỗi chập chờn nghe mờ nhạt — trạng từ 'intermittently' / cụm 'on and off' mô tả chính xác và chuyên nghiệp hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi báo sửa chữa như thật.",
+    "prompt": "Hãy đóng vai một điều phối viên của công ty sửa chữa nói tiếng Anh. Tôi là khách hàng đang gọi để báo một thiết bị trong nhà bị hỏng (tôi sẽ nêu thiết bị). Hãy bắt đầu bằng cách chào và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một điều phối viên thật (hỏi địa chỉ, triệu chứng, thời gian, sắp lịch thợ), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên-chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'in order to', mệnh đề quan hệ 'which/who', và trạng từ như 'intermittently', 'gradually'. Thỉnh thoảng tạo tình huống bất ngờ (hết linh kiện, ngoài bảo hành, thợ đến trễ) để tôi tập xử lý và phàn nàn lịch sự. Cuối buổi, chấm điểm câu trả lời của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu chào nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một thợ khó tính, cố báo giá cao, để tôi tập thương lượng (negotiate) bằng tiếng Anh.'",
+      "Thêm: 'Hãy giả vờ lần sửa trước không hiệu quả, để tôi tập khiếu nại lịch sự và đòi sửa lại miễn phí.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được một sự cố kéo dài bằng hiện tại hoàn thành tiếp diễn và trạng từ chính xác (intermittently, gradually).",
+    "Tôi dùng được mẫu 'Would it be possible to have it repaired...?' và 'Could you possibly send someone round...?' để yêu cầu lịch sự.",
+    "Tôi phàn nàn nhã nhặn được khi sự cố lặp lại, dùng 'Although I appreciate..., I'm afraid...'."
+  ]
+}

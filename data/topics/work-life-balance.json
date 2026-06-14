@@ -1,0 +1,353 @@
+{
+  "id": "work-life-balance",
+  "category": "opinions",
+  "title": "Cân bằng công việc - cuộc sống",
+  "titleEn": "Work-Life Balance",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về cân bằng công việc - cuộc sống bằng câu dài, mạch lạc",
+    "Đồng tình hoặc phản biện ý kiến người khác một cách lịch sự, thuyết phục",
+    "Mô tả tác hại của làm việc quá sức và lợi ích của việc nghỉ ngơi hợp lý",
+    "Đề xuất giải pháp cải thiện cân bằng (giờ làm linh hoạt, làm từ xa, tách bạch công việc - nghỉ ngơi)",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, in order to, mệnh đề quan hệ) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "work-life balance",
+      "ipa": "/ˌwɜːk laɪf ˈbæl.əns/",
+      "vi": "sự cân bằng giữa công việc và cuộc sống (danh từ)",
+      "register": "neutral",
+      "example": "Many young professionals struggle to maintain a healthy work-life balance.",
+      "exampleVi": "Nhiều người trẻ đi làm chật vật để giữ được sự cân bằng lành mạnh giữa công việc và cuộc sống.",
+      "note": "Danh từ ghép, luôn có gạch nối. Hay đi với động từ 'maintain', 'achieve', 'improve' a work-life balance.",
+      "synonyms": [
+        { "term": "equilibrium", "ipa": "/ˌiː.kwɪˈlɪb.ri.əm/", "register": "formal", "nuanceVi": "Trang trọng, mang sắc thái học thuật: 'trạng thái cân bằng ổn định'. Nghe sang nhưng hơi cứng trong hội thoại đời thường." }
+      ]
+    },
+    {
+      "term": "burnout",
+      "ipa": "/ˈbɜːn.aʊt/",
+      "vi": "tình trạng kiệt sức (vì làm việc quá độ) (danh từ)",
+      "register": "neutral",
+      "example": "Working overtime every day eventually led to severe burnout.",
+      "exampleVi": "Ngày nào cũng làm thêm giờ cuối cùng dẫn đến kiệt sức nghiêm trọng.",
+      "note": "Danh từ không đếm được. Chỉ sự kiệt quệ cả thể chất lẫn tinh thần do căng thẳng kéo dài, mạnh hơn 'tiredness'.",
+      "synonyms": [
+        { "term": "exhaustion", "ipa": "/ɪɡˈzɔːs.tʃən/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'mệt lả, cạn sức', thiên về thể chất tức thời; 'burnout' nhấn quá trình kiệt quệ kéo dài về tâm lý." },
+        { "term": "fatigue", "ipa": "/fəˈtiːɡ/", "register": "formal", "nuanceVi": "Trang trọng, hơi y khoa: 'sự mệt mỏi'. Hay dùng trong văn viết hoặc ngữ cảnh sức khỏe." }
+      ]
+    },
+    {
+      "term": "to prioritize",
+      "ipa": "/praɪˈɒr.ɪ.taɪz/",
+      "vi": "ưu tiên, xếp thứ tự ưu tiên (động từ)",
+      "register": "neutral",
+      "example": "I've learned to prioritize my health over extra income.",
+      "exampleVi": "Tôi đã học cách ưu tiên sức khỏe hơn là kiếm thêm thu nhập.",
+      "note": "Động từ. Đi với tân ngữ trực tiếp ('prioritize family') hoặc 'prioritize A over B' (ưu tiên A hơn B).",
+      "synonyms": [
+        { "term": "to value", "ipa": "/ˈvæl.juː/", "register": "neutral", "nuanceVi": "Nhấn 'coi trọng' về mặt cảm xúc/giá trị, không nhất thiết phải xếp thứ tự. Nhẹ hơn 'prioritize'." },
+        { "term": "to put first", "ipa": "/pʊt fɜːst/", "register": "casual", "nuanceVi": "Cụm đời thường, dễ dùng: 'I put my family first.' Tự nhiên trong hội thoại hơn 'prioritize'." }
+      ]
+    },
+    {
+      "term": "demanding",
+      "ipa": "/dɪˈmɑːn.dɪŋ/",
+      "vi": "đòi hỏi nhiều (công sức, thời gian) (tính từ)",
+      "register": "neutral",
+      "example": "Her job is so demanding that she rarely sees her children awake.",
+      "exampleVi": "Công việc của cô ấy đòi hỏi nhiều đến mức cô hiếm khi thấy con mình lúc còn thức.",
+      "note": "Tính từ. Mô tả công việc/người 'ngốn nhiều sức lực'. Khác 'challenging' (khó nhưng tích cực, đáng làm).",
+      "synonyms": [
+        { "term": "stressful", "ipa": "/ˈstres.fəl/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'căng thẳng, gây áp lực tâm lý'. 'demanding' nhấn vào lượng công sức phải bỏ ra." },
+        { "term": "hectic", "ipa": "/ˈhek.tɪk/", "register": "casual", "nuanceVi": "Đời thường: 'bận rộn hối hả, rối ren'. Mô tả nhịp độ lu bu chứ không hẳn là nặng nhọc." },
+        { "term": "exhausting", "ipa": "/ɪɡˈzɔːs.tɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'làm kiệt sức'. Mạnh hơn demanding, ngụ ý đã vắt kiệt năng lượng người làm." }
+      ]
+    },
+    {
+      "term": "flexible",
+      "ipa": "/ˈflek.sə.bəl/",
+      "vi": "linh hoạt (tính từ)",
+      "register": "neutral",
+      "example": "A flexible schedule allows me to pick up my kids from school.",
+      "exampleVi": "Lịch làm việc linh hoạt cho phép tôi đón con ở trường.",
+      "note": "Tính từ. Hay đi với 'flexible hours / schedule / working arrangements'. Danh từ: flexibility.",
+      "synonyms": [
+        { "term": "adaptable", "ipa": "/əˈdæp.tə.bəl/", "register": "neutral", "nuanceVi": "Thiên về con người 'dễ thích nghi với thay đổi'. 'flexible' rộng hơn, dùng cho cả lịch trình lẫn người." },
+        { "term": "accommodating", "ipa": "/əˈkɒm.ə.deɪ.tɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'sẵn lòng chiều theo nhu cầu người khác'. Hay dùng cho công ty/sếp dễ tính." }
+      ]
+    },
+    {
+      "term": "to disconnect",
+      "ipa": "/ˌdɪs.kəˈnekt/",
+      "vi": "ngắt kết nối (khỏi công việc) (động từ)",
+      "register": "neutral",
+      "example": "It's important to disconnect from work emails after office hours.",
+      "exampleVi": "Việc ngắt khỏi email công việc sau giờ làm là điều quan trọng.",
+      "note": "Động từ. Trong ngữ cảnh này nghĩa là 'tách mình khỏi công việc để nghỉ ngơi'. Hay đi với 'disconnect from'.",
+      "synonyms": [
+        { "term": "to switch off", "ipa": "/swɪtʃ ɒf/", "register": "casual", "nuanceVi": "Cụm đời thường (Anh-Anh hay dùng): 'tắt đầu óc, thôi nghĩ về việc'. Nghe tự nhiên, thân mật." },
+        { "term": "to unwind", "ipa": "/ˌʌnˈwaɪnd/", "register": "neutral", "nuanceVi": "Nhấn vào 'thư giãn, xả căng thẳng' sau khi đã ngắt việc; thiên về cảm giác dễ chịu khi nghỉ." }
+      ]
+    },
+    {
+      "term": "overwhelmed",
+      "ipa": "/ˌəʊ.vəˈwelmd/",
+      "vi": "bị quá tải, choáng ngợp (tính từ)",
+      "register": "neutral",
+      "example": "I often feel overwhelmed when several deadlines fall on the same day.",
+      "exampleVi": "Tôi thường thấy quá tải khi nhiều hạn chót rơi vào cùng một ngày.",
+      "note": "Tính từ, thường đi với 'feel overwhelmed (by something)'. Mô tả cảm giác công việc nhiều đến mức không kham nổi.",
+      "synonyms": [
+        { "term": "swamped", "ipa": "/swɒmpt/", "register": "casual", "nuanceVi": "Đời thường, hình ảnh 'ngập đầu việc': 'I'm swamped this week.' Nhẹ nhàng, hay dùng khi than thở." },
+        { "term": "overloaded", "ipa": "/ˌəʊ.vəˈləʊ.dɪd/", "register": "neutral", "nuanceVi": "Nhấn vào 'bị chất quá nhiều việc' về mặt khối lượng; 'overwhelmed' nhấn cảm xúc không xử lý nổi." }
+      ]
+    },
+    {
+      "term": "well-being",
+      "ipa": "/ˌwelˈbiː.ɪŋ/",
+      "vi": "sự khỏe mạnh, an lạc (cả thể chất lẫn tinh thần) (danh từ)",
+      "register": "neutral",
+      "example": "Good companies genuinely care about their employees' well-being.",
+      "exampleVi": "Những công ty tốt thực sự quan tâm đến sự khỏe mạnh, an lạc của nhân viên.",
+      "note": "Danh từ không đếm được, thường có gạch nối. Bao hàm cả sức khỏe thể chất, tinh thần và sự hài lòng với cuộc sống.",
+      "synonyms": [
+        { "term": "wellness", "ipa": "/ˈwel.nəs/", "register": "neutral", "nuanceVi": "Thiên về 'lối sống lành mạnh, chủ động chăm sóc bản thân'. Hay đi với wellness program/retreat." }
+      ]
+    },
+    {
+      "term": "to set boundaries",
+      "ipa": "/set ˈbaʊn.dər.iz/",
+      "vi": "đặt ra ranh giới (giữa công việc và cuộc sống) (động từ + danh từ)",
+      "register": "neutral",
+      "example": "Once I started setting clear boundaries, my stress levels dropped significantly.",
+      "exampleVi": "Từ khi tôi bắt đầu đặt ra ranh giới rõ ràng, mức độ căng thẳng của tôi giảm rõ rệt.",
+      "note": "Cụm rất thông dụng khi nói về cân bằng. 'set boundaries' = vạch rõ điều mình sẽ và không làm, ví dụ không trả email sau giờ làm.",
+      "synonyms": [
+        { "term": "to draw the line", "ipa": "/drɔː ðə laɪn/", "register": "casual", "nuanceVi": "Thành ngữ: 'vạch giới hạn không vượt qua'. Mạnh và dứt khoát hơn, dùng khi từ chối điều gì đó." }
+      ]
+    },
+    {
+      "term": "remotely",
+      "ipa": "/rɪˈməʊt.li/",
+      "vi": "(làm việc) từ xa (trạng từ)",
+      "register": "neutral",
+      "example": "Since I started working remotely, I've saved nearly two hours of commuting each day.",
+      "exampleVi": "Từ khi làm việc từ xa, mỗi ngày tôi tiết kiệm được gần hai tiếng đi lại.",
+      "note": "Trạng từ. 'work remotely' = làm việc từ xa (ở nhà). Tính từ: remote (a remote job). Danh từ liên quan: remote work.",
+      "synonyms": [
+        { "term": "from home", "ipa": "/frɒm həʊm/", "register": "casual", "nuanceVi": "Cụm đời thường, cụ thể: 'work from home' (viết tắt WFH). Nhấn địa điểm là 'ở nhà' chứ không phải bất kỳ đâu." }
+      ]
+    },
+    {
+      "term": "constantly",
+      "ipa": "/ˈkɒn.stənt.li/",
+      "vi": "liên tục, không ngừng (trạng từ)",
+      "register": "neutral",
+      "example": "Being constantly reachable on my phone made it impossible to truly relax.",
+      "exampleVi": "Việc lúc nào cũng có thể bị liên lạc qua điện thoại khiến tôi không thể thực sự thư giãn.",
+      "note": "Trạng từ chỉ tần suất, mang sắc thái hơi tiêu cực khi nói về áp lực liên tục. Khác 'constant' (tính từ).",
+      "synonyms": [
+        { "term": "continually", "ipa": "/kənˈtɪn.ju.ə.li/", "register": "formal", "nuanceVi": "Nhấn 'lặp đi lặp lại nhiều lần, có quãng nghỉ'; còn 'constantly' nghiêng về 'không ngớt'. Khác biệt tinh tế." },
+        { "term": "round the clock", "ipa": "/ˌraʊnd ðə ˈklɒk/", "register": "casual", "nuanceVi": "Thành ngữ: 'suốt 24/24, cả ngày lẫn đêm'. Sinh động, hay dùng để than về việc không lúc nào ngơi." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Mở đầu nêu quan điểm cá nhân kèm một ý nhượng bộ cho cân bằng.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, hard work matters, although it should never come at the cost of your health."
+      ],
+      "explanationVi": "'In my opinion' báo hiệu đây là ý kiến chủ quan, nghe khiêm tốn. 'although' mở mệnh đề nhượng bộ làm câu cân nhắc hai chiều, rất 'B2'.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "Personally, I believe that [mệnh đề].",
+      "use": "Nêu quan điểm cá nhân một cách thẳng thắn nhưng nhã nhặn.",
+      "register": "neutral",
+      "examples": [
+        "Personally, I believe that working long hours doesn't necessarily mean being productive."
+      ],
+      "explanationVi": "'Personally' nhấn 'theo cảm nhận riêng của tôi', làm dịu ý kiến để người nghe dễ chấp nhận. Là cách mở quan điểm an toàn.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "I couldn't agree more; in fact, [mệnh đề bổ sung].",
+      "use": "Đồng tình mạnh mẽ và bồi thêm một lý lẽ.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't agree more; in fact, studies show that overworked employees make more mistakes."
+      ],
+      "explanationVi": "'I couldn't agree more' = đồng ý hết mức (không phải phủ định!). 'in fact' dẫn vào dẫn chứng củng cố. Bộ đôi này nghe trôi chảy, thuyết phục.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề phản biện].",
+      "use": "Phản biện lịch sự sau khi đã thừa nhận ý của người kia.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I think a flexible schedule would solve most of those problems."
+      ],
+      "explanationVi": "'I see your point' thừa nhận ý đối phương trước, rồi 'but' mới đưa ý ngược lại. Cách bất đồng lịch sự, không gây căng thẳng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh một thứ mang lại nhiều hơn một lợi ích/tác hại.",
+      "register": "formal",
+      "examples": [
+        "Not only does working remotely save time, but it also reduces daily stress."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đứng đầu thì phải đảo trợ động từ ('does ... save'). Cấu trúc nâng cao gây ấn tượng — nhớ đảo đúng kẻo sai ngữ pháp."
+    },
+    {
+      "pattern": "In order to [mục đích], we should [giải pháp].",
+      "use": "Đề xuất giải pháp gắn với mục đích rõ ràng.",
+      "register": "neutral",
+      "examples": [
+        "In order to avoid burnout, we should learn to disconnect completely at weekends."
+      ],
+      "explanationVi": "'In order to + V' nêu mục đích trang trọng hơn 'to + V' đơn thuần. Dùng khi muốn trình bày giải pháp một cách mạch lạc, có lập luận.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Why don't we [V]? That way, [hệ quả tích cực].",
+      "use": "Gợi ý giải pháp một cách nhẹ nhàng, thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Why don't we set clear boundaries about after-hours emails? That way, everyone can truly rest."
+      ],
+      "explanationVi": "'Why don't we…?' là cách rủ rê/đề xuất gần gũi. 'That way' giải thích lợi ích của đề xuất, giúp người nghe dễ gật đầu.",
+      "altOf": "suggesting"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi thẳng thắn.", "example": "Honestly, I think most companies expect far too much from their staff." },
+    { "term": "ideally", "ipa": "/aɪˈdiː.ə.li/", "vi": "lý tưởng nhất thì", "when": "Nêu điều mong muốn trong điều kiện hoàn hảo, trước khi nói thực tế.", "example": "Ideally, we'd all finish work by six and leave it behind." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Dẫn vào một ý bênh vực cho phía bên kia, cho thấy bạn khách quan.", "example": "To be fair, some jobs genuinely require occasional overtime." },
+    { "term": "increasingly", "ipa": "/ɪnˈkriː.sɪŋ.li/", "vi": "ngày càng (nhiều)", "when": "Mô tả một xu hướng đang tăng dần theo thời gian.", "example": "Increasingly, employees are demanding the right to switch off after work." },
+    { "term": "essentially", "ipa": "/ɪˈsen.ʃəl.i/", "vi": "về cơ bản thì", "when": "Tóm gọn lại bản chất của vấn đề bằng cách nói gọn hơn.", "example": "Essentially, it comes down to respecting people's personal time." },
+    { "term": "on the whole", "ipa": "/ɒn ðə həʊl/", "vi": "nhìn chung", "when": "Đưa ra nhận định tổng quát sau khi đã cân nhắc các mặt.", "example": "On the whole, a balanced life makes us more productive in the long run." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp, Minh và Lan, đang trò chuyện trong giờ nghỉ trưa về văn hóa làm việc quá sức tại công ty và làm sao để cân bằng công việc - cuộc sống tốt hơn.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "You look exhausted today. Honestly, I've noticed that almost everyone in our department stays late, even though nobody officially asks them to.",
+        "ipa": "/juː lʊk ɪɡˈzɔːs.tɪd təˈdeɪ ˈɒn.ɪst.li aɪv ˈnəʊ.tɪst ðæt ˈɔːl.məʊst ˈev.ri.wʌn ɪn ˈaʊə dɪˈpɑːt.mənt steɪz leɪt ˈiː.vən ðəʊ ˈnəʊ.bɒd.i əˈfɪʃ.əl.i ɑːsks ðem tuː/",
+        "vi": "Hôm nay trông cậu kiệt sức quá. Thành thật mà nói, tớ để ý là gần như ai trong phòng mình cũng ở lại muộn, dù chẳng ai chính thức yêu cầu cả."
+      },
+      {
+        "speaker": "Minh",
+        "text": "I know. Personally, I believe that this culture of overworking is harmful, ____ many managers still see long hours as a sign of dedication.",
+        "ipa": "/aɪ nəʊ ˈpɜː.sən.ə.li aɪ bɪˈliːv ðæt ðɪs ˈkʌl.tʃər ɒv ˌəʊ.vəˈwɜː.kɪŋ ɪz ˈhɑːm.fəl ... ˈmen.i ˈmæn.ɪ.dʒəz stɪl siː lɒŋ ˈaʊəz æz ə saɪn ɒv ˌded.ɪˈkeɪ.ʃən/",
+        "vi": "Tớ biết. Cá nhân tớ tin rằng cái văn hóa làm việc quá sức này có hại, ____ nhiều sếp vẫn coi việc làm nhiều giờ là dấu hiệu của sự tận tụy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: nó có hại, nhưng sếp vẫn nghĩ ngược lại. Xem mẫu câu 'In my opinion…, although…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I couldn't agree ____; in fact, several studies suggest that overworked employees, who are constantly tired, actually make more mistakes than rested ones.",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː ... ɪn fækt ˈsev.rəl ˈstʌd.iz səˈdʒest ðæt ˌəʊ.vəˈwɜːkt ɪmˈplɔɪ.iːz huː ɑː ˈkɒn.stənt.li ˈtaɪəd ˈæk.tʃu.ə.li meɪk mɔː mɪˈsteɪks ðæn ˈres.tɪd wʌnz/",
+        "vi": "Tớ hoàn toàn đồng ý ____; thực ra, nhiều nghiên cứu cho thấy nhân viên làm việc quá sức, những người lúc nào cũng mệt mỏi, lại mắc nhiều lỗi hơn người được nghỉ ngơi đầy đủ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "more", "explanationVi": "Thành ngữ 'I couldn't agree more' = đồng ý hết mức (KHÔNG phải phủ định nghĩa 'không đồng ý'). Phải dùng 'more' để hoàn thành cụm. Xem mẫu câu phần Đồng tình." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Exactly. Despite knowing all of this, I still find it hard to disconnect, ____ my phone keeps buzzing with work emails late into the evening.",
+        "ipa": "/ɪɡˈzækt.li dɪˈspaɪt ˈnəʊ.ɪŋ ɔːl ɒv ðɪs aɪ stɪl faɪnd ɪt hɑːd tə ˌdɪs.kəˈnekt ... maɪ fəʊn kiːps ˈbʌz.ɪŋ wɪð wɜːk ˈiː.meɪlz leɪt ˈɪn.tə ði ˈiːv.nɪŋ/",
+        "vi": "Chính xác. Dù biết hết những điều đó, tớ vẫn thấy khó mà ngắt khỏi công việc, ____ điện thoại của tớ cứ rung lên vì email công việc đến tận tối khuya.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do vì sao khó ngắt kết nối. Lưu ý 'Despite' ở đầu câu đi với V-ing ('Despite knowing'), còn mệnh đề lý do thì dùng 'because'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's the real problem, isn't it? In order ____ avoid burnout, I've started setting clear boundaries — I simply switch off all notifications after seven o'clock.",
+        "ipa": "/ðæts ðə rɪəl ˈprɒb.ləm ˈɪz.ənt ɪt ɪn ˈɔː.də ... əˈvɔɪd ˈbɜːn.aʊt aɪv ˈstɑː.tɪd ˈset.ɪŋ klɪə ˈbaʊn.dər.iz aɪ ˈsɪm.pli swɪtʃ ɒf ɔːl ˌnəʊ.tɪ.fɪˈkeɪ.ʃənz ˈɑːf.tə ˈsev.ən əˈklɒk/",
+        "vi": "Đó mới đúng là vấn đề, nhỉ? Để tránh kiệt sức, tớ đã bắt đầu đặt ra ranh giới rõ ràng — tớ chỉ đơn giản là tắt hết thông báo sau bảy giờ tối.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Cấu trúc 'in order TO + V' (= để, nhằm mục đích) luôn cần 'to' đứng trước động từ nguyên thể. Xem mẫu câu 'In order to…, we should…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds sensible. I see your point, but ____ everyone is lucky enough to have a job that allows them to switch off so easily.",
+        "ipa": "/ðæt saʊndz ˈsen.sə.bəl aɪ siː jɔː pɔɪnt bʌt ... ˈev.ri.wʌn ɪz ˈlʌk.i ɪˈnʌf tə hæv ə dʒɒb ðæt əˈlaʊz ðem tə swɪtʃ ɒf səʊ ˈiː.zɪ.li/",
+        "vi": "Nghe hợp lý đấy. Tớ hiểu ý cậu, nhưng ____ phải ai cũng may mắn có được một công việc cho phép họ ngắt kết nối dễ dàng như vậy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "not", "explanationVi": "Dùng 'not everyone' (= không phải ai cũng) để phản biện nhẹ nhàng. 'I see your point, but…' là mẫu bất đồng lịch sự ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "True. To be fair, some roles really are more ____ than others. Still, I think companies that genuinely care about their employees' well-being should offer more flexible arrangements, such as remote work.",
+        "ipa": "/truː tə biː feə sʌm rəʊlz ˈrɪə.li ɑː mɔː ... ðæn ˈʌð.əz stɪl aɪ θɪŋk ˈkʌm.pə.niz ðæt ˈdʒen.ju.ɪn.li keər əˈbaʊt ðeər ɪmˈplɔɪ.iːz ˈwel.biː.ɪŋ ʃʊd ˈɒf.ə mɔː ˈflek.sə.bəl əˈreɪndʒ.mənts sʌtʃ æz rɪˈməʊt wɜːk/",
+        "vi": "Đúng vậy. Công bằng mà nói, một số vị trí thực sự ____ hơn những vị trí khác. Dù vậy, tớ nghĩ những công ty thật sự quan tâm đến sức khỏe của nhân viên nên đưa ra các sắp xếp linh hoạt hơn, chẳng hạn như làm việc từ xa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "demanding", "explanationVi": "Dùng tính từ 'demanding' (đòi hỏi nhiều công sức) ở dạng so sánh 'more demanding'. Xem mục Từ vựng để phân biệt với 'challenging' (khó nhưng tích cực)." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Now that's an idea I can get behind. Why don't we suggest a ____ policy to our manager next week? That way, the whole team might finally achieve a healthier balance.",
+        "ipa": "/naʊ ðæts ən aɪˈdɪə aɪ kæn ɡet bɪˈhaɪnd waɪ dəʊnt wiː səˈdʒest ə ... ˈpɒl.ə.si tə ˈaʊə ˈmæn.ɪ.dʒə nekst wiːk ðæt weɪ ðə həʊl tiːm maɪt ˈfaɪ.nə.li əˈtʃiːv ə ˈhel.θi.ə ˈbæl.əns/",
+        "vi": "Giờ thì đó là một ý tưởng tớ ủng hộ. Sao chúng ta không đề xuất một chính sách ____ với sếp vào tuần tới nhỉ? Như vậy, cả nhóm cuối cùng có thể đạt được sự cân bằng lành mạnh hơn.",
+        "blanks": [
+          { "type": "personal", "hint": "Loại chính sách bạn muốn đề xuất. Ví dụ: 'flexible-hours', 'work-from-home', 'no-emails-after-7'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Let's do it. After all, working hard and living well shouldn't be opposites — ideally, a good company helps us do ____.",
+        "ipa": "/lets duː ɪt ˈɑːf.tər ɔːl ˈwɜː.kɪŋ hɑːd ænd ˈlɪv.ɪŋ wel ˈʃʊd.ənt biː ˈɒp.ə.zɪts aɪˈdiː.ə.li ə ɡʊd ˈkʌm.pən.i helps ʌs duː .../",
+        "vi": "Làm thôi. Suy cho cùng, làm việc chăm chỉ và sống tốt không nên là hai thứ đối lập — lý tưởng nhất thì, một công ty tốt giúp ta làm được ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "both", "explanationVi": "Dùng 'both' (= cả hai) để nhắc lại 'working hard' và 'living well' đã nêu trước đó. 'do both' = làm được cả hai việc cùng lúc." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây (đặc biệt Bắc Âu), quyền 'ngắt kết nối' (the right to disconnect) sau giờ làm được luật hóa: sếp không được kỳ vọng nhân viên trả email ngoài giờ.",
+    "Văn hóa 'ở lại muộn để chứng tỏ chăm chỉ' (presenteeism) phổ biến ở châu Á, nhưng phương Tây ngày càng coi trọng hiệu suất (output) hơn số giờ ngồi ở văn phòng.",
+    "Khi trò chuyện xã giao, người phương Tây thường tránh hỏi quá sâu về lương hay giờ làm; bàn về 'work-life balance' nói chung thì được, nhưng dò hỏi thu nhập cá nhân bị xem là khiếm nhã.",
+    "Cụm 'work hard, play hard' rất phổ biến, nhưng ngày nay nhiều người trẻ ưu tiên 'work smart' và sức khỏe tinh thần hơn là cày cuốc bất chấp."
+  ],
+
+  "commonMistakes": [
+    "Hiểu sai 'I couldn't agree more' thành 'tôi không đồng ý' — thực ra đây là cách đồng ý mạnh nhất (không thể đồng ý hơn được nữa).",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it save time…', không phải 'Not only it saves…'.",
+    "Dùng 'Despite' + mệnh đề có chủ ngữ + động từ. Đúng là 'Despite + danh từ / V-ing' ('Despite knowing'), còn muốn theo mệnh đề thì dùng 'Although'.",
+    "Nhầm 'demanding' (đòi hỏi nhiều công sức) với 'challenging' (khó nhưng tích cực, đáng làm) — hai sắc thái khác nhau."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về cân bằng công việc - cuộc sống như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp nói tiếng Anh đang trò chuyện với tôi về chủ đề cân bằng công việc - cuộc sống (work-life balance). Hãy nêu quan điểm của bạn rồi hỏi ý kiến tôi, và đôi khi cố tình đưa ra ý kiến trái chiều để tôi tập phản biện. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đang tranh luận, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'not only… but also', 'in order to' và các mệnh đề quan hệ (who/which). Cuối buổi, hãy chấm điểm khả năng bày tỏ và bảo vệ quan điểm của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu quan điểm của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn để tôi tập giữ bình tĩnh và lập luận chặt chẽ.' khi bạn đã quen.",
+      "Thêm: 'Hãy yêu cầu tôi đưa ra ít nhất hai giải pháp cụ thể và bảo vệ chúng bằng dẫn chứng.' để luyện chiều sâu."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm của mình bằng một câu dài có mệnh đề nhượng bộ ('although', 'despite'), không cần nhìn gợi ý.",
+    "Tôi đồng tình hoặc phản biện được một cách lịch sự bằng 'I couldn't agree more' và 'I see your point, but…'.",
+    "Tôi đề xuất được ít nhất một giải pháp cải thiện cân bằng kèm lý do, dùng 'in order to' hoặc 'Why don't we…?'."
+  ]
+}

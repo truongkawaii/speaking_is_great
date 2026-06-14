@@ -1,0 +1,354 @@
+{
+  "id": "team-meetings",
+  "category": "work",
+  "title": "Họp nhóm",
+  "titleEn": "Team Meetings",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting", "requesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trình bày cập nhật tiến độ công việc bằng câu dài, mạch lạc",
+    "Nêu quan điểm, đồng ý hoặc phản biện một cách lịch sự và chuyên nghiệp",
+    "Đề xuất giải pháp và chốt việc cần làm (action items) rõ ràng",
+    "Dùng ngữ pháp nâng cao (although, such as, in order to, not only… but also, mệnh đề quan hệ) tự nhiên khi họp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "agenda",
+      "ipa": "/əˈdʒen.də/",
+      "vi": "chương trình họp / nội dung cần bàn (danh từ)",
+      "register": "neutral",
+      "example": "Let's stick to the agenda so that we can finish on time.",
+      "exampleVi": "Hãy bám sát chương trình họp để chúng ta kết thúc đúng giờ.",
+      "note": "Danh từ. Là danh sách các mục sẽ bàn trong buổi họp; 'item on the agenda' = một mục trong chương trình.",
+      "synonyms": [
+        { "term": "schedule", "ipa": "/ˈskedʒ.uːl/", "register": "neutral", "nuanceVi": "Nhấn vào 'lịch trình thời gian'; agenda thiên về 'các chủ đề cần bàn', còn schedule thiên về 'việc gì diễn ra lúc nào'." },
+        { "term": "plan", "ipa": "/plæn/", "register": "neutral", "nuanceVi": "Chung chung hơn, là 'kế hoạch tổng thể'; không cụ thể bằng agenda của một buổi họp." }
+      ]
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "We're working hard to meet the deadline by Friday.",
+      "exampleVi": "Chúng tôi đang nỗ lực để kịp hạn chót vào thứ Sáu.",
+      "note": "Danh từ. Đi với động từ 'meet' (kịp hạn) hoặc 'miss' (trễ hạn); không nói 'catch the deadline'.",
+      "synonyms": [
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'ngày phải nộp'; nhẹ nhàng hơn deadline (vốn gợi áp lực 'phải xong không thì hỏng')." },
+        { "term": "cutoff", "ipa": "/ˈkʌt.ɒf/", "register": "neutral", "nuanceVi": "Nhấn 'mốc thời gian sau đó không nhận nữa', vd cutoff cho việc đăng ký; chuyên dùng cho điểm chặn cứng." }
+      ]
+    },
+    {
+      "term": "to update",
+      "ipa": "/ˌʌpˈdeɪt/",
+      "vi": "cập nhật, báo cáo tiến độ (động từ)",
+      "register": "neutral",
+      "example": "Could you update us on the progress of the design?",
+      "exampleVi": "Bạn cập nhật cho chúng tôi về tiến độ phần thiết kế nhé?",
+      "note": "Động từ, đi với 'update somebody on something'. Danh từ 'an update' = một bản cập nhật, trọng âm khác (động từ nhấn 'up-DATE', danh từ nhấn 'UP-date').",
+      "synonyms": [
+        { "term": "to brief", "ipa": "/briːf/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'thông tin/giao việc ngắn gọn cho ai đó'; nhấn việc truyền đạt một chiều, thường từ trên xuống." },
+        { "term": "to fill in", "ipa": "/fɪl ɪn/", "register": "casual", "nuanceVi": "Đời thường, 'fill someone in' = kể lại cho ai biết phần họ bỏ lỡ; thân mật hơn update." }
+      ]
+    },
+    {
+      "term": "to clarify",
+      "ipa": "/ˈklær.ɪ.faɪ/",
+      "vi": "làm rõ (động từ)",
+      "register": "neutral",
+      "example": "Could you clarify what you mean by 'phase two'?",
+      "exampleVi": "Bạn làm rõ giúp 'giai đoạn hai' nghĩa là gì được không?",
+      "note": "Động từ. Câu lịch sự để xin giải thích thêm mà không tỏ ra mình chậm hiểu.",
+      "synonyms": [
+        { "term": "to elaborate", "ipa": "/ɪˈlæb.ə.reɪt/", "register": "formal", "nuanceVi": "Nhấn 'nói chi tiết, mở rộng thêm'; đi với 'on something'. Trang trọng hơn clarify." },
+        { "term": "to explain", "ipa": "/ɪkˈspleɪn/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'giải thích'; clarify thiên về 'gỡ chỗ chưa rõ', còn explain rộng hơn." }
+      ]
+    },
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "ý kiến phản hồi, góp ý (danh từ)",
+      "register": "neutral",
+      "example": "Thanks for the feedback; I'll revise the report accordingly.",
+      "exampleVi": "Cảm ơn các góp ý; tôi sẽ chỉnh lại báo cáo cho phù hợp.",
+      "note": "Danh từ KHÔNG đếm được: nói 'some feedback' chứ không 'a feedback' hay 'feedbacks'.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhấn 'đóng góp ý kiến/chất xám của ai đó vào việc chung'; nhẹ và mời gọi hơn feedback (vốn có thể là khen/chê)." },
+        { "term": "comments", "ipa": "/ˈkɒm.ents/", "register": "neutral", "nuanceVi": "Đếm được, chỉ những nhận xét cụ thể; thường dùng cho góp ý trên tài liệu, vd 'leave your comments'." }
+      ]
+    },
+    {
+      "term": "to follow up",
+      "ipa": "/ˈfɒl.əʊ ʌp/",
+      "vi": "theo dõi tiếp / xử lý nốt sau đó (động từ)",
+      "register": "neutral",
+      "example": "I'll follow up with the client after the meeting.",
+      "exampleVi": "Tôi sẽ liên hệ tiếp với khách hàng sau buổi họp.",
+      "note": "Cụm động từ, đi với 'on something' hoặc 'with somebody'. Danh từ 'a follow-up' (có gạch nối) = việc/email theo sau.",
+      "synonyms": [
+        { "term": "to chase up", "ipa": "/tʃeɪs ʌp/", "register": "casual", "nuanceVi": "Anh-Anh, đời thường, nhấn 'thúc/đòi cho xong việc còn treo'; mạnh và sốt ruột hơn follow up." }
+      ]
+    },
+    {
+      "term": "deliverable",
+      "ipa": "/dɪˈlɪv.ər.ə.bəl/",
+      "vi": "sản phẩm/kết quả phải bàn giao (danh từ)",
+      "register": "formal",
+      "example": "The main deliverable for this sprint is the prototype.",
+      "exampleVi": "Sản phẩm bàn giao chính của đợt này là bản mẫu.",
+      "note": "Danh từ, thường số nhiều 'deliverables'. Dân văn phòng/dự án dùng nhiều để chỉ 'thứ phải nộp được'.",
+      "synonyms": [
+        { "term": "output", "ipa": "/ˈaʊt.pʊt/", "register": "neutral", "nuanceVi": "Rộng hơn, là 'kết quả đầu ra' nói chung; deliverable cụ thể là thứ đã cam kết phải giao." }
+      ]
+    },
+    {
+      "term": "feasible",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "vi": "khả thi (tính từ)",
+      "register": "formal",
+      "example": "Honestly, that timeline doesn't seem feasible to me.",
+      "exampleVi": "Thành thật mà nói, mốc thời gian đó với tôi có vẻ không khả thi.",
+      "note": "Tính từ, nghĩa 'có thể làm được trong thực tế'. Nghe chuyên nghiệp hơn 'possible' khi bàn kế hoạch.",
+      "synonyms": [
+        { "term": "realistic", "ipa": "/ˌrɪəˈlɪs.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'sát thực tế, không viển vông'; feasible nhấn 'làm được về mặt kỹ thuật/nguồn lực', realistic nhấn 'kỳ vọng hợp lý'." },
+        { "term": "viable", "ipa": "/ˈvaɪ.ə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'có thể tồn tại/thành công lâu dài', hay dùng cho phương án/kế hoạch kinh doanh." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "neutral",
+      "example": "I appreciate constructive criticism that helps us improve.",
+      "exampleVi": "Tôi trân trọng những lời phê bình mang tính xây dựng giúp chúng ta tiến bộ.",
+      "note": "Tính từ. Đi rất hợp với 'criticism', 'feedback'. Trái nghĩa: destructive (phá hoại, chỉ trích vô bổ).",
+      "synonyms": [
+        { "term": "helpful", "ipa": "/ˈhelp.fəl/", "register": "neutral", "nuanceVi": "Đơn giản, đời thường, nghĩa 'có ích'; constructive nhấn thêm 'nhằm cải thiện, không chê suông'." }
+      ]
+    },
+    {
+      "term": "briefly",
+      "ipa": "/ˈbriːf.li/",
+      "vi": "một cách ngắn gọn (trạng từ)",
+      "register": "neutral",
+      "example": "Let me briefly summarize what we've decided so far.",
+      "exampleVi": "Tôi xin tóm tắt ngắn gọn những gì chúng ta đã quyết.",
+      "note": "Trạng từ. Hữu ích để báo trước rằng bạn sẽ nói gọn, tránh lan man trong cuộc họp.",
+      "synonyms": [
+        { "term": "in a nutshell", "ipa": "/ɪn ə ˈnʌt.ʃel/", "register": "casual", "nuanceVi": "Thành ngữ, 'tóm lại là'; đời thường và sinh động hơn briefly, dùng khi chốt ý chính." },
+        { "term": "concisely", "ipa": "/kənˈsaɪs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'gọn mà đủ ý, không thừa'; nghe trau chuốt hơn briefly." }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách suôn sẻ, trơn tru (trạng từ)",
+      "register": "neutral",
+      "example": "Despite a few hiccups, the launch went remarkably smoothly.",
+      "exampleVi": "Dù có vài trục trặc nhỏ, đợt ra mắt diễn ra suôn sẻ đáng kể.",
+      "note": "Trạng từ. Hay đi với 'go' (go smoothly = diễn ra trơn tru). Bẫy phát âm: âm /ð/ trong 'smooth'.",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.ləs.li/", "register": "formal", "nuanceVi": "Nhấn 'liền mạch, không có chỗ vấp/đứt gãy'; nghe kỹ thuật và chuyên nghiệp hơn smoothly." }
+      ]
+    },
+    {
+      "term": "to wrap up",
+      "ipa": "/ræp ʌp/",
+      "vi": "kết thúc, chốt lại (động từ)",
+      "register": "neutral",
+      "example": "Let's wrap up the meeting and confirm the action items.",
+      "exampleVi": "Hãy kết thúc buổi họp và xác nhận các việc cần làm.",
+      "note": "Cụm động từ thân thiện, hay dùng để báo hiệu sắp hết giờ họp; lịch sự hơn 'finish' cộc lốc.",
+      "synonyms": [
+        { "term": "to conclude", "ipa": "/kənˈkluːd/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'kết luận/kết thúc'; hợp văn cảnh chính thức hơn wrap up (vốn thân mật)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "To give you a quick update, we've [V hoàn thành], although [mệnh đề].",
+      "use": "Mở đầu báo cáo tiến độ một cách chuyên nghiệp, có nêu khó khăn.",
+      "register": "neutral",
+      "examples": [
+        "To give you a quick update, we've finished the first draft, although we're still waiting on the client's approval."
+      ],
+      "explanationVi": "'To give you a quick update' báo trước bạn sắp cập nhật. 'Although' mở mệnh đề nhượng bộ để nói thẳng phần chưa xong mà vẫn nghe chủ động.",
+      "altOf": "giving-update"
+    },
+    {
+      "pattern": "Here's where we stand: [tình hình hiện tại], such as [ví dụ].",
+      "use": "Tóm tắt tình hình hiện tại kèm ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "Here's where we stand: most tasks are on track, such as the design and the testing."
+      ],
+      "explanationVi": "'Here's where we stand' = 'tình hình hiện giờ là'. 'such as' nêu ví dụ minh họa, giúp báo cáo cụ thể chứ không chung chung.",
+      "altOf": "giving-update"
+    },
+    {
+      "pattern": "I see your point, but I think [quan điểm], in order to [mục đích].",
+      "use": "Phản biện lịch sự: ghi nhận ý người khác rồi nêu quan điểm của mình.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I think we should delay the launch in order to fix the remaining bugs."
+      ],
+      "explanationVi": "'I see your point, but…' là công thức 'đệm' kinh điển để bất đồng mà không gây căng. 'in order to' nêu mục đích, làm lập luận chặt chẽ hơn.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I'm not entirely sure about that, because [lý do].",
+      "use": "Bày tỏ nghi ngờ/không đồng tình một cách nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "I'm not entirely sure about that, because we don't have enough resources right now."
+      ],
+      "explanationVi": "'not entirely sure' làm lời phản đối mềm đi rất nhiều so với 'I disagree'. Luôn kèm lý do ('because…') để nghe có cơ sở.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "Why don't we [V], so that [kết quả mong muốn]?",
+      "use": "Đề xuất một giải pháp và nêu lợi ích của nó.",
+      "register": "neutral",
+      "examples": [
+        "Why don't we split the workload, so that everyone can meet the deadline?"
+      ],
+      "explanationVi": "'Why don't we…?' là cách gợi ý thân thiện, mời cả nhóm cùng làm. 'so that' nêu kết quả mong đợi, giúp đề xuất thuyết phục hơn.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "It might be worth [V-ing], even though [mệnh đề].",
+      "use": "Đề xuất thận trọng một hướng đi, có cân nhắc mặt trái.",
+      "register": "formal",
+      "examples": [
+        "It might be worth postponing the release, even though it could disappoint a few users."
+      ],
+      "explanationVi": "'It might be worth + V-ing' = 'có lẽ nên…'; cách gợi ý khiêm tốn, không áp đặt. 'even though' thừa nhận điểm bất lợi để nghe cân nhắc kỹ.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "To wrap up, let's confirm that [người] will [V] by [thời hạn].",
+      "use": "Chốt việc cần làm (action items) và phân công rõ ràng cuối buổi họp.",
+      "register": "neutral",
+      "examples": [
+        "To wrap up, let's confirm that Mai will send the report by Friday."
+      ],
+      "explanationVi": "'To wrap up' báo hiệu kết thúc. Phân công kèm 'by + thời hạn' giúp ai cũng biết mình làm gì, hạn nào — tránh việc treo lơ lửng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, the figures I mentioned earlier were from last quarter." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Dẫn vào một nhận xét chân thật, đôi khi hơi thẳng thắn.", "example": "Honestly, I think the deadline is too tight for the whole team." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh sự đồng tình hoặc cam kết.", "example": "I'll definitely have the draft ready before our next meeting." },
+    { "term": "for instance", "ipa": "/fɔːr ˈɪn.stəns/", "vi": "ví dụ như", "when": "Đưa ví dụ minh họa cho ý vừa nói, thay cho 'such as'.", "example": "We could automate some tasks, for instance the weekly report." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn bênh vực/cân bằng lại một ý kiến trước đó.", "example": "To be fair, the delay wasn't really the design team's fault." },
+    { "term": "moving on", "ipa": "/ˈmuːv.ɪŋ ɒn/", "vi": "chuyển sang phần tiếp theo", "when": "Khi muốn chuyển sang mục kế trong chương trình họp một cách trơn tru.", "example": "Moving on, let's talk about the budget for next month." }
+  ],
+
+  "dialogue": {
+    "context": "Một buổi họp nhóm hàng tuần. Trưởng nhóm điều phối, hỏi cập nhật tiến độ, thu thập ý kiến và chốt việc cần làm. Bạn là một thành viên trong nhóm.",
+    "lines": [
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Good morning, everyone. Thanks for joining on time. Let's stick to the agenda so that we can wrap up within thirty minutes. First, could you give us a quick update on the project you're working on?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈev.ri.wʌn θæŋks fɔːr ˈdʒɔɪ.nɪŋ ɒn taɪm lets stɪk tə ði əˈdʒen.də səʊ ðæt wiː kæn ræp ʌp wɪˈðɪn ˈθɜː.ti ˈmɪn.ɪts fɜːst kʊd juː ɡɪv ʌs ə kwɪk ˈʌp.deɪt ɒn ðə ˈprɒdʒ.ekt jɔːr ˈwɜː.kɪŋ ɒn/",
+        "vi": "Chào buổi sáng cả nhà. Cảm ơn mọi người đã có mặt đúng giờ. Hãy bám sát chương trình họp để chúng ta kết thúc trong vòng ba mươi phút. Trước hết, bạn cập nhật nhanh cho cả nhóm về dự án bạn đang làm nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure. To give you a quick update, we've completed most of the deliverables, ____ the homepage design and the user testing, although we're still waiting on the client's final approval, which has delayed us by a couple of days.",
+        "ipa": "/ʃʊər tə ɡɪv juː ə kwɪk ˈʌp.deɪt wiːv kəmˈpliː.tɪd məʊst ɒv ðə dɪˈlɪv.ər.ə.bəlz sʌtʃ æz ðə ˈhəʊm.peɪdʒ dɪˈzaɪn ænd ðə ˈjuː.zər ˈtes.tɪŋ ɔːlˈðəʊ wɪər stɪl ˈweɪ.tɪŋ ɒn ðə ˈklaɪ.ənts ˈfaɪ.nəl əˈpruː.vəl wɪtʃ hæz dɪˈleɪd ʌs baɪ ə ˈkʌp.əl ɒv deɪz/",
+        "vi": "Được ạ. Cập nhật nhanh thì chúng ta đã hoàn thành phần lớn sản phẩm bàn giao, ____ thiết kế trang chủ và phần kiểm thử người dùng, dù vẫn đang chờ khách duyệt lần cuối, điều đó làm chúng ta chậm mất vài ngày.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'most of the deliverables'. Nêu ví dụ cụ thể nghe thuyết phục hơn nói chung chung. Xem mẫu câu 'Here's where we stand…, such as…'." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Thanks for being honest about that. Since the approval is out of our hands, what do you suggest we do in order to keep things moving?",
+        "ipa": "/θæŋks fɔːr ˈbiː.ɪŋ ˈɒn.ɪst əˈbaʊt ðæt sɪns ði əˈpruː.vəl ɪz aʊt ɒv aʊər hændz wɒt duː juː səˈdʒest wiː duː ɪn ˈɔː.dər tə kiːp θɪŋz ˈmuː.vɪŋ/",
+        "vi": "Cảm ơn bạn đã thẳng thắn. Vì việc duyệt nằm ngoài tầm kiểm soát của mình, bạn đề xuất chúng ta làm gì để mọi việc vẫn tiến triển?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Why don't we start preparing the next phase in parallel, ____ that we don't lose any time while we wait? Not only would that keep the team busy, but it would also help us hit the overall deadline more comfortably.",
+        "ipa": "/waɪ dəʊnt wiː stɑːt prɪˈpeə.rɪŋ ðə nekst feɪz ɪn ˈpær.ə.lel səʊ ðæt wiː dəʊnt luːz ˈen.i taɪm waɪl wiː weɪt nɒt ˈəʊn.li wʊd ðæt kiːp ðə tiːm ˈbɪz.i bʌt ɪt wʊd ˈɔːl.səʊ help ʌs hɪt ði ˈəʊ.vər.ɔːl ˈded.laɪn mɔːr ˈkʌm.fə.tə.bli/",
+        "vi": "Sao chúng ta không bắt đầu chuẩn bị giai đoạn tiếp theo song song, ____ không phí thời gian trong lúc chờ? Việc đó không những giữ cho cả nhóm có việc làm, mà còn giúp chúng ta kịp hạn chót tổng thể thoải mái hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "so", "explanationVi": "Dùng 'so that' để nêu mục đích/kết quả mong muốn ('để mà không phí thời gian'). Ô trống điền 'so' để tạo cụm 'so that'. Xem mẫu câu 'Why don't we…, so that…?'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "I see your point, but I'm not entirely sure about that, because the next phase depends heavily on the client's feedback, which we haven't received yet.",
+        "ipa": "/aɪ siː jɔːr pɔɪnt bʌt aɪm nɒt ɪnˈtaɪə.li ʃʊər əˈbaʊt ðæt bɪˈkɒz ðə nekst feɪz dɪˈpendz ˈhev.ɪ.li ɒn ðə ˈklaɪ.ənts ˈfiːd.bæk wɪtʃ wiː ˈhæv.ənt rɪˈsiːvd jet/",
+        "vi": "Mình hiểu ý bạn, nhưng mình không chắc lắm, vì giai đoạn tiếp theo phụ thuộc nhiều vào phản hồi của khách, mà cái đó chúng ta chưa nhận được."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a fair point. ____ we wait for the full feedback, we could at least finish the parts that don't rely on it, such as the documentation and the internal testing.",
+        "ipa": "/ðæts ə feər pɔɪnt waɪl wiː weɪt fɔːr ðə fʊl ˈfiːd.bæk wiː kʊd ət liːst ˈfɪn.ɪʃ ðə pɑːts ðæt dəʊnt rɪˈlaɪ ɒn ɪt sʌtʃ æz ðə ˌdɒk.jə.menˈteɪ.ʃən ænd ði ɪnˈtɜː.nəl ˈtes.tɪŋ/",
+        "vi": "Đó là một ý xác đáng. ____ chờ phản hồi đầy đủ, ít nhất chúng ta có thể hoàn thiện những phần không phụ thuộc vào nó, chẳng hạn tài liệu và kiểm thử nội bộ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "While", "explanationVi": "Dùng 'While' (trong khi) mở đầu mệnh đề chỉ thời gian: trong lúc chờ thì làm việc khác. Viết hoa vì đứng đầu câu." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "That sounds like a reasonable compromise. So, to confirm: you'll work on the documentation, while the design team handles the internal testing. Does that timeline seem ____ to everyone?",
+        "ipa": "/ðæt saʊndz laɪk ə ˈriː.zən.ə.bəl ˈkɒm.prə.maɪz səʊ tə kənˈfɜːm juːl wɜːk ɒn ðə ˌdɒk.jə.menˈteɪ.ʃən waɪl ðə dɪˈzaɪn tiːm ˈhænd.əlz ði ɪnˈtɜː.nəl ˈtes.tɪŋ dʌz ðæt ˈtaɪm.laɪn siːm ... tə ˈev.ri.wʌn/",
+        "vi": "Nghe có vẻ là một thỏa hiệp hợp lý. Vậy để xác nhận: bạn sẽ làm tài liệu, còn nhóm thiết kế lo phần kiểm thử nội bộ. Mốc thời gian đó có vẻ ____ với mọi người không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "feasible", "explanationVi": "Dùng tính từ 'feasible' (khả thi) để hỏi xem kế hoạch có làm được không. Nghe chuyên nghiệp hơn 'possible' khi bàn kế hoạch công việc." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It does, definitely. I'll also follow up with the client by ____ to push for their approval, and I'll briefly summarize today's action items in an email so that nobody misses anything.",
+        "ipa": "/ɪt dʌz ˈdef.ɪn.ət.li aɪl ˈɔːl.səʊ ˈfɒl.əʊ ʌp wɪð ðə ˈklaɪ.ənt baɪ ... tə pʊʃ fɔːr ðeər əˈpruː.vəl ænd aɪl ˈbriːf.li ˈsʌm.ə.raɪz təˈdeɪz ˈæk.ʃən ˈaɪ.təmz ɪn ən ˈiː.meɪl səʊ ðæt ˈnəʊ.bɒd.i ˈmɪs.ɪz ˈen.i.θɪŋ/",
+        "vi": "Có chứ, chắc chắn. Tôi cũng sẽ liên hệ tiếp với khách trước ____ để thúc họ duyệt, và tôi sẽ tóm tắt ngắn gọn các việc cần làm hôm nay qua email để không ai bỏ sót gì.",
+        "blanks": [
+          { "type": "personal", "hint": "Một mốc thời gian bạn cam kết. Ví dụ: 'Wednesday', 'the end of the week'." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Perfect. Thanks, everyone, for the constructive discussion. Let's wrap up here, and I'll see you all at the same time next week.",
+        "ipa": "/ˈpɜː.fɪkt θæŋks ˈev.ri.wʌn fɔːr ðə kənˈstrʌk.tɪv dɪˈskʌʃ.ən lets ræp ʌp hɪər ænd aɪl siː juː ɔːl ət ðə seɪm taɪm nekst wiːk/",
+        "vi": "Tuyệt vời. Cảm ơn mọi người vì buổi thảo luận mang tính xây dựng. Mình kết thúc ở đây nhé, hẹn gặp lại cả nhóm vào giờ này tuần sau."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, bất đồng ý kiến được coi là bình thường và lành mạnh, nhưng phải 'đệm' lịch sự ('I see your point, but…') chứ không phản bác trực diện kiểu 'You're wrong'.",
+    "Họp thường bám sát agenda và đề cao đúng giờ; người chủ trì hay 'timebox' (giới hạn thời gian từng mục) để không lan man.",
+    "Kết thúc họp luôn chốt 'action items' rõ ai-làm-gì-hạn-nào, thường kèm một email tóm tắt (recap) gửi cả nhóm.",
+    "Im lặng không có nghĩa là đồng ý; ở môi trường này, bạn được kỳ vọng chủ động nêu ý kiến và đặt câu hỏi khi chưa rõ."
+  ],
+
+  "commonMistakes": [
+    "Coi 'feedback' và 'information' là danh từ đếm được: nói sai 'a feedback / feedbacks'. Đúng phải là 'some feedback', 'a piece of feedback'.",
+    "Phản đối quá thẳng bằng 'No, you are wrong'. Hãy mềm hóa: 'I'm not entirely sure about that, because…'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only WOULD that…', không phải 'Not only that would…'.",
+    "Quên giới từ: 'update somebody ON something' và 'follow up WITH somebody / ON something' — đừng bỏ giới từ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói trong một buổi họp nhóm như thật.",
+    "prompt": "Hãy đóng vai trưởng nhóm điều phối một buổi họp nhóm hàng tuần bằng tiếng Anh, và tôi là một thành viên. Hãy lần lượt: hỏi tôi cập nhật tiến độ, hỏi xin ý kiến của tôi về một vấn đề, đưa ra một ý kiến trái chiều để tôi tập phản biện lịch sự, rồi cùng chốt các việc cần làm. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một trưởng nhóm thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'in order to', 'not only… but also' và các mệnh đề quan hệ. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ một thành viên trễ deadline, ngân sách bị cắt) để tôi tập xử lý. Cuối buổi, hãy chấm điểm phần thể hiện của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc khai mạc cuộc họp nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy để hai 'đồng nghiệp' khác cũng phát biểu, để tôi tập chen vào và giành lượt nói một cách lịch sự.'",
+      "Thêm: 'Hãy đóng vai một buổi họp căng thẳng khi dự án trễ tiến độ, để tôi tập giữ bình tĩnh và thuyết phục.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi cập nhật được tiến độ bằng một câu dài có mệnh đề phụ ('although', 'such as') mà không nhìn gợi ý.",
+    "Tôi phản biện được một ý kiến trái chiều theo cách lịch sự ('I see your point, but…').",
+    "Tôi đề xuất được giải pháp và chốt được việc cần làm kèm thời hạn rõ ràng."
+  ]
+}

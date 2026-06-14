@@ -1,0 +1,354 @@
+{
+  "id": "at-the-gym",
+  "category": "services",
+  "world": "daily",
+  "title": "Đăng ký phòng gym",
+  "titleEn": "Joining a Gym",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "negotiating", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi thông tin về các gói thành viên, giá cả và thời hạn hợp đồng",
+    "Hỏi về tiện nghi, lớp tập và giờ mở cửa của phòng gym",
+    "Đề nghị lịch sự như dùng thử miễn phí, xem cơ sở vật chất hoặc hủy hợp đồng",
+    "Thương lượng nhẹ và cân nhắc trước khi quyết định đăng ký",
+    "Dùng câu dài với 'such as', 'although', 'in order to' khi nói một cách tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "membership",
+      "ipa": "/ˈmem.bə.ʃɪp/",
+      "vi": "tư cách hội viên / gói thành viên (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to ask about your monthly membership options.",
+      "exampleVi": "Tôi muốn hỏi về các gói hội viên theo tháng của bạn.",
+      "note": "Danh từ. Người là 'member' (hội viên); việc đăng ký làm hội viên là 'membership'. Hay đi với 'sign up for a membership'.",
+      "synonyms": [
+        { "term": "subscription", "ipa": "/səbˈskrɪp.ʃən/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'trả phí định kỳ để duy trì dịch vụ'. Hay dùng cho ứng dụng/báo, nhưng ngày càng dùng cho gym trả theo tháng." },
+        { "term": "plan", "ipa": "/plæn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'gói/kế hoạch'. Vd 'the basic plan'. Dễ nói nhưng kém trang trọng hơn 'membership'." }
+      ]
+    },
+    {
+      "term": "facilities",
+      "ipa": "/fəˈsɪl.ə.tiz/",
+      "vi": "cơ sở vật chất, tiện ích (danh từ)",
+      "register": "neutral",
+      "example": "The gym has excellent facilities, including a pool and a sauna.",
+      "exampleVi": "Phòng gym có cơ sở vật chất tuyệt vời, gồm cả hồ bơi và phòng xông hơi.",
+      "note": "Thường dùng số nhiều. Chỉ các tiện ích lớn dùng chung (máy tập, hồ bơi, phòng tắm).",
+      "synonyms": [
+        { "term": "amenities", "ipa": "/əˈmen.ə.tiz/", "register": "formal", "nuanceVi": "Trang trọng hơn, thiên về tiện nghi nhỏ phục vụ sự thoải mái (khăn, sữa tắm, tủ khóa). 'facilities' thiên về thiết bị/khu vực lớn." },
+        { "term": "equipment", "ipa": "/ɪˈkwɪp.mənt/", "register": "neutral", "nuanceVi": "Chỉ riêng máy móc/dụng cụ tập (tạ, máy chạy bộ). Là danh từ không đếm được — không có 's'." }
+      ]
+    },
+    {
+      "term": "trial",
+      "ipa": "/ˈtraɪ.əl/",
+      "vi": "buổi/kỳ dùng thử (danh từ)",
+      "register": "neutral",
+      "example": "Do you offer a free trial before I commit?",
+      "exampleVi": "Bạn có cho dùng thử miễn phí trước khi tôi cam kết không?",
+      "note": "Danh từ. Cụm hay gặp: 'a free trial' (dùng thử miễn phí), 'a trial session' (buổi tập thử).",
+      "synonyms": [
+        { "term": "trial session", "ipa": "/ˈtraɪ.əl ˈseʃ.ən/", "register": "neutral", "nuanceVi": "Cụ thể hơn, nhấn vào 'một buổi tập thử' chứ không phải cả kỳ dùng thử dài." },
+        { "term": "test drive", "ipa": "/ˈtest draɪv/", "register": "casual", "nuanceVi": "Thành ngữ, vốn dùng cho lái thử xe, nay dùng vui cho việc 'trải nghiệm thử' dịch vụ. Rất đời thường." }
+      ]
+    },
+    {
+      "term": "to sign up",
+      "ipa": "/saɪn ʌp/",
+      "vi": "đăng ký (động từ)",
+      "register": "neutral",
+      "example": "I've decided to sign up for the six-month plan.",
+      "exampleVi": "Tôi đã quyết định đăng ký gói sáu tháng.",
+      "note": "Cụm động từ, đi với 'for + danh từ'. Đây là động từ cốt lõi khi gia nhập một dịch vụ.",
+      "synonyms": [
+        { "term": "to join", "ipa": "/dʒɔɪn/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'trở thành thành viên'. Vd 'join a gym'. Theo sau là danh từ trực tiếp, không có giới từ." },
+        { "term": "to enrol", "ipa": "/ɪnˈrəʊl/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng cho khóa học/lớp tập có ghi danh chính thức. Anh-Mỹ viết 'enroll'." },
+        { "term": "to register", "ipa": "/ˈredʒ.ɪ.stər/", "register": "formal", "nuanceVi": "Nhấn vào thủ tục 'ghi tên vào hệ thống'. Hơi hành chính hơn 'sign up'." }
+      ]
+    },
+    {
+      "term": "to cancel",
+      "ipa": "/ˈkæn.səl/",
+      "vi": "hủy (động từ)",
+      "register": "neutral",
+      "example": "Can I cancel my membership at any time?",
+      "exampleVi": "Tôi có thể hủy gói hội viên bất cứ lúc nào không?",
+      "note": "Động từ. Nhớ hỏi điều khoản hủy trước khi đăng ký để tránh bị tính phí.",
+      "synonyms": [
+        { "term": "to terminate", "ipa": "/ˈtɜː.mɪ.neɪt/", "register": "formal", "nuanceVi": "Rất trang trọng, hay xuất hiện trong hợp đồng: 'terminate the contract'. Nghe nặng nề hơn 'cancel'." },
+        { "term": "to opt out", "ipa": "/ɒpt aʊt/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'chọn không tiếp tục/tham gia nữa'. Hay dùng cho dịch vụ tự động gia hạn." }
+      ]
+    },
+    {
+      "term": "fee",
+      "ipa": "/fiː/",
+      "vi": "khoản phí (danh từ)",
+      "register": "neutral",
+      "example": "Is there a joining fee on top of the monthly cost?",
+      "exampleVi": "Có phí gia nhập cộng thêm vào tiền hàng tháng không?",
+      "note": "Danh từ. Phí cố định cho một dịch vụ (joining fee = phí gia nhập). Khác 'fare' (vé tàu/xe) và 'fine' (tiền phạt).",
+      "synonyms": [
+        { "term": "charge", "ipa": "/tʃɑːdʒ/", "register": "neutral", "nuanceVi": "Nhấn vào 'số tiền bị tính cho một việc cụ thể'. Vd 'an extra charge'. Gần nghĩa nhưng rộng hơn 'fee'." },
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Chung chung, chỉ 'giá phải trả' tổng thể. 'fee' cụ thể là một khoản phí dịch vụ riêng." }
+      ]
+    },
+    {
+      "term": "to work out",
+      "ipa": "/wɜːk aʊt/",
+      "vi": "tập luyện thể dục (động từ)",
+      "register": "neutral",
+      "example": "I usually work out three times a week after work.",
+      "exampleVi": "Tôi thường tập ba lần một tuần sau giờ làm.",
+      "note": "Cụm động từ. Danh từ là 'a workout' (một buổi tập). Đừng nhầm nghĩa 'tính ra/giải quyết' của 'work out' trong ngữ cảnh khác.",
+      "synonyms": [
+        { "term": "to exercise", "ipa": "/ˈek.sə.saɪz/", "register": "neutral", "nuanceVi": "Trung tính, rộng hơn, gồm cả đi bộ/chạy. 'work out' thiên về tập ở gym với máy/tạ." },
+        { "term": "to train", "ipa": "/treɪn/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'tập có mục tiêu, có hệ thống' (cho thi đấu/thể hình). Nghe nghiêm túc hơn." }
+      ]
+    },
+    {
+      "term": "flexible",
+      "ipa": "/ˈflek.sə.bəl/",
+      "vi": "linh hoạt (tính từ)",
+      "register": "neutral",
+      "example": "I'm looking for a flexible plan that I can pause anytime.",
+      "exampleVi": "Tôi đang tìm một gói linh hoạt có thể tạm dừng bất cứ lúc nào.",
+      "note": "Tính từ. Mô tả gói/lịch dễ điều chỉnh. Danh từ: flexibility. Trạng từ: flexibly.",
+      "synonyms": [
+        { "term": "adjustable", "ipa": "/əˈdʒʌs.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào 'có thể điều chỉnh được' (thường cho vật/mức độ). Vd 'an adjustable plan'. Cụ thể hơn 'flexible'." },
+        { "term": "adaptable", "ipa": "/əˈdæp.tə.bəl/", "register": "formal", "nuanceVi": "Nhấn vào 'dễ thích nghi với hoàn cảnh khác nhau'. Hay dùng cho con người hơn là gói dịch vụ." }
+      ]
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔː.də.bəl/",
+      "vi": "vừa túi tiền, phải chăng (tính từ)",
+      "register": "neutral",
+      "example": "The student plan is really affordable for someone on a budget.",
+      "exampleVi": "Gói sinh viên thực sự phải chăng với người có ngân sách hạn hẹp.",
+      "note": "Tính từ mang sắc thái TÍCH CỰC (đủ rẻ để chi trả được). Khác 'cheap' đôi khi hàm ý kém chất lượng.",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'giá hợp lý, xứng đáng' — không chỉ rẻ mà còn công bằng. Rất hợp khi khen mức giá." },
+        { "term": "cheap", "ipa": "/tʃiːp/", "register": "casual", "nuanceVi": "Đời thường, đôi khi hàm ý 'rẻ tiền, kém chất'. Dùng 'affordable' khi muốn nghe tích cực, lịch sự hơn." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "một cách đều đặn (trạng từ)",
+      "register": "neutral",
+      "example": "If I pay for a year, I'm more likely to come regularly.",
+      "exampleVi": "Nếu trả theo năm, tôi sẽ có xu hướng đến tập đều đặn hơn.",
+      "note": "Trạng từ chỉ tần suất. Tính từ: regular. Hay dùng để nói về thói quen tập luyện.",
+      "synonyms": [
+        { "term": "consistently", "ipa": "/kənˈsɪs.tənt.li/", "register": "formal", "nuanceVi": "Nhấn 'liên tục, không bỏ giữa chừng, giữ vững phong độ'. Mạnh hơn 'regularly' một chút." },
+        { "term": "frequently", "ipa": "/ˈfriː.kwənt.li/", "register": "neutral", "nuanceVi": "Nhấn vào 'tần suất cao' (nhiều lần), không nhất thiết theo lịch cố định như 'regularly'." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "thuận tiện (tính từ)",
+      "register": "neutral",
+      "example": "This location is very convenient because it's near my office.",
+      "exampleVi": "Vị trí này rất thuận tiện vì gần văn phòng tôi.",
+      "note": "Tính từ. Trạng từ: conveniently. Bẫy phát âm: trọng âm rơi vào âm thứ hai 'ven'.",
+      "synonyms": [
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện, dễ dùng/gần'. Vd 'It's handy for the station.' Thân mật hơn 'convenient'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to ask about [danh từ], please.",
+      "use": "Mở đầu lịch sự khi muốn hỏi thông tin về gói tập, giá cả.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to ask about your membership options, please.",
+        "I'd like to ask about the monthly fees, please."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự và mềm hơn 'I want to'. Đây là câu mở màn an toàn khi tới quầy lễ tân gym.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Could you tell me [câu hỏi gián tiếp]?",
+      "use": "Hỏi thông tin một cách lịch sự bằng câu hỏi gián tiếp.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me what's included in the basic plan?",
+        "Could you tell me how much the joining fee is?"
+      ],
+      "explanationVi": "Câu hỏi gián tiếp sau 'Could you tell me' giữ TRẬT TỰ chủ ngữ + động từ ('how much it is'), KHÔNG đảo như câu hỏi thường. Nghe nhã nhặn hơn hỏi trực tiếp.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Do you offer [danh từ]?",
+      "use": "Hỏi xem phòng gym có cung cấp một dịch vụ/ưu đãi nào đó không.",
+      "register": "neutral",
+      "examples": [
+        "Do you offer a free trial?",
+        "Do you offer any student discounts?"
+      ],
+      "explanationVi": "'offer' = cung cấp/có sẵn để mời chào. Câu rất thông dụng để dò xem có dùng thử hay ưu đãi không."
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể]?",
+      "use": "Đề nghị một việc tế nhị hơn (xem cơ sở vật chất, tạm dừng gói, xin giảm giá).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to have a look around first?",
+        "Would it be possible to pause my membership while I'm away?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một đặc ân mà bên kia có quyền từ chối. Nghe rất nhã, dễ được đồng ý.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Is it possible to [động từ nguyên thể]?",
+      "use": "Hỏi về khả năng làm một việc (hủy, đổi gói) một cách trực tiếp nhưng vẫn lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Is it possible to cancel at any time?",
+        "Is it possible to freeze my membership for a month?"
+      ],
+      "explanationVi": "Trực tiếp và gọn hơn 'Would it be possible to...?' một chút, vẫn lịch sự. Dùng khi muốn biết một việc có làm được không.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "I'm looking for [danh từ] that [mệnh đề quan hệ].",
+      "use": "Mô tả loại gói/dịch vụ bạn đang tìm.",
+      "register": "neutral",
+      "examples": [
+        "I'm looking for a plan that I can cancel anytime.",
+        "I'm looking for a gym that has classes in the evening."
+      ],
+      "explanationVi": "Mệnh đề quan hệ với 'that' giúp mô tả rõ điều bạn cần trong một câu mượt. Giúp nhân viên tư vấn đúng gói cho bạn."
+    },
+    {
+      "pattern": "Although [mệnh đề], I'd like to [động từ] before I decide.",
+      "use": "Nói rằng bạn quan tâm nhưng vẫn muốn cân nhắc thêm trước khi quyết định.",
+      "register": "neutral",
+      "examples": [
+        "Although the plan looks great, I'd like to think it over before I decide.",
+        "Although it's a bit pricey, I'd like to try a session before I decide."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù...). Cách lịch sự để không cam kết ngay mà không tỏ ra từ chối thẳng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần nói lại cho rõ hoặc nêu điều hơi khác ý mà không cộc lốc.", "example": "Actually, I'm more interested in the evening classes than the gym floor." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, hơi tế nhị (vd về giá).", "example": "Honestly, the monthly fee is a little higher than I expected." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you have parking for members?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh điều bạn thích/sẽ làm.", "example": "I'd definitely use the pool if I joined." },
+    { "term": "possibly", "ipa": "/ˈpɒs.ə.bli/", "vi": "liệu có thể... (tăng độ lịch sự)", "when": "Chèn vào yêu cầu để nghe khiêm tốn hơn.", "example": "Could I possibly get a tour of the facilities?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến một phòng gym mới mở gần nhà để hỏi thông tin trước khi quyết định đăng ký. Một nhân viên tư vấn (Tư vấn viên) đón tiếp bạn ở quầy lễ tân.",
+    "lines": [
+      {
+        "speaker": "Tư vấn viên",
+        "text": "Good morning, and welcome to FitLife! Are you interested in joining us, or would you just like some information today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd ˈwel.kəm tə fɪt.laɪf ɑː juː ˈɪn.trəs.tɪd ɪn ˈdʒɔɪ.nɪŋ ʌs ɔː wʊd juː dʒʌst laɪk sʌm ˌɪn.fəˈmeɪ.ʃən təˈdeɪ/",
+        "vi": "Chào buổi sáng, hân hạnh chào mừng bạn đến với FitLife! Bạn muốn đăng ký tham gia hay chỉ muốn tìm hiểu thông tin hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to ask about your ____ options, please. I'm looking for a plan ____ I can use both in the mornings and after work.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tə ɑːsk əˈbaʊt jɔː ... ˈɒp.ʃənz pliːz aɪm ˈlʊk.ɪŋ fɔː ə plæn ... aɪ kæn juːz bəʊθ ɪn ðə ˈmɔː.nɪŋz ænd ˈɑːf.tə wɜːk/",
+        "vi": "Chào buổi sáng. Tôi muốn hỏi về các gói ____ của bạn. Tôi đang tìm một gói ____ tôi có thể dùng cả buổi sáng lẫn sau giờ làm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "membership", "explanationVi": "Dùng danh từ 'membership' (gói hội viên). Cụm chuẩn: 'membership options' (các lựa chọn gói hội viên). Xem mẫu câu 'I'd like to ask about...'." },
+          { "type": "knowledge", "answer": "that", "explanationVi": "Dùng đại từ quan hệ 'that' để nối mệnh đề mô tả cho 'a plan'. Có thể thay bằng 'which'. Xem mẫu 'I'm looking for... that...'." }
+        ]
+      },
+      {
+        "speaker": "Tư vấn viên",
+        "text": "Of course. We have several plans, ____ a basic monthly one and a discounted annual one. Although the annual plan costs more upfront, it works out cheaper if you train regularly.",
+        "ipa": "/ɒv kɔːs wiː hæv ˈsev.rəl plænz ... ə ˈbeɪ.sɪk ˈmʌnθ.li wʌn ænd ə dɪsˈkaʊn.tɪd ˈæn.ju.əl wʌn ɔːlˈðəʊ ði ˈæn.ju.əl plæn kɒsts mɔː ˈʌp.frʌnt ɪt wɜːks aʊt ˈtʃiː.pə ɪf juː treɪn ˈreɡ.jə.lə.li/",
+        "vi": "Tất nhiên rồi. Chúng tôi có vài gói, ____ một gói cơ bản theo tháng và một gói theo năm được giảm giá. Dù gói năm trả trước nhiều hơn, nhưng tính ra lại rẻ hơn nếu bạn tập đều đặn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'several plans'. Nêu ví dụ cụ thể nghe rõ ràng và thuyết phục hơn." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds reasonable. Honestly, before I commit, do you ____ a free trial? I'd like to try a session ____ to see if the equipment suits me.",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl ˈɒn.ɪst.li bɪˈfɔː aɪ kəˈmɪt duː juː ... ə friː ˈtraɪ.əl aɪd laɪk tə traɪ ə ˈseʃ.ən ... tə siː ɪf ði ɪˈkwɪp.mənt suːts miː/",
+        "vi": "Nghe hợp lý đấy. Thành thật mà nói, trước khi cam kết, bạn có ____ buổi dùng thử miễn phí không? Tôi muốn thử một buổi ____ để xem máy móc có hợp với mình không.",
+        "blanks": [
+          { "type": "knowledge", "answer": "offer", "explanationVi": "Dùng động từ 'offer' (cung cấp/có sẵn để mời). Cấu trúc: 'Do you offer + danh từ?'. Xem mẫu câu 'Do you offer...?'." },
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Cụm 'in order to + động từ' nghĩa là 'để mà, nhằm'. Trang trọng và rõ ràng hơn 'to' đơn lẻ khi nêu mục đích." }
+        ]
+      },
+      {
+        "speaker": "Tư vấn viên",
+        "text": "Absolutely. We offer a complimentary trial day, which most newcomers find really helpful. Would you also like a quick tour of the facilities, including the pool and the group classes?",
+        "ipa": "/ˌæb.səˈluːt.li wiː ˈɒf.ər ə ˌkɒm.plɪˈmen.tər.i ˈtraɪ.əl deɪ wɪtʃ məʊst ˈnjuː.kʌm.əz faɪnd ˈrɪə.li ˈhelp.fəl wʊd juː ˈɔːl.səʊ laɪk ə kwɪk tʊər ɒv ðə fəˈsɪl.ə.tiz ɪnˈkluː.dɪŋ ðə puːl ænd ðə ɡruːp ˈklɑːs.ɪz/",
+        "vi": "Hoàn toàn được. Chúng tôi có một ngày dùng thử miễn phí, mà hầu hết khách mới đều thấy rất hữu ích. Bạn có muốn tham quan nhanh cơ sở vật chất không, gồm cả hồ bơi và các lớp tập nhóm?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, I'd love a tour. By the way, is it possible to ____ my membership at any time, in case my schedule changes? I travel quite a lot for work.",
+        "ipa": "/jes aɪd lʌv ə tʊər baɪ ðə weɪ ɪz ɪt ˈpɒs.ə.bəl tə ... maɪ ˈmem.bə.ʃɪp ət ˈen.i taɪm ɪn keɪs maɪ ˈʃed.juːl ˈtʃeɪn.dʒɪz aɪ ˈtræv.əl kwaɪt ə lɒt fɔː wɜːk/",
+        "vi": "Vâng, tôi rất muốn tham quan. Tiện thể, có thể ____ gói hội viên bất cứ lúc nào không, phòng khi lịch của tôi thay đổi? Tôi đi công tác khá nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "cancel", "explanationVi": "Dùng động từ 'cancel' (hủy). Cấu trúc: 'Is it possible to + động từ nguyên thể?'. Xem mẫu câu 'Is it possible to...?'." }
+        ]
+      },
+      {
+        "speaker": "Tư vấn viên",
+        "text": "Good question. With the monthly plan you can cancel anytime, whereas the annual one requires a month's notice. However, you can freeze it for free if you're travelling.",
+        "ipa": "/ɡʊd ˈkwes.tʃən wɪð ðə ˈmʌnθ.li plæn juː kæn ˈkæn.səl ˈen.i.taɪm weər.ˈæz ði ˈæn.ju.əl wʌn rɪˈkwaɪəz ə mʌnθs ˈnəʊ.tɪs haʊˈev.ə juː kæn friːz ɪt fɔː friː ɪf jɔː ˈtræv.əl.ɪŋ/",
+        "vi": "Câu hỏi hay đấy. Với gói tháng bạn có thể hủy bất cứ lúc nào, trong khi gói năm cần báo trước một tháng. Tuy nhiên, bạn có thể tạm dừng miễn phí nếu đang đi công tác."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's really ____ for someone like me. Although I'm quite keen to join today, I'd like to take the trial first and think it over before I decide.",
+        "ipa": "/ðæts ˈrɪə.li ... fɔː ˈsʌm.wʌn laɪk miː ɔːlˈðəʊ aɪm kwaɪt kiːn tə dʒɔɪn təˈdeɪ aɪd laɪk tə teɪk ðə ˈtraɪ.əl fɜːst ænd θɪŋk ɪt ˈəʊ.və bɪˈfɔː aɪ dɪˈsaɪd/",
+        "vi": "Điều đó thực sự ____ với người như tôi. Dù tôi khá muốn đăng ký ngay hôm nay, tôi vẫn muốn dùng thử trước và cân nhắc kỹ rồi mới quyết định.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ khen sự linh hoạt, vd 'flexible', 'convenient' hoặc 'helpful'." }
+        ]
+      },
+      {
+        "speaker": "Tư vấn viên",
+        "text": "That's perfectly fine — there's no pressure at all. Let me grab your trial pass, and then I'll show you around. If you decide to sign up afterwards, I'll waive the joining fee for you.",
+        "ipa": "/ðæts ˈpɜː.fɪkt.li faɪn ðeəz nəʊ ˈpreʃ.ər ət ɔːl let miː ɡræb jɔː ˈtraɪ.əl pɑːs ænd ðen aɪl ʃəʊ juː əˈraʊnd ɪf juː dɪˈsaɪd tə saɪn ʌp ˈɑːf.tə.wədz aɪl weɪv ðə ˈdʒɔɪ.nɪŋ fiː fɔː juː/",
+        "vi": "Hoàn toàn không sao — không có áp lực gì cả. Để tôi lấy thẻ dùng thử cho bạn, rồi tôi sẽ dẫn bạn đi tham quan. Nếu sau đó bạn quyết định đăng ký, tôi sẽ miễn phí gia nhập cho bạn."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, phòng gym thường có 'free trial' (dùng thử miễn phí) hoặc 'day pass' (vé một ngày) — đừng ngại hỏi để trải nghiệm trước khi đăng ký.",
+    "Hãy đọc kỹ điều khoản hợp đồng, đặc biệt là điều kiện hủy. Nhiều gói năm tự động gia hạn và yêu cầu báo trước 30 ngày khi muốn dừng.",
+    "Nhân viên tư vấn (sales staff) đôi khi sẽ thúc bạn đăng ký ngay để nhận ưu đãi. Bạn hoàn toàn có quyền nói 'I'd like to think it over' (để tôi cân nhắc thêm) mà không cần ngại.",
+    "Mặc cả nhẹ về phí gia nhập là chuyện bình thường: nhiều phòng gym sẽ 'waive the joining fee' (miễn phí gia nhập) nếu bạn hỏi hoặc đăng ký gói dài hạn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want to register a gym' — sai. Đúng là 'sign up for a gym' / 'join a gym'; còn 'register' đi với 'for'.",
+    "Quên giới từ sau 'sign up': luôn là 'sign up FOR a plan', không phải 'sign up a plan'.",
+    "Dùng câu hỏi gián tiếp sai trật tự: nói 'Could you tell me how much IS it?' — sai. Đúng là 'how much IT IS' (giữ chủ ngữ trước động từ).",
+    "Nhầm 'equipment' thành danh từ đếm được: KHÔNG nói 'equipments'. Nó không có dạng số nhiều; muốn đếm thì nói 'pieces of equipment'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đăng ký phòng gym như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tư vấn ở phòng gym nói tiếng Anh. Tôi là khách vừa đến để hỏi thông tin trước khi quyết định đăng ký. Hãy bắt đầu bằng cách chào và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (giới thiệu các gói, giá, tiện nghi, dùng thử), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'although', 'in order to', và câu hỏi gián tiếp lịch sự, (4) thỉnh thoảng tạo tình huống bất ngờ (ví dụ hết suất ưu đãi, gói tôi muốn không cho hủy giữa chừng) để tôi tập xử lý và thương lượng. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một nhân viên bán hàng hơi nhiệt tình, cố thuyết phục tôi đăng ký ngay, để tôi tập lịch sự từ chối và xin cân nhắc thêm.'",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và chấm điểm độ tự nhiên của tôi.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được về gói hội viên, giá và điều kiện hủy mà không nhìn gợi ý.",
+    "Tôi dùng được 'Do you offer...?', 'Is it possible to...?' và câu hỏi gián tiếp lịch sự.",
+    "Tôi nói được một câu dài có 'although' hoặc 'such as' để cân nhắc trước khi quyết định."
+  ]
+}

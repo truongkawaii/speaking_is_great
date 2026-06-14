@@ -1,0 +1,354 @@
+{
+  "id": "handling-criticism",
+  "category": "advanced",
+  "title": "Tiếp nhận phê bình",
+  "titleEn": "Handling Criticism",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "apologizing", "negotiating", "describing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Tiếp nhận lời phê bình một cách điềm tĩnh, không phòng thủ và biến nó thành thông tin hữu ích",
+    "Thừa nhận sai sót có chừng mực, đồng thời làm rõ bối cảnh mà không tỏ ra biện bạch",
+    "Phản hồi tinh tế bằng câu phức nhiều tầng, idiom và cách giảm nhẹ (hedging) đặc trưng C1",
+    "Lịch sự bày tỏ bất đồng một phần và đề xuất hướng cải thiện cụ thể",
+    "Linh hoạt đổi register giữa trang trọng với cấp trên và thân mật hơn với đồng nghiệp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "phản hồi, góp ý (danh từ)",
+      "register": "neutral",
+      "example": "I genuinely appreciate any feedback that helps me grow.",
+      "exampleVi": "Tôi thực sự trân trọng mọi góp ý giúp tôi tiến bộ.",
+      "note": "Danh từ KHÔNG đếm được: nói 'some feedback', 'a piece of feedback', KHÔNG nói 'a feedback' hay 'feedbacks'.",
+      "synonyms": [
+        { "term": "criticism", "ipa": "/ˈkrɪt.ɪ.sɪ.zəm/", "register": "neutral", "nuanceVi": "Nhấn vào việc chỉ ra điểm chưa tốt; có thể tích cực (constructive criticism) hoặc tiêu cực. Nặng nề hơn 'feedback' vốn trung tính." },
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhẹ nhàng, nhấn 'ý kiến đóng góp' hơn là 'đánh giá đúng/sai'. Hợp khi mời người khác góp ý." },
+        { "term": "appraisal", "ipa": "/əˈpreɪ.zəl/", "register": "formal", "nuanceVi": "Trang trọng, thường chỉ buổi đánh giá năng lực chính thức (performance appraisal) trong công sở." }
+      ]
+    },
+    {
+      "term": "shortcoming",
+      "ipa": "/ˈʃɔːtˌkʌm.ɪŋ/",
+      "vi": "thiếu sót, điểm yếu (danh từ)",
+      "register": "neutral",
+      "example": "I'm fully aware of my shortcomings and I'm working on them.",
+      "exampleVi": "Tôi hoàn toàn nhận thức được thiếu sót của mình và đang khắc phục.",
+      "note": "Danh từ, thường dùng số nhiều. Nghe khách quan, đỡ nặng nề hơn 'fault' (lỗi mang tính quy trách nhiệm).",
+      "synonyms": [
+        { "term": "weakness", "ipa": "/ˈwiːk.nəs/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trái nghĩa với 'strength'. Trung tính, dễ dùng trong cả phỏng vấn lẫn đời thường." },
+        { "term": "flaw", "ipa": "/flɔː/", "register": "neutral", "nuanceVi": "Nhấn 'khiếm khuyết, vết gợn' trong cái gì đó vốn ổn (a flaw in the plan). Mạnh hơn shortcoming một chút." },
+        { "term": "limitation", "ipa": "/ˌlɪm.ɪˈteɪ.ʃən/", "register": "formal", "nuanceVi": "Nhấn 'giới hạn về năng lực/điều kiện', nghe khách quan và ít chê trách nhất." }
+      ]
+    },
+    {
+      "term": "defensive",
+      "ipa": "/dɪˈfen.sɪv/",
+      "vi": "phòng thủ, dễ tự ái (tính từ)",
+      "register": "neutral",
+      "example": "I tried not to sound defensive when my manager pointed out the error.",
+      "exampleVi": "Tôi cố không tỏ ra phòng thủ khi sếp chỉ ra lỗi.",
+      "note": "Tính từ. 'to get/become defensive' = nổi tự ái, phản ứng bảo vệ bản thân — điều nên TRÁNH khi nhận phê bình.",
+      "synonyms": [
+        { "term": "touchy", "ipa": "/ˈtʌtʃ.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'dễ chạm tự ái, nhạy cảm'. Hợp lúc nói thân mật, nghe nhẹ và hơi đùa." },
+        { "term": "thin-skinned", "ipa": "/ˌθɪnˈskɪnd/", "register": "neutral", "nuanceVi": "Thành ngữ, 'mỏng manh, dễ tổn thương trước lời chê'. Trái nghĩa: thick-skinned (chai lì, không để bụng)." }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "vi": "thừa nhận, ghi nhận (động từ)",
+      "register": "formal",
+      "example": "I'd like to acknowledge that the report did contain a few inaccuracies.",
+      "exampleVi": "Tôi xin thừa nhận rằng bản báo cáo có một vài chỗ thiếu chính xác.",
+      "note": "Động từ trang trọng. Phát âm bẫy: chữ 'c' câm và 'ow' đọc /ɒ/ — KHÔNG đọc như 'know-ledge'.",
+      "synonyms": [
+        { "term": "to admit", "ipa": "/ədˈmɪt/", "register": "neutral", "nuanceVi": "Phổ biến hơn, nhấn 'nhận là đúng/là lỗi của mình', đôi khi hơi miễn cưỡng. Đi với 'admit (that)' hoặc 'admit to V-ing'." },
+        { "term": "to concede", "ipa": "/kənˈsiːd/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nhượng bộ, chấp nhận đối phương có lý' sau khi tranh luận. Lịch thiệp, trí thức." },
+        { "term": "to own", "ipa": "/əʊn/", "register": "casual", "nuanceVi": "Đời thường, hiện đại: 'own your mistakes' = đứng ra nhận trách nhiệm một cách dứt khoát, không đổ lỗi." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "neutral",
+      "example": "Her comments were harsh at first, but ultimately constructive.",
+      "exampleVi": "Nhận xét của cô ấy lúc đầu hơi gắt, nhưng rốt cuộc rất mang tính xây dựng.",
+      "note": "Tính từ. Cụm cố định: 'constructive criticism / constructive feedback'. Trái nghĩa: destructive.",
+      "synonyms": [
+        { "term": "helpful", "ipa": "/ˈhelp.fəl/", "register": "neutral", "nuanceVi": "Đơn giản, đời thường: 'có ích'. Nhẹ nhàng nhưng không gợi sắc thái 'giúp ta xây dựng/cải thiện' như constructive." },
+        { "term": "valuable", "ipa": "/ˈvæl.jə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'đáng giá, quý báu'. Dùng khi muốn tôn trọng người góp ý ('valuable insight')." }
+      ]
+    },
+    {
+      "term": "to take on board",
+      "ipa": "/teɪk ɒn bɔːd/",
+      "vi": "tiếp thu, ghi nhận để áp dụng (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll take your comments on board and revise the proposal accordingly.",
+      "exampleVi": "Tôi sẽ tiếp thu ý kiến của anh và chỉnh sửa đề xuất cho phù hợp.",
+      "note": "Idiom Anh-Anh rất hay dùng. Nghĩa: lắng nghe lời góp ý và thực sự cân nhắc/áp dụng, không bỏ ngoài tai.",
+      "synonyms": [
+        { "term": "to take into account", "ipa": "/teɪk ˈɪn.tə əˈkaʊnt/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'cân nhắc đến yếu tố đó khi ra quyết định'. Hơi nghiêng về lý trí/tính toán." },
+        { "term": "to act on", "ipa": "/ækt ɒn/", "register": "neutral", "nuanceVi": "Mạnh hơn: không chỉ ghi nhận mà còn hành động theo lời góp ý ('act on feedback')." }
+      ]
+    },
+    {
+      "term": "graciously",
+      "ipa": "/ˈɡreɪ.ʃəs.li/",
+      "vi": "một cách lịch thiệp, nhã nhặn (trạng từ)",
+      "register": "formal",
+      "example": "He accepted the criticism graciously, without a hint of resentment.",
+      "exampleVi": "Anh ấy tiếp nhận lời phê bình một cách nhã nhặn, không chút oán giận.",
+      "note": "Trạng từ. Gợi sắc thái 'cao thượng, độ lượng' — phản ứng chuẩn mực khi bị phê bình.",
+      "synonyms": [
+        { "term": "gracefully", "ipa": "/ˈɡreɪs.fəl.i/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, không gây căng thẳng, giữ được thể diện cho cả hai'. Gần nghĩa nhưng thiên về sự khéo léo." },
+        { "term": "calmly", "ipa": "/ˈkɑːm.li/", "register": "neutral", "nuanceVi": "Đơn giản: 'một cách bình tĩnh'. Chỉ nói về trạng thái cảm xúc, không gợi sự lịch thiệp như graciously." }
+      ]
+    },
+    {
+      "term": "objectively",
+      "ipa": "/əbˈdʒek.tɪv.li/",
+      "vi": "một cách khách quan (trạng từ)",
+      "register": "formal",
+      "example": "I try to look at the criticism objectively rather than taking it personally.",
+      "exampleVi": "Tôi cố nhìn lời phê bình một cách khách quan thay vì để bụng.",
+      "note": "Trạng từ. Trái nghĩa: subjectively. Đi rất hợp với cụm 'take it personally' (để bụng, coi là công kích cá nhân).",
+      "synonyms": [
+        { "term": "impartially", "ipa": "/ɪmˈpɑː.ʃəl.i/", "register": "formal", "nuanceVi": "Nhấn 'không thiên vị bên nào'. Hợp khi đánh giá giữa nhiều phía hơn là tự nhìn lại bản thân." },
+        { "term": "rationally", "ipa": "/ˈræʃ.ən.əl.i/", "register": "neutral", "nuanceVi": "Nhấn 'bằng lý trí, không để cảm xúc chi phối'. Gần nghĩa nhưng thiên về tư duy logic." }
+      ]
+    },
+    {
+      "term": "to overstate",
+      "ipa": "/ˌəʊ.vəˈsteɪt/",
+      "vi": "phóng đại, nói quá lên (động từ)",
+      "register": "formal",
+      "example": "With respect, I think that point may have been slightly overstated.",
+      "exampleVi": "Xin phép, tôi nghĩ điểm đó có lẽ đã bị nói quá lên một chút.",
+      "note": "Động từ trang trọng, dùng để bất đồng nhã nhặn: ngụ ý 'vấn đề không nghiêm trọng đến thế'. Trái nghĩa: understate.",
+      "synonyms": [
+        { "term": "to exaggerate", "ipa": "/ɪɡˈzædʒ.ə.reɪt/", "register": "neutral", "nuanceVi": "Phổ biến và đời thường hơn: 'thổi phồng'. Có thể nghe hơi trách móc nếu nói thẳng vào người khác." },
+        { "term": "to blow out of proportion", "ipa": "/bləʊ aʊt əv prəˈpɔː.ʃən/", "register": "casual", "nuanceVi": "Idiom đời thường, mạnh: 'làm to chuyện, trầm trọng hóa'. Tránh dùng với cấp trên kẻo nghe khiếm nhã." }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "xác đáng, có cơ sở (tính từ)",
+      "register": "neutral",
+      "example": "That's a perfectly valid point, and I should have anticipated it.",
+      "exampleVi": "Đó là một ý hoàn toàn xác đáng, lẽ ra tôi nên lường trước.",
+      "note": "Tính từ. 'a valid point/concern' = một ý kiến/lo ngại có cơ sở — cách lịch sự để công nhận đối phương đúng.",
+      "synonyms": [
+        { "term": "legitimate", "ipa": "/lɪˈdʒɪt.ɪ.mət/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'chính đáng, có lý do hợp lệ'. Hợp khi công nhận một lo ngại/khiếu nại là đáng." },
+        { "term": "fair", "ipa": "/feə/", "register": "neutral", "nuanceVi": "Đời thường: 'fair point' = ý đúng đấy. Ngắn gọn, thân thiện, hay dùng trong trò chuyện." }
+      ]
+    },
+    {
+      "term": "to address",
+      "ipa": "/əˈdres/",
+      "vi": "xử lý, giải quyết (vấn đề) (động từ)",
+      "register": "formal",
+      "example": "I'll make sure these issues are addressed before the next deadline.",
+      "exampleVi": "Tôi sẽ đảm bảo các vấn đề này được xử lý trước hạn chót lần tới.",
+      "note": "Động từ. Ở đây KHÔNG phải nghĩa 'địa chỉ' — 'address a problem/concern' = đối mặt và giải quyết nó.",
+      "synonyms": [
+        { "term": "to tackle", "ipa": "/ˈtæk.əl/", "register": "neutral", "nuanceVi": "Nhấn 'bắt tay vào xử lý dứt khoát một việc khó'. Năng động hơn, hơi đời thường hơn 'address'." },
+        { "term": "to deal with", "ipa": "/diːl wɪð/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính: 'lo liệu, giải quyết'. An toàn để dùng trong mọi ngữ cảnh." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Thank you for being so honest with me; I genuinely appreciate [danh từ / V-ing].",
+      "use": "Mở đầu phản ứng tích cực, hạ nhiệt và thể hiện thái độ cầu thị ngay từ đầu.",
+      "register": "formal",
+      "examples": [
+        "Thank you for being so honest with me; I genuinely appreciate you taking the time to point that out.",
+        "Thank you for being so frank; I really appreciate this kind of feedback."
+      ],
+      "explanationVi": "Cảm ơn người phê bình TRƯỚC khi phản hồi nội dung là chiến lược C1 kinh điển: nó giải tỏa căng thẳng và cho thấy bạn không phòng thủ. 'genuinely' nhấn sự chân thành.",
+      "altOf": "receiving-criticism"
+    },
+    {
+      "pattern": "I take your point, and although [mệnh đề nhượng bộ], I do see where you're coming from.",
+      "use": "Tiếp nhận lời phê bình kèm một chút làm rõ bối cảnh mà không tỏ ra biện bạch.",
+      "register": "neutral",
+      "examples": [
+        "I take your point, and although the timeline was extremely tight, I do see where you're coming from.",
+        "I take your point, and although I had limited data, I understand your concern completely."
+      ],
+      "explanationVi": "'I take your point' = tôi hiểu và công nhận ý của anh. 'although' mở mệnh đề nhượng bộ để nêu bối cảnh; 'I do see where you're coming from' (idiom: tôi hiểu lý do anh nói vậy) khép lại bằng sự đồng cảm — tránh nghe như đang chống chế.",
+      "altOf": "receiving-criticism"
+    },
+    {
+      "pattern": "You're absolutely right, and I'll make sure to [V] going forward.",
+      "use": "Thừa nhận thẳng thắn và cam kết hành động cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "You're absolutely right, and I'll make sure to double-check the figures going forward.",
+        "You're absolutely right, and I'll make sure to loop you in earlier next time."
+      ],
+      "explanationVi": "Nhận lỗi dứt khoát rồi gắn ngay cam kết tương lai ('going forward' = từ nay trở đi) cho thấy bạn biến phê bình thành hành động — ấn tượng hơn lời xin lỗi suông.",
+      "altOf": "acknowledging-fault"
+    },
+    {
+      "pattern": "I have to admit that [mệnh đề]; in hindsight, I should have [V3].",
+      "use": "Thừa nhận sai sót kèm sự tự nhận thức, nhìn lại quá khứ.",
+      "register": "formal",
+      "examples": [
+        "I have to admit that I underestimated the workload; in hindsight, I should have asked for support sooner.",
+        "I have to admit that the wording was unclear; in hindsight, I should have had it reviewed."
+      ],
+      "explanationVi": "'in hindsight' (= khi nhìn lại) + 'should have + V3' (lẽ ra nên... nhưng đã không) là bộ đôi diễn đạt sự hối tiếc/tự rút kinh nghiệm rất tinh tế, đặc trưng trình độ cao.",
+      "altOf": "acknowledging-fault"
+    },
+    {
+      "pattern": "With respect, I'm not entirely convinced that [mệnh đề]; could we perhaps [V]?",
+      "use": "Bất đồng một phần một cách cực kỳ lịch sự và đề xuất hướng đi khác.",
+      "register": "formal",
+      "examples": [
+        "With respect, I'm not entirely convinced that the design was the issue; could we perhaps review the data together?",
+        "With respect, I'm not entirely convinced that we missed the deadline; could we perhaps check the original brief?"
+      ],
+      "explanationVi": "'With respect' báo trước một bất đồng nhã nhặn. 'not entirely convinced' là cách hedging (giảm nhẹ) thay cho 'I disagree' nghe thẳng thừng. 'could we perhaps...?' biến phản đối thành đề xuất hợp tác.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "While I accept that [mệnh đề], I'd just like to clarify that [mệnh đề].",
+      "use": "Chấp nhận phần đúng nhưng làm rõ một hiểu lầm, không chối bỏ trách nhiệm.",
+      "register": "formal",
+      "examples": [
+        "While I accept that the report was late, I'd just like to clarify that the data only arrived yesterday.",
+        "While I accept that there were errors, I'd just like to clarify that they were in the draft, not the final version."
+      ],
+      "explanationVi": "'While I accept that...' nhận phần đúng trước (xây thiện chí), rồi 'I'd just like to clarify' (chỉ xin làm rõ) mở phần đính chính nhẹ nhàng. 'just' làm câu mềm đi, tránh nghe như cãi lại.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "Going forward, I'd really value your input on [danh từ] so that I can [V].",
+      "use": "Khép lại bằng cách mời góp ý tiếp và thể hiện tinh thần cầu tiến.",
+      "register": "formal",
+      "examples": [
+        "Going forward, I'd really value your input on the early drafts so that I can catch these issues sooner.",
+        "Going forward, I'd really value your guidance on prioritising tasks so that I can manage my time better."
+      ],
+      "explanationVi": "Chủ động mời người ta tiếp tục góp ý ('value your input') cho thấy bạn coi phê bình là cơ hội. 'so that I can...' nêu mục đích, biến lời mời thành cam kết cải thiện."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu thừa nhận chân thành, tạo cảm giác cởi mở.", "example": "Honestly, I hadn't looked at it from that angle before." },
+    { "term": "fair enough", "ipa": "/feər ɪˈnʌf/", "vi": "cũng có lý đấy / chấp nhận được", "when": "Công nhận đối phương có lý một cách thân thiện, hạ nhiệt.", "example": "Fair enough — I can see why the tone came across as abrupt." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói một cách công bằng thì", "when": "Dẫn vào một làm rõ cân bằng, tránh nghe như đang bao biện.", "example": "To be fair, the brief did change halfway through the project." },
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Thừa nhận một điểm bất lợi cho mình trước khi nêu ý làm rõ.", "example": "Admittedly, I should have flagged the risk much earlier." },
+    { "term": "that said", "ipa": "/ðæt sed/", "vi": "tuy nhiên, dù vậy", "when": "Chuyển sang một ý hơi ngược lại mà vẫn giữ giọng nhã nhặn.", "example": "You're right about the delay. That said, the quality didn't suffer." },
+    { "term": "going forward", "ipa": "/ˈɡəʊ.ɪŋ ˈfɔː.wəd/", "vi": "từ nay trở đi", "when": "Hướng câu chuyện về tương lai và cam kết cải thiện.", "example": "Going forward, I'll send you a progress update every Friday." }
+  ],
+
+  "dialogue": {
+    "context": "Trong buổi đánh giá hiệu suất giữa năm, quản lý của bạn (Ms. Carter) đưa ra một số phê bình về một bản báo cáo gần đây. Bạn cần tiếp nhận một cách điềm tĩnh, thừa nhận điều đúng, làm rõ điều cần làm rõ và cam kết cải thiện.",
+    "lines": [
+      {
+        "speaker": "Ms. Carter",
+        "text": "Thanks for coming in. I want to start by saying your work this quarter has been solid overall, but I do have a few concerns about the market report you submitted last week.",
+        "ipa": "/θæŋks fɔː ˈkʌm.ɪŋ ɪn aɪ wɒnt tə stɑːt baɪ ˈseɪ.ɪŋ jɔː wɜːk ðɪs ˈkwɔː.tə həz biːn ˈsɒl.ɪd ˌəʊ.vəˈrɔːl bʌt aɪ duː hæv ə fjuː kənˈsɜːnz əˈbaʊt ðə ˈmɑː.kɪt rɪˈpɔːt juː səbˈmɪt.ɪd lɑːst wiːk/",
+        "vi": "Cảm ơn em đã vào gặp. Trước hết, anh muốn nói rằng công việc của em quý này nhìn chung khá tốt, nhưng anh có vài băn khoăn về bản báo cáo thị trường em nộp tuần trước."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you for being so honest with me. Honestly, I'd much rather hear it directly, so please feel free to be candid — I genuinely appreciate any feedback that helps me improve.",
+        "ipa": "/θæŋk juː fɔː ˈbiː.ɪŋ səʊ ˈɒn.ɪst wɪð miː ˈɒn.ɪst.li aɪd mʌtʃ ˈrɑː.ðə hɪər ɪt dɪˈrekt.li səʊ pliːz fiːl friː tə biː ˈkæn.dɪd aɪ ˈdʒen.ju.ɪn.li əˈpriː.ʃi.eɪt ˈen.i ˈfiːd.bæk ðæt helps miː ɪmˈpruːv/",
+        "vi": "Cảm ơn anh đã thẳng thắn với em. Thành thật mà nói, em thích nghe trực tiếp hơn, nên anh cứ nói thoải mái — em thực sự trân trọng mọi góp ý giúp em tiến bộ."
+      },
+      {
+        "speaker": "Ms. Carter",
+        "text": "I appreciate that attitude. My main issue is that several figures in the summary were inaccurate, which could have misled the client if we hadn't caught it in time.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt ˈæt.ɪ.tjuːd maɪ meɪn ˈɪʃ.uː ɪz ðæt ˈsev.rəl ˈfɪɡ.əz ɪn ðə ˈsʌm.ə.ri wɜː ɪnˈæk.jə.rət wɪtʃ kʊd həv mɪsˈled ðə ˈklaɪ.ənt ɪf wiː ˈhæd.ənt kɔːt ɪt ɪn taɪm/",
+        "vi": "Anh quý cái thái độ đó. Vấn đề chính của anh là một vài số liệu trong phần tóm tắt bị sai, điều mà lẽ ra đã có thể khiến khách hàng hiểu nhầm nếu chúng ta không phát hiện kịp."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "You're absolutely right, and I have to ____ that I rushed the final checks. ____ the data only arrived the night before, I should have flagged the time pressure instead of pushing it through. I'll make sure to build in a proper review step going forward.",
+        "ipa": "/jɔːr ˈæb.sə.luːt.li raɪt ænd aɪ hæv tə ... ðæt aɪ rʌʃt ðə ˈfaɪ.nəl tʃeks ... ðə ˈdeɪ.tə ˈəʊn.li əˈraɪvd ðə naɪt bɪˈfɔː aɪ ʃʊd həv flæɡd ðə taɪm ˈpreʃ.ə ɪnˈsted əv ˈpʊʃ.ɪŋ ɪt θruː aɪl meɪk ʃɔː tə bɪld ɪn ə ˈprɒp.ə rɪˈvjuː step ˈɡəʊ.ɪŋ ˈfɔː.wəd/",
+        "vi": "Anh hoàn toàn đúng, và em phải ____ rằng em đã làm vội khâu kiểm tra cuối. ____ dữ liệu chỉ về vào tối hôm trước, lẽ ra em nên báo trước về sức ép thời gian thay vì cứ thế đẩy đi. Từ nay em sẽ đảm bảo thêm một bước rà soát đàng hoàng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "admit", "explanationVi": "Dùng 'admit' (thừa nhận) sau 'I have to ___ that...'. Đây là động từ trang trọng vừa phải để nhận lỗi; xem mẫu câu 'I have to admit that...; in hindsight...'." },
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù dữ liệu về muộn) nhưng KHÔNG để biện bạch, mà để rút ra điều lẽ ra nên làm. Đứng đầu câu nên viết hoa." }
+        ]
+      },
+      {
+        "speaker": "Ms. Carter",
+        "text": "That's reassuring to hear. I should also mention that the tone of the executive summary came across as a little too informal for this particular client.",
+        "ipa": "/ðæts ˌriː.əˈʃʊə.rɪŋ tə hɪə aɪ ʃʊd ˈɔːl.səʊ ˈmen.ʃən ðæt ðə təʊn əv ði ɪɡˈzek.jə.tɪv ˈsʌm.ə.ri keɪm əˈkrɒs əz ə ˈlɪt.əl tuː ɪnˈfɔː.məl fɔː ðɪs pəˈtɪk.jə.lə ˈklaɪ.ənt/",
+        "vi": "Nghe vậy anh yên tâm hơn. Anh cũng phải nói thêm là giọng văn ở phần tóm tắt điều hành nghe hơi suồng sã so với riêng khách hàng này."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I take your point, and although I was trying to make it more readable, I ____ see where you're coming from. To be fair, the style guide for this account wasn't shared with me, so could we perhaps clarify those expectations together? That way I won't misjudge the tone again.",
+        "ipa": "/aɪ teɪk jɔː pɔɪnt ænd ɔːlˈðəʊ aɪ wɒz ˈtraɪ.ɪŋ tə meɪk ɪt mɔː ˈriː.də.bəl aɪ ... siː weər juːr ˈkʌm.ɪŋ frɒm tə biː feə ðə staɪl ɡaɪd fɔː ðɪs əˈkaʊnt ˈwɒz.ənt ʃeəd wɪð miː səʊ kʊd wiː pəˈhæps ˈklær.ɪ.faɪ ðəʊz ɪkˌspekˈteɪ.ʃənz təˈɡeð.ə/",
+        "vi": "Em hiểu ý anh, và dù em đã cố làm cho nó dễ đọc hơn, em ____ hiểu vì sao anh nói vậy. Nói công bằng thì bộ quy chuẩn văn phong cho khách hàng này chưa được chia sẻ cho em, nên hay là mình cùng làm rõ các kỳ vọng đó được không? Như vậy em sẽ không đánh giá sai giọng văn lần nữa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "do", "explanationVi": "Dùng trợ động từ 'do' để nhấn mạnh động từ thường ('I DO see' = em thực sự hiểu). Cấu trúc nhấn mạnh này giúp lời thừa nhận nghe chân thành hơn; xem mẫu 'I do see where you're coming from'." }
+        ]
+      },
+      {
+        "speaker": "Ms. Carter",
+        "text": "That's a perfectly valid point — I'll get the style guide sent over to you today. Is there anything on your side that you feel is making these reports harder than they need to be?",
+        "ipa": "/ðæts ə ˈpɜː.fɪkt.li ˈvæl.ɪd pɔɪnt aɪl ɡet ðə staɪl ɡaɪd sent ˈəʊ.və tə juː təˈdeɪ ɪz ðeər ˈen.i.θɪŋ ɒn jɔː saɪd ðæt juː fiːl ɪz ˈmeɪ.kɪŋ ðiːz rɪˈpɔːts ˈhɑː.də ðæn ðeɪ niːd tə biː/",
+        "vi": "Đó là một ý hoàn toàn xác đáng — hôm nay anh sẽ cho gửi bộ quy chuẩn văn phong sang cho em. Về phía em, có điều gì em thấy đang khiến mấy bản báo cáo này khó hơn mức cần thiết không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Now that you ask, ____ I enjoy ____, the back-and-forth over last-minute data changes is what really slows me down. Going forward, I'd really value your input on locking the figures earlier, so that I can focus on accuracy rather than firefighting at the eleventh hour.",
+        "ipa": "/naʊ ðæt juː ɑːsk ... aɪ ɪnˈdʒɔɪ ði əˈnæl.ə.sɪs ðə ˌbæk.ən.ˈfɔːθ ˈəʊ.və ˈlɑːst ˈmɪn.ɪt ˈdeɪ.tə ˈtʃeɪn.dʒɪz ɪz wɒt ˈrɪə.li sləʊz miː daʊn ˈɡəʊ.ɪŋ ˈfɔː.wəd aɪd ˈrɪə.li ˈvæl.juː jɔːr ˈɪn.pʊt ɒn ˈlɒk.ɪŋ ðə ˈfɪɡ.əz ˈɜː.li.ə səʊ ðæt aɪ kæn ˈfəʊ.kəs ɒn ˈæk.jə.rə.si ˈrɑː.ðə ðæn ˈfaɪə.faɪ.tɪŋ ət ði ɪˈlev.ənθ aʊə/",
+        "vi": "Anh đã hỏi thì, ____ em rất thích ____, chính việc dữ liệu thay đổi vào phút chót qua lại nhiều lần mới thực sự làm em chậm. Từ nay, em rất mong nhận được góp ý của anh về việc chốt số liệu sớm hơn, để em có thể tập trung vào độ chính xác thay vì cứ chữa cháy vào giờ chót.",
+        "blanks": [
+          { "type": "knowledge", "answer": "while", "explanationVi": "Dùng 'while' (= trong khi/mặc dù) mở mệnh đề tương phản: thích phần này NHƯNG phần kia gây khó. Tương đương 'although'; xem mẫu 'While I accept that..., I'd just like to clarify...'." },
+          { "type": "personal", "hint": "Một khía cạnh công việc bạn thực sự thích. Ví dụ: 'the analysis', 'working with the team', 'the creative side'." }
+        ]
+      },
+      {
+        "speaker": "Ms. Carter",
+        "text": "That's fair, and frankly I'd much rather you raise these things now than struggle in silence. Let's agree to lock the data two days before any deadline — I think that will make life easier for both of us.",
+        "ipa": "/ðæts feə ænd ˈfræŋk.li aɪd mʌtʃ ˈrɑː.ðə juː reɪz ðiːz θɪŋz naʊ ðæn ˈstrʌɡ.əl ɪn ˈsaɪ.ləns lets əˈɡriː tə lɒk ðə ˈdeɪ.tə tuː deɪz bɪˈfɔːr ˈen.i ˈded.laɪn aɪ θɪŋk ðæt wɪl meɪk laɪf ˈiː.zi.ə fɔː bəʊθ əv ʌs/",
+        "vi": "Hợp lý đấy, và thật ra anh muốn em nêu mấy chuyện này ra bây giờ còn hơn là âm thầm vật lộn. Mình thống nhất chốt dữ liệu trước mọi hạn chót hai ngày nhé — anh nghĩ điều đó sẽ khiến cả hai ta đỡ vất vả hơn."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, phê bình thường được 'bọc' giữa lời khen (mô hình bánh kẹp: khen - góp ý - khen). Đừng chỉ nghe phần chê mà quên rằng phần đầu là khen thật lòng.",
+    "Cảm ơn người phê bình ('Thank you for the feedback') được coi là phản ứng chuyên nghiệp, không phải yếu đuối. Im lặng cau có hoặc thanh minh ngay lập tức bị xem là 'defensive'.",
+    "Bất đồng với cấp trên là chấp nhận được nếu lịch sự và có lý lẽ. Mở đầu bằng 'With respect...' hay 'I take your point, but...' giúp bạn nêu quan điểm mà không bị coi là vô lễ.",
+    "Người phương Tây đánh giá cao việc 'own your mistakes' (đứng ra nhận lỗi) kèm hành động khắc phục, hơn là một lời xin lỗi dài dòng mà không có giải pháp."
+  ],
+
+  "commonMistakes": [
+    "Phản ứng phòng thủ hoặc thanh minh ngay ('But it wasn't my fault...') khiến bạn mất điểm. Hãy cảm ơn và tiếp thu trước, làm rõ bối cảnh sau bằng giọng trung lập.",
+    "Dùng 'feedback' như danh từ đếm được: SAI 'a feedback / many feedbacks', ĐÚNG 'some feedback / a piece of feedback'.",
+    "Bất đồng quá thẳng ('You're wrong' / 'That's not true') nghe thô. Hãy hedging: 'I'm not entirely convinced that...' hoặc 'With respect, I think that may have been overstated.'",
+    "Lẫn 'should have + V3' (lẽ ra đã nên — nhưng không làm) với 'should + V'. Khi hối tiếc quá khứ phải dùng 'I should have flagged it', không phải 'I should flag it'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tiếp nhận phê bình trong một buổi đánh giá hiệu suất như thật.",
+    "prompt": "Hãy đóng vai quản lý trực tiếp của tôi trong một buổi đánh giá hiệu suất bằng tiếng Anh. Hãy đưa ra cho tôi 3-4 lời phê bình cụ thể về công việc gần đây (ví dụ: sai số liệu, trễ hạn, giọng văn chưa phù hợp, giao tiếp chưa rõ), từng điểm một. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một quản lý thật, (2) sửa lỗi ngữ pháp và chỉ ra chỗ nào nghe phòng thủ/thanh minh, rồi gợi ý cách diễn đạt điềm tĩnh, lịch thiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu C1 như 'I take your point, although...', 'With respect, I'm not entirely convinced that...', 'in hindsight, I should have...'. Thỉnh thoảng hãy đưa ra một lời phê bình hơi gay gắt hoặc chưa thật công bằng để tôi tập bất đồng một cách lịch sự. Cuối buổi, hãy chấm điểm khả năng tiếp nhận phê bình của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng lời phê bình đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy ngắt lời và phản bác lại lý lẽ của tôi để tôi tập giữ bình tĩnh dưới áp lực.'",
+      "Thêm: 'Hãy đổi vai sang một đồng nghiệp ngang cấp nói chuyện thân mật hơn, để tôi luyện đổi register.'",
+      "Thêm: 'Hãy yêu cầu tôi tóm tắt lại các cam kết cải thiện ở cuối buổi bằng một câu phức duy nhất.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi cảm ơn và tiếp nhận phê bình một cách điềm tĩnh trước khi phản hồi nội dung, không tỏ ra phòng thủ.",
+    "Tôi thừa nhận được phần mình sai bằng 'I have to admit... / in hindsight I should have...' và làm rõ bối cảnh mà không biện bạch.",
+    "Tôi bất đồng lịch sự được bằng các mẫu hedging như 'With respect, I'm not entirely convinced that...' và đề xuất hướng cải thiện cụ thể."
+  ]
+}

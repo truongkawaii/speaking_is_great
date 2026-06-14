@@ -1,0 +1,362 @@
+{
+  "id": "ethical-dilemmas",
+  "category": "opinions",
+  "title": "Tình huống đạo đức",
+  "titleEn": "Ethical Dilemmas",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Trình bày lập trường đạo đức bằng câu phức nhiều tầng, mạch lạc và có sắc thái",
+    "Cân nhắc nhiều mặt của một vấn đề (on the one hand… on the other hand) trước khi kết luận",
+    "Phản biện lịch sự, bảo lưu quan điểm mà không gây mất lòng (devil's advocate, đồng ý có điều kiện)",
+    "Dùng từ vựng trừu tượng về đạo đức (integrity, accountability, justifiable) và idiom một cách tự nhiên",
+    "Thừa nhận vùng xám và sự mơ hồ đạo đức thay vì phán xét đen-trắng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "dilemma",
+      "ipa": "/dɪˈlem.ə/",
+      "vi": "tình thế tiến thoái lưỡng nan (danh từ)",
+      "register": "neutral",
+      "example": "She faced a genuine dilemma: report her colleague or stay loyal to a friend.",
+      "exampleVi": "Cô ấy đối mặt với một tình thế lưỡng nan thực sự: tố giác đồng nghiệp hay giữ trọn tình bạn.",
+      "note": "Danh từ. Hàm ý phải chọn giữa HAI lựa chọn đều có cái giá phải trả, không có đáp án dễ. Tránh viết 'dilema'.",
+      "synonyms": [
+        { "term": "quandary", "ipa": "/ˈkwɒn.dər.i/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ, nhấn trạng thái 'bối rối, lưỡng lự không biết quyết sao'. Nghe trí thức hơn dilemma." },
+        { "term": "predicament", "ipa": "/prɪˈdɪk.ə.mənt/", "register": "neutral", "nuanceVi": "Nhấn vào 'hoàn cảnh khó xử, rắc rối' nói chung, không nhất thiết là chọn giữa hai phương án đạo đức." }
+      ]
+    },
+    {
+      "term": "integrity",
+      "ipa": "/ɪnˈteɡ.rə.ti/",
+      "vi": "sự chính trực, liêm chính (danh từ)",
+      "register": "formal",
+      "example": "A person of integrity does the right thing even when no one is watching.",
+      "exampleVi": "Người chính trực làm điều đúng đắn ngay cả khi không ai nhìn thấy.",
+      "note": "Danh từ không đếm được. Chỉ phẩm chất giữ vững nguyên tắc đạo đức. Khác nghĩa kỹ thuật 'integrity' = tính toàn vẹn (dữ liệu).",
+      "synonyms": [
+        { "term": "honesty", "ipa": "/ˈɒn.ə.sti/", "register": "neutral", "nuanceVi": "Hẹp hơn: chỉ riêng sự trung thực (không nói dối). Integrity rộng hơn, bao cả việc kiên định nguyên tắc." },
+        { "term": "principles", "ipa": "/ˈprɪn.sə.pəlz/", "register": "neutral", "nuanceVi": "Số nhiều, chỉ 'những nguyên tắc đạo đức' mà người ta theo. 'A man of principles' ≈ người có lập trường." }
+      ]
+    },
+    {
+      "term": "accountability",
+      "ipa": "/əˌkaʊn.təˈbɪl.ə.ti/",
+      "vi": "trách nhiệm giải trình (danh từ)",
+      "register": "formal",
+      "example": "Without accountability, even well-meaning leaders eventually abuse their power.",
+      "exampleVi": "Thiếu trách nhiệm giải trình, ngay cả lãnh đạo có thiện chí rồi cũng lạm quyền.",
+      "note": "Danh từ. Nhấn vào việc PHẢI giải trình và chịu hậu quả cho hành động của mình. Đi với 'hold someone accountable'.",
+      "synonyms": [
+        { "term": "responsibility", "ipa": "/rɪˌspɒn.sɪˈbɪl.ə.ti/", "register": "neutral", "nuanceVi": "Rộng hơn: nghĩa vụ phải làm gì đó. Accountability nhấn thêm khâu 'phải trả lời/gánh hậu quả' khi mọi việc đi sai." },
+        { "term": "answerability", "ipa": "/ˌɑːn.sər.əˈbɪl.ə.ti/", "register": "formal", "nuanceVi": "Hiếm, rất trang trọng. Nhấn nghĩa đen 'phải trả lời trước ai đó'. Dùng trong văn bản pháp lý/chính trị." }
+      ]
+    },
+    {
+      "term": "to justify",
+      "ipa": "/ˈdʒʌs.tɪ.faɪ/",
+      "vi": "biện minh, chứng minh là chính đáng (động từ)",
+      "register": "neutral",
+      "example": "I don't think the end justifies the means in this case.",
+      "exampleVi": "Tôi không cho rằng mục đích biện minh cho phương tiện trong trường hợp này.",
+      "note": "Động từ. Idiom kinh điển: 'the end justifies the means' (cứu cánh biện minh cho phương tiện). Tính từ: justifiable.",
+      "synonyms": [
+        { "term": "to vindicate", "ipa": "/ˈvɪn.dɪ.keɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'minh oan, chứng tỏ ai đó đúng sau khi bị nghi ngờ'. Mạnh và hẹp hơn justify." },
+        { "term": "to warrant", "ipa": "/ˈwɒr.ənt/", "register": "formal", "nuanceVi": "Nghĩa 'đủ lý do để xứng đáng/cho phép làm gì'. Vd 'The situation warrants action'. Khách quan hơn justify." }
+      ]
+    },
+    {
+      "term": "to compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "thỏa hiệp; làm tổn hại (động từ)",
+      "register": "neutral",
+      "example": "I'm not willing to compromise my values just to keep the contract.",
+      "exampleVi": "Tôi không sẵn lòng đánh đổi giá trị của mình chỉ để giữ hợp đồng.",
+      "note": "Hai nghĩa: (1) 'compromise on/with' = nhân nhượng để đạt thỏa thuận (tích cực); (2) 'compromise something' = làm tổn hại/xói mòn (tiêu cực, vd compromise your integrity).",
+      "synonyms": [
+        { "term": "to meet halfway", "ipa": "/miːt ˈhɑːf.weɪ/", "register": "casual", "nuanceVi": "Idiom đời thường cho nghĩa thỏa hiệp tích cực: mỗi bên nhường một nửa. Không dùng cho nghĩa 'làm tổn hại'." },
+        { "term": "to undermine", "ipa": "/ˌʌn.dəˈmaɪn/", "register": "neutral", "nuanceVi": "Cho nghĩa tiêu cực: 'âm thầm làm suy yếu/xói mòn'. Mạnh hơn và có chủ ý hơn 'compromise' nghĩa hai." }
+      ]
+    },
+    {
+      "term": "to weigh up",
+      "ipa": "/weɪ ʌp/",
+      "vi": "cân nhắc, đắn đo (động từ)",
+      "register": "neutral",
+      "example": "Before deciding, you have to weigh up the costs against the benefits.",
+      "exampleVi": "Trước khi quyết, bạn phải cân nhắc cái giá so với lợi ích.",
+      "note": "Phrasal verb. 'weigh up A against B' = đặt lên bàn cân để so. Nghe tự nhiên hơn 'consider' khi nói về lựa chọn khó.",
+      "synonyms": [
+        { "term": "to evaluate", "ipa": "/ɪˈvæl.ju.eɪt/", "register": "formal", "nuanceVi": "Trang trọng, khách quan, thiên về 'đánh giá có hệ thống'. Mất đi sắc thái 'đắn đo nội tâm' của weigh up." },
+        { "term": "to mull over", "ipa": "/mʌl ˈəʊ.vər/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'suy đi nghĩ lại từ tốn, chưa vội quyết'. Thiên về ngẫm hơn là so sánh được-mất." }
+      ]
+    },
+    {
+      "term": "justifiable",
+      "ipa": "/ˈdʒʌs.tɪ.faɪ.ə.bəl/",
+      "vi": "có thể biện minh được, chính đáng (tính từ)",
+      "register": "formal",
+      "example": "Lying to protect someone's safety may be morally justifiable.",
+      "exampleVi": "Nói dối để bảo vệ sự an toàn của ai đó có lẽ là chính đáng về mặt đạo đức.",
+      "note": "Tính từ. Trái nghĩa: unjustifiable. Hay đi với 'morally justifiable', 'economically justifiable'.",
+      "synonyms": [
+        { "term": "defensible", "ipa": "/dɪˈfen.sə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'có thể bảo vệ được trước phản bác'. Hơi yếu hơn justifiable: chỉ cần đứng vững được, chưa hẳn là đúng hoàn toàn." },
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Rộng và nhẹ hơn: 'hợp lý, có lý'. Không mang sức nặng đạo đức như justifiable." }
+      ]
+    },
+    {
+      "term": "controversial",
+      "ipa": "/ˌkɒn.trəˈvɜː.ʃəl/",
+      "vi": "gây tranh cãi (tính từ)",
+      "register": "neutral",
+      "example": "Whistle-blowing remains a deeply controversial issue in most workplaces.",
+      "exampleVi": "Tố giác sai phạm vẫn là vấn đề gây tranh cãi sâu sắc ở hầu hết nơi làm việc.",
+      "note": "Tính từ. Trọng âm rơi vào âm thứ ba: con-tro-VER-sial. Đừng nhấn sai vào 'con'.",
+      "synonyms": [
+        { "term": "contentious", "ipa": "/kənˈten.ʃəs/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'dễ làm người ta bất đồng, cãi nhau'. Hay dùng trong tranh luận học thuật/pháp lý." },
+        { "term": "divisive", "ipa": "/dɪˈvaɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn 'chia rẽ con người thành hai phe đối lập'. Mạnh hơn ở khía cạnh gây mâu thuẫn xã hội." }
+      ]
+    },
+    {
+      "term": "morally",
+      "ipa": "/ˈmɒr.əl.i/",
+      "vi": "về mặt đạo đức (trạng từ)",
+      "register": "neutral",
+      "example": "Morally speaking, I find it hard to defend that decision.",
+      "exampleVi": "Xét về mặt đạo đức, tôi thấy khó mà bênh vực cho quyết định đó.",
+      "note": "Trạng từ. 'Morally speaking' là cách mở đầu rất hữu ích để giới hạn rằng bạn đang xét ở khía cạnh đạo đức.",
+      "synonyms": [
+        { "term": "ethically", "ipa": "/ˈeθ.ɪ.kəl.i/", "register": "formal", "nuanceVi": "Gần như đồng nghĩa, nhưng thiên về 'chuẩn mực nghề nghiệp/quy tắc' hơn là lương tâm cá nhân (morally)." },
+        { "term": "in principle", "ipa": "/ɪn ˈprɪn.sə.pəl/", "register": "neutral", "nuanceVi": "Nghĩa 'về mặt nguyên tắc' (lý thuyết là vậy, thực tế có thể khác). Hay dùng để mở đường cho một chữ 'but'." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːɡ.ju.ə.bli/",
+      "vi": "có thể lập luận rằng, có lẽ là (trạng từ)",
+      "register": "formal",
+      "example": "Arguably, transparency matters more than loyalty in such a situation.",
+      "exampleVi": "Có thể lập luận rằng sự minh bạch quan trọng hơn lòng trung thành trong tình huống ấy.",
+      "note": "Trạng từ. Cách nêu một khẳng định mạnh nhưng vẫn để ngỏ tranh luận — rất 'C1', nghe khách quan và chín chắn.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung/tưởng tượng được là vậy'. Yếu hơn arguably, thiên về khả năng giả định." },
+        { "term": "presumably", "ipa": "/prɪˈzjuː.mə.bli/", "register": "neutral", "nuanceVi": "Nhấn 'có lẽ là vậy dựa trên suy đoán hợp lý'. Khác arguably ở chỗ không mời gọi tranh luận." }
+      ]
+    },
+    {
+      "term": "bystander",
+      "ipa": "/ˈbaɪˌstæn.dər/",
+      "vi": "người ngoài cuộc, người chứng kiến (danh từ)",
+      "register": "neutral",
+      "example": "The bystander effect explains why people often fail to intervene in a crisis.",
+      "exampleVi": "Hiệu ứng người ngoài cuộc giải thích vì sao người ta thường không can thiệp khi có khủng hoảng.",
+      "note": "Danh từ. 'the bystander effect' là khái niệm tâm lý nổi tiếng — càng đông người chứng kiến, càng ít người ra tay.",
+      "synonyms": [
+        { "term": "onlooker", "ipa": "/ˈɒnˌlʊk.ər/", "register": "neutral", "nuanceVi": "Nhấn vào hành động 'đứng nhìn, quan sát'. Gần nghĩa nhưng không gắn với khái niệm tâm lý như bystander." }
+      ]
+    },
+    {
+      "term": "to turn a blind eye",
+      "ipa": "/tɜːn ə blaɪnd aɪ/",
+      "vi": "làm ngơ, nhắm mắt cho qua (cụm động từ / idiom)",
+      "register": "neutral",
+      "example": "Managers who turn a blind eye to small frauds end up enabling bigger ones.",
+      "exampleVi": "Quản lý làm ngơ trước những gian lận nhỏ rốt cuộc lại tiếp tay cho những vụ lớn hơn.",
+      "note": "Idiom. 'turn a blind eye to something' = cố tình không nhìn thấy sai phạm. Cụm rất 'ăn điểm' khi bàn đạo đức.",
+      "synonyms": [
+        { "term": "to look the other way", "ipa": "/lʊk ðə ˈʌð.ər weɪ/", "register": "casual", "nuanceVi": "Idiom đời thường gần như đồng nghĩa: 'ngoảnh mặt làm ngơ'. Nhẹ nhàng, khẩu ngữ hơn." },
+        { "term": "to overlook", "ipa": "/ˌəʊ.vəˈlʊk/", "register": "neutral", "nuanceVi": "Trung tính: 'bỏ sót/bỏ qua', có thể vô tình. Mất đi sắc thái 'cố tình làm ngơ' của idiom gốc." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "On the one hand, [mệnh đề]; on the other hand, [mệnh đề].",
+      "use": "Trình bày cân bằng hai mặt của một vấn đề đạo đức trước khi nghiêng về một phía.",
+      "register": "formal",
+      "examples": [
+        "On the one hand, loyalty to a friend matters; on the other hand, the truth has to come out eventually."
+      ],
+      "explanationVi": "Cấu trúc 'rường cột' của lập luận C1: cho thấy bạn đã nhìn cả hai phía, không phiến diện. Sau khi cân, bạn mới nghiêng về một bên để nghe chín chắn, công bằng.",
+      "altOf": "weighing-two-sides"
+    },
+    {
+      "pattern": "While I can see why [quan điểm A], I still believe that [quan điểm B].",
+      "use": "Thừa nhận lý lẽ của phía kia rồi mới bảo lưu quan điểm của mình.",
+      "register": "neutral",
+      "examples": [
+        "While I can see why some would report it immediately, I still believe a quiet word first is fairer."
+      ],
+      "explanationVi": "'While' mở mệnh đề nhượng bộ (= trong khi/mặc dù). Công nhận phía kia trước khiến phản biện của bạn nghe lịch sự và thuyết phục hơn nhiều so với phủ nhận thẳng.",
+      "altOf": "weighing-two-sides"
+    },
+    {
+      "pattern": "If I were in that position, I would probably [V], although it wouldn't be easy.",
+      "use": "Đặt mình vào tình huống giả định để nêu lựa chọn của bản thân.",
+      "register": "neutral",
+      "examples": [
+        "If I were in that position, I would probably speak up, although it wouldn't be an easy call."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 ('If I were…, I would…') để nói về tình huống giả định/khó xảy ra. Thêm 'although it wouldn't be easy' thể hiện bạn ý thức được cái giá phải trả.",
+      "altOf": "taking-a-stance"
+    },
+    {
+      "pattern": "I'd have to say that, all things considered, [kết luận].",
+      "use": "Đưa ra kết luận sau khi đã cân nhắc mọi mặt.",
+      "register": "neutral",
+      "examples": [
+        "I'd have to say that, all things considered, honesty is the lesser of two evils here."
+      ],
+      "explanationVi": "'all things considered' = cân nhắc mọi điều. 'I'd have to say' làm kết luận nghe như được rút ra một cách dè dặt, có trách nhiệm — rất hợp khi chủ đề nhạy cảm.",
+      "altOf": "taking-a-stance"
+    },
+    {
+      "pattern": "Just to play devil's advocate, couldn't one argue that [quan điểm trái chiều]?",
+      "use": "Nêu quan điểm trái chiều một cách lịch sự để thử thách lập luận, không nhất thiết là điều bạn tin.",
+      "register": "formal",
+      "examples": [
+        "Just to play devil's advocate, couldn't one argue that some secrets are kept out of kindness?"
+      ],
+      "explanationVi": "Idiom 'play devil's advocate' = cố tình nêu ý ngược để tranh luận cho sâu. Đây là dấu hiệu rất 'C1' của một người tư duy phản biện trưởng thành, không sa vào cãi vã.",
+      "altOf": "challenging-politely"
+    },
+    {
+      "pattern": "I take your point, but isn't it possible that [phản biện]?",
+      "use": "Đồng tình một phần rồi nhẹ nhàng phản biện.",
+      "register": "neutral",
+      "examples": [
+        "I take your point, but isn't it possible that staying silent does more harm in the long run?"
+      ],
+      "explanationVi": "'I take your point' = tôi hiểu ý bạn (đồng ý có điều kiện). Dùng câu hỏi tu từ 'isn't it possible that…?' để gợi mở thay vì áp đặt — giữ cuộc tranh luận ôn hòa.",
+      "altOf": "challenging-politely"
+    },
+    {
+      "pattern": "It's not that [A], it's more that [B].",
+      "use": "Đính chính một hiểu lầm và làm rõ sắc thái thật trong quan điểm của mình.",
+      "register": "neutral",
+      "examples": [
+        "It's not that I don't value loyalty, it's more that I value fairness even higher."
+      ],
+      "explanationVi": "Cấu trúc tinh tế để 'gọt' lại quan điểm: phủ nhận cách hiểu thô rồi nói rõ ý thật. Rất hữu ích khi bị người khác diễn giải sai lập trường của bạn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một quan điểm chân thành, đôi khi hơi khó nói.", "example": "Honestly, I'm not sure there's a perfect answer to this one." },
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Nhượng bộ một điểm yếu trong lập luận của chính mình, nghe khách quan.", "example": "Admittedly, my position has its flaws, but I'd still stand by it." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "xét cho cùng / rốt cuộc", "when": "Dẫn vào kết luận cuối cùng sau khi đã cân nhắc.", "example": "Ultimately, it comes down to what you can live with afterwards." },
+    { "term": "to a certain extent", "ipa": "/tʊ ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nhất định", "when": "Đồng ý một phần, để ngỏ phần không đồng ý.", "example": "I agree with you to a certain extent, but not entirely." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Báo trước một nhận định thẳng thắn, có thể hơi gay gắt.", "example": "Frankly, turning a blind eye is just as wrong as the act itself." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "không cần nói cũng biết / khỏi phải nói", "when": "Dẫn vào điều mà người nghe hẳn đã đồng tình.", "example": "Needless to say, deliberately covering it up would be far worse." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp, An và Bình, đang trao đổi giờ giải lao về một tình huống đạo đức: An vừa phát hiện một đồng nghiệp thân thiết khai gian chi phí công tác. Họ tranh luận xem có nên báo cáo lên cấp trên hay không.",
+    "lines": [
+      {
+        "speaker": "An",
+        "text": "Can I run something by you? I've just discovered that a close colleague of mine has been padding her expense claims, and honestly, I'm in a real ____ about whether to report it or not.",
+        "ipa": "/kæn aɪ rʌn ˈsʌm.θɪŋ baɪ juː aɪv dʒʌst dɪˈskʌv.əd ðæt ə kləʊs ˈkɒl.iːɡ ɒv maɪn hæz biːn ˈpæd.ɪŋ hɜːr ɪkˈspens kleɪmz ænd ˈɒn.ɪst.li aɪm ɪn ə rɪəl dɪˈlem.ə əˈbaʊt ˈweð.ər tə rɪˈpɔːt ɪt ɔːr nɒt/",
+        "vi": "Tớ tâm sự chuyện này được không? Tớ vừa phát hiện một đồng nghiệp thân khai khống chi phí, và thành thật mà nói, tớ đang thật sự ____ không biết có nên báo cáo hay không.",
+        "blanks": [
+          { "type": "knowledge", "answer": "dilemma", "explanationVi": "Dùng 'dilemma' (tình thế lưỡng nan) vì phải chọn giữa hai phương án đều có cái giá: tố giác bạn hay làm ngơ. Xem mục từ vựng 'dilemma'." }
+        ]
+      },
+      {
+        "speaker": "Bình",
+        "text": "That's a tough one. On the one hand, you owe it to the company to be transparent; ____ the other hand, she's your friend, and reporting her could destroy a relationship you've spent years building.",
+        "ipa": "/ðæts ə tʌf wʌn ɒn ðə wʌn hænd juː əʊ ɪt tə ðə ˈkʌm.pən.i tə biː trænsˈpær.ənt ɒn ðə ˈʌð.ər hænd ʃiːz jɔːr frend ænd rɪˈpɔːt.ɪŋ hɜːr kʊd dɪˈstrɔɪ ə rɪˈleɪ.ʃən.ʃɪp juːv spent jɪəz ˈbɪl.dɪŋ/",
+        "vi": "Đúng là khó thật. Một mặt, cậu có trách nhiệm minh bạch với công ty; ____ mặt khác, cô ấy là bạn cậu, và tố giác cô ấy có thể phá hỏng một mối quan hệ cậu đã xây dựng nhiều năm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "on", "explanationVi": "Cặp đối lập cố định 'On the one hand… on the other hand…' để cân hai mặt. Vế thứ hai luôn bắt đầu bằng 'on'. Xem mẫu câu 'On the one hand…; on the other hand…'." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "Exactly. While I can see why staying quiet might preserve the friendship, I still believe that turning a ____ eye would make me complicit, which is something I really couldn't live with.",
+        "ipa": "/ɪɡˈzækt.li waɪl aɪ kæn siː waɪ ˈsteɪ.ɪŋ ˈkwaɪ.ət maɪt prɪˈzɜːv ðə ˈfrend.ʃɪp aɪ stɪl bɪˈliːv ðæt ˈtɜː.nɪŋ ə blaɪnd aɪ wʊd meɪk miː kəmˈplɪs.ɪt wɪtʃ ɪz ˈsʌm.θɪŋ aɪ ˈrɪə.li ˈkʊd.ənt lɪv wɪð/",
+        "vi": "Chính xác. Dù tớ hiểu vì sao im lặng có thể giữ được tình bạn, tớ vẫn tin rằng làm ____ trước chuyện này sẽ khiến tớ thành đồng phạm, điều mà tớ thực sự không thể sống chung được.",
+        "blanks": [
+          { "type": "knowledge", "answer": "blind", "explanationVi": "Idiom 'turn a blind eye (to something)' = cố tình làm ngơ trước sai phạm. Cụm cố định, không thay từ. Xem mục từ vựng 'to turn a blind eye'." }
+        ]
+      },
+      {
+        "speaker": "Bình",
+        "text": "I take your point, but just to play devil's ____, couldn't one argue that a quiet word with her first would be both kinder and more effective than going straight to management?",
+        "ipa": "/aɪ teɪk jɔːr pɔɪnt bʌt dʒʌst tə pleɪ ˈdev.əlz ˈæd.və.kət ˈkʊd.ənt wʌn ˈɑːɡ.juː ðæt ə ˈkwaɪ.ət wɜːd wɪð hɜːr fɜːst wʊd biː bəʊθ ˈkaɪn.dər ænd mɔːr ɪˈfek.tɪv ðæn ˈɡəʊ.ɪŋ streɪt tə ˈmæn.ɪdʒ.mənt/",
+        "vi": "Tớ hiểu ý cậu, nhưng để phản biện cho kỹ, chẳng phải có thể lập luận rằng nói riêng với cô ấy trước sẽ vừa nhân văn hơn vừa hiệu quả hơn là báo thẳng lên ban quản lý sao?",
+        "blanks": [
+          { "type": "knowledge", "answer": "advocate", "explanationVi": "Idiom 'play devil's advocate' = cố tình nêu ý ngược để tranh luận cho sâu. 'advocate' (người bênh vực) là từ cố định trong cụm. Xem mẫu câu 'Just to play devil's advocate…'." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "That's fair, and admittedly I hadn't fully considered that. ____ I were in her shoes, I'd probably want a chance to put things right before being exposed in front of everyone.",
+        "ipa": "/ðæts feər ænd ədˈmɪt.ɪd.li aɪ ˈhæd.ənt ˈfʊl.i kənˈsɪd.əd ðæt ɪf aɪ wɜːr ɪn hɜːr ʃuːz aɪd ˈprɒb.ə.bli wɒnt ə tʃɑːns tə pʊt θɪŋz raɪt bɪˈfɔːr ˈbiːɪŋ ɪkˈspəʊzd ɪn frʌnt ɒv ˈev.ri.wʌn/",
+        "vi": "Cũng có lý, và phải thừa nhận là tớ chưa cân nhắc kỹ điều đó. ____ tớ ở vào hoàn cảnh của cô ấy, có lẽ tớ cũng muốn có cơ hội sửa sai trước khi bị phơi bày trước mặt mọi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "If", "explanationVi": "Câu điều kiện loại 2 cho tình huống giả định: 'If I were in her shoes, I'd…' (Nếu tớ ở vào vị trí cô ấy). Chú ý dùng 'were' cho mọi ngôi. Xem mẫu câu 'If I were in that position, I would…'." }
+        ]
+      },
+      {
+        "speaker": "Bình",
+        "text": "Precisely. And ____ the situation isn't ideal, giving her that chance shows a kind of integrity too — you're holding her accountable without humiliating her.",
+        "ipa": "/prɪˈsaɪs.li ænd ɔːlˈðəʊ ðə ˌsɪtʃ.uˈeɪ.ʃən ˈɪz.ənt aɪˈdɪəl ˈɡɪv.ɪŋ hɜːr ðæt tʃɑːns ʃəʊz ə kaɪnd ɒv ɪnˈteɡ.rə.ti tuː jɔːr ˈhəʊl.dɪŋ hɜːr əˈkaʊn.tə.bəl wɪˈðaʊt hjuːˈmɪl.i.eɪ.tɪŋ hɜː/",
+        "vi": "Đúng vậy. Và ____ tình huống không lý tưởng, cho cô ấy cơ hội đó cũng thể hiện một dạng chính trực — cậu vẫn buộc cô ấy chịu trách nhiệm mà không hạ nhục cô ấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "'Although' mở mệnh đề nhượng bộ (= mặc dù). Cả câu: dù tình huống không lý tưởng, cách làm đó vẫn có giá trị đạo đức. Đồng nghĩa 'even though'." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "You've genuinely helped me see this more clearly. I'd have to say that, ____ things considered, I'll speak to her privately first, and only escalate it if she refuses to make it right.",
+        "ipa": "/juːv ˈdʒen.ju.ɪn.li helpt miː siː ðɪs mɔːr ˈklɪə.li aɪd hæv tə seɪ ðæt ɔːl θɪŋz kənˈsɪd.əd aɪl spiːk tə hɜː ˈpraɪ.vət.li fɜːst ænd ˈəʊn.li ˈes.kə.leɪt ɪt ɪf ʃiː rɪˈfjuːz.ɪz tə meɪk ɪt raɪt/",
+        "vi": "Cậu thật sự giúp tớ nhìn rõ hơn hẳn. Tớ phải nói rằng, ____ mọi mặt, tớ sẽ nói chuyện riêng với cô ấy trước, và chỉ báo lên trên nếu cô ấy không chịu sửa sai.",
+        "blanks": [
+          { "type": "knowledge", "answer": "all", "explanationVi": "Cụm 'all things considered' = cân nhắc mọi mặt, dùng để dẫn vào kết luận sau khi đã đắn đo. Xem mẫu câu 'I'd have to say that, all things considered,…'." }
+        ]
+      },
+      {
+        "speaker": "Bình",
+        "text": "That sounds like the most balanced approach, and one that you can ____ live with. Whatever happens next, at least you'll know you acted with a clear conscience.",
+        "ipa": "/ðæt saʊndz laɪk ðə məʊst ˈbæl.ənst əˈprəʊtʃ ænd wʌn ðæt juː kæn ˌʌn.dɪˈnaɪ.ə.bli lɪv wɪð wɒtˈev.ər ˈhæp.ənz nekst ət liːst juːl nəʊ juː ˈæk.tɪd wɪð ə klɪər ˈkɒn.ʃəns/",
+        "vi": "Nghe có vẻ là cách cân bằng nhất, và là cách cậu có thể ____ sống chung được. Dù chuyện gì xảy ra tiếp theo, ít nhất cậu cũng biết mình đã hành động với lương tâm trong sạch.",
+        "blanks": [
+          { "type": "personal", "hint": "Một trạng từ làm mạnh ý 'chắc chắn'. Ví dụ: 'genuinely', 'truly', 'comfortably'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Văn hóa phương Tây thường đề cao việc tố giác sai phạm (whistle-blowing) vì lợi ích chung, trong khi nhiều nền văn hóa châu Á lại coi trọng lòng trung thành và việc 'giữ thể diện' cho nhau — hai hệ giá trị này có thể va chạm trong cùng một tình huống.",
+    "Trong tranh luận đạo đức bằng tiếng Anh, người ta đánh giá cao thái độ 'thừa nhận vùng xám' (acknowledging the grey area) hơn là phán xét đen-trắng. Nói 'It's complicated' hay 'There's no easy answer' được coi là dấu hiệu của sự chín chắn, không phải né tránh.",
+    "'Playing devil's advocate' (nêu ý ngược để tranh luận) là một thói quen tư duy rất được tôn trọng ở phương Tây. Hãy nói rõ bạn đang làm vậy ('Just to play devil's advocate…') để người nghe không tưởng đó là quan điểm thật của bạn.",
+    "Khi bất đồng, người bản xứ hiếm khi nói thẳng 'You're wrong'. Họ dùng các cụm đệm như 'I take your point, but…' hoặc 'I see where you're coming from, however…' để giữ cuộc trao đổi ôn hòa và tôn trọng."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'If I was in her shoes' trong câu điều kiện giả định — chuẩn văn viết/trang trọng là 'If I WERE in her shoes' cho mọi ngôi.",
+    "Nhầm 'moral' (đạo đức, tính từ) với 'morale' (tinh thần, nhuệ khí, danh từ) — phát âm và nghĩa hoàn toàn khác nhau.",
+    "Dùng 'discuss about' — động từ 'discuss' không đi với 'about'. Nói 'discuss the issue', không phải 'discuss about the issue'.",
+    "Phát biểu quan điểm đạo đức quá tuyệt đối, cộc lốc ('That's just wrong'). Ở cấp C1 nên làm mềm bằng 'arguably', 'to a certain extent', 'I'd say' để nghe có chừng mực."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận một tình huống đạo đức như thật, ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người bạn/đồng nghiệp nói tiếng Anh đang tranh luận với tôi về một tình huống đạo đức (ethical dilemma). Hãy nêu một tình huống lưỡng nan (ví dụ: tố giác bạn thân, nói dối để bảo vệ ai đó, hiệu ứng người ngoài cuộc) rồi hỏi quan điểm của tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thỉnh thoảng 'play devil's advocate' để thử thách lập luận của tôi, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế hơn ở trình độ C1 bằng tiếng Việt, (3) khuyến khích tôi dùng các cấu trúc như 'On the one hand… on the other hand…', 'While I can see why…, I still believe…', 'If I were…, I would…', và các trạng từ như 'arguably', 'admittedly', 'ultimately'. Cuối buổi, hãy đánh giá độ thuyết phục và sự cân bằng trong lập luận của tôi, rồi nêu 3 điểm cần cải thiện. Bắt đầu bằng tình huống đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gắt hơn và đẩy tôi vào những tình huống mơ hồ đạo đức không có đáp án rõ ràng để tôi tập bảo vệ lập trường.'",
+      "Thêm: 'Hãy yêu cầu tôi đổi vai và bênh vực quan điểm ngược lại với điều tôi vừa nói, để rèn khả năng nhìn đa chiều.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi trình bày được cả hai mặt của một vấn đề đạo đức bằng 'On the one hand… on the other hand…' trước khi kết luận.",
+    "Tôi phản biện được một cách lịch sự ('I take your point, but…', 'play devil's advocate') mà không gây mất lòng.",
+    "Tôi dùng được câu điều kiện loại 2 và các trạng từ như 'arguably', 'admittedly', 'ultimately' khi nêu lập trường."
+  ]
+}

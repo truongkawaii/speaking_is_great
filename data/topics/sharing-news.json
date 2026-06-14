@@ -1,0 +1,347 @@
+{
+  "id": "sharing-news",
+  "category": "friends",
+  "title": "Chia sẻ tin tức",
+  "titleEn": "Sharing News",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mở đầu một câu chuyện khi muốn kể tin mới cho bạn bè",
+    "Kể lại một sự kiện hoặc tin tức bằng câu vừa phải, có 'because / such as / so'",
+    "Bày tỏ phản ứng và cảm xúc (ngạc nhiên, vui, lo lắng) một cách tự nhiên",
+    "Hỏi thêm chi tiết và tiếp lời để giữ cuộc trò chuyện trôi chảy"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "news",
+      "ipa": "/njuːz/",
+      "vi": "tin tức (danh từ, không đếm được)",
+      "register": "neutral",
+      "example": "I have some exciting news to share with you.",
+      "exampleVi": "Tôi có vài tin thú vị muốn chia sẻ với bạn.",
+      "note": "Danh từ KHÔNG đếm được: nói 'some news', 'a piece of news', KHÔNG nói 'a news' hay 'newses'. Động từ luôn ở số ít: 'the news is good'.",
+      "synonyms": [
+        { "term": "update", "ipa": "/ˈʌp.deɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'thông tin mới nhất về việc đang diễn ra'. Vd 'Here's a quick update on the project.' Có thể đếm được: 'an update'." },
+        { "term": "gossip", "ipa": "/ˈɡɒs.ɪp/", "register": "casual", "nuanceVi": "Nghĩa 'chuyện phiếm, tin đồn về người khác'. Thân mật, đôi khi hơi tiêu cực; chỉ dùng giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "to find out",
+      "ipa": "/faɪnd aʊt/",
+      "vi": "phát hiện ra, biết được (động từ)",
+      "register": "neutral",
+      "example": "I just found out that she's moving abroad.",
+      "exampleVi": "Tôi vừa biết được là cô ấy sắp ra nước ngoài sống.",
+      "note": "Cụm động từ, hàm ý 'biết được sau khi tìm hiểu hoặc tình cờ'. Quá khứ bất quy tắc: found out.",
+      "synonyms": [
+        { "term": "to discover", "ipa": "/dɪˈskʌv.ər/", "register": "neutral", "nuanceVi": "Trang trọng hơn một chút, nhấn 'khám phá ra điều chưa ai biết'. Dùng được cho cả phát hiện khoa học lẫn đời thường." },
+        { "term": "to hear", "ipa": "/hɪər/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'nghe người khác kể lại'. Vd 'I heard you got a new job!' — phổ biến nhất khi tám chuyện." }
+      ]
+    },
+    {
+      "term": "to announce",
+      "ipa": "/əˈnaʊns/",
+      "vi": "thông báo, công bố (động từ)",
+      "register": "neutral",
+      "example": "They announced their engagement at the party.",
+      "exampleVi": "Họ công bố chuyện đính hôn tại bữa tiệc.",
+      "note": "Động từ, mang sắc thái 'báo chính thức cho nhiều người'. Danh từ: announcement.",
+      "synonyms": [
+        { "term": "to reveal", "ipa": "/rɪˈviːl/", "register": "formal", "nuanceVi": "Nhấn 'tiết lộ điều trước đó được giữ kín'. Nghe kịch tính/trang trọng hơn 'announce'." }
+      ]
+    },
+    {
+      "term": "exciting",
+      "ipa": "/ɪkˈsaɪ.tɪŋ/",
+      "vi": "thú vị, hào hứng (tính từ)",
+      "register": "neutral",
+      "example": "That's such exciting news — congratulations!",
+      "exampleVi": "Tin đó hào hứng quá — chúc mừng nhé!",
+      "note": "Tính từ tả 'sự việc' khiến ta hào hứng. Đừng nhầm với 'excited' (tả cảm xúc của người): 'I'm excited' chứ không phải 'I'm exciting'.",
+      "synonyms": [
+        { "term": "thrilling", "ipa": "/ˈθrɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn 'exciting', nhấn cảm giác 'phấn khích đến rạo rực'. Hợp với tin rất lớn hoặc trải nghiệm gay cấn." },
+        { "term": "awesome", "ipa": "/ˈɔː.səm/", "register": "casual", "nuanceVi": "Đời thường, kiểu Mỹ, nghĩa 'tuyệt vời'. Dùng thoải mái khi nói chuyện bạn bè." }
+      ]
+    },
+    {
+      "term": "unexpected",
+      "ipa": "/ˌʌn.ɪkˈspek.tɪd/",
+      "vi": "bất ngờ, không lường trước (tính từ)",
+      "register": "neutral",
+      "example": "The decision was completely unexpected.",
+      "exampleVi": "Quyết định đó hoàn toàn bất ngờ.",
+      "note": "Tính từ. Trạng từ là 'unexpectedly' (một cách bất ngờ).",
+      "synonyms": [
+        { "term": "surprising", "ipa": "/səˈpraɪ.zɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'gây ngạc nhiên', trung tính, có thể tốt hoặc xấu. Phổ biến và an toàn." },
+        { "term": "out of the blue", "ipa": "/aʊt əv ðə bluː/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'từ trên trời rơi xuống, chẳng báo trước'. Đặt cuối câu: 'She called me out of the blue.'" }
+      ]
+    },
+    {
+      "term": "rumour",
+      "ipa": "/ˈruː.mər/",
+      "vi": "tin đồn (danh từ)",
+      "register": "neutral",
+      "example": "There's a rumour that the cafe is closing down.",
+      "exampleVi": "Có tin đồn là quán cà phê sắp đóng cửa.",
+      "note": "Viết kiểu Anh-Anh là 'rumour', Anh-Mỹ là 'rumor'. Thường đi với 'There's a rumour that...'.",
+      "synonyms": [
+        { "term": "word", "ipa": "/wɜːd/", "register": "casual", "nuanceVi": "Trong cụm 'Word is that...' (= nghe đồn rằng), rất đời thường, dùng khi tám chuyện." }
+      ]
+    },
+    {
+      "term": "to congratulate",
+      "ipa": "/kənˈɡrætʃ.ə.leɪt/",
+      "vi": "chúc mừng (động từ)",
+      "register": "neutral",
+      "example": "Let me congratulate you on your new job.",
+      "exampleVi": "Cho phép mình chúc mừng bạn về công việc mới nhé.",
+      "note": "Đi với giới từ 'on': 'congratulate someone ON something'. Câu cảm thán đời thường là 'Congratulations!'.",
+      "synonyms": [
+        { "term": "to be happy for", "ipa": "/biː ˈhæp.i fɔːr/", "register": "casual", "nuanceVi": "Cụm thân mật, nhấn 'mừng giùm bạn'. Vd 'I'm so happy for you!' — chân thành và gần gũi." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I didn't see that coming at all.",
+      "exampleVi": "Thành thật mà nói, tôi chẳng ngờ tới điều đó chút nào.",
+      "note": "Trạng từ. Lưu ý 'h' câm: đọc /ˈɒn.ɪst.li/, không đọc âm 'h'. Dùng mở đầu câu để nói chân thành.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Nhấn 'nói thẳng, không vòng vo', đôi khi để nói điều hơi khó nghe. Vd 'Frankly, I was disappointed.'" },
+        { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "register": "casual", "nuanceVi": "Cụm thông dụng nhất khi nói, hay viết tắt thành 'tbh' khi nhắn tin. Mềm và tự nhiên." }
+      ]
+    },
+    {
+      "term": "apparently",
+      "ipa": "/əˈpær.ənt.li/",
+      "vi": "hình như, nghe nói là (trạng từ)",
+      "register": "neutral",
+      "example": "Apparently, they're getting married next spring.",
+      "exampleVi": "Nghe nói là họ sẽ cưới vào mùa xuân tới.",
+      "note": "Trạng từ rất 'đắt' khi kể tin nghe được từ người khác mà mình chưa kiểm chứng — kiểu 'theo như mình nghe được thì...'.",
+      "synonyms": [
+        { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "register": "neutral", "nuanceVi": "Gần nghĩa nhưng ngầm chứa chút hoài nghi: 'người ta bảo vậy nhưng mình chưa chắc tin'." }
+      ]
+    },
+    {
+      "term": "incredible",
+      "ipa": "/ɪnˈkred.ə.bəl/",
+      "vi": "khó tin, tuyệt vời (tính từ)",
+      "register": "neutral",
+      "example": "What an incredible story — I can hardly believe it!",
+      "exampleVi": "Câu chuyện khó tin thật — mình khó mà tin nổi!",
+      "note": "Tính từ dùng để phản ứng mạnh trước tin gây sốc (theo cả hướng tốt lẫn xấu). Trạng từ: incredibly.",
+      "synonyms": [
+        { "term": "unbelievable", "ipa": "/ˌʌn.bɪˈliː.və.bəl/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn 'khó tin đến mức không tưởng'. Hay dùng để bày tỏ kinh ngạc." },
+        { "term": "amazing", "ipa": "/əˈmeɪ.zɪŋ/", "register": "casual", "nuanceVi": "Đời thường, thiên về nghĩa TÍCH CỰC 'tuyệt quá'. An toàn khi khen một tin vui." }
+      ]
+    },
+    {
+      "term": "to keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "vi": "giữ liên lạc (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's keep in touch even after you move.",
+      "exampleVi": "Mình giữ liên lạc nhé, kể cả sau khi bạn chuyển đi.",
+      "note": "Cụm cố định. Trái nghĩa: 'lose touch' (mất liên lạc). Hay nói khi chia tay hoặc khi bạn bè sắp xa nhau."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Guess what! / You'll never guess what happened.",
+      "use": "Mở đầu kịch tính để gây chú ý trước khi kể tin.",
+      "register": "casual",
+      "examples": [
+        "Guess what! I finally got the scholarship.",
+        "You'll never guess what happened at work today."
+      ],
+      "explanationVi": "Câu mồi rất đời thường, tạo sự hồi hộp khiến người nghe muốn hỏi 'What?'. Chỉ dùng giữa bạn bè, không dùng trong ngữ cảnh trang trọng.",
+      "altOf": "opening-news"
+    },
+    {
+      "pattern": "I've got some [good/big/bad] news.",
+      "use": "Báo trước rằng bạn sắp chia sẻ tin, kèm gợi ý tính chất của tin.",
+      "register": "neutral",
+      "examples": [
+        "I've got some great news to share with you.",
+        "I've got some bad news, I'm afraid."
+      ],
+      "explanationVi": "Cách mở đầu trung tính, lịch sự hơn 'Guess what'. Thêm 'good/big/bad' giúp người nghe chuẩn bị tâm lý. Nhớ 'news' không đếm được nên dùng 'some'.",
+      "altOf": "opening-news"
+    },
+    {
+      "pattern": "I just found out that [mệnh đề].",
+      "use": "Vào thẳng nội dung tin mình vừa biết được.",
+      "register": "neutral",
+      "examples": [
+        "I just found out that we passed the exam.",
+        "I just found out that the concert has been cancelled."
+      ],
+      "explanationVi": "'just' nhấn 'vừa mới', 'that' dẫn vào mệnh đề nội dung. Đây là khung câu xương sống để kể một tin mới biết.",
+      "altOf": "telling-news"
+    },
+    {
+      "pattern": "Apparently, [mệnh đề].",
+      "use": "Kể lại tin nghe được từ người khác mà mình chưa chắc chắn.",
+      "register": "neutral",
+      "examples": [
+        "Apparently, the company is hiring again next month.",
+        "Apparently, they broke up last week."
+      ],
+      "explanationVi": "Đặt 'Apparently' đầu câu để ngầm báo 'đây là tin mình nghe được, chưa kiểm chứng'. Giúp bạn không bị xem là người tung tin chắc nịch nếu sau đó sai.",
+      "altOf": "telling-news"
+    },
+    {
+      "pattern": "No way! / You're kidding! / That's incredible!",
+      "use": "Phản ứng bất ngờ, thể hiện sự kinh ngạc trước một tin.",
+      "register": "casual",
+      "examples": [
+        "No way! When did that happen?",
+        "You're kidding! I had no idea."
+      ],
+      "explanationVi": "Các câu cảm thán ngắn để phản ứng tự nhiên. Im lặng hoặc chỉ nói 'OK' nghe thờ ơ; người bản xứ luôn có một phản ứng cảm xúc khi nghe tin.",
+      "altOf": "reacting-to-news"
+    },
+    {
+      "pattern": "That's [tính từ] to hear. Congratulations on [danh từ]!",
+      "use": "Phản ứng tích cực và chúc mừng khi nghe tin vui.",
+      "register": "neutral",
+      "examples": [
+        "That's wonderful to hear. Congratulations on your new job!",
+        "That's great to hear. Congratulations on getting engaged!"
+      ],
+      "explanationVi": "'That's ... to hear' là khung phản ứng lịch sự. Nhớ 'congratulate/congratulations ON something' (đi với 'on'), không phải 'for'.",
+      "altOf": "reacting-to-news"
+    },
+    {
+      "pattern": "So, what happened next? / How did it go?",
+      "use": "Hỏi thêm chi tiết để giữ cuộc trò chuyện tiếp diễn.",
+      "register": "neutral",
+      "examples": [
+        "So, what happened next?",
+        "How did it go in the end?"
+      ],
+      "explanationVi": "Câu hỏi tiếp nối thể hiện bạn đang lắng nghe và quan tâm. Người kể sẽ thấy được khích lệ để kể tiếp, giúp hội thoại không bị 'cụt'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc thêm một chi tiết bất ngờ vào câu chuyện.", "example": "Actually, it turned out better than we expected." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn chuyển sang một tin khác hoặc thêm câu chuyện ngoài lề.", "example": "By the way, did you hear about Linh's promotion?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nhấn rằng bạn đang nói chân thành về cảm xúc của mình.", "example": "Honestly, I was so relieved when I heard the news." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn đưa ra góc nhìn cân bằng hoặc bênh vực nhẹ một bên.", "example": "To be fair, she did warn us this might happen." },
+    { "term": "all of a sudden", "ipa": "/ɔːl əv ə ˈsʌd.ən/", "vi": "đột nhiên, bất thình lình", "when": "Khi kể một diễn biến xảy ra bất ngờ trong câu chuyện.", "example": "All of a sudden, my phone rang with the good news." }
+  ],
+
+  "dialogue": {
+    "context": "Mai và Linh là hai người bạn thân, tình cờ gặp nhau ở quán cà phê. Mai có một tin lớn muốn kể, còn Linh thì cũng có chuyện riêng để chia sẻ.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Hey Linh, I'm so glad I ran into you! Guess what — I've got some exciting news that I've been dying to share with someone all day.",
+        "ipa": "/heɪ lɪn aɪm səʊ ɡlæd aɪ ræn ˈɪn.tə juː ɡes wɒt aɪv ɡɒt səm ɪkˈsaɪ.tɪŋ njuːz ðæt aɪv biːn ˈdaɪ.ɪŋ tə ʃeər wɪð ˈsʌm.wʌn ɔːl deɪ/",
+        "vi": "Linh ơi, mừng ghê khi tình cờ gặp cậu! Đoán xem nào — tớ có một tin thú vị mà cả ngày nay tớ cứ nóng lòng muốn kể cho ai đó."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Oh really? Now I'm curious! Tell me everything — what's going on?",
+        "ipa": "/əʊ ˈrɪə.li naʊ aɪm ˈkjʊə.ri.əs tel miː ˈev.ri.θɪŋ wɒts ˈɡəʊ.ɪŋ ɒn/",
+        "vi": "Ồ thật à? Giờ thì tò mò ghê! Kể hết cho tớ nghe đi — có chuyện gì vậy?"
+      },
+      {
+        "speaker": "Mai",
+        "text": "I just ____ out this morning that I got the scholarship to study in Australia! Although I applied months ago, I honestly never thought I'd actually be chosen.",
+        "ipa": "/aɪ dʒʌst ... aʊt ðɪs ˈmɔːn.ɪŋ ðæt aɪ ɡɒt ðə ˈskɒl.ə.ʃɪp tə ˈstʌd.i ɪn ɒˈstreɪ.li.ə ɔːlˈðəʊ aɪ əˈplaɪd mʌnθs əˈɡəʊ aɪ ˈɒn.ɪst.li ˈnev.ə θɔːt aɪd ˈæk.tʃu.ə.li biː ˈtʃəʊ.zən/",
+        "vi": "Sáng nay tớ vừa ____ ra là tớ được học bổng đi học ở Úc đấy! Mặc dù tớ nộp đơn từ mấy tháng trước, thành thật mà nói tớ chẳng bao giờ nghĩ mình sẽ thực sự được chọn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "found", "explanationVi": "Cụm động từ 'find out' (phát hiện, biết được) ở thì quá khứ là 'found out'. Xem mẫu câu 'I just found out that...'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "No way! That's absolutely incredible — congratulations ____ such a huge achievement! You worked so hard for it, so you completely deserve it.",
+        "ipa": "/nəʊ weɪ ðæts ˈæb.sə.luːt.li ɪnˈkred.ə.bəl kənˌɡrætʃ.əˈleɪ.ʃənz ... sʌtʃ ə hjuːdʒ əˈtʃiːv.mənt juː wɜːkt səʊ hɑːd fɔːr ɪt səʊ juː kəmˈpliːt.li dɪˈzɜːv ɪt/",
+        "vi": "Không thể tin được! Tuyệt vời thật đấy — chúc mừng cậu ____ một thành tích lớn như vậy nhé! Cậu đã cố gắng rất nhiều vì nó, nên cậu hoàn toàn xứng đáng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "on", "explanationVi": "Sau 'congratulations' luôn đi với giới từ 'on' + danh từ/V-ing, không phải 'for'. Xem mẫu câu 'Congratulations on...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Thank you so much! Honestly, I'm both thrilled and a little nervous, because moving to a new country means leaving my family and friends, ____ you, behind for a whole year.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ˈɒn.ɪst.li aɪm bəʊθ θrɪld ænd ə ˈlɪt.əl ˈnɜː.vəs bɪˈkɒz ˈmuːv.ɪŋ tə ə njuː ˈkʌn.tri miːnz ˈliːv.ɪŋ maɪ ˈfæm.ɪ.li ænd frendz ... juː bɪˈhaɪnd fɔːr ə həʊl jɪə/",
+        "vi": "Cảm ơn cậu nhiều lắm! Thành thật mà nói, tớ vừa phấn khích lại vừa hơi lo, vì chuyển đến một đất nước mới nghĩa là phải xa gia đình và bạn bè, ____ cả cậu nữa, suốt cả một năm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa ('bạn bè, chẳng hạn như cậu'). Đây là cấu trúc nêu ví dụ kiểu TOEIC." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Don't worry too much! We can definitely ____ in touch through video calls, so it'll feel as if you never left. By the way, when do you actually fly out?",
+        "ipa": "/dəʊnt ˈwʌr.i tuː mʌtʃ wiː kæn ˈdef.ɪn.ət.li ... ɪn tʌtʃ θruː ˈvɪd.i.əʊ kɔːlz səʊ ɪtl fiːl əz ɪf juː ˈnev.ə left baɪ ðə weɪ wen duː juː ˈæk.tʃu.ə.li flaɪ aʊt/",
+        "vi": "Đừng lo quá! Chắc chắn mình vẫn có thể ____ liên lạc qua gọi video, nên sẽ thấy như cậu chưa từng đi vậy. Mà tiện thể, thực ra khi nào thì cậu bay?",
+        "blanks": [
+          { "type": "knowledge", "answer": "keep", "explanationVi": "Cụm cố định 'keep in touch' = giữ liên lạc. Sau trợ động từ 'can' dùng động từ nguyên thể 'keep'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "In about two months. Anyway, enough about me — you said you had some news too. So, what's ____ with you these days?",
+        "ipa": "/ɪn əˈbaʊt tuː mʌnθs ˈen.i.weɪ ɪˈnʌf əˈbaʊt miː juː sed juː hæd səm njuːz tuː səʊ wɒts ... wɪð juː ðiːz deɪz/",
+        "vi": "Khoảng hai tháng nữa. Mà thôi, nói về tớ vậy đủ rồi — cậu bảo cậu cũng có tin gì đó mà. Vậy dạo này có chuyện gì ____ với cậu thế?",
+        "blanks": [
+          { "type": "personal", "hint": "Một từ thường đi sau 'What's ___ with you?' để hỏi thăm. Ví dụ: 'new', 'going on', 'up'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Well, apparently my company is opening a new branch, and they offered me a manager position! It happened completely out of the blue, but I'm seriously thinking about ____ it.",
+        "ipa": "/wel əˈpær.ənt.li maɪ ˈkʌm.pə.ni ɪz ˈəʊ.pən.ɪŋ ə njuː brɑːntʃ ænd ðeɪ ˈɒf.əd miː ə ˈmæn.ɪ.dʒə pəˈzɪʃ.ən ɪt ˈhæp.ənd kəmˈpliːt.li aʊt əv ðə bluː bʌt aɪm ˈsɪə.ri.əs.li ˈθɪŋ.kɪŋ əˈbaʊt ... ɪt/",
+        "vi": "À, nghe nói công ty tớ sắp mở một chi nhánh mới, và họ đề nghị tớ làm vị trí quản lý! Chuyện đến hoàn toàn bất ngờ, nhưng tớ đang nghiêm túc cân nhắc ____ nó.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ ở dạng V-ing sau 'thinking about'. Ví dụ: 'accepting' (nhận), 'taking'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That's wonderful to hear — what a day for both of us! Let's order a coffee to celebrate, and you can tell me every single detail.",
+        "ipa": "/ðæts ˈwʌn.də.fəl tə hɪə wɒt ə deɪ fɔːr bəʊθ əv ʌs lets ˈɔː.də ə ˈkɒf.i tə ˈsel.ɪ.breɪt ænd juː kæn tel miː ˈev.ri ˈsɪŋ.ɡəl ˈdiː.teɪl/",
+        "vi": "Tin đó tuyệt quá — đúng là ngày của cả hai đứa mình luôn! Mình gọi cà phê ăn mừng đi, rồi cậu kể tớ nghe từng chi tiết một nhé."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi nghe tin từ bạn bè, người nói tiếng Anh thường phản ứng rõ cảm xúc bằng các câu như 'No way!', 'That's amazing!', 'Oh no!'. Im lặng hoặc chỉ 'OK' bị xem là thờ ơ, thiếu quan tâm.",
+    "'Guess what!' là cách mở đầu rất phổ biến khi tám chuyện thân mật, nhưng đừng dùng trong email công việc hay với người lạ — nghe quá suồng sã.",
+    "Khi chia sẻ tin chưa chắc chắn, người bản xứ hay thêm 'apparently' hoặc 'I heard that...' để tránh bị xem là người tung tin đồn chắc nịch.",
+    "Sau khi nghe xong tin của bạn, lịch sự là hỏi lại 'And how about you?' hoặc 'What's new with you?' để cuộc trò chuyện được qua lại hai chiều."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'news' như danh từ đếm được: SAI 'a news' / 'many news'; ĐÚNG 'some news' / 'a piece of news'. Động từ luôn số ít: 'the news is...'.",
+    "Nhầm 'exciting' với 'excited': sự việc thì 'exciting' (an exciting trip), còn người thì 'excited' (I'm excited). Nói 'I'm exciting' là sai.",
+    "Sai giới từ sau 'congratulate/congratulations': phải là 'ON something', không phải 'for' — 'Congratulations ON your wedding'.",
+    "Phản ứng cụt lủn 'Good' hoặc im lặng khi nghe tin. Hãy dùng câu cảm thán + một câu hỏi tiếp nối để giữ hội thoại sống động."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể và phản ứng với tin tức như đang nói chuyện với bạn thân.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang ngồi tám chuyện với tôi ở quán cà phê. Hãy bắt đầu bằng việc hỏi tôi 'What's new with you?'. Sau mỗi câu trả lời của tôi, hãy: (1) phản ứng tự nhiên như một người bạn thật (dùng 'No way!', 'That's amazing!', 'Oh no!'...) và hỏi thêm chi tiết, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tự kể cho tôi một tin bất ngờ của bạn (tin vui hoặc tin buồn) để tôi tập phản ứng và chúc mừng. Hãy khuyến khích tôi dùng câu dài với 'because', 'such as', 'although'. Nói thân mật, gần gũi. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy thỉnh thoảng kể tin buồn để tôi tập an ủi bằng tiếng Anh.' khi bạn muốn luyện đa dạng cảm xúc.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê những câu cảm thán và trạng từ tự nhiên mà tôi nên dùng nhiều hơn.' để mở rộng vốn phản ứng."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được một tin mới bằng 'Guess what!' hoặc 'I've got some news...' mà không cần nhìn gợi ý.",
+    "Tôi phản ứng được với tin của bạn bằng câu cảm thán phù hợp và một câu hỏi tiếp nối.",
+    "Tôi dùng đúng 'news' (không đếm được), 'exciting/excited' và 'congratulations on' khi nói."
+  ]
+}

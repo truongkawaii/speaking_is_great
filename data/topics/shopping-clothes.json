@@ -1,0 +1,344 @@
+{
+  "id": "shopping-clothes",
+  "category": "daily-life",
+  "title": "Mua quần áo",
+  "titleEn": "Shopping for Clothes",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "opinions", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi giá, size và màu sắc của quần áo trong cửa hàng",
+    "Xin thử đồ và hỏi phòng thử đồ ở đâu",
+    "Nói món đồ vừa, chật hay rộng và xin đổi size khác",
+    "Đưa ra ý kiến đơn giản về món đồ (đẹp, hợp, đắt) một cách lịch sự"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "size",
+      "ipa": "/saɪz/",
+      "vi": "cỡ, kích cỡ (danh từ)",
+      "register": "neutral",
+      "example": "What size are you looking for?",
+      "exampleVi": "Bạn tìm cỡ nào ạ?",
+      "note": "Danh từ. Cỡ thường là S, M, L hoặc số (size 38). Hỏi cỡ: 'What size...?'."
+    },
+    {
+      "term": "to try on",
+      "ipa": "/traɪ ɒn/",
+      "vi": "mặc thử, thử đồ (động từ)",
+      "register": "neutral",
+      "example": "Can I try on this shirt?",
+      "exampleVi": "Tôi thử cái áo này được không?",
+      "note": "Cụm động từ. Có thể tách: 'try it on' (thử nó). Không nói 'try on it'.",
+      "synonyms": [
+        { "term": "to put on", "ipa": "/pʊt ɒn/", "register": "neutral", "nuanceVi": "Nghĩa là 'mặc vào' (để mặc thật, không nhất thiết để thử). 'try on' nhấn việc thử xem có vừa/đẹp không." }
+      ]
+    },
+    {
+      "term": "fitting room",
+      "ipa": "/ˈfɪt.ɪŋ ruːm/",
+      "vi": "phòng thử đồ (danh từ)",
+      "register": "neutral",
+      "example": "The fitting room is over there, on the left.",
+      "exampleVi": "Phòng thử đồ ở đằng kia, bên trái.",
+      "note": "Danh từ ghép. Là nơi bạn vào để mặc thử quần áo.",
+      "synonyms": [
+        { "term": "changing room", "ipa": "/ˈtʃeɪn.dʒɪŋ ruːm/", "register": "neutral", "nuanceVi": "Nghĩa y hệt 'fitting room'. Người Anh (Anh-Anh) hay dùng 'changing room' hơn. Dùng cái nào cũng được." }
+      ]
+    },
+    {
+      "term": "to fit",
+      "ipa": "/fɪt/",
+      "vi": "vừa (về kích cỡ) (động từ)",
+      "register": "neutral",
+      "example": "This dress fits me perfectly.",
+      "exampleVi": "Cái váy này vừa vặn với tôi.",
+      "note": "Động từ nói về CỠ có vừa không. Khác 'suit' (hợp về kiểu/màu): 'This color suits you' (màu này hợp bạn)."
+    },
+    {
+      "term": "tight",
+      "ipa": "/taɪt/",
+      "vi": "chật, bó (tính từ)",
+      "register": "neutral",
+      "example": "These jeans are a bit tight.",
+      "exampleVi": "Cái quần jean này hơi chật.",
+      "note": "Tính từ. Trái nghĩa là 'loose' (rộng). Thêm 'a bit' để nói 'hơi chật' cho nhẹ nhàng.",
+      "synonyms": [
+        { "term": "narrow", "ipa": "/ˈnær.əʊ/", "register": "neutral", "nuanceVi": "Nghĩa 'hẹp', thường nói về chiều ngang (giày chật bề ngang). 'tight' chung hơn, dùng cho quần áo bó sát." },
+        { "term": "snug", "ipa": "/snʌɡ/", "register": "casual", "nuanceVi": "Nghĩa 'ôm vừa khít' theo hướng tích cực, dễ chịu. Nhẹ hơn 'tight' (vốn có thể hơi khó chịu)." }
+      ]
+    },
+    {
+      "term": "loose",
+      "ipa": "/luːs/",
+      "vi": "rộng, lỏng (tính từ)",
+      "register": "neutral",
+      "example": "The shirt is too loose on me.",
+      "exampleVi": "Cái áo này rộng quá so với tôi.",
+      "note": "Tính từ. Đọc là /luːs/ (âm 's'), đừng nhầm với 'lose' /luːz/ (mất, thua).",
+      "synonyms": [
+        { "term": "baggy", "ipa": "/ˈbæɡ.i/", "register": "casual", "nuanceVi": "Nghĩa 'rộng thùng thình', đời thường. Thường nói về quần áo cố tình may rộng (baggy jeans)." }
+      ]
+    },
+    {
+      "term": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "vi": "đắt, mắc (tính từ)",
+      "register": "neutral",
+      "example": "This jacket is quite expensive.",
+      "exampleVi": "Cái áo khoác này khá đắt.",
+      "note": "Tính từ. Trái nghĩa là 'cheap' (rẻ). 'quite expensive' = khá đắt.",
+      "synonyms": [
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng hơn 'expensive', kiểu 'hơi chát'. Hợp lúc nói chuyện thân mật." },
+        { "term": "overpriced", "ipa": "/ˌəʊ.vəˈpraɪst/", "register": "neutral", "nuanceVi": "Nghĩa 'đắt quá mức so với giá trị thật'. Mang ý chê, khác 'expensive' (chỉ đơn thuần là giá cao)." }
+      ]
+    },
+    {
+      "term": "cheap",
+      "ipa": "/tʃiːp/",
+      "vi": "rẻ (tính từ)",
+      "register": "neutral",
+      "example": "These socks are really cheap.",
+      "exampleVi": "Mấy đôi tất này rẻ thật.",
+      "note": "Tính từ. 'cheap' đôi khi ám chỉ 'rẻ tiền, kém chất lượng'. Muốn khen 'giá tốt' thì nói 'affordable'.",
+      "synonyms": [
+        { "term": "affordable", "ipa": "/əˈfɔː.də.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá phải chăng, có thể mua được'. Tích cực hơn 'cheap' (vốn có thể nghĩa rẻ tiền)." },
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá hợp lý'. Dùng khi muốn khen giá vừa phải, xứng đáng." }
+      ]
+    },
+    {
+      "term": "to look for",
+      "ipa": "/lʊk fɔːr/",
+      "vi": "tìm, tìm kiếm (động từ)",
+      "register": "neutral",
+      "example": "I'm looking for a warm coat.",
+      "exampleVi": "Tôi đang tìm một cái áo khoác ấm.",
+      "note": "Cụm động từ, đi với danh từ. Khác 'find' (= tìm THẤY, đã ra kết quả)."
+    },
+    {
+      "term": "discount",
+      "ipa": "/ˈdɪs.kaʊnt/",
+      "vi": "giảm giá (danh từ)",
+      "register": "neutral",
+      "example": "Is there any discount on this item?",
+      "exampleVi": "Món này có giảm giá gì không?",
+      "note": "Danh từ. 'on sale' = đang được giảm giá. 'on sale' khác 'for sale' (= được bày bán)."
+    },
+    {
+      "term": "nicely",
+      "ipa": "/ˈnaɪs.li/",
+      "vi": "một cách đẹp, ổn (trạng từ)",
+      "register": "neutral",
+      "example": "This jacket fits you really nicely.",
+      "exampleVi": "Cái áo khoác này mặc lên bạn vừa đẹp lắm.",
+      "note": "Trạng từ, bổ nghĩa cho động từ (fits nicely = vừa đẹp). Lời khen nhẹ nhàng, tự nhiên.",
+      "synonyms": [
+        { "term": "perfectly", "ipa": "/ˈpɜː.fekt.li/", "register": "neutral", "nuanceVi": "Mạnh hơn 'nicely', nghĩa 'hoàn hảo, vừa khít'. Dùng khi muốn khen rất vừa." },
+        { "term": "well", "ipa": "/wel/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản nhất: 'It fits well' (vừa). An toàn cho người mới học." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm looking for [danh từ].",
+      "use": "Nói cho nhân viên biết bạn đang tìm món gì.",
+      "register": "neutral",
+      "examples": [
+        "I'm looking for a black T-shirt.",
+        "I'm looking for a pair of jeans, size medium."
+      ],
+      "explanationVi": "Câu mở đầu chuẩn khi vào cửa hàng. 'looking for' = đang tìm. Nói rõ món đồ + màu/cỡ để nhân viên giúp nhanh hơn."
+    },
+    {
+      "pattern": "Can I try [it/this] on?",
+      "use": "Xin phép mặc thử món đồ.",
+      "register": "neutral",
+      "examples": [
+        "Can I try this on?",
+        "Can I try these shoes on?"
+      ],
+      "explanationVi": "'try on' tách ra khi có 'it/this/these' ở giữa: 'try it on', KHÔNG nói 'try on it'. Đây là câu cốt lõi khi đi mua quần áo.",
+      "altOf": "asking-to-try"
+    },
+    {
+      "pattern": "Could I try [it/this] on, please?",
+      "use": "Xin thử đồ một cách lịch sự hơn.",
+      "register": "neutral",
+      "examples": [
+        "Could I try this jacket on, please?",
+        "Could I try these on, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?' một chút, hợp khi nói với người lạ. Thêm 'please' cho nhã nhặn.",
+      "altOf": "asking-to-try"
+    },
+    {
+      "pattern": "Do you have this in [cỡ / màu]?",
+      "use": "Hỏi xem có size khác hoặc màu khác không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have this in a larger size?",
+        "Do you have this in blue?"
+      ],
+      "explanationVi": "'in' đi trước cỡ hoặc màu. Câu rất hữu ích khi món bạn cầm không vừa hoặc bạn muốn màu khác."
+    },
+    {
+      "pattern": "This is too [tính từ].",
+      "use": "Nói món đồ có vấn đề (chật, rộng, đắt...).",
+      "register": "neutral",
+      "examples": [
+        "This is too tight.",
+        "This is too expensive for me."
+      ],
+      "explanationVi": "'too + tính từ' = quá... (theo hướng tiêu cực). Khác 'very' (rất, trung tính). 'too tight' = chật quá, không mặc được."
+    },
+    {
+      "pattern": "How much is [it / this]?",
+      "use": "Hỏi giá một món đồ.",
+      "register": "neutral",
+      "examples": [
+        "How much is this dress?",
+        "How much are these shoes?"
+      ],
+      "explanationVi": "Một món (số ít) dùng 'is'; nhiều món (số nhiều như shoes, jeans) dùng 'are'. Đây là câu hỏi giá cơ bản nhất."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "a bit", "ipa": "/ə bɪt/", "vi": "hơi, một chút", "when": "Làm lời chê nhẹ đi (hơi chật, hơi đắt) cho lịch sự.", "example": "It's a bit tight around the waist." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính nhẹ nhàng hoặc đổi ý.", "example": "Actually, I think I prefer the blue one." },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ", "when": "Khi chưa chắc chắn, muốn nói ý kiến cho mềm.", "example": "Maybe I'll take the larger size." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là...", "when": "Làm câu nói nhẹ nhàng, không quá đòi hỏi.", "example": "I'm just looking, thank you." },
+    { "term": "really", "ipa": "/ˈrɪə.li/", "vi": "thật sự, rất", "when": "Nhấn mạnh cảm xúc khi khen hoặc chê.", "example": "I really like this color." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vào một cửa hàng quần áo để tìm một chiếc áo khoác. Một nhân viên bán hàng tới giúp bạn chọn size, thử đồ và hỏi giá.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Hello, welcome! Are you looking for anything in particular today?",
+        "ipa": "/həˈləʊ ˈwel.kəm ɑː juː ˈlʊk.ɪŋ fɔːr ˈen.i.θɪŋ ɪn pəˈtɪk.jə.lər təˈdeɪ/",
+        "vi": "Xin chào, hân hạnh đón bạn! Hôm nay bạn có tìm món gì cụ thể không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi! Yes, I'm ____ for a warm jacket, although I'm not sure about the color yet.",
+        "ipa": "/haɪ jes aɪm ... fɔːr ə wɔːm ˈdʒæk.ɪt ɔːlˈðəʊ aɪm nɒt ʃʊər əˈbaʊt ðə ˈkʌl.ər jet/",
+        "vi": "Chào bạn! Vâng, tôi đang ____ một chiếc áo khoác ấm, mặc dù tôi vẫn chưa chắc về màu sắc.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "looking",
+            "explanationVi": "Dùng 'looking' trong cụm 'be looking for' (đang tìm). Xem mẫu câu 'I'm looking for...'. 'although' ở sau nghĩa là 'mặc dù'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. We have this dark blue jacket, which is very popular this season. What ____ are you?",
+        "ipa": "/ɒv kɔːs wiː hæv ðɪs dɑːk bluː ˈdʒæk.ɪt wɪtʃ ɪz ˈver.i ˈpɒp.jə.lər ðɪs ˈsiː.zən wɒt ... ɑː juː/",
+        "vi": "Tất nhiên rồi. Bên tôi có chiếc áo khoác xanh đậm này, loại đang rất được ưa chuộng mùa này. Bạn mặc ____ nào ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "size",
+            "explanationVi": "Hỏi cỡ người mặc dùng 'What size are you?'. 'size' là danh từ chỉ cỡ (S, M, L). 'which' ở câu trên là mệnh đề quan hệ mô tả chiếc áo."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I usually wear a medium. Could I ____ this on, please? The fitting room is over there, right?",
+        "ipa": "/aɪ ˈjuː.ʒu.ə.li weər ə ˈmiː.di.əm kʊd aɪ ... ðɪs ɒn pliːz ðə ˈfɪt.ɪŋ ruːm ɪz ˈəʊ.və ðeər raɪt/",
+        "vi": "Tôi thường mặc cỡ vừa (M). Tôi ____ thử cái này được không ạ? Phòng thử đồ ở đằng kia, đúng không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "try",
+            "explanationVi": "Cụm 'try on' tách ra khi có 'this': 'try this on'. Đầy đủ là 'Could I try this on, please?'. Xem mẫu câu xin thử đồ."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Yes, the fitting room is right behind you. Take your time, and let me know if you need a different size.",
+        "ipa": "/jes ðə ˈfɪt.ɪŋ ruːm ɪz raɪt bɪˈhaɪnd juː teɪk jɔː taɪm ænd let miː nəʊ ɪf juː niːd ə ˈdɪf.rənt saɪz/",
+        "vi": "Vâng, phòng thử đồ ngay sau lưng bạn. Bạn cứ thử thong thả, và báo tôi nếu cần size khác nhé."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hmm, this one is a bit ____, especially around the shoulders. Do you have it in a larger size?",
+        "ipa": "/hʌm ðɪs wʌn ɪz ə bɪt ... ɪˈspeʃ.əl.i əˈraʊnd ðə ˈʃəʊl.dəz duː juː hæv ɪt ɪn ə ˈlɑː.dʒə saɪz/",
+        "vi": "Hừm, cái này hơi ____, nhất là ở phần vai. Bạn có cỡ lớn hơn không?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tính từ mô tả cảm giác mặc: 'tight' (chật) hoặc 'loose' (rộng). Tùy bạn muốn nói."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Sure, here is a large. By the way, this jacket is on sale today, so it's not only warm but also quite ____.",
+        "ipa": "/ʃʊə hɪər ɪz ə lɑːdʒ baɪ ðə weɪ ðɪs ˈdʒæk.ɪt ɪz ɒn seɪl təˈdeɪ səʊ ɪts nɒt ˈəʊn.li wɔːm bʌt ˈɔːl.səʊ kwaɪt .../",
+        "vi": "Được chứ, đây là cỡ L. Tiện thể, áo này hôm nay đang giảm giá, nên nó không chỉ ấm mà còn khá ____ nữa.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "affordable",
+            "explanationVi": "Đang giảm giá nên giá phải chăng, dùng 'affordable' (giá phải chăng). KHÔNG dùng 'cheap' ở đây vì 'cheap' có thể ngụ ý 'rẻ tiền, kém chất lượng' — nhân viên bán hàng sẽ không tự chê hàng. Cấu trúc 'not only... but also...' = không chỉ... mà còn..."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "This size fits me ____! I really like it. How much is it with the discount?",
+        "ipa": "/ðɪs saɪz fɪts miː ... aɪ ˈrɪə.li laɪk ɪt haʊ mʌtʃ ɪz ɪt wɪð ðə ˈdɪs.kaʊnt/",
+        "vi": "Cỡ này mặc lên tôi ____! Tôi thích nó thật sự. Sau giảm giá thì bao nhiêu tiền ạ?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Trạng từ khen, ví dụ: 'nicely' (vừa đẹp) hoặc 'perfectly' (hoàn hảo)."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "It's twenty dollars off, so it comes to forty dollars. Would you like to take it?",
+        "ipa": "/ɪts ˈtwen.ti ˈdɒl.əz ɒf səʊ ɪt kʌmz tə ˈfɔː.ti ˈdɒl.əz wʊd juː laɪk tə teɪk ɪt/",
+        "vi": "Được giảm hai mươi đô, nên còn bốn mươi đô ạ. Bạn có muốn lấy nó không?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều cửa hàng phương Tây, nhân viên sẽ chủ động hỏi 'Can I help you?'. Nếu chỉ muốn xem, bạn lịch sự đáp 'I'm just looking, thank you'.",
+    "Cỡ quần áo khác nhau theo vùng: Mỹ, Anh và châu Âu đánh số khác nhau, nên thử đồ trước khi mua là rất quan trọng.",
+    "Mặc cả (trả giá) hiếm khi xảy ra ở cửa hàng/siêu thị phương Tây — giá đã niêm yết. Bạn chỉ nên hỏi về 'discount' hoặc 'sale' chứ không trả giá như ở chợ.",
+    "Hỏi về chính sách đổi trả ('What's your return policy?') là chuyện bình thường và được khuyến khích khi mua quần áo."
+  ],
+
+  "commonMistakes": [
+    "Nói 'try on it' là sai. Khi có 'it/this/these' phải tách ra: 'try it on', 'try this on'.",
+    "Nhầm 'fit' (vừa về cỡ) với 'suit' (hợp về kiểu/màu): 'It fits me' (vừa người) khác 'It suits me' (hợp với tôi).",
+    "Phát âm sai 'loose' /luːs/ thành 'lose' /luːz/ (mất, thua) — chú ý âm cuối 's' so với 'z'.",
+    "Dùng 'cheap' khi muốn khen giá tốt. 'cheap' có thể nghĩa 'rẻ tiền'; nên dùng 'affordable' hoặc 'reasonable'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mua quần áo như thật.",
+    "prompt": "Hãy đóng vai một nhân viên bán quần áo nói tiếng Anh ở trình độ đơn giản (A2). Tôi là khách vừa vào cửa hàng để tìm quần áo. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, dùng câu ngắn dễ hiểu, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ hết size, món đó đang giảm giá, hoặc món tôi muốn đã bán hết) để tôi tập xử lý. Hãy giúp tôi luyện hỏi giá, hỏi size, xin thử đồ và nói món đồ chật hay rộng. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy dùng thêm từ vựng về màu sắc và chất liệu (cotton, wool) để tôi học thêm.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi 3 câu mẫu để luyện lại.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được giá và size của một món đồ mà không nhìn gợi ý.",
+    "Tôi xin được thử đồ bằng 'Can I try this on?' hoặc 'Could I try this on, please?'.",
+    "Tôi nói được một món đồ chật, rộng hay đắt và xin đổi size khác."
+  ]
+}

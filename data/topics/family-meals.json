@@ -1,0 +1,364 @@
+{
+  "id": "family-meals",
+  "category": "family",
+  "title": "Bữa cơm gia đình",
+  "titleEn": "Family Meals",
+  "level": "A2",
+  "functions": ["small-talk", "suggesting", "requesting", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mời và gọi mọi người vào bàn ăn bằng câu đơn giản, tự nhiên",
+    "Nói thích/không thích món ăn và khen món ngon một cách lịch sự",
+    "Đề nghị giúp dọn bàn, lấy thêm đồ ăn và xin món bằng mẫu câu cơ bản",
+    "Dùng vài cấu trúc TOEIC dễ (such as, because, although) khi nói về bữa ăn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "meal",
+      "ipa": "/miːl/",
+      "vi": "bữa ăn (danh từ)",
+      "register": "neutral",
+      "example": "Dinner is my favourite meal of the day.",
+      "exampleVi": "Bữa tối là bữa ăn tôi thích nhất trong ngày.",
+      "note": "Danh từ chỉ một bữa ăn nói chung (breakfast, lunch, dinner). Khác 'dish' (món ăn cụ thể) và 'food' (thức ăn nói chung).",
+      "synonyms": [
+        { "term": "dish", "ipa": "/dɪʃ/", "register": "neutral", "nuanceVi": "Chỉ MỘT món ăn cụ thể trên bàn (vd 'a chicken dish'), không phải cả bữa ăn." },
+        { "term": "course", "ipa": "/kɔːrs/", "register": "formal", "nuanceVi": "Một 'phần' trong bữa ăn nhiều phần (món khai vị, món chính, tráng miệng). Trang trọng, hay gặp ở nhà hàng." }
+      ]
+    },
+    {
+      "term": "to set the table",
+      "ipa": "/tə set ðə ˈteɪ.bəl/",
+      "vi": "dọn/bày bàn ăn (cụm động từ)",
+      "register": "neutral",
+      "example": "Can you set the table before dinner?",
+      "exampleVi": "Con dọn bàn ăn trước bữa tối nhé?",
+      "note": "Nghĩa là bày bát đĩa, đũa, ly ra bàn. Ngược lại là 'clear the table' (dọn bàn sau khi ăn xong).",
+      "synonyms": [
+        { "term": "to lay the table", "ipa": "/tə leɪ ðə ˈteɪ.bəl/", "register": "neutral", "nuanceVi": "Nghĩa y hệt 'set the table'. Người Anh (Anh-Anh) hay dùng 'lay the table' hơn." }
+      ]
+    },
+    {
+      "term": "delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "vi": "ngon, ngon miệng (tính từ)",
+      "register": "neutral",
+      "example": "This soup is really delicious.",
+      "exampleVi": "Món súp này thật sự rất ngon.",
+      "note": "Tính từ khen món ăn ngon. Bản thân nó đã rất mạnh, KHÔNG nói 'very delicious' nghe thừa; dùng 'really delicious' tự nhiên hơn.",
+      "synonyms": [
+        { "term": "tasty", "ipa": "/ˈteɪ.sti/", "register": "casual", "nuanceVi": "Đời thường, nhẹ hơn 'delicious'. Khen món ăn ngon miệng trong bữa cơm hằng ngày." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất thân mật, dễ thương, hay dùng với trẻ con hoặc trong nhà. Tránh dùng ở nơi trang trọng." }
+      ]
+    },
+    {
+      "term": "favourite",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "vi": "yêu thích nhất (tính từ)",
+      "register": "neutral",
+      "example": "Fried rice is my favourite dish.",
+      "exampleVi": "Cơm rang là món tôi thích nhất.",
+      "note": "Tính từ, đã mang nghĩa 'nhất' rồi nên KHÔNG nói 'most favourite'. Viết kiểu Anh-Anh là 'favourite', Anh-Mỹ là 'favorite'.",
+      "synonyms": [
+        { "term": "preferred", "ipa": "/prɪˈfɜːrd/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'được ưu tiên chọn'. Hay gặp trong văn viết hơn là bữa cơm gia đình." }
+      ]
+    },
+    {
+      "term": "to taste",
+      "ipa": "/tə teɪst/",
+      "vi": "nếm; có vị (động từ)",
+      "register": "neutral",
+      "example": "Can I taste the soup?",
+      "exampleVi": "Cho con nếm thử món súp được không?",
+      "note": "Vừa nghĩa 'nếm thử' (Can I taste it?), vừa nghĩa 'có vị' (It tastes sweet). Khi nói có vị thì dùng 'taste + tính từ', không thêm 'like' nếu sau là tính từ.",
+      "synonyms": [
+        { "term": "to try", "ipa": "/tə traɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'thử' cả món ăn lẫn việc khác. 'Try this cake!' rất tự nhiên trong bữa ăn." }
+      ]
+    },
+    {
+      "term": "to pass",
+      "ipa": "/tə pɑːs/",
+      "vi": "chuyền, đưa (đồ trên bàn) (động từ)",
+      "register": "neutral",
+      "example": "Could you pass me the salt, please?",
+      "exampleVi": "Bạn đưa giúp tôi lọ muối với?",
+      "note": "Dùng khi xin ai đưa đồ ăn/gia vị ở xa trên bàn. Mẫu cố định: 'pass me the...' hoặc 'pass the... to me'.",
+      "synonyms": [
+        { "term": "to hand", "ipa": "/tə hænd/", "register": "neutral", "nuanceVi": "Cũng nghĩa 'đưa tận tay', nhưng 'pass' tự nhiên hơn khi đồ ở xa trên bàn ăn." }
+      ]
+    },
+    {
+      "term": "full",
+      "ipa": "/fʊl/",
+      "vi": "no (đã ăn no) (tính từ)",
+      "register": "neutral",
+      "example": "No more for me, thanks. I'm full.",
+      "exampleVi": "Tôi không ăn thêm nữa đâu, cảm ơn. Tôi no rồi.",
+      "note": "Tính từ chỉ trạng thái no bụng. Nói 'I'm full' để lịch sự từ chối ăn thêm. Đừng nói 'I'm fed' (sai nghĩa).",
+      "synonyms": [
+        { "term": "stuffed", "ipa": "/stʌft/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'no căng bụng', mạnh hơn 'full'. Thân mật, hợp trong nhà." }
+      ]
+    },
+    {
+      "term": "homemade",
+      "ipa": "/ˌhəʊmˈmeɪd/",
+      "vi": "làm tại nhà, nhà làm (tính từ)",
+      "register": "neutral",
+      "example": "I love my mum's homemade noodles.",
+      "exampleVi": "Tôi thích món mì mẹ tôi tự làm.",
+      "note": "Tính từ, nhấn ý 'tự nấu ở nhà' chứ không mua sẵn. Trái nghĩa: 'store-bought' (mua ngoài tiệm).",
+      "synonyms": [
+        { "term": "home-cooked", "ipa": "/ˌhəʊmˈkʊkt/", "register": "neutral", "nuanceVi": "Gần như y hệt, nhưng nhấn vào việc 'được NẤU ở nhà' (món nóng), vd 'a home-cooked meal'." }
+      ]
+    },
+    {
+      "term": "leftovers",
+      "ipa": "/ˈleft.əʊ.vəz/",
+      "vi": "đồ ăn thừa (còn lại từ bữa trước) (danh từ)",
+      "register": "neutral",
+      "example": "We can eat the leftovers tomorrow.",
+      "exampleVi": "Mai mình có thể ăn đồ thừa hôm nay.",
+      "note": "Danh từ, thường dùng số nhiều. Là đồ ăn còn lại sau bữa, để dành bữa sau, không có nghĩa xấu."
+    },
+    {
+      "term": "to help out",
+      "ipa": "/tə help aʊt/",
+      "vi": "phụ giúp, giúp một tay (cụm động từ)",
+      "register": "casual",
+      "example": "I always help out in the kitchen.",
+      "exampleVi": "Tôi luôn phụ giúp trong bếp.",
+      "note": "Cụm động từ thân thiện, nghĩa 'giúp một tay việc chung'. Có thể nói 'help out with the dishes' (phụ rửa bát)."
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "We finished dinner quickly because everyone was hungry.",
+      "exampleVi": "Cả nhà ăn tối nhanh vì ai cũng đói.",
+      "note": "Trạng từ chỉ cách thức, thường đứng cuối câu hoặc sau động từ.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ, đời thường: 'Don't eat so fast.' Nhẹ và ngắn gọn hơn 'quickly'." },
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, ít dùng trong bữa cơm. Hợp văn viết hoặc nói về quá trình thay đổi." }
+      ]
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ər/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "We always have dinner together on Sundays.",
+      "exampleVi": "Chủ nhật nào cả nhà cũng ăn tối cùng nhau.",
+      "note": "Trạng từ, thường đứng cuối câu. Là từ khóa quan trọng khi nói về bữa cơm gia đình quây quần."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Dinner is ready! Come and [động từ].",
+      "use": "Gọi mọi người vào bàn ăn.",
+      "register": "casual",
+      "examples": [
+        "Dinner is ready! Come and eat.",
+        "Lunch is ready! Come and sit down."
+      ],
+      "explanationVi": "Câu gọi vào ăn quen thuộc trong nhà. 'Come and + động từ' nghe thân mật, ấm áp; đây là cách nói rất tự nhiên của người bản xứ."
+    },
+    {
+      "pattern": "Could you pass me the [danh từ], please?",
+      "use": "Lịch sự nhờ ai đưa đồ ăn/gia vị ở xa trên bàn.",
+      "register": "neutral",
+      "examples": [
+        "Could you pass me the rice, please?",
+        "Could you pass me the sauce, please?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Đây là mẫu câu chuẩn khi đồ ăn ở xa và bạn không tự với tới được.",
+      "altOf": "asking-at-table"
+    },
+    {
+      "pattern": "Can I have some more [danh từ], please?",
+      "use": "Xin thêm một món ăn nữa.",
+      "register": "neutral",
+      "examples": [
+        "Can I have some more soup, please?",
+        "Can I have some more vegetables, please?"
+      ],
+      "explanationVi": "Dùng 'some more' (thêm một ít nữa) với danh từ không đếm được hoặc số nhiều. Thêm 'please' để nghe lịch sự.",
+      "altOf": "asking-at-table"
+    },
+    {
+      "pattern": "This [danh từ] is really [tính từ]!",
+      "use": "Khen món ăn ngon.",
+      "register": "neutral",
+      "examples": [
+        "This chicken is really delicious!",
+        "This cake is really tasty!"
+      ],
+      "explanationVi": "Mẫu khen đơn giản mà tự nhiên. Dùng 'really' thay cho 'very' khi khen, nghe chân thành hơn. Khen món ăn là phép lịch sự rất được coi trọng."
+    },
+    {
+      "pattern": "I like [danh từ] because [mệnh đề].",
+      "use": "Nói mình thích món gì và nêu lý do.",
+      "register": "neutral",
+      "examples": [
+        "I like fried rice because it's quick and easy.",
+        "I like my mum's cooking because it tastes like home."
+      ],
+      "explanationVi": "'because' nối lý do, giúp câu dài và rõ ràng hơn thay vì chỉ nói 'I like it'. Đây là cấu trúc TOEIC cơ bản rất hữu ích ở trình độ A2."
+    },
+    {
+      "pattern": "No more for me, thanks. I'm [tính từ].",
+      "use": "Lịch sự từ chối khi không muốn ăn thêm.",
+      "register": "casual",
+      "examples": [
+        "No more for me, thanks. I'm full.",
+        "No more for me, thanks. I'm okay."
+      ],
+      "explanationVi": "Cách từ chối nhẹ nhàng, không bị coi là chê món ăn. Luôn kèm 'thanks' để giữ lịch sự khi từ chối."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đính chính nhẹ hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I'm not very hungry tonight." },
+    { "term": "really", "ipa": "/ˈrɪə.li/", "vi": "thật sự, rất", "when": "Khi muốn nhấn mạnh lời khen món ăn cho chân thành.", "example": "This soup is really good!" },
+    { "term": "of course", "ipa": "/ɒv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Khi vui vẻ đồng ý giúp đỡ hoặc đưa đồ cho ai đó.", "example": "Of course, here you are." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi/nói thêm một ý ngoài lề trong bữa ăn.", "example": "By the way, who cooked this evening?" },
+    { "term": "thanks anyway", "ipa": "/θæŋks ˈen.i.weɪ/", "vi": "dù sao cũng cảm ơn", "when": "Khi lịch sự từ chối lời mời ăn thêm nhưng vẫn cảm ơn.", "example": "I'm full, but thanks anyway." }
+  ],
+
+  "dialogue": {
+    "context": "Cả gia đình quây quần vào bữa tối ở nhà. Mẹ gọi mọi người vào bàn ăn, mọi người khen món ăn, xin thêm đồ và phụ dọn dẹp.",
+    "lines": [
+      {
+        "speaker": "Mẹ",
+        "text": "Dinner is ready, everyone! Come and sit down, because the food is still hot.",
+        "ipa": "/ˈdɪn.ər ɪz ˈred.i ˈev.ri.wʌn kʌm ænd sɪt daʊn bɪˈkɒz ðə fuːd ɪz stɪl hɒt/",
+        "vi": "Cơm xong rồi, cả nhà ơi! Vào ngồi đi, vì đồ ăn vẫn còn nóng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It smells wonderful! By the way, can I ____ you set the table?",
+        "ipa": "/ɪt smelz ˈwʌn.də.fəl baɪ ðə weɪ kæn aɪ help juː set ðə ˈteɪ.bəl/",
+        "vi": "Thơm quá đi mất! Tiện thể, con ____ mẹ dọn bàn nhé?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "help",
+            "explanationVi": "Dùng động từ 'help' (giúp). Sau 'help' có thể đi thẳng tân ngữ + động từ: 'help you set the table' (giúp bạn dọn bàn). Xem từ vựng 'to help out'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Yes, please. Tonight we have your favourite dishes, such as fried rice and grilled chicken.",
+        "ipa": "/jes pliːz təˈnaɪt wiː hæv jɔːr ˈfeɪ.vər.ɪt ˈdɪʃ.ɪz sʌtʃ æz fraɪd raɪs ænd ɡrɪld ˈtʃɪk.ɪn/",
+        "vi": "Có chứ, con giúp đi. Tối nay nhà mình có mấy món con thích nhất, chẳng hạn như cơm rang và gà nướng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "This chicken is really ____! I like it ____ it tastes just like home.",
+        "ipa": "/ðɪs ˈtʃɪk.ɪn ɪz ˈrɪə.li dɪˈlɪʃ.əs aɪ laɪk ɪt bɪˈkɒz ɪt teɪsts dʒʌst laɪk həʊm/",
+        "vi": "Món gà này ngon thật đấy ____! Con thích nó ____ nó có vị y như ở nhà mình.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một tính từ khen món ăn ngon. Ví dụ: 'delicious', 'tasty'."
+          },
+          {
+            "type": "knowledge",
+            "answer": "because",
+            "explanationVi": "Dùng 'because' để nối lý do mình thích món ăn. Xem mẫu câu 'I like ... because ...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Em gái",
+        "text": "Could you ____ me the rice, please? I can't reach it from here.",
+        "ipa": "/kʊd juː pɑːs miː ðə raɪs pliːz aɪ kɑːnt riːtʃ ɪt frɒm hɪər/",
+        "vi": "Anh/chị ____ giúp em bát cơm với? Em không với tới được từ đây.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "pass",
+            "explanationVi": "Dùng động từ 'pass' (chuyền, đưa) khi xin ai đưa đồ ăn ở xa trên bàn. Mẫu câu: 'Could you pass me the ...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course, here you are. Mum, can I have some more soup, please? Although I'm quite full, it's too good to stop.",
+        "ipa": "/ɒv kɔːrs hɪər juː ɑːr mʌm kæn aɪ hæv sʌm mɔːr suːp pliːz ɔːlˈðəʊ aɪm kwaɪt fʊl ɪts tuː ɡʊd tə stɒp/",
+        "vi": "Tất nhiên rồi, của em đây. Mẹ ơi, con xin thêm một ít súp nữa được không? Mặc dù con cũng khá no rồi, nhưng món này ngon quá không dừng được."
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Here you go. I'm glad you like my homemade soup. We can keep the ____ for tomorrow's lunch.",
+        "ipa": "/hɪər juː ɡəʊ aɪm ɡlæd juː laɪk maɪ ˌhəʊmˈmeɪd suːp wiː kæn kiːp ðə ˈleft.əʊ.vəz fɔːr təˈmɒr.əʊz lʌntʃ/",
+        "vi": "Đây con. Mẹ vui vì con thích món súp mẹ tự nấu. Mình có thể giữ lại ____ cho bữa trưa mai.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "leftovers",
+            "explanationVi": "Dùng 'leftovers' (đồ ăn thừa để dành bữa sau). Danh từ này thường dùng ở số nhiều. Xem phần từ vựng."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a great idea. After we eat, I'll help out and clear the table ____, so you can rest.",
+        "ipa": "/ðæts ə ɡreɪt aɪˈdɪə ˈɑːf.tər wiː iːt aɪl help aʊt ænd klɪər ðə ˈteɪ.bəl ˈkwɪk.li səʊ juː kæn rest/",
+        "vi": "Ý hay đó ạ. Ăn xong con sẽ phụ dọn bàn ____ để mẹ nghỉ một chút.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "quickly",
+            "explanationVi": "Dùng trạng từ 'quickly' (một cách nhanh chóng) để mô tả cách dọn bàn. Trạng từ chỉ cách thức thường đứng cuối câu. Xem từ vựng 'quickly'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Thank you, sweetheart. It's so nice when we can all sit and eat ____.",
+        "ipa": "/θæŋk juː ˈswiːt.hɑːt ɪts səʊ naɪs wen wiː kæn ɔːl sɪt ænd iːt təˈɡeð.ər/",
+        "vi": "Cảm ơn con yêu. Thật vui khi cả nhà mình được ngồi ăn ____.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "together",
+            "explanationVi": "Dùng trạng từ 'together' (cùng nhau) ở cuối câu. Đây là từ khóa của chủ đề bữa cơm gia đình quây quần. Xem từ vựng 'together'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, mọi người thường đợi cho đến khi tất cả đã ngồi vào bàn và món được dọn ra mới bắt đầu ăn, thay vì ăn ngay khi có đồ.",
+    "Khen món ăn ('This is delicious!') là phép lịch sự được coi trọng, đặc biệt khi ăn ở nhà người khác. Người nấu rất vui khi nghe lời khen chân thành.",
+    "Khi no, hãy nói 'I'm full, thank you' để từ chối ăn thêm. Nói thẳng như vậy là bình thường và lịch sự, không bị coi là chê.",
+    "Phụ dọn bàn hoặc rửa bát ('Let me help clear the table') sau bữa ăn được xem là cử chỉ lịch sự, nhất là khi bạn là khách."
+  ],
+
+  "commonMistakes": [
+    "Nói 'very delicious' hoặc 'most favourite' — hai từ này đã mang nghĩa mạnh/nghĩa nhất sẵn rồi, chỉ cần 'delicious' và 'favourite'.",
+    "Dùng 'I want...' khi xin đồ ăn nghe cộc. Hãy nói 'Could you pass me...?' hoặc 'Can I have... please?' cho lịch sự.",
+    "Nhầm 'meal' (bữa ăn) với 'dish' (món ăn) hay 'food' (thức ăn) — ba từ khác nghĩa nhau.",
+    "Quên 'please' hoặc 'thanks' khi xin/từ chối đồ ăn, làm câu nói nghe thiếu lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói trong bữa cơm gia đình như thật.",
+    "prompt": "Hãy đóng vai một thành viên trong gia đình (mẹ hoặc anh/chị) đang ăn tối cùng tôi bằng tiếng Anh. Hãy bắt đầu bằng cách gọi tôi vào bàn ăn. Sau mỗi câu trả lời của tôi, hãy: (1) trả lời tự nhiên như một người trong nhà, (2) nếu tôi sai ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống nhỏ (ví dụ mời tôi ăn thêm, nhờ tôi đưa đồ, hỏi tôi thích món nào) để tôi tập phản xạ. Hãy dùng câu đơn giản phù hợp trình độ A2 và khuyến khích tôi dùng 'because', 'such as'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi mô tả một món ăn gia đình mà tôi thích nhất.' để tập nói dài hơn.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mời/gọi được mọi người vào bàn ăn bằng câu tự nhiên, không nhìn gợi ý.",
+    "Tôi khen được món ăn và nói được mình thích món gì kèm lý do với 'because'.",
+    "Tôi dùng được 'Could you pass me...?' và 'Can I have some more...?' để xin đồ ăn lịch sự."
+  ]
+}

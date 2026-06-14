@@ -1,0 +1,339 @@
+{
+  "id": "resigning-politely",
+  "category": "work",
+  "title": "Xin nghỉ việc khéo léo",
+  "titleEn": "Resigning Politely",
+  "level": "C1",
+  "functions": ["opinions", "requesting", "negotiating", "refusing"],
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Thông báo quyết định nghỉ việc một cách trang trọng, dứt khoát nhưng vẫn giữ thiện cảm",
+    "Bày tỏ lòng biết ơn và lý do ra đi một cách tế nhị, không đổ lỗi cho ai",
+    "Thương lượng thời gian báo trước (notice period) và bàn giao công việc một cách chuyên nghiệp",
+    "Từ chối khéo léo lời đề nghị giữ lại (counter-offer) mà không làm sứt mẻ quan hệ",
+    "Sử dụng ngữ pháp và idiom cấp C1 (although/while nhượng bộ, despite, in order to, mệnh đề quan hệ) để diễn đạt sắc thái tinh tế"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "resignation",
+      "ipa": "/ˌrez.ɪɡˈneɪ.ʃən/",
+      "vi": "việc từ chức / đơn xin nghỉ việc (danh từ)",
+      "register": "formal",
+      "example": "I'd like to hand in my resignation, effective at the end of the month.",
+      "exampleVi": "Tôi muốn nộp đơn xin nghỉ việc, có hiệu lực vào cuối tháng.",
+      "note": "Danh từ trang trọng. Cụm chuẩn: 'to hand in / submit / tender one's resignation'. Động từ là 'to resign' /rɪˈzaɪn/ (chữ 'g' câm).",
+      "synonyms": [
+        { "term": "notice", "ipa": "/ˈnəʊ.tɪs/", "register": "neutral", "nuanceVi": "Trung tính, đời thường hơn: 'to hand in / give one's notice' = báo nghỉ. Nhấn vào việc 'thông báo trước', ít trịnh trọng hơn 'resignation'." },
+        { "term": "departure", "ipa": "/dɪˈpɑː.tʃər/", "register": "formal", "nuanceVi": "Nghĩa 'sự ra đi/rời đi', uyển ngữ nhã nhặn để chỉ việc nghỉ. Nghe nhẹ nhàng, tránh sự dứt khoát của 'resignation'." }
+      ]
+    },
+    {
+      "term": "to step down",
+      "ipa": "/tə step daʊn/",
+      "vi": "rời khỏi vị trí / từ nhiệm (cụm động từ)",
+      "register": "neutral",
+      "example": "After much thought, I've decided to step down from my role as team lead.",
+      "exampleVi": "Sau nhiều cân nhắc, tôi đã quyết định rời khỏi vị trí trưởng nhóm.",
+      "note": "Cụm động từ, đặc biệt hay dùng khi rời một vị trí có chức vụ/trách nhiệm. Đi với 'from + vị trí'.",
+      "synonyms": [
+        { "term": "to move on", "ipa": "/tə muːv ɒn/", "register": "neutral", "nuanceVi": "Uyển ngữ tích cực: 'tôi muốn tiến tới chặng mới'. Nhấn vào tương lai, tránh nói thẳng là 'bỏ việc'." },
+        { "term": "to quit", "ipa": "/tə kwɪt/", "register": "casual", "nuanceVi": "Thẳng và đời thường, đôi khi nghe hơi đột ngột/tiêu cực. Tránh dùng trong thư hay lời nói trang trọng với sếp." },
+        { "term": "to vacate", "ipa": "/vəˈkeɪt/", "register": "formal", "nuanceVi": "Rất trang trọng, gần như văn bản: 'to vacate a position'. Nhấn việc 'để trống chỗ' cho người khác." }
+      ]
+    },
+    {
+      "term": "notice period",
+      "ipa": "/ˈnəʊ.tɪs ˈpɪə.ri.əd/",
+      "vi": "thời gian báo trước (trước khi nghỉ) (danh từ)",
+      "register": "neutral",
+      "example": "My contract requires a one-month notice period.",
+      "exampleVi": "Hợp đồng của tôi yêu cầu báo trước một tháng.",
+      "note": "Danh từ ghép. Khoảng thời gian bạn vẫn phải làm việc sau khi báo nghỉ, thường 2 tuần đến 1 tháng. Cụm: 'to serve / work one's notice period'."
+    },
+    {
+      "term": "to hand over",
+      "ipa": "/tə hænd ˈəʊ.vər/",
+      "vi": "bàn giao (công việc, tài liệu) (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll make sure to hand over all my projects before I leave.",
+      "exampleVi": "Tôi sẽ đảm bảo bàn giao toàn bộ dự án trước khi rời đi.",
+      "note": "Cụm động từ. Danh từ là 'handover' (viết liền): 'a smooth handover'. Đi với 'hand something over to somebody'.",
+      "synonyms": [
+        { "term": "to transition", "ipa": "/trænˈzɪʃ.ən/", "register": "formal", "nuanceVi": "Nhấn vào quá trình chuyển giao trơn tru, có lộ trình: 'to transition my responsibilities'. Nghe chuyên nghiệp, dài hơi hơn 'hand over'." },
+        { "term": "to delegate", "ipa": "/ˈdel.ɪ.ɡeɪt/", "register": "formal", "nuanceVi": "Nhấn việc 'phân/giao bớt việc cho người khác'. Khác sắc thái: không hẳn là bàn giao hết, mà phân công lại." }
+      ]
+    },
+    {
+      "term": "grateful",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "vi": "biết ơn (tính từ)",
+      "register": "neutral",
+      "example": "I'm genuinely grateful for all the opportunities I've been given here.",
+      "exampleVi": "Tôi thực sự biết ơn mọi cơ hội mình đã có ở đây.",
+      "note": "Tính từ, đi với 'grateful for something' hoặc 'grateful to somebody'. Cốt lõi để giữ thiện cảm khi nghỉ.",
+      "synonyms": [
+        { "term": "thankful", "ipa": "/ˈθæŋk.fəl/", "register": "neutral", "nuanceVi": "Gần nghĩa nhưng thiên về cảm xúc nhẹ nhõm/may mắn hơn là mang ơn. 'grateful' nhấn lòng biết ơn sâu sắc hơn." },
+        { "term": "indebted", "ipa": "/ɪnˈdet.ɪd/", "register": "formal", "nuanceVi": "Trang trọng và mạnh: 'mang nợ ân tình'. Dùng khi muốn bày tỏ biết ơn rất sâu, hơi văn vẻ." },
+        { "term": "appreciative", "ipa": "/əˈpriː.ʃə.tɪv/", "register": "formal", "nuanceVi": "Nhấn sự 'trân trọng, ghi nhận giá trị'. Hay đi với 'of': 'appreciative of your support'." }
+      ]
+    },
+    {
+      "term": "to weigh up",
+      "ipa": "/tə weɪ ʌp/",
+      "vi": "cân nhắc, đắn đo (cụm động từ)",
+      "register": "neutral",
+      "example": "I weighed up all my options carefully before making this decision.",
+      "exampleVi": "Tôi đã cân nhắc kỹ mọi lựa chọn trước khi đưa ra quyết định này.",
+      "note": "Cụm động từ (Anh-Anh). Đi với 'weigh up the pros and cons'. Nhấn việc đắn đo giữa các phương án.",
+      "synonyms": [
+        { "term": "to consider", "ipa": "/kənˈsɪd.ər/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính nhất. 'weigh up' nhấn việc so sánh hai mặt lợi-hại hơn, còn 'consider' chung chung hơn." },
+        { "term": "to deliberate", "ipa": "/dɪˈlɪb.ə.reɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn việc 'suy xét cẩn trọng, kéo dài'. Hay dùng cho quyết định hệ trọng." }
+      ]
+    },
+    {
+      "term": "counter-offer",
+      "ipa": "/ˈkaʊn.tər ˌɒf.ər/",
+      "vi": "lời đề nghị giữ lại (tăng lương/thăng chức để níu kéo) (danh từ)",
+      "register": "neutral",
+      "example": "They made a generous counter-offer, but my mind was already made up.",
+      "exampleVi": "Họ đưa ra một lời đề nghị giữ lại hậu hĩnh, nhưng tôi đã quyết tâm rồi.",
+      "note": "Danh từ. Khi bạn xin nghỉ, công ty có thể đưa counter-offer (tăng lương, đề bạt) để giữ bạn lại."
+    },
+    {
+      "term": "rewarding",
+      "ipa": "/rɪˈwɔː.dɪŋ/",
+      "vi": "đáng giá, mang lại nhiều giá trị (tính từ)",
+      "register": "neutral",
+      "example": "Working here has been an incredibly rewarding experience.",
+      "exampleVi": "Làm việc ở đây là một trải nghiệm vô cùng đáng giá.",
+      "note": "Tính từ mang nghĩa TÍCH CỰC: việc khiến ta thấy thỏa mãn về tinh thần (không nhất thiết về tiền). Dùng để khen môi trường cũ khi nghỉ.",
+      "synonyms": [
+        { "term": "fulfilling", "ipa": "/fʊlˈfɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'mãn nguyện, đúng với khát vọng bản thân'. Sâu sắc về cảm xúc hơn 'rewarding'." },
+        { "term": "enriching", "ipa": "/ɪnˈrɪtʃ.ɪŋ/", "register": "formal", "nuanceVi": "Nhấn việc 'làm bản thân thêm phong phú, trưởng thành'. Hơi văn vẻ, hợp khi nói về trải nghiệm học hỏi." }
+      ]
+    },
+    {
+      "term": "amicably",
+      "ipa": "/ˈæm.ɪ.kə.bli/",
+      "vi": "một cách hòa nhã, êm đẹp (trạng từ)",
+      "register": "formal",
+      "example": "I'd really like for us to part ways amicably.",
+      "exampleVi": "Tôi thực sự mong chúng ta chia tay trong êm đẹp.",
+      "note": "Trạng từ. Đi với 'to part ways amicably' (chia tay êm đẹp). Tạo ấn tượng văn minh, giữ quan hệ tốt.",
+      "synonyms": [
+        { "term": "on good terms", "ipa": "/ɒn ɡʊd tɜːmz/", "register": "neutral", "nuanceVi": "Cụm thông dụng, đời thường hơn: 'to leave on good terms' = ra đi trong hòa khí. Dễ dùng khi nói chuyện." },
+        { "term": "gracefully", "ipa": "/ˈɡreɪs.fəl.i/", "register": "formal", "nuanceVi": "Nhấn sự 'duyên dáng, đẹp đẽ, không gây ồn ào'. Thiên về phong thái của riêng bạn hơn là quan hệ hai bên." }
+      ]
+    },
+    {
+      "term": "wholeheartedly",
+      "ipa": "/ˌhəʊlˈhɑː.tɪd.li/",
+      "vi": "hết lòng, toàn tâm toàn ý (trạng từ)",
+      "register": "formal",
+      "example": "I'll wholeheartedly support whoever takes over my role.",
+      "exampleVi": "Tôi sẽ hết lòng hỗ trợ bất cứ ai tiếp quản vị trí của tôi.",
+      "note": "Trạng từ mạnh, thể hiện sự cam kết chân thành. Tạo thiện cảm khi cam kết bàn giao tử tế.",
+      "synonyms": [
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "formal", "nuanceVi": "Nhấn sự 'chân thành, thật lòng'. Nhẹ hơn 'wholeheartedly' (vốn nhấn cả sự dốc sức trọn vẹn)." },
+        { "term": "earnestly", "ipa": "/ˈɜː.nɪst.li/", "register": "formal", "nuanceVi": "Nhấn sự 'nghiêm túc, tha thiết'. Hơi trịnh trọng, văn viết." }
+      ]
+    },
+    {
+      "term": "to pursue",
+      "ipa": "/tə pəˈsjuː/",
+      "vi": "theo đuổi (mục tiêu, cơ hội) (động từ)",
+      "register": "formal",
+      "example": "I've decided to pursue an opportunity that aligns more closely with my long-term goals.",
+      "exampleVi": "Tôi đã quyết định theo đuổi một cơ hội phù hợp hơn với mục tiêu dài hạn của mình.",
+      "note": "Động từ trang trọng. Lý do nghỉ việc 'an toàn' nhất: 'to pursue a new opportunity/challenge' — tích cực, không đổ lỗi.",
+      "synonyms": [
+        { "term": "to chase", "ipa": "/tʃeɪs/", "register": "casual", "nuanceVi": "Đời thường, hơi mạnh/gấp gáp: 'chase a dream'. Kém trang trọng, không hợp ngữ cảnh nói với sếp." },
+        { "term": "to explore", "ipa": "/ɪkˈsplɔːr/", "register": "neutral", "nuanceVi": "Nhẹ nhàng hơn, nhấn 'tìm hiểu, khám phá': 'explore new options'. Bớt dứt khoát hơn 'pursue'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "After much thought, I've decided to [V], and I wanted to tell you in person.",
+      "use": "Mở đầu thông báo nghỉ việc một cách trang trọng, cho thấy đã suy nghĩ kỹ.",
+      "register": "formal",
+      "examples": [
+        "After much thought, I've decided to move on, and I wanted to tell you in person before anything is put in writing."
+      ],
+      "explanationVi": "'After much thought' (sau nhiều cân nhắc) báo hiệu đây không phải quyết định bốc đồng. 'in person' nhấn sự tôn trọng — báo trực tiếp với sếp trước khi gửi văn bản.",
+      "altOf": "announcing-resignation"
+    },
+    {
+      "pattern": "I'm afraid I've come to the difficult decision to [V].",
+      "use": "Báo tin nghỉ việc theo cách nhẹ nhàng, tế nhị.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid I've come to the difficult decision to hand in my notice."
+      ],
+      "explanationVi": "'I'm afraid' làm tin xấu mềm đi (= rất tiếc phải nói). 'a difficult decision' cho thấy bạn trân trọng nơi đang làm, không hề dễ dàng dứt áo ra đi.",
+      "altOf": "announcing-resignation"
+    },
+    {
+      "pattern": "I'm extremely grateful for [danh từ], which has [mệnh đề].",
+      "use": "Bày tỏ lòng biết ơn về quãng thời gian/cơ hội đã có.",
+      "register": "formal",
+      "examples": [
+        "I'm extremely grateful for the trust you've shown me, which has helped me grow far beyond what I expected."
+      ],
+      "explanationVi": "Dùng mệnh đề quan hệ không xác định ('which has…') để bổ sung ý nghĩa biết ơn. Mở đầu bằng lời cảm ơn giúp toàn bộ cuộc nói chuyện giữ được thiện cảm."
+    },
+    {
+      "pattern": "Rest assured, I'll [V] in order to [mục đích].",
+      "use": "Cam kết bàn giao tử tế, trấn an sếp.",
+      "register": "formal",
+      "examples": [
+        "Rest assured, I'll document everything thoroughly in order to make the handover as smooth as possible."
+      ],
+      "explanationVi": "'Rest assured' (cứ yên tâm) là cách trấn an rất nhã. 'in order to' nêu mục đích rõ ràng, nghe có trách nhiệm và chuyên nghiệp."
+    },
+    {
+      "pattern": "I really appreciate the offer, but I'm afraid my decision is final.",
+      "use": "Từ chối khéo léo lời đề nghị giữ lại (counter-offer).",
+      "register": "formal",
+      "examples": [
+        "I really appreciate the offer, but I'm afraid my decision is final — it's about more than just the salary."
+      ],
+      "explanationVi": "Công thức 'khen + nhưng + dứt khoát': ghi nhận thiện chí của họ trước ('I appreciate'), rồi từ chối rõ ràng để tránh bị níu kéo dây dưa.",
+      "altOf": "declining-counter-offer"
+    },
+    {
+      "pattern": "While I'm genuinely flattered, I feel it's the right time for me to [V].",
+      "use": "Từ chối giữ lại đồng thời khẳng định đây là thời điểm đúng để đi.",
+      "register": "formal",
+      "examples": [
+        "While I'm genuinely flattered, I feel it's the right time for me to take on a fresh challenge elsewhere."
+      ],
+      "explanationVi": "'While I'm flattered' (tuy tôi rất cảm kích) là mệnh đề nhượng bộ lịch sự. Cụm 'it's the right time for me to…' giúp từ chối mà nghe như một quyết định chín chắn, không phải chê bai công ty.",
+      "altOf": "declining-counter-offer"
+    },
+    {
+      "pattern": "I'd be more than happy to [V] during my notice period.",
+      "use": "Chủ động đề nghị hỗ trợ trong thời gian báo trước.",
+      "register": "formal",
+      "examples": [
+        "I'd be more than happy to help train my replacement during my notice period."
+      ],
+      "explanationVi": "'more than happy to' (rất sẵn lòng) thể hiện thiện chí cao. Chủ động đề nghị giúp trong notice period là điều khiến bạn ra đi đẹp và được nhớ đến tích cực."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời tâm sự chân thành, hơi tế nhị.", "example": "Honestly, this was one of the hardest decisions I've ever had to make." },
+    { "term": "genuinely", "ipa": "/ˈdʒen.ju.ɪn.li/", "vi": "một cách chân thành / thực lòng", "when": "Nhấn rằng cảm xúc hay lời nói của bạn là thật, không xã giao.", "example": "I'm genuinely sorry to be leaving at such a busy time." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "rốt cuộc thì / xét cho cùng", "when": "Dẫn vào kết luận cuối cùng sau khi cân nhắc nhiều mặt.", "example": "Ultimately, I felt I needed a change in order to keep growing." },
+    { "term": "with all due respect", "ipa": "/wɪð ɔːl djuː rɪˈspekt/", "vi": "xin phép được nói thẳng / với tất cả sự tôn trọng", "when": "Mở đầu một ý kiến có thể trái với người nghe, một cách lịch sự.", "example": "With all due respect, I don't think a pay rise would change my mind." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói / dĩ nhiên là", "when": "Nêu một điều hiển nhiên, thường là lời cam kết hay cảm ơn.", "example": "Needless to say, I'll do everything I can to leave things in good shape." },
+    { "term": "on a personal note", "ipa": "/ɒn ə ˈpɜː.sən.əl nəʊt/", "vi": "nói riêng về mặt cá nhân", "when": "Chuyển sang một lời chia sẻ mang tính cá nhân, ấm áp.", "example": "On a personal note, I've truly valued working alongside you." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đã quyết định nghỉ việc và xin gặp riêng quản lý trực tiếp (manager) để thông báo. Đây là cuộc trò chuyện trang trọng nhưng ấm áp: bạn báo tin, cảm ơn, bàn giao, và khéo léo từ chối lời đề nghị giữ lại.",
+    "lines": [
+      {
+        "speaker": "Quản lý",
+        "text": "Thanks for setting up this meeting. You sounded quite serious in your message — is everything all right?",
+        "ipa": "/θæŋks fɔːr ˈset.ɪŋ ʌp ðɪs ˈmiː.tɪŋ juː ˈsaʊn.dɪd kwaɪt ˈsɪə.ri.əs ɪn jɔːr ˈmes.ɪdʒ ɪz ˈev.ri.θɪŋ ɔːl raɪt/",
+        "vi": "Cảm ơn em đã sắp xếp buổi gặp này. Trong tin nhắn em có vẻ khá nghiêm túc — mọi chuyện ổn chứ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you for making the time. Honestly, after much thought, I've decided to ____ on from my role here, and I wanted to tell you in person rather than simply sending an email.",
+        "ipa": "/θæŋk juː fɔːr ˈmeɪk.ɪŋ ðə taɪm ˈɒn.ɪst.li ˈɑːf.tər mʌtʃ θɔːt aɪv dɪˈsaɪ.dɪd tə muːv ɒn frɒm maɪ rəʊl hɪər ænd aɪ ˈwɒn.tɪd tə tel juː ɪn ˈpɜː.sən ˈrɑː.ðər ðæn ˈsɪm.pli ˈsen.dɪŋ ən ˈiː.meɪl/",
+        "vi": "Cảm ơn anh đã dành thời gian. Thành thật mà nói, sau nhiều cân nhắc, em đã quyết định ____ tiếp ở vai trò hiện tại, và em muốn báo trực tiếp với anh thay vì chỉ gửi một email.",
+        "blanks": [
+          { "type": "knowledge", "answer": "move", "explanationVi": "Cụm động từ 'to move on' (from a role) = rời đi để tiến tới chặng mới — một uyển ngữ tích cực, lịch sự để báo nghỉ việc. Xem mục từ vựng 'to step down / to move on'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I have to admit, that's not what I was expecting to hear today. May I ask what's prompted this decision?",
+        "ipa": "/aɪ hæv tə ədˈmɪt ðæts nɒt wɒt aɪ wɒz ɪkˈspek.tɪŋ tə hɪər təˈdeɪ meɪ aɪ ɑːsk wɒts ˈprɒmp.tɪd ðɪs dɪˈsɪʒ.ən/",
+        "vi": "Anh phải thừa nhận đây không phải điều anh nghĩ sẽ nghe hôm nay. Anh hỏi điều gì đã dẫn đến quyết định này được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. ____ I've genuinely loved working here, I've been offered a role that aligns more closely with my long-term goals, which is something I feel I have to pursue. Please know this has nothing to do with the team, who I respect enormously.",
+        "ipa": "/ɒv kɔːs ðəʊ aɪv ˈdʒen.ju.ɪn.li lʌvd ˈwɜː.kɪŋ hɪər aɪv biːn ˈɒf.əd ə rəʊl ðæt əˈlaɪnz mɔːr ˈkləʊs.li wɪð maɪ lɒŋ tɜːm ɡəʊlz wɪtʃ ɪz ˈsʌm.θɪŋ aɪ fiːl aɪ hæv tə pəˈsjuː pliːz nəʊ ðɪs hæz ˈnʌθ.ɪŋ tə duː wɪð ðə tiːm huː aɪ rɪˈspekt ɪˈnɔː.məs.li/",
+        "vi": "Tất nhiên rồi. ____ em thực lòng rất thích làm việc ở đây, em vừa được mời một vị trí phù hợp hơn với mục tiêu dài hạn, và đó là điều em cảm thấy mình phải theo đuổi. Mong anh hiểu việc này hoàn toàn không liên quan gì đến đội nhóm, những người em vô cùng tôn trọng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ: tuy yêu công việc cũ nhưng vẫn phải đi. Lưu ý 'who' phía sau là đại từ quan hệ chỉ người (the team). Xem mục cấu trúc nhượng bộ." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I really appreciate your honesty. You've been one of our strongest performers — what if we put together a counter-offer, perhaps a promotion and a salary review?",
+        "ipa": "/aɪ ˈrɪə.li əˈpriː.ʃi.eɪt jɔːr ˈɒn.ɪst.i juːv biːn wʌn ɒv ˈaʊə ˈstrɒŋ.ɡɪst pəˈfɔː.məz wɒt ɪf wiː pʊt təˈɡeð.ər ə ˈkaʊn.tər ˌɒf.ər pəˈhæps ə prəˈməʊ.ʃən ænd ə ˈsæl.ə.ri rɪˈvjuː/",
+        "vi": "Anh thực sự trân trọng sự thẳng thắn của em. Em là một trong những nhân sự xuất sắc nhất của bọn anh — hay là bọn anh đưa ra một đề nghị giữ lại, có thể là thăng chức kèm xem xét lại lương thì sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's incredibly kind, and I'm genuinely flattered. With all ____ respect, though, this isn't really about the salary — it's about the direction I want my career to take. So I'm afraid my decision is final, despite how generous the offer is.",
+        "ipa": "/ðæts ɪnˈkred.ə.bli kaɪnd ænd aɪm ˈdʒen.ju.ɪn.li ˈflæt.əd wɪð ɔːl djuː rɪˈspekt ðəʊ ðɪs ˈɪz.ənt ˈrɪə.li əˈbaʊt ðə ˈsæl.ə.ri ɪts əˈbaʊt ðə dɪˈrek.ʃən aɪ wɒnt maɪ kəˈrɪə tə teɪk səʊ aɪm əˈfreɪd maɪ dɪˈsɪʒ.ən ɪz ˈfaɪ.nəl dɪˈspaɪt haʊ ˈdʒen.ər.əs ðiː ˈɒf.ər ɪz/",
+        "vi": "Thật quá tốt với em, và em thực sự rất cảm kích. Tuy nhiên, với tất cả sự ____ trọng, chuyện này thật ra không phải vì lương — mà là về hướng đi em muốn cho sự nghiệp của mình. Nên em e rằng quyết định của em là cuối cùng, dù lời đề nghị có hào phóng đến đâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "due", "explanationVi": "Cụm cố định 'with all due respect' = xin được nói thẳng/với tất cả sự tôn trọng, dùng để mở đầu lời từ chối hay ý kiến trái chiều một cách lịch sự. Lưu ý 'despite' phía sau là giới từ, theo sau là cụm danh từ, không dùng mệnh đề." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I understand, and I respect that. Practically speaking, what does your notice period look like, and how would you like to handle the handover?",
+        "ipa": "/aɪ ˌʌn.dəˈstænd ænd aɪ rɪˈspekt ðæt prækˈtɪk.li ˈspiː.kɪŋ wɒt dʌz jɔːr ˈnəʊ.tɪs ˈpɪə.ri.əd lʊk laɪk ænd haʊ wʊd juː laɪk tə ˈhæn.dəl ðə ˈhænd.əʊ.vər/",
+        "vi": "Anh hiểu, và anh tôn trọng điều đó. Nói thực tế, thời gian báo trước của em thế nào, và em muốn xử lý việc bàn giao ra sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm committed to serving my full one-month notice. Rest assured, I'll document all my projects thoroughly ____ to make the transition as smooth as possible, and I'd be more than happy to help train whoever takes over. I'd really like for us to part ways amicably.",
+        "ipa": "/aɪm kəˈmɪt.ɪd tə ˈsɜːv.ɪŋ maɪ fʊl wʌn mʌnθ ˈnəʊ.tɪs rest əˈʃʊəd aɪl ˈdɒk.jʊ.ment ɔːl maɪ ˈprɒdʒ.ekts ˈθʌr.ə.li ˈɪn ˈɔː.də tə meɪk ðə trænˈzɪʃ.ən æz smuːð æz ˈpɒs.ə.bəl ænd aɪd biː mɔːr ðæn ˈhæp.i tə help treɪn ˈhuː.ev.ər teɪks ˈəʊ.vər aɪd ˈrɪə.li laɪk fɔːr ʌs tə pɑːt weɪz ˈæm.ɪ.kə.bli/",
+        "vi": "Em cam kết làm trọn một tháng báo trước. Anh cứ yên tâm, em sẽ ghi chép lại toàn bộ dự án thật kỹ ____ để việc chuyển giao mượt mà nhất có thể, và em rất sẵn lòng giúp đào tạo người tiếp quản. Em thực sự mong chúng ta chia tay trong êm đẹp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "'in order to + V' = để/nhằm (nêu mục đích) — trang trọng và rõ ràng hơn 'to' đơn lẻ. Xem mẫu câu 'Rest assured, I'll… in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "On a personal note, I'm extremely grateful for everything you've taught me, ____ has shaped me more than you probably realize. I hope we can stay in touch.",
+        "ipa": "/ɒn ə ˈpɜː.sən.əl nəʊt aɪm ɪkˈstriːm.li ˈɡreɪt.fəl fɔːr ˈev.ri.θɪŋ juːv tɔːt miː wɪtʃ hæz ʃeɪpt miː mɔːr ðæn juː ˈprɒb.ə.bli ˈrɪə.laɪz aɪ həʊp wiː kæn steɪ ɪn tʌtʃ/",
+        "vi": "Nói riêng về mặt cá nhân, em vô cùng biết ơn mọi điều anh đã chỉ dạy, ____ đã rèn giũa em nhiều hơn anh tưởng. Em mong chúng ta vẫn giữ liên lạc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Mệnh đề quan hệ không xác định mở bằng 'which' để bổ sung bình luận về cả ý đứng trước ('everything you've taught me'). Không dùng 'that' sau dấu phẩy trong mệnh đề không xác định." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở môi trường công sở phương Tây, báo nghỉ trực tiếp (in person) với quản lý trước, rồi mới gửi thư/email chính thức, được xem là chuẩn mực lịch sự. Để sếp biết qua người khác bị coi là thiếu tôn trọng.",
+    "Lý do nghỉ nên hướng tới tương lai và tích cực ('pursuing a new opportunity'), tránh chê bai công ty, sếp hay đồng nghiệp — vì ngành nghề thường nhỏ và bạn có thể còn gặp lại họ ('don't burn bridges').",
+    "Nhận counter-offer (đề nghị giữ lại) là chuyện bình thường, nhưng ở văn hóa phương Tây người ta thường khuyên cân nhắc kỹ: nếu bạn ở lại chỉ vì tiền, lòng tin đôi bên có thể đã rạn.",
+    "Thời gian báo trước (notice period) thường ghi trong hợp đồng — phổ biến 2 tuần (Mỹ) đến 1-3 tháng (Anh/châu Âu, cấp cao). Làm trọn notice và bàn giao tử tế giúp bạn giữ được thư giới thiệu (reference) tốt."
+  ],
+
+  "commonMistakes": [
+    "Nói thẳng 'I quit' hoặc 'I want to quit' với sếp nghe cộc và đột ngột. Hãy dùng 'I've decided to move on' hay 'to hand in my notice / resignation' cho trang trọng.",
+    "Dùng sai 'despite' và 'although': 'despite' + danh từ/V-ing ('despite the offer'), còn 'although' + mệnh đề ('although the offer was generous'). Đừng nói 'despite the offer was generous'.",
+    "Đổ lỗi hoặc kể xấu công ty/đồng nghiệp khi nêu lý do nghỉ. Hãy giữ lý do tích cực, hướng tới tương lai để 'không đốt cầu sau lưng'.",
+    "Quên giới từ với 'grateful': luôn là 'grateful FOR something' hoặc 'grateful TO somebody'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện cuộc trò chuyện xin nghỉ việc như thật, ở mức độ trang trọng cấp C1.",
+    "prompt": "Hãy đóng vai quản lý trực tiếp của tôi nói tiếng Anh. Tôi sẽ vào phòng để thông báo quyết định nghỉ việc. Hãy phản ứng thật tự nhiên: bày tỏ bất ngờ, hỏi lý do, rồi đưa ra một lời đề nghị giữ lại (counter-offer) như tăng lương hoặc thăng chức để níu kéo tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi trong vai quản lý, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt trang trọng, tế nhị hơn bằng tiếng Việt, (3) khuyến khích tôi dùng cấu trúc cấp C1 như 'although', 'despite', 'in order to', 'with all due respect', mệnh đề quan hệ 'which/who'. Cuối buổi, hãy chấm điểm mức độ lịch sự và chuyên nghiệp của tôi, kèm 3 điểm cần cải thiện. Bắt đầu bằng việc chào tôi và hỏi có chuyện gì nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một quản lý hơi khó chịu và cố gắng giữ tôi lại nhiều lần, để tôi tập từ chối dứt khoát mà vẫn lịch sự.'",
+      "Thêm: 'Sau buổi nói chuyện, hãy giúp tôi viết một thư xin nghỉ việc (resignation letter) trang trọng dựa trên những gì tôi đã nói.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi thông báo được quyết định nghỉ việc một cách trang trọng và tế nhị, không cộc lốc.",
+    "Tôi từ chối được lời đề nghị giữ lại (counter-offer) một cách dứt khoát mà vẫn giữ thiện cảm.",
+    "Tôi dùng đúng 'although', 'despite', 'in order to' và mệnh đề quan hệ 'which/who' khi nói."
+  ]
+}

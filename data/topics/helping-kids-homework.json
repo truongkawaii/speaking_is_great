@@ -1,0 +1,353 @@
+{
+  "id": "helping-kids-homework",
+  "category": "family",
+  "title": "Kèm con học bài",
+  "titleEn": "Helping Kids with Homework",
+  "level": "B1",
+  "functions": ["suggesting", "describing", "opinions", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi con đã làm xong bài tập chưa và môn nào còn lại",
+    "Động viên, khen ngợi và an ủi khi con gặp bài khó",
+    "Gợi ý cách giải và hướng dẫn từng bước thay vì làm hộ con",
+    "Thỏa thuận thời gian học và thời gian nghỉ một cách nhẹ nhàng",
+    "Dùng câu dài tự nhiên với 'because', 'such as', 'although', 'in order to'"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "homework",
+      "ipa": "/ˈhəʊm.wɜːk/",
+      "vi": "bài tập về nhà (danh từ)",
+      "register": "neutral",
+      "example": "Have you finished all your homework for tomorrow?",
+      "exampleVi": "Con đã làm xong hết bài tập cho ngày mai chưa?",
+      "note": "Danh từ KHÔNG đếm được: không có 'homeworks', không nói 'a homework'. Muốn đếm thì dùng 'a piece of homework'.",
+      "synonyms": [
+        { "term": "assignment", "ipa": "/əˈsaɪn.mənt/", "register": "neutral", "nuanceVi": "Đếm được ('an assignment'), chỉ một bài cụ thể được giao. Nghe hơi trang trọng/học thuật hơn 'homework'." },
+        { "term": "exercise", "ipa": "/ˈek.sə.saɪz/", "register": "neutral", "nuanceVi": "Chỉ một bài luyện tập cụ thể để rèn kỹ năng (vd bài toán, bài ngữ pháp), thường nhỏ hơn cả một 'assignment'." }
+      ]
+    },
+    {
+      "term": "to help out",
+      "ipa": "/help aʊt/",
+      "vi": "giúp đỡ, hỗ trợ (động từ)",
+      "register": "casual",
+      "example": "Let me help you out with that math problem.",
+      "exampleVi": "Để bố/mẹ giúp con bài toán đó nhé.",
+      "note": "Cụm động từ thân mật. 'help somebody out' = giúp ai đó qua khó khăn. Đời thường và ấm áp hơn 'assist'.",
+      "synonyms": [
+        { "term": "to assist", "ipa": "/əˈsɪst/", "register": "formal", "nuanceVi": "Trang trọng, nghe hơi cứng trong gia đình. Hợp văn cảnh công sở hơn là bố mẹ - con." },
+        { "term": "to give a hand", "ipa": "/ɡɪv ə hænd/", "register": "casual", "nuanceVi": "Thành ngữ rất đời thường: 'Do you need a hand?' (Con cần giúp không?). Thân thiện, nhẹ nhàng." }
+      ]
+    },
+    {
+      "term": "to explain",
+      "ipa": "/ɪkˈspleɪn/",
+      "vi": "giải thích (động từ)",
+      "register": "neutral",
+      "example": "Could you explain this question to me again?",
+      "exampleVi": "Bố/mẹ giải thích lại câu này cho con được không?",
+      "note": "Đi với 'explain something TO somebody' — KHÔNG nói 'explain me'. Giới từ 'to' rất quan trọng.",
+      "synonyms": [
+        { "term": "to clarify", "ipa": "/ˈklær.ə.faɪ/", "register": "formal", "nuanceVi": "Nhấn 'làm cho rõ ràng hơn điều còn mơ hồ'. Trang trọng hơn 'explain' một chút." },
+        { "term": "to go over", "ipa": "/ɡəʊ ˈəʊ.vər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ôn lại / xem lại cùng nhau từng phần'. Vd 'Let's go over it together.'" }
+      ]
+    },
+    {
+      "term": "to concentrate",
+      "ipa": "/ˈkɒn.sən.treɪt/",
+      "vi": "tập trung (động từ)",
+      "register": "neutral",
+      "example": "It's hard to concentrate when the TV is on.",
+      "exampleVi": "Rất khó tập trung khi tivi đang bật.",
+      "note": "Đi với 'concentrate ON something'. Danh từ là 'concentration'.",
+      "synonyms": [
+        { "term": "to focus", "ipa": "/ˈfəʊ.kəs/", "register": "neutral", "nuanceVi": "Phổ biến, gần như y hệt. Đi với 'focus ON'. Ngắn gọn và rất hay dùng khi nói." },
+        { "term": "to pay attention", "ipa": "/peɪ əˈten.ʃən/", "register": "neutral", "nuanceVi": "Nhấn 'chú ý, để tâm vào'. Đi với 'pay attention TO'. Hợp khi nhắc con đừng lơ đãng." }
+      ]
+    },
+    {
+      "term": "difficult",
+      "ipa": "/ˈdɪf.ɪ.kəlt/",
+      "vi": "khó (tính từ)",
+      "register": "neutral",
+      "example": "This exercise is more difficult than the last one.",
+      "exampleVi": "Bài này khó hơn bài vừa rồi.",
+      "note": "Tính từ trung tính. Trái nghĩa: 'easy'. Trạng từ tương ứng là 'with difficulty'.",
+      "synonyms": [
+        { "term": "tricky", "ipa": "/ˈtrɪk.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'khó nhằn, dễ làm sai chứ không phải khó kinh khủng'. Nghe nhẹ nhàng, đỡ làm con nản." },
+        { "term": "challenging", "ipa": "/ˈtʃæl.ɪn.dʒɪŋ/", "register": "neutral", "nuanceVi": "Mang sắc thái TÍCH CỰC: khó nhưng đáng để cố. Dùng để động viên con xem bài khó như một thử thách thú vị." }
+      ]
+    },
+    {
+      "term": "mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "vi": "lỗi sai, sự nhầm lẫn (danh từ)",
+      "register": "neutral",
+      "example": "Everyone makes mistakes, so don't worry about it.",
+      "exampleVi": "Ai cũng mắc lỗi mà, đừng lo.",
+      "note": "Đi với động từ 'make' (make a mistake), KHÔNG dùng 'do a mistake'.",
+      "synonyms": [
+        { "term": "error", "ipa": "/ˈer.ər/", "register": "formal", "nuanceVi": "Trang trọng/kỹ thuật hơn, hay gặp trong sửa bài, máy tính. Nói chuyện với con thì 'mistake' tự nhiên hơn." },
+        { "term": "slip", "ipa": "/slɪp/", "register": "casual", "nuanceVi": "Lỗi nhỏ do bất cẩn nhất thời, không nghiêm trọng. Vd 'It's just a small slip.'" }
+      ]
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "kiên nhẫn (tính từ)",
+      "register": "neutral",
+      "example": "You need to be patient when you learn something new.",
+      "exampleVi": "Con cần kiên nhẫn khi học điều gì mới.",
+      "note": "Tính từ. Danh từ là 'patience' (sự kiên nhẫn). Đừng nhầm với 'patient' nghĩa 'bệnh nhân' (cùng từ, khác nghĩa).",
+      "synonyms": [
+        { "term": "calm", "ipa": "/kɑːm/", "register": "neutral", "nuanceVi": "Nhấn 'bình tĩnh, không nóng vội'. Gần nghĩa nhưng thiên về trạng thái cảm xúc hơn là sự chịu khó chờ đợi." }
+      ]
+    },
+    {
+      "term": "to encourage",
+      "ipa": "/ɪnˈkʌr.ɪdʒ/",
+      "vi": "động viên, khích lệ (động từ)",
+      "register": "neutral",
+      "example": "Parents should encourage their children to keep trying.",
+      "exampleVi": "Bố mẹ nên động viên con tiếp tục cố gắng.",
+      "note": "Đi với 'encourage somebody TO do something'. Trái nghĩa: 'discourage' (làm nản lòng).",
+      "synonyms": [
+        { "term": "to motivate", "ipa": "/ˈməʊ.tɪ.veɪt/", "register": "neutral", "nuanceVi": "Nhấn 'tạo động lực bên trong để hành động'. Hơi thiên về lý do/mục tiêu, trong khi 'encourage' thiên về tiếp thêm tinh thần." },
+        { "term": "to cheer up", "ipa": "/tʃɪər ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'làm cho vui lên, bớt buồn'. Dùng khi con đang chán nản chứ không hẳn là khích lệ cố gắng." }
+      ]
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Read the question carefully before you answer.",
+      "exampleVi": "Đọc kỹ đề trước khi trả lời nhé.",
+      "note": "Trạng từ, đứng sau động từ. Tính từ là 'careful'. Rất hợp để nhắc con làm chậm mà chắc.",
+      "synonyms": [
+        { "term": "thoroughly", "ipa": "/ˈθʌr.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'kỹ lưỡng, không bỏ sót gì'. Mạnh hơn 'carefully' về độ đầy đủ." },
+        { "term": "closely", "ipa": "/ˈkləʊs.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhìn/theo dõi sát'. Vd 'Look closely at the picture.' Thiên về quan sát chăm chú." }
+      ]
+    },
+    {
+      "term": "to take a break",
+      "ipa": "/teɪk ə breɪk/",
+      "vi": "nghỉ giải lao (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's take a short break and then continue.",
+      "exampleVi": "Mình nghỉ một chút rồi học tiếp nhé.",
+      "note": "Cụm cố định: 'take a break'. Nghỉ ngắn giữa giờ học. Khác 'take a rest' (nghỉ ngơi, thường nằm nghỉ).",
+      "synonyms": [
+        { "term": "to have a rest", "ipa": "/hæv ə rest/", "register": "neutral", "nuanceVi": "Nhấn 'nghỉ ngơi cho lại sức', thường lâu hơn và thiên về thư giãn cơ thể hơn là giải lao giữa giờ." }
+      ]
+    },
+    {
+      "term": "to make progress",
+      "ipa": "/meɪk ˈprəʊ.ɡres/",
+      "vi": "tiến bộ (cụm động từ)",
+      "register": "neutral",
+      "example": "You're making good progress with your reading.",
+      "exampleVi": "Con đang tiến bộ tốt ở môn đọc đấy.",
+      "note": "'progress' là danh từ không đếm được. Nói 'make progress', không nói 'make a progress'.",
+      "synonyms": [
+        { "term": "to improve", "ipa": "/ɪmˈpruːv/", "register": "neutral", "nuanceVi": "Động từ đơn, nghĩa 'cải thiện, khá lên'. Dùng linh hoạt hơn: 'Your spelling is improving.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Have you finished + [danh từ / V-ing] + yet?",
+      "use": "Hỏi xem con đã làm xong bài tập (hay việc gì) chưa.",
+      "register": "neutral",
+      "examples": [
+        "Have you finished your homework yet?",
+        "Have you finished writing your essay yet?"
+      ],
+      "explanationVi": "Thì hiện tại hoàn thành với 'yet' (đã... chưa) dùng để hỏi việc lẽ ra nên xong rồi. 'yet' luôn đứng cuối câu hỏi. Nghe quan tâm chứ không gắt."
+    },
+    {
+      "pattern": "Why don't we + [động từ nguyên thể] ... ?",
+      "use": "Gợi ý nhẹ nhàng cùng làm một việc gì đó với con.",
+      "register": "casual",
+      "examples": [
+        "Why don't we go over this question together?",
+        "Why don't we take a short break first?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách rủ/gợi ý thân thiện, mang nghĩa 'hay là mình cùng...'. Dùng 'we' khiến con thấy được đồng hành, không bị ra lệnh.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "How about + [V-ing / danh từ]?",
+      "use": "Đưa ra một gợi ý khác một cách ngắn gọn, nhẹ nhàng.",
+      "register": "casual",
+      "examples": [
+        "How about starting with the easy questions?",
+        "How about a ten-minute break?"
+      ],
+      "explanationVi": "Sau 'How about' dùng V-ing hoặc danh từ (KHÔNG dùng nguyên thể). Là cách gợi ý gọn nhẹ, hợp khi đề xuất một lựa chọn cụ thể.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Don't worry, + [mệnh đề động viên].",
+      "use": "An ủi, trấn an khi con lo lắng hoặc làm sai.",
+      "register": "neutral",
+      "examples": [
+        "Don't worry, everyone makes mistakes.",
+        "Don't worry, we'll figure it out together."
+      ],
+      "explanationVi": "Câu mở đầu để xoa dịu cảm xúc trước khi hướng dẫn. Rất quan trọng khi kèm con: cảm xúc ổn thì con mới tiếp thu được."
+    },
+    {
+      "pattern": "Try to + [động từ] in order to + [động từ].",
+      "use": "Hướng dẫn con làm một việc để đạt một mục đích.",
+      "register": "neutral",
+      "examples": [
+        "Try to read the question slowly in order to understand it.",
+        "Try to write neatly in order to avoid silly mistakes."
+      ],
+      "explanationVi": "'in order to + V' diễn đạt mục đích (để mà...), nghe đầy đủ và trang trọng hơn 'to' đơn. Là điểm ngữ pháp TOEIC hay gặp."
+    },
+    {
+      "pattern": "You did a great job on + [danh từ].",
+      "use": "Khen ngợi cụ thể để khích lệ con.",
+      "register": "casual",
+      "examples": [
+        "You did a great job on the math part.",
+        "You did a great job on your handwriting today."
+      ],
+      "explanationVi": "Khen CỤ THỂ (vào việc gì) luôn hiệu quả hơn khen chung chung 'good job'. Giúp con biết rõ mình giỏi ở điểm nào để phát huy."
+    },
+    {
+      "pattern": "Let me + [động từ nguyên thể] ... .",
+      "use": "Ngỏ ý chủ động giúp con một việc gì đó.",
+      "register": "casual",
+      "examples": [
+        "Let me show you another way to solve it.",
+        "Let me give you a hand with that."
+      ],
+      "explanationVi": "'Let me + V' = 'để bố/mẹ...'. Cách ngỏ lời giúp tự nhiên, ấm áp, không tạo cảm giác con kém cỏi.",
+      "altOf": "suggesting"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn chỉnh lại nhẹ nhàng hoặc nói điều con chưa nhận ra.", "example": "Actually, you're closer to the answer than you think." },
+    { "term": "almost", "ipa": "/ˈɔːl.məʊst/", "vi": "gần như, suýt nữa", "when": "Khi con gần đúng, dùng để khích lệ tiếp tục.", "example": "You're almost there — just check the last step." },
+    { "term": "slowly", "ipa": "/ˈsləʊ.li/", "vi": "từ từ, chậm rãi", "when": "Khi nhắc con đừng vội để tránh sai.", "example": "Let's go through it slowly, one step at a time." },
+    { "term": "well done", "ipa": "/wel dʌn/", "vi": "làm tốt lắm", "when": "Khen ngay khi con làm đúng một bước.", "example": "Well done! You solved that one all by yourself." },
+    { "term": "step by step", "ipa": "/step baɪ step/", "vi": "từng bước một", "when": "Khi hướng dẫn cách giải theo trình tự.", "example": "Let's do it step by step so it's easier to follow." }
+  ],
+
+  "dialogue": {
+    "context": "Buổi tối sau bữa ăn, một phụ huynh ngồi cạnh con (khoảng 10 tuổi) để kèm con làm bài tập. Con đang gặp một bài toán khó và hơi nản.",
+    "lines": [
+      {
+        "speaker": "Phụ huynh",
+        "text": "Hi sweetie, have you finished your ____ yet, or is there something you'd like me to help out with?",
+        "ipa": "/haɪ ˈswiː.ti hæv juː ˈfɪn.ɪʃt jɔːr ... jet ɔːr ɪz ðeər ˈsʌm.θɪŋ juːd laɪk miː tə help aʊt wɪð/",
+        "vi": "Chào con yêu, con làm xong ____ chưa, hay là có gì con muốn bố/mẹ giúp không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "homework", "explanationVi": "'homework' là danh từ không đếm được, không thêm 's'. Mẫu câu 'Have you finished... yet?' để hỏi đã xong chưa. Xem phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Con",
+        "text": "Not yet. I've done most of it, but this math question is really ____ and I can't work it out.",
+        "ipa": "/nɒt jet aɪv dʌn məʊst ɒv ɪt bʌt ðɪs mæθ ˈkwes.tʃən ɪz ˈrɪə.li ... ænd aɪ kɑːnt wɜːk ɪt aʊt/",
+        "vi": "Chưa ạ. Con làm gần hết rồi, nhưng câu toán này khó quá và con không giải ra được.",
+        "blanks": [
+          { "type": "knowledge", "answer": "difficult", "explanationVi": "'difficult' (khó) là tính từ đứng sau 'is'. Có thể thay bằng 'tricky' nghe nhẹ hơn. Xem từ vựng 'difficult' và các đồng nghĩa." }
+        ]
+      },
+      {
+        "speaker": "Phụ huynh",
+        "text": "Don't worry, everyone gets stuck sometimes. Why don't we ____ over it together, step by step, so it feels less scary?",
+        "ipa": "/dəʊnt ˈwʌr.i ˈev.ri.wʌn ɡets stʌk ˈsʌm.taɪmz waɪ dəʊnt wiː ... ˈəʊ.vər ɪt təˈɡeð.ər step baɪ step səʊ ɪt fiːlz les ˈskeə.ri/",
+        "vi": "Đừng lo, ai cũng có lúc bí mà. Hay là mình cùng ____ lại từng bước một cho đỡ thấy đáng sợ nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "go", "explanationVi": "'go over' = ôn/xem lại cùng nhau. Mẫu gợi ý 'Why don't we + V...?'. Xem từ vựng 'to go over' và cấu trúc gợi ý." }
+        ]
+      },
+      {
+        "speaker": "Con",
+        "text": "Okay. The problem is, although I read the question twice, I still don't understand what it's asking me to do.",
+        "ipa": "/ˌəʊˈkeɪ ðə ˈprɒb.ləm ɪz ɔːlˈðəʊ aɪ red ðə ˈkwes.tʃən twaɪs aɪ stɪl dəʊnt ˌʌn.dəˈstænd wɒt ɪts ˈɑːs.kɪŋ miː tə duː/",
+        "vi": "Vâng ạ. Vấn đề là, mặc dù con đã đọc đề hai lần, con vẫn không hiểu đề bảo con làm gì."
+      },
+      {
+        "speaker": "Phụ huynh",
+        "text": "That's completely normal. Let's read it slowly together and underline the key words, such as 'total' and 'each', in order to see exactly what the question wants.",
+        "ipa": "/ðæts kəmˈpliːt.li ˈnɔː.məl lets riːd ɪt ˈsləʊ.li təˈɡeð.ər ænd ˈʌn.də.laɪn ðə kiː wɜːdz sʌtʃ æz ˈtəʊ.təl ænd iːtʃ ɪn ˈɔː.dər tə siː ɪɡˈzækt.li wɒt ðə ˈkwes.tʃən wɒnts/",
+        "vi": "Điều đó hoàn toàn bình thường. Mình cùng đọc chậm và gạch chân các từ khóa, chẳng hạn như 'total' và 'each', để thấy chính xác đề muốn gì nhé."
+      },
+      {
+        "speaker": "Con",
+        "text": "Oh, I see it now! So I have to add these numbers first. But what if I ____ a mistake again like last time?",
+        "ipa": "/əʊ aɪ siː ɪt naʊ səʊ aɪ hæv tu æd ðiːz ˈnʌm.bəz fɜːst bʌt wɒt ɪf aɪ ... ə mɪˈsteɪk əˈɡen laɪk lɑːst taɪm/",
+        "vi": "Ồ, con hiểu rồi! Vậy con phải cộng các số này trước. Nhưng lỡ con lại ____ lỗi như lần trước thì sao?",
+        "blanks": [
+          { "type": "knowledge", "answer": "make", "explanationVi": "Đi với 'mistake' luôn là động từ 'make' (make a mistake), không dùng 'do'. Xem từ vựng 'mistake'." }
+        ]
+      },
+      {
+        "speaker": "Phụ huynh",
+        "text": "Then we'll simply fix it, because mistakes are how we learn. You need to be ____ with yourself, and remember that you've already made great progress this week.",
+        "ipa": "/ðen wiːl ˈsɪm.pli fɪks ɪt bɪˈkɒz mɪˈsteɪks ɑː haʊ wiː lɜːn juː niːd tə biː ... wɪð jɔːˈself ænd rɪˈmem.bə ðæt juːv ɔːlˈred.i meɪd ɡreɪt ˈprəʊ.ɡres ðɪs wiːk/",
+        "vi": "Thì mình sửa lại thôi, vì nhờ lỗi sai mà mình mới học được. Con cần ____ với chính mình, và nhớ là tuần này con đã tiến bộ rất nhiều rồi đấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "patient", "explanationVi": "'patient' (kiên nhẫn) là tính từ sau 'be'. Đừng nhầm với danh từ 'patience'. Xem từ vựng 'patient'." }
+        ]
+      },
+      {
+        "speaker": "Con",
+        "text": "Thanks. I think I can solve the rest by ____, but can we take a short break after I finish this page?",
+        "ipa": "/θæŋks aɪ θɪŋk aɪ kæn sɒlv ðə rest baɪ ... bʌt kæn wiː teɪk ə ʃɔːt breɪk ˈɑːf.tər aɪ ˈfɪn.ɪʃ ðɪs peɪdʒ/",
+        "vi": "Cảm ơn bố/mẹ. Con nghĩ con tự giải được phần còn lại bằng ____, nhưng làm xong trang này mình nghỉ một chút được không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "myself", "explanationVi": "'by myself' = một mình, tự mình. Đại từ phản thân hợp với chủ ngữ 'I'. Vd 'I did it by myself.'" }
+        ]
+      },
+      {
+        "speaker": "Phụ huynh",
+        "text": "Of course! You've worked really hard, so you ____ a break. How about ten minutes, and then we'll tackle the last question together?",
+        "ipa": "/ɒv kɔːs juːv wɜːkt ˈrɪə.li hɑːd səʊ juː ... ə breɪk haʊ əˈbaʊt ten ˈmɪn.ɪts ænd ðen wiːl ˈtæk.əl ðə lɑːst ˈkwes.tʃən təˈɡeð.ər/",
+        "vi": "Tất nhiên rồi! Con đã rất chăm chỉ nên con ____ được nghỉ. Hay là mười phút nhé, rồi mình cùng làm câu cuối?",
+        "blanks": [
+          { "type": "knowledge", "answer": "deserve", "explanationVi": "'deserve' = xứng đáng được. 'you deserve a break' = con xứng đáng được nghỉ. Động từ chia ở hiện tại đơn với 'you'. Lưu ý 'deserve' đi thẳng với tân ngữ, không cần giới từ." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, bố mẹ thường được khuyên KÈM chứ không LÀM HỘ bài cho con — mục tiêu là hướng dẫn để con tự tìm ra đáp án, vì vậy nhiều câu là gợi ý ('Why don't we...?') chứ không phải đưa luôn lời giải.",
+    "Việc khen ngợi cụ thể và động viên ('Well done!', 'You're making progress') được đề cao để xây dựng sự tự tin, thay vì chỉ chê khi con sai.",
+    "Quan niệm 'mistakes are part of learning' (sai là một phần của việc học) rất phổ biến — bố mẹ thường trấn an con rằng mắc lỗi là bình thường.",
+    "Gọi con bằng những từ trìu mến như 'sweetie', 'honey', 'buddy' là rất tự nhiên trong gia đình nói tiếng Anh."
+  ],
+
+  "commonMistakes": [
+    "Nói 'explain me' — sai. Phải là 'explain something TO me' (explain it to me).",
+    "Thêm 's' vào 'homework' hoặc 'progress' — đây là danh từ KHÔNG đếm được: 'homework', 'make progress' (không 'homeworks', không 'a progress').",
+    "Dùng 'do a mistake' — sai. Luôn là 'make a mistake'.",
+    "Sau 'How about' dùng nguyên thể ('How about to start') — sai. Phải là V-ing: 'How about starting...?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống kèm con học bài như thật.",
+    "prompt": "Hãy đóng vai một đứa trẻ khoảng 10 tuổi đang làm bài tập về nhà và gặp một bài khó (toán, đọc hiểu hoặc tiếng Anh). Tôi là phụ huynh đang kèm con học. Hãy bắt đầu bằng việc nói cho tôi biết con đang bí ở đâu. Sau mỗi câu nói của tôi, hãy: (1) phản hồi tự nhiên như một đứa trẻ (có lúc nản, có lúc vui khi hiểu ra), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài tự nhiên với 'because', 'such as', 'although', 'in order to' và các câu gợi ý như 'Why don't we...?', 'How about...?'. Thỉnh thoảng tạo tình huống bất ngờ (con muốn bỏ cuộc, con xin chơi điện thoại) để tôi tập xử lý. Cuối buổi, hãy nêu 3 điểm tôi làm tốt và 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một đứa trẻ bướng bỉnh không muốn học để tôi tập kiên nhẫn thuyết phục.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy cho con hỏi lại tôi những câu vì sao khó trả lời (vd Why do I have to learn this?) để tôi tập giải thích.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được con đã làm xong bài chưa và còn vướng ở đâu bằng một câu tự nhiên.",
+    "Tôi dùng được câu gợi ý 'Why don't we...?' hoặc 'How about...?' để rủ con cùng làm.",
+    "Tôi động viên và khen con cụ thể bằng tiếng Anh mà không cần nhìn gợi ý."
+  ]
+}

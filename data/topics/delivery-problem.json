@@ -1,0 +1,346 @@
+{
+  "id": "delivery-problem",
+  "category": "services",
+  "title": "Sự cố giao hàng",
+  "titleEn": "Delivery Problems",
+  "level": "B1",
+  "functions": ["complaining", "handling-problems", "requesting", "asking-info"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả vấn đề khi đơn hàng đến muộn, sai hoặc bị hư hỏng",
+    "Phàn nàn một cách lịch sự và yêu cầu giải pháp (hoàn tiền, đổi hàng)",
+    "Hỏi thông tin về tình trạng đơn hàng và thời gian giải quyết",
+    "Dùng ngữ pháp B1 (such as, although, because, mệnh đề quan hệ which) cùng nhiều trạng từ tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "parcel",
+      "ipa": "/ˈpɑːr.səl/",
+      "vi": "bưu kiện, gói hàng (danh từ)",
+      "register": "neutral",
+      "example": "My parcel was supposed to arrive yesterday, but it never came.",
+      "exampleVi": "Bưu kiện của tôi lẽ ra đến hôm qua, nhưng nó chẳng đến.",
+      "note": "Danh từ. Người Anh hay dùng 'parcel'; người Mỹ nghiêng về 'package'.",
+      "synonyms": [
+        { "term": "package", "ipa": "/ˈpæk.ɪdʒ/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'parcel'. Người Mỹ dùng nhiều hơn. Dùng cái nào cũng được." },
+        { "term": "shipment", "ipa": "/ˈʃɪp.mənt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào 'lô hàng đang được vận chuyển'. Hay gặp trong email hoặc với đơn hàng lớn." }
+      ]
+    },
+    {
+      "term": "delivery",
+      "ipa": "/dɪˈlɪv.ər.i/",
+      "vi": "việc giao hàng (danh từ)",
+      "register": "neutral",
+      "example": "The delivery was delayed by three days because of bad weather.",
+      "exampleVi": "Việc giao hàng bị trễ ba ngày vì thời tiết xấu.",
+      "note": "Danh từ. Động từ là 'to deliver' (giao). Người giao hàng là 'delivery driver' hoặc 'courier'.",
+      "synonyms": [
+        { "term": "shipping", "ipa": "/ˈʃɪp.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào 'quá trình gửi/vận chuyển', hay đi với phí ('shipping fee'). 'delivery' thiên về việc hàng đến tay người nhận." }
+      ]
+    },
+    {
+      "term": "to track",
+      "ipa": "/træk/",
+      "vi": "theo dõi (đơn hàng) (động từ)",
+      "register": "neutral",
+      "example": "You can track your order online using the tracking number.",
+      "exampleVi": "Bạn có thể theo dõi đơn hàng trực tuyến bằng mã vận đơn.",
+      "note": "Động từ. Danh từ liên quan: 'tracking number' (mã vận đơn) để tra cứu vị trí gói hàng.",
+      "synonyms": [
+        { "term": "to trace", "ipa": "/treɪs/", "register": "neutral", "nuanceVi": "Nhấn vào 'lần theo dấu vết để tìm ra', thường dùng khi hàng bị thất lạc và cần truy ra nó ở đâu." },
+        { "term": "to follow", "ipa": "/ˈfɒl.əʊ/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'dõi theo'. Nhẹ và chung chung hơn 'track'." }
+      ]
+    },
+    {
+      "term": "to refund",
+      "ipa": "/ˌriːˈfʌnd/",
+      "vi": "hoàn tiền (động từ)",
+      "register": "neutral",
+      "example": "If the item is faulty, they will refund the full amount.",
+      "exampleVi": "Nếu món hàng bị lỗi, họ sẽ hoàn lại toàn bộ số tiền.",
+      "note": "Động từ và danh từ viết giống nhau nhưng trọng âm khác: danh từ nhấn 'RE-fund', động từ nhấn 're-FUND'. Danh từ: 'a refund' (khoản hoàn tiền).",
+      "synonyms": [
+        { "term": "to reimburse", "ipa": "/ˌriː.ɪmˈbɜːs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'hoàn lại tiền ai đó đã chi'. Hay dùng trong văn bản công ty." },
+        { "term": "to pay back", "ipa": "/peɪ bæk/", "register": "casual", "nuanceVi": "Cụm đời thường, dễ dùng khi nói chuyện bình thường: 'They'll pay me back.'" }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, hỏng hóc (tính từ)",
+      "register": "neutral",
+      "example": "The product was faulty, so it stopped working after one day.",
+      "exampleVi": "Sản phẩm bị lỗi nên nó ngừng hoạt động sau một ngày.",
+      "note": "Tính từ. Mô tả hàng có khiếm khuyết về kỹ thuật/chức năng.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có khiếm khuyết từ khâu sản xuất'. Hay dùng khi khiếu nại chính thức." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'bị vỡ/hỏng hẳn'. Cụ thể và mạnh hơn 'faulty' (vốn chỉ chung là lỗi)." }
+      ]
+    },
+    {
+      "term": "damaged",
+      "ipa": "/ˈdæm.ɪdʒd/",
+      "vi": "bị hư hại, móp méo (tính từ)",
+      "register": "neutral",
+      "example": "The box arrived completely damaged, with a large hole on one side.",
+      "exampleVi": "Hộp hàng đến trong tình trạng hư hại hoàn toàn, có một lỗ lớn ở một bên.",
+      "note": "Tính từ. Thường chỉ hư hại về vật lý (móp, vỡ, rách) trong quá trình vận chuyển.",
+      "synonyms": [
+        { "term": "dented", "ipa": "/ˈden.tɪd/", "register": "neutral", "nuanceVi": "Cụ thể hơn, nghĩa 'bị móp/lõm'. Dùng cho hộp, lon, đồ kim loại." }
+      ]
+    },
+    {
+      "term": "to delay",
+      "ipa": "/dɪˈleɪ/",
+      "vi": "làm trì hoãn, làm trễ (động từ)",
+      "register": "neutral",
+      "example": "The storm delayed all deliveries in our area.",
+      "exampleVi": "Cơn bão làm trễ mọi chuyến giao hàng ở khu vực chúng tôi.",
+      "note": "Vừa là động từ vừa là danh từ ('a delay' = sự chậm trễ). Bị động hay dùng: 'My order was delayed.'",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəˈspəʊn/", "register": "formal", "nuanceVi": "Nhấn 'dời sang thời điểm sau một cách có chủ đích'. 'delay' thiên về bị chậm ngoài ý muốn." },
+        { "term": "to hold up", "ipa": "/həʊld ʌp/", "register": "casual", "nuanceVi": "Cụm đời thường: 'The parcel was held up at customs.' (bị kẹt/giữ lại)." }
+      ]
+    },
+    {
+      "term": "to apologize",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "vi": "xin lỗi (động từ)",
+      "register": "neutral",
+      "example": "The company apologized for the mistake and offered a discount.",
+      "exampleVi": "Công ty xin lỗi vì sai sót và đề nghị một khoản giảm giá.",
+      "note": "Động từ, đi với 'for + danh từ/V-ing'. Danh từ: 'an apology'. (Anh-Mỹ viết 'apologize', Anh-Anh viết 'apologise'.)",
+      "synonyms": [
+        { "term": "to say sorry", "ipa": "/seɪ ˈsɒr.i/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng hơn. 'apologize' nghe trang trọng và chính thức hơn." }
+      ]
+    },
+    {
+      "term": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "vi": "lời phàn nàn, khiếu nại (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make a complaint about my last order.",
+      "exampleVi": "Tôi muốn khiếu nại về đơn hàng vừa rồi.",
+      "note": "Danh từ. Cụm cố định: 'to make a complaint' (đưa ra khiếu nại). Động từ là 'to complain about'.",
+      "synonyms": [
+        { "term": "grievance", "ipa": "/ˈɡriː.vəns/", "register": "formal", "nuanceVi": "Rất trang trọng, nhấn 'điều bất bình chính đáng'. Hay dùng trong văn bản pháp lý/công sở." }
+      ]
+    },
+    {
+      "term": "to replace",
+      "ipa": "/rɪˈpleɪs/",
+      "vi": "thay thế, đổi (món khác) (động từ)",
+      "register": "neutral",
+      "example": "They agreed to replace the broken item free of charge.",
+      "exampleVi": "Họ đồng ý đổi món hàng bị vỡ miễn phí.",
+      "note": "Động từ. Danh từ: 'a replacement' (món hàng thay thế). Khác 'refund' (trả lại tiền): 'replace' là gửi món mới.",
+      "synonyms": [
+        { "term": "to swap", "ipa": "/swɒp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đổi qua đổi lại'. Nhẹ và thân mật hơn 'replace'." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, kịp thời (trạng từ)",
+      "register": "neutral",
+      "example": "The staff dealt with my problem promptly and politely.",
+      "exampleVi": "Nhân viên xử lý vấn đề của tôi nhanh chóng và lịch sự.",
+      "note": "Trạng từ, nhấn 'làm ngay, không trì hoãn'. Tạo ấn tượng dịch vụ tốt.",
+      "synonyms": [
+        { "term": "quickly", "ipa": "/ˈkwɪk.li/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'nhanh'. 'promptly' nhấn thêm ý 'đúng lúc, không chậm trễ'." },
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Mạnh hơn, nghĩa 'ngay lập tức, tức thì'. Nhấn không có khoảng cách thời gian." }
+      ]
+    },
+    {
+      "term": "to arrive",
+      "ipa": "/əˈraɪv/",
+      "vi": "đến nơi (động từ)",
+      "register": "neutral",
+      "example": "The package finally arrived two weeks after I ordered it.",
+      "exampleVi": "Gói hàng cuối cùng cũng đến sau hai tuần kể từ khi tôi đặt.",
+      "note": "Động từ. Đi với 'arrive AT + nơi nhỏ', 'arrive IN + thành phố/nước'. KHÔNG dùng 'arrive to'.",
+      "synonyms": [
+        { "term": "to turn up", "ipa": "/tɜːn ʌp/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'xuất hiện/đến', thường khi điều đó không chắc chắn: 'The parcel never turned up.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling about [danh từ] which [mệnh đề mô tả vấn đề].",
+      "use": "Mở đầu cuộc gọi/khiếu nại, nêu rõ bạn đang nói về việc gì.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling about an order which still hasn't arrived after two weeks.",
+        "I'm calling about a parcel which was delivered to the wrong address."
+      ],
+      "explanationVi": "'which' là đại từ quan hệ thay cho vật (đơn hàng), giúp gộp 2 ý vào 1 câu mượt mà. Câu mở đầu chuẩn khi gọi tới bộ phận chăm sóc khách hàng."
+    },
+    {
+      "pattern": "I'm afraid there's a problem with [danh từ].",
+      "use": "Báo có sự cố một cách lịch sự, nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "I'm afraid there's a problem with the item I received.",
+        "I'm afraid there's a problem with my delivery."
+      ],
+      "explanationVi": "'I'm afraid' làm câu mềm đi, báo tin không vui một cách nhã nhặn (không phải sợ hãi). Mở đầu phàn nàn lịch sự hơn là nói thẳng 'You made a mistake.'",
+      "altOf": "raising-problem"
+    },
+    {
+      "pattern": "Unfortunately, [danh từ] arrived [tình trạng], although I had ordered [thứ đúng].",
+      "use": "Mô tả hàng đến sai/hỏng và đối chiếu với điều bạn đã đặt.",
+      "register": "neutral",
+      "examples": [
+        "Unfortunately, the item arrived damaged, although I had ordered a brand-new one.",
+        "Unfortunately, the parcel arrived empty, although I had paid for two books."
+      ],
+      "explanationVi": "'although' mở mệnh đề nhượng bộ (mặc dù), làm nổi bật sự khác biệt giữa thực tế và kỳ vọng. 'Unfortunately' báo trước đây là tin xấu.",
+      "altOf": "raising-problem"
+    },
+    {
+      "pattern": "Could you please [động từ] ... ?",
+      "use": "Yêu cầu công ty làm gì đó (hoàn tiền, đổi hàng) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you please send me a replacement as soon as possible?",
+        "Could you please check where my parcel is?"
+      ],
+      "explanationVi": "'Could you please...?' lịch sự hơn hẳn 'Can you...?' khi yêu cầu người lạ giúp. Thêm 'please' để nghe nhã nhặn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Would it be possible to [động từ] ... ?",
+      "use": "Đề nghị một giải pháp tế nhị hơn (hoàn tiền đầy đủ, đền bù).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get a full refund instead of a replacement?",
+        "Would it be possible to have it redelivered tomorrow morning?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một điều mà người ta có quyền từ chối. Nghe rất nhã nhặn nên dễ được giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "I'd appreciate it if you could [động từ].",
+      "use": "Nhấn mạnh mong muốn được giải quyết, lịch sự và hơi trang trọng.",
+      "register": "formal",
+      "examples": [
+        "I'd appreciate it if you could resolve this issue today.",
+        "I'd appreciate it if you could refund me by the end of the week."
+      ],
+      "explanationVi": "'I'd appreciate it if you could...' = 'tôi sẽ rất cảm kích nếu anh/chị có thể...'. Lịch sự, tạo áp lực nhẹ để được xử lý mà không gắt gỏng.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là, không may là", "when": "Dẫn vào một tin không vui hoặc một sự cố.", "example": "Unfortunately, the package never arrived." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin mà không muốn cộc lốc.", "example": "Actually, I ordered the blue one, not the black one." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một lời phàn nàn chân thành nhưng vẫn lịch sự.", "example": "To be honest, I'm quite disappointed with the service." },
+    { "term": "still", "ipa": "/stɪl/", "vi": "vẫn (chưa)... (nhấn việc chưa xong)", "when": "Nhấn rằng vấn đề kéo dài, hàng vẫn chưa đến.", "example": "My order still hasn't arrived after three weeks." },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Yêu cầu được xử lý gấp một cách lịch sự.", "example": "Please send a replacement as soon as possible." },
+    { "term": "in fact", "ipa": "/ɪn fækt/", "vi": "thực tế là, thậm chí", "when": "Bổ sung một chi tiết mạnh hơn để củng cố lời phàn nàn.", "example": "In fact, this is the second time it has happened." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đặt một món hàng trực tuyến nhưng nó đến muộn và bị hư hỏng. Bạn gọi điện cho bộ phận chăm sóc khách hàng để phàn nàn và yêu cầu giải pháp.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning, this is customer service. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ðɪs ɪz ˈkʌs.tə.mər ˈsɜː.vɪs haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, đây là bộ phận chăm sóc khách hàng. Tôi có thể giúp gì cho quý khách hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm calling about an order ____ I placed two weeks ago, because, to be honest, it still hasn't arrived.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪm ˈkɔː.lɪŋ əˈbaʊt ən ˈɔː.dər aɪ pleɪst tuː wiːks əˈɡəʊ bɪˈkɒz tə biː ˈɒn.ɪst ɪt stɪl ˈhæz.ənt əˈraɪvd/",
+        "vi": "Chào buổi sáng. Tôi gọi về một đơn hàng ____ tôi đã đặt cách đây hai tuần, vì, thành thật mà nói, nó vẫn chưa đến.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'an order' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'. Xem mẫu câu 'I'm calling about ... which ...'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm very sorry to hear that. Could you give me your order number so that I can track it for you?",
+        "ipa": "/aɪm ˈver.i ˈsɒr.i tə hɪər ðæt kʊd juː ɡɪv miː jɔːr ˈɔː.dər ˈnʌm.bər səʊ ðæt aɪ kæn træk ɪt fɔːr juː/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Quý khách cho tôi xin mã đơn hàng để tôi tra cứu giúp được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course, my order number is ____. I tried to track it online, but the status hasn't changed for days.",
+        "ipa": "/ɒv kɔːs maɪ ˈɔː.dər ˈnʌm.bər ɪz aɪ traɪd tə træk ɪt ˈɒn.laɪn bʌt ðə ˈsteɪ.təs ˈhæz.ənt tʃeɪndʒd fɔːr deɪz/",
+        "vi": "Tất nhiên rồi, mã đơn hàng của tôi là ____. Tôi đã thử theo dõi trực tuyến, nhưng trạng thái không thay đổi suốt mấy ngày nay.",
+        "blanks": [
+          { "type": "personal", "hint": "Mã đơn hàng của bạn. Ví dụ: 'A12345' hoặc đọc từng chữ số." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Thank you. I can see that your parcel was delayed because of a problem at the warehouse. Was there anything else wrong with it?",
+        "ipa": "/θæŋk juː aɪ kæn siː ðæt jɔːr ˈpɑːr.səl wɒz dɪˈleɪd bɪˈkɒz ɒv ə ˈprɒb.ləm ət ðə ˈweə.haʊs wɒz ðeər ˈen.i.θɪŋ els rɒŋ wɪð ɪt/",
+        "vi": "Cảm ơn quý khách. Tôi thấy rằng bưu kiện của quý khách bị trễ do một sự cố ở kho hàng. Có vấn đề gì khác với nó nữa không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, unfortunately. When it finally arrived this morning, the box was completely ____, although I had paid extra for careful packaging.",
+        "ipa": "/jes ʌnˈfɔː.tʃən.ət.li wen ɪt ˈfaɪ.nə.li əˈraɪvd ðɪs ˈmɔː.nɪŋ ðə bɒks wɒz kəmˈpliːt.li ɔːlˈðəʊ aɪ hæd peɪd ˈeks.trə fɔːr ˈkeə.fəl ˈpæk.ɪ.dʒɪŋ/",
+        "vi": "Vâng, tiếc là vậy. Khi nó cuối cùng cũng đến sáng nay, cái hộp hoàn toàn ____, mặc dù tôi đã trả thêm tiền cho việc đóng gói cẩn thận.",
+        "blanks": [
+          { "type": "knowledge", "answer": "damaged", "explanationVi": "Dùng tính từ 'damaged' (bị hư hại về vật lý) cho cái hộp. Khác 'faulty' (lỗi chức năng). Xem từ vựng 'damaged'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I sincerely apologize for the inconvenience. Would you prefer a replacement, or would you like us to refund you instead?",
+        "ipa": "/aɪ sɪnˈsɪə.li əˈpɒl.ə.dʒaɪz fɔːr ðə ˌɪn.kənˈviː.ni.əns wʊd juː prɪˈfɜːr ə rɪˈpleɪs.mənt ɔːr wʊd juː laɪk ʌs tə ˈriː.fʌnd juː ɪnˈsted/",
+        "vi": "Tôi chân thành xin lỗi vì sự bất tiện này. Quý khách muốn đổi món khác, hay muốn chúng tôi hoàn tiền thay vào đó ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd appreciate it if you could send a replacement, such as the same model in blue, and ____ it as soon as possible, since I need it for an event this weekend.",
+        "ipa": "/aɪd əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd send ə rɪˈpleɪs.mənt sʌtʃ æz ðə seɪm ˈmɒd.əl ɪn bluː ænd dɪˈlɪv.ər ɪt əz suːn əz ˈpɒs.ə.bəl sɪns aɪ niːd ɪt fɔːr ən ɪˈvent ðɪs ˈwiːk.end/",
+        "vi": "Tôi sẽ rất cảm kích nếu anh có thể gửi một món thay thế, chẳng hạn cùng mẫu màu xanh, và ____ nó càng sớm càng tốt, vì tôi cần nó cho một sự kiện cuối tuần này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "deliver", "explanationVi": "Sau 'could' phải dùng động từ nguyên thể 'deliver' (giao). Danh từ là 'delivery'. Cụm: 'deliver it as soon as possible'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely. I'll arrange for a new one to be sent promptly, and I'll also add a discount voucher to apologize for the trouble. You should receive it within two days.",
+        "ipa": "/ˈæb.sə.luːt.li aɪl əˈreɪndʒ fɔːr ə njuː wʌn tə biː sent ˈprɒmpt.li ænd aɪl ˈɔːl.səʊ æd ə ˈdɪs.kaʊnt ˈvaʊ.tʃər tə əˈpɒl.ə.dʒaɪz fɔːr ðə ˈtrʌb.əl juː ʃʊd rɪˈsiːv ɪt wɪˈðɪn tuː deɪz/",
+        "vi": "Chắc chắn rồi ạ. Tôi sẽ sắp xếp gửi một món mới ngay, và tôi cũng sẽ tặng kèm một phiếu giảm giá để xin lỗi vì sự phiền toái. Quý khách sẽ nhận được trong vòng hai ngày."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, khiếu nại lịch sự nhưng dứt khoát thường hiệu quả hơn nổi giận. Nêu rõ vấn đề + giải pháp mong muốn ('I'd like a refund') giúp được xử lý nhanh.",
+    "Luôn giữ mã đơn hàng (order number) và mã vận đơn (tracking number); nhân viên sẽ hỏi ngay để tra cứu.",
+    "Nhiều công ty có chính sách hoàn tiền/đổi trả rõ ràng. Bạn có quyền yêu cầu 'refund' (hoàn tiền) hoặc 'replacement' (đổi món) khi hàng lỗi hoặc hư hỏng.",
+    "Nói qua điện thoại nên xưng hô lịch sự và cảm ơn nhân viên ở cuối ('Thank you for your help') — dù bạn đang phàn nàn."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai giới từ với 'arrive': nói 'arrive to my house' là sai — phải là 'arrive AT my house' hoặc 'arrive IN Hanoi'.",
+    "Nhầm 'faulty' (lỗi chức năng, không chạy) với 'damaged' (hư hại vật lý do va đập) — hai sắc thái khác nhau.",
+    "Yêu cầu cộc lốc kiểu 'Give me my money back'. Hãy bọc bằng 'Could you please...?' hoặc 'I'd appreciate it if you could...'.",
+    "Quên mạo từ/cụm cố định: phải nói 'make A complaint' và 'get A refund', không bỏ mạo từ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống khiếu nại giao hàng như thật.",
+    "prompt": "Hãy đóng vai một nhân viên chăm sóc khách hàng nói tiếng Anh. Tôi là khách hàng gọi điện vì đơn hàng của tôi bị giao muộn và hư hỏng. Hãy bắt đầu bằng cách chào và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'which', 'although', 'such as' và các cụm lịch sự như 'Could you please...?', 'I'd appreciate it if you could...'. Thỉnh thoảng tạo tình huống bất ngờ (ví dụ hết hàng để đổi, chỉ hoàn được một phần) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một nhân viên hơi khó tính, từ chối hoàn tiền lần đầu để tôi tập thương lượng lịch sự.'",
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được cuộc gọi và nêu vấn đề bằng câu có mệnh đề quan hệ 'which' mà không nhìn gợi ý.",
+    "Tôi mô tả được hàng đến muộn/hỏng dùng 'although', 'unfortunately' và phân biệt 'faulty' với 'damaged'.",
+    "Tôi yêu cầu được giải pháp (hoàn tiền/đổi hàng) bằng mẫu lịch sự 'Could you please...?' hoặc 'I'd appreciate it if you could...'."
+  ]
+}

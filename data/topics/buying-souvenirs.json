@@ -1,0 +1,350 @@
+{
+  "id": "buying-souvenirs",
+  "category": "travel",
+  "title": "Mua quà lưu niệm",
+  "titleEn": "Buying Souvenirs",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "negotiating"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi giá và xin xem món đồ lưu niệm một cách lịch sự",
+    "Mặc cả nhẹ nhàng để xin giảm giá ở chợ/cửa hàng",
+    "Hỏi về chất liệu, kích cỡ, màu sắc của món quà",
+    "Trả tiền và hỏi xem có gói quà giúp không"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "souvenir",
+      "ipa": "/ˌsuː.vəˈnɪr/",
+      "vi": "quà lưu niệm (danh từ)",
+      "register": "neutral",
+      "example": "I want to buy a souvenir for my mother.",
+      "exampleVi": "Tôi muốn mua một món quà lưu niệm cho mẹ.",
+      "note": "Danh từ. Là món đồ nhỏ mua khi đi du lịch để nhớ về nơi đó. Trọng âm rơi vào âm cuối: sou-ve-NIR.",
+      "synonyms": [
+        { "term": "keepsake", "ipa": "/ˈkiːp.seɪk/", "register": "neutral", "nuanceVi": "Nhấn ý 'giữ làm kỷ niệm tình cảm', thường là quà người khác tặng. 'Souvenir' thiên về đồ mua khi đi du lịch." },
+        { "term": "memento", "ipa": "/məˈmen.təʊ/", "register": "formal", "nuanceVi": "Hơi trang trọng, nghĩa 'vật gợi nhớ một sự kiện/người'. Ít dùng trong mua sắm đời thường." }
+      ]
+    },
+    {
+      "term": "gift shop",
+      "ipa": "/ˈɡɪft ʃɒp/",
+      "vi": "cửa hàng quà tặng (danh từ)",
+      "register": "neutral",
+      "example": "There is a small gift shop near the museum.",
+      "exampleVi": "Có một cửa hàng quà tặng nhỏ gần bảo tàng.",
+      "note": "Danh từ ghép. Nơi bán quà lưu niệm, thường gần điểm du lịch, bảo tàng."
+    },
+    {
+      "term": "handmade",
+      "ipa": "/ˌhænd.ˈmeɪd/",
+      "vi": "làm thủ công (tính từ)",
+      "register": "neutral",
+      "example": "This bag is handmade, so it is special.",
+      "exampleVi": "Cái túi này làm thủ công nên rất đặc biệt.",
+      "note": "Tính từ. Đồ làm bằng tay, không phải máy. Người bán hay dùng từ này để khen món đồ.",
+      "synonyms": [
+        { "term": "homemade", "ipa": "/ˌhəʊm.ˈmeɪd/", "register": "neutral", "nuanceVi": "Nghĩa 'làm tại nhà', hay dùng cho đồ ăn (bánh, mứt). 'Handmade' dùng cho đồ vật làm bằng tay." },
+        { "term": "traditional", "ipa": "/trəˈdɪʃ.ən.əl/", "register": "neutral", "nuanceVi": "Nghĩa 'truyền thống', nhấn vào kiểu dáng lâu đời chứ không phải cách làm. Hay đi cùng souvenir." }
+      ]
+    },
+    {
+      "term": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "vi": "đắt, mắc (tính từ)",
+      "register": "neutral",
+      "example": "This scarf is too expensive for me.",
+      "exampleVi": "Cái khăn này quá đắt với tôi.",
+      "note": "Tính từ. Trái nghĩa là 'cheap' (rẻ). Khi mặc cả, bạn hay nói 'It's a bit expensive'.",
+      "synonyms": [
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'hơi đắt'. Nghe nhẹ nhàng hơn 'expensive'." },
+        { "term": "costly", "ipa": "/ˈkɒst.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'tốn nhiều tiền'. Ít dùng khi mua đồ nhỏ ở chợ." }
+      ]
+    },
+    {
+      "term": "cheap",
+      "ipa": "/tʃiːp/",
+      "vi": "rẻ (tính từ)",
+      "register": "neutral",
+      "example": "The souvenirs in this market are quite cheap.",
+      "exampleVi": "Đồ lưu niệm ở chợ này khá rẻ.",
+      "note": "Tính từ. 'cheap' đôi khi mang ý 'rẻ tiền, kém chất lượng'. Muốn khen giá tốt nên dùng 'affordable' hoặc 'a good price'.",
+      "synonyms": [
+        { "term": "affordable", "ipa": "/əˈfɔː.də.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá phải chăng, mua được', tích cực hơn 'cheap'. An toàn khi khen giá." },
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá hợp lý'. Hay dùng để nói giá đúng với giá trị món đồ." }
+      ]
+    },
+    {
+      "term": "to bargain",
+      "ipa": "/ˈbɑː.ɡɪn/",
+      "vi": "mặc cả, trả giá (động từ)",
+      "register": "neutral",
+      "example": "You can bargain at the local market.",
+      "exampleVi": "Bạn có thể mặc cả ở chợ địa phương.",
+      "note": "Động từ. Cũng là danh từ 'a bargain' = một món hời. Mặc cả phổ biến ở chợ, không phổ biến ở cửa hàng lớn.",
+      "synonyms": [
+        { "term": "to haggle", "ipa": "/ˈhæɡ.əl/", "register": "casual", "nuanceVi": "Nhấn vào việc 'mặc cả qua lại nhiều lần', đôi khi gắt. Thân mật, đời thường." },
+        { "term": "to negotiate", "ipa": "/nəˈɡəʊ.ʃi.eɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'thương lượng'. Dùng cho cả công việc, hợp đồng, không chỉ mua bán." }
+      ]
+    },
+    {
+      "term": "discount",
+      "ipa": "/ˈdɪs.kaʊnt/",
+      "vi": "sự giảm giá (danh từ)",
+      "register": "neutral",
+      "example": "Can you give me a discount, please?",
+      "exampleVi": "Bạn giảm giá cho tôi được không?",
+      "note": "Danh từ. Câu mặc cả kinh điển: 'Can you give me a discount?'. Trọng âm rơi vào âm đầu: DIS-count."
+    },
+    {
+      "term": "to wrap",
+      "ipa": "/ræp/",
+      "vi": "gói (quà) (động từ)",
+      "register": "neutral",
+      "example": "Could you wrap it as a gift, please?",
+      "exampleVi": "Bạn gói thành quà giúp tôi nhé?",
+      "note": "Động từ. Chữ 'w' câm, đọc là /ræp/. 'gift wrapping' = dịch vụ gói quà."
+    },
+    {
+      "term": "to fit",
+      "ipa": "/fɪt/",
+      "vi": "vừa (kích cỡ) (động từ)",
+      "register": "neutral",
+      "example": "I am not sure this T-shirt will fit me.",
+      "exampleVi": "Tôi không chắc chiếc áo này có vừa tôi không.",
+      "note": "Động từ. Dùng cho quần áo, kích cỡ. Khác 'to suit' (hợp về kiểu dáng/màu sắc)."
+    },
+    {
+      "term": "lovely",
+      "ipa": "/ˈlʌv.li/",
+      "vi": "đáng yêu, đẹp (tính từ)",
+      "register": "neutral",
+      "example": "What a lovely little box!",
+      "exampleVi": "Cái hộp nhỏ này đẹp quá!",
+      "note": "Tính từ. Cách khen món đồ rất tự nhiên và thân thiện khi mua sắm.",
+      "synonyms": [
+        { "term": "beautiful", "ipa": "/ˈbjuː.tɪ.fəl/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nghĩa 'đẹp'. An toàn cho mọi tình huống." },
+        { "term": "gorgeous", "ipa": "/ˈɡɔː.dʒəs/", "register": "casual", "nuanceVi": "Nhấn 'rất đẹp, lộng lẫy'. Thân mật, biểu cảm mạnh hơn 'lovely'." }
+      ]
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Please pack it carefully because it is fragile.",
+      "exampleVi": "Làm ơn gói cẩn thận vì nó dễ vỡ.",
+      "note": "Trạng từ. Hay dùng khi nhờ gói đồ dễ vỡ (gốm, thủy tinh).",
+      "synonyms": [
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng', sợ làm hỏng. Gần nghĩa nhưng thiên về lực tay nhẹ." },
+        { "term": "safely", "ipa": "/ˈseɪf.li/", "register": "neutral", "nuanceVi": "Nhấn 'an toàn, không bị hỏng', thiên về kết quả chứ không phải cách làm." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "How much is [danh từ]?",
+      "use": "Hỏi giá của một món đồ.",
+      "register": "neutral",
+      "examples": [
+        "How much is this fan?",
+        "How much is the small one?"
+      ],
+      "explanationVi": "Mẫu hỏi giá cơ bản nhất. Với số ít dùng 'is', với số nhiều dùng 'are' ('How much are these?'). Rất dễ nhớ và luôn đúng.",
+      "altOf": "asking-price"
+    },
+    {
+      "pattern": "How much does [danh từ] cost?",
+      "use": "Hỏi giá theo cách khác, hơi đầy đủ hơn.",
+      "register": "neutral",
+      "examples": [
+        "How much does this bag cost?",
+        "How much do these postcards cost?"
+      ],
+      "explanationVi": "Cùng nghĩa với 'How much is...?' nhưng dùng động từ 'cost'. Nhớ thêm 'does/do' và động từ 'cost' ở dạng nguyên thể.",
+      "altOf": "asking-price"
+    },
+    {
+      "pattern": "Can I have a look at [danh từ]?",
+      "use": "Xin phép xem/cầm một món đồ.",
+      "register": "neutral",
+      "examples": [
+        "Can I have a look at that wooden box?",
+        "Can I have a look at the blue scarf?"
+      ],
+      "explanationVi": "'have a look at' = nhìn/xem. Lịch sự hơn là chỉ tay và nói trống không. Bắt đầu bằng 'Can I...?' nghe nhã nhặn.",
+      "altOf": "asking-to-see"
+    },
+    {
+      "pattern": "Could you give me a discount?",
+      "use": "Xin giảm giá một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you give me a discount, please?",
+        "Could you give me a small discount if I buy two?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Đây là câu mặc cả chuẩn, nhẹ nhàng. Thêm 'please' cho nhã nhặn hơn.",
+      "altOf": "bargaining"
+    },
+    {
+      "pattern": "That's a bit too expensive. Can you make it [giá]?",
+      "use": "Chê giá cao và đề nghị một mức giá khác.",
+      "register": "neutral",
+      "examples": [
+        "That's a bit too expensive. Can you make it ten dollars?",
+        "That's a bit too much. Can you make it cheaper?"
+      ],
+      "explanationVi": "'a bit too...' = hơi quá... nghe nhẹ nhàng, không thô. 'make it + giá' = bán với giá đó. Cách mặc cả lịch sự mà vẫn rõ ý.",
+      "altOf": "bargaining"
+    },
+    {
+      "pattern": "Could you wrap it for me, please?",
+      "use": "Nhờ người bán gói món đồ lại.",
+      "register": "neutral",
+      "examples": [
+        "Could you wrap it for me, please?",
+        "Could you wrap it as a gift?"
+      ],
+      "explanationVi": "Dùng khi muốn người bán gói đồ. 'wrap it as a gift' = gói thành quà tặng. Nhớ giới từ 'for me' để nói nhờ giúp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đổi ý hoặc nói điều hơi trái mà không cộc.", "example": "Actually, I prefer the red one." },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ, chắc là", "when": "Khi chưa chắc chắn, muốn nói nhẹ nhàng.", "example": "Maybe I'll take two of them." },
+    { "term": "a little bit", "ipa": "/ə ˈlɪt.əl bɪt/", "vi": "một chút", "when": "Làm lời chê giá hoặc yêu cầu nghe nhẹ hơn.", "example": "It's a little bit expensive for me." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you have a smaller size?" },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Đáp lại đồng ý một cách thân thiện.", "example": "Of course, I can wrap it for you." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang đi du lịch và ghé một quầy bán quà lưu niệm ở chợ địa phương để chọn quà cho gia đình. Bạn hỏi giá, mặc cả nhẹ và nhờ gói quà.",
+    "lines": [
+      {
+        "speaker": "Người bán",
+        "text": "Hello! Welcome to my shop. We have many handmade souvenirs, such as scarves, wooden boxes, and small lanterns. Please have a look around.",
+        "ipa": "/həˈləʊ ˈwel.kəm tə maɪ ʃɒp wiː hæv ˈmen.i ˌhænd.ˈmeɪd ˌsuː.vəˈnɪrz sʌtʃ æz skɑːvz ˈwʊd.ən ˈbɒk.sɪz ænd smɔːl ˈlæn.tənz pliːz hæv ə lʊk əˈraʊnd/",
+        "vi": "Xin chào! Chào mừng đến cửa hàng của tôi. Chúng tôi có nhiều quà lưu niệm làm thủ công, chẳng hạn như khăn, hộp gỗ và đèn lồng nhỏ. Mời bạn xem một vòng nhé."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. They all look lovely. ____ much is this blue scarf?",
+        "ipa": "/θæŋk juː ðeɪ ɔːl lʊk ˈlʌv.li mʌtʃ ɪz ðɪs bluː skɑːf/",
+        "vi": "Cảm ơn. Tất cả trông đều đẹp quá. Chiếc khăn xanh này giá bao nhiêu ____?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "How",
+            "explanationVi": "Mẫu hỏi giá cơ bản: 'How much is + danh từ?'. Vì 'scarf' số ít nên dùng 'is'. Xem mẫu câu 'How much is...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Người bán",
+        "text": "This one is twenty dollars. It is handmade, so although it is a little expensive, it will last for many years.",
+        "ipa": "/ðɪs wʌn ɪz ˈtwen.ti ˈdɒl.əz ɪt ɪz ˌhænd.ˈmeɪd səʊ ɔːlˈðəʊ ɪt ɪz ə ˈlɪt.əl ɪkˈspen.sɪv ɪt wɪl lɑːst fər ˈmen.i jɪəz/",
+        "vi": "Chiếc này hai mươi đô. Nó làm thủ công, nên dù hơi đắt một chút, nó sẽ bền nhiều năm."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see. Honestly, that's a bit too expensive for me. ____ you give me a discount, please?",
+        "ipa": "/aɪ siː ˈɒn.ɪst.li ðæts ə bɪt tuː ɪkˈspen.sɪv fə miː juː ɡɪv miː ə ˈdɪs.kaʊnt pliːz/",
+        "vi": "Tôi hiểu. Thành thật mà nói, với tôi nó hơi đắt quá. Bạn giảm giá cho tôi được ____ không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "'Could you...?' là cách xin giảm giá lịch sự, nhã nhặn hơn 'Can you...?'. Xem mẫu câu 'Could you give me a discount?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Người bán",
+        "text": "Well, because you are friendly, I can make it sixteen dollars. Not only is it a good price, but it also comes with a free postcard.",
+        "ipa": "/wel bɪˈkɒz juː ɑː ˈfrend.li aɪ kæn meɪk ɪt ˌsɪkˈstiːn ˈdɒl.əz nɒt ˈəʊn.li ɪz ɪt ə ɡʊd praɪs bʌt ɪt ˈɔːl.səʊ kʌmz wɪð ə friː ˈpəʊst.kɑːd/",
+        "vi": "Được rồi, vì bạn thân thiện, tôi để giá mười sáu đô. Không những giá tốt, mà còn được tặng kèm một tấm bưu thiếp."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds fair. I'll take it. ____ the way, could you wrap it ____ a gift for my mother?",
+        "ipa": "/ðæt saʊndz feə aɪl teɪk ɪt ðə weɪ kʊd juː ræp ɪt ə ɡɪft fə maɪ ˈmʌð.ə/",
+        "vi": "Nghe hợp lý đấy. Tôi lấy nó. Tiện ____, bạn gói nó ____ quà tặng mẹ tôi giúp được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "By",
+            "explanationVi": "Cụm 'By the way' = 'tiện thể, nhân tiện', dùng để hỏi thêm một câu ngoài lề. Xem phần Trạng từ và cụm từ."
+          },
+          {
+            "type": "knowledge",
+            "answer": "as",
+            "explanationVi": "'wrap it as a gift' = gói nó thành quà tặng. Dùng 'as' để chỉ 'với tư cách / dưới dạng' món quà."
+          }
+        ]
+      },
+      {
+        "speaker": "Người bán",
+        "text": "Of course! I will wrap it carefully because the fabric is delicate. Would you like to buy anything else, ____ a matching wooden box?",
+        "ipa": "/əv kɔːs aɪ wɪl ræp ɪt ˈkeə.fəl.i bɪˈkɒz ðə ˈfæb.rɪk ɪz ˈdel.ɪ.kət wʊd juː laɪk tə baɪ ˈen.i.θɪŋ els ə ˈmætʃ.ɪŋ ˈwʊd.ən bɒks/",
+        "vi": "Tất nhiên rồi! Tôi sẽ gói cẩn thận vì vải khá mỏng manh. Bạn có muốn mua thêm gì nữa không, ____ một chiếc hộp gỗ đồng bộ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "such as",
+            "explanationVi": "'such as' = chẳng hạn như, dùng để nêu ví dụ ('a matching wooden box'). Nêu ví dụ cụ thể nghe tự nhiên hơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Maybe next time, thank you. Here is ____ money. Everything looks wonderful, and I'm sure my family will love these gifts.",
+        "ipa": "/ˈmeɪ.bi nekst taɪm θæŋk juː hɪər ɪz ˈmʌn.i ˈev.ri.θɪŋ lʊks ˈwʌn.də.fəl ænd aɪm ʃʊə maɪ ˈfæm.ɪ.li wɪl lʌv ðiːz ɡɪfts/",
+        "vi": "Có lẽ lần sau, cảm ơn. Đây là tiền ____. Mọi thứ trông tuyệt quá, và tôi chắc gia đình tôi sẽ rất thích những món quà này.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "the",
+            "explanationVi": "Dùng mạo từ 'the' trước 'money' vì đây là khoản tiền cụ thể để trả cho món đồ vừa mua ('the money')."
+          }
+        ]
+      },
+      {
+        "speaker": "Người bán",
+        "text": "Thank you so much! Here is your change and your free postcard. Enjoy the rest of your trip!",
+        "ipa": "/θæŋk juː səʊ mʌtʃ hɪər ɪz jɔː tʃeɪndʒ ænd jɔː friː ˈpəʊst.kɑːd ɪnˈdʒɔɪ ðə rest əv jɔː trɪp/",
+        "vi": "Cảm ơn bạn rất nhiều! Đây là tiền thừa và tấm bưu thiếp tặng kèm. Chúc bạn có chuyến đi vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Mặc cả (bargaining) là chuyện bình thường ở chợ địa phương và các quầy hàng nhỏ, nhưng KHÔNG nên mặc cả ở cửa hàng lớn, siêu thị hay nơi có niêm yết giá cố định.",
+    "Khi mặc cả, hãy giữ thái độ vui vẻ, mỉm cười. Mặc cả là một trò chuyện thân thiện, không phải cãi nhau về giá.",
+    "Ở nhiều nước, người bán mong bạn trả giá nên thường nói giá cao hơn lúc đầu. Trả khoảng 60-70% rồi gặp nhau ở giữa là hợp lý.",
+    "Nếu đã hỏi giá và mặc cả mà không định mua, nên cảm ơn lịch sự rồi rời đi, đừng để người bán mất công gói đồ."
+  ],
+
+  "commonMistakes": [
+    "Nói 'How much?' cụt lủn. Nên nói đủ câu 'How much is this?' cho lịch sự và rõ ràng.",
+    "Dùng 'I want' nghe cộc và đòi hỏi. Nên dùng 'I'd like...' hoặc 'Could you...?' khi nói chuyện với người bán.",
+    "Lẫn 'cheap' (đôi khi nghĩa rẻ tiền, kém chất lượng) với 'affordable'/'reasonable' (giá phải chăng). Khi khen giá tốt nên dùng 'a good price'.",
+    "Quên giới từ trong 'have a look AT something' và 'wrap it FOR me' — thiếu giới từ là lỗi rất hay gặp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mua quà lưu niệm như thật.",
+    "prompt": "Hãy đóng vai một người bán quà lưu niệm ở chợ nói tiếng Anh. Tôi là khách du lịch đang muốn mua quà cho gia đình. Hãy bắt đầu bằng cách chào tôi và giới thiệu vài món đồ. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bán thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ hết hàng món tôi thích, không cho mặc cả nhiều) để tôi tập xử lý. Hãy dùng câu đơn giản phù hợp trình độ A2 và nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy để tôi tập mặc cả qua lại 2-3 lần trước khi đồng ý giá.' để luyện thương lượng.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được giá một món đồ bằng 'How much is...?' mà không cần nhìn gợi ý.",
+    "Tôi xin giảm giá được một cách lịch sự bằng 'Could you give me a discount?'.",
+    "Tôi nhờ được người bán gói quà bằng 'Could you wrap it for me?'."
+  ]
+}

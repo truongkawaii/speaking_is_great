@@ -1,0 +1,361 @@
+{
+  "id": "delegating-tasks",
+  "category": "work",
+  "title": "Giao việc",
+  "titleEn": "Delegating Tasks",
+  "level": "B2",
+  "functions": ["requesting", "suggesting", "agreeing", "opinions"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Giao việc cho đồng nghiệp một cách lịch sự, rõ ràng bằng câu dài",
+    "Giải thích lý do, mức độ ưu tiên và hạn chót của công việc",
+    "Kiểm tra năng lực và sự sẵn sàng của người được giao trước khi bàn giao",
+    "Phản hồi khi được giao việc: nhận lời, đặt câu hỏi làm rõ hoặc từ chối khéo",
+    "Dùng ngữ pháp nâng cao (in order to, not only… but also, mệnh đề quan hệ which/who) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to delegate",
+      "ipa": "/ˈdel.ɪ.ɡeɪt/",
+      "vi": "giao việc, ủy thác (động từ)",
+      "register": "neutral",
+      "example": "A good manager knows how to delegate tasks to the right people.",
+      "exampleVi": "Một quản lý giỏi biết cách giao việc cho đúng người.",
+      "note": "Động từ, đi với 'to somebody'. Trọng âm rơi vào âm đầu: DEL-e-gate. Danh từ là 'delegation' (sự ủy thác).",
+      "synonyms": [
+        { "term": "to assign", "ipa": "/əˈsaɪn/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nhấn 'phân công cụ thể một nhiệm vụ'. Ít hàm ý 'trao quyền' như delegate." },
+        { "term": "to hand over", "ipa": "/hænd ˈəʊ.vər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'bàn giao, chuyển cho ai đó'. Nhấn vào hành động trao lại trách nhiệm." },
+        { "term": "to entrust", "ipa": "/ɪnˈtrʌst/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tin tưởng giao phó'. Đi với 'entrust somebody with something'." }
+      ]
+    },
+    {
+      "term": "task",
+      "ipa": "/tɑːsk/",
+      "vi": "nhiệm vụ, công việc cụ thể (danh từ)",
+      "register": "neutral",
+      "example": "I have a couple of tasks I'd like to pass on to you.",
+      "exampleVi": "Tôi có vài nhiệm vụ muốn chuyển cho bạn.",
+      "note": "Danh từ chỉ một việc cụ thể, có ranh giới rõ. Khác 'job' (công việc/nghề nói chung) và 'assignment' (việc được giao chính thức).",
+      "synonyms": [
+        { "term": "assignment", "ipa": "/əˈsaɪn.mənt/", "register": "neutral", "nuanceVi": "Nhấn 'việc được giao chính thức', thường có người giao rõ ràng. Trang trọng hơn 'task' một chút." },
+        { "term": "responsibility", "ipa": "/rɪˌspɒn.səˈbɪl.ə.ti/", "register": "neutral", "nuanceVi": "Rộng hơn 'task': là trách nhiệm lâu dài, không chỉ một việc đơn lẻ." }
+      ]
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "The deadline for this report is Friday afternoon.",
+      "exampleVi": "Hạn chót cho báo cáo này là chiều thứ Sáu.",
+      "note": "Danh từ. Đi với động từ 'meet a deadline' (kịp hạn) hoặc 'miss a deadline' (trễ hạn).",
+      "synonyms": [
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'ngày phải nộp'. Trung tính, hay dùng trong quản lý dự án và hóa đơn." },
+        { "term": "time frame", "ipa": "/ˈtaɪm freɪm/", "register": "neutral", "nuanceVi": "Chỉ 'khoảng thời gian cho phép' chứ không phải một mốc cụ thể như deadline." }
+      ]
+    },
+    {
+      "term": "priority",
+      "ipa": "/praɪˈɒr.ə.ti/",
+      "vi": "mức độ ưu tiên, việc cần làm trước (danh từ)",
+      "register": "neutral",
+      "example": "Please treat this as your top priority for today.",
+      "exampleVi": "Hãy coi đây là việc ưu tiên hàng đầu của bạn hôm nay.",
+      "note": "Danh từ. Cụm hay dùng: 'top priority' (ưu tiên cao nhất), 'set priorities' (xác định thứ tự ưu tiên).",
+      "synonyms": [
+        { "term": "urgency", "ipa": "/ˈɜː.dʒən.si/", "register": "neutral", "nuanceVi": "Nhấn vào 'tính cấp bách về thời gian', còn priority nhấn 'tầm quan trọng/thứ tự làm trước'." }
+      ]
+    },
+    {
+      "term": "to handle",
+      "ipa": "/ˈhæn.dəl/",
+      "vi": "đảm nhận, lo liệu, xử lý (động từ)",
+      "register": "neutral",
+      "example": "Do you think you can handle this on your own?",
+      "exampleVi": "Bạn nghĩ mình có thể tự lo việc này không?",
+      "note": "Động từ rất thông dụng, nghĩa 'đảm đương và xử lý ổn thỏa'. Tự nhiên hơn 'do' khi nói về việc khó.",
+      "synonyms": [
+        { "term": "to take care of", "ipa": "/teɪk ˈkeər ɒv/", "register": "casual", "nuanceVi": "Đời thường, thân thiện, nghĩa 'lo giúp, xử lý hộ'. Nghe nhẹ nhàng hơn handle." },
+        { "term": "to manage", "ipa": "/ˈmæn.ɪdʒ/", "register": "neutral", "nuanceVi": "Nhấn 'xoay xở làm được dù khó'. Hay đi với 'manage to + V'." },
+        { "term": "to deal with", "ipa": "/diːl wɪð/", "register": "neutral", "nuanceVi": "Nhấn 'đối phó, giải quyết vấn đề/rắc rối'. Thiên về xử lý tình huống hơn là làm một nhiệm vụ." }
+      ]
+    },
+    {
+      "term": "workload",
+      "ipa": "/ˈwɜːk.ləʊd/",
+      "vi": "khối lượng công việc (danh từ)",
+      "register": "neutral",
+      "example": "I'd love to help, but my workload is quite heavy this week.",
+      "exampleVi": "Tôi rất muốn giúp, nhưng tuần này khối lượng công việc của tôi khá nặng.",
+      "note": "Danh từ không đếm được. Cụm hay dùng: 'a heavy/light workload', 'reduce someone's workload'.",
+      "synonyms": [
+        { "term": "workout", "ipa": "/ˈwɜːk.aʊt/", "register": "casual", "nuanceVi": "BẪY: 'workout' là buổi TẬP THỂ DỤC, KHÔNG liên quan công việc. Đừng nhầm với workload." }
+      ]
+    },
+    {
+      "term": "capable",
+      "ipa": "/ˈkeɪ.pə.bəl/",
+      "vi": "có năng lực, đủ khả năng (tính từ)",
+      "register": "neutral",
+      "example": "She is more than capable of leading this project.",
+      "exampleVi": "Cô ấy thừa khả năng dẫn dắt dự án này.",
+      "note": "Tính từ. Đi với 'capable OF + V-ing/danh từ'. Câu khen người được giao việc rất tự nhiên.",
+      "synonyms": [
+        { "term": "competent", "ipa": "/ˈkɒm.pɪ.tənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thành thạo, đủ chuyên môn để làm tốt'. Nghe khách quan, chuyên nghiệp." },
+        { "term": "reliable", "ipa": "/rɪˈlaɪ.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'đáng tin cậy, luôn hoàn thành như đã hứa' chứ không chỉ là có khả năng." }
+      ]
+    },
+    {
+      "term": "straightforward",
+      "ipa": "/ˌstreɪtˈfɔː.wəd/",
+      "vi": "đơn giản, dễ hiểu, không rắc rối (tính từ)",
+      "register": "neutral",
+      "example": "Don't worry, the task is fairly straightforward.",
+      "exampleVi": "Đừng lo, nhiệm vụ này khá đơn giản, dễ làm.",
+      "note": "Tính từ. Trấn an người được giao rằng việc không phức tạp. Cũng có nghĩa 'thẳng thắn' khi nói về con người.",
+      "synonyms": [
+        { "term": "manageable", "ipa": "/ˈmæn.ɪ.dʒə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'vừa sức, có thể kham được', không hẳn là dễ mà là 'trong tầm kiểm soát'." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách kịp thời, ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "Please get back to me promptly if anything comes up.",
+      "exampleVi": "Hãy phản hồi cho tôi ngay nếu có gì phát sinh.",
+      "note": "Trạng từ, nhấn 'không trì hoãn'. Trang trọng và lịch sự hơn 'quickly' trong môi trường công sở.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'tức khắc, không một chút chậm trễ'. Mạnh và gấp hơn promptly." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, thân thiện, nghĩa 'ngay bây giờ'. Hợp khi nói chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "accordingly",
+      "ipa": "/əˈkɔː.dɪŋ.li/",
+      "vi": "theo đó, cho phù hợp (trạng từ)",
+      "register": "formal",
+      "example": "I'll send you the brief, and you can plan your week accordingly.",
+      "exampleVi": "Tôi sẽ gửi bản tóm tắt, và bạn có thể lên kế hoạch cho cả tuần cho phù hợp.",
+      "note": "Trạng từ trang trọng, nghĩa 'dựa theo điều vừa nói mà điều chỉnh'. Hay đặt cuối câu, rất 'ăn điểm' TOEIC.",
+      "synonyms": [
+        { "term": "as needed", "ipa": "/æz ˈniː.dɪd/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'tùy theo nhu cầu phát sinh', linh hoạt hơn accordingly." }
+      ]
+    },
+    {
+      "term": "to follow up",
+      "ipa": "/ˈfɒl.əʊ ʌp/",
+      "vi": "theo dõi tiếp, kiểm tra tiến độ (động từ)",
+      "register": "neutral",
+      "example": "I'll follow up with you on Thursday to see how it's going.",
+      "exampleVi": "Tôi sẽ kiểm tra lại với bạn vào thứ Năm xem tiến độ thế nào.",
+      "note": "Cụm động từ, đi với 'with somebody / on something'. Danh từ là 'a follow-up' (việc theo dõi tiếp).",
+      "synonyms": [
+        { "term": "to check in", "ipa": "/tʃek ɪn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ghé hỏi thăm tiến độ'. Nhẹ nhàng, ít mang tính giám sát hơn follow up." }
+      ]
+    },
+    {
+      "term": "to brief",
+      "ipa": "/briːf/",
+      "vi": "phổ biến, hướng dẫn ngắn gọn (động từ)",
+      "register": "neutral",
+      "example": "Let me brief you on what needs to be done.",
+      "exampleVi": "Để tôi phổ biến cho bạn những việc cần làm.",
+      "note": "Động từ, nghĩa 'tóm tắt thông tin cần thiết cho ai trước khi họ làm'. Danh từ 'a brief' = bản tóm tắt yêu cầu.",
+      "synonyms": [
+        { "term": "to fill someone in", "ipa": "/fɪl ˈsʌm.wʌn ɪn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'cập nhật thông tin cho ai về việc họ chưa biết'. Thân mật hơn brief." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Would you mind [V-ing] ... ?",
+      "use": "Nhờ ai làm một việc một cách lịch sự, tế nhị.",
+      "register": "neutral",
+      "examples": [
+        "Would you mind taking over the client report while I'm away?",
+        "Would you mind putting together the slides for Monday's meeting?"
+      ],
+      "explanationVi": "'Would you mind + V-ing' = 'Bạn có phiền... không'. Rất lịch sự khi giao việc cho người ngang hàng. Lưu ý: trả lời 'No' nghĩa là ĐỒNG Ý (không phiền).",
+      "altOf": "assigning-task"
+    },
+    {
+      "pattern": "Could you possibly [V] ... ?",
+      "use": "Đề nghị ai làm việc gì một cách nhã nhặn, không áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "Could you possibly handle the customer emails this afternoon?",
+        "Could you possibly look into the budget figures before Friday?"
+      ],
+      "explanationVi": "'possibly' chèn vào làm câu nghe khiêm tốn, để ngỏ khả năng người kia từ chối. Hợp khi giao việc cho người mình không có quyền ra lệnh trực tiếp.",
+      "altOf": "assigning-task"
+    },
+    {
+      "pattern": "I'd like you to [V], as it's [tính từ/lý do].",
+      "use": "Giao việc rõ ràng kèm lý do hoặc mức ưu tiên (sếp giao cho cấp dưới).",
+      "register": "formal",
+      "examples": [
+        "I'd like you to finalize the proposal today, as it's our top priority.",
+        "I'd like you to contact the supplier, as it's quite urgent."
+      ],
+      "explanationVi": "'I'd like you to + V' trực tiếp nhưng vẫn lịch sự, hợp với vai quản lý. 'as' giải thích lý do giúp người nhận hiểu vì sao việc quan trọng."
+    },
+    {
+      "pattern": "The reason I'm asking you is that [mệnh đề].",
+      "use": "Giải thích vì sao chọn giao việc cho chính người đó.",
+      "register": "neutral",
+      "examples": [
+        "The reason I'm asking you is that you handled a similar project really well last time.",
+        "The reason I'm asking you is that you're the most experienced person on the team."
+      ],
+      "explanationVi": "Nêu lý do chọn người vừa thể hiện sự tôn trọng vừa tạo động lực. Câu dài, mạch lạc, rất phù hợp cấp độ B2."
+    },
+    {
+      "pattern": "I'd be happy to [V], but [mệnh đề điều kiện/giới hạn].",
+      "use": "Nhận việc nhưng nêu một điều kiện hoặc khó khăn (chấp nhận có điều kiện).",
+      "register": "neutral",
+      "examples": [
+        "I'd be happy to take it on, but I might need an extra day to finish it properly.",
+        "I'd be happy to help, but could we push the other report back a little?"
+      ],
+      "explanationVi": "Cách nhận việc tích cực mà vẫn thành thật về giới hạn. 'I'd be happy to' thể hiện thiện chí; mệnh đề sau 'but' bảo vệ quỹ thời gian của bạn.",
+      "altOf": "responding-to-task"
+    },
+    {
+      "pattern": "I'm afraid I can't take this on at the moment, because [lý do].",
+      "use": "Từ chối nhận thêm việc một cách lịch sự, có lý do.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid I can't take this on at the moment, because my workload is already quite heavy.",
+        "I'm afraid I can't take this on right now, because I'm tied up with the audit."
+      ],
+      "explanationVi": "'I'm afraid' làm lời từ chối nghe nhẹ nhàng, tiếc nuối. Luôn kèm lý do thật để không bị hiểu là thiếu hợp tác.",
+      "altOf": "responding-to-task"
+    },
+    {
+      "pattern": "Just to make sure I've got it right, you want me to [V], right?",
+      "use": "Xác nhận lại yêu cầu để chắc chắn hiểu đúng việc được giao.",
+      "register": "neutral",
+      "examples": [
+        "Just to make sure I've got it right, you want me to send the draft to the client by noon, right?",
+        "Just to make sure I've got it right, you'd like the figures broken down by region, correct?"
+      ],
+      "explanationVi": "Câu nhắc lại yêu cầu thể hiện bạn lắng nghe kỹ và tránh hiểu lầm. Một thói quen rất chuyên nghiệp khi nhận việc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "ideally", "ipa": "/aɪˈdɪə.li/", "vi": "lý tưởng nhất là", "when": "Nêu mong muốn tốt nhất nhưng vẫn để ngỏ phương án khác.", "example": "Ideally, I'd like this finished by Thursday, but Friday is fine too." },
+    { "term": "specifically", "ipa": "/spəˈsɪf.ɪk.li/", "vi": "cụ thể là", "when": "Khoanh vùng chính xác phần việc bạn muốn người kia làm.", "example": "Specifically, I need you to focus on the financial section." },
+    { "term": "in advance", "ipa": "/ɪn ədˈvɑːns/", "vi": "trước (về thời gian)", "when": "Nhấn việc cần làm/báo sớm trước hạn.", "example": "Please let me know in advance if you think you'll miss the deadline." },
+    { "term": "no problem at all", "ipa": "/nəʊ ˈprɒb.ləm ət ɔːl/", "vi": "hoàn toàn không vấn đề gì", "when": "Nhận lời vui vẻ, trấn an người giao việc.", "example": "No problem at all, I'll get started right after lunch." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng", "when": "Mở đầu một ý nhằm cân bằng, công tâm khi nêu khó khăn.", "example": "To be fair, the team has already done a lot this week." }
+  ],
+
+  "dialogue": {
+    "context": "Tại văn phòng, một trưởng nhóm (Trưởng nhóm) cần giao lại một phần dự án cho thành viên trong nhóm (Bạn) trước khi đi công tác. Hai người trao đổi về nhiệm vụ, hạn chót và mức độ ưu tiên.",
+    "lines": [
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Hi, do you have a minute? I'll be away on a business trip next week, so I'd like to hand a few tasks over to you while I'm gone.",
+        "ipa": "/haɪ duː juː hæv ə ˈmɪn.ɪt aɪl biː əˈweɪ ɒn ə ˈbɪz.nɪs trɪp nekst wiːk səʊ aɪd laɪk tə hænd ə fjuː tɑːsks ˈəʊ.vər tə juː waɪl aɪm ɡɒn/",
+        "vi": "Chào bạn, bạn rảnh một phút không? Tuần sau tôi sẽ đi công tác, nên tôi muốn bàn giao vài nhiệm vụ cho bạn trong lúc tôi vắng mặt."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course, I'm happy to help. ____ to make sure I've got it right, you'd like me to cover your responsibilities while you're away, is that correct?",
+        "ipa": "/ɒv kɔːs aɪm ˈhæp.i tə help dʒʌst tə meɪk ʃʊər aɪv ɡɒt ɪt raɪt juːd laɪk miː tə ˈkʌv.ər jɔːr rɪˌspɒn.sɪˈbɪl.ə.tiz waɪl jɔːr əˈweɪ ɪz ðæt kəˈrekt/",
+        "vi": "Tất nhiên rồi, tôi sẵn lòng giúp. ____ để chắc chắn tôi hiểu đúng, anh/chị muốn tôi đảm nhận phần trách nhiệm của anh/chị trong lúc vắng mặt, đúng không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Just", "explanationVi": "Mẫu xác nhận yêu cầu: 'Just to make sure I've got it right, ...'. 'Just' làm câu nghe nhẹ nhàng, khiêm tốn khi nhắc lại để kiểm tra. Xem mẫu câu xác nhận trong phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Exactly. Specifically, I'd like you to finalize the quarterly report, ____ it's our top priority and the client is expecting it by Wednesday.",
+        "ipa": "/ɪɡˈzækt.li spəˈsɪf.ɪk.li aɪd laɪk juː tə ˈfaɪ.nə.laɪz ðə ˈkwɔː.tə.li rɪˈpɔːt æz ɪts ˈaʊər tɒp praɪˈɒr.ə.ti ænd ðə ˈklaɪ.ənt ɪz ɪkˈspek.tɪŋ ɪt baɪ ˈwenz.deɪ/",
+        "vi": "Chính xác. Cụ thể là, tôi muốn bạn hoàn thiện báo cáo quý, ____ đây là việc ưu tiên hàng đầu của chúng ta và khách hàng đang đợi nó trước thứ Tư.",
+        "blanks": [
+          { "type": "knowledge", "answer": "as", "explanationVi": "'as' ở đây nghĩa là 'bởi vì', dùng để nêu lý do/mức ưu tiên. Xem mẫu câu 'I'd like you to [V], as it's [lý do]' trong phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd be happy to take it on, but I'm currently working on the budget figures, ____ also need to be ready this week. Could we agree on which one comes first?",
+        "ipa": "/aɪd biː ˈhæp.i tə teɪk ɪt ɒn bʌt aɪm ˈkʌr.ənt.li ˈwɜː.kɪŋ ɒn ðə ˈbʌdʒ.ɪt ˈfɪɡ.əz wɪtʃ ˈɔːl.səʊ niːd tə biː ˈred.i ðɪs wiːk kʊd wiː əˈɡriː ɒn wɪtʃ wʌn kʌmz fɜːst/",
+        "vi": "Tôi rất sẵn lòng nhận việc này, nhưng hiện tôi đang làm phần số liệu ngân sách, ____ cũng cần xong trong tuần này. Mình thống nhất xem việc nào làm trước được không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'the budget figures' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Good point. Let's make the report your top priority; in order to free up your time, I'll ask Mai to take over the budget figures for now.",
+        "ipa": "/ɡʊd pɔɪnt lets meɪk ðə rɪˈpɔːt jɔːr tɒp praɪˈɒr.ə.ti ɪn ˈɔː.dər tə friː ʌp jɔːr taɪm aɪl ɑːsk maɪ tə teɪk ˈəʊ.vər ðə ˈbʌdʒ.ɪt ˈfɪɡ.əz fɔːr naʊ/",
+        "vi": "Ý hay đấy. Mình cho báo cáo là ưu tiên số một của bạn nhé; để bạn có thời gian, tôi sẽ nhờ Mai tiếp quản phần số liệu ngân sách trong lúc này."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That works for me. ____ I finish the report on time, I'd appreciate it if you could send me last quarter's template so I can follow the same format.",
+        "ipa": "/ðæt wɜːks fɔːr miː tə ɪnˈʃʊər aɪ ˈfɪn.ɪʃ ðə rɪˈpɔːt ɒn taɪm aɪd əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd send miː lɑːst ˈkwɔː.təz ˈtem.pleɪt səʊ aɪ kæn ˈfɒl.əʊ ðə seɪm ˈfɔː.mæt/",
+        "vi": "Vậy hợp lý với tôi. ____ tôi hoàn thành báo cáo đúng hạn, tôi rất mong anh/chị gửi cho tôi mẫu của quý trước để tôi làm theo đúng định dạng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "To ensure", "explanationVi": "Mệnh đề chỉ mục đích đầu câu dùng 'To ensure (that)...' (= để đảm bảo rằng). Tương đương 'in order to ensure'. Đây là cấu trúc TOEIC chỉ mục đích rất hay gặp." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "No problem at all. I'll brief you on everything this afternoon, and I'll follow up with you on Thursday to check how things are going.",
+        "ipa": "/nəʊ ˈprɒb.ləm ət ɔːl aɪl briːf juː ɒn ˈev.ri.θɪŋ ðɪs ˌɑːf.təˈnuːn ænd aɪl ˈfɒl.əʊ ʌp wɪð juː ɒn ˈθɜːz.deɪ tə tʃek haʊ θɪŋz ɑː ˈɡəʊ.ɪŋ/",
+        "vi": "Hoàn toàn không vấn đề gì. Chiều nay tôi sẽ phổ biến mọi thứ cho bạn, và tôi sẽ kiểm tra lại với bạn vào thứ Năm xem tiến độ thế nào."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sounds great. Honestly, I see this as a good chance to grow, so not only will I finish the report, ____ I'll also keep you updated on ____ along the way.",
+        "ipa": "/saʊndz ɡreɪt ˈɒn.ɪst.li aɪ siː ðɪs æz ə ɡʊd tʃɑːns tə ɡrəʊ səʊ nɒt ˈəʊn.li wɪl aɪ ˈfɪn.ɪʃ ðə rɪˈpɔːt bʌt aɪl ˈɔːl.səʊ kiːp juː ʌpˈdeɪ.tɪd ɒn əˈlɒŋ ðə weɪ/",
+        "vi": "Nghe tuyệt đấy. Thành thật mà nói, tôi xem đây là cơ hội tốt để phát triển, nên tôi không chỉ hoàn thành báo cáo, ____ còn cập nhật cho anh/chị về ____ trong suốt quá trình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only … but also …' nối hai ý. Khi 'not only' đứng đầu mệnh đề thì phải đảo ngữ ('not only will I finish'), và vế sau dùng 'but … also'." },
+          { "type": "personal", "hint": "Điều bạn muốn báo cáo tiến độ. Ví dụ: 'any issues' (bất kỳ vấn đề nào), 'my progress' (tiến độ của tôi)." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "That's exactly the attitude I was hoping for. I'm confident you can handle this; you've proven yourself to be both capable and reliable, so I'll leave it in your hands.",
+        "ipa": "/ðæts ɪɡˈzækt.li ði ˈæt.ɪ.tjuːd aɪ wɒz ˈhəʊ.pɪŋ fɔː aɪm ˈkɒn.fɪ.dənt juː kæn ˈhæn.dəl ðɪs juːv ˈpruː.vən jɔːˈself tə biː bəʊθ ˈkeɪ.pə.bəl ænd rɪˈlaɪ.ə.bəl səʊ aɪl liːv ɪt ɪn jɔːr hændz/",
+        "vi": "Đó đúng là tinh thần tôi mong đợi. Tôi tin bạn xử lý được việc này; bạn đã chứng tỏ mình vừa có năng lực vừa đáng tin cậy, nên tôi yên tâm giao việc cho bạn."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở môi trường công sở phương Tây, giao việc thường kèm giải thích 'vì sao' và 'tầm quan trọng' của việc đó, thay vì chỉ ra lệnh. Điều này giúp người nhận thấy được tôn trọng và chủ động hơn.",
+    "Người nhận việc được khuyến khích đặt câu hỏi làm rõ hoặc nêu giới hạn về thời gian. Điều này được xem là chuyên nghiệp, không phải là 'cãi sếp' hay thiếu hợp tác.",
+    "Từ chối khéo một nhiệm vụ khi đang quá tải (kèm lý do) là chấp nhận được; im lặng nhận rồi trễ hạn mới là điều bị đánh giá thấp.",
+    "Việc 'follow up' (kiểm tra tiến độ) là bình thường và mang tính hỗ trợ, không nên hiểu là bị giám sát hay nghi ngờ."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only' đầu câu: phải đảo trợ động từ — 'Not only WILL I finish…', không phải 'Not only I will finish…'.",
+    "Hiểu sai câu trả lời cho 'Would you mind…?': trả lời 'No' nghĩa là ĐỒNG Ý (không phiền), 'Yes' mới là từ chối.",
+    "Nhầm 'workload' (khối lượng công việc) với 'workout' (buổi tập thể dục) — hai từ hoàn toàn khác nghĩa.",
+    "Từ chối cộc lốc 'No, I can't.' Hãy bọc bằng 'I'm afraid I can't take this on at the moment, because…' kèm lý do cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống giao việc và nhận việc như thật.",
+    "prompt": "Hãy đóng vai trưởng nhóm của tôi tại công ty, nói tiếng Anh. Bạn cần giao lại cho tôi một vài nhiệm vụ trước khi bạn đi công tác. Hãy bắt đầu bằng việc hỏi tôi có rảnh không rồi giao việc từng phần một (nêu nhiệm vụ, hạn chót, mức ưu tiên và lý do chọn tôi). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một trưởng nhóm thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'in order to', 'not only… but also', và mệnh đề quan hệ 'which/who'. Thỉnh thoảng tạo tình huống bất ngờ (việc gấp chồng lên nhau, hạn chót bị đẩy sớm) để tôi tập xác nhận yêu cầu, thương lượng ưu tiên hoặc từ chối khéo. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Bây giờ hãy đổi vai — để tôi làm người giao việc, còn bạn là nhân viên đang quá tải và hay từ chối khéo.' để luyện cả chiều giao việc.",
+      "Thêm: 'Hãy nói nhanh hơn như người bản xứ và dùng nhiều thành ngữ công sở.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi giao được một nhiệm vụ bằng câu dài, có nêu hạn chót, mức ưu tiên và lý do chọn người.",
+    "Tôi xác nhận lại yêu cầu và nêu được giới hạn của mình ('I'd be happy to…, but…') khi nhận việc.",
+    "Tôi dùng đúng 'in order to', đảo ngữ 'not only… but also' và mệnh đề quan hệ 'which/who' khi nói."
+  ]
+}

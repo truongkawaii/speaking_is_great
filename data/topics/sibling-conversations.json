@@ -1,0 +1,330 @@
+{
+  "id": "sibling-conversations",
+  "category": "family",
+  "title": "Trò chuyện anh chị em",
+  "titleEn": "Talking with Siblings",
+  "level": "A2",
+  "functions": ["small-talk", "suggesting", "agreeing", "requesting"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi thăm và trò chuyện đời thường với anh chị em bằng câu đơn giản",
+    "Rủ rê, đề xuất cùng làm một việc gì đó (xem phim, dọn nhà, đi ăn)",
+    "Mượn đồ và nhờ vả một cách lịch sự",
+    "Đồng ý hoặc từ chối nhẹ nhàng khi anh chị em rủ rê",
+    "Dùng một vài cấu trúc nối câu cơ bản (because, so, such as) để nói tự nhiên hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "sibling",
+      "ipa": "/ˈsɪb.lɪŋ/",
+      "vi": "anh / chị / em ruột (danh từ)",
+      "register": "neutral",
+      "example": "I have two siblings: an older brother and a younger sister.",
+      "exampleVi": "Tôi có hai anh chị em: một anh trai và một em gái.",
+      "note": "Danh từ trung tính, dùng chung cho cả anh, chị, em (không phân biệt giới hay tuổi). Trong nói chuyện đời thường người ta hay nói thẳng 'brother / sister' hơn.",
+      "synonyms": [
+        { "term": "brother", "ipa": "/ˈbrʌð.ər/", "register": "neutral", "nuanceVi": "Chỉ riêng anh trai hoặc em trai. Cụ thể hơn 'sibling'; đời thường dùng nhiều hơn." },
+        { "term": "sister", "ipa": "/ˈsɪs.tər/", "register": "neutral", "nuanceVi": "Chỉ riêng chị gái hoặc em gái. Cụ thể hơn 'sibling'." }
+      ]
+    },
+    {
+      "term": "to borrow",
+      "ipa": "/ˈbɒr.əʊ/",
+      "vi": "mượn (động từ)",
+      "register": "neutral",
+      "example": "Can I borrow your charger for a minute?",
+      "exampleVi": "Tớ mượn cục sạc của cậu một lát được không?",
+      "note": "Động từ. 'borrow' = mượn (lấy về dùng). Đừng nhầm với 'lend' = cho mượn (đưa đi). Người mượn thì 'borrow from', người cho mượn thì 'lend to'.",
+      "synonyms": [
+        { "term": "to lend", "ipa": "/lend/", "register": "neutral", "nuanceVi": "Ngược chiều với 'borrow': 'lend' là CHO mượn (đưa cho ai đó). 'Can you lend me your charger?' = Cho tớ mượn sạc nhé?" }
+      ]
+    },
+    {
+      "term": "to share",
+      "ipa": "/ʃeər/",
+      "vi": "chia sẻ, dùng chung (động từ)",
+      "register": "neutral",
+      "example": "We share a room, so we have to keep it tidy.",
+      "exampleVi": "Bọn tớ ở chung phòng, nên phải giữ phòng gọn gàng.",
+      "note": "Động từ. Đi với 'something with someone'. Anh chị em hay 'share' phòng, đồ chơi, đồ ăn.",
+      "synonyms": [
+        { "term": "to split", "ipa": "/splɪt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chia đôi/chia phần' (thường là tiền hoặc đồ ăn). 'Let's split the pizza.' = Chia đôi cái pizza nhé." }
+      ]
+    },
+    {
+      "term": "annoying",
+      "ipa": "/əˈnɔɪ.ɪŋ/",
+      "vi": "phiền phức, khó chịu (tính từ)",
+      "register": "casual",
+      "example": "My little brother is so annoying when he takes my things.",
+      "exampleVi": "Em trai tớ phiền ghê khi nó lấy đồ của tớ.",
+      "note": "Tính từ. Tả người/việc làm mình bực mình. Rất hay dùng khi nói (đùa) về anh chị em.",
+      "synonyms": [
+        { "term": "irritating", "ipa": "/ˈɪr.ɪ.teɪ.tɪŋ/", "register": "neutral", "nuanceVi": "Gần nghĩa, hơi trang trọng hơn 'annoying'. Nhấn cảm giác bực bội kéo dài." },
+        { "term": "frustrating", "ipa": "/frʌˈstreɪ.tɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'gây bực vì không làm được/không như ý', thiên về tình huống hơn là về người." }
+      ]
+    },
+    {
+      "term": "to argue",
+      "ipa": "/ˈɑːr.ɡjuː/",
+      "vi": "cãi nhau (động từ)",
+      "register": "neutral",
+      "example": "We sometimes argue, but we always make up quickly.",
+      "exampleVi": "Bọn tớ thỉnh thoảng cãi nhau, nhưng luôn làm hòa nhanh.",
+      "note": "Động từ. 'argue with someone about something'. Danh từ là 'an argument' (một cuộc cãi vã).",
+      "synonyms": [
+        { "term": "to fight", "ipa": "/faɪt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa cãi nhau (đôi khi cả đánh nhau). Trẻ con/anh chị em 'fight' nghĩa thường là cãi cọ." },
+        { "term": "to quarrel", "ipa": "/ˈkwɒr.əl/", "register": "formal", "nuanceVi": "Trang trọng/hơi cũ, nghĩa cãi vã. Nghe sách vở; nói đời thường ít dùng." }
+      ]
+    },
+    {
+      "term": "to get along",
+      "ipa": "/ɡet əˈlɒŋ/",
+      "vi": "hợp nhau, hòa thuận (cụm động từ)",
+      "register": "neutral",
+      "example": "I really get along with my sister because we like the same things.",
+      "exampleVi": "Tớ rất hợp với chị gái vì bọn tớ thích những thứ giống nhau.",
+      "note": "Cụm động từ. 'get along with someone' = hòa hợp với ai. Rất thông dụng khi nói về quan hệ gia đình, bạn bè."
+    },
+    {
+      "term": "chore",
+      "ipa": "/tʃɔːr/",
+      "vi": "việc nhà (danh từ)",
+      "register": "neutral",
+      "example": "We share the chores, such as washing the dishes and cleaning the floor.",
+      "exampleVi": "Bọn tớ chia nhau việc nhà, chẳng hạn như rửa bát và lau nhà.",
+      "note": "Danh từ, thường dùng số nhiều 'chores'. Chỉ những việc nhà lặt vặt hằng ngày.",
+      "synonyms": [
+        { "term": "housework", "ipa": "/ˈhaʊs.wɜːk/", "register": "neutral", "nuanceVi": "Danh từ không đếm được, chỉ việc nhà nói chung. 'chores' đếm được, chỉ từng việc cụ thể." }
+      ]
+    },
+    {
+      "term": "favourite",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "vi": "yêu thích nhất (tính từ)",
+      "register": "neutral",
+      "example": "What is your favourite movie these days?",
+      "exampleVi": "Dạo này phim yêu thích của cậu là gì?",
+      "note": "Tính từ. Viết kiểu Anh-Anh 'favourite', Anh-Mỹ là 'favorite'. Luôn nghĩa 'thích nhất', không cần 'most'."
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ər/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "Let's watch a movie together tonight.",
+      "exampleVi": "Tối nay xem phim cùng nhau nhé.",
+      "note": "Trạng từ, thường đứng cuối câu. Rất hay dùng khi rủ rê làm chung việc gì.",
+      "synonyms": [
+        { "term": "jointly", "ipa": "/ˈdʒɔɪnt.li/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'chung, cùng nhau' (thường về công việc/trách nhiệm). Nói đời thường gần như không dùng." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "Can you tidy your room quickly before Mum comes home?",
+      "exampleVi": "Cậu dọn phòng nhanh lên trước khi mẹ về được không?",
+      "note": "Trạng từ chỉ cách thức, thường đứng sau động từ hoặc cuối câu.",
+      "synonyms": [
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng cho sự thay đổi/tăng giảm ('grow rapidly'). Đời thường vẫn dùng 'quickly'." },
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Đời thường, vừa là tính từ vừa là trạng từ. 'Run fast' (không nói 'fastly'). Nhấn tốc độ di chuyển." }
+      ]
+    },
+    {
+      "term": "tidy",
+      "ipa": "/ˈtaɪ.di/",
+      "vi": "gọn gàng, ngăn nắp (tính từ); dọn dẹp (động từ)",
+      "register": "neutral",
+      "example": "Your desk is so tidy! Can you help me tidy mine?",
+      "exampleVi": "Bàn của cậu gọn gàng ghê! Giúp tớ dọn bàn của tớ nhé?",
+      "note": "Vừa là tính từ (gọn gàng) vừa là động từ ('tidy up' = dọn dẹp). Trái nghĩa: 'messy' (bừa bộn).",
+      "synonyms": [
+        { "term": "neat", "ipa": "/niːt/", "register": "neutral", "nuanceVi": "Gần nghĩa với 'tidy', nhấn sự sạch sẽ ngăn nắp. 'A neat room' nghe rất gọn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Do you want to [động từ] together?",
+      "use": "Rủ anh chị em cùng làm một việc gì đó.",
+      "register": "casual",
+      "examples": [
+        "Do you want to watch a movie together?",
+        "Do you want to cook dinner together tonight?"
+      ],
+      "explanationVi": "Cách rủ rê đơn giản và thân mật. 'together' ở cuối nhấn ý 'cùng nhau'. Hợp khi nói với người thân, bạn bè.",
+      "altOf": "suggesting-activity"
+    },
+    {
+      "pattern": "Let's [động từ] together.",
+      "use": "Đề xuất cùng làm gì đó (nhẹ nhàng, không hỏi mà rủ luôn).",
+      "register": "casual",
+      "examples": [
+        "Let's clean the kitchen together.",
+        "Let's go for a walk together after lunch."
+      ],
+      "explanationVi": "'Let's' = 'Let us', dùng để rủ chung. Nghe chủ động hơn câu hỏi 'Do you want to...?'. Sau 'Let's' luôn là động từ nguyên thể (không 'to').",
+      "altOf": "suggesting-activity"
+    },
+    {
+      "pattern": "Can I borrow your [danh từ], please?",
+      "use": "Mượn đồ của anh chị em một cách lịch sự.",
+      "register": "casual",
+      "examples": [
+        "Can I borrow your charger, please?",
+        "Can I borrow your bike for an hour?"
+      ],
+      "explanationVi": "'Can I borrow...?' là cách mượn đồ thông dụng nhất. Thêm 'please' cho lịch sự. Nhớ 'borrow' là MƯỢN (lấy về), khác 'lend' là cho mượn.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "Could you help me [động từ]?",
+      "use": "Nhờ anh chị em giúp một việc.",
+      "register": "neutral",
+      "examples": [
+        "Could you help me carry these boxes?",
+        "Could you help me wash the dishes?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Sau 'help me' là động từ nguyên thể (không 'to'). Dùng khi nhờ vả nhẹ nhàng.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "I like [danh từ / V-ing] because [mệnh đề].",
+      "use": "Nói về sở thích và đưa lý do.",
+      "register": "neutral",
+      "examples": [
+        "I like cooking because it is relaxing.",
+        "I like our weekends because we spend time together."
+      ],
+      "explanationVi": "'because' dùng để nêu lý do (vì...). Nối hai câu lại nghe tự nhiên hơn là nói cụt. Đây là một bước đệm quan trọng từ A2 lên B1."
+    },
+    {
+      "pattern": "Sorry, I can't right now because [mệnh đề].",
+      "use": "Từ chối nhẹ nhàng kèm lý do.",
+      "register": "casual",
+      "examples": [
+        "Sorry, I can't right now because I'm doing my homework.",
+        "Sorry, I can't help today because I have to go out."
+      ],
+      "explanationVi": "Từ chối luôn nên kèm 'sorry' và một lý do ('because...') để không bị cộc lốc, mất lòng. Rất hữu ích trong trò chuyện gia đình."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đính chính nhẹ hoặc nói điều hơi khác ý người kia.", "example": "Actually, I already finished my chores." },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ, chắc là", "when": "Khi không chắc chắn, muốn nói nhẹ nhàng không khẳng định mạnh.", "example": "Maybe we can watch the movie later tonight." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi đồng ý vui vẻ, sẵn lòng giúp đỡ.", "example": "Of course you can borrow my charger!" },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc đổi nhẹ chủ đề.", "example": "By the way, have you seen my headphones?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói thật lòng một điều gì đó, hơi riêng tư.", "example": "Honestly, I really enjoy spending time with you." }
+  ],
+
+  "dialogue": {
+    "context": "Một buổi tối ở nhà, hai chị em (An và em trai Tom) trò chuyện sau bữa cơm. Họ nói về kế hoạch buổi tối, việc nhà và mượn đồ của nhau.",
+    "lines": [
+      {
+        "speaker": "An",
+        "text": "Hey Tom, you look tired today. Do you want to watch a movie together tonight, or are you too busy?",
+        "ipa": "/heɪ tɒm juː lʊk ˈtaɪəd təˈdeɪ duː juː wɒnt tə wɒtʃ ə ˈmuː.vi təˈɡeð.ər təˈnaɪt ɔːr ɑːr juː tuː ˈbɪz.i/",
+        "vi": "Này Tom, hôm nay trông em mệt nhỉ. Tối nay em muốn xem phim cùng chị không, hay em bận quá?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "Actually, I'm a bit tired, but a movie sounds great. ____ we watch it after I finish my homework?",
+        "ipa": "/ˈæk.tʃu.ə.li aɪm ə bɪt ˈtaɪəd bʌt ə ˈmuː.vi saʊndz ɡreɪt kæn wiː wɒtʃ ɪt ˈɑːf.tər aɪ ˈfɪn.ɪʃ maɪ ˈhəʊm.wɜːk/",
+        "vi": "Thật ra em hơi mệt, nhưng xem phim thì tuyệt đấy. Mình xem sau khi em làm xong bài tập ____?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Can", "explanationVi": "Dùng 'Can we...?' để hỏi/đề nghị làm gì cùng nhau. Đây là cách hỏi đơn giản, thân mật hợp với anh chị em. Xem mẫu rủ rê ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "Of course! By the way, can you help me tidy the living room first, because Mum is coming home soon?",
+        "ipa": "/əv ˈkɔːs baɪ ðə weɪ kæn juː help miː ˈtaɪ.di ðə ˈlɪv.ɪŋ ruːm fɜːst bɪˈkɒz mʌm ɪz ˈkʌm.ɪŋ həʊm suːn/",
+        "vi": "Tất nhiên rồi! Tiện thể, em giúp chị dọn phòng khách trước nhé, vì mẹ sắp về rồi?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "Sure, no problem. We can share the chores, ____ as putting away the toys and cleaning the table.",
+        "ipa": "/ʃʊər nəʊ ˈprɒb.ləm wiː kæn ʃeər ðə tʃɔːz sʌtʃ æz ˈpʊt.ɪŋ əˈweɪ ðə tɔɪz ænd ˈkliː.nɪŋ ðə ˈteɪ.bəl/",
+        "vi": "Được chứ, không sao. Mình chia việc nhà ra, chẳng hạn ____ cất đồ chơi và lau bàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "'such as' nghĩa là 'chẳng hạn như', dùng để nêu ví dụ. Nêu ví dụ cụ thể nghe rõ ràng hơn. Đây là cấu trúc nối câu kiểu TOEIC rất hữu ích." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "Great idea. Oh, and could I borrow your ____ later? Mine is broken, so I can't charge my phone.",
+        "ipa": "/ɡreɪt aɪˈdɪə əʊ ænd kʊd aɪ ˈbɒr.əʊ jɔːr ˈleɪ.tər maɪn ɪz ˈbrəʊ.kən səʊ aɪ kɑːnt tʃɑːdʒ maɪ fəʊn/",
+        "vi": "Ý hay đó. À, lát nữa chị mượn ____ của em được không? Của chị hỏng rồi, nên chị không sạc điện thoại được.",
+        "blanks": [
+          { "type": "personal", "hint": "Một món đồ em muốn mượn. Ví dụ: 'charger' (cục sạc), 'headphones' (tai nghe)." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Sure, you can borrow it. Honestly, we get along really well, although we sometimes argue about small things.",
+        "ipa": "/ʃʊər juː kæn ˈbɒr.əʊ ɪt ˈɒn.ɪst.li wiː ɡet əˈlɒŋ ˈrɪə.li wel ɔːlˈðəʊ wiː ˈsʌm.taɪmz ˈɑːr.ɡjuː əˈbaʊt smɔːl θɪŋz/",
+        "vi": "Được, chị mượn đi. Thành thật mà nói, hai chị em mình rất hợp nhau, mặc dù thỉnh thoảng cãi nhau vì mấy chuyện nhỏ.",
+        "blanks": []
+      },
+      {
+        "speaker": "An",
+        "text": "That's true. What is your ____ movie at the moment? Maybe we can watch something funny to relax.",
+        "ipa": "/ðæts truː wɒt ɪz jɔːr ˈmuː.vi ət ðə ˈməʊ.mənt ˈmeɪ.bi wiː kæn wɒtʃ ˈsʌm.θɪŋ ˈfʌn.i tə rɪˈlæks/",
+        "vi": "Đúng vậy. Phim ____ của em lúc này là gì? Có lẽ mình xem cái gì vui vui để thư giãn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "favourite", "explanationVi": "'favourite' (tính từ) = yêu thích nhất, đặt trước danh từ 'movie'. Không cần thêm 'most'. Anh-Mỹ viết là 'favorite'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "I love comedies because they always make me laugh. Let's finish the chores quickly, ____ we have more time for the movie!",
+        "ipa": "/aɪ lʌv ˈkɒm.ə.diz bɪˈkɒz ðeɪ ˈɔːl.weɪz meɪk miː lɑːf lets ˈfɪn.ɪʃ ðə tʃɔːz ˈkwɪk.li səʊ wiː hæv mɔːr taɪm fɔːr ðə ˈmuː.vi/",
+        "vi": "Em mê phim hài vì chúng luôn làm em cười. Mình làm xong việc nhà cho nhanh đi, ____ mình có nhiều thời gian xem phim hơn!",
+        "blanks": [
+          { "type": "knowledge", "answer": "so", "explanationVi": "'so' nghĩa 'nên / để mà', dùng để nói kết quả/mục đích. 'Finish quickly so we have more time' = làm nhanh để còn nhiều thời gian. Cách nối câu cơ bản rất tự nhiên." }
+        ]
+      },
+      {
+        "speaker": "An",
+        "text": "Deal! You are not only a good brother but also a great movie buddy. Let's get started!",
+        "ipa": "/diːl juː ɑːr nɒt ˈəʊn.li ə ɡʊd ˈbrʌð.ər bʌt ˈɔːl.səʊ ə ɡreɪt ˈmuː.vi ˈbʌd.i lets ɡet ˈstɑːt.ɪd/",
+        "vi": "Chốt! Em không chỉ là một đứa em tốt mà còn là bạn xem phim tuyệt vời nữa. Bắt đầu thôi!",
+        "blanks": []
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, anh chị em thường gọi nhau bằng TÊN, không gọi 'older brother / younger sister' như tiếng Việt. Khi giới thiệu mới nói rõ 'my older brother'.",
+    "Tiếng Anh không có từ riêng cho 'anh' và 'em' như tiếng Việt. Muốn rõ tuổi thì thêm 'older / younger' (vd 'older sister' = chị gái, 'younger brother' = em trai).",
+    "Trò chuyện trong gia đình rất thoải mái (casual): hay dùng 'Hey', 'Sure', 'No problem', và rút gọn như 'I'm', 'can't', 'let's'.",
+    "Việc chia việc nhà (chores) giữa anh chị em là chuyện rất bình thường và được khuyến khích trong nhiều gia đình phương Tây."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'borrow' (mượn về) với 'lend' (cho mượn). Người đi mượn nói 'Can I borrow...?'; người cho mượn nói 'Can you lend me...?'.",
+    "Dùng 'to' sau 'Let's': sai 'Let's to watch', đúng là 'Let's watch' (động từ nguyên thể, không 'to').",
+    "Quên 'because' khi nêu lý do, khiến câu cụt lủn. Nối câu bằng 'because / so' nghe tự nhiên hơn nhiều.",
+    "Dịch máy móc 'anh trai' thành một từ. Tiếng Anh chỉ có 'brother'; muốn nói anh thì thêm 'older brother'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện với 'anh chị em' bằng tiếng Anh như thật.",
+    "prompt": "Hãy đóng vai anh/chị/em ruột của tôi và trò chuyện với tôi bằng tiếng Anh đơn giản (trình độ A2). Hãy bắt đầu bằng cách hỏi thăm tôi và rủ tôi cùng làm một việc gì đó ở nhà (xem phim, nấu ăn, dọn nhà). Sau mỗi câu trả lời của tôi, hãy: (1) trả lời tự nhiên, thân mật như người nhà, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa đúng thì sửa nhẹ nhàng và giải thích bằng tiếng Việt, (3) khuyến khích tôi dùng câu nối đơn giản như 'because', 'so', 'such as' và các mẫu rủ rê 'Do you want to... together?', 'Let's...'. Thỉnh thoảng tạo một tình huống nhỏ bất ngờ (ví dụ em làm hỏng đồ của tôi, hoặc rủ tôi mượn đồ). Nói chậm, dùng từ dễ. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút và dùng vài từ mới hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi vài câu mẫu hay hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi rủ được anh chị em cùng làm một việc bằng 'Do you want to... together?' hoặc 'Let's...'.",
+    "Tôi mượn đồ và nhờ giúp được một cách lịch sự ('Can I borrow...?', 'Could you help me...?').",
+    "Tôi nối câu được bằng 'because' hoặc 'so' để nêu lý do hoặc kết quả."
+  ]
+}

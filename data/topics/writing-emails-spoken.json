@@ -1,0 +1,329 @@
+{
+  "id": "writing-emails-spoken",
+  "category": "work",
+  "title": "Trao đổi qua email",
+  "titleEn": "Discussing Emails",
+  "level": "B1",
+  "functions": ["requesting", "asking-info", "suggesting", "agreeing"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Nói về việc soạn, gửi và trả lời email công việc một cách tự nhiên",
+    "Đề nghị đồng nghiệp giúp xem lại hoặc gửi email một cách lịch sự",
+    "Hỏi và làm rõ thông tin về người nhận, tệp đính kèm và thời hạn",
+    "Dùng câu dài với 'such as', 'although', 'in order to' khi trao đổi công việc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "recipient",
+      "ipa": "/rɪˈsɪp.i.ənt/",
+      "vi": "người nhận (danh từ)",
+      "register": "neutral",
+      "example": "Please make sure the recipient's email address is correct before you send it.",
+      "exampleVi": "Hãy chắc chắn địa chỉ email của người nhận chính xác trước khi gửi.",
+      "note": "Danh từ. Người nhận email. Phát âm bẫy: trọng âm rơi vào âm thứ hai 'sip'.",
+      "synonyms": [
+        { "term": "addressee", "ipa": "/ˌæd.reˈsiː/", "register": "formal", "nuanceVi": "Trang trọng và ít dùng hơn, hay gặp trong văn bản hành chính/bưu chính. Trong email công việc, 'recipient' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "attachment",
+      "ipa": "/əˈtætʃ.mənt/",
+      "vi": "tệp đính kèm (danh từ)",
+      "register": "neutral",
+      "example": "I've added the report as an attachment to this email.",
+      "exampleVi": "Tôi đã thêm bản báo cáo dưới dạng tệp đính kèm vào email này.",
+      "note": "Danh từ. Động từ tương ứng là 'to attach' (đính kèm). Câu hay dùng: 'Please find the attachment.'",
+      "synonyms": [
+        { "term": "enclosure", "ipa": "/ɪnˈkləʊ.ʒər/", "register": "formal", "nuanceVi": "Trang trọng, vốn dùng cho thư giấy (vật kèm trong phong bì). Trong email hiện đại thường vẫn dùng 'attachment'." }
+      ]
+    },
+    {
+      "term": "to forward",
+      "ipa": "/ˈfɔː.wəd/",
+      "vi": "chuyển tiếp (động từ)",
+      "register": "neutral",
+      "example": "Could you forward me the email that the client sent yesterday?",
+      "exampleVi": "Bạn chuyển tiếp giúp tôi email khách hàng gửi hôm qua được không?",
+      "note": "Động từ. Gửi tiếp một email mình đã nhận cho người khác. Khác 'reply' (trả lời người gửi) và 'reply all' (trả lời tất cả).",
+      "synonyms": [
+        { "term": "to pass on", "ipa": "/tə pɑːs ɒn/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'chuyển/truyền lại cho ai đó'. Hợp khi nói chuyện thân mật: 'Can you pass it on to Lan?'" },
+        { "term": "to send on", "ipa": "/tə send ɒn/", "register": "casual", "nuanceVi": "Gần nghĩa 'pass on', nhấn việc gửi tiếp đến đích kế. Thân mật, hay dùng trong văn nói." }
+      ]
+    },
+    {
+      "term": "to reply",
+      "ipa": "/rɪˈplaɪ/",
+      "vi": "trả lời, hồi đáp (động từ)",
+      "register": "neutral",
+      "example": "I'll reply to the customer as soon as I get the details.",
+      "exampleVi": "Tôi sẽ trả lời khách hàng ngay khi có thông tin.",
+      "note": "Động từ, đi với 'to somebody / to something'. Danh từ tương ứng là 'a reply'.",
+      "synonyms": [
+        { "term": "to respond", "ipa": "/rɪˈspɒnd/", "register": "formal", "nuanceVi": "Trang trọng hơn 'reply', nhấn việc đáp lại một cách có cân nhắc. Hay dùng trong công sở chính thức." },
+        { "term": "to get back to", "ipa": "/tə ɡet ˈbæk tuː/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'phản hồi lại (sau)'. Vd 'I'll get back to you tomorrow.' Nghe thân thiện, mềm mại." }
+      ]
+    },
+    {
+      "term": "draft",
+      "ipa": "/drɑːft/",
+      "vi": "bản nháp (danh từ) / soạn nháp (động từ)",
+      "register": "neutral",
+      "example": "I've written a draft, but I'd like you to read it before I send it.",
+      "exampleVi": "Tôi đã viết một bản nháp, nhưng muốn bạn đọc qua trước khi tôi gửi.",
+      "note": "Vừa là danh từ ('a draft' = bản nháp) vừa là động từ ('to draft' = soạn nháp). Bản chưa hoàn thiện, còn sửa được.",
+      "synonyms": [
+        { "term": "rough copy", "ipa": "/rʌf ˈkɒp.i/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'bản sơ bộ, chưa gọt giũa'. Nghe ít trang trọng hơn 'draft'." }
+      ]
+    },
+    {
+      "term": "to proofread",
+      "ipa": "/ˈpruːf.riːd/",
+      "vi": "đọc soát lỗi (động từ)",
+      "register": "neutral",
+      "example": "Would you mind proofreading my email before I send it to the manager?",
+      "exampleVi": "Bạn đọc soát lỗi giúp email của tôi trước khi tôi gửi cho sếp nhé?",
+      "note": "Động từ. Đọc kỹ để bắt lỗi chính tả/ngữ pháp. Quá khứ: proofread (đọc là /pruːf.red/).",
+      "synonyms": [
+        { "term": "to check over", "ipa": "/tə tʃek ˈəʊ.vər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'xem lại qua một lượt'. Rộng hơn proofread (không chỉ lỗi chữ mà cả nội dung)." },
+        { "term": "to review", "ipa": "/tə rɪˈvjuː/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'xem xét, đánh giá lại'. Thiên về nội dung/chất lượng hơn là lỗi chính tả." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "gấp, khẩn (tính từ)",
+      "register": "neutral",
+      "example": "This is an urgent matter, so please reply by the end of the day.",
+      "exampleVi": "Đây là việc gấp, nên hãy trả lời trước cuối ngày.",
+      "note": "Tính từ. Việc cần xử lý ngay. Trạng từ: 'urgently'. Tránh nhầm với 'important' (quan trọng nhưng chưa chắc gấp).",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'cấp bách, cần giải quyết'. Vd 'a pressing issue'." },
+        { "term": "time-sensitive", "ipa": "/ˈtaɪm ˌsen.sə.tɪv/", "register": "neutral", "nuanceVi": "Nhấn 'phụ thuộc vào thời hạn, để trễ là hỏng'. Rất hợp văn cảnh công việc/email." }
+      ]
+    },
+    {
+      "term": "concise",
+      "ipa": "/kənˈsaɪs/",
+      "vi": "ngắn gọn, súc tích (tính từ)",
+      "register": "formal",
+      "example": "A good business email should be clear and concise.",
+      "exampleVi": "Một email công việc tốt nên rõ ràng và súc tích.",
+      "note": "Tính từ, khen email/lời nói gọn mà đủ ý. Trái nghĩa: wordy (dài dòng).",
+      "synonyms": [
+        { "term": "brief", "ipa": "/briːf/", "register": "neutral", "nuanceVi": "Phổ biến, nhấn 'ngắn'. 'Concise' nhấn thêm ý 'ngắn mà vẫn đủ và rõ', còn 'brief' chỉ đơn thuần là ngắn." },
+        { "term": "to the point", "ipa": "/tə ðə ˈpɔɪnt/", "register": "neutral", "nuanceVi": "Cụm thông dụng, nghĩa 'đi thẳng vào vấn đề, không lan man'." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "nhanh chóng, kịp thời (trạng từ)",
+      "register": "formal",
+      "example": "She always replies to her emails promptly, which everyone appreciates.",
+      "exampleVi": "Cô ấy luôn trả lời email kịp thời, điều mà ai cũng quý.",
+      "note": "Trạng từ. Nhấn 'không trì hoãn, đúng lúc'. Trang trọng hơn 'quickly' trong văn cảnh công việc.",
+      "synonyms": [
+        { "term": "swiftly", "ipa": "/ˈswɪft.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'mau lẹ, dứt khoát'. Hơi văn vẻ hơn 'promptly'." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngay lập tức'. Hợp văn nói: 'I'll do it right away.'" }
+      ]
+    },
+    {
+      "term": "to cc",
+      "ipa": "/tə ˌsiːˈsiː/",
+      "vi": "gửi kèm (cho người khác cùng nhận, động từ)",
+      "register": "neutral",
+      "example": "Please cc my manager when you reply to the client.",
+      "exampleVi": "Khi trả lời khách hàng, hãy cc cả sếp của tôi nhé.",
+      "note": "Viết tắt của 'carbon copy'. Dùng như động từ: 'cc someone'. 'bcc' là gửi kèm ẩn (người khác không thấy)."
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "The deadline for the report is this Friday, so we should send it today.",
+      "exampleVi": "Hạn chót của báo cáo là thứ Sáu này, nên ta nên gửi hôm nay.",
+      "note": "Danh từ. Thời điểm cuối cùng phải hoàn thành. Hay đi với 'meet a deadline' (kịp hạn), 'miss a deadline' (trễ hạn).",
+      "synonyms": [
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'ngày phải nộp'. Gần nghĩa nhưng nghe trung lập hơn, ít áp lực hơn 'deadline'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you forward me the email about [chủ đề]?",
+      "use": "Nhờ đồng nghiệp chuyển tiếp một email cho mình.",
+      "register": "neutral",
+      "examples": [
+        "Could you forward me the email about the budget meeting?",
+        "Could you forward me the email that the supplier sent this morning?"
+      ],
+      "explanationVi": "'Could you...?' là cách nhờ vả lịch sự, mềm hơn 'Can you...?'. Đây là câu xương sống khi cần ai đó gửi lại email cho mình.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "Would you mind [V-ing] before I send it?",
+      "use": "Nhờ ai đó xem lại/làm gì đó trước khi mình gửi email.",
+      "register": "formal",
+      "examples": [
+        "Would you mind proofreading this before I send it?",
+        "Would you mind checking the figures before I forward it to the client?"
+      ],
+      "explanationVi": "'Would you mind + V-ing' nghĩa 'bạn có phiền... không'. Rất lịch sự. Lưu ý sau 'mind' luôn là V-ing, không phải 'to V'.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "I'm just writing to [động từ] ...",
+      "use": "Nêu mục đích của email ngay câu mở đầu.",
+      "register": "neutral",
+      "examples": [
+        "I'm just writing to confirm our meeting on Monday.",
+        "I'm just writing to follow up on my previous email."
+      ],
+      "explanationVi": "Mẫu mở đầu kinh điển của email công việc, giúp người đọc nắm ngay mục đích. 'just' làm câu nghe nhẹ nhàng, không nặng nề."
+    },
+    {
+      "pattern": "Please make sure you [động từ] in order to [mục đích].",
+      "use": "Nhắc nhở lịch sự để tránh sai sót, kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "Please make sure you cc the manager in order to keep everyone informed.",
+        "Please make sure you attach the file in order to avoid sending it twice."
+      ],
+      "explanationVi": "'in order to + V' = để (nhằm) làm gì, nêu mục đích trang trọng hơn 'to' đơn thuần. 'make sure' = bảo đảm, dùng để dặn dò."
+    },
+    {
+      "pattern": "Shall I [động từ] ... ?",
+      "use": "Đề nghị tự mình làm giúp một việc gì đó.",
+      "register": "neutral",
+      "examples": [
+        "Shall I draft a reply for you?",
+        "Shall I cc the whole team on this?"
+      ],
+      "explanationVi": "'Shall I...?' dùng để chủ động ngỏ ý giúp đỡ ('để tôi... nhé?'). Nghe nhã nhặn và sẵn sàng giúp, rất hợp môi trường công sở.",
+      "altOf": "offering-help"
+    },
+    {
+      "pattern": "Why don't I [động từ] for you?",
+      "use": "Một cách thân thiện hơn để ngỏ ý làm giúp.",
+      "register": "casual",
+      "examples": [
+        "Why don't I take a quick look before you send it?",
+        "Why don't I forward it to the team for you?"
+      ],
+      "explanationVi": "'Why don't I...?' nghe thân thiện, gần gũi hơn 'Shall I...?' nhưng cùng chức năng ngỏ ý giúp. Hợp khi nói với đồng nghiệp thân.",
+      "altOf": "offering-help"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I think we should cc the manager too." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi/nói thêm một ý ngoài lề, chuyển nhẹ chủ đề.", "example": "By the way, did you attach the report?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một nhận xét chân thành, đôi khi hơi tế nhị.", "example": "Honestly, the email sounds a bit too long." },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Khi muốn nhấn việc cần làm nhanh mà vẫn lịch sự (viết tắt: ASAP).", "example": "Could you send it as soon as possible?" },
+    { "term": "just to be safe", "ipa": "/dʒʌst tə biː seɪf/", "vi": "cho chắc / đề phòng", "when": "Khi đề xuất một biện pháp phòng ngừa.", "example": "Let's double-check the address, just to be safe." }
+  ],
+
+  "dialogue": {
+    "context": "Tại văn phòng, bạn (nhân viên) nhờ một đồng nghiệp xem lại một email công việc quan trọng trước khi gửi cho khách hàng.",
+    "lines": [
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Hi, you look a bit busy this morning. Is there anything I can help you with?",
+        "ipa": "/haɪ juː lʊk ə bɪt ˈbɪz.i ðɪs ˈmɔː.nɪŋ ɪz ðeər ˈen.i.θɪŋ aɪ kæn help juː wɪð/",
+        "vi": "Chào bạn, sáng nay trông bạn hơi bận đấy. Có gì tôi giúp được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, yes. I'm just writing an important email to ____, and although I've already finished the draft, I'd feel more confident if someone read it first.",
+        "ipa": "/ˈɒn.ɪst.li jes aɪm dʒʌst ˈraɪ.tɪŋ ən ɪmˈpɔː.tənt ˈiː.meɪl tuː ... ænd ɔːlˈðəʊ aɪv ɔːlˈred.i ˈfɪn.ɪʃt ðə drɑːft aɪd fiːl mɔː ˈkɒn.fɪ.dənt ɪf ˈsʌm.wʌn red ɪt fɜːst/",
+        "vi": "Thành thật thì có. Tôi đang viết một email quan trọng gửi cho ____, và mặc dù đã viết xong bản nháp, tôi sẽ tự tin hơn nếu có người đọc qua trước.",
+        "blanks": [
+          { "type": "personal", "hint": "Người/bên nhận email của bạn. Ví dụ: 'a client', 'our supplier', 'the manager'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Of course. Would you mind ____ me the draft? I'll read it over and check both the grammar and the tone.",
+        "ipa": "/ɒv kɔːs wʊd juː maɪnd ... miː ðə drɑːft aɪl riːd ɪt ˈəʊ.vər ænd tʃek bəʊθ ðə ˈɡræm.ər ænd ðə təʊn/",
+        "vi": "Tất nhiên rồi. Bạn ____ giúp tôi bản nháp được không? Tôi sẽ đọc qua và kiểm tra cả ngữ pháp lẫn giọng văn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "forwarding", "explanationVi": "Sau 'Would you mind' phải dùng V-ing, nên 'forward' thành 'forwarding' (chuyển tiếp). Xem mẫu câu 'Would you mind + V-ing...'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thanks so much. I've just sent it to you. Please make sure you read the part about the deadline carefully, ____ I'm worried it might sound too demanding.",
+        "ipa": "/θæŋks səʊ mʌtʃ aɪv dʒʌst sent ɪt tuː juː pliːz meɪk ʃʊə juː riːd ðə pɑːt əˈbaʊt ðə ˈded.laɪn ˈkeə.fəl.i ... aɪm ˈwʌr.id ɪt maɪt saʊnd tuː dɪˈmɑːn.dɪŋ/",
+        "vi": "Cảm ơn bạn nhiều. Tôi vừa gửi cho bạn rồi. Hãy đọc kỹ giúp tôi đoạn về hạn chót, ____ tôi lo nó nghe có vẻ quá đòi hỏi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho lời nhờ vả (vì sao cần đọc kỹ đoạn đó). Ở cấp B1, 'because' là cách nối nguyên nhân tự nhiên nhất." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "I see what you mean. It's clear and concise, but the last sentence does sound a little harsh. Why don't I ____ it slightly so that it stays polite but still firm?",
+        "ipa": "/aɪ siː wɒt juː miːn ɪts klɪər ænd kənˈsaɪs bʌt ðə lɑːst ˈsen.təns dʌz saʊnd ə ˈlɪt.əl hɑːʃ waɪ dəʊnt aɪ ... ɪt ˈslaɪt.li səʊ ðæt ɪt steɪz pəˈlaɪt bʌt stɪl fɜːm/",
+        "vi": "Tôi hiểu ý bạn. Email rõ ràng và súc tích, nhưng câu cuối nghe hơi gắt. Hay là để tôi ____ lại một chút để vẫn lịch sự mà vẫn dứt khoát nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "reword", "explanationVi": "'reword' (viết lại bằng từ khác) hợp ngữ cảnh nhất; 'rewrite' hoặc 'rephrase' cũng được chấp nhận. Mẫu ngỏ ý giúp: 'Why don't I + V...?'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That would be great, thank you. By the way, do you think I should ____ our manager as well, just to be safe?",
+        "ipa": "/ðæt wʊd biː ɡreɪt θæŋk juː baɪ ðə weɪ duː juː θɪŋk aɪ ʃʊd ... aʊə ˈmæn.ɪdʒ.ər æz wel dʒʌst tə biː seɪf/",
+        "vi": "Vậy thì tốt quá, cảm ơn bạn. Tiện thể, bạn nghĩ tôi có nên ____ cả sếp của mình vào không, cho chắc?",
+        "blanks": [
+          { "type": "knowledge", "answer": "cc", "explanationVi": "'cc' (carbon copy) dùng như động từ: gửi kèm cho người khác cùng nhận. 'should + cc' = nên cc. Xem mục từ vựng 'to cc'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Definitely. It's a good idea to cc her in order to keep everyone informed, especially since the deadline is so tight. I'd also attach the file again, just in case.",
+        "ipa": "/ˈdef.ɪn.ət.li ɪts ə ɡʊd aɪˈdɪə tə ˌsiːˈsiː hɜːr ɪn ˈɔː.də tə kiːp ˈev.ri.wʌn ɪnˈfɔːmd ɪˈspeʃ.əl.i sɪns ðə ˈded.laɪn ɪz səʊ taɪt aɪd ˈɔːl.səʊ əˈtætʃ ðə faɪl əˈɡen dʒʌst ɪn keɪs/",
+        "vi": "Chắc chắn rồi. Cc cho chị ấy để mọi người đều nắm thông tin là ý hay, nhất là vì hạn chót gấp thế này. Tôi cũng sẽ đính kèm lại tệp, đề phòng thôi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. I'll fix the wording and add the attachment now, and then I'll send it ____ so we don't miss the deadline. Thanks again for your help!",
+        "ipa": "/ˈpɜː.fɪkt aɪl fɪks ðə ˈwɜː.dɪŋ ænd æd ði əˈtætʃ.mənt naʊ ænd ðen aɪl send ɪt ... səʊ wiː dəʊnt mɪs ðə ˈded.laɪn θæŋks əˈɡen fɔː jɔː help/",
+        "vi": "Hoàn hảo. Tôi sẽ sửa câu chữ và thêm tệp đính kèm ngay, rồi gửi đi ____ để không bị trễ hạn. Cảm ơn bạn lần nữa nhé!",
+        "blanks": [
+          { "type": "knowledge", "answer": "promptly", "explanationVi": "Cần một trạng từ chỉ 'nhanh chóng, kịp thời'. 'promptly' hợp văn cảnh công việc hơn 'quickly'. 'right away' cũng chấp nhận được. Xem mục từ vựng 'promptly'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Email công việc phương Tây thường mở đầu bằng lời chào ('Hi John,' / 'Dear Ms. Lee,') và nêu mục đích ngay trong 1-2 câu đầu, không vòng vo.",
+    "Dùng 'cc' để cho người liên quan cùng nắm thông tin, nhưng đừng lạm dụng — cc quá nhiều người khiến hộp thư của họ quá tải và bị xem là thiếu tế nhị.",
+    "Đặt tiêu đề email (subject line) rõ ràng và ngắn gọn rất quan trọng; người nhận thường quyết định đọc hay không dựa vào tiêu đề.",
+    "Trả lời email kịp thời (promptly) được đánh giá cao; nếu chưa kịp xử lý, một câu 'I'll get back to you soon' cũng thể hiện sự chuyên nghiệp."
+  ],
+
+  "commonMistakes": [
+    "Sau 'Would you mind' phải dùng V-ing, không phải 'to V': 'Would you mind checking...', KHÔNG phải 'Would you mind to check...'.",
+    "Nhầm 'urgent' (gấp) với 'important' (quan trọng) — một việc quan trọng chưa chắc đã gấp.",
+    "Dịch sát 'I will reply you' — đúng phải là 'I will reply TO you' (reply luôn đi với 'to').",
+    "Nói cộc lốc 'Send me the email'. Hãy bọc bằng 'Could you forward me...?' hoặc 'Would you mind...?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống trao đổi email như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp nói tiếng Anh ở văn phòng. Tôi đang nhờ bạn xem lại và góp ý cho một email công việc trước khi tôi gửi. Hãy bắt đầu bằng cách hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'in order to' và các mẫu lịch sự như 'Would you mind...?' hay 'Could you forward me...?'. Thỉnh thoảng tạo tình huống bất ngờ (ví dụ tôi quên đính kèm tệp, hoặc gửi nhầm người nhận) để tôi tập xử lý. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi giải thích vì sao nên hay không nên cc một người nào đó.' để luyện lập luận.",
+      "Thêm câu: 'Hãy đóng vai sếp khó tính và nhận xét email của tôi gay gắt hơn.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nhờ được đồng nghiệp xem lại/chuyển tiếp email bằng câu lịch sự, không nhìn gợi ý.",
+    "Tôi dùng đúng 'Would you mind + V-ing' và 'in order to' khi trao đổi.",
+    "Tôi nói được về tệp đính kèm, người nhận, cc và hạn chót một cách tự nhiên."
+  ]
+}

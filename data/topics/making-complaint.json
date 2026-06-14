@@ -1,0 +1,360 @@
+{
+  "id": "making-complaint",
+  "category": "services",
+  "title": "Khiếu nại dịch vụ",
+  "titleEn": "Making a Complaint",
+  "level": "B2",
+  "functions": ["complaining", "handling-problems", "requesting", "negotiating"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trình bày một vấn đề về dịch vụ một cách rõ ràng, lịch sự nhưng kiên quyết",
+    "Phàn nàn bằng câu dài, mềm mỏng (despite, although, however) thay vì gay gắt",
+    "Yêu cầu khắc phục hoặc bồi hoàn (hoàn tiền, đổi sản phẩm, giảm giá) một cách hợp lý",
+    "Thương lượng một giải pháp và phản hồi khi đề nghị bị từ chối",
+    "Dùng ngữ pháp nâng cao và trạng từ tự nhiên khi khiếu nại trực tiếp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "vi": "lời phàn nàn / khiếu nại (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make a complaint about the service I received last night.",
+      "exampleVi": "Tôi muốn khiếu nại về dịch vụ tôi nhận được tối qua.",
+      "note": "Danh từ. Cụm cốt lõi: 'make a complaint' (đưa ra khiếu nại) hoặc 'file a complaint' (nộp khiếu nại chính thức). Động từ là 'to complain'.",
+      "synonyms": [
+        { "term": "grievance", "ipa": "/ˈɡriː.vəns/", "register": "formal", "nuanceVi": "Trang trọng, nặng hơn, chỉ một bất bình nghiêm trọng và chính đáng (thường trong môi trường công sở/pháp lý)." },
+        { "term": "gripe", "ipa": "/ɡraɪp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'lời cằn nhằn nhỏ nhặt'. Nghe nhẹ, hơi xuề xòa, không hợp khiếu nại chính thức." }
+      ]
+    },
+    {
+      "term": "refund",
+      "ipa": "/ˈriː.fʌnd/",
+      "vi": "tiền hoàn lại / việc hoàn tiền (danh từ)",
+      "register": "neutral",
+      "example": "Under the circumstances, I think I'm entitled to a full refund.",
+      "exampleVi": "Trong hoàn cảnh này, tôi nghĩ mình có quyền được hoàn lại toàn bộ tiền.",
+      "note": "Danh từ (nhấn 'RE-fund') và động từ (nhấn 're-FUND') viết giống nhau, khác trọng âm. Hay đi với 'a full/partial refund'.",
+      "synonyms": [
+        { "term": "reimbursement", "ipa": "/ˌriː.ɪmˈbɜːs.mənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'hoàn lại khoản tiền bạn đã bỏ ra'. Hay dùng cho chi phí, công tác phí hơn là hàng hóa." },
+        { "term": "money back", "ipa": "/ˈmʌn.i bæk/", "register": "casual", "nuanceVi": "Đời thường, nói thẳng: 'I want my money back.' Nghe trực tiếp, hơi gay gắt hơn 'refund'." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, hỏng hóc (tính từ)",
+      "register": "neutral",
+      "example": "The product I bought turned out to be faulty.",
+      "exampleVi": "Sản phẩm tôi mua hóa ra bị lỗi.",
+      "note": "Tính từ, chỉ thứ có lỗi kỹ thuật, không hoạt động đúng. Hay đi với 'a faulty product/device/part'.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có khiếm khuyết từ khâu sản xuất'. Hay dùng trong văn bản bảo hành, khiếu nại chính thức." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hỏng, vỡ, không chạy'. Chung chung và dễ dùng hơn 'faulty'." }
+      ]
+    },
+    {
+      "term": "unacceptable",
+      "ipa": "/ˌʌn.əkˈsep.tə.bəl/",
+      "vi": "không thể chấp nhận được (tính từ)",
+      "register": "neutral",
+      "example": "Waiting over an hour for a table we had booked is simply unacceptable.",
+      "exampleVi": "Phải chờ hơn một tiếng cho bàn đã đặt là điều không thể chấp nhận được.",
+      "note": "Tính từ mạnh, dùng để nhấn mức độ nghiêm trọng nhưng vẫn lịch sự (mạnh hơn 'not good', nhã hơn việc quát tháo).",
+      "synonyms": [
+        { "term": "inadequate", "ipa": "/ɪnˈæd.ɪ.kwət/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'không đủ tốt / không đạt chuẩn', nhẹ hơn 'unacceptable'." },
+        { "term": "appalling", "ipa": "/əˈpɔː.lɪŋ/", "register": "neutral", "nuanceVi": "Rất mạnh, nghĩa 'tệ đến mức gây sốc'. Dùng khi thật sự bức xúc, dễ leo thang căng thẳng." }
+      ]
+    },
+    {
+      "term": "to apologize",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "vi": "xin lỗi (động từ)",
+      "register": "neutral",
+      "example": "The manager apologized for the inconvenience and offered us a free dessert.",
+      "exampleVi": "Quản lý đã xin lỗi vì sự bất tiện và mời chúng tôi món tráng miệng miễn phí.",
+      "note": "Động từ, đi với 'apologize for + something/V-ing' và 'apologize to + somebody'. (Anh-Anh viết 'apologise'.)",
+      "synonyms": [
+        { "term": "to express regret", "ipa": "/ɪkˈspres rɪˈɡret/", "register": "formal", "nuanceVi": "Rất trang trọng, dùng trong văn bản/phát ngôn chính thức. Nghe xa cách hơn lời xin lỗi trực tiếp." }
+      ]
+    },
+    {
+      "term": "to resolve",
+      "ipa": "/rɪˈzɒlv/",
+      "vi": "giải quyết (vấn đề, sự cố) (động từ)",
+      "register": "neutral",
+      "example": "I'd appreciate it if you could resolve this issue as soon as possible.",
+      "exampleVi": "Tôi rất mong anh/chị giải quyết vấn đề này càng sớm càng tốt.",
+      "note": "Động từ, mang sắc thái 'xử lý dứt điểm một vấn đề/tranh chấp', trang trọng hơn 'fix'.",
+      "synonyms": [
+        { "term": "to sort out", "ipa": "/sɔːt aʊt/", "register": "casual", "nuanceVi": "Cụm động từ đời thường (Anh-Anh hay dùng), nghĩa 'thu xếp, giải quyết ổn thỏa'. Thân thiện hơn 'resolve'." },
+        { "term": "to address", "ipa": "/əˈdres/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'đề cập và xử lý'. Không nhất thiết là đã xong dứt điểm, chỉ là 'bắt tay vào lo'." }
+      ]
+    },
+    {
+      "term": "compensation",
+      "ipa": "/ˌkɒm.penˈseɪ.ʃən/",
+      "vi": "khoản đền bù / bồi thường (danh từ)",
+      "register": "formal",
+      "example": "Given the trouble caused, we feel some form of compensation is reasonable.",
+      "exampleVi": "Với những phiền toái đã gây ra, chúng tôi thấy một hình thức đền bù nào đó là hợp lý.",
+      "note": "Danh từ không đếm được. Hay đi với 'offer/claim/seek compensation'. Trang trọng hơn 'something for the trouble'.",
+      "synonyms": [
+        { "term": "redress", "ipa": "/rɪˈdres/", "register": "formal", "nuanceVi": "Rất trang trọng/pháp lý, nghĩa 'sự khắc phục, đền bù cho điều sai trái'. Hiếm dùng trong nói thường ngày." }
+      ]
+    },
+    {
+      "term": "inconvenience",
+      "ipa": "/ˌɪn.kənˈviː.ni.əns/",
+      "vi": "sự bất tiện, phiền toái (danh từ)",
+      "register": "formal",
+      "example": "We're very sorry for any inconvenience this may have caused.",
+      "exampleVi": "Chúng tôi rất tiếc về bất kỳ sự bất tiện nào điều này có thể đã gây ra.",
+      "note": "Danh từ. Câu xin lỗi kinh điển của nhân viên dịch vụ: 'sorry for the inconvenience'. Cũng là động từ: 'to inconvenience someone'.",
+      "synonyms": [
+        { "term": "hassle", "ipa": "/ˈhæs.əl/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sự rắc rối, lằng nhằng'. Nghe thân mật, không hợp văn cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, kịp thời (trạng từ)",
+      "register": "neutral",
+      "example": "I expect the matter to be dealt with promptly.",
+      "exampleVi": "Tôi mong vấn đề được xử lý nhanh chóng.",
+      "note": "Trạng từ, nhấn 'làm ngay, không trì hoãn'. Hay dùng khi yêu cầu khắc phục đúng hạn.",
+      "synonyms": [
+        { "term": "swiftly", "ipa": "/ˈswɪft.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'mau lẹ, gọn gàng'. Nghe lịch lãm hơn 'quickly'." },
+        { "term": "without delay", "ipa": "/wɪˈðaʊt dɪˈleɪ/", "register": "formal", "nuanceVi": "Cụm trang trọng, nhấn 'không được chậm trễ'. Tạo áp lực thời gian một cách lịch sự." }
+      ]
+    },
+    {
+      "term": "frankly",
+      "ipa": "/ˈfræŋk.li/",
+      "vi": "thẳng thắn mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Frankly, this is not the standard of service I was expecting.",
+      "exampleVi": "Thẳng thắn mà nói, đây không phải mức chất lượng dịch vụ tôi mong đợi.",
+      "note": "Trạng từ mở đầu câu, báo hiệu một nhận xét thật lòng, thường hơi tiêu cực nhưng vẫn lịch sự.",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "neutral", "nuanceVi": "Gần nghĩa, phổ biến và mềm hơn một chút. Cũng dẫn vào một ý kiến chân thành." },
+        { "term": "to be perfectly honest", "ipa": "/tə biː ˈpɜː.fekt.li ˈɒn.ɪst/", "register": "neutral", "nuanceVi": "Cụm dài hơn, nhấn mạnh sự thành thật. Dùng khi muốn làm dịu trước khi nói điều khó nghe." }
+      ]
+    },
+    {
+      "term": "to overcharge",
+      "ipa": "/ˌəʊ.vəˈtʃɑːdʒ/",
+      "vi": "tính tiền quá mức, thu thừa (động từ)",
+      "register": "neutral",
+      "example": "It seems we've been overcharged for the drinks on this bill.",
+      "exampleVi": "Hình như chúng tôi bị tính thừa tiền đồ uống trên hóa đơn này.",
+      "note": "Động từ, thường dùng dạng bị động 'to be overcharged'. Trái nghĩa 'undercharge' (tính thiếu).",
+      "synonyms": [
+        { "term": "to rip off", "ipa": "/rɪp ɒf/", "register": "casual", "nuanceVi": "Cụm động từ đời thường rất mạnh: 'chặt chém, lừa tiền'. Hàm ý cố tình gian dối, nên cẩn thận khi nói trực tiếp." }
+      ]
+    },
+    {
+      "term": "reasonable",
+      "ipa": "/ˈriː.zən.ə.bəl/",
+      "vi": "hợp lý, phải chăng (tính từ)",
+      "register": "neutral",
+      "example": "I think asking for a partial refund is perfectly reasonable.",
+      "exampleVi": "Tôi nghĩ yêu cầu hoàn lại một phần tiền là hoàn toàn hợp lý.",
+      "note": "Tính từ. Dùng để mô tả đề nghị của mình là chính đáng, giúp cuộc khiếu nại nghe điềm đạm, có lý.",
+      "synonyms": [
+        { "term": "fair", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Đơn giản, nhấn 'công bằng'. Gần nghĩa, dễ dùng trong mọi văn cảnh." },
+        { "term": "justified", "ipa": "/ˈdʒʌs.tɪ.faɪd/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có cơ sở chính đáng để làm vậy'. Vd 'My complaint is fully justified.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm afraid there's a problem with [danh từ].",
+      "use": "Mở đầu lời phàn nàn một cách nhẹ nhàng, báo hiệu có vấn đề.",
+      "register": "neutral",
+      "examples": [
+        "I'm afraid there's a problem with the room you've given us.",
+        "I'm afraid there's a problem with my order."
+      ],
+      "explanationVi": "'I'm afraid' không phải là sợ hãi, mà là cách nói lịch sự để báo tin không vui ('rất tiếc là...'). Mở đầu mềm mỏng giúp đối phương không phòng thủ.",
+      "altOf": "raising-problem"
+    },
+    {
+      "pattern": "I'd like to make a complaint about [danh từ / V-ing].",
+      "use": "Nêu rõ rằng bạn đang chính thức khiếu nại và về việc gì.",
+      "register": "formal",
+      "examples": [
+        "I'd like to make a complaint about the way I was treated by your staff.",
+        "I'd like to make a complaint about the delay in my delivery."
+      ],
+      "explanationVi": "Trang trọng và trực diện hơn 'there's a problem'. Dùng khi bạn muốn vấn đề được ghi nhận nghiêm túc. 'about' đi với danh từ hoặc V-ing.",
+      "altOf": "raising-problem"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], [mệnh đề nêu vấn đề].",
+      "use": "Nhấn mạnh sự thất vọng vì kỳ vọng không được đáp ứng.",
+      "register": "formal",
+      "examples": [
+        "Despite booking weeks in advance, we were told our table was no longer available.",
+        "Despite paying for express delivery, the parcel arrived three days late."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG có 'that') mở mệnh đề nhượng bộ, làm bật lên sự vô lý ('dù đã... nhưng vẫn...'). Rất 'ăn điểm' khi khiếu nại có lý lẽ.",
+      "altOf": "raising-problem"
+    },
+    {
+      "pattern": "Would it be possible to [V], or alternatively [V]?",
+      "use": "Đề xuất giải pháp một cách lịch sự, kèm phương án thay thế.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to replace the item, or alternatively offer a full refund?",
+        "Would it be possible to move us to another room, or alternatively reduce the rate?"
+      ],
+      "explanationVi": "'Would it be possible to...?' là đề nghị lịch sự bậc cao. Đưa thêm 'or alternatively' (hoặc nếu không thì) cho thấy bạn linh hoạt, dễ đạt được thỏa thuận.",
+      "altOf": "requesting-remedy"
+    },
+    {
+      "pattern": "Given [danh từ], I believe I'm entitled to [danh từ].",
+      "use": "Khẳng định quyền lợi của mình dựa trên hoàn cảnh, một cách điềm đạm.",
+      "register": "formal",
+      "examples": [
+        "Given the trouble this has caused, I believe I'm entitled to some compensation.",
+        "Given that the product is faulty, I believe I'm entitled to a full refund."
+      ],
+      "explanationVi": "'Given...' = xét đến/căn cứ vào. 'be entitled to + danh từ' = có quyền được hưởng. Câu này khẳng định quyền lợi chắc chắn mà không cần lớn tiếng.",
+      "altOf": "requesting-remedy"
+    },
+    {
+      "pattern": "I understand it's not your fault, however [mệnh đề].",
+      "use": "Tỏ ra thông cảm với nhân viên trước, rồi vẫn giữ yêu cầu của mình.",
+      "register": "neutral",
+      "examples": [
+        "I understand it's not your fault, however I still need this resolved today.",
+        "I understand you're busy, however I've already been waiting for half an hour."
+      ],
+      "explanationVi": "Công thức 'thừa nhận + however + giữ lập trường' giúp bạn vừa lịch sự vừa kiên quyết. 'however' (tuy nhiên) thường đứng đầu mệnh đề, có dấu phẩy."
+    },
+    {
+      "pattern": "If this can't be sorted out, I'll have to [V].",
+      "use": "Nâng mức khi đề nghị bị từ chối, nêu hệ quả một cách bình tĩnh.",
+      "register": "neutral",
+      "examples": [
+        "If this can't be sorted out, I'll have to speak to the manager.",
+        "If this can't be resolved today, I'll have to take my business elsewhere."
+      ],
+      "explanationVi": "Câu điều kiện loại 1 dùng để 'leo thang' lịch sự. 'I'll have to + V' (tôi buộc phải) nghe như chuyện chẳng đặng đừng, không phải dọa dẫm — vẫn giữ được phép lịch sự."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "thẳng thắn mà nói", "when": "Mở đầu một nhận xét thật lòng, thường hơi tiêu cực, nhưng vẫn lịch sự.", "example": "Frankly, I expected far better from a hotel of this standard." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói công bằng thì", "when": "Thừa nhận một điểm hợp lý của phía bên kia trước khi giữ lập trường.", "example": "To be fair, the staff did try to help, but the problem still isn't fixed." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là, không may là", "when": "Dẫn vào điều đáng tiếc một cách nhã nhặn.", "example": "Unfortunately, this is the second time the same thing has happened." },
+    { "term": "to put it mildly", "ipa": "/tə pʊt ɪt ˈmaɪld.li/", "vi": "nói nhẹ đi thì", "when": "Báo rằng thực tế còn tệ hơn lời mình đang nói (mỉa nhẹ, lịch sự).", "example": "The service was disappointing, to put it mildly." },
+    { "term": "all I'm asking is", "ipa": "/ɔːl aɪm ˈɑːs.kɪŋ ɪz/", "vi": "tất cả những gì tôi yêu cầu là", "when": "Nhấn rằng đề nghị của mình rất hợp lý, vừa phải.", "example": "All I'm asking is for a refund on the item that didn't work." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đặt một bữa tối tại nhà hàng để mừng dịp đặc biệt, nhưng khi đến nơi bàn không còn, đồ ăn ra trễ và hóa đơn bị tính thừa. Bạn gặp người quản lý để khiếu nại và tìm giải pháp.",
+    "lines": [
+      {
+        "speaker": "Quản lý",
+        "text": "Good evening. I'm the duty manager. One of my waiters mentioned that you weren't entirely happy with your meal — how can I help?",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ aɪm ðə ˈdjuː.ti ˈmæn.ɪ.dʒər wʌn ɒv maɪ ˈweɪ.təz ˈmen.ʃənd ðæt juː wɜːnt ɪnˈtaɪə.li ˈhæp.i wɪð jɔː miːl haʊ kæn aɪ help/",
+        "vi": "Chào buổi tối. Tôi là quản lý ca trực. Một nhân viên phục vụ có nói rằng quý khách chưa hài lòng lắm với bữa ăn — tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good evening. Frankly, I'm afraid there's a problem. Despite booking a table for ____ over a week in advance, we were told on arrival that nothing was reserved, and we had to wait almost forty minutes.",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ ˈfræŋk.li aɪm əˈfreɪd ðeəz ə ˈprɒb.ləm dɪˈspaɪt ˈbʊk.ɪŋ ə ˈteɪ.bəl fɔː ... ˈəʊ.və ə wiːk ɪn ədˈvɑːns wiː wɜː təʊld ɒn əˈraɪ.vəl ðæt ˈnʌθ.ɪŋ wɒz rɪˈzɜːvd ænd wiː hæd tə weɪt ˈɔːl.məʊst ˈfɔː.ti ˈmɪn.ɪts/",
+        "vi": "Chào buổi tối. Thẳng thắn mà nói, tôi e là có vấn đề. Dù đã đặt bàn cho ____ từ hơn một tuần trước, khi đến nơi chúng tôi lại được báo là không có đặt chỗ nào, và phải chờ gần bốn mươi phút.",
+        "blanks": [
+          { "type": "personal", "hint": "Số người trong nhóm của bạn. Ví dụ: 'four' (4 người), 'two people'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I'm terribly sorry to hear that. There seems to have been a mix-up with our booking system, and I completely understand your frustration. Was there anything else that went wrong this evening?",
+        "ipa": "/aɪm ˈter.ə.bli ˈsɒr.i tə hɪər ðæt ðeə siːmz tə hæv biːn ə ˈmɪks ʌp wɪð ˈaʊə ˈbʊk.ɪŋ ˈsɪs.təm ænd aɪ kəmˈpliːt.li ˌʌn.dəˈstænd jɔː frʌsˈtreɪ.ʃən wɒz ðeər ˈen.i.θɪŋ els ðæt went rɒŋ ðɪs ˈiːv.nɪŋ/",
+        "vi": "Tôi vô cùng xin lỗi khi nghe điều đó. Có vẻ đã có một sự nhầm lẫn trong hệ thống đặt bàn của chúng tôi, và tôi hoàn toàn hiểu sự bực bội của quý khách. Còn điều gì khác không ổn trong tối nay nữa không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Unfortunately, yes. Not only did the main courses arrive cold, ____ we also seem to have been overcharged, because there are two bottles of wine on the bill ____ we never ordered.",
+        "ipa": "/ʌnˈfɔː.tʃən.ət.li jes nɒt ˈəʊn.li dɪd ðə meɪn ˈkɔː.sɪz əˈraɪv kəʊld ... wiː ˈɔːl.səʊ siːm tə hæv biːn ˌəʊ.vəˈtʃɑːdʒd bɪˈkɒz ðeər ɑː tuː ˈbɒt.əlz ɒv waɪn ɒn ðə bɪl ... wiː ˈnev.ə ˈɔː.dəd/",
+        "vi": "Tiếc là có. Không những các món chính ra nguội ngắt, ____ chúng tôi hình như còn bị tính thừa tiền, vì trên hóa đơn có hai chai rượu vang ____ chúng tôi chưa hề gọi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only... but also': sau 'not only' (đã đảo ngữ 'did the main courses arrive') phải có 'but' nối vế thứ hai. Đây là cách nhấn mạnh có tới hai lỗi. Xem phần ngữ pháp TOEIC." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'two bottles of wine' (vật) để nối mệnh đề mô tả ('mà chúng tôi không gọi'). Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "That's clearly unacceptable, and I do apologize. Let me reprint the bill straight away. In order to make up for the inconvenience, may I offer you a complimentary dessert?",
+        "ipa": "/ðæts ˈklɪə.li ˌʌn.əkˈsep.tə.bəl ænd aɪ duː əˈpɒl.ə.dʒaɪz let miː ˌriːˈprɪnt ðə bɪl streɪt əˈweɪ ɪn ˈɔː.də tə meɪk ʌp fɔː ðə ˌɪn.kənˈviː.ni.əns meɪ aɪ ˈɒf.ər juː ə ˌkɒm.plɪˈmen.tər.i dɪˈzɜːt/",
+        "vi": "Điều đó rõ ràng là không thể chấp nhận được, và tôi thành thật xin lỗi. Để tôi in lại hóa đơn ngay. Để bù đắp cho sự bất tiện, tôi có thể mời quý khách món tráng miệng miễn phí được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate the gesture, but to be perfectly honest, a dessert doesn't quite make up for a ruined celebration. Given everything that's happened, I believe I'm ____ to a discount on the meal rather than just a free dessert.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðə ˈdʒes.tʃər bʌt tə biː ˈpɜː.fekt.li ˈɒn.ɪst ə dɪˈzɜːt ˈdʌz.ənt kwaɪt meɪk ʌp fɔːr ə ˈruːɪnd ˌsel.ɪˈbreɪ.ʃən ˈɡɪv.ən ˈev.ri.θɪŋ ðæts ˈhæp.ənd aɪ bɪˈliːv aɪm ... tə ə ˈdɪs.kaʊnt ɒn ðə miːl ˈrɑː.ðə ðæn dʒʌst ə friː dɪˈzɜːt/",
+        "vi": "Tôi trân trọng thiện chí đó, nhưng thành thật mà nói, một món tráng miệng không thể bù lại một buổi tiệc bị hỏng. Xét đến mọi chuyện đã xảy ra, tôi nghĩ mình có ____ được giảm giá bữa ăn chứ không chỉ một món tráng miệng miễn phí.",
+        "blanks": [
+          { "type": "knowledge", "answer": "entitled", "explanationVi": "Cụm 'be entitled to + danh từ' = 'có quyền được hưởng'. Đây là cách khẳng định quyền lợi điềm đạm mà chắc chắn. Xem mẫu câu 'Given..., I believe I'm entitled to...'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I see your point, and although I'm not usually able to authorize this on my own, in this case I'd be happy to take twenty per cent off your total bill. Would that seem reasonable to you?",
+        "ipa": "/aɪ siː jɔː pɔɪnt ænd ɔːlˈðəʊ aɪm nɒt ˈjuː.ʒu.ə.li ˈeɪ.bəl tʊ ˈɔː.θə.raɪz ðɪs ɒn maɪ əʊn ɪn ðɪs keɪs aɪd biː ˈhæp.i tə teɪk ˈtwen.ti pə sent ɒf jɔː ˈtəʊ.təl bɪl wʊd ðæt siːm ˈriː.zən.ə.bəl tə juː/",
+        "vi": "Tôi hiểu ý quý khách, và dù thường thì tôi không tự ý quyết định được việc này, nhưng trong trường hợp này tôi rất sẵn lòng giảm hai mươi phần trăm trên tổng hóa đơn. Như vậy quý khách thấy có hợp lý không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds fair, thank you. I understand it isn't entirely your fault, however I would ask that the booking error be ____ properly, so that it doesn't happen to other guests in the future.",
+        "ipa": "/ðæt saʊndz feə θæŋk juː aɪ ˌʌn.dəˈstænd ɪt ˈɪz.ənt ɪnˈtaɪə.li jɔː fɔːlt haʊˈev.ər aɪ wʊd ɑːsk ðæt ðə ˈbʊk.ɪŋ ˈer.ə biː ... ˈprɒp.ə.li səʊ ðæt ɪt ˈdʌz.ənt ˈhæp.ən tʊ ˈʌð.ə ɡests ɪn ðə ˈfjuː.tʃər/",
+        "vi": "Vậy thì công bằng, cảm ơn anh/chị. Tôi hiểu đây không hoàn toàn là lỗi của anh/chị, tuy nhiên tôi mong lỗi đặt bàn được ____ một cách triệt để, để chuyện này không xảy ra với khách khác sau này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "resolved", "explanationVi": "Động từ 'to resolve' (giải quyết dứt điểm) ở dạng bị động sau 'be': 'the error be resolved'. Trang trọng và đúng sắc thái 'xử lý vấn đề' hơn 'fixed'. Xem từ vựng 'to resolve'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "Absolutely. I'll report it to head office first thing tomorrow, and I'll make sure it's dealt with promptly. Once again, please accept my sincere apologies for spoiling your evening.",
+        "ipa": "/ˌæb.səˈluːt.li aɪl rɪˈpɔːt ɪt tə hed ˈɒf.ɪs fɜːst θɪŋ təˈmɒr.əʊ ænd aɪl meɪk ʃɔː ɪts delt wɪð ˈprɒmpt.li wʌns əˈɡen pliːz əkˈsept maɪ sɪnˈsɪər əˈpɒl.ə.dʒiz fɔː ˈspɔɪl.ɪŋ jɔːr ˈiːv.nɪŋ/",
+        "vi": "Chắc chắn rồi. Sáng mai việc đầu tiên tôi sẽ báo cáo lên trụ sở chính, và tôi sẽ bảo đảm nó được xử lý nhanh chóng. Một lần nữa, xin quý khách nhận lời xin lỗi chân thành của tôi vì đã làm hỏng buổi tối của quý khách."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, khiếu nại hiệu quả nhất khi BÌNH TĨNH và CỤ THỂ: nêu rõ chuyện gì xảy ra, khi nào, và bạn mong muốn gì — quát tháo thường phản tác dụng.",
+    "Người bản xứ rất hay dùng cách nói gián tiếp/giảm nhẹ ('I'm afraid', 'there seems to be a problem') ngay cả khi bức xúc. Thẳng thừng quá có thể bị coi là thô lỗ (rude).",
+    "Nên hỏi gặp 'the manager' hoặc 'the person in charge' khi nhân viên không có quyền giải quyết — đây là việc bình thường, không bị coi là làm khó.",
+    "Giữ lại bằng chứng (hóa đơn, email xác nhận đặt chỗ, ảnh sản phẩm lỗi) giúp khiếu nại của bạn có cơ sở và dễ được đền bù hơn."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'I want my money back' ngay từ đầu — nghe gay gắt. Hãy mở bằng 'I'm afraid there's a problem' rồi mới nêu yêu cầu.",
+    "Sai đảo ngữ với 'Not only...': phải đảo trợ động từ — 'Not only DID the food arrive cold...', không phải 'Not only the food arrived...'.",
+    "Nhầm 'Despite' với 'Although': 'Despite' + danh từ/V-ing (Despite booking...), còn 'Although' + cả mệnh đề (Although we booked...). Không nói 'Despite we booked'.",
+    "Quên giới từ trong 'complain ABOUT something' và 'be entitled TO something' — sai giới từ làm câu mất tự nhiên."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện khiếu nại dịch vụ như thật.",
+    "prompt": "Hãy đóng vai một quản lý dịch vụ (nhà hàng, khách sạn hoặc cửa hàng) nói tiếng Anh. Tôi là khách hàng đang gặp sự cố mà tôi sẽ nêu (ví dụ: bàn đặt bị mất, sản phẩm lỗi, bị tính thừa tiền). Hãy: (1) phản hồi tự nhiên như một quản lý thật, lúc đầu hơi phòng thủ hoặc chỉ đề nghị giải pháp tối thiểu để tôi phải thương lượng; (2) sau mỗi câu của tôi, sửa lỗi ngữ pháp và gợi ý cách diễn đạt vừa lịch sự vừa kiên quyết hơn bằng tiếng Việt; (3) khuyến khích tôi dùng câu dài với 'despite', 'not only... but also', 'however' và 'I believe I'm entitled to...'. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc hỏi tôi có vấn đề gì nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy từ chối lời đề nghị đầu tiên của tôi để tôi tập leo thang lịch sự (escalate).'",
+      "Thêm: 'Hãy đóng vai một nhân viên khó tính, ít hợp tác hơn.' khi bạn đã quen.",
+      "Thêm: 'Hãy luyện cho tôi cả tình huống khiếu nại qua điện thoại với tổng đài.' để đổi bối cảnh."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu khiếu nại lịch sự bằng 'I'm afraid there's a problem...' rồi nêu vấn đề cụ thể, không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'despite', đảo ngữ 'not only... but also' và 'however' khi trình bày.",
+    "Tôi nêu được yêu cầu khắc phục hợp lý ('I believe I'm entitled to...') và thương lượng khi bị từ chối."
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "household-chores",
+  "category": "family",
+  "title": "Việc nhà",
+  "titleEn": "Household Chores",
+  "level": "A2",
+  "functions": ["describing", "requesting", "suggesting", "agreeing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gọi tên các việc nhà cơ bản bằng tiếng Anh (rửa bát, quét nhà, đổ rác...)",
+    "Nhờ người khác làm một việc nhà một cách lịch sự",
+    "Đề nghị giúp đỡ và phân chia việc nhà trong gia đình",
+    "Nói mình thích / không thích việc nào và vì sao bằng câu đơn giản"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "chore",
+      "ipa": "/tʃɔːr/",
+      "vi": "việc nhà (danh từ)",
+      "register": "neutral",
+      "example": "Doing the chores together makes everything faster.",
+      "exampleVi": "Làm việc nhà cùng nhau khiến mọi thứ nhanh hơn.",
+      "note": "Danh từ, thường dùng số nhiều 'chores' để chỉ các việc lặt vặt trong nhà.",
+      "synonyms": [
+        { "term": "housework", "ipa": "/ˈhaʊs.wɜːrk/", "register": "neutral", "nuanceVi": "Danh từ không đếm được, chỉ chung toàn bộ việc nhà: 'I do a lot of housework.' Không thêm 's' và không nói 'a housework'." },
+        { "term": "task", "ipa": "/tæsk/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn là 'nhiệm vụ, việc cần làm', không riêng việc nhà. Dùng khi muốn nghe trung tính, chung chung." }
+      ]
+    },
+    {
+      "term": "to do the dishes",
+      "ipa": "/duː ðə ˈdɪʃ.ɪz/",
+      "vi": "rửa bát (cụm động từ)",
+      "register": "neutral",
+      "example": "It's my turn to do the dishes tonight.",
+      "exampleVi": "Tối nay đến lượt tôi rửa bát.",
+      "note": "Cụm cố định. 'the dishes' = chén bát đĩa nói chung. Cũng nói 'wash the dishes'.",
+      "synonyms": [
+        { "term": "to wash up", "ipa": "/wɒʃ ʌp/", "register": "casual", "nuanceVi": "Cách nói của người Anh (Anh-Anh) cho việc rửa bát: 'I'll wash up after dinner.' Người Mỹ ít dùng nghĩa này." }
+      ]
+    },
+    {
+      "term": "to sweep",
+      "ipa": "/swiːp/",
+      "vi": "quét (nhà, sàn) (động từ)",
+      "register": "neutral",
+      "example": "Can you sweep the floor in the kitchen?",
+      "exampleVi": "Bạn quét sàn trong bếp được không?",
+      "note": "Động từ bất quy tắc: sweep - swept - swept. Quét bằng chổi. Hút bụi là 'vacuum'.",
+      "synonyms": [
+        { "term": "to mop", "ipa": "/mɒp/", "register": "neutral", "nuanceVi": "Là 'lau sàn bằng cây lau ướt', không phải quét khô. Khác việc nhưng dễ nhầm." }
+      ]
+    },
+    {
+      "term": "to take out the trash",
+      "ipa": "/teɪk aʊt ðə træʃ/",
+      "vi": "đổ rác (mang rác ra ngoài) (cụm động từ)",
+      "register": "neutral",
+      "example": "Please take out the trash before you leave.",
+      "exampleVi": "Làm ơn đổ rác trước khi đi nhé.",
+      "note": "Người Mỹ nói 'trash', người Anh nói 'rubbish': 'take out the rubbish'.",
+      "synonyms": [
+        { "term": "garbage", "ipa": "/ˈɡɑːr.bɪdʒ/", "register": "neutral", "nuanceVi": "Đồng nghĩa với 'trash' (rác), phổ biến ở Mỹ. 'take out the garbage' cũng đúng." }
+      ]
+    },
+    {
+      "term": "laundry",
+      "ipa": "/ˈlɔːn.dri/",
+      "vi": "việc giặt giũ / quần áo cần giặt (danh từ)",
+      "register": "neutral",
+      "example": "I need to do the laundry this weekend.",
+      "exampleVi": "Cuối tuần này tôi cần giặt đồ.",
+      "note": "Danh từ không đếm được. 'do the laundry' = giặt quần áo. Không nói 'a laundry' cho việc giặt."
+    },
+    {
+      "term": "messy",
+      "ipa": "/ˈmes.i/",
+      "vi": "bừa bộn, lộn xộn (tính từ)",
+      "register": "neutral",
+      "example": "The living room is really messy after the party.",
+      "exampleVi": "Phòng khách rất bừa bộn sau buổi tiệc.",
+      "note": "Tính từ. Trái nghĩa là 'tidy' (gọn gàng).",
+      "synonyms": [
+        { "term": "untidy", "ipa": "/ʌnˈtaɪ.di/", "register": "neutral", "nuanceVi": "Nghĩa 'không gọn gàng', nhẹ hơn 'messy' một chút. Người Anh hay dùng." },
+        { "term": "cluttered", "ipa": "/ˈklʌt.ərd/", "register": "neutral", "nuanceVi": "Nhấn vào 'có quá nhiều đồ chất đống' khiến chật chội, không chỉ là bẩn/lộn xộn." }
+      ]
+    },
+    {
+      "term": "tidy",
+      "ipa": "/ˈtaɪ.di/",
+      "vi": "gọn gàng, ngăn nắp (tính từ); dọn gọn (động từ)",
+      "register": "neutral",
+      "example": "Her room is always neat and tidy.",
+      "exampleVi": "Phòng cô ấy lúc nào cũng sạch sẽ ngăn nắp.",
+      "note": "Vừa là tính từ (gọn gàng) vừa là động từ: 'tidy up' = dọn dẹp cho gọn.",
+      "synonyms": [
+        { "term": "neat", "ipa": "/niːt/", "register": "neutral", "nuanceVi": "Nhấn 'sạch sẽ, sắp xếp đẹp mắt'. Hay đi cặp 'neat and tidy'." },
+        { "term": "organized", "ipa": "/ˈɔːr.ɡə.naɪzd/", "register": "neutral", "nuanceVi": "Nhấn 'được sắp xếp có hệ thống', không chỉ gọn mà còn đúng chỗ, dễ tìm." }
+      ]
+    },
+    {
+      "term": "to tidy up",
+      "ipa": "/ˈtaɪ.di ʌp/",
+      "vi": "dọn dẹp cho gọn gàng (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's tidy up the living room before Mom gets home.",
+      "exampleVi": "Mình dọn gọn phòng khách trước khi mẹ về nhé.",
+      "note": "Cụm động từ thông dụng, nhẹ nhàng hơn 'clean'. Có thể nói 'tidy up the room' hoặc 'tidy the room up'.",
+      "synonyms": [
+        { "term": "to clean up", "ipa": "/kliːn ʌp/", "register": "neutral", "nuanceVi": "Nhấn 'làm sạch' (cả bẩn lẫn bừa), mạnh hơn 'tidy up' (chỉ sắp lại cho gọn)." }
+      ]
+    },
+    {
+      "term": "to help out",
+      "ipa": "/help aʊt/",
+      "vi": "phụ giúp, đỡ đần (cụm động từ)",
+      "register": "neutral",
+      "example": "The kids always help out around the house.",
+      "exampleVi": "Bọn trẻ luôn phụ giúp việc nhà.",
+      "note": "Cụm động từ thân thiện, nghĩa giúp một tay. 'around the house' = quanh nhà, việc nhà nói chung."
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "If we work together, we can finish quickly.",
+      "exampleVi": "Nếu làm cùng nhau, mình sẽ xong nhanh.",
+      "note": "Trạng từ chỉ cách thức, đứng sau động từ: 'finish quickly', 'clean quickly'.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fæst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ, đời thường hơn: 'Let's do it fast.' Không có đuôi '-ly'." },
+        { "term": "in no time", "ipa": "/ɪn nəʊ taɪm/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'rất nhanh, chẳng mấy chốc': 'We'll be done in no time.'" }
+      ]
+    },
+    {
+      "term": "to make the bed",
+      "ipa": "/meɪk ðə bed/",
+      "vi": "dọn giường (kéo chăn ga cho gọn) (cụm động từ)",
+      "register": "neutral",
+      "example": "I make the bed every morning before breakfast.",
+      "exampleVi": "Tôi dọn giường mỗi sáng trước khi ăn sáng.",
+      "note": "Cụm cố định, dùng 'make' chứ không phải 'do' hay 'clean'. Nghĩa là kéo chăn gối cho gọn, không phải đóng giường."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "It's my / your turn to + [động từ].",
+      "use": "Nói đến lượt ai làm một việc nhà.",
+      "register": "neutral",
+      "examples": [
+        "It's my turn to do the dishes.",
+        "It's your turn to take out the trash."
+      ],
+      "explanationVi": "'turn' = lượt. Mẫu này rất hợp để chia việc công bằng trong nhà. Sau 'to' luôn là động từ nguyên thể."
+    },
+    {
+      "pattern": "Can you + [động từ] ..., please?",
+      "use": "Nhờ ai đó làm một việc nhà (thân mật).",
+      "register": "casual",
+      "examples": [
+        "Can you sweep the floor, please?",
+        "Can you help me with the laundry, please?"
+      ],
+      "explanationVi": "'Can you...?' là cách nhờ vả đơn giản, thân mật trong gia đình. Thêm 'please' cho lịch sự hơn.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "Could you + [động từ] ..., please?",
+      "use": "Nhờ ai đó làm một việc nhà một cách lịch sự hơn.",
+      "register": "neutral",
+      "examples": [
+        "Could you take out the trash, please?",
+        "Could you make the bed before you go?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?' một chút. Cùng nghĩa nhờ vả nhưng nghe nhã nhặn hơn.",
+      "altOf": "asking-for-help"
+    },
+    {
+      "pattern": "Let's + [động từ] together.",
+      "use": "Rủ cùng làm một việc nhà.",
+      "register": "casual",
+      "examples": [
+        "Let's clean the kitchen together.",
+        "Let's tidy up the living room together."
+      ],
+      "explanationVi": "'Let's' = Let us, dùng để rủ rê. Nghe thân thiện, tạo tinh thần cùng làm.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Why don't we + [động từ]?",
+      "use": "Gợi ý một việc nên cùng làm.",
+      "register": "casual",
+      "examples": [
+        "Why don't we do the chores in the morning?",
+        "Why don't we share the housework?"
+      ],
+      "explanationVi": "'Why don't we...?' (Sao mình không...?) là cách gợi ý nhẹ nhàng. Sau nó là động từ nguyên thể, KHÔNG thêm 'to'.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "I'll + [động từ] if you + [động từ].",
+      "use": "Đề nghị chia việc: tôi làm cái này nếu bạn làm cái kia.",
+      "register": "neutral",
+      "examples": [
+        "I'll wash the dishes if you sweep the floor.",
+        "I'll do the laundry if you take out the trash."
+      ],
+      "explanationVi": "Câu điều kiện đơn giản: vế 'if' chia thì hiện tại, vế chính dùng 'will'. Cách thương lượng chia việc rất tự nhiên."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đính chính nhẹ hoặc nói điều hơi trái ý.", "example": "Actually, I cleaned the bathroom yesterday." },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Khi vui vẻ đồng ý giúp một việc.", "example": "Of course, I'll help you with that." },
+    { "term": "first", "ipa": "/fɜːrst/", "vi": "đầu tiên, trước hết", "when": "Khi sắp xếp thứ tự các việc cần làm.", "example": "First, let's clear the table, then wash the dishes." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi hoặc nhắc thêm một việc.", "example": "By the way, did you feed the cat?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi bày tỏ cảm nghĩ thật về một việc nhà.", "example": "Honestly, I don't really enjoy ironing clothes." }
+  ],
+
+  "dialogue": {
+    "context": "Hai anh em (Lan và Minh) ở nhà vào sáng thứ Bảy. Họ cùng nhau chia và làm việc nhà trước khi bố mẹ về.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Good morning, Minh. The house is really messy after dinner last night, so why don't we ____ up together before Mom and Dad get home?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ mɪn ðə haʊs ɪz ˈrɪə.li ˈmes.i ˈɑːf.tər ˈdɪn.ər lɑːst naɪt səʊ waɪ dəʊnt wiː ʌp təˈɡeð.ər bɪˈfɔːr mɒm ænd dæd ɡet həʊm/",
+        "vi": "Chào buổi sáng, Minh. Nhà bừa bộn quá sau bữa tối hôm qua, nên sao mình không cùng dọn dẹp trước khi bố mẹ về nhỉ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "tidy",
+            "explanationVi": "Cụm 'tidy up' nghĩa là dọn cho gọn gàng. Sau 'why don't we' là động từ nguyên thể. Xem từ vựng 'to tidy up' và mẫu câu 'Why don't we...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Of course, that's a good idea. There are a lot of chores ____ we need to do, such as washing the dishes and taking out the trash. Where should we start?",
+        "ipa": "/əv kɔːrs ðæts ə ɡʊd aɪˈdɪə ðeər ɑːr ə lɒt əv tʃɔːrz wiː niːd tə duː sʌtʃ æz ˈwɒʃ.ɪŋ ðə ˈdɪʃ.ɪz ænd ˈteɪ.kɪŋ aʊt ðə træʃ weər ʃʊd wiː stɑːrt/",
+        "vi": "Tất nhiên rồi, ý hay đấy. Có nhiều việc nhà mà mình cần làm, chẳng hạn như rửa bát và đổ rác. Mình bắt đầu từ đâu đây?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "that",
+            "explanationVi": "Dùng đại từ quan hệ 'that' (hoặc 'which') để nối mệnh đề mô tả cho 'chores' (vật). Cả 'that' và 'which' đều đúng ở đây."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "First, let's clear the table. I'll wash the dishes ____ you sweep the kitchen floor, and then we can do the laundry together.",
+        "ipa": "/fɜːrst lets klɪər ðə ˈteɪ.bəl aɪl wɒʃ ðə ˈdɪʃ.ɪz juː swiːp ðə ˈkɪtʃ.ɪn flɔːr ænd ðen wiː kæn duː ðə ˈlɔːn.dri təˈɡeð.ər/",
+        "vi": "Trước hết, mình dọn bàn đã. Em sẽ rửa bát nếu anh quét sàn bếp, rồi sau đó mình giặt đồ cùng nhau.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "if",
+            "explanationVi": "Dùng 'if' cho câu điều kiện chia việc: 'I'll wash the dishes if you sweep the floor.' Xem mẫu câu 'I'll... if you...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds fair. Honestly, I don't really like sweeping, but I'll do it anyway because working together is faster. Could you ____ the trash out afterwards, please?",
+        "ipa": "/ðæt saʊndz feər ˈɒn.ɪst.li aɪ dəʊnt ˈrɪə.li laɪk ˈswiː.pɪŋ bʌt aɪl duː ɪt ˈen.i.weɪ bɪˈkɒz ˈwɜːr.kɪŋ təˈɡeð.ər ɪz ˈfɑːs.tər kʊd juː ðə træʃ aʊt ˈɑːf.tə.wədz pliːz/",
+        "vi": "Nghe công bằng đấy. Thành thật mà nói anh không thích quét nhà lắm, nhưng anh vẫn làm vì làm cùng nhau thì nhanh hơn. Sau đó em đổ rác giúp anh được không?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một việc nhà em sẵn lòng làm. Ví dụ: 'take' (take the trash out), hoặc đề nghị việc khác."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Sure, I can do that. By the way, it's ____ turn to make the beds today, not mine, although I'll help you if you want.",
+        "ipa": "/ʃʊər aɪ kæn duː ðæt baɪ ðə weɪ ɪts tɜːrn tə meɪk ðə bedz təˈdeɪ nɒt maɪn ɔːlˈðəʊ aɪl help juː ɪf juː wɒnt/",
+        "vi": "Được, em làm được. Tiện thể, hôm nay đến lượt anh dọn giường chứ không phải em, mặc dù em sẽ giúp nếu anh muốn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "your",
+            "explanationVi": "Dùng tính từ sở hữu 'your' trong cụm 'it's your turn to...' (đến lượt anh). Xem mẫu câu 'It's my/your turn to...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Oh, you're right, I forgot. I'll make the beds ____ I finish sweeping. If we keep going like this, we'll have the whole house clean and tidy in no time.",
+        "ipa": "/əʊ jɔːr raɪt aɪ fəˈɡɒt aɪl meɪk ðə bedz aɪ ˈfɪn.ɪʃ ˈswiː.pɪŋ ɪf wiː kiːp ˈɡəʊ.ɪŋ laɪk ðɪs wiːl hæv ðə həʊl haʊs kliːn ænd ˈtaɪ.di ɪn nəʊ taɪm/",
+        "vi": "Ồ, em nói đúng, anh quên mất. Anh sẽ dọn giường sau khi quét xong. Nếu cứ làm thế này, chẳng mấy chốc cả nhà sẽ sạch sẽ gọn gàng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "after",
+            "explanationVi": "Dùng 'after' (sau khi) để nối hai việc theo thứ tự thời gian. Cũng có thể nói 'as soon as' (ngay khi). Vế 'after' chia thì hiện tại."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Great teamwork! When we're done, why don't we relax and watch a movie? My favorite chore is actually ____, because I find it relaxing.",
+        "ipa": "/ɡreɪt ˈtiːm.wɜːrk wen wɪər dʌn waɪ dəʊnt wiː rɪˈlæks ænd wɒtʃ ə ˈmuː.vi maɪ ˈfeɪ.vər.ɪt tʃɔːr ɪz ˈæk.tʃu.ə.li bɪˈkɒz aɪ faɪnd ɪt rɪˈlæk.sɪŋ/",
+        "vi": "Phối hợp tốt lắm! Khi xong rồi, sao mình không thư giãn và xem phim nhỉ? Việc nhà em thích nhất thật ra là ____, vì em thấy nó thư giãn.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Việc nhà bạn thích nhất. Ví dụ: 'doing the laundry', 'cooking', 'watering the plants'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's a nice plan. Not only will the house look great, but we'll also have time to rest. Let's get started right now!",
+        "ipa": "/ðæts ə naɪs plæn nɒt ˈəʊn.li wɪl ðə haʊs lʊk ɡreɪt bʌt wiːl ˈɔːl.səʊ hæv taɪm tə rest lets ɡet ˈstɑːr.tɪd raɪt naʊ/",
+        "vi": "Kế hoạch hay đấy. Không chỉ nhà cửa trông đẹp mà mình còn có thời gian nghỉ ngơi nữa. Bắt đầu ngay thôi!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều gia đình phương Tây, trẻ em được giao việc nhà từ nhỏ (gọi là 'chores') và đôi khi nhận tiền tiêu vặt ('allowance') khi hoàn thành.",
+    "Việc nhà thường được chia đều cho mọi thành viên, kể cả con cái, để dạy tính trách nhiệm và tự lập.",
+    "Người Mỹ nói 'trash/garbage', người Anh nói 'rubbish'; tương tự 'do the dishes' (Mỹ) và 'wash up' (Anh) cùng nghĩa rửa bát.",
+    "Nhiều nhà có lịch phân công việc nhà ('chore chart') dán trên tủ lạnh để mọi người biết tới lượt ai."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai động từ đi kèm: phải nói 'MAKE the bed' và 'DO the dishes/laundry', không phải 'do the bed' hay 'make the dishes'.",
+    "Thêm 's' sai cho danh từ không đếm được: nói 'housework' và 'laundry' (không có 's'), không nói 'houseworks' hay 'a laundry'.",
+    "Quên mạo từ: nói 'do THE dishes', 'take out THE trash' — cụm cố định luôn có 'the'.",
+    "Nhầm 'sweep' (quét khô bằng chổi) với 'mop' (lau ướt) — đây là hai việc khác nhau."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về việc nhà như thật.",
+    "prompt": "Hãy đóng vai một thành viên trong gia đình tôi (anh/chị/em hoặc bạn cùng phòng) nói tiếng Anh ở trình độ đơn giản (A2). Chúng ta đang cùng nhau dọn dẹp nhà cửa vào cuối tuần. Hãy bắt đầu bằng cách rủ tôi chia việc nhà. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thân thiện như người nhà, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa đúng (ví dụ 'make the dishes') thì sửa nhẹ nhàng và giải thích bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống nhỏ bất ngờ (ví dụ máy giặt hỏng, hết túi rác) để tôi tập xử lý bằng tiếng Anh. Dùng câu ngắn, dễ hiểu. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy giúp tôi tập dùng câu dài hơn với such as, because và after.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gọi được tên ít nhất 5 việc nhà bằng tiếng Anh mà không cần nhìn gợi ý.",
+    "Tôi nhờ được người khác làm việc nhà bằng 'Can you...?' hoặc 'Could you...?'.",
+    "Tôi đề nghị chia việc được bằng mẫu 'I'll... if you...' hoặc 'Let's... together'."
+  ]
+}

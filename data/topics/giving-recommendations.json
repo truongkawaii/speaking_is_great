@@ -1,0 +1,335 @@
+{
+  "id": "giving-recommendations",
+  "category": "opinions",
+  "title": "Đưa ra khuyến nghị",
+  "titleEn": "Giving Recommendations",
+  "level": "B2",
+  "functions": ["opinions", "suggesting", "agreeing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Đưa ra lời khuyên và khuyến nghị bằng câu dài, có cơ sở lập luận",
+    "Phân biệt mức độ mạnh/nhẹ khi khuyến nghị (gợi ý nhẹ vs khuyên dứt khoát)",
+    "Cân nhắc ưu nhược điểm trước khi đề xuất một lựa chọn",
+    "Dùng ngữ pháp nâng cao (although, in order to, not only… but also, mệnh đề quan hệ which/who) khi tư vấn cho người khác"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "recommendation",
+      "ipa": "/ˌrek.ə.menˈdeɪ.ʃən/",
+      "vi": "lời khuyến nghị, sự đề xuất (danh từ)",
+      "register": "neutral",
+      "example": "Based on your needs, my recommendation would be to choose the smaller plan.",
+      "exampleVi": "Dựa trên nhu cầu của bạn, khuyến nghị của tôi là chọn gói nhỏ hơn.",
+      "note": "Danh từ. Động từ là 'to recommend'. Cụm hay dùng: 'make a recommendation', 'my recommendation would be…'.",
+      "synonyms": [
+        { "term": "suggestion", "ipa": "/səˈdʒes.tʃən/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'recommendation' — chỉ là một ý đưa ra để cân nhắc, không mang sức nặng của lời khuyên chính thức." },
+        { "term": "advice", "ipa": "/ədˈvaɪs/", "register": "neutral", "nuanceVi": "Mang tính cá nhân, dựa trên kinh nghiệm. LƯU Ý: là danh từ không đếm được — nói 'some advice', 'a piece of advice', KHÔNG nói 'an advice'." },
+        { "term": "proposal", "ipa": "/prəˈpəʊ.zəl/", "register": "formal", "nuanceVi": "Trang trọng, thường là đề xuất chính thức bằng văn bản hoặc trong cuộc họp, không phải lời khuyên đời thường." }
+      ]
+    },
+    {
+      "term": "option",
+      "ipa": "/ˈɒp.ʃən/",
+      "vi": "lựa chọn, phương án (danh từ)",
+      "register": "neutral",
+      "example": "You have two main options, and each comes with its own trade-offs.",
+      "exampleVi": "Bạn có hai phương án chính, và mỗi phương án có cái được cái mất riêng.",
+      "note": "Danh từ. Cụm hữu ích: 'weigh up the options' (cân nhắc các phương án), 'your best option'.",
+      "synonyms": [
+        { "term": "alternative", "ipa": "/ɔːlˈtɜː.nə.tɪv/", "register": "neutral", "nuanceVi": "Nhấn vào 'phương án thay thế', một lựa chọn KHÁC so với cái đang bàn. Thường ngụ ý có sẵn cái A rồi tìm cái B." },
+        { "term": "choice", "ipa": "/tʃɔɪs/", "register": "neutral", "nuanceVi": "Đời thường hơn, nhấn vào hành động/quyền 'chọn'. 'option' nghiêng về bản thân các phương án có sẵn." }
+      ]
+    },
+    {
+      "term": "to suggest",
+      "ipa": "/səˈdʒest/",
+      "vi": "gợi ý, đề xuất (động từ)",
+      "register": "neutral",
+      "example": "I'd suggest trying the trial version before you commit.",
+      "exampleVi": "Tôi gợi ý dùng thử bản dùng thử trước khi cam kết.",
+      "note": "Động từ. Bẫy ngữ pháp: theo sau là V-ing ('suggest doing') hoặc 'that + S + (should) V', KHÔNG dùng 'suggest somebody to do'.",
+      "synonyms": [
+        { "term": "to recommend", "ipa": "/ˌrek.əˈmend/", "register": "neutral", "nuanceVi": "Mạnh hơn 'suggest' một chút — ngụ ý bạn tin đây là lựa chọn tốt, không chỉ là một ý thoáng qua." },
+        { "term": "to advise", "ipa": "/ədˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng, có sức nặng của chuyên môn/thẩm quyền. 'advise somebody to do' đúng ngữ pháp (khác với suggest)." },
+        { "term": "to propose", "ipa": "/prəˈpəʊz/", "register": "formal", "nuanceVi": "Trang trọng nhất, đưa ra một đề xuất chính thức để nhóm/người khác xem xét, thường trong họp hành." }
+      ]
+    },
+    {
+      "term": "reliable",
+      "ipa": "/rɪˈlaɪ.ə.bəl/",
+      "vi": "đáng tin cậy, bền (tính từ)",
+      "register": "neutral",
+      "example": "I'd go for the brand that has proven to be the most reliable over time.",
+      "exampleVi": "Tôi sẽ chọn thương hiệu đã chứng tỏ là đáng tin cậy nhất theo thời gian.",
+      "note": "Tính từ. Một tiêu chí khuyến nghị rất hay dùng. Danh từ: 'reliability'.",
+      "synonyms": [
+        { "term": "dependable", "ipa": "/dɪˈpen.də.bəl/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn 'có thể dựa vào, không làm bạn thất vọng'. Hay dùng cho người lẫn vật." },
+        { "term": "trustworthy", "ipa": "/ˈtrʌstˌwɜː.ði/", "register": "neutral", "nuanceVi": "Nhấn vào 'xứng đáng được tin tưởng' — thiên về uy tín/đạo đức, hợp khi nói về người, nhãn hàng, nguồn thông tin." }
+      ]
+    },
+    {
+      "term": "worthwhile",
+      "ipa": "/ˌwɜːθˈwaɪl/",
+      "vi": "đáng (công sức/tiền bạc) (tính từ)",
+      "register": "neutral",
+      "example": "Although it costs a bit more, I think it's definitely worthwhile.",
+      "exampleVi": "Tuy đắt hơn một chút, tôi nghĩ nó thực sự đáng đồng tiền.",
+      "note": "Tính từ. Nghĩa 'bỏ ra thời gian/tiền là xứng đáng'. Đừng nhầm với 'worth' (it's worth doing).",
+      "synonyms": [
+        { "term": "valuable", "ipa": "/ˈvæl.jə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào 'có giá trị', có thể là giá trị vật chất hoặc lợi ích. 'worthwhile' nhấn riêng vào việc bỏ công ra là đáng." },
+        { "term": "beneficial", "ipa": "/ˌben.ɪˈfɪʃ.əl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'mang lại lợi ích cụ thể'. Hợp khi tư vấn về sức khỏe, học tập, công việc." }
+      ]
+    },
+    {
+      "term": "to weigh up",
+      "ipa": "/weɪ ʌp/",
+      "vi": "cân nhắc kỹ (các mặt) (động từ)",
+      "register": "neutral",
+      "example": "Before deciding, you should weigh up the pros and cons carefully.",
+      "exampleVi": "Trước khi quyết, bạn nên cân nhắc kỹ các mặt lợi hại.",
+      "note": "Cụm động từ. Hay đi với 'the pros and cons', 'the options'. Anh-Mỹ đôi khi nói 'weigh' không có 'up'.",
+      "synonyms": [
+        { "term": "to consider", "ipa": "/kənˈsɪd.ər/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'xem xét, cân nhắc'. Nhẹ hơn 'weigh up' (vốn nhấn việc so sánh nhiều mặt với nhau)." },
+        { "term": "to evaluate", "ipa": "/ɪˈvæl.ju.eɪt/", "register": "formal", "nuanceVi": "Trang trọng, mang tính phân tích, đánh giá có hệ thống. Hợp văn cảnh công việc/học thuật." }
+      ]
+    },
+    {
+      "term": "drawback",
+      "ipa": "/ˈdrɔː.bæk/",
+      "vi": "nhược điểm, mặt hạn chế (danh từ)",
+      "register": "neutral",
+      "example": "The only drawback is that the battery doesn't last very long.",
+      "exampleVi": "Nhược điểm duy nhất là pin không bền lắm.",
+      "note": "Danh từ. Trái nghĩa: 'advantage / benefit'. Cụm: 'the main drawback', 'one drawback'.",
+      "synonyms": [
+        { "term": "downside", "ipa": "/ˈdaʊn.saɪd/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'mặt trái'. Hay dùng cặp 'the upside / the downside'." },
+        { "term": "disadvantage", "ipa": "/ˌdɪs.ədˈvɑːn.tɪdʒ/", "register": "neutral", "nuanceVi": "Trung tính, hơi trang trọng hơn 'drawback'. Trái nghĩa trực tiếp với 'advantage'." },
+        { "term": "limitation", "ipa": "/ˌlɪm.ɪˈteɪ.ʃən/", "register": "formal", "nuanceVi": "Nhấn vào 'giới hạn về khả năng/tính năng', không hẳn là điểm xấu — thường dùng khi mô tả sản phẩm khách quan." }
+      ]
+    },
+    {
+      "term": "suitable",
+      "ipa": "/ˈsuː.tə.bəl/",
+      "vi": "phù hợp, thích hợp (tính từ)",
+      "register": "neutral",
+      "example": "This plan seems the most suitable for someone with a tight budget.",
+      "exampleVi": "Gói này có vẻ phù hợp nhất với người có ngân sách eo hẹp.",
+      "note": "Tính từ. Đi với 'suitable for somebody/something'. Một tiêu chí khuyến nghị quan trọng.",
+      "synonyms": [
+        { "term": "appropriate", "ipa": "/əˈprəʊ.pri.ət/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'đúng/hợp với hoàn cảnh, đúng chuẩn mực'. Hợp ngữ cảnh công việc, ứng xử." },
+        { "term": "ideal", "ipa": "/aɪˈdɪəl/", "register": "neutral", "nuanceVi": "Mạnh hơn 'suitable' — nghĩa 'lý tưởng, hoàn hảo cho hoàn cảnh đó', không chỉ là tạm hợp." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I wouldn't recommend that model if I were you.",
+      "exampleVi": "Thành thật mà nói, nếu là bạn tôi sẽ không khuyên chọn mẫu đó.",
+      "note": "Trạng từ. Mở đầu một khuyến nghị thẳng thắn, chân thành. Phát âm bẫy: 'h' câm — /ˈɒn.ɪst.li/.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn 'nói thẳng, không vòng vo', đôi khi báo trước điều người nghe không muốn nghe." },
+        { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "register": "casual", "nuanceVi": "Cụm đời thường tương đương 'honestly', mềm và gần gũi hơn khi mở lời khuyên." }
+      ]
+    },
+    {
+      "term": "personally",
+      "ipa": "/ˈpɜː.sən.əl.i/",
+      "vi": "theo cá nhân tôi (trạng từ)",
+      "register": "neutral",
+      "example": "Personally, I'd go for the second option, but it really depends on you.",
+      "exampleVi": "Theo cá nhân tôi, tôi sẽ chọn phương án hai, nhưng còn tùy bạn.",
+      "note": "Trạng từ. Đặt đầu câu để báo rằng đây là quan điểm riêng, làm lời khuyên bớt áp đặt.",
+      "synonyms": [
+        { "term": "if you ask me", "ipa": "/ɪf juː ɑːsk miː/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'nếu hỏi ý tôi'. Thân mật, dùng khi trò chuyện bạn bè." },
+        { "term": "in my opinion", "ipa": "/ɪn maɪ əˈpɪn.jən/", "register": "neutral", "nuanceVi": "Trung tính, hơi trang trọng, rõ ràng đánh dấu một quan điểm. An toàn trong cả nói lẫn viết." }
+      ]
+    },
+    {
+      "term": "to come down to",
+      "ipa": "/kʌm daʊn tuː/",
+      "vi": "rốt cuộc phụ thuộc vào (động từ)",
+      "register": "neutral",
+      "example": "In the end, it comes down to how much you're willing to spend.",
+      "exampleVi": "Suy cho cùng, nó phụ thuộc vào việc bạn sẵn lòng chi bao nhiêu.",
+      "note": "Cụm động từ. Dùng để chốt rằng quyết định cuối cùng xoay quanh một yếu tố then chốt.",
+      "synonyms": [
+        { "term": "to depend on", "ipa": "/dɪˈpend ɒn/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'tùy thuộc vào'. 'come down to' nhấn mạnh hơn vào YẾU TỐ quyết định cuối cùng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "If I were you, I'd [V nguyên thể].",
+      "use": "Đưa lời khuyên bằng cách đặt mình vào vị trí người nghe.",
+      "register": "neutral",
+      "examples": [
+        "If I were you, I'd go for the more reliable brand, even if it costs a little more."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 ('were' cho mọi ngôi). Đây là cách khuyên rất tự nhiên, lịch sự vì nghe như 'tôi hiểu hoàn cảnh của bạn' chứ không ra lệnh.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "I'd recommend [V-ing / danh từ], because [lý do].",
+      "use": "Khuyến nghị kèm lý do để tăng tính thuyết phục.",
+      "register": "neutral",
+      "examples": [
+        "I'd recommend booking in advance, because prices tend to rise closer to the date."
+      ],
+      "explanationVi": "Sau 'recommend' dùng V-ing hoặc danh từ. Nêu 'because + lý do' khiến lời khuyên có cơ sở, không phải nói suông.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "You might want to [V], especially if [mệnh đề].",
+      "use": "Gợi ý nhẹ nhàng, không áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "You might want to compare a few models first, especially if you're not in a hurry."
+      ],
+      "explanationVi": "'You might want to' là cách gợi ý cực kỳ tế nhị, để ngỏ cho người nghe tự quyết. Hợp khi bạn không muốn nghe áp đặt.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "It's worth [V-ing], although [mệnh đề nhượng bộ].",
+      "use": "Khuyên nên làm gì đó dù có một điểm bất tiện.",
+      "register": "neutral",
+      "examples": [
+        "It's worth upgrading to the premium version, although it does cost a bit more each month."
+      ],
+      "explanationVi": "'It's worth + V-ing' = đáng để làm. 'although' mở mệnh đề nhượng bộ, thừa nhận mặt hạn chế nhưng vẫn khuyên — nghe khách quan, đáng tin."
+    },
+    {
+      "pattern": "The main advantage of [A] is that…, whereas [B] tends to [V].",
+      "use": "So sánh hai phương án để giúp người nghe tự cân nhắc.",
+      "register": "formal",
+      "examples": [
+        "The main advantage of renting is that it's flexible, whereas buying tends to be cheaper in the long run."
+      ],
+      "explanationVi": "'whereas' nối hai vế đối lập (trong khi đó). Trình bày cả hai mặt khiến lời tư vấn nghe cân bằng và chuyên nghiệp."
+    },
+    {
+      "pattern": "Whatever you decide, make sure you [V] in order to [mục đích].",
+      "use": "Chốt lời khuyên bằng một nguyên tắc chung, kèm mục đích.",
+      "register": "neutral",
+      "examples": [
+        "Whatever you decide, make sure you read the reviews in order to avoid any unpleasant surprises."
+      ],
+      "explanationVi": "'in order to + V' diễn đạt mục đích (để mà…), trang trọng hơn 'to' đơn thuần. 'Whatever you decide' tôn trọng quyền lựa chọn cuối cùng của người nghe."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời khuyên thẳng thắn, chân thành.", "example": "Honestly, I think the cheaper one would suit you just as well." },
+    { "term": "ideally", "ipa": "/aɪˈdɪə.li/", "vi": "lý tưởng nhất là", "when": "Nêu phương án tốt nhất trên lý thuyết trước khi tính đến thực tế.", "example": "Ideally, you'd test it out for a week before buying." },
+    { "term": "in that case", "ipa": "/ɪn ðæt keɪs/", "vi": "nếu vậy thì", "when": "Điều chỉnh lời khuyên theo thông tin mới người nghe vừa cung cấp.", "example": "In that case, I'd definitely go for the larger model." },
+    { "term": "on balance", "ipa": "/ɒn ˈbæl.əns/", "vi": "cân nhắc tổng thể thì", "when": "Đưa kết luận sau khi đã so sánh các mặt lợi hại.", "example": "On balance, I'd say the subscription is the better deal." },
+    { "term": "to be on the safe side", "ipa": "/tə biː ɒn ðə seɪf saɪd/", "vi": "cho chắc ăn", "when": "Khuyên một lựa chọn an toàn để tránh rủi ro.", "example": "To be on the safe side, I'd book a refundable ticket." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn của bạn đang phân vân chọn một chiếc laptop mới và nhờ bạn tư vấn. Bạn lắng nghe nhu cầu, cân nhắc các phương án rồi đưa ra khuyến nghị.",
+    "lines": [
+      {
+        "speaker": "Bạn của bạn",
+        "text": "I'm planning to buy a new laptop, but honestly there are so many options that I have no idea where to start. What would you recommend?",
+        "ipa": "/aɪm ˈplæn.ɪŋ tə baɪ ə njuː ˈlæp.tɒp bʌt ˈɒn.ɪst.li ðeər ɑːr səʊ ˈmen.i ˈɒp.ʃənz ðæt aɪ hæv nəʊ aɪˈdɪə weər tə stɑːt wɒt wʊd juː ˌrek.əˈmend/",
+        "vi": "Mình đang định mua laptop mới, nhưng thành thật là có quá nhiều lựa chọn đến mức mình chẳng biết bắt đầu từ đâu. Cậu khuyên gì không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, before I suggest anything, it really ____ to what you'll use it for. Are you mainly going to browse and watch videos, or do you need something powerful for heavy work?",
+        "ipa": "/wel bɪˈfɔːr aɪ səˈdʒest ˈen.i.θɪŋ ɪt ˈrɪə.li ... tə wɒt jʊl juːz ɪt fɔːr ɑːr juː ˈmeɪn.li ˈɡəʊ.ɪŋ tə braʊz ænd wɒtʃ ˈvɪd.i.əʊz ɔːr duː juː niːd ˈsʌm.θɪŋ ˈpaʊ.ə.fəl fɔːr ˈhev.i wɜːk/",
+        "vi": "À, trước khi mình gợi ý gì, nó thực ra ____ vào việc cậu dùng để làm gì. Cậu chủ yếu lướt web và xem video, hay cần máy mạnh cho công việc nặng?",
+        "blanks": [
+          { "type": "knowledge", "answer": "comes down", "explanationVi": "Cụm 'it comes down to + danh từ' = suy cho cùng phụ thuộc vào… Xem mục từ vựng 'to come down to'. Sau đó luôn có giới từ 'to'." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "Mostly browsing and writing, although I do edit photos occasionally. My budget is quite tight, so I can't spend too much.",
+        "ipa": "/ˈməʊst.li ˈbraʊ.zɪŋ ænd ˈraɪ.tɪŋ ɔːlˈðəʊ aɪ duː ˈed.ɪt ˈfəʊ.təʊz əˈkeɪ.ʒən.ə.li maɪ ˈbʌdʒ.ɪt ɪz kwaɪt taɪt səʊ aɪ kɑːnt spend tuː mʌtʃ/",
+        "vi": "Chủ yếu là lướt web và viết lách, dù thỉnh thoảng mình cũng chỉnh ảnh. Ngân sách của mình khá eo hẹp nên không chi quá nhiều được."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "In that case, I'd recommend a mid-range model ____ offers a good balance between price and performance. You don't really need a high-end machine just for browsing and light photo editing.",
+        "ipa": "/ɪn ðæt keɪs aɪd ˌrek.əˈmend ə ˈmɪd.reɪndʒ ˈmɒd.əl ... ˈɒf.əz ə ɡʊd ˈbæl.əns bɪˈtwiːn praɪs ænd pəˈfɔː.məns juː dəʊnt ˈrɪə.li niːd ə ˈhaɪ.end məˈʃiːn dʒʌst fɔːr ˈbraʊ.zɪŋ ænd laɪt ˈfəʊ.təʊ ˈed.ɪt.ɪŋ/",
+        "vi": "Nếu vậy, mình khuyên một mẫu tầm trung ____ có sự cân bằng tốt giữa giá và hiệu năng. Cậu không thực sự cần máy cao cấp chỉ để lướt web và chỉnh ảnh nhẹ đâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'a mid-range model' (vật) để nối mệnh đề mô tả thêm. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "That sounds sensible. But what's the catch? Every cheaper option seems to have some kind of drawback.",
+        "ipa": "/ðæt saʊndz ˈsen.sə.bəl bʌt wɒts ðə kætʃ ˈev.ri ˈtʃiː.pər ˈɒp.ʃən siːmz tə hæv səm kaɪnd ɒv ˈdrɔː.bæk/",
+        "vi": "Nghe hợp lý đấy. Nhưng có điểm gì phải lưu ý không? Phương án rẻ nào cũng có vẻ kèm theo một nhược điểm nào đó."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, the main drawback is that the battery often doesn't last as long. ____ that, though, it's worth choosing a reliable brand in order to avoid repair costs down the line.",
+        "ipa": "/ˈɒn.ɪst.li ðə meɪn ˈdrɔː.bæk ɪz ðæt ðə ˈbæt.ər.i ˈɒf.ən ˈdʌz.ənt lɑːst æz lɒŋ ... ðæt ðəʊ ɪts wɜːθ ˈtʃuː.zɪŋ ə rɪˈlaɪ.ə.bəl brænd ɪn ˈɔː.də tʊ əˈvɔɪd rɪˈpeə kɒsts daʊn ðə laɪn/",
+        "vi": "Thành thật mà nói, nhược điểm chính là pin thường không bền bằng. ____ vậy, vẫn nên chọn một thương hiệu đáng tin cậy để tránh chi phí sửa chữa về sau.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Despite", "explanationVi": "'Despite + danh từ/đại từ (that)' = bất chấp điều đó. Theo sau 'despite' KHÔNG có mệnh đề đầy đủ; nếu muốn dùng mệnh đề thì phải dùng 'although'." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "Got it. So if you were me, which one would you actually buy in the end?",
+        "ipa": "/ˈɡɒt ɪt səʊ ɪf juː wɜː miː wɪtʃ wʌn wʊd juː ˈæk.tʃu.ə.li baɪ ɪn ðə end/",
+        "vi": "Hiểu rồi. Vậy nếu là mình, rốt cuộc cậu sẽ mua cái nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "If I ____ you, I'd go for the model we just talked about. Not only is it within your budget, but it also has excellent reviews from people who do similar work. On balance, I think it's the most suitable choice for you.",
+        "ipa": "/ɪf aɪ ... juː aɪd ɡəʊ fɔːr ðə ˈmɒd.əl wiː dʒʌst ˈtɔːkt əˈbaʊt nɒt ˈəʊn.li ɪz ɪt wɪˈðɪn jɔː ˈbʌdʒ.ɪt bʌt ɪt ˈɔːl.səʊ hæz ˈek.sə.lənt rɪˈvjuːz frɒm ˈpiː.pəl huː duː ˈsɪm.ɪ.lə wɜːk ɒn ˈbæl.əns aɪ θɪŋk ɪts ðə məʊst ˈsuː.tə.bəl tʃɔɪs fɔː juː/",
+        "vi": "Nếu mình ____ cậu, mình sẽ chọn mẫu vừa nói. Nó không những nằm trong ngân sách của cậu, mà còn được đánh giá rất tốt từ những người làm công việc tương tự. Cân nhắc tổng thể, mình nghĩ đó là lựa chọn phù hợp nhất với cậu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "were", "explanationVi": "Câu điều kiện loại 2: 'If I were you, I'd…'. Dùng 'were' cho mọi ngôi (kể cả I/he/she) trong giả định trái thực tế. Xem mẫu câu 'If I were you, I'd…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "That's really helpful — thanks! I'll think it over tonight, but I'm leaning towards ____ now.",
+        "ipa": "/ðæts ˈrɪə.li ˈhel.pfəl θæŋks aɪl θɪŋk ɪt ˈəʊ.və təˈnaɪt bʌt aɪm ˈliː.nɪŋ təˈwɔːdz ... naʊ/",
+        "vi": "Hữu ích thật đấy — cảm ơn cậu! Tối nay mình sẽ nghĩ thêm, nhưng giờ mình đang nghiêng về ____ rồi.",
+        "blanks": [
+          { "type": "personal", "hint": "Lựa chọn bạn nghiêng về. Ví dụ: 'the mid-range one', 'that model you suggested'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa Anh-Mỹ, lời khuyên thường được đưa ra một cách tế nhị: 'You might want to…', 'If I were you…' nghe lịch sự hơn nhiều so với ra lệnh 'You should…'.",
+    "Người bản xứ hay nhấn rằng quyết định cuối cùng là của người nghe ('but it's up to you', 'whatever works for you') để tránh tỏ ra áp đặt.",
+    "Đưa ra cả ưu lẫn nhược điểm (a balanced view) được coi là dấu hiệu của lời khuyên đáng tin, thay vì chỉ khen một chiều.",
+    "Khi không chắc chắn, người ta thường rào đón bằng 'I'm no expert, but…' hoặc 'Don't quote me on this, but…' để không chịu trách nhiệm quá mức."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai 'suggest': KHÔNG nói 'I suggest you to buy it'. Đúng là 'I suggest buying it' hoặc 'I suggest (that) you buy it'.",
+    "Coi 'advice' là danh từ đếm được: phải nói 'a piece of advice' hoặc 'some advice', KHÔNG nói 'an advice' / 'advices'.",
+    "Nhầm 'despite' với 'although': sau 'despite' là danh từ/V-ing ('despite the cost'), còn sau 'although' là mệnh đề đầy đủ ('although it costs more').",
+    "Lạm dụng 'You should' khiến lời khuyên nghe áp đặt. Hãy xen 'You might want to…', 'If I were you…' cho mềm mại, lịch sự hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện đưa ra khuyến nghị như trong tình huống thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang phân vân về một quyết định (ví dụ: chọn điện thoại, chọn khóa học, chọn nơi du lịch) và nhờ tôi tư vấn. Hãy nêu hoàn cảnh và nhu cầu của bạn, rồi hỏi xin lời khuyên của tôi. Sau mỗi lần tôi tư vấn, hãy: (1) phản hồi tự nhiên như một người bạn (đặt thêm câu hỏi, nêu băn khoăn), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'If I were you…', 'I'd recommend…', 'although', 'in order to', 'not only… but also'. Thỉnh thoảng hãy phản bác nhẹ để tôi tập bảo vệ khuyến nghị của mình. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc nêu tình huống của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai người khó tính, liên tục hỏi lý do để tôi tập giải thích cơ sở của lời khuyên.'",
+      "Thêm: 'Hãy yêu cầu tôi so sánh ít nhất hai phương án rồi mới chốt khuyến nghị.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đưa được lời khuyên bằng câu dài có lý do, không chỉ nói 'You should…'.",
+    "Tôi dùng đúng 'If I were you…', 'I'd recommend + V-ing' và phân biệt được 'despite' với 'although'.",
+    "Tôi nêu được cả ưu lẫn nhược điểm rồi mới chốt một khuyến nghị phù hợp."
+  ]
+}

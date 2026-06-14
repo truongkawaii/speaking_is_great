@@ -1,0 +1,361 @@
+{
+  "id": "giving-toast-speech",
+  "category": "advanced",
+  "title": "Phát biểu chúc mừng",
+  "titleEn": "Giving a Toast",
+  "level": "C1",
+  "functions": ["describing", "opinions", "greetings", "small-talk"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Mở đầu một bài phát biểu chúc mừng tự tin, lôi cuốn người nghe ngay từ câu đầu",
+    "Kể một giai thoại (anecdote) ngắn có cao trào và điểm nhấn cảm xúc",
+    "Bày tỏ lòng biết ơn và lời chúc bằng ngôn ngữ tinh tế, giàu sắc thái",
+    "Dùng cấu trúc nâng cao (despite, not only… but also, mệnh đề quan hệ, đảo ngữ) và idiom một cách tự nhiên",
+    "Chuyển register linh hoạt giữa trang trọng và hài hước trong cùng một bài nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "toast",
+      "ipa": "/təʊst/",
+      "vi": "lời nâng ly chúc mừng (danh từ); nâng ly chúc (động từ)",
+      "register": "neutral",
+      "example": "I'd like to propose a toast to the happy couple.",
+      "exampleVi": "Tôi xin được nâng ly chúc mừng cặp đôi hạnh phúc.",
+      "note": "Vừa là danh từ vừa là động từ. Cụm cố định kinh điển: 'to propose a toast (to somebody)'. Khi nâng ly, mọi người thường đáp lại 'Cheers!'.",
+      "synonyms": [
+        { "term": "tribute", "ipa": "/ˈtrɪb.juːt/", "register": "formal", "nuanceVi": "Nghĩa 'lời tri ân, sự vinh danh'. Trang trọng và nặng cảm xúc hơn, dùng khi muốn tôn vinh công lao ai đó: 'a tribute to her dedication'." },
+        { "term": "salute", "ipa": "/səˈluːt/", "register": "formal", "nuanceVi": "Nghĩa 'lời tôn vinh, sự chào mừng'. Văn vẻ, thường thấy trong văn viết hoặc diễn văn long trọng." }
+      ]
+    },
+    {
+      "term": "to gather",
+      "ipa": "/ˈɡæð.ər/",
+      "vi": "tụ họp, quây quần (động từ)",
+      "register": "neutral",
+      "example": "We have gathered here today to celebrate a remarkable milestone.",
+      "exampleVi": "Hôm nay chúng ta quây quần ở đây để chúc mừng một cột mốc đáng nhớ.",
+      "note": "Động từ. Câu mở đầu kinh điển cho diễn văn: 'We are gathered here today to…'. Mang sắc thái long trọng, ấm áp.",
+      "synonyms": [
+        { "term": "to assemble", "ipa": "/əˈsem.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào việc tập hợp có tổ chức, hơi nghi thức. Nghe khô khan hơn 'gather'." },
+        { "term": "to come together", "ipa": "/kʌm təˈɡeð.ər/", "register": "neutral", "nuanceVi": "Cụm động từ ấm áp, nhấn ý 'đoàn kết, sum vầy'. Hợp với không khí thân tình của tiệc." }
+      ]
+    },
+    {
+      "term": "heartfelt",
+      "ipa": "/ˈhɑːt.felt/",
+      "vi": "chân thành, tự đáy lòng (tính từ)",
+      "register": "neutral",
+      "example": "On behalf of everyone here, I'd like to offer my heartfelt congratulations.",
+      "exampleVi": "Thay mặt mọi người ở đây, tôi xin gửi lời chúc mừng chân thành.",
+      "note": "Tính từ. Đi rất tự nhiên với 'congratulations / thanks / gratitude / apology'. Nghe trang trọng mà ấm áp.",
+      "synonyms": [
+        { "term": "sincere", "ipa": "/sɪnˈsɪər/", "register": "neutral", "nuanceVi": "Nhấn ý 'thật lòng, không giả tạo'. Trung tính, dùng được mọi nơi; 'heartfelt' thì giàu cảm xúc và ấm hơn." },
+        { "term": "wholehearted", "ipa": "/ˌhəʊlˈhɑː.tɪd/", "register": "formal", "nuanceVi": "Nhấn ý 'trọn vẹn, không giữ lại gì'. Hợp với 'support / endorsement': 'my wholehearted support'." }
+      ]
+    },
+    {
+      "term": "to reminisce",
+      "ipa": "/ˌrem.ɪˈnɪs/",
+      "vi": "hồi tưởng, ôn lại kỷ niệm (động từ)",
+      "register": "formal",
+      "example": "Looking around the room, I can't help but reminisce about the day we first met.",
+      "exampleVi": "Nhìn quanh căn phòng, tôi không khỏi hồi tưởng về ngày đầu chúng tôi gặp nhau.",
+      "note": "Động từ, đi với 'about something'. Văn vẻ, gợi cảm xúc — rất hợp khi dẫn vào một kỷ niệm trong bài phát biểu.",
+      "synonyms": [
+        { "term": "to look back", "ipa": "/lʊk bæk/", "register": "neutral", "nuanceVi": "Cụm động từ đời thường, dễ dùng hơn, nghĩa 'nhìn lại quá khứ': 'looking back, it's been quite a journey'." },
+        { "term": "to recall", "ipa": "/rɪˈkɔːl/", "register": "formal", "nuanceVi": "Nhấn vào hành động 'nhớ lại, gợi lại' một sự việc cụ thể; trung tính về cảm xúc hơn 'reminisce' (vốn đầy hoài niệm)." }
+      ]
+    },
+    {
+      "term": "remarkable",
+      "ipa": "/rɪˈmɑː.kə.bəl/",
+      "vi": "phi thường, đáng kinh ngạc (tính từ)",
+      "register": "neutral",
+      "example": "What strikes me most is her remarkable ability to bring people together.",
+      "exampleVi": "Điều khiến tôi ấn tượng nhất là khả năng phi thường gắn kết mọi người của cô ấy.",
+      "note": "Tính từ mang sắc thái khen ngợi mạnh, đáng để nhắc tới. Lý tưởng để ca ngợi nhân vật chính của buổi tiệc.",
+      "synonyms": [
+        { "term": "extraordinary", "ipa": "/ɪkˈstrɔː.dɪn.ər.i/", "register": "formal", "nuanceVi": "Mạnh hơn, nhấn 'vượt khỏi mức bình thường'. Trang trọng, gây ấn tượng nhưng dễ thành 'đao to búa lớn' nếu lạm dụng." },
+        { "term": "outstanding", "ipa": "/aʊtˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'nổi bật, xuất sắc hơn hẳn'. Thiên về thành tích/năng lực hơn là sự kỳ diệu." },
+        { "term": "exceptional", "ipa": "/ɪkˈsep.ʃən.əl/", "register": "formal", "nuanceVi": "Nhấn 'hiếm có, là ngoại lệ'. Lịch thiệp, hợp diễn văn trang trọng." }
+      ]
+    },
+    {
+      "term": "to honour",
+      "ipa": "/ˈɒn.ər/",
+      "vi": "tôn vinh, vinh danh (động từ)",
+      "register": "formal",
+      "example": "We are here to honour a man who has given so much to this community.",
+      "exampleVi": "Chúng ta ở đây để vinh danh một người đã cống hiến rất nhiều cho cộng đồng này.",
+      "note": "Động từ (Anh-Anh: honour, Anh-Mỹ: honor). 'h' câm, đọc /ˈɒn.ər/. Trang trọng, dùng khi tôn vinh công lao.",
+      "synonyms": [
+        { "term": "to celebrate", "ipa": "/ˈsel.ɪ.breɪt/", "register": "neutral", "nuanceVi": "Phổ biến và vui tươi hơn, nhấn 'ăn mừng'. 'honour' thì trang nghiêm và mang ý tôn kính." },
+        { "term": "to pay tribute to", "ipa": "/peɪ ˈtrɪb.juːt tuː/", "register": "formal", "nuanceVi": "Cụm trang trọng, nhấn 'bày tỏ sự tri ân, ngưỡng mộ công lao'. Hợp lễ kỷ niệm, tiễn đưa, tôn vinh." }
+      ]
+    },
+    {
+      "term": "gratitude",
+      "ipa": "/ˈɡræt.ɪ.tjuːd/",
+      "vi": "lòng biết ơn (danh từ)",
+      "register": "formal",
+      "example": "Words can hardly express the gratitude I feel towards all of you tonight.",
+      "exampleVi": "Lời nói khó lòng diễn tả hết lòng biết ơn của tôi dành cho tất cả mọi người tối nay.",
+      "note": "Danh từ không đếm được. Trang trọng hơn 'thanks'. Cụm hay dùng: 'express/owe a debt of gratitude'.",
+      "synonyms": [
+        { "term": "appreciation", "ipa": "/əˌpriː.ʃiˈeɪ.ʃən/", "register": "neutral", "nuanceVi": "Nhấn 'sự trân trọng, ghi nhận giá trị'. Trung tính, hơi nhẹ hơn 'gratitude' (vốn nặng cảm xúc biết ơn)." },
+        { "term": "thankfulness", "ipa": "/ˈθæŋk.fəl.nəs/", "register": "neutral", "nuanceVi": "Đời thường và mộc mạc hơn, nhấn cảm giác 'thấy mình may mắn, biết ơn'." }
+      ]
+    },
+    {
+      "term": "wholeheartedly",
+      "ipa": "/ˌhəʊlˈhɑː.tɪd.li/",
+      "vi": "một cách hết lòng, trọn vẹn (trạng từ)",
+      "register": "neutral",
+      "example": "I wholeheartedly wish them a lifetime of happiness together.",
+      "exampleVi": "Tôi hết lòng chúc họ một đời hạnh phúc bên nhau.",
+      "note": "Trạng từ. Bổ nghĩa cho động từ chỉ tình cảm/ủng hộ (wish, support, agree) để tăng sức nặng cảm xúc.",
+      "synonyms": [
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "neutral", "nuanceVi": "Nhấn 'thật lòng'. Trung tính, an toàn; ít nồng nhiệt hơn 'wholeheartedly'." },
+        { "term": "genuinely", "ipa": "/ˈdʒen.ju.ɪn.li/", "register": "neutral", "nuanceVi": "Nhấn 'thật sự, không màu mè'. Hay dùng để nhấn cảm xúc là thật: 'I'm genuinely moved.'" }
+      ]
+    },
+    {
+      "term": "fondly",
+      "ipa": "/ˈfɒnd.li/",
+      "vi": "một cách trìu mến, thân thương (trạng từ)",
+      "register": "neutral",
+      "example": "I'll always fondly remember the countless evenings we spent laughing together.",
+      "exampleVi": "Tôi sẽ luôn nhớ một cách trìu mến vô số buổi tối chúng tôi cùng nhau cười đùa.",
+      "note": "Trạng từ. Đi với 'remember / look back / speak of'. Gợi tình cảm ấm áp, lý tưởng cho phần hồi tưởng.",
+      "synonyms": [
+        { "term": "affectionately", "ipa": "/əˈfek.ʃən.ət.li/", "register": "formal", "nuanceVi": "Trang trọng và rõ tình cảm hơn, nhấn 'âu yếm, đầy yêu thương'. Hay dùng cho biệt danh: 'known affectionately as Grandpa Joe'." },
+        { "term": "warmly", "ipa": "/ˈwɔːm.li/", "register": "neutral", "nuanceVi": "Nhấn sự 'nồng ấm, niềm nở'. Hợp khi nói về cách đón tiếp/đối xử hơn là hồi tưởng." }
+      ]
+    },
+    {
+      "term": "memorable",
+      "ipa": "/ˈmem.ər.ə.bəl/",
+      "vi": "đáng nhớ (tính từ)",
+      "register": "neutral",
+      "example": "Tonight has truly been one of the most memorable evenings of my life.",
+      "exampleVi": "Tối nay thực sự là một trong những buổi tối đáng nhớ nhất đời tôi.",
+      "note": "Tính từ. Trọng âm rơi vào âm đầu 'MEM'. Đừng nhầm với 'memorial' (thuộc về tưởng niệm).",
+      "synonyms": [
+        { "term": "unforgettable", "ipa": "/ˌʌn.fəˈɡet.ə.bəl/", "register": "neutral", "nuanceVi": "Mạnh hơn, nhấn tuyệt đối 'không thể nào quên'. Gây ấn tượng cảm xúc cao." },
+        { "term": "momentous", "ipa": "/məˈmen.təs/", "register": "formal", "nuanceVi": "Nhấn 'trọng đại, mang tính bước ngoặt lịch sử'. Dùng cho sự kiện lớn, không dùng cho khoảnh khắc nhỏ thường ngày." }
+      ]
+    },
+    {
+      "term": "to raise a glass",
+      "ipa": "/reɪz ə ɡlɑːs/",
+      "vi": "nâng ly (chúc mừng) (cụm động từ)",
+      "register": "neutral",
+      "example": "So please, everyone, raise your glasses and join me in wishing them well.",
+      "exampleVi": "Vậy nên, xin mọi người hãy nâng ly và cùng tôi gửi lời chúc tốt đẹp đến họ.",
+      "note": "Cụm cố định để kết một bài chúc. Đi với 'to somebody / to something'. Câu lệnh thân thiện: 'Raise your glasses!'.",
+      "synonyms": [
+        { "term": "to drink to", "ipa": "/drɪŋk tuː/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'cạn ly mừng cho…': 'Let's drink to a bright future!'. Thân mật, ít nghi thức." }
+      ]
+    },
+    {
+      "term": "to bond",
+      "ipa": "/bɒnd/",
+      "vi": "gắn kết, kết thân (động từ)",
+      "register": "neutral",
+      "example": "Despite our differences, we bonded almost instantly over a shared love of music.",
+      "exampleVi": "Dù khác biệt, chúng tôi gắn kết gần như ngay lập tức nhờ chung tình yêu âm nhạc.",
+      "note": "Động từ, đi với 'with somebody / over something'. Gợi sự thân thiết hình thành tự nhiên — chất liệu hay cho giai thoại.",
+      "synonyms": [
+        { "term": "to connect", "ipa": "/kəˈnekt/", "register": "neutral", "nuanceVi": "Phổ biến, nhẹ hơn; nhấn 'thấy hợp, đồng điệu'. 'bond' thì sâu sắc và bền chặt hơn." },
+        { "term": "to hit it off", "ipa": "/hɪt ɪt ɒf/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'hợp nhau ngay từ đầu': 'We hit it off straight away.' Vui tươi, hợp giọng kể chuyện." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "On behalf of [nhóm người], I'd like to [V] ...",
+      "use": "Mở đầu khi bạn phát biểu thay mặt cho một nhóm (gia đình, đồng nghiệp).",
+      "register": "formal",
+      "examples": [
+        "On behalf of the whole family, I'd like to welcome you all here this evening.",
+        "On behalf of everyone at the company, I'd like to say a few words about Sarah."
+      ],
+      "explanationVi": "'On behalf of' = 'thay mặt cho'. Câu mở trang trọng, lập tức cho thấy bạn đại diện cho nhiều người, làm lời nói có sức nặng hơn.",
+      "altOf": "opening-toast"
+    },
+    {
+      "pattern": "For those of you who don't know me, I'm [vai trò] ...",
+      "use": "Tự giới thiệu thân thiện ở đầu bài, nhất là khi nhiều khách chưa quen bạn.",
+      "register": "neutral",
+      "examples": [
+        "For those of you who don't know me, I'm Tom, the groom's older brother.",
+        "For those of you who haven't met me yet, I've had the pleasure of working alongside Anna for ten years."
+      ],
+      "explanationVi": "Mở bằng mệnh đề quan hệ 'who don't know me' vừa lịch sự vừa hài hước nhẹ, giúp phá băng. Đây là cách mở đầu rất tự nhiên của người bản xứ.",
+      "altOf": "opening-toast"
+    },
+    {
+      "pattern": "I'll never forget the time when [mệnh đề] ...",
+      "use": "Dẫn vào một giai thoại/kỷ niệm để minh họa con người nhân vật chính.",
+      "register": "neutral",
+      "examples": [
+        "I'll never forget the time when we got hopelessly lost on a road trip and ended up laughing about it for years.",
+        "I'll never forget the moment when she stayed up all night just to help a colleague she barely knew."
+      ],
+      "explanationVi": "'the time when…' mở một giai thoại cụ thể. Kể chuyện riêng (anecdote) là 'linh hồn' của một bài chúc hay — sinh động hơn lời khen chung chung.",
+      "altOf": "telling-anecdote"
+    },
+    {
+      "pattern": "Not only is [người] [tính từ], but [he/she] is also [tính từ].",
+      "use": "Khen nhân vật chính trên nhiều mặt, gây ấn tượng bằng đảo ngữ.",
+      "register": "formal",
+      "examples": [
+        "Not only is she incredibly talented, but she is also one of the most generous people I know.",
+        "Not only has he built a great business, but he has also remained humble through it all."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ/tobe lên trước chủ ngữ ('is she', 'has he'). Cấu trúc nâng cao, làm lời khen nghe trau chuốt và mạnh mẽ.",
+      "altOf": "praising"
+    },
+    {
+      "pattern": "What I admire most about [người] is [danh từ / mệnh đề].",
+      "use": "Nêu phẩm chất bạn trân trọng nhất ở nhân vật chính.",
+      "register": "neutral",
+      "examples": [
+        "What I admire most about Lan is her unshakeable optimism, even in the hardest of times.",
+        "What I admire most about him is the way he makes everyone feel valued."
+      ],
+      "explanationVi": "Mệnh đề danh ngữ mở đầu bằng 'What…' (= điều mà…) đẩy phẩm chất lên vị trí nhấn mạnh ở cuối câu. Nghe sâu sắc và chân thành hơn 'He is kind'.",
+      "altOf": "praising"
+    },
+    {
+      "pattern": "So please join me in raising a glass to [người/điều gì].",
+      "use": "Kết bài, mời mọi người cùng nâng ly.",
+      "register": "neutral",
+      "examples": [
+        "So please join me in raising a glass to the bride and groom — may their love only grow stronger.",
+        "So please, everyone, raise your glasses to a long and well-deserved retirement!"
+      ],
+      "explanationVi": "Câu kết kinh điển. 'join me in + V-ing' = cùng tôi làm gì. Sau đó thường thêm một lời chúc ('may they…') rồi cả phòng đáp 'Cheers!'.",
+      "altOf": "closing-toast"
+    },
+    {
+      "pattern": "Here's to [người/điều gì] — may [mệnh đề chúc].",
+      "use": "Một cách kết khác, ngắn gọn và đầy cảm xúc.",
+      "register": "neutral",
+      "examples": [
+        "Here's to Mark and Julia — may you always find your way back to each other.",
+        "Here's to new beginnings, lasting friendships, and many more years of success."
+      ],
+      "explanationVi": "'Here's to…' là công thức nâng ly cố định. 'may + chủ ngữ + V (nguyên thể)' là cách diễn đạt lời chúc trang trọng (= cầu mong rằng…), nghe rất văn chương.",
+      "altOf": "closing-toast"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "first and foremost", "ipa": "/ˌfɜːst ænd ˈfɔː.məʊst/", "vi": "trước hết và quan trọng nhất", "when": "Mở phần lời cảm ơn hoặc điểm quan trọng nhất.", "example": "First and foremost, I'd like to thank everyone for being here tonight." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "không cần phải nói (ai cũng biết)", "when": "Khẳng định một điều hiển nhiên trước khi nói thêm.", "example": "Needless to say, none of this would have been possible without her." },
+    { "term": "to this day", "ipa": "/tə ðɪs ˈdeɪ/", "vi": "cho đến tận hôm nay", "when": "Nhấn một điều vẫn còn nguyên giá trị từ quá khứ tới giờ.", "example": "To this day, I still don't know how he managed to keep it a secret." },
+    { "term": "if truth be told", "ipa": "/ɪf truːθ biː ˈtəʊld/", "vi": "nói thật ra thì", "when": "Dẫn vào một lời thú nhận chân thành hoặc hài hước.", "example": "If truth be told, I was absolutely terrified of giving this speech." },
+    { "term": "more than anything", "ipa": "/mɔːr ðæn ˈen.i.θɪŋ/", "vi": "hơn bất cứ điều gì", "when": "Nhấn mạnh điều mình mong/cảm nhận nhất.", "example": "More than anything, I want them to know how loved they are." },
+    { "term": "without a doubt", "ipa": "/wɪˈðaʊt ə ˈdaʊt/", "vi": "chắc chắn, không nghi ngờ gì", "when": "Khẳng định một nhận định một cách dứt khoát.", "example": "Without a doubt, he is the kindest person I've ever had the privilege to know." }
+  ],
+
+  "dialogue": {
+    "context": "Tại tiệc cưới của hai người bạn thân, bạn được mời lên phát biểu (best man / phù dâu). Đây là đoạn trao đổi ngắn với người dẫn chương trình (MC) trước khi bạn cầm micro, rồi đến chính bài phát biểu chúc mừng của bạn.",
+    "lines": [
+      {
+        "speaker": "MC",
+        "text": "Ladies and gentlemen, if I could have your attention, please — I'd now like to invite our next speaker up to say a few words. Are you ready?",
+        "ipa": "/ˈleɪ.diz ænd ˈdʒen.təl.mən ɪf aɪ kʊd hæv jɔːr əˈten.ʃən pliːz aɪd naʊ laɪk tə ɪnˈvaɪt ˈaʊə nekst ˈspiː.kər ʌp tə seɪ ə fjuː wɜːdz ɑː juː ˈred.i/",
+        "vi": "Thưa quý vị, xin mọi người chú ý một chút — giờ tôi xin mời diễn giả tiếp theo lên phát biểu đôi lời. Bạn sẵn sàng chưa?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I think so — although, if truth be told, I'm a little nervous! Thank you. Good evening, everyone. For those of you who don't know me, I'm ____, and I've had the great honour of being ____'s best friend for over fifteen years.",
+        "ipa": "/aɪ θɪŋk səʊ ɔːlˈðəʊ ɪf truːθ biː təʊld aɪm ə ˈlɪt.əl ˈnɜː.vəs θæŋk juː ɡʊd ˈiːv.nɪŋ ˈev.ri.wʌn fɔːr ðəʊz ɒv juː huː dəʊnt nəʊ miː aɪm ænd aɪv hæd ðə ɡreɪt ˈɒn.ər ɒv ˈbiː.ɪŋ best frend fɔːr ˈəʊ.vər fɪfˈtiːn jɪəz/",
+        "vi": "Chắc là rồi — dù nói thật thì tôi hơi run! Cảm ơn anh. Chào buổi tối tất cả mọi người. Với những ai chưa biết tôi, tôi là ____, và tôi đã có vinh dự lớn được làm bạn thân của ____ suốt hơn mười lăm năm.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Minh' hoặc 'Anna'." },
+          { "type": "personal", "hint": "Tên hoặc vai của nhân vật chính (câu đã có sẵn 's sở hữu). Ví dụ: 'the groom' (→ the groom's best friend) hoặc tên riêng như 'David' (→ David's best friend)." }
+        ]
+      },
+      {
+        "speaker": "MC",
+        "text": "Wonderful — the floor is all yours.",
+        "ipa": "/ˈwʌn.də.fəl ðə flɔːr ɪz ɔːl jɔːz/",
+        "vi": "Tuyệt vời — sân khấu là của bạn rồi đấy."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. On behalf of both families, I'd like to welcome you all this evening. ____ we've come from near and far, what unites us is a deep affection for this incredible couple. I'll never forget the time when David first told me he'd met someone special.",
+        "ipa": "/θæŋk juː ɒn bɪˈhɑːf ɒv bəʊθ ˈfæm.ə.liz aɪd laɪk tə ˈwel.kəm juː ɔːl ðɪs ˈiːv.nɪŋ wiːv kʌm frɒm nɪər ænd fɑː wɒt juːˈnaɪts ʌs ɪz ə diːp əˈfek.ʃən fɔːr ðɪs ɪnˈkred.ə.bəl ˈkʌp.əl aɪl ˈnev.ə fəˈɡet ðə taɪm wen ˈdeɪ.vɪd fɜːst təʊld miː hiːd met ˈsʌm.wʌn ˈspeʃ.əl/",
+        "vi": "Cảm ơn. Thay mặt cho cả hai gia đình, tôi xin chào đón tất cả mọi người tối nay. ____ chúng ta đến từ khắp nơi xa gần, điều gắn kết chúng ta là tình cảm sâu đậm dành cho cặp đôi tuyệt vời này. Tôi sẽ không bao giờ quên lần David lần đầu kể với tôi rằng cậu ấy đã gặp một người đặc biệt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) mở mệnh đề nhượng bộ: dù đến từ khắp nơi, điều gắn kết vẫn là tình cảm chung. Có thể thay bằng 'Even though'. Xem cách lồng mệnh đề nhượng bộ trong phần ghi chú văn hóa." }
+        ]
+      },
+      {
+        "speaker": "MC",
+        "text": "(quietly) Take your time — everyone's enjoying it.",
+        "ipa": "/ˈkwaɪət.li teɪk jɔː taɪm ˈev.ri.wʌnz ɪnˈdʒɔɪ.ɪŋ ɪt/",
+        "vi": "(nói khẽ) Cứ từ từ — mọi người đang rất thích đấy."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Despite being the most level-headed person I know, he could barely string a sentence together that day — which, ____ those of you who know David, is truly saying something! Not only had he fallen head over heels, but he had also, for once, run out of words.",
+        "ipa": "/dɪˈspaɪt ˈbiː.ɪŋ ðə məʊst ˌlev.əlˈhed.ɪd ˈpɜː.sən aɪ nəʊ hiː kʊd ˈbeə.li strɪŋ ə ˈsen.təns təˈɡeð.ər ðæt deɪ wɪtʃ fɔːr ðəʊz ɒv juː huː nəʊ ˈdeɪ.vɪd ɪz ˈtruː.li ˈseɪ.ɪŋ ˈsʌm.θɪŋ nɒt ˈəʊn.li hæd hiː ˈfɔː.lən hed ˈəʊ.və hiːlz bʌt hiː hæd ˈɔːl.səʊ fɔːr wʌns rʌn aʊt ɒv wɜːdz/",
+        "vi": "Dù là người điềm tĩnh nhất tôi từng biết, hôm đó cậu ấy gần như không nói nổi một câu cho ra hồn — điều mà, ____ những ai hiểu David, thực sự là chuyện đáng nói! Cậu ấy không những đã phải lòng đến điên đảo, mà còn, lần đầu tiên trong đời, bí cả lời.",
+        "blanks": [
+          { "type": "knowledge", "answer": "for", "explanationVi": "Cụm 'for those of you who…' = 'đối với những người mà…'. Giới từ 'for' chỉ đối tượng mà nhận định này hướng tới; theo sau là mệnh đề quan hệ 'who know David'. Xem mẫu câu 'For those of you who don't know me…'." }
+        ]
+      },
+      {
+        "speaker": "MC",
+        "text": "(laughs) That got a big laugh from the crowd.",
+        "ipa": "/lɑːfs ðæt ɡɒt ə bɪɡ lɑːf frɒm ðə kraʊd/",
+        "vi": "(cười) Câu đó khiến cả khán phòng cười phá lên."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "What I admire most about the two of them is the way they bring out the very best in each other. So please, everyone, raise your glasses ____ David and Julia — may your life together be every bit as joyful as the day that brought us all here. Cheers!",
+        "ipa": "/wɒt aɪ ədˈmaɪə məʊst əˈbaʊt ðə tuː ɒv ðəm ɪz ðə weɪ ðeɪ brɪŋ aʊt ðə ˈver.i best ɪn iːtʃ ˈʌð.ə səʊ pliːz ˈev.ri.wʌn reɪz jɔː ˈɡlɑː.sɪz tʊ ˈdeɪ.vɪd ænd ˈdʒuː.li.ə meɪ jɔː laɪf təˈɡeð.ə biː ˈev.ri bɪt æz ˈdʒɔɪ.fəl æz ðə deɪ ðæt brɔːt ʌs ɔːl hɪə tʃɪəz/",
+        "vi": "Điều tôi ngưỡng mộ nhất ở hai người là cách họ làm bừng sáng điều tốt đẹp nhất trong nhau. Vậy nên, xin mọi người hãy nâng ly ____ David và Julia — chúc cuộc sống bên nhau của hai bạn rạng rỡ y như ngày đã đưa tất cả chúng ta đến đây. Cạn ly!",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Sau 'raise your glasses' (nâng ly) dùng giới từ 'to' để chỉ người/điều được chúc: 'raise a glass TO somebody'. Tương tự 'Here's TO…'. Xem mẫu câu kết bài 'join me in raising a glass to…'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Một bài chúc (toast) phương Tây thường theo nhịp: chào & tự giới thiệu → một giai thoại (anecdote) vui hoặc cảm động → lời khen chân thành → lời chúc & mời nâng ly. Giai thoại cụ thể luôn ấn tượng hơn lời khen chung chung.",
+    "Hài hước được khuyến khích, nhưng nên 'cười cùng' chứ không 'cười nhạo'. Tránh chuyện riêng tư gây xấu hổ, chủ đề người yêu cũ, hay đùa cợt khiến nhân vật chính khó xử.",
+    "Quy tắc vàng: NGẮN GỌN. Một bài toast hay thường chỉ 2–4 phút. Người bản xứ hay nói đùa 'be sincere, be brief, be seated' (chân thành, ngắn gọn, rồi ngồi xuống).",
+    "Khi kết, người nói nâng ly và cả phòng đáp lại 'Cheers!' hoặc nhắc lại tên người được chúc. Người được vinh danh thường KHÔNG uống/đứng dậy khi mọi người chúc chính mình."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': khi đặt đầu câu phải đảo trợ động từ — 'Not only HAD he fallen…', không phải 'Not only he had fallen…'.",
+    "Dùng 'congratulate' sai giới từ: phải là 'congratulate somebody ON something', và danh từ luôn ở số nhiều 'congratulations' (không nói 'a congratulation').",
+    "Đọc sai 'honour/honor': chữ 'h' câm, phát âm /ˈɒn.ər/ chứ không đọc bật hơi 'h'.",
+    "Phát biểu lan man, dài dòng và liệt kê khô khan. Hãy chọn MỘT giai thoại đắt giá và một phẩm chất nổi bật thay vì kể lể tất cả."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện soạn và trình bày một bài phát biểu chúc mừng như thật.",
+    "prompt": "Hãy đóng vai một huấn luyện viên thuyết trình (public-speaking coach) nói tiếng Anh, giúp tôi luyện một bài phát biểu chúc mừng (toast) ở trình độ C1. Trước tiên, hãy hỏi tôi về dịp (đám cưới, sinh nhật, nghỉ hưu, lễ tốt nghiệp…), nhân vật chính và một kỷ niệm của tôi với họ. Sau đó: (1) hướng dẫn tôi xây dàn ý theo nhịp mở đầu → giai thoại → lời khen → lời chúc & nâng ly; (2) sau mỗi đoạn tôi nói/viết, sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế hơn bằng tiếng Việt; (3) khuyến khích tôi dùng cấu trúc nâng cao như 'despite', 'not only… but also' (đảo ngữ), mệnh đề quan hệ 'which/who', và idiom phù hợp; (4) nhắc tôi giữ bài ngắn gọn (2–4 phút) và điều chỉnh giọng điệu giữa hài hước và trang trọng. Cuối buổi, hãy chấm điểm bài của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy yêu cầu tôi nói ứng khẩu (không xem giấy) và phản hồi về sự trôi chảy, ngắt nghỉ và nhịp điệu.'",
+      "Thêm: 'Hãy đặt ra một tình huống bất ngờ, ví dụ micro hỏng hoặc khách yêu cầu nói thêm vài câu, để tôi tập xử lý linh hoạt.'",
+      "Thêm: 'Hãy gợi ý cho tôi 2–3 idiom hoặc câu trích dẫn (quote) phù hợp với dịp để mở hoặc kết bài ấn tượng hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được bài chúc tự tin, tự giới thiệu và lôi cuốn người nghe mà không nhìn giấy.",
+    "Tôi kể được một giai thoại ngắn và dùng đúng cấu trúc nâng cao như 'despite', 'not only… but also', mệnh đề quan hệ 'which/who'.",
+    "Tôi kết bài bằng một lời chúc và mời mọi người nâng ly một cách trôi chảy, đúng nghi thức."
+  ]
+}

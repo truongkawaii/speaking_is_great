@@ -1,0 +1,351 @@
+{
+  "id": "interview-followup",
+  "category": "work",
+  "title": "Theo dõi sau phỏng vấn",
+  "titleEn": "Interview Follow-up",
+  "level": "B2",
+  "functions": ["requesting", "opinions", "small-talk"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Viết và nói lời cảm ơn chuyên nghiệp sau buổi phỏng vấn",
+    "Hỏi lịch sự về tiến độ và mốc thời gian ra quyết định tuyển dụng",
+    "Nhắc lại điểm mạnh và sự phù hợp của bạn một cách tinh tế, không gây áp lực",
+    "Dùng ngữ pháp nâng cao (despite, in order to, mệnh đề quan hệ, however) tự nhiên khi nói",
+    "Giữ thái độ kiên nhẫn, lịch sự khi chưa nhận được phản hồi"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "follow-up",
+      "ipa": "/ˈfɒl.əʊ.ʌp/",
+      "vi": "việc theo dõi / liên hệ lại sau đó (danh từ)",
+      "register": "neutral",
+      "example": "I sent a quick follow-up email the day after the interview.",
+      "exampleVi": "Tôi gửi một email theo dõi ngắn ngay hôm sau buổi phỏng vấn.",
+      "note": "Danh từ có gạch nối: 'a follow-up email/call/message'. Động từ thì viết rời: 'to follow up on something'.",
+      "synonyms": [
+        { "term": "check-in", "ipa": "/ˈtʃek.ɪn/", "register": "casual", "nuanceVi": "Thân mật hơn, nghĩa 'hỏi thăm tình hình một chút'. Hợp khi quan hệ đã thoải mái; trong email trang trọng nên dùng 'follow-up'." }
+      ]
+    },
+    {
+      "term": "to appreciate",
+      "ipa": "/əˈpriː.ʃi.eɪt/",
+      "vi": "trân trọng / cảm kích (động từ)",
+      "register": "neutral",
+      "example": "I really appreciate the time you took to meet with me.",
+      "exampleVi": "Tôi thực sự trân trọng thời gian anh/chị đã dành để gặp tôi.",
+      "note": "Động từ. Cách cảm ơn tinh tế hơn 'thank you'; theo sau là danh từ hoặc V-ing, không phải 'to V'.",
+      "synonyms": [
+        { "term": "to be grateful for", "ipa": "/tə biː ˈɡreɪt.fəl fɔːr/", "register": "neutral", "nuanceVi": "Nhấn cảm xúc biết ơn chân thành. Đi với giới từ 'for' + danh từ/V-ing." },
+        { "term": "to value", "ipa": "/tə ˈvæl.juː/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'coi trọng giá trị'. Vd 'I value this opportunity', nghe chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "opportunity",
+      "ipa": "/ˌɒp.əˈtʃuː.nə.ti/",
+      "vi": "cơ hội (danh từ)",
+      "register": "neutral",
+      "example": "Thank you for the opportunity to interview for this role.",
+      "exampleVi": "Cảm ơn đã cho tôi cơ hội phỏng vấn cho vị trí này.",
+      "note": "Danh từ. Cụm hay dùng: 'the opportunity to + V'. Trọng âm rơi vào âm 'tu' thứ ba.",
+      "synonyms": [
+        { "term": "chance", "ipa": "/tʃɑːns/", "register": "casual", "nuanceVi": "Đời thường, ngắn gọn hơn. Trong thư trang trọng 'opportunity' nghe chuyên nghiệp hơn 'chance'." },
+        { "term": "opening", "ipa": "/ˈəʊ.pən.ɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'vị trí còn trống đang tuyển'. Vd 'a job opening', cụ thể về chỗ làm chứ không phải cơ hội chung." }
+      ]
+    },
+    {
+      "term": "to reach out",
+      "ipa": "/tə riːtʃ aʊt/",
+      "vi": "chủ động liên hệ (cụm động từ)",
+      "register": "neutral",
+      "example": "I just wanted to reach out and reiterate my interest in the position.",
+      "exampleVi": "Tôi chỉ muốn liên hệ để khẳng định lại sự quan tâm của mình với vị trí này.",
+      "note": "Cụm động từ, đi với 'to somebody'. Nghe chủ động, thân thiện; rất phổ biến trong email công việc.",
+      "synonyms": [
+        { "term": "to get in touch", "ipa": "/tə ɡet ɪn tʌtʃ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, hơi trung tính hơn. Đi với 'with somebody'." },
+        { "term": "to contact", "ipa": "/tə ˈkɒn.tækt/", "register": "formal", "nuanceVi": "Trang trọng, đi thẳng với tân ngữ (no preposition): 'to contact you'. Khô khan hơn 'reach out'." }
+      ]
+    },
+    {
+      "term": "to reiterate",
+      "ipa": "/riˈɪt.ə.reɪt/",
+      "vi": "nhắc lại / khẳng định lại (động từ)",
+      "register": "formal",
+      "example": "I'd like to reiterate how enthusiastic I am about joining your team.",
+      "exampleVi": "Tôi muốn khẳng định lại rằng tôi rất hào hứng được gia nhập đội ngũ của anh/chị.",
+      "note": "Động từ trang trọng, nghĩa 'nói lại để nhấn mạnh'. Ghi điểm trong email follow-up khi nhắc lại sự quan tâm.",
+      "synonyms": [
+        { "term": "to restate", "ipa": "/ˌriːˈsteɪt/", "register": "formal", "nuanceVi": "Nhấn 'trình bày lại theo cách rõ ràng hơn'. Gần nghĩa nhưng thiên về diễn đạt lại nội dung." },
+        { "term": "to emphasize", "ipa": "/ˈem.fə.saɪz/", "register": "neutral", "nuanceVi": "Nhấn 'làm nổi bật, nhấn mạnh' một ý, không nhất thiết là lặp lại điều đã nói." }
+      ]
+    },
+    {
+      "term": "prompt",
+      "ipa": "/prɒmpt/",
+      "vi": "nhanh chóng, kịp thời (tính từ)",
+      "register": "formal",
+      "example": "I appreciate your prompt reply regarding my application.",
+      "exampleVi": "Tôi cảm kích phản hồi nhanh chóng của anh/chị về đơn ứng tuyển của tôi.",
+      "note": "Tính từ, nghĩa 'mau lẹ, không chậm trễ'. Trạng từ là 'promptly'. Hay dùng trong văn phong công sở.",
+      "synonyms": [
+        { "term": "timely", "ipa": "/ˈtaɪm.li/", "register": "formal", "nuanceVi": "Nhấn 'đúng lúc, đúng thời điểm cần', không chỉ là nhanh. Vd 'a timely update'." },
+        { "term": "speedy", "ipa": "/ˈspiː.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mau, lẹ'. Nghe thân mật hơn 'prompt', ít trang trọng." }
+      ]
+    },
+    {
+      "term": "candidate",
+      "ipa": "/ˈkæn.dɪ.deɪt/",
+      "vi": "ứng viên (danh từ)",
+      "register": "neutral",
+      "example": "I'm confident I would be a strong candidate for this role.",
+      "exampleVi": "Tôi tự tin mình sẽ là một ứng viên phù hợp cho vị trí này.",
+      "note": "Danh từ. Trong giai đoạn follow-up, bạn vẫn là 'a candidate' đang chờ kết quả.",
+      "synonyms": [
+        { "term": "applicant", "ipa": "/ˈæp.lɪ.kənt/", "register": "neutral", "nuanceVi": "Nhấn việc 'đã nộp đơn (apply)'. Hay xuất hiện trong văn bản tuyển dụng chính thức." }
+      ]
+    },
+    {
+      "term": "enthusiastic",
+      "ipa": "/ɪnˌθjuː.ziˈæs.tɪk/",
+      "vi": "hào hứng, nhiệt thành (tính từ)",
+      "register": "neutral",
+      "example": "I remain very enthusiastic about the possibility of working with your team.",
+      "exampleVi": "Tôi vẫn rất hào hứng với khả năng được làm việc cùng đội ngũ của anh/chị.",
+      "note": "Tính từ, đi với 'about something'. Thể hiện thái độ tích cực — điều nhà tuyển dụng rất muốn thấy.",
+      "synonyms": [
+        { "term": "keen", "ipa": "/kiːn/", "register": "neutral", "nuanceVi": "Nghĩa 'háo hức, mong muốn'. Anh-Anh dùng nhiều: 'I'm keen to start'. Ngắn gọn hơn." },
+        { "term": "eager", "ipa": "/ˈiː.ɡər/", "register": "neutral", "nuanceVi": "Nhấn 'nóng lòng, sốt sắng muốn làm'. Đi với 'to + V': 'eager to contribute'." }
+      ]
+    },
+    {
+      "term": "to look forward to",
+      "ipa": "/tə lʊk ˈfɔː.wəd tuː/",
+      "vi": "mong chờ, trông đợi (cụm động từ)",
+      "register": "neutral",
+      "example": "I look forward to hearing from you at your earliest convenience.",
+      "exampleVi": "Tôi mong sớm nhận được phản hồi của anh/chị.",
+      "note": "BẪY NGỮ PHÁP: 'to' ở đây là giới từ, theo sau bởi danh từ hoặc V-ing, KHÔNG phải 'to V'. Câu kết email kinh điển.",
+      "synonyms": [
+        { "term": "to await", "ipa": "/tə əˈweɪt/", "register": "formal", "nuanceVi": "Trang trọng, đi thẳng với tân ngữ: 'I await your reply'. Khô khan, dùng trong thư rất chính thức." }
+      ]
+    },
+    {
+      "term": "decision",
+      "ipa": "/dɪˈsɪʒ.ən/",
+      "vi": "quyết định (danh từ)",
+      "register": "neutral",
+      "example": "I understand you may still be finalizing your decision.",
+      "exampleVi": "Tôi hiểu rằng có thể anh/chị vẫn đang hoàn tất quyết định của mình.",
+      "note": "Danh từ. Động từ là 'to decide'. Cụm: 'to make a decision', 'the hiring decision' (quyết định tuyển dụng).",
+      "synonyms": [
+        { "term": "verdict", "ipa": "/ˈvɜː.dɪkt/", "register": "casual", "nuanceVi": "Vốn nghĩa 'phán quyết', dùng đời thường nửa đùa cho kết quả. Không hợp thư trang trọng." }
+      ]
+    },
+    {
+      "term": "patiently",
+      "ipa": "/ˈpeɪ.ʃənt.li/",
+      "vi": "một cách kiên nhẫn (trạng từ)",
+      "register": "neutral",
+      "example": "I'll wait patiently for your update rather than rushing you.",
+      "exampleVi": "Tôi sẽ kiên nhẫn chờ thông tin từ anh/chị thay vì hối thúc.",
+      "note": "Trạng từ. Thể hiện thái độ điềm tĩnh, chuyên nghiệp khi chờ phản hồi — ghi điểm về mặt thái độ.",
+      "synonyms": [
+        { "term": "calmly", "ipa": "/ˈkɑːm.li/", "register": "neutral", "nuanceVi": "Nhấn 'bình tĩnh, không lo lắng', thiên về trạng thái cảm xúc hơn là sự chờ đợi." },
+        { "term": "respectfully", "ipa": "/rɪˈspekt.fəl.i/", "register": "formal", "nuanceVi": "Nhấn 'một cách tôn trọng, lễ độ'. Hợp khi muốn thúc giục nhẹ mà vẫn giữ phép lịch sự." }
+      ]
+    },
+    {
+      "term": "to clarify",
+      "ipa": "/ˈklær.ə.faɪ/",
+      "vi": "làm rõ / giải thích thêm (động từ)",
+      "register": "neutral",
+      "example": "Please let me know if I can clarify anything from our conversation.",
+      "exampleVi": "Xin cho tôi biết nếu tôi có thể làm rõ thêm điều gì từ buổi trò chuyện của chúng ta.",
+      "note": "Động từ, nghĩa 'làm cho dễ hiểu hơn'. Hữu ích khi đề nghị bổ sung thông tin sau phỏng vấn.",
+      "synonyms": [
+        { "term": "to elaborate on", "ipa": "/tə ɪˈlæb.ə.reɪt ɒn/", "register": "formal", "nuanceVi": "Nhấn 'nói chi tiết, mở rộng thêm'. Đi với 'on something'; thiên về bổ sung độ sâu, không phải gỡ rối hiểu lầm." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Thank you for taking the time to [V]; I really appreciated [danh từ / V-ing].",
+      "use": "Mở đầu email/lời cảm ơn sau phỏng vấn một cách trang trọng.",
+      "register": "formal",
+      "examples": [
+        "Thank you for taking the time to meet with me yesterday; I really appreciated our conversation about the team's goals."
+      ],
+      "explanationVi": "Mẫu cảm ơn chuẩn mực: nêu cụ thể điều bạn cảm kích (cuộc trò chuyện, thông tin) nghe chân thành hơn câu cảm ơn chung chung.",
+      "altOf": "thanking"
+    },
+    {
+      "pattern": "I just wanted to reach out to [V], although I understand [mệnh đề].",
+      "use": "Mở đầu email follow-up một cách nhẹ nhàng, không gây áp lực.",
+      "register": "neutral",
+      "examples": [
+        "I just wanted to reach out to reiterate my interest, although I understand the hiring process takes time."
+      ],
+      "explanationVi": "'I just wanted to' làm câu nghe khiêm tốn, đỡ đòi hỏi. 'although' mở mệnh đề nhượng bộ thể hiện bạn thấu hiểu và kiên nhẫn.",
+      "altOf": "thanking"
+    },
+    {
+      "pattern": "Could you let me know [câu hỏi gián tiếp], whenever it's convenient for you?",
+      "use": "Hỏi lịch sự về tiến độ hoặc mốc thời gian ra quyết định.",
+      "register": "formal",
+      "examples": [
+        "Could you let me know what the next steps in the process might be, whenever it's convenient for you?"
+      ],
+      "explanationVi": "Dùng câu hỏi gián tiếp ('what the next steps might be' thay vì 'what are the next steps') để nghe mềm mại, lịch sự hơn. 'whenever it's convenient' bỏ áp lực thời gian.",
+      "altOf": "asking-progress"
+    },
+    {
+      "pattern": "I was wondering whether there might be any update regarding [danh từ].",
+      "use": "Hỏi thăm tiến độ một cách rất tế nhị, gián tiếp.",
+      "register": "formal",
+      "examples": [
+        "I was wondering whether there might be any update regarding the position I interviewed for last week."
+      ],
+      "explanationVi": "'I was wondering whether...' và 'might' là hai lớp giảm nhẹ, khiến câu hỏi nghe rất nhã nhặn, không hối thúc. Rất ăn điểm trong văn phong công sở.",
+      "altOf": "asking-progress"
+    },
+    {
+      "pattern": "Despite [danh từ], I remain confident that I could [V] in order to [mục đích].",
+      "use": "Nhắc lại sự tự tin và phù hợp của bạn dù có trở ngại.",
+      "register": "formal",
+      "examples": [
+        "Despite the competitive pool of applicants, I remain confident that I could add real value in order to help the team meet its targets."
+      ],
+      "explanationVi": "'Despite + danh từ' (không phải mệnh đề) mở ý nhượng bộ. 'in order to' nêu mục đích rõ ràng. Bộ đôi này nghe chuyên nghiệp và thuyết phục."
+    },
+    {
+      "pattern": "Please don't hesitate to [V] if you need [danh từ].",
+      "use": "Mời nhà tuyển dụng liên hệ thêm khi cần — kết thúc thư lịch sự.",
+      "register": "formal",
+      "examples": [
+        "Please don't hesitate to contact me if you need any further information about my background."
+      ],
+      "explanationVi": "'Please don't hesitate to...' là cụm kết email cực kỳ thông dụng, nghĩa 'cứ thoải mái...'. Thể hiện sự sẵn sàng hỗ trợ, để lại ấn tượng tốt."
+    },
+    {
+      "pattern": "I look forward to hearing from you at your earliest convenience.",
+      "use": "Câu kết email thể hiện sự mong chờ một cách trang trọng.",
+      "register": "formal",
+      "examples": [
+        "Thank you again for your consideration. I look forward to hearing from you at your earliest convenience."
+      ],
+      "explanationVi": "Sau 'look forward to' phải dùng V-ing ('hearing'), KHÔNG phải 'to hear'. 'at your earliest convenience' = khi anh/chị tiện nhất — lịch sự, không hối thúc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ chân thành về cảm nhận của bạn.", "example": "Honestly, the conversation only made me more excited about the role." },
+    { "term": "in the meantime", "ipa": "/ɪn ðə ˈmiːn.taɪm/", "vi": "trong lúc chờ đợi", "when": "Nói về điều bạn sẽ làm trong khi chờ kết quả.", "example": "In the meantime, please feel free to reach out if anything comes up." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Thể hiện sự thấu hiểu, sẵn lòng khi đáp lại nhà tuyển dụng.", "example": "Of course, I completely understand that these decisions take time." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một khía cạnh cụ thể khiến bạn quan tâm.", "example": "I'm particularly drawn to the collaborative culture you described." },
+    { "term": "as we discussed", "ipa": "/əz wiː dɪsˈkʌst/", "vi": "như chúng ta đã trao đổi", "when": "Nhắc lại một điểm đã nói trong phỏng vấn để tạo sự liền mạch.", "example": "As we discussed, my background in data analysis fits this role closely." }
+  ],
+
+  "dialogue": {
+    "context": "Vài ngày sau buổi phỏng vấn, bạn gọi điện (hoặc nói chuyện trực tiếp) với người phụ trách tuyển dụng để cảm ơn, hỏi về tiến độ và khẳng định lại sự quan tâm của mình.",
+    "lines": [
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Hello, this is Sarah from the HR team. I saw a missed call from you — how can I help?",
+        "ipa": "/həˈləʊ ðɪs ɪz ˈseə.rə frɒm ðə eɪtʃ ɑːr tiːm aɪ sɔː ə mɪst kɔːl frɒm juː haʊ kæn aɪ help/",
+        "vi": "Xin chào, tôi là Sarah từ bộ phận Nhân sự. Tôi thấy có cuộc gọi nhỡ từ bạn — tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi Sarah, thank you for calling me back. I just wanted to reach out and thank you for taking the time to ____ with me last week; I really appreciated learning more about the role.",
+        "ipa": "/haɪ ˈseə.rə θæŋk juː fɔːr ˈkɔː.lɪŋ miː bæk aɪ dʒʌst ˈwɒn.tɪd tə riːtʃ aʊt ænd θæŋk juː fɔːr ˈteɪ.kɪŋ ðə taɪm tə ... wɪð miː lɑːst wiːk aɪ ˈrɪə.li əˈpriː.ʃi.eɪ.tɪd ˈlɜː.nɪŋ mɔːr əˈbaʊt ðə rəʊl/",
+        "vi": "Chào Sarah, cảm ơn chị đã gọi lại. Tôi chỉ muốn liên hệ và cảm ơn chị đã dành thời gian ____ với tôi tuần trước; tôi thực sự trân trọng khi được hiểu thêm về vị trí này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "meet", "explanationVi": "Sau 'take the time to' là động từ nguyên thể: 'to meet'. Đây là mẫu câu cảm ơn chuẩn 'Thank you for taking the time to...'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "That's very kind of you to say. We genuinely enjoyed our conversation as well, particularly your insights on teamwork.",
+        "ipa": "/ðæts ˈver.i kaɪnd əv juː tə seɪ wiː ˈdʒen.ju.ɪn.li ɪnˈdʒɔɪd ɑːr ˌkɒn.vəˈseɪ.ʃən əz wel pəˈtɪk.jə.lə.li jɔːr ˈɪn.saɪts ɒn ˈtiːm.wɜːk/",
+        "vi": "Bạn nói vậy thật tử tế. Chúng tôi cũng thực sự thấy thú vị với buổi trò chuyện, đặc biệt là những góc nhìn của bạn về làm việc nhóm."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm glad to hear that. I was also wondering ____ there might be any update regarding the next steps, although I completely understand that these decisions take time.",
+        "ipa": "/aɪm ɡlæd tə hɪər ðæt aɪ wɒz ˈɔːl.səʊ ˈwʌn.də.rɪŋ ... ðeə maɪt biː ˈen.i ˈʌp.deɪt rɪˈɡɑː.dɪŋ ðə nekst steps ɔːlˈðəʊ aɪ kəmˈpliːt.li ˌʌn.dəˈstænd ðæt ðiːz dɪˈsɪʒ.ənz teɪk taɪm/",
+        "vi": "Tôi rất vui khi nghe điều đó. Tôi cũng muốn hỏi ____ liệu có thông tin gì mới về các bước tiếp theo không, dù tôi hoàn toàn hiểu rằng những quyết định này cần thời gian.",
+        "blanks": [
+          { "type": "knowledge", "answer": "whether", "explanationVi": "Dùng 'whether' (= liệu... hay không) để mở câu hỏi gián tiếp sau 'I was wondering'. Nghe lịch sự, tế nhị hơn hỏi thẳng. Xem mẫu câu 'I was wondering whether...'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Of course. We're still interviewing a few other candidates, so we expect to make a final decision by the end of next week.",
+        "ipa": "/əv kɔːs wɪər stɪl ˈɪn.tə.vjuː.ɪŋ ə fjuː ˈʌð.ə ˈkæn.dɪ.deɪts səʊ wiː ɪkˈspekt tə meɪk ə ˈfaɪ.nəl dɪˈsɪʒ.ən baɪ ðə end əv nekst wiːk/",
+        "vi": "Tất nhiên rồi. Chúng tôi vẫn đang phỏng vấn một vài ứng viên khác, nên dự kiến sẽ đưa ra quyết định cuối cùng vào cuối tuần sau."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds reasonable, and I'll wait patiently. ____ the strong competition, I remain very enthusiastic about the role, ____ seems like a perfect match for my background in data analysis.",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl ænd aɪl weɪt ˈpeɪ.ʃənt.li ... ðə strɒŋ ˌkɒm.pəˈtɪʃ.ən aɪ rɪˈmeɪn ˈver.i ɪnˌθjuː.ziˈæs.tɪk əˈbaʊt ðə rəʊl wɪtʃ siːmz laɪk ə ˈpɜː.fɪkt mætʃ fɔːr maɪ ˈbæk.ɡraʊnd ɪn ˈdeɪ.tə əˈnæl.ə.sɪs/",
+        "vi": "Nghe hợp lý, và tôi sẽ kiên nhẫn chờ. ____ sự cạnh tranh gay gắt, tôi vẫn rất hào hứng với vị trí này, ____ có vẻ là một sự phù hợp hoàn hảo với nền tảng của tôi trong lĩnh vực phân tích dữ liệu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Despite", "explanationVi": "Dùng 'Despite' + danh từ ('the strong competition') để mở ý nhượng bộ. Lưu ý: sau 'Despite' là danh từ/V-ing, KHÔNG phải mệnh đề có chủ ngữ + động từ chia." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'the role' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "I'll be sure to pass that along to the hiring manager. Is there anything else you'd like us to know in the meantime?",
+        "ipa": "/aɪl biː ʃɔː tə pɑːs ðæt əˈlɒŋ tə ðə ˈhaɪə.rɪŋ ˈmæn.ɪ.dʒə ɪz ðeər ˈen.i.θɪŋ els juːd laɪk ʌs tə nəʊ ɪn ðə ˈmiːn.taɪm/",
+        "vi": "Tôi chắc chắn sẽ chuyển lời đó tới quản lý tuyển dụng. Trong lúc chờ, bạn có muốn cho chúng tôi biết thêm điều gì không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Just one thing: please don't hesitate to ____ out if you need any further details, and I'd be happy to clarify anything. Thank you again — I look forward to ____ from you.",
+        "ipa": "/dʒʌst wʌn θɪŋ pliːz dəʊnt ˈhez.ɪ.teɪt tə ... aʊt ɪf juː niːd ˈen.i ˈfɜː.ðə ˈdiː.teɪlz ænd aɪd biː ˈhæp.i tə ˈklær.ə.faɪ ˈen.i.θɪŋ θæŋk juː əˈɡen aɪ lʊk ˈfɔː.wəd tə ... frɒm juː/",
+        "vi": "Chỉ một điều thôi: xin chị cứ ____ với tôi nếu cần thêm chi tiết nào, và tôi rất sẵn lòng làm rõ. Cảm ơn chị một lần nữa — tôi mong ____ phản hồi từ chị.",
+        "blanks": [
+          { "type": "knowledge", "answer": "reach", "explanationVi": "Cụm động từ 'reach out' (chủ động liên hệ). Sau 'don't hesitate to' là động từ nguyên thể, nên điền 'reach' trước 'out'." },
+          { "type": "knowledge", "answer": "hearing", "explanationVi": "Sau 'look forward to', 'to' là giới từ nên phải dùng V-ing: 'hearing', KHÔNG phải 'to hear'. Đây là lỗi rất phổ biến." }
+        ]
+      },
+      {
+        "speaker": "Nhà tuyển dụng",
+        "text": "Will do. Thank you for your patience and your enthusiasm — we'll be in touch very soon. Have a great day!",
+        "ipa": "/wɪl duː θæŋk juː fɔːr jɔːr ˈpeɪ.ʃəns ænd jɔːr ɪnˌθjuː.ziˈæz.əm wiːl biː ɪn tʌtʃ ˈver.i suːn hæv ə ɡreɪt deɪ/",
+        "vi": "Tôi sẽ làm vậy. Cảm ơn sự kiên nhẫn và nhiệt thành của bạn — chúng tôi sẽ liên hệ lại rất sớm. Chúc bạn một ngày tốt lành!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, gửi email cảm ơn trong vòng 24 giờ sau phỏng vấn gần như là chuẩn mực; nó thể hiện sự chuyên nghiệp và quan tâm thực sự.",
+    "Khi follow-up về tiến độ, hãy đợi đúng mốc thời gian họ đã hứa (vd 'một tuần') rồi mới hỏi. Hỏi quá sớm hoặc quá dồn dập có thể bị xem là thiếu kiên nhẫn.",
+    "Email follow-up tốt thường nhắc lại MỘT điểm cụ thể đã trao đổi trong phỏng vấn — điều này cho thấy bạn lắng nghe và nhớ chi tiết.",
+    "Giọng điệu cần lịch sự, tích cực, không bao giờ tạo cảm giác đòi hỏi hay nóng vội — kể cả khi bạn rất muốn công việc."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'I look forward to hear from you' — SAI. Sau 'look forward to' phải là V-ing: 'hearing'.",
+    "Dùng 'Despite of the competition' — SAI. 'Despite' đi thẳng với danh từ, không có 'of'; nếu muốn 'of' thì dùng 'in spite of'.",
+    "Hối thúc lộ liễu kiểu 'When will you decide?'. Hãy bọc câu hỏi cho mềm: 'I was wondering whether there might be any update...'.",
+    "Quên cá nhân hóa: gửi email cảm ơn quá chung chung, không nhắc điểm cụ thể nào trong buổi phỏng vấn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống theo dõi sau phỏng vấn như thật.",
+    "prompt": "Hãy đóng vai một nhân viên nhân sự (HR) nói tiếng Anh. Tôi vừa phỏng vấn cho một vị trí và đang gọi điện (hoặc viết email) để theo dõi sau phỏng vấn. Hãy bắt đầu bằng cách nhấc máy/trả lời tôi. Sau mỗi câu của tôi, hãy: (1) phản hồi tự nhiên như một người HR thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp, lịch sự hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'despite', 'in order to', 'I was wondering whether...' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng hãy tạo tình huống bất ngờ (ví dụ: báo rằng quyết định bị hoãn, hoặc hỏi ngược tôi vì sao tôi phù hợp) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một HR hơi lạnh lùng, ít phản hồi, để tôi tập giữ lịch sự và kiên nhẫn.'",
+      "Thêm: 'Hãy yêu cầu tôi viết hẳn một email follow-up hoàn chỉnh rồi sửa từng câu cho tôi.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói/viết được lời cảm ơn sau phỏng vấn có nhắc một chi tiết cụ thể, không nhìn gợi ý.",
+    "Tôi dùng đúng 'I was wondering whether...', 'despite' và 'look forward to + V-ing'.",
+    "Tôi hỏi được về tiến độ một cách lịch sự, thể hiện sự kiên nhẫn thay vì hối thúc."
+  ]
+}

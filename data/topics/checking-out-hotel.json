@@ -1,0 +1,443 @@
+{
+  "id": "checking-out-hotel",
+  "category": "travel",
+  "title": "Trả phòng khách sạn",
+  "titleEn": "Checking Out of a Hotel",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Báo với lễ tân rằng bạn muốn trả phòng",
+    "Hỏi và kiểm tra hóa đơn, các khoản phí một cách lịch sự",
+    "Đề nghị các dịch vụ khi rời đi (gửi hành lý, gọi taxi)",
+    "Xử lý đơn giản khi thấy một khoản tính sai trên hóa đơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to check out",
+      "ipa": "/tʃek aʊt/",
+      "vi": "làm thủ tục trả phòng (động từ)",
+      "register": "neutral",
+      "example": "I'd like to check out, please.",
+      "exampleVi": "Tôi muốn trả phòng ạ.",
+      "note": "Là cụm động từ (hai từ rời). Danh từ là 'check-out' có gạch nối: 'What time is check-out?'. Ngược với 'check in' (nhận phòng).",
+      "synonyms": [
+        {
+          "term": "to leave",
+          "ipa": "/liːv/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, nghĩa chung là 'rời đi'. Dùng được nhưng không nói rõ là làm thủ tục trả phòng như 'check out'."
+        }
+      ]
+    },
+    {
+      "term": "bill",
+      "ipa": "/bɪl/",
+      "vi": "hóa đơn (danh từ)",
+      "register": "neutral",
+      "example": "Could I have the bill, please?",
+      "exampleVi": "Cho tôi xin hóa đơn được không ạ?",
+      "note": "Danh từ. Người Anh dùng 'bill', người Mỹ hay dùng 'check' khi ở nhà hàng; ở khách sạn cả hai đều hiểu.",
+      "synonyms": [
+        {
+          "term": "invoice",
+          "ipa": "/ˈɪn.vɔɪs/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, là hóa đơn có ghi chi tiết để thanh toán/lưu hồ sơ. Hay dùng cho công ty hoặc khi cần giấy tờ."
+        },
+        {
+          "term": "receipt",
+          "ipa": "/rɪˈsiːt/",
+          "register": "neutral",
+          "nuanceVi": "Là 'biên lai' chứng minh ĐÃ trả tiền, khác với 'bill' là khoản CẦN trả. Chú ý: chữ 'p' câm."
+        }
+      ]
+    },
+    {
+      "term": "to pay",
+      "ipa": "/peɪ/",
+      "vi": "trả tiền, thanh toán (động từ)",
+      "register": "neutral",
+      "example": "Can I pay by credit card?",
+      "exampleVi": "Tôi trả bằng thẻ tín dụng được không?",
+      "note": "Động từ. 'pay by card' (trả bằng thẻ), 'pay in cash' (trả tiền mặt). Đừng quên giới từ.",
+      "synonyms": [
+        {
+          "term": "to settle",
+          "ipa": "/ˈset.əl/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nghĩa 'thanh toán cho xong/dứt điểm'. Hay nghe ở khách sạn: 'How would you like to settle the bill?'"
+        }
+      ]
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "Could I leave my luggage here for a few hours?",
+      "exampleVi": "Tôi gửi hành lý ở đây vài tiếng được không?",
+      "note": "Danh từ KHÔNG đếm được: không có 'luggages', không dùng 'a luggage'. Muốn đếm thì nói 'two pieces of luggage'.",
+      "synonyms": [
+        {
+          "term": "baggage",
+          "ipa": "/ˈbæɡ.ɪdʒ/",
+          "register": "neutral",
+          "nuanceVi": "Gần như đồng nghĩa, cũng không đếm được. 'baggage' hay gặp ở sân bay, 'luggage' phổ biến hơn trong đời thường."
+        }
+      ]
+    },
+    {
+      "term": "extra",
+      "ipa": "/ˈek.strə/",
+      "vi": "thêm, phụ trội (tính từ)",
+      "register": "neutral",
+      "example": "There is an extra charge for the minibar.",
+      "exampleVi": "Có một khoản phụ phí cho minibar.",
+      "note": "Tính từ. 'an extra charge' = phí phát sinh thêm; 'extra towels' = khăn thêm.",
+      "synonyms": [
+        {
+          "term": "additional",
+          "ipa": "/əˈdɪʃ.ən.əl/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn 'extra', cùng nghĩa 'thêm vào'. Hóa đơn khách sạn hay ghi 'additional charges'."
+        }
+      ]
+    },
+    {
+      "term": "charge",
+      "ipa": "/tʃɑːrdʒ/",
+      "vi": "khoản phí / việc tính tiền (danh từ & động từ)",
+      "register": "neutral",
+      "example": "What is this charge for?",
+      "exampleVi": "Khoản phí này là cho cái gì vậy ạ?",
+      "note": "Vừa là danh từ ('a charge' = một khoản phí) vừa là động từ ('to charge' = tính tiền ai đó). Vd: 'You charged me twice.'",
+      "synonyms": [
+        {
+          "term": "fee",
+          "ipa": "/fiː/",
+          "register": "neutral",
+          "nuanceVi": "Cũng là 'phí' nhưng thường là phí cố định cho một dịch vụ (service fee, late check-out fee). 'charge' rộng hơn, là bất kỳ khoản nào bị tính."
+        }
+      ]
+    },
+    {
+      "term": "correct",
+      "ipa": "/kəˈrekt/",
+      "vi": "đúng, chính xác (tính từ)",
+      "register": "neutral",
+      "example": "Is this amount correct?",
+      "exampleVi": "Số tiền này có đúng không ạ?",
+      "note": "Tính từ. Trái nghĩa là 'wrong' (sai). 'That's correct.' = 'Đúng vậy.'",
+      "synonyms": [
+        {
+          "term": "right",
+          "ipa": "/raɪt/",
+          "register": "casual",
+          "nuanceVi": "Đời thường hơn, cùng nghĩa 'đúng'. 'That's right' rất tự nhiên khi xác nhận."
+        },
+        {
+          "term": "accurate",
+          "ipa": "/ˈæk.jə.rət/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nhấn 'chính xác đến từng chi tiết/con số'. Hợp khi nói về số liệu trên hóa đơn."
+        }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách suôn sẻ, trơn tru (trạng từ)",
+      "register": "neutral",
+      "example": "Everything went smoothly during my stay.",
+      "exampleVi": "Mọi thứ trong kỳ nghỉ của tôi đều suôn sẻ.",
+      "note": "Trạng từ. Từ tính từ 'smooth' (mượt) + 'ly'. Dùng để khen mọi việc diễn ra êm đẹp.",
+      "synonyms": [
+        {
+          "term": "easily",
+          "ipa": "/ˈiː.zəl.i/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'một cách dễ dàng, không tốn sức'. Gần nghĩa nhưng thiên về độ dễ chứ không phải sự êm xuôi."
+        }
+      ]
+    },
+    {
+      "term": "to refund",
+      "ipa": "/rɪˈfʌnd/",
+      "vi": "hoàn lại tiền (động từ)",
+      "register": "neutral",
+      "example": "They will refund my deposit later today.",
+      "exampleVi": "Họ sẽ hoàn lại tiền cọc cho tôi trong hôm nay.",
+      "note": "Động từ và danh từ viết giống nhau, khác trọng âm: động từ 'reFUND', danh từ 'REfund' (a refund = một khoản hoàn lại)."
+    },
+    {
+      "term": "front desk",
+      "ipa": "/frʌnt desk/",
+      "vi": "quầy lễ tân (danh từ)",
+      "register": "neutral",
+      "example": "Please return your key card to the front desk.",
+      "exampleVi": "Xin trả lại thẻ phòng tại quầy lễ tân.",
+      "note": "Là nơi bạn nhận và trả phòng. 'reception' cũng cùng nghĩa và rất hay dùng."
+    },
+    {
+      "term": "satisfied",
+      "ipa": "/ˈsæt.ɪs.faɪd/",
+      "vi": "hài lòng (tính từ)",
+      "register": "neutral",
+      "example": "We are very satisfied with the service.",
+      "exampleVi": "Chúng tôi rất hài lòng với dịch vụ.",
+      "note": "Tính từ chỉ cảm giác của người: 'satisfied WITH something'. Đừng nhầm với 'satisfying' (điều gì đó làm ta hài lòng).",
+      "synonyms": [
+        {
+          "term": "happy",
+          "ipa": "/ˈhæp.i/",
+          "register": "casual",
+          "nuanceVi": "Đơn giản, đời thường: 'happy with the room'. Nhẹ nhàng hơn 'satisfied' vốn hơi trang trọng."
+        },
+        {
+          "term": "pleased",
+          "ipa": "/pliːzd/",
+          "register": "formal",
+          "nuanceVi": "Lịch sự, hơi trang trọng: 'pleased with my stay'. Tạo ấn tượng lễ độ khi nói với nhân viên."
+        }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to check out, please.",
+      "use": "Báo với lễ tân rằng bạn muốn trả phòng.",
+      "register": "neutral",
+      "examples": [
+        "Hi, I'd like to check out, please.",
+        "Good morning. I'd like to check out of room 504."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want to'. Đây là câu mở đầu chuẩn khi đến quầy để trả phòng.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I have the [danh từ], please?",
+      "use": "Xin một thứ gì đó (hóa đơn, biên lai) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I have the bill, please?",
+        "Could I have a receipt, please?"
+      ],
+      "explanationVi": "'Could I have...?' lịch sự hơn 'Give me...'. Rất hợp khi nói với người lạ như lễ tân. Đừng quên 'please' cho thân thiện.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could you + [động từ nguyên thể] ... ?",
+      "use": "Nhờ lễ tân làm giúp một việc (gọi taxi, giữ hành lý).",
+      "register": "neutral",
+      "examples": [
+        "Could you call a taxi for me, please?",
+        "Could you keep my luggage until 3 p.m.?"
+      ],
+      "explanationVi": "Khác với 'Could I...?' (xin cho mình), 'Could you...?' là nhờ NGƯỜI KHÁC làm việc gì đó. Cũng rất lịch sự.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "What is this [danh từ] for?",
+      "use": "Hỏi cho rõ một khoản phí trên hóa đơn là gì.",
+      "register": "neutral",
+      "examples": [
+        "What is this charge for?",
+        "What is this extra fee for?"
+      ],
+      "explanationVi": "Giới từ 'for' đứng cuối câu để hỏi 'cho cái gì / để làm gì'. Câu rất hữu ích khi bạn thấy một khoản lạ."
+    },
+    {
+      "pattern": "I think there is a mistake [trong/về ...].",
+      "use": "Báo nhẹ nhàng rằng có thể có sai sót trên hóa đơn.",
+      "register": "neutral",
+      "examples": [
+        "I think there is a mistake in the bill.",
+        "Sorry, but I think there is a small mistake here."
+      ],
+      "explanationVi": "Mở đầu bằng 'I think' làm câu nghe nhẹ nhàng, không gay gắt. Lịch sự hơn nhiều so với 'You are wrong'."
+    },
+    {
+      "pattern": "Can I pay by [phương thức]?",
+      "use": "Hỏi cách thanh toán được chấp nhận.",
+      "register": "neutral",
+      "examples": [
+        "Can I pay by credit card?",
+        "Can I pay in cash?"
+      ],
+      "explanationVi": "Nhớ giới từ: 'pay BY card' nhưng 'pay IN cash'. Đây là câu cần thiết khi thanh toán lúc trả phòng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin mà không muốn nghe cộc lốc.",
+      "example": "Actually, I didn't use the minibar at all."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, could you call me a taxi?"
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.",
+      "example": "I just want to check this charge."
+    },
+    {
+      "term": "luckily",
+      "ipa": "/ˈlʌk.ɪ.li/",
+      "vi": "may là...",
+      "when": "Khi kể về một kết quả tốt, dễ chịu.",
+      "example": "Luckily, everything on the bill is correct."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːrs/",
+      "vi": "tất nhiên rồi",
+      "when": "Đồng ý sẵn lòng với một yêu cầu.",
+      "example": "Of course, I can wait a few minutes."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Sáng hôm rời đi, bạn đến quầy lễ tân để trả phòng. Bạn kiểm tra hóa đơn, hỏi về một khoản phí và nhờ gửi hành lý.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good morning! Are you checking out today?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ ɑːr juː ˈtʃek.ɪŋ aʊt təˈdeɪ/",
+        "vi": "Chào buổi sáng! Quý khách trả phòng hôm nay phải không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. Yes, I'd like to check ____, please. My room number is ____.",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ jes aɪd laɪk tə tʃek ... pliːz maɪ ruːm ˈnʌm.bər ɪz .../",
+        "vi": "Chào buổi sáng. Vâng, tôi muốn trả phòng ạ. Số phòng của tôi là ____.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "out",
+            "explanationVi": "Cụm động từ 'check out' nghĩa là 'trả phòng'. Ngược với 'check in' (nhận phòng). Xem mẫu câu 'I'd like to check out, please.'"
+          },
+          {
+            "type": "personal",
+            "hint": "Số phòng của bạn. Ví dụ: '504'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course. I hope you enjoyed your stay. Here is your bill. Everything went smoothly, I hope?",
+        "ipa": "/əv ˈkɔːrs aɪ həʊp juː ɪnˈdʒɔɪd jɔːr steɪ hɪər ɪz jɔːr bɪl ˈev.ri.θɪŋ went ˈsmuːð.li aɪ həʊp/",
+        "vi": "Tất nhiên rồi. Mong là quý khách đã có kỳ nghỉ vui vẻ. Đây là hóa đơn của quý khách. Hy vọng mọi thứ đều suôn sẻ ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, thank you, my stay was great. But I think there is a small mistake. What is this ____ for? I didn't use the minibar.",
+        "ipa": "/jes θæŋk juː maɪ steɪ wɒz ɡreɪt bʌt aɪ θɪŋk ðeər ɪz ə smɔːl mɪˈsteɪk wɒt ɪz ðɪs ... fɔːr aɪ ˈdɪd.ənt juːz ðə ˈmɪn.i.bɑːr/",
+        "vi": "Vâng, cảm ơn, kỳ nghỉ của tôi rất tuyệt. Nhưng tôi nghĩ có một lỗi nhỏ. Khoản ____ này là cho cái gì vậy? Tôi không dùng minibar.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "charge",
+            "explanationVi": "'charge' là 'khoản phí'. Mẫu câu 'What is this charge for?' dùng để hỏi cho rõ một khoản lạ trên hóa đơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Let me check. Oh, you are right, that was a mistake. I'm so sorry. I will remove it now, although it may take a minute.",
+        "ipa": "/let miː tʃek əʊ juː ɑːr raɪt ðæt wɒz ə mɪˈsteɪk aɪm səʊ ˈsɒr.i aɪ wɪl rɪˈmuːv ɪt naʊ ɔːlˈðəʊ ɪt meɪ teɪk ə ˈmɪn.ɪt/",
+        "vi": "Để tôi kiểm tra ạ. Ồ, quý khách nói đúng, đó là một lỗi. Tôi rất xin lỗi. Tôi sẽ xóa nó ngay bây giờ, mặc dù có thể mất một phút."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "No problem, I can wait. By the way, can I pay ____ credit card?",
+        "ipa": "/nəʊ ˈprɒb.ləm aɪ kæn weɪt baɪ ðə weɪ kæn aɪ peɪ ... ˈkred.ɪt kɑːrd/",
+        "vi": "Không sao, tôi đợi được. Tiện thể, tôi trả bằng thẻ tín dụng được không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "by",
+            "explanationVi": "Trả bằng thẻ dùng giới từ 'by': 'pay BY credit card'. Nhưng trả tiền mặt lại là 'pay IN cash'. Xem mẫu câu 'Can I pay by...?'"
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course. Here you are, and here is your receipt. Is the total amount ____ now?",
+        "ipa": "/əv ˈkɔːrs hɪər juː ɑːr ænd hɪər ɪz jɔːr rɪˈsiːt ɪz ðə ˈtəʊ.təl əˈmaʊnt ... naʊ/",
+        "vi": "Tất nhiên ạ. Của quý khách đây, và đây là biên lai. Tổng số tiền bây giờ đã ____ chưa ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "correct",
+            "explanationVi": "'correct' là tính từ nghĩa 'đúng, chính xác'. Trái nghĩa là 'wrong'. Dùng để xác nhận con số trên hóa đơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, it's correct now. Thank you. ____ you keep my ____ here until two o'clock? My flight is in the evening.",
+        "ipa": "/jes ɪts kəˈrekt naʊ θæŋk juː ... juː kiːp maɪ ... hɪər ənˈtɪl tuː əˈklɒk maɪ flaɪt ɪz ɪn ðiː ˈiːv.nɪŋ/",
+        "vi": "Vâng, bây giờ đúng rồi. Cảm ơn. ____ giữ giúp tôi ____ ở đây đến hai giờ chiều được không? Chuyến bay của tôi vào buổi tối.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "'Could you...?' dùng để nhờ người khác làm giúp một việc, lịch sự hơn 'Can you...?'. Xem mẫu câu 'Could you + động từ...?'"
+          },
+          {
+            "type": "personal",
+            "hint": "Thứ bạn muốn gửi lại. Ví dụ: 'luggage' (hành lý), 'bags' (túi)."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Certainly. We will keep it safely behind the desk, and we can also call a taxi for you when you return. Have a safe trip home!",
+        "ipa": "/ˈsɜːt.ən.li wiː wɪl kiːp ɪt ˈseɪf.li bɪˈhaɪnd ðə desk ænd wiː kæn ˈɔːl.səʊ kɔːl ə ˈtæk.si fɔːr juː wen juː rɪˈtɜːn hæv ə seɪf trɪp həʊm/",
+        "vi": "Chắc chắn rồi ạ. Chúng tôi sẽ giữ nó an toàn sau quầy, và chúng tôi cũng có thể gọi taxi cho quý khách khi quý khách quay lại. Chúc quý khách thượng lộ bình an!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Giờ trả phòng (check-out) tiêu chuẩn thường là 11h-12h trưa. Trả muộn hơn có thể bị tính thêm phí.",
+    "Trước khi rời đi, hãy kiểm tra kỹ hóa đơn các khoản minibar, giặt ủi, điện thoại — đây là những khoản hay bị tính nhầm.",
+    "Nhiều khách sạn cho gửi hành lý miễn phí sau khi trả phòng (luggage storage), rất tiện nếu chuyến bay của bạn vào buổi chiều/tối.",
+    "Nếu khách sạn đã 'hold' (tạm giữ) tiền cọc trên thẻ, khoản đó thường được hoàn lại (refund) trong vài ngày, không phải ngay lập tức."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want to check out' nghe hơi cộc. Dùng 'I'd like to check out, please.' cho lịch sự.",
+    "Dùng sai giới từ khi thanh toán: phải là 'pay BY card' nhưng 'pay IN cash'.",
+    "Dùng 'luggage' như danh từ đếm được: KHÔNG nói 'a luggage' hay 'luggages'. Nói 'my luggage' hoặc 'two bags'.",
+    "Phàn nàn về hóa đơn quá thẳng kiểu 'This is wrong!'. Hãy nói nhẹ 'I think there is a small mistake.'"
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống trả phòng như thật.",
+    "prompt": "Hãy đóng vai một nhân viên lễ tân khách sạn nói tiếng Anh. Tôi là khách đang trả phòng vào buổi sáng. Hãy bắt đầu bằng cách chào tôi và hỏi tôi có trả phòng không. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một lễ tân thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ hóa đơn có một khoản phí lạ, hoặc tiền cọc bị giữ) để tôi tập xử lý. Nói chậm rãi, thân thiện, dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi xem kỳ nghỉ thế nào để tôi tập trả lời dài hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự báo được là mình muốn trả phòng mà không nhìn gợi ý.",
+    "Tôi hỏi và kiểm tra được một khoản phí trên hóa đơn một cách lịch sự.",
+    "Tôi nhờ được lễ tân giữ hành lý hoặc gọi taxi bằng 'Could you...?'."
+  ]
+}

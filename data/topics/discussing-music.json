@@ -1,0 +1,340 @@
+{
+  "id": "discussing-music",
+  "category": "friends",
+  "title": "Nói về âm nhạc",
+  "titleEn": "Discussing Music",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "suggesting", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Nói về gu âm nhạc và thể loại bạn yêu thích bằng câu tự nhiên",
+    "Bày tỏ quan điểm về một bài hát, nghệ sĩ hoặc buổi hòa nhạc",
+    "Gợi ý cho bạn bè nghe thử một ca sĩ hoặc bài hát mới",
+    "Đồng ý hoặc không đồng ý lịch sự khi gu nhạc khác nhau",
+    "Dùng các cấu trúc B1 như 'such as', 'because', 'although' khi trò chuyện"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "genre",
+      "ipa": "/ˈʒɑːn.rə/",
+      "vi": "thể loại (nhạc) (danh từ)",
+      "register": "neutral",
+      "example": "Pop is the most popular genre among my friends.",
+      "exampleVi": "Pop là thể loại được bạn bè tôi yêu thích nhất.",
+      "note": "Danh từ, gốc tiếng Pháp nên phát âm hơi lạ: /ˈʒɑːn.rə/, không đọc theo kiểu 'gen-re'. Dùng cho nhạc, phim, sách.",
+      "synonyms": [
+        { "term": "style", "ipa": "/staɪl/", "register": "neutral", "nuanceVi": "Đời thường hơn 'genre', nhấn vào 'phong cách'. Vd 'I love that style of music.'" },
+        { "term": "category", "ipa": "/ˈkæt.ə.ɡɔːr.i/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'loại/nhóm' nói chung, hơi khô khan hơn 'genre' khi nói riêng về nhạc." }
+      ]
+    },
+    {
+      "term": "catchy",
+      "ipa": "/ˈkætʃ.i/",
+      "vi": "dễ nghe, dễ thuộc, bắt tai (tính từ)",
+      "register": "casual",
+      "example": "The chorus is so catchy that I can't stop singing it.",
+      "exampleVi": "Đoạn điệp khúc bắt tai đến mức tôi cứ hát mãi.",
+      "note": "Tính từ rất hay dùng để khen một bài hát dễ nhớ giai điệu. Mang sắc thái tích cực, thân mật.",
+      "synonyms": [
+        { "term": "memorable", "ipa": "/ˈmem.ər.ə.bəl/", "register": "neutral", "nuanceVi": "Trang trọng hơn, nghĩa 'đáng nhớ, để lại ấn tượng'; không nhất thiết là giai điệu lặp lại như 'catchy'." },
+        { "term": "addictive", "ipa": "/əˈdɪk.tɪv/", "register": "casual", "nuanceVi": "Nhấn 'nghe gây nghiện, muốn nghe đi nghe lại'. Mạnh hơn 'catchy' một chút." }
+      ]
+    },
+    {
+      "term": "lyrics",
+      "ipa": "/ˈlɪr.ɪks/",
+      "vi": "lời bài hát (danh từ, số nhiều)",
+      "register": "neutral",
+      "example": "I love this song because the lyrics are really meaningful.",
+      "exampleVi": "Tôi thích bài này vì lời bài hát rất ý nghĩa.",
+      "note": "Luôn dùng số nhiều 'lyrics'. Đừng nhầm với 'lyric' (tính từ, hiếm dùng). Người hát/viết lời gọi là 'lyricist'."
+    },
+    {
+      "term": "to release",
+      "ipa": "/rɪˈliːs/",
+      "vi": "phát hành, ra mắt (bài hát, album) (động từ)",
+      "register": "neutral",
+      "example": "My favorite band released a new album last week.",
+      "exampleVi": "Ban nhạc tôi yêu thích vừa ra mắt album mới tuần trước.",
+      "note": "Động từ dùng cho việc tung sản phẩm âm nhạc ra công chúng. Danh từ 'release' = bản phát hành.",
+      "synonyms": [
+        { "term": "to drop", "ipa": "/drɒp/", "register": "casual", "nuanceVi": "Tiếng lóng giới trẻ, nghĩa 'tung ra (đột ngột)'. Vd 'She just dropped a new single.' Nghe trẻ trung, hợp với bạn bè." },
+        { "term": "to put out", "ipa": "/pʊt aʊt/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa gần như 'release'. Vd 'They put out a great album.'" }
+      ]
+    },
+    {
+      "term": "talented",
+      "ipa": "/ˈtæl.ən.tɪd/",
+      "vi": "tài năng (tính từ)",
+      "register": "neutral",
+      "example": "She is one of the most talented singers of her generation.",
+      "exampleVi": "Cô ấy là một trong những ca sĩ tài năng nhất thế hệ của mình.",
+      "note": "Tính từ. Nhớ đuôi '-ed': talentED, không phải 'talent'.",
+      "synonyms": [
+        { "term": "gifted", "ipa": "/ˈɡɪf.tɪd/", "register": "neutral", "nuanceVi": "Nhấn 'có năng khiếu bẩm sinh, trời cho'. Nghe ấn tượng hơn 'talented' một chút." },
+        { "term": "skilled", "ipa": "/skɪld/", "register": "neutral", "nuanceVi": "Nhấn 'giỏi kỹ thuật do rèn luyện', thiên về kỹ năng hơn là năng khiếu tự nhiên." }
+      ]
+    },
+    {
+      "term": "upbeat",
+      "ipa": "/ˌʌpˈbiːt/",
+      "vi": "vui tươi, sôi động, tiết tấu nhanh (tính từ)",
+      "register": "neutral",
+      "example": "I prefer upbeat songs when I'm working out.",
+      "exampleVi": "Tôi thích những bài sôi động khi tập thể dục.",
+      "note": "Tính từ mô tả nhạc nhanh, tích cực, làm phấn chấn. Trái nghĩa: 'mellow' (nhẹ nhàng) hoặc 'slow'.",
+      "synonyms": [
+        { "term": "lively", "ipa": "/ˈlaɪv.li/", "register": "neutral", "nuanceVi": "Nhấn 'đầy sức sống, náo nhiệt'. Gần nghĩa 'upbeat' nhưng dùng được cho cả không khí, buổi tiệc." },
+        { "term": "energetic", "ipa": "/ˌen.əˈdʒet.ɪk/", "register": "neutral", "nuanceVi": "Nhấn 'tràn đầy năng lượng'. Hợp khi mô tả nhạc khiến bạn muốn nhảy múa, vận động." }
+      ]
+    },
+    {
+      "term": "to be into",
+      "ipa": "/tə biː ˈɪn.tuː/",
+      "vi": "mê, thích thú với (cụm động từ)",
+      "register": "casual",
+      "example": "I'm really into indie music these days.",
+      "exampleVi": "Dạo này tôi mê nhạc indie lắm.",
+      "note": "Cụm thân mật, theo sau là danh từ/V-ing. Tự nhiên hơn nhiều so với 'I like' khi nói chuyện bạn bè.",
+      "synonyms": [
+        { "term": "to be a fan of", "ipa": "/tə biː ə fæn ɒv/", "register": "neutral", "nuanceVi": "Nghĩa 'là người hâm mộ'. Trung tính, dùng được trong nhiều ngữ cảnh, theo sau là danh từ." },
+        { "term": "to be keen on", "ipa": "/tə biː kiːn ɒn/", "register": "neutral", "nuanceVi": "Anh-Anh, nghĩa 'thích, hứng thú'. Nghe lịch sự hơn 'into' một chút." }
+      ]
+    },
+    {
+      "term": "tune",
+      "ipa": "/tʃuːn/",
+      "vi": "giai điệu / một bài nhạc (danh từ)",
+      "register": "casual",
+      "example": "This is such a great tune — turn it up!",
+      "exampleVi": "Bài này hay quá — vặn to lên đi!",
+      "note": "Đời thường, có thể chỉ 'giai điệu' hoặc cả 'một bài hát'. 'Catchy tune' = giai điệu bắt tai.",
+      "synonyms": [
+        { "term": "melody", "ipa": "/ˈmel.ə.di/", "register": "neutral", "nuanceVi": "Trang trọng hơn, chỉ riêng phần 'giai điệu' (chuỗi nốt nhạc), không chỉ cả bài như 'tune'." },
+        { "term": "track", "ipa": "/træk/", "register": "neutral", "nuanceVi": "Nghĩa 'một bài/bản nhạc trong album'. Vd 'My favorite track on the album is the third one.'" }
+      ]
+    },
+    {
+      "term": "to perform",
+      "ipa": "/pəˈfɔːm/",
+      "vi": "biểu diễn (động từ)",
+      "register": "neutral",
+      "example": "The band performed live for over two hours.",
+      "exampleVi": "Ban nhạc biểu diễn trực tiếp hơn hai tiếng.",
+      "note": "Động từ. Danh từ là 'performance' (buổi/màn biểu diễn). 'Perform live' = diễn trực tiếp.",
+      "synonyms": [
+        { "term": "to play", "ipa": "/pleɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chơi/diễn nhạc'. Vd 'They're playing in Hanoi next month.' Nhẹ nhàng hơn 'perform'." }
+      ]
+    },
+    {
+      "term": "incredibly",
+      "ipa": "/ɪnˈkred.ə.bli/",
+      "vi": "cực kỳ, vô cùng (trạng từ)",
+      "register": "neutral",
+      "example": "The concert was incredibly exciting from start to finish.",
+      "exampleVi": "Buổi hòa nhạc cực kỳ hào hứng từ đầu đến cuối.",
+      "note": "Trạng từ nhấn mạnh, đứng trước tính từ để tăng cấp độ. Mạnh hơn 'very'.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˌæb.səˈluːt.li/", "register": "neutral", "nuanceVi": "Nhấn mạnh tuyệt đối, thường đi với tính từ mạnh: 'absolutely amazing'. Nghe dứt khoát." },
+        { "term": "really", "ipa": "/ˈrɪə.li/", "register": "casual", "nuanceVi": "Đời thường, an toàn, dùng được mọi lúc nhưng nhẹ hơn 'incredibly'." }
+      ]
+    },
+    {
+      "term": "concert",
+      "ipa": "/ˈkɒn.sət/",
+      "vi": "buổi hòa nhạc, buổi biểu diễn (danh từ)",
+      "register": "neutral",
+      "example": "We went to a concert by our favorite band last night.",
+      "exampleVi": "Tối qua chúng tôi đi xem buổi hòa nhạc của ban nhạc yêu thích.",
+      "note": "Danh từ. Sự kiện nhỏ, thân mật hơn gọi là 'gig' (đời thường). Buổi diễn lớn nhiều ngày là 'festival'.",
+      "synonyms": [
+        { "term": "gig", "ipa": "/ɡɪɡ/", "register": "casual", "nuanceVi": "Tiếng lóng, chỉ buổi diễn nhỏ, thân mật (quán bar, club). Nghe trẻ trung, gần gũi hơn 'concert'." },
+        { "term": "show", "ipa": "/ʃəʊ/", "register": "neutral", "nuanceVi": "Chung chung, chỉ bất kỳ buổi trình diễn nào. Vd 'Their live show was amazing.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm really into [thể loại / nghệ sĩ] because [lý do].",
+      "use": "Nói về gu nhạc của bạn và giải thích lý do.",
+      "register": "casual",
+      "examples": [
+        "I'm really into indie pop because the lyrics are so relatable.",
+        "I'm really into jazz because it helps me relax after work."
+      ],
+      "explanationVi": "'be into' thân mật, tự nhiên hơn 'I like' nhiều. Thêm 'because' để mở rộng câu — đúng tinh thần B1, không nói cụt một vế.",
+      "altOf": "stating-taste"
+    },
+    {
+      "pattern": "I'm a big fan of [nghệ sĩ / thể loại].",
+      "use": "Bày tỏ rằng bạn rất hâm mộ ai đó hoặc thể loại nào.",
+      "register": "neutral",
+      "examples": [
+        "I'm a big fan of Coldplay.",
+        "I'm a big fan of acoustic music."
+      ],
+      "explanationVi": "'a big fan of' = người hâm mộ lớn. Trung tính, an toàn, dùng được cả khi nói chuyện với người chưa thân.",
+      "altOf": "stating-taste"
+    },
+    {
+      "pattern": "Have you ever listened to [nghệ sĩ / bài hát]?",
+      "use": "Hỏi xem bạn của mình đã nghe nghệ sĩ/bài hát nào đó chưa.",
+      "register": "neutral",
+      "examples": [
+        "Have you ever listened to Norah Jones?",
+        "Have you ever listened to any K-pop?"
+      ],
+      "explanationVi": "Thì hiện tại hoàn thành với 'ever' để hỏi về trải nghiệm 'từ trước đến giờ'. Cách mở đầu tự nhiên để giới thiệu nhạc mới."
+    },
+    {
+      "pattern": "You should check out [nghệ sĩ / bài hát]; I think you'd love it.",
+      "use": "Gợi ý bạn nghe thử một nghệ sĩ/bài hát.",
+      "register": "casual",
+      "examples": [
+        "You should check out this band called The 1975; I think you'd love them.",
+        "You should check out her new album; it's amazing."
+      ],
+      "explanationVi": "'check out' = nghe thử/xem thử, rất thông dụng. 'you'd love it' (= you would love it) nghe nhiệt tình mà không áp đặt.",
+      "altOf": "suggesting-music"
+    },
+    {
+      "pattern": "If you like [A], you'll probably enjoy [B] too.",
+      "use": "Gợi ý dựa trên gu sẵn có của bạn mình.",
+      "register": "neutral",
+      "examples": [
+        "If you like Adele, you'll probably enjoy Sam Smith too.",
+        "If you like upbeat songs, you'll probably enjoy this playlist too."
+      ],
+      "explanationVi": "Câu điều kiện loại 1 (If + hiện tại, will + V). Cách gợi ý thông minh: gắn cái mới với cái người ta đã thích.",
+      "altOf": "suggesting-music"
+    },
+    {
+      "pattern": "I see what you mean, but personally I prefer [thể loại / nghệ sĩ].",
+      "use": "Không đồng ý lịch sự khi gu nhạc khác nhau.",
+      "register": "neutral",
+      "examples": [
+        "I see what you mean, but personally I prefer slower songs.",
+        "I see what you mean, but personally I prefer live music to recordings."
+      ],
+      "explanationVi": "'I see what you mean, but...' công nhận ý người kia trước rồi mới nêu ý mình — nghe tôn trọng, không gay gắt. 'prefer A to B' = thích A hơn B."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thật, đôi khi hơi trái với số đông.", "example": "Honestly, I don't really get the hype around that band." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi đính chính nhẹ hoặc nói điều bất ngờ về gu nhạc của mình.", "example": "Actually, I used to hate jazz, but now I love it." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "nói thật thì", "when": "Trước khi đưa một nhận xét thẳng thắn về bài hát/nghệ sĩ.", "example": "To be honest, I find his older songs much better." },
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "cá nhân tôi thì", "when": "Nhấn đây chỉ là quan điểm riêng, không áp đặt.", "example": "Personally, I think the album is a bit overrated." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Đồng ý mạnh mẽ hoặc khẳng định một gợi ý.", "example": "You should definitely give them a listen." },
+    { "term": "kind of", "ipa": "/ˈkaɪnd ɒv/", "vi": "kiểu kiểu, hơi hơi", "when": "Khi muốn nói nhẹ, không quá chắc chắn về cảm nhận.", "example": "It's kind of repetitive after a while." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Mai và Long, đang ngồi quán cà phê và trò chuyện về gu âm nhạc của nhau, một buổi hòa nhạc sắp tới và gợi ý nhạc mới cho nhau.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Hey Long, what kind of music are you into these days? I feel like I've been listening to the same songs over and over.",
+        "ipa": "/heɪ lɒŋ wɒt kaɪnd ɒv ˈmjuː.zɪk ɑː juː ˈɪn.tuː ðiːz deɪz aɪ fiːl laɪk aɪv biːn ˈlɪs.ən.ɪŋ tə ðə seɪm sɒŋz ˈəʊ.və ænd ˈəʊ.və/",
+        "vi": "Này Long, dạo này cậu mê thể loại nhạc gì thế? Tớ thấy mình cứ nghe đi nghe lại mấy bài cũ mãi."
+      },
+      {
+        "speaker": "Long",
+        "text": "Honestly, I'm really ____ indie rock at the moment, mainly because the lyrics feel so genuine. Although it's not very mainstream, more and more of my friends are starting to enjoy it.",
+        "ipa": "/ˈɒn.ɪst.li aɪm ˈrɪə.li ... ˈɪn.di rɒk ət ðə ˈməʊ.mənt ˈmeɪn.li bɪˈkɒz ðə ˈlɪr.ɪks fiːl səʊ ˈdʒen.ju.ɪn ɔːlˈðəʊ ɪts nɒt ˈver.i ˈmeɪn.striːm mɔːr ænd mɔːr ɒv maɪ frendz ɑː ˈstɑːt.ɪŋ tə ɪnˈdʒɔɪ ɪt/",
+        "vi": "Thành thật mà nói, dạo này tớ ____ nhạc indie rock lắm, chủ yếu vì lời bài hát rất chân thật. Dù nó không quá đại chúng, ngày càng nhiều bạn tớ bắt đầu thích nó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "into", "explanationVi": "Cụm 'be into something' = mê, thích thú với cái gì. Sau 'I'm really' cần 'into'. Xem mẫu câu 'I'm really into… because…'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Oh, that sounds interesting! Have you ever listened to a band ____ plays a similar style? I really want to discover something new.",
+        "ipa": "/əʊ ðæt saʊndz ˈɪn.trəs.tɪŋ hæv juː ˈev.ə ˈlɪs.ənd tə ə bænd ... pleɪz ə ˈsɪm.ɪ.lə staɪl aɪ ˈrɪə.li wɒnt tə dɪˈskʌv.ə ˈsʌm.θɪŋ njuː/",
+        "vi": "Ồ, nghe thú vị đấy! Cậu đã từng nghe ban nhạc nào ____ chơi phong cách tương tự chưa? Tớ rất muốn khám phá cái gì đó mới.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' (hoặc 'that') để nối mệnh đề mô tả 'a band' (vật/nhóm). Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Long",
+        "text": "Definitely! You should ____ out a group called The Paper Kites; I think you'd love them because their songs are both mellow and incredibly catchy.",
+        "ipa": "/ˈdef.ɪn.ət.li juː ʃʊd ... aʊt ə ɡruːp kɔːld ðə ˈpeɪ.pə kaɪts aɪ θɪŋk juːd lʌv ðəm bɪˈkɒz ðeə sɒŋz ɑː bəʊθ ˈmel.əʊ ænd ɪnˈkred.ə.bli ˈkætʃ.i/",
+        "vi": "Chắc chắn rồi! Cậu nên ____ thử một nhóm tên là The Paper Kites; tớ nghĩ cậu sẽ thích họ vì các bài hát của họ vừa nhẹ nhàng vừa cực kỳ bắt tai.",
+        "blanks": [
+          { "type": "knowledge", "answer": "check", "explanationVi": "Cụm 'check out something' = nghe/xem thử. Mẫu gợi ý: 'You should check out…; I think you'd love it.'" }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I'll give them a listen tonight. By the way, did you know that ____ favorite singer is performing live here next month?",
+        "ipa": "/aɪl ɡɪv ðəm ə ˈlɪs.ən təˈnaɪt baɪ ðə weɪ dɪd juː nəʊ ðæt ... ˈfeɪv.ər.ɪt ˈsɪŋ.ə ɪz pəˈfɔːm.ɪŋ laɪv hɪə nekst mʌnθ/",
+        "vi": "Tối nay tớ sẽ nghe thử. Tiện thể, cậu có biết là ca sĩ yêu thích của ____ sắp biểu diễn trực tiếp ở đây tháng sau không?",
+        "blanks": [
+          { "type": "personal", "hint": "Tính từ sở hữu đứng trước 'favorite singer'. Ví dụ: 'my' (của tớ) hoặc 'your' (của cậu)." }
+        ]
+      },
+      {
+        "speaker": "Long",
+        "text": "No way, that's amazing news! I'd love to go, although the tickets might be quite expensive. Who is it, and what ____ of music does she play?",
+        "ipa": "/nəʊ weɪ ðæts əˈmeɪz.ɪŋ njuːz aɪd lʌv tə ɡəʊ ɔːlˈðəʊ ðə ˈtɪk.ɪts maɪt biː kwaɪt ɪkˈspen.sɪv huː ɪz ɪt ænd wɒt ... ɒv ˈmjuː.zɪk dʌz ʃiː pleɪ/",
+        "vi": "Không thể tin được, tin tuyệt vời quá! Tớ rất muốn đi, mặc dù vé có thể khá đắt. Ai vậy, và cô ấy chơi ____ nhạc gì?",
+        "blanks": [
+          { "type": "knowledge", "answer": "genre", "explanationVi": "'genre' = thể loại nhạc. Câu hỏi 'what genre of music…?' là cách chuẩn để hỏi về dòng nhạc. Có thể thay bằng 'kind/style'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "It's a soul and R&B artist named ____. Her voice is incredibly powerful, and even though some people find her songs a bit slow, I personally love how emotional they are.",
+        "ipa": "/ɪts ə səʊl ænd ɑːr ən biː ˈɑː.tɪst neɪmd ... hə vɔɪs ɪz ɪnˈkred.ə.bli ˈpaʊə.fəl ænd ˈiː.vən ðəʊ sʌm ˈpiː.pəl faɪnd hə sɒŋz ə bɪt sləʊ aɪ ˈpɜː.sən.əl.i lʌv haʊ ɪˈməʊ.ʃən.əl ðeɪ ɑː/",
+        "vi": "Là một nghệ sĩ soul và R&B tên là ____. Giọng cô ấy cực kỳ nội lực, và dù vài người thấy mấy bài của cô ấy hơi chậm, cá nhân tớ rất thích sự đầy cảm xúc của chúng.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên ca sĩ yêu thích của bạn. Ví dụ: 'Adele' hoặc 'Sam Smith'." }
+        ]
+      },
+      {
+        "speaker": "Long",
+        "text": "I see what you mean, but personally I usually prefer more upbeat tracks, such as dance or pop, because they keep my energy up. Still, I'm definitely up for going with you!",
+        "ipa": "/aɪ siː wɒt juː miːn bʌt ˈpɜː.sən.əl.i aɪ ˈjuː.ʒu.ə.li prɪˈfɜː mɔːr ˌʌpˈbiːt træks sʌtʃ æz dɑːns ɔː pɒp bɪˈkɒz ðeɪ kiːp maɪ ˈen.ə.dʒi ʌp stɪl aɪm ˈdef.ɪn.ət.li ʌp fə ˈɡəʊ.ɪŋ wɪð juː/",
+        "vi": "Tớ hiểu ý cậu, nhưng cá nhân tớ thường thích những bài sôi động hơn, chẳng hạn như dance hay pop, vì chúng giữ cho tớ tràn năng lượng. Dù vậy, tớ chắc chắn vẫn muốn đi cùng cậu!"
+      },
+      {
+        "speaker": "Mai",
+        "text": "Perfect! Let's book the tickets as soon as they go on sale. It'll be so much fun to finally see live music together instead of just streaming songs at home.",
+        "ipa": "/ˈpɜː.fɪkt lets bʊk ðə ˈtɪk.ɪts əz suːn əz ðeɪ ɡəʊ ɒn seɪl ˈɪt.əl biː səʊ mʌtʃ fʌn tə ˈfaɪ.nə.li siː laɪv ˈmjuː.zɪk təˈɡeð.ə ɪnˈsted ɒv dʒʌst ˈstriː.mɪŋ sɒŋz ət həʊm/",
+        "vi": "Tuyệt vời! Mình đặt vé ngay khi mở bán nhé. Cuối cùng được cùng nhau xem nhạc sống thay vì chỉ nghe nhạc ở nhà thì vui lắm đấy."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi nói chuyện với bạn bè nói tiếng Anh, gu nhạc là chủ đề small-talk rất an toàn và phổ biến để bắt chuyện hoặc làm thân.",
+    "Người bản xứ hay dùng tiếng lóng: 'gig' (buổi diễn nhỏ), 'a banger' (bài cực hay), 'an oldie' (bài cũ kinh điển). Dùng đúng chỗ sẽ nghe rất tự nhiên.",
+    "Khi gu nhạc khác nhau, văn hóa phương Tây trọng việc tôn trọng sở thích cá nhân (each to their own). Tránh chê thẳng 'Your music is bad'; hãy nói 'It's not really my thing.'",
+    "Các nền tảng như Spotify, YouTube Music rất phổ biến; câu hỏi 'What's on your playlist?' là cách rất tự nhiên để hỏi về gu nhạc."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I very like this song' — sai. Phải là 'I really like this song' hoặc 'I like this song a lot'.",
+    "Dùng 'lyric' số ít khi nói về lời bài hát. Đúng phải là số nhiều: 'the lyrics are beautiful'.",
+    "Quên đuôi '-ed' ở 'talented'. Là tính từ nên phải nói 'a talented singer', không phải 'a talent singer'.",
+    "Phát âm sai 'genre' theo kiểu đọc từng chữ. Đọc đúng là /ˈʒɑːn.rə/ với âm /ʒ/ như trong 'vision'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về âm nhạc với một người bạn ảo.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện với tôi về âm nhạc ở quán cà phê. Hãy bắt đầu bằng cách hỏi tôi dạo này thích nghe nhạc gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thân thiện như một người bạn thật, kể về gu nhạc của bạn nữa, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi nói câu dài hơn với 'because', 'such as', 'although', và gợi ý cho tôi một nghệ sĩ/bài hát mới để tôi tập phản ứng. Nói ở mức độ B1, không quá khó. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy giả vờ gu nhạc của bạn rất khác tớ để tớ luyện cách không đồng ý lịch sự.'",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 5 từ vựng về âm nhạc tớ nên học thêm.' để mở rộng vốn từ."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được gu nhạc của mình bằng một câu có 'because' để giải thích lý do.",
+    "Tôi gợi ý được một nghệ sĩ/bài hát cho bạn bằng mẫu 'You should check out…'.",
+    "Tôi dùng được 'I see what you mean, but…' để không đồng ý một cách lịch sự."
+  ]
+}

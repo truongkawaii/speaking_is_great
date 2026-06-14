@@ -1,0 +1,332 @@
+{
+  "id": "daily-routine",
+  "category": "family",
+  "title": "Sinh hoạt hằng ngày",
+  "titleEn": "Daily Routine",
+  "level": "A2",
+  "functions": ["describing", "asking-info", "small-talk"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Kể lại các việc làm hằng ngày bằng thì hiện tại đơn",
+    "Hỏi và trả lời về thời gian làm mỗi việc (mấy giờ thức dậy, ăn tối...)",
+    "Dùng trạng từ tần suất (always, usually, sometimes) đúng vị trí",
+    "Nối các việc theo trình tự bằng first, then, after that"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to wake up",
+      "ipa": "/weɪk ʌp/",
+      "vi": "thức dậy (động từ)",
+      "register": "neutral",
+      "example": "I usually wake up at six o'clock.",
+      "exampleVi": "Tôi thường thức dậy lúc sáu giờ.",
+      "note": "Cụm động từ. 'wake up' là tỉnh giấc; 'get up' là rời khỏi giường — hai việc khác nhau, đừng nhầm.",
+      "synonyms": [
+        { "term": "to get up", "ipa": "/ɡet ʌp/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'ra khỏi giường', không phải chỉ mở mắt. Bạn wake up trước, rồi mới get up." },
+        { "term": "to rise", "ipa": "/raɪz/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ, ít dùng trong nói chuyện hằng ngày. Vd 'I rise early.'" }
+      ]
+    },
+    {
+      "term": "breakfast",
+      "ipa": "/ˈbrek.fəst/",
+      "vi": "bữa sáng (danh từ)",
+      "register": "neutral",
+      "example": "I have breakfast with my family every morning.",
+      "exampleVi": "Sáng nào tôi cũng ăn sáng cùng gia đình.",
+      "note": "Danh từ. Nói 'have breakfast' chứ KHÔNG nói 'eat breakfast a' — không cần mạo từ. Trọng âm rơi vào âm đầu 'BREAK'.",
+      "synonyms": [
+        { "term": "morning meal", "ipa": "/ˈmɔː.nɪŋ miːl/", "register": "neutral", "nuanceVi": "Cách diễn đạt rõ nghĩa 'bữa ăn buổi sáng', ít thông dụng hơn 'breakfast' nhưng dễ hiểu." }
+      ]
+    },
+    {
+      "term": "chore",
+      "ipa": "/tʃɔːr/",
+      "vi": "việc nhà (danh từ)",
+      "register": "neutral",
+      "example": "I do my chores after dinner.",
+      "exampleVi": "Tôi làm việc nhà sau bữa tối.",
+      "note": "Danh từ, thường dùng số nhiều 'chores'. Đi với động từ 'do': 'do the chores'.",
+      "synonyms": [
+        { "term": "housework", "ipa": "/ˈhaʊs.wɜːk/", "register": "neutral", "nuanceVi": "Danh từ không đếm được, chỉ chung việc nhà. Nói 'do housework' (không có 's'), còn 'chores' là từng việc cụ thể." },
+        { "term": "task", "ipa": "/tɑːsk/", "register": "neutral", "nuanceVi": "Rộng hơn, là 'nhiệm vụ/việc cần làm' nói chung, không riêng việc nhà." }
+      ]
+    },
+    {
+      "term": "to commute",
+      "ipa": "/kəˈmjuːt/",
+      "vi": "đi lại (giữa nhà và chỗ làm/học) (động từ)",
+      "register": "neutral",
+      "example": "I commute to work by bus.",
+      "exampleVi": "Tôi đi làm bằng xe buýt.",
+      "note": "Động từ. Chỉ việc di chuyển đều đặn hằng ngày đi học/đi làm. Danh từ: 'a long commute' (quãng đường đi làm xa).",
+      "synonyms": [
+        { "term": "to travel", "ipa": "/ˈtræv.əl/", "register": "neutral", "nuanceVi": "Chung chung là 'di chuyển/đi lại', không nhất thiết hằng ngày như commute." }
+      ]
+    },
+    {
+      "term": "busy",
+      "ipa": "/ˈbɪz.i/",
+      "vi": "bận rộn (tính từ)",
+      "register": "neutral",
+      "example": "My mornings are always busy.",
+      "exampleVi": "Buổi sáng của tôi lúc nào cũng bận.",
+      "note": "Tính từ. Phát âm /ˈbɪz.i/ (chữ 'u' đọc như /ɪ/), KHÔNG đọc 'biu-zi'.",
+      "synonyms": [
+        { "term": "hectic", "ipa": "/ˈhek.tɪk/", "register": "neutral", "nuanceVi": "Mạnh hơn 'busy', nghĩa 'bận tới mức rối rít, hối hả'. Vd 'a hectic morning'." },
+        { "term": "tied up", "ipa": "/taɪd ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đang kẹt, vướng việc'. Vd 'I'm tied up right now.'" }
+      ]
+    },
+    {
+      "term": "tired",
+      "ipa": "/ˈtaɪəd/",
+      "vi": "mệt (tính từ)",
+      "register": "neutral",
+      "example": "I feel tired after a long day.",
+      "exampleVi": "Tôi thấy mệt sau một ngày dài.",
+      "note": "Tính từ. 'tired' là mệt bình thường; muốn nói mệt rã rời thì dùng synonyms bên dưới.",
+      "synonyms": [
+        { "term": "exhausted", "ipa": "/ɪɡˈzɔːs.tɪd/", "register": "neutral", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'kiệt sức, mệt lả'. Dùng khi rất mệt." },
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt phờ, đuối'. Gần nghĩa exhausted nhưng nghe thân mật hơn." },
+        { "term": "sleepy", "ipa": "/ˈsliː.pi/", "register": "neutral", "nuanceVi": "Khác sắc thái: 'buồn ngủ' (muốn ngủ), không hẳn là mệt vì làm việc." }
+      ]
+    },
+    {
+      "term": "early",
+      "ipa": "/ˈɜː.li/",
+      "vi": "sớm (trạng từ / tính từ)",
+      "register": "neutral",
+      "example": "I go to bed early on weekdays.",
+      "exampleVi": "Ngày thường tôi đi ngủ sớm.",
+      "note": "Vừa là trạng từ ('wake up early') vừa là tính từ ('an early start'). Trái nghĩa: late (muộn).",
+      "synonyms": [
+        { "term": "at dawn", "ipa": "/ət dɔːn/", "register": "formal", "nuanceVi": "Nghĩa 'lúc bình minh, rạng sáng', cụ thể và văn vẻ hơn 'early'." }
+      ]
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thường (trạng từ tần suất)",
+      "register": "neutral",
+      "example": "I usually have lunch at noon.",
+      "exampleVi": "Tôi thường ăn trưa lúc giữa trưa.",
+      "note": "Trạng từ tần suất, đứng TRƯỚC động từ thường: 'I usually go', không phải 'I go usually'.",
+      "synonyms": [
+        { "term": "normally", "ipa": "/ˈnɔː.mə.li/", "register": "neutral", "nuanceVi": "Gần như y hệt 'usually', nhấn 'theo lệ bình thường'. Dùng thay nhau được." },
+        { "term": "generally", "ipa": "/ˈdʒen.ər.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhìn chung, đa phần', hơi rộng hơn usually." }
+      ]
+    },
+    {
+      "term": "to relax",
+      "ipa": "/rɪˈlæks/",
+      "vi": "thư giãn, nghỉ ngơi (động từ)",
+      "register": "neutral",
+      "example": "In the evening, I relax and watch TV.",
+      "exampleVi": "Buổi tối tôi thư giãn và xem TV.",
+      "note": "Động từ. Trọng âm âm thứ hai 'lax'.",
+      "synonyms": [
+        { "term": "to unwind", "ipa": "/ˌʌnˈwaɪnd/", "register": "neutral", "nuanceVi": "Nghĩa 'xả stress sau giờ làm việc căng thẳng', hình ảnh hơn relax một chút." },
+        { "term": "to rest", "ipa": "/rest/", "register": "neutral", "nuanceVi": "Nhấn 'nghỉ để hồi sức' (đặc biệt khi mệt), không hẳn là giải trí như relax." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "I quickly get dressed and leave home.",
+      "exampleVi": "Tôi mặc đồ thật nhanh rồi rời nhà.",
+      "note": "Trạng từ chỉ cách thức, thường đứng trước động từ hoặc cuối câu.",
+      "synonyms": [
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng trong văn viết. Nghĩa 'nhanh, dồn dập'." },
+        { "term": "in a hurry", "ipa": "/ɪn ə ˈhʌr.i/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'một cách vội vã, gấp gáp'. Vd 'I left in a hurry.'" }
+      ]
+    },
+    {
+      "term": "schedule",
+      "ipa": "/ˈʃed.juːl/",
+      "vi": "lịch trình, thời gian biểu (danh từ)",
+      "register": "neutral",
+      "example": "My daily schedule is quite simple.",
+      "exampleVi": "Lịch trình hằng ngày của tôi khá đơn giản.",
+      "note": "Danh từ. Anh-Anh đọc /ˈʃed.juːl/, Anh-Mỹ đọc /ˈsked.juːl/ — cả hai đều đúng.",
+      "synonyms": [
+        { "term": "routine", "ipa": "/ruːˈtiːn/", "register": "neutral", "nuanceVi": "Nhấn 'thói quen lặp lại đều đặn'; 'schedule' nhấn 'thời gian biểu có giờ giấc cụ thể'." },
+        { "term": "timetable", "ipa": "/ˈtaɪm.teɪ.bəl/", "register": "neutral", "nuanceVi": "Bảng giờ giấc cố định (lịch học, lịch tàu xe). Anh-Anh dùng nhiều." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I usually [động từ] at [giờ].",
+      "use": "Kể một việc làm hằng ngày kèm thời gian.",
+      "register": "neutral",
+      "examples": [
+        "I usually wake up at six o'clock.",
+        "I usually have dinner at seven."
+      ],
+      "explanationVi": "Thì hiện tại đơn cho thói quen. Trạng từ tần suất 'usually' đứng TRƯỚC động từ chính. Đây là mẫu xương sống để kể sinh hoạt hằng ngày.",
+      "altOf": "telling-routine"
+    },
+    {
+      "pattern": "Every day, I [động từ].",
+      "use": "Nhấn mạnh đây là việc làm đều đặn mỗi ngày.",
+      "register": "neutral",
+      "examples": [
+        "Every day, I go to work by bus.",
+        "Every day, I do some chores."
+      ],
+      "explanationVi": "'Every day' (viết rời, 2 chữ) là trạng ngữ chỉ tần suất, có thể đặt đầu hoặc cuối câu. Đừng nhầm với 'everyday' (1 chữ, tính từ = thường nhật).",
+      "altOf": "telling-routine"
+    },
+    {
+      "pattern": "What time do you [động từ]?",
+      "use": "Hỏi ai đó làm một việc lúc mấy giờ.",
+      "register": "neutral",
+      "examples": [
+        "What time do you wake up?",
+        "What time do you have breakfast?"
+      ],
+      "explanationVi": "Câu hỏi với 'do' ở hiện tại đơn (ngôi I/you/we/they). 'What time' = mấy giờ. Đây là cách hỏi giờ giấc tự nhiên nhất.",
+      "altOf": "asking-time"
+    },
+    {
+      "pattern": "When do you usually [động từ]?",
+      "use": "Hỏi thời điểm/lúc nào ai đó hay làm một việc.",
+      "register": "neutral",
+      "examples": [
+        "When do you usually go to bed?",
+        "When do you usually do your homework?"
+      ],
+      "explanationVi": "'When' rộng hơn 'What time' (có thể trả lời 'in the evening' chứ không chỉ giờ cụ thể). Cùng nhóm hỏi giờ giấc với 'What time do you...?'.",
+      "altOf": "asking-time"
+    },
+    {
+      "pattern": "First I [động từ], then I [động từ].",
+      "use": "Kể các việc theo trình tự trước–sau.",
+      "register": "neutral",
+      "examples": [
+        "First I take a shower, then I have breakfast.",
+        "First I check my phone, then I make coffee."
+      ],
+      "explanationVi": "'First... then...' giúp nối các việc thành chuỗi mạch lạc thay vì liệt kê rời rạc. Có thể thêm 'after that' (sau đó nữa) cho việc thứ ba."
+    },
+    {
+      "pattern": "After [V-ing / danh từ], I [động từ].",
+      "use": "Nói một việc xảy ra sau một việc khác.",
+      "register": "neutral",
+      "examples": [
+        "After dinner, I wash the dishes.",
+        "After finishing work, I go to the gym."
+      ],
+      "explanationVi": "Sau 'after' dùng danh từ ('dinner') hoặc động từ thêm -ing ('finishing'), KHÔNG dùng nguyên thể. Cách nối câu rất phổ biến khi kể thói quen."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "always", "ipa": "/ˈɔːl.weɪz/", "vi": "luôn luôn", "when": "Khi việc đó xảy ra 100% thời gian.", "example": "I always brush my teeth before bed." },
+    { "term": "sometimes", "ipa": "/ˈsʌm.taɪmz/", "vi": "thỉnh thoảng", "when": "Khi việc đó chỉ xảy ra một số lần.", "example": "Sometimes I skip breakfast when I'm in a hurry." },
+    { "term": "in the morning", "ipa": "/ɪn ðə ˈmɔː.nɪŋ/", "vi": "vào buổi sáng", "when": "Nói chung về thời điểm trong ngày (sáng/chiều/tối).", "example": "In the morning, I check my emails first." },
+    { "term": "before", "ipa": "/bɪˈfɔːr/", "vi": "trước khi", "when": "Nói một việc xảy ra trước một việc khác.", "example": "I have a coffee before I start work." },
+    { "term": "after that", "ipa": "/ˈɑːf.tər ðæt/", "vi": "sau đó", "when": "Nối sang việc tiếp theo trong chuỗi.", "example": "I make breakfast, and after that, I take my kids to school." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn cùng phòng đang trò chuyện vào buổi sáng. Một người hỏi về thói quen sinh hoạt hằng ngày của người kia.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Good morning! You always look so fresh. What time do you usually wake up?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ juː ˈɔːl.weɪz lʊk səʊ freʃ wɒt taɪm duː juː ˈjuː.ʒu.ə.li weɪk ʌp/",
+        "vi": "Chào buổi sáng! Trông cậu lúc nào cũng tươi tỉnh ghê. Cậu thường thức dậy lúc mấy giờ vậy?"
+      },
+      {
+        "speaker": "Người bạn",
+        "text": "Good morning! I usually wake up ____ six o'clock. Although I love sleeping, I get up early in order to exercise.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪ ˈjuː.ʒu.ə.li weɪk ʌp ... sɪks əˈklɒk ɔːlˈðəʊ aɪ lʌv ˈsliː.pɪŋ aɪ ɡet ʌp ˈɜː.li ɪn ˈɔː.də tə ˈek.sə.saɪz/",
+        "vi": "Chào buổi sáng! Mình thường dậy ____ sáu giờ. Tuy mình mê ngủ, nhưng mình dậy sớm để tập thể dục.",
+        "blanks": [
+          { "type": "knowledge", "answer": "at", "explanationVi": "Dùng giới từ 'at' với giờ cụ thể (at six o'clock, at 7 a.m.). Nhớ: at + giờ, on + ngày, in + buổi/tháng/năm." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's impressive! After you exercise, what do you do next?",
+        "ipa": "/ðæts ɪmˈpres.ɪv ˈɑːf.tə juː ˈek.sə.saɪz wɒt duː juː duː nekst/",
+        "vi": "Ấn tượng đấy! Sau khi tập xong thì cậu làm gì tiếp theo?"
+      },
+      {
+        "speaker": "Người bạn",
+        "text": "First I take a quick shower, ____ I have breakfast with my family. We usually eat together because mornings are the only quiet time we have.",
+        "ipa": "/fɜːst aɪ teɪk ə kwɪk ˈʃaʊə ... aɪ hæv ˈbrek.fəst wɪð maɪ ˈfæm.ɪ.li wiː ˈjuː.ʒu.ə.li iːt təˈɡeð.ə bɪˈkɒz ˈmɔː.nɪŋz ɑː ði ˈəʊn.li ˈkwaɪ.ət taɪm wiː hæv/",
+        "vi": "Đầu tiên mình tắm nhanh, ____ mình ăn sáng với gia đình. Cả nhà thường ăn cùng nhau vì buổi sáng là khoảng thời gian yên tĩnh duy nhất mà bọn mình có.",
+        "blanks": [
+          { "type": "knowledge", "answer": "then", "explanationVi": "Dùng 'then' (= sau đó) để nối việc thứ hai trong chuỗi 'First..., then...'. Xem mẫu câu 'First I..., then I...'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds lovely. How do you ____ to work? My bus is always so crowded in the morning.",
+        "ipa": "/ðæt saʊndz ˈlʌv.li haʊ duː juː ... tə wɜːk maɪ bʌs ɪz ˈɔːl.weɪz səʊ ˈkraʊd.ɪd ɪn ðə ˈmɔː.nɪŋ/",
+        "vi": "Nghe dễ thương ghê. Cậu đi làm bằng cách nào? Xe buýt của mình buổi sáng lúc nào cũng đông nghẹt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "commute", "explanationVi": "Dùng động từ 'commute' = đi lại đều đặn giữa nhà và chỗ làm. 'How do you commute to work?' là cách hỏi rất tự nhiên." }
+        ]
+      },
+      {
+        "speaker": "Người bạn",
+        "text": "I usually ride my bike, which keeps me healthy. However, when it rains, I take the bus and I feel quite ____ by the time I arrive.",
+        "ipa": "/aɪ ˈjuː.ʒu.ə.li raɪd maɪ baɪk wɪtʃ kiːps miː ˈhel.θi haʊˈev.ə wen ɪt reɪnz aɪ teɪk ðə bʌs ænd aɪ fiːl kwaɪt ... baɪ ðə taɪm aɪ əˈraɪv/",
+        "vi": "Mình thường đạp xe, việc đó giúp mình khỏe mạnh. Tuy nhiên, khi trời mưa thì mình đi xe buýt và mình thấy khá ____ lúc tới nơi.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ chỉ cảm giác. Ví dụ: 'tired' (mệt), 'exhausted' (kiệt sức)." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I know that feeling! By the way, what do you usually do in the evening to relax?",
+        "ipa": "/aɪ nəʊ ðæt ˈfiː.lɪŋ baɪ ðə weɪ wɒt duː juː ˈjuː.ʒu.ə.li duː ɪn ði ˈiːv.nɪŋ tə rɪˈlæks/",
+        "vi": "Mình hiểu cảm giác đó mà! Tiện thể, buổi tối cậu thường làm gì để thư giãn vậy?"
+      },
+      {
+        "speaker": "Người bạn",
+        "text": "After dinner, I do the dishes, and then I usually ____ by reading a book or watching a show. I always go to bed early because I want to wake up fresh again.",
+        "ipa": "/ˈɑːf.tə ˈdɪn.ə aɪ duː ðə ˈdɪʃ.ɪz ænd ðen aɪ ˈjuː.ʒu.ə.li ... baɪ ˈriː.dɪŋ ə bʊk ɔː ˈwɒtʃ.ɪŋ ə ʃəʊ aɪ ˈɔːl.weɪz ɡəʊ tə bed ˈɜː.li bɪˈkɒz aɪ wɒnt tə weɪk ʌp freʃ əˈɡen/",
+        "vi": "Sau bữa tối, mình rửa bát, rồi mình thường ____ bằng cách đọc sách hoặc xem một chương trình. Mình luôn đi ngủ sớm vì mình muốn sáng mai lại tỉnh táo.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ chỉ việc nghỉ ngơi. Ví dụ: 'relax' (thư giãn), 'unwind' (xả hơi)." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, bữa tối (dinner) là bữa chính cả nhà quây quần, khác với văn hóa Á Đông coi trọng cả bữa trưa.",
+    "Câu hỏi 'How was your day?' (Hôm nay của bạn thế nào?) là cách mở đầu trò chuyện thân mật rất phổ biến trong gia đình mỗi tối.",
+    "Người bản xứ thường dùng giờ 12 tiếng kèm 'a.m./p.m.' (7 a.m.) thay vì giờ 24 tiếng khi nói chuyện thường ngày.",
+    "Việc chia sẻ và phân công việc nhà (chores) giữa các thành viên được xem là bình thường và công bằng, kể cả với trẻ em."
+  ],
+
+  "commonMistakes": [
+    "Đặt sai vị trí trạng từ tần suất: phải nói 'I usually wake up...', không phải 'I wake up usually...'.",
+    "Quên thêm 's' ở ngôi thứ ba số ít: 'She wakes up at six', không phải 'She wake up'.",
+    "Dùng sai giới từ thời gian: 'at 6 o'clock', 'in the morning', 'on Monday' — at + giờ, in + buổi, on + ngày.",
+    "Nói 'eat breakfast' thì được, nhưng tự nhiên hơn là 'have breakfast'; và không thêm mạo từ ('have breakfast', không 'have a breakfast')."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về sinh hoạt hằng ngày như trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện với tôi về thói quen hằng ngày. Hãy hỏi tôi từng câu một (mấy giờ thức dậy, ăn sáng, đi làm/đi học thế nào, buổi tối làm gì). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng trạng từ tần suất (always, usually, sometimes) và nối câu bằng 'first, then, after that'. Hãy dùng câu đơn giản, nói chậm rãi, thân thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm câu hỏi vì sao (Why?) để tôi tập trả lời dài hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi kể được ít nhất 5 việc làm hằng ngày bằng thì hiện tại đơn.",
+    "Tôi đặt đúng vị trí các trạng từ tần suất (always, usually, sometimes).",
+    "Tôi nối được các việc theo trình tự bằng 'first, then, after that'."
+  ]
+}

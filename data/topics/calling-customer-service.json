@@ -1,0 +1,359 @@
+{
+  "id": "calling-customer-service",
+  "category": "services",
+  "title": "Gọi tổng đài CSKH",
+  "titleEn": "Calling Customer Service",
+  "level": "B2",
+  "functions": ["complaining", "handling-problems", "requesting", "asking-info"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trình bày một sự cố với sản phẩm/dịch vụ bằng câu dài, rõ ràng và lịch sự",
+    "Cung cấp thông tin tài khoản/đơn hàng để được hỗ trợ nhanh",
+    "Phàn nàn một cách kiên quyết nhưng nhã nhặn và đề nghị giải pháp (hoàn tiền, đổi hàng, miễn phí)",
+    "Dùng ngữ pháp nâng cao (despite, although, in order to, mệnh đề quan hệ which/who) tự nhiên khi nói",
+    "Xác nhận lại các bước xử lý và yêu cầu mã tham chiếu để theo dõi"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "complaint",
+      "ipa": "/kəmˈpleɪnt/",
+      "vi": "lời phàn nàn / khiếu nại (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make a complaint about a faulty product I received.",
+      "exampleVi": "Tôi muốn khiếu nại về một sản phẩm bị lỗi mà tôi nhận được.",
+      "note": "Danh từ. Cụm cố định: 'to make / file / lodge a complaint'. Động từ là 'to complain about something'.",
+      "synonyms": [
+        { "term": "grievance", "ipa": "/ˈɡriː.vəns/", "register": "formal", "nuanceVi": "Trang trọng/pháp lý, chỉ một bất bình nghiêm trọng được nêu chính thức. Dùng trong văn bản hơn là gọi điện thường ngày." },
+        { "term": "issue", "ipa": "/ˈɪʃ.uː/", "register": "neutral", "nuanceVi": "Nhẹ và trung tính hơn, nghĩa 'vấn đề'. Nói 'I'm having an issue with…' nghe ít gay gắt hơn 'complaint'." }
+      ]
+    },
+    {
+      "term": "refund",
+      "ipa": "/ˈriː.fʌnd/",
+      "vi": "việc hoàn tiền (danh từ) / hoàn tiền (động từ)",
+      "register": "neutral",
+      "example": "I'd like a full refund since the item arrived damaged.",
+      "exampleVi": "Tôi muốn được hoàn tiền đầy đủ vì món hàng đến nơi đã bị hỏng.",
+      "note": "Danh từ nhấn 'RE-fund', động từ nhấn 're-FUND'. Cụm: 'a full / partial refund'; 'to issue a refund'.",
+      "synonyms": [
+        { "term": "reimbursement", "ipa": "/ˌriː.ɪmˈbɜːs.mənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'hoàn lại khoản tiền bạn đã chi'. Hay dùng cho chi phí, không chỉ giá sản phẩm." },
+        { "term": "money back", "ipa": "/ˈmʌn.i bæk/", "register": "casual", "nuanceVi": "Đời thường, dễ hiểu: 'I just want my money back.' Nghe kém trang trọng hơn 'refund'." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, hỏng (tính từ)",
+      "register": "neutral",
+      "example": "The charger was faulty, so it stopped working after two days.",
+      "exampleVi": "Cái sạc bị lỗi nên nó ngừng hoạt động sau hai ngày.",
+      "note": "Tính từ, mô tả sản phẩm có khiếm khuyết kỹ thuật. Trang trọng hơn 'broken' một chút.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'có khuyết tật từ khi sản xuất'. Hay dùng trong điều khoản bảo hành." },
+        { "term": "malfunctioning", "ipa": "/ˌmælˈfʌŋk.ʃən.ɪŋ/", "register": "formal", "nuanceVi": "Nhấn 'đang chạy sai/trục trặc', thiên về thiết bị điện tử đang hoạt động không đúng." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hỏng hẳn, vỡ'. Nghe ít chuyên nghiệp hơn khi gọi tổng đài." }
+      ]
+    },
+    {
+      "term": "to resolve",
+      "ipa": "/rɪˈzɒlv/",
+      "vi": "giải quyết (sự cố, khiếu nại) (động từ)",
+      "register": "formal",
+      "example": "I'm confident we can resolve this issue today.",
+      "exampleVi": "Tôi tin chúng ta có thể giải quyết vấn đề này ngay hôm nay.",
+      "note": "Động từ trang trọng, đi với 'issue / problem / complaint'. Mạnh và chuyên nghiệp hơn 'fix'.",
+      "synonyms": [
+        { "term": "to settle", "ipa": "/ˈset.əl/", "register": "neutral", "nuanceVi": "Nhấn 'dàn xếp ổn thỏa', hay dùng cho tranh chấp/hóa đơn (settle a dispute / an account)." },
+        { "term": "to sort out", "ipa": "/sɔːt aʊt/", "register": "casual", "nuanceVi": "Cụm động từ đời thường (Anh-Anh hay dùng): 'Let me sort this out for you.' Thân thiện, ít trang trọng hơn." }
+      ]
+    },
+    {
+      "term": "warranty",
+      "ipa": "/ˈwɒr.ən.ti/",
+      "vi": "bảo hành (danh từ)",
+      "register": "neutral",
+      "example": "The product is still under warranty, so the repair should be free.",
+      "exampleVi": "Sản phẩm vẫn còn trong thời hạn bảo hành nên việc sửa chữa lẽ ra phải miễn phí.",
+      "note": "Cụm cốt lõi: 'under warranty' (còn bảo hành), 'the warranty has expired' (hết hạn bảo hành).",
+      "synonyms": [
+        { "term": "guarantee", "ipa": "/ˌɡær.ənˈtiː/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhưng 'guarantee' thiên về lời cam kết của hãng (money-back guarantee), còn 'warranty' là cam kết sửa/đổi trong một thời hạn cụ thể." }
+      ]
+    },
+    {
+      "term": "inconvenience",
+      "ipa": "/ˌɪn.kənˈviː.ni.əns/",
+      "vi": "sự bất tiện, phiền toái (danh từ)",
+      "register": "formal",
+      "example": "I do apologise for the inconvenience this has caused you.",
+      "exampleVi": "Tôi thực sự xin lỗi vì sự bất tiện mà việc này đã gây ra cho quý khách.",
+      "note": "Câu kinh điển của nhân viên CSKH: 'Sorry for the inconvenience'. Phát âm bẫy: trọng âm rơi vào 'ven'.",
+      "synonyms": [
+        { "term": "trouble", "ipa": "/ˈtrʌb.əl/", "register": "neutral", "nuanceVi": "Đời thường hơn: 'Sorry for the trouble.' Nhẹ nhàng, dùng được trong cả ngữ cảnh thân mật." },
+        { "term": "hassle", "ipa": "/ˈhæs.əl/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'rắc rối lằng nhằng, mệt mỏi'. Hợp khi than phiền thân mật, không hợp văn bản trang trọng." }
+      ]
+    },
+    {
+      "term": "to escalate",
+      "ipa": "/ˈes.kə.leɪt/",
+      "vi": "chuyển lên cấp cao hơn (để xử lý) (động từ)",
+      "register": "formal",
+      "example": "If this can't be solved now, I'd like to escalate the matter to a manager.",
+      "exampleVi": "Nếu việc này không thể xử lý ngay, tôi muốn chuyển vấn đề lên cho quản lý.",
+      "note": "Động từ chuyên dùng trong dịch vụ khách hàng: đẩy vụ việc lên bộ phận/cấp cao hơn. Đi với 'escalate to somebody'.",
+      "synonyms": [
+        { "term": "to refer", "ipa": "/rɪˈfɜː/", "register": "formal", "nuanceVi": "Nhấn 'chuyển/giới thiệu cho người có thẩm quyền'. 'Refer it to a supervisor' nghe trung tính, ít gay gắt hơn 'escalate'." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, không chậm trễ (trạng từ)",
+      "register": "formal",
+      "example": "I'd appreciate it if the matter could be dealt with promptly.",
+      "exampleVi": "Tôi sẽ rất cảm kích nếu vấn đề được xử lý nhanh chóng.",
+      "note": "Trạng từ trang trọng, nhấn 'đúng lúc, không trì hoãn'. Nghe lịch sự hơn 'quickly' khi yêu cầu xử lý.",
+      "synonyms": [
+        { "term": "swiftly", "ipa": "/ˈswɪft.li/", "register": "formal", "nuanceVi": "Nhấn 'nhanh và mượt'. Hơi văn vẻ, tạo cảm giác hiệu quả." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'ngay lập tức'. Dễ dùng khi nói chuyện bình thường." }
+      ]
+    },
+    {
+      "term": "reference number",
+      "ipa": "/ˈref.rəns ˈnʌm.bə/",
+      "vi": "mã tham chiếu (để theo dõi yêu cầu) (danh từ)",
+      "register": "neutral",
+      "example": "Could you give me a reference number so I can follow up later?",
+      "exampleVi": "Anh/chị cho tôi mã tham chiếu để tôi tiện theo dõi sau được không?",
+      "note": "Cụm cố định, không cần synonyms. Còn gọi là 'case number' hoặc 'ticket number'.",
+      "synonyms": [
+        { "term": "case number", "ipa": "/keɪs ˈnʌm.bə/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn 'mã của vụ việc đang mở'. Hay gặp ở dịch vụ hỗ trợ kỹ thuật." }
+      ]
+    },
+    {
+      "term": "frustrating",
+      "ipa": "/frʌsˈtreɪ.tɪŋ/",
+      "vi": "gây bực bội, ức chế (tính từ)",
+      "register": "neutral",
+      "example": "It's quite frustrating that this is the third time I've had to call.",
+      "exampleVi": "Thật bực mình khi đây đã là lần thứ ba tôi phải gọi điện.",
+      "note": "Tính từ -ing mô tả sự việc gây cảm giác; còn 'frustrated' (-ed) mô tả người cảm thấy bực. Đừng nhầm hai dạng này.",
+      "synonyms": [
+        { "term": "annoying", "ipa": "/əˈnɔɪ.ɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'khó chịu, phiền'. 'Frustrating' nặng hơn, hàm ý bế tắc dù đã cố." },
+        { "term": "exasperating", "ipa": "/ɪɡˈzɑː.spə.reɪ.tɪŋ/", "register": "formal", "nuanceVi": "Rất mạnh và văn vẻ, nghĩa 'làm phát điên'. Dùng khi muốn nhấn cực độ một cách lịch sự." }
+      ]
+    },
+    {
+      "term": "to look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "vi": "xem xét, điều tra (vấn đề) (động từ)",
+      "register": "neutral",
+      "example": "Let me look into this for you and see what went wrong.",
+      "exampleVi": "Để tôi xem xét việc này cho quý khách và tìm xem đã có gì sai sót.",
+      "note": "Cụm động từ rất thông dụng trong CSKH, nghĩa 'tìm hiểu kỹ nguyên nhân'. Đi với 'look into something'.",
+      "synonyms": [
+        { "term": "to investigate", "ipa": "/ɪnˈves.tɪ.ɡeɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'điều tra bài bản'. Hơi nặng so với cuộc gọi thường ngày." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm calling to [động từ] regarding [vấn đề / đơn hàng].",
+      "use": "Mở đầu cuộc gọi, nêu ngay lý do gọi một cách rõ ràng.",
+      "register": "formal",
+      "examples": [
+        "I'm calling to report a problem regarding an order I placed last week.",
+        "I'm calling to follow up regarding a refund that hasn't been processed yet."
+      ],
+      "explanationVi": "'regarding' (= về việc) là cách nói trang trọng, gọn gàng hơn 'about'. Mẫu này giúp nhân viên nắm vấn đề ngay từ câu đầu, tránh lan man.",
+      "altOf": "stating-reason"
+    },
+    {
+      "pattern": "The reason I'm calling is that [mệnh đề].",
+      "use": "Nêu lý do gọi bằng một mệnh đề đầy đủ, nhấn mạnh nội dung.",
+      "register": "neutral",
+      "examples": [
+        "The reason I'm calling is that the product I received last Tuesday is faulty.",
+        "The reason I'm calling is that I was charged twice for the same order."
+      ],
+      "explanationVi": "Dùng khi bạn cần giải thích dài hơn một dòng. 'is that + mệnh đề' cho phép bạn kể trọn câu chuyện, tự nhiên hơn là chỉ nêu một cụm danh từ.",
+      "altOf": "stating-reason"
+    },
+    {
+      "pattern": "Although [mệnh đề], the problem still hasn't been resolved.",
+      "use": "Phàn nàn rằng dù đã có nỗ lực/lời hứa, vấn đề vẫn chưa xong.",
+      "register": "neutral",
+      "examples": [
+        "Although I was promised a replacement last week, the problem still hasn't been resolved.",
+        "Although I followed all the instructions, the device still isn't working."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). Cấu trúc này thể hiện bạn đã hợp tác/kiên nhẫn, nhờ vậy lời phàn nàn nghe chính đáng chứ không gắt gỏng vô cớ.",
+      "altOf": "polite-complaint"
+    },
+    {
+      "pattern": "I do understand it's not your fault, but I'd appreciate it if you could [động từ].",
+      "use": "Phàn nàn lịch sự nhưng kiên quyết, vẫn giữ thiện chí với nhân viên.",
+      "register": "formal",
+      "examples": [
+        "I do understand it's not your fault, but I'd appreciate it if you could escalate this to a manager.",
+        "I do understand it's not your fault, but I'd appreciate it if you could process the refund today."
+      ],
+      "explanationVi": "'do understand' (trợ động từ 'do' nhấn mạnh) cho thấy bạn thông cảm; 'I'd appreciate it if you could…' là cách đề nghị lịch sự bậc cao. Bộ đôi này giúp bạn cứng rắn mà không thô lỗ.",
+      "altOf": "polite-complaint"
+    },
+    {
+      "pattern": "Would it be possible to [động từ] in order to [mục đích]?",
+      "use": "Đề nghị một giải pháp cụ thể và nêu rõ mục đích.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to send a replacement in order to avoid further delay?",
+        "Would it be possible to waive the fee in order to make up for the inconvenience?"
+      ],
+      "explanationVi": "'Would it be possible to…?' là đề nghị nhã nhặn khi xin một đặc ân; 'in order to + V' nêu mục đích trang trọng (= để mà). Nêu rõ mục đích giúp yêu cầu của bạn nghe hợp lý hơn.",
+      "altOf": "requesting-solution"
+    },
+    {
+      "pattern": "Just to confirm, you'll [động từ], and I'll receive [kết quả] by [thời điểm], is that correct?",
+      "use": "Xác nhận lại các bước xử lý trước khi kết thúc cuộc gọi.",
+      "register": "neutral",
+      "examples": [
+        "Just to confirm, you'll issue a full refund, and I'll receive it within five working days, is that correct?",
+        "Just to confirm, you'll send a technician tomorrow, and I'll get a reference number by email, is that correct?"
+      ],
+      "explanationVi": "'Just to confirm' mở đầu phần tóm tắt thỏa thuận. Việc nhắc lại bằng thì tương lai ('you'll…', 'I'll…') rồi hỏi 'is that correct?' giúp tránh hiểu lầm và có bằng chứng nếu cần khiếu nại tiếp."
+    },
+    {
+      "pattern": "Could you give me a reference number so that I can [động từ]?",
+      "use": "Xin mã tham chiếu để theo dõi/khiếu nại tiếp về sau.",
+      "register": "neutral",
+      "examples": [
+        "Could you give me a reference number so that I can follow up if necessary?",
+        "Could you give me a reference number so that I can track the progress online?"
+      ],
+      "explanationVi": "'so that I can + V' nêu mục đích của yêu cầu (= để tôi có thể…). Luôn xin reference number trước khi gác máy — đây là thói quen quan trọng để bảo vệ quyền lợi."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời phàn nàn chân thành nhưng vẫn lịch sự.", "example": "Honestly, this is the third time I've had to call about the same issue." },
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "có vẻ như / nghe nói là", "when": "Thuật lại điều người khác đã nói mà bạn chưa chắc chắn.", "example": "Apparently, my order was shipped, but it never arrived." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là / không may là", "when": "Dẫn vào một thông tin/kết quả không như mong muốn một cách nhẹ nhàng.", "example": "Unfortunately, the replacement you sent was also faulty." },
+    { "term": "in that case", "ipa": "/ɪn ðæt keɪs/", "vi": "nếu vậy thì / trong trường hợp đó", "when": "Phản ứng theo điều kiện vừa được nghe, dẫn vào đề nghị tiếp theo.", "example": "In that case, I'd like to request a full refund instead." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói cho công bằng thì", "when": "Thừa nhận một điểm hợp lý của bên kia để giữ giọng điệu ôn hòa.", "example": "To be fair, your staff have always been very polite, but the product itself keeps failing." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gọi đến tổng đài chăm sóc khách hàng của một cửa hàng điện tử trực tuyến vì chiếc tai nghe bạn mua bị lỗi, và lần đổi hàng trước cũng không giải quyết được. Bạn muốn phàn nàn lịch sự nhưng kiên quyết và yêu cầu hoàn tiền.",
+    "lines": [
+      {
+        "speaker": "Tổng đài viên",
+        "text": "Good morning, thank you for calling TechWave Support. My name is Laura. How may I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ θæŋk juː fɔː ˈkɔː.lɪŋ tekweɪv səˈpɔːt maɪ neɪm ɪz ˈlɔː.rə haʊ meɪ aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, cảm ơn quý khách đã gọi đến Bộ phận Hỗ trợ TechWave. Tôi là Laura. Hôm nay tôi có thể giúp gì cho quý khách ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Laura. I'm calling to report a problem ____ a pair of headphones I bought last month, which stopped working after only a week despite being used carefully.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈlɔː.rə aɪm ˈkɔː.lɪŋ tə rɪˈpɔːt ə ˈprɒb.ləm ... ə peər əv ˈhed.fəʊnz aɪ bɔːt lɑːst mʌnθ wɪtʃ stɒpt ˈwɜː.kɪŋ ˈɑːf.tə ˈəʊn.li ə wiːk dɪsˈpaɪt ˈbiːɪŋ juːzd ˈkeə.fəl.i/",
+        "vi": "Chào buổi sáng, Laura. Tôi gọi để báo một vấn đề ____ một chiếc tai nghe tôi mua tháng trước, nó đã ngừng hoạt động chỉ sau một tuần dù tôi đã dùng rất cẩn thận.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "regarding",
+            "explanationVi": "Dùng 'regarding' (= về việc) để nối lý do gọi một cách trang trọng, gọn hơn 'about'. Xem mẫu câu 'I'm calling to… regarding…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài viên",
+        "text": "I'm sorry to hear that. To pull up your account, could you give me your order number and the email address you used to place the order?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪə ðæt tə pʊl ʌp jɔːr əˈkaʊnt kʊd juː ɡɪv miː jɔːr ˈɔː.də ˈnʌm.bə ænd ði ˈiː.meɪl əˈdres juː juːzd tə pleɪs ði ˈɔː.də/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Để tra cứu tài khoản của quý khách, anh/chị cho tôi xin số đơn hàng và địa chỉ email đã dùng để đặt hàng được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. My order number is ____, and the email I used is ____. Honestly, this is rather frustrating, because although I was sent a replacement last week, it turned out to be faulty as well.",
+        "ipa": "/əv kɔːs maɪ ˈɔː.də ˈnʌm.bə ɪz ... ænd ði ˈiː.meɪl aɪ juːzd ɪz ... ˈɒn.ɪst.li ðɪs ɪz ˈrɑː.ðə frʌsˈtreɪ.tɪŋ bɪˈkɒz ɔːlˈðəʊ aɪ wɒz sent ə rɪˈpleɪs.mənt lɑːst wiːk ɪt tɜːnd aʊt tə biː ˈfɔːl.ti əz wel/",
+        "vi": "Tất nhiên rồi. Số đơn hàng của tôi là ____, và email tôi dùng là ____. Thành thật mà nói, việc này khá bực bội, vì mặc dù tuần trước đã được gửi hàng đổi, nó hóa ra cũng bị lỗi.",
+        "blanks": [
+          { "type": "personal", "hint": "Số đơn hàng của bạn. Ví dụ: 'TW-48217'." },
+          { "type": "personal", "hint": "Email bạn dùng để đặt hàng. Ví dụ: 'nam.tran@email.com'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài viên",
+        "text": "I do apologise for the inconvenience. I can see both records here. Let me look into this so that I can find the best solution for you.",
+        "ipa": "/aɪ duː əˈpɒl.ə.dʒaɪz fɔː ði ˌɪn.kənˈviː.ni.əns aɪ kæn siː bəʊθ ˈrek.ɔːdz hɪə let miː lʊk ˈɪn.tuː ðɪs səʊ ðæt aɪ kæn faɪnd ðə best səˈluː.ʃən fɔː juː/",
+        "vi": "Tôi thành thật xin lỗi vì sự bất tiện này. Tôi thấy cả hai hồ sơ ở đây rồi. Để tôi xem xét việc này để tìm ra giải pháp tốt nhất cho quý khách."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate that. I do understand it's not your fault, but I'd rather not wait for another replacement. Would it be possible to issue a full refund ____ to avoid any further delay?",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt aɪ duː ˌʌn.dəˈstænd ɪts nɒt jɔː fɔːlt bʌt aɪd ˈrɑː.ðə nɒt weɪt fɔːr əˈnʌð.ə rɪˈpleɪs.mənt wʊd ɪt biː ˈpɒs.ə.bəl tə ˈɪʃ.uː ə fʊl ˈriː.fʌnd ... tə əˈvɔɪd ˈen.i ˈfɜː.ðə dɪˈleɪ/",
+        "vi": "Tôi cảm kích điều đó. Tôi hiểu đây không phải lỗi của bạn, nhưng tôi không muốn chờ thêm một lần đổi hàng nữa. Liệu có thể hoàn tiền đầy đủ ____ để tránh bị trễ thêm không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in order",
+            "explanationVi": "Hoàn chỉnh thành 'in order to + V' (= để mà), cách nêu mục đích trang trọng. Xem mẫu câu 'Would it be possible to… in order to…?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài viên",
+        "text": "Absolutely. Given the circumstances, a full refund is completely reasonable. I'll process it right away, and the amount will be returned to your card within five working days.",
+        "ipa": "/ˌæb.səˈluːt.li ˈɡɪv.ən ðə ˈsɜː.kəm.stæns.ɪz ə fʊl ˈriː.fʌnd ɪz kəmˈpliːt.li ˈriː.zən.ə.bəl aɪl ˈprəʊ.ses ɪt raɪt əˈweɪ ænd ði əˈmaʊnt wɪl biː rɪˈtɜːnd tə jɔː kɑːd wɪˈðɪn faɪv ˈwɜː.kɪŋ deɪz/",
+        "vi": "Hoàn toàn được ạ. Trong hoàn cảnh này, hoàn tiền đầy đủ là điều hoàn toàn hợp lý. Tôi sẽ xử lý ngay, và số tiền sẽ được hoàn về thẻ của quý khách trong vòng năm ngày làm việc."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a relief, thank you. Just to confirm, you'll issue a full refund, and I'll receive it within five working days. Could you also give me a reference number ____ that I can follow up if anything goes wrong?",
+        "ipa": "/ðæts ə rɪˈliːf θæŋk juː dʒʌst tə kənˈfɜːm juːl ˈɪʃ.uː ə fʊl ˈriː.fʌnd ænd aɪl rɪˈsiːv ɪt wɪˈðɪn faɪv ˈwɜː.kɪŋ deɪz kʊd juː ˈɔːl.səʊ ɡɪv miː ə ˈref.rəns ˈnʌm.bə ... ðæt aɪ kæn ˈfɒl.əʊ ʌp ɪf ˈen.i.θɪŋ ɡəʊz rɒŋ/",
+        "vi": "Thật nhẹ nhõm, cảm ơn bạn. Chỉ để xác nhận lại, bạn sẽ hoàn tiền đầy đủ, và tôi sẽ nhận được trong vòng năm ngày làm việc. Bạn cũng cho tôi xin một mã tham chiếu ____ tôi có thể theo dõi nếu có gì sai sót được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "so",
+            "explanationVi": "Hoàn chỉnh thành 'so that I can…' (= để tôi có thể…), nêu mục đích của yêu cầu. Xem mẫu câu 'Could you give me a reference number so that I can…?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tổng đài viên",
+        "text": "Of course. Your reference number is RF-90235. Once again, I'm very sorry for the trouble, and thank you for your patience throughout this process.",
+        "ipa": "/əv kɔːs jɔː ˈref.rəns ˈnʌm.bə ɪz ɑːr ef naɪn əʊ tuː θriː faɪv wʌns əˈɡen aɪm ˈver.i ˈsɒr.i fɔː ðə ˈtrʌb.əl ænd θæŋk juː fɔː jɔː ˈpeɪ.ʃəns θruːˈaʊt ðɪs ˈprəʊ.ses/",
+        "vi": "Tất nhiên rồi. Mã tham chiếu của quý khách là RF-90235. Một lần nữa, tôi rất xin lỗi vì sự phiền toái này, và cảm ơn quý khách đã kiên nhẫn trong suốt quá trình."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, giữ giọng điệu bình tĩnh và lịch sự thường giúp bạn được hỗ trợ tốt hơn là quát tháo. Nhân viên có nhiều quyền linh hoạt (đổi, hoàn, tặng ưu đãi) khi khách hợp tác.",
+    "Câu thần chú của tổng đài viên là 'Sorry for the inconvenience' và 'Thank you for your patience'. Đây là phép lịch sự công thức, không hẳn là thừa nhận lỗi.",
+    "Luôn xin và ghi lại reference number (case number) trước khi gác máy. Đây là bằng chứng để khiếu nại tiếp nếu lời hứa không được thực hiện.",
+    "Nếu nhân viên không giải quyết được, bạn có quyền lịch sự yêu cầu 'escalate to a supervisor/manager' — đây là việc rất bình thường và được chấp nhận."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'frustrating' (việc gây bực) với 'frustrated' (người cảm thấy bực): 'The situation is frustrating' nhưng 'I am frustrated'.",
+    "Quên 'to' trong 'in order to': phải nói 'in order TO avoid', không phải 'in order avoid'.",
+    "Phàn nàn quá gay gắt, trống không kiểu 'Give me my money back now!'. Hãy bọc bằng 'Would it be possible to…?' hoặc 'I'd appreciate it if you could…'.",
+    "Nói 'I want to complain about…' nghe hơi cộc. 'I'd like to make a complaint about…' hoặc 'I'm calling regarding…' lịch sự và tự nhiên hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi tổng đài CSKH như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài chăm sóc khách hàng nói tiếng Anh của một cửa hàng (tôi sẽ nêu sản phẩm/dịch vụ và sự cố). Hãy bắt đầu bằng câu chào chuẩn của tổng đài và hỏi lý do tôi gọi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên, lịch sự như một tổng đài viên thật (hỏi mã đơn hàng, xin lỗi, đề xuất giải pháp), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt lịch sự, chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'in order to', 'I'd appreciate it if you could…' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng tạo tình huống bất ngờ (sản phẩm hết bảo hành, không tìm thấy đơn hàng, phải chuyển lên quản lý) để tôi tập xử lý. Cuối buổi, hãy chấm điểm câu trả lời của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu chào nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một nhân viên cứng nhắc, ban đầu từ chối hoàn tiền, để tôi tập kiên trì thương lượng lịch sự.'",
+      "Thêm: 'Hãy nói nhanh hơn và dùng nhiều thuật ngữ dịch vụ hơn như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được lý do gọi bằng một câu dài, rõ ràng mà không nhìn gợi ý.",
+    "Tôi phàn nàn được một cách lịch sự nhưng kiên quyết và đề nghị được giải pháp (hoàn tiền/đổi hàng).",
+    "Tôi xác nhận lại các bước xử lý và xin được reference number trước khi kết thúc cuộc gọi."
+  ]
+}

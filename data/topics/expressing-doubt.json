@@ -1,0 +1,364 @@
+{
+  "id": "expressing-doubt",
+  "category": "advanced",
+  "title": "Bày tỏ hoài nghi",
+  "titleEn": "Expressing Doubt",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "negotiating"],
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Bày tỏ hoài nghi một cách tinh tế, không tỏ ra thô lỗ hay phủ định thẳng thừng",
+    "Phân biệt sắc thái giữa nghi ngờ nhẹ, ngờ vực rõ rệt và hoàn toàn không tin",
+    "Dùng idiom và collocation C1 (take with a pinch of salt, jury is still out) đúng ngữ cảnh",
+    "Lồng ngữ pháp nâng cao (mệnh đề nhượng bộ, đảo ngữ, mệnh đề quan hệ) khi tranh luận học thuật",
+    "Đổi register linh hoạt giữa trang trọng và thân mật tùy đối tượng nói chuyện"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "skepticism",
+      "ipa": "/ˈskep.tɪ.sɪ.zəm/",
+      "vi": "thái độ hoài nghi, sự ngờ vực (danh từ)",
+      "register": "formal",
+      "example": "Her claims were met with a fair degree of skepticism from the panel.",
+      "exampleVi": "Những tuyên bố của cô ấy vấp phải khá nhiều hoài nghi từ hội đồng.",
+      "note": "Danh từ trừu tượng. Tính từ là 'skeptical (about/of)'. Mang sắc thái 'chưa tin cho đến khi có bằng chứng', không nhất thiết tiêu cực.",
+      "synonyms": [
+        { "term": "incredulity", "ipa": "/ˌɪn.krəˈdjuː.lə.ti/", "register": "formal", "nuanceVi": "Trang trọng và mạnh hơn: 'không thể tin nổi', thường kèm cảm giác sửng sốt. Dùng khi điều nghe được quá khó tin." },
+        { "term": "misgivings", "ipa": "/ˌmɪsˈɡɪv.ɪŋz/", "register": "neutral", "nuanceVi": "Nhấn vào 'cảm giác lo ngại, e dè trong lòng' về một quyết định, luôn dùng số nhiều. Thiên về cảm xúc bất an hơn là lý trí phản biện." },
+        { "term": "reservations", "ipa": "/ˌrez.əˈveɪ.ʃənz/", "register": "neutral", "nuanceVi": "Nghĩa 'những điểm còn băn khoăn, chưa hoàn toàn tán thành'. Lịch sự, hay dùng trong họp hành: 'I have some reservations about...'." }
+      ]
+    },
+    {
+      "term": "dubious",
+      "ipa": "/ˈdjuː.bi.əs/",
+      "vi": "đáng ngờ, không đáng tin (tính từ)",
+      "register": "neutral",
+      "example": "I'm rather dubious about the figures they've presented.",
+      "exampleVi": "Tôi khá nghi ngờ về những con số họ đưa ra.",
+      "note": "Tính từ. 'dubious about something' = bản thân nghi ngờ; 'a dubious claim' = một tuyên bố đáng ngờ. Hai hướng nghĩa, để ý ngữ cảnh.",
+      "synonyms": [
+        { "term": "skeptical", "ipa": "/ˈskep.tɪ.kəl/", "register": "neutral", "nuanceVi": "Nhấn 'có xu hướng không tin cho đến khi được thuyết phục'. Trung tính, hay đi với 'about/of'." },
+        { "term": "questionable", "ipa": "/ˈkwes.tʃə.nə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào BẢN THÂN sự việc 'có vấn đề, cần đặt dấu hỏi' (questionable methods), không tả cảm giác người nói." },
+        { "term": "fishy", "ipa": "/ˈfɪʃ.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'có gì đó mờ ám, không ổn'. Hợp lúc nói thân mật: 'Something sounds fishy.'" }
+      ]
+    },
+    {
+      "term": "to cast doubt on",
+      "ipa": "/kɑːst daʊt ɒn/",
+      "vi": "gieo nghi ngờ về, làm lung lay niềm tin vào (cụm động từ)",
+      "register": "formal",
+      "example": "The new evidence casts serious doubt on the original verdict.",
+      "exampleVi": "Bằng chứng mới gieo nghi ngờ nghiêm trọng về phán quyết ban đầu.",
+      "note": "Cụm động từ trang trọng. Có thể chèn tính từ: 'cast serious/considerable doubt on'. Chủ ngữ thường là bằng chứng/phát hiện, không phải con người.",
+      "synonyms": [
+        { "term": "to call into question", "ipa": "/kɔːl ˈɪn.tə ˈkwes.tʃən/", "register": "formal", "nuanceVi": "Gần như đồng nghĩa, nhấn 'đặt lại vấn đề, khiến điều gì cần được xem xét lại'. Hay dùng trong văn viết học thuật." },
+        { "term": "to undermine", "ipa": "/ˌʌn.dəˈmaɪn/", "register": "formal", "nuanceVi": "Mạnh hơn: 'làm suy yếu dần dần từ bên trong'. Nhấn quá trình bào mòn niềm tin/uy tín, không chỉ là gieo nghi ngờ." }
+      ]
+    },
+    {
+      "term": "plausible",
+      "ipa": "/ˈplɔː.zə.bəl/",
+      "vi": "nghe có vẻ hợp lý, có vẻ đáng tin (tính từ)",
+      "register": "neutral",
+      "example": "That's a plausible explanation, but I'd still like to see the data.",
+      "exampleVi": "Đó là một lời giải thích nghe có vẻ hợp lý, nhưng tôi vẫn muốn xem dữ liệu.",
+      "note": "Tính từ. Sắc thái tinh tế: 'nghe thì hợp lý' nhưng chưa chắc đúng — thường ngầm để ngỏ sự nghi ngờ. Trái nghĩa: 'implausible'.",
+      "synonyms": [
+        { "term": "credible", "ipa": "/ˈkred.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'đáng tin, đủ vững để tin được'. Mạnh hơn plausible (vốn mới chỉ 'nghe lọt tai')." },
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'có sức thuyết phục, khiến người ta tin'. Thiên về hiệu quả tác động lên người nghe." }
+      ]
+    },
+    {
+      "term": "far-fetched",
+      "ipa": "/ˌfɑːˈfetʃt/",
+      "vi": "khó tin, gượng ép, xa rời thực tế (tính từ)",
+      "register": "neutral",
+      "example": "His theory sounds a bit far-fetched, if you ask me.",
+      "exampleVi": "Lý thuyết của anh ta nghe hơi khó tin, nếu hỏi tôi.",
+      "note": "Tính từ ghép. Mô tả một ý tưởng/giải thích bị 'kéo từ quá xa', thiếu cơ sở thực tế. Hay đi với 'a bit / rather / somewhat' để giảm nhẹ.",
+      "synonyms": [
+        { "term": "implausible", "ipa": "/ɪmˈplɔː.zə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'khó mà tin được, thiếu hợp lý'. Trung tính về phong cách, hợp văn viết." },
+        { "term": "unlikely", "ipa": "/ʌnˈlaɪk.li/", "register": "neutral", "nuanceVi": "Nhẹ nhất, nghĩa 'ít khả năng xảy ra'. Không hàm ý 'gượng ép, vô lý' như far-fetched." }
+      ]
+    },
+    {
+      "term": "to suspect",
+      "ipa": "/səˈspekt/",
+      "vi": "ngờ rằng, cho rằng (mà chưa chắc chắn) (động từ)",
+      "register": "neutral",
+      "example": "I suspect there's more to this story than they're letting on.",
+      "exampleVi": "Tôi ngờ rằng câu chuyện này còn nhiều điều hơn họ đang để lộ.",
+      "note": "Động từ. 'suspect (that) + mệnh đề' = nghiêng về tin điều gì đó dù chưa có bằng chứng đầy đủ. Danh từ trùng dạng: 'a suspect' (nghi phạm) nhưng trọng âm trước.",
+      "synonyms": [
+        { "term": "to doubt", "ipa": "/daʊt/", "register": "neutral", "nuanceVi": "Hướng ngược lại: 'không tin rằng'. 'I doubt that he'll come' = tôi e là anh ấy không đến. Chú ý chữ 'b' câm." },
+        { "term": "to suppose", "ipa": "/səˈpəʊz/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'đoán chừng, cho là'. Không mang sắc thái ngờ vực như suspect." }
+      ]
+    },
+    {
+      "term": "unconvinced",
+      "ipa": "/ˌʌn.kənˈvɪnst/",
+      "vi": "chưa bị thuyết phục, vẫn còn nghi (tính từ)",
+      "register": "neutral",
+      "example": "I remain unconvinced that the policy will actually work.",
+      "exampleVi": "Tôi vẫn chưa bị thuyết phục rằng chính sách đó sẽ thực sự hiệu quả.",
+      "note": "Tính từ. Cách bày tỏ hoài nghi rất lịch sự: thay vì nói 'sai', bạn nói 'tôi chưa được thuyết phục'. Hay đi với 'remain / still'.",
+      "synonyms": [
+        { "term": "doubtful", "ipa": "/ˈdaʊt.fəl/", "register": "neutral", "nuanceVi": "Nhấn 'bản thân thấy ngờ ngợ, không chắc'. 'I'm doubtful about...' nghiêng về cảm giác cá nhân." },
+        { "term": "not entirely sold (on)", "ipa": "/nɒt ɪnˈtaɪə.li səʊld/", "register": "casual", "nuanceVi": "Idiom đời thường: 'chưa hoàn toàn bị thuyết phục/'mua' ý đó'. Hợp nói chuyện thân mật, nghe rất tự nhiên." }
+      ]
+    },
+    {
+      "term": "presumably",
+      "ipa": "/prɪˈzjuː.mə.bli/",
+      "vi": "có lẽ là, đoán chừng (trạng từ)",
+      "register": "neutral",
+      "example": "Presumably they tested it, although the report doesn't say so.",
+      "exampleVi": "Đoán chừng là họ đã kiểm nghiệm, mặc dù báo cáo không nói vậy.",
+      "note": "Trạng từ. Dùng khi suy đoán điều có vẻ đúng nhưng chưa được xác nhận — ngầm để ngỏ khả năng mình sai.",
+      "synonyms": [
+        { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "register": "neutral", "nuanceVi": "Nhấn 'theo như người ta nói, nhưng tôi không chắc/hơi nghi'. Sắc thái ngờ vực rõ hơn presumably." },
+        { "term": "allegedly", "ipa": "/əˈledʒ.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng, kiểu pháp lý/báo chí: 'bị cho là, theo cáo buộc nhưng chưa được chứng minh'. Hay dùng để tránh khẳng định trách nhiệm." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑː.ɡju.ə.bli/",
+      "vi": "có thể lập luận rằng, có lẽ (một cách có cơ sở) (trạng từ)",
+      "register": "formal",
+      "example": "Arguably, the study's sample was simply too small to draw any firm conclusions.",
+      "exampleVi": "Có thể lập luận rằng mẫu nghiên cứu đơn giản là quá nhỏ để rút ra kết luận chắc chắn.",
+      "note": "Trạng từ C1 rất 'sang'. Dùng để đưa ra một nhận định có thể tranh cãi nhưng có lý lẽ — vừa quyết đoán vừa chừa đường lui.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'trên lý thuyết là có thể hình dung được'. Thiên về khả năng giả định, nhẹ hơn arguably." }
+      ]
+    },
+    {
+      "term": "to take something with a pinch of salt",
+      "ipa": "/teɪk ˈsʌm.θɪŋ wɪð ə pɪntʃ əv sɔːlt/",
+      "vi": "tiếp nhận điều gì một cách dè dặt, đừng tin vội (thành ngữ)",
+      "register": "casual",
+      "example": "I'd take those online reviews with a pinch of salt if I were you.",
+      "exampleVi": "Nếu là cậu thì tôi sẽ tiếp nhận mấy đánh giá trên mạng đó một cách dè dặt thôi.",
+      "note": "Thành ngữ. Bản Mỹ là 'with a grain of salt'. Nghĩa: đừng tin hoàn toàn, hãy giữ một chút hoài nghi.",
+      "synonyms": [
+        { "term": "to take with a grain of salt", "ipa": "/teɪk wɪð ə ɡreɪn əv sɔːlt/", "register": "casual", "nuanceVi": "Biến thể Anh-Mỹ của cùng thành ngữ, nghĩa y hệt. Người Mỹ dùng 'grain', người Anh dùng 'pinch'." }
+      ]
+    },
+    {
+      "term": "the jury is still out",
+      "ipa": "/ðə ˈdʒʊə.ri ɪz stɪl aʊt/",
+      "vi": "vẫn chưa ngã ngũ, chưa thể kết luận (thành ngữ)",
+      "register": "neutral",
+      "example": "The jury is still out on whether the new method is genuinely more effective.",
+      "exampleVi": "Vẫn chưa ngã ngũ liệu phương pháp mới có thực sự hiệu quả hơn hay không.",
+      "note": "Thành ngữ (ẩn dụ bồi thẩm đoàn còn đang nghị án). Dùng để nói một vấn đề còn đang tranh cãi, chưa có kết luận dứt khoát."
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "thuyết phục mạnh mẽ, không thể chối cãi (tính từ)",
+      "register": "formal",
+      "example": "Until I see compelling evidence, I'll reserve my judgment.",
+      "exampleVi": "Cho đến khi thấy bằng chứng thuyết phục, tôi sẽ tạm chưa đưa ra phán xét.",
+      "note": "Tính từ. Mạnh hơn 'convincing': sức thuyết phục đến mức cuốn người ta phải tin. Hay dùng ngược lại để bày tỏ hoài nghi: 'I don't find that compelling.'",
+      "synonyms": [
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn vào kỹ năng/cách trình bày khéo khiến người ta xuôi theo, thiên về lập luận. Nhẹ hơn compelling." },
+        { "term": "irrefutable", "ipa": "/ˌɪr.ɪˈfjuː.tə.bəl/", "register": "formal", "nuanceVi": "Mạnh nhất: 'không thể bác bỏ được'. Dùng cho bằng chứng/lập luận chắc như đinh đóng cột." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm not entirely convinced that [mệnh đề].",
+      "use": "Bày tỏ hoài nghi một cách nhã nhặn mà không phủ định thẳng.",
+      "register": "neutral",
+      "examples": [
+        "I'm not entirely convinced that the results are as reliable as they claim.",
+        "I'm not entirely convinced that this approach will scale."
+      ],
+      "explanationVi": "'not entirely convinced' nghĩa là 'chưa hẳn bị thuyết phục' — cực kỳ lịch sự, để ngỏ khả năng đối phương đúng. 'entirely' làm câu mềm đi, tránh đối đầu.",
+      "altOf": "voicing-doubt"
+    },
+    {
+      "pattern": "I have my doubts about [danh từ / V-ing], to be honest.",
+      "use": "Nêu sự nghi ngờ cá nhân về một ý tưởng/kế hoạch cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "I have my doubts about whether the timeline is realistic, to be honest.",
+        "I have my doubts about relying solely on that single study."
+      ],
+      "explanationVi": "'have my doubts about' là collocation cố định để bày tỏ hoài nghi. 'to be honest' thêm vào để câu nghe chân thành, bớt gay gắt.",
+      "altOf": "voicing-doubt"
+    },
+    {
+      "pattern": "That sounds plausible, but I'd take it with a pinch of salt.",
+      "use": "Thừa nhận nghe có lý nhưng vẫn giữ thái độ dè dặt.",
+      "register": "casual",
+      "examples": [
+        "That sounds plausible, but I'd take it with a pinch of salt until it's peer-reviewed.",
+        "It's an interesting claim, but I'd take it with a pinch of salt."
+      ],
+      "explanationVi": "Cấu trúc 'nhường một bước rồi giữ lập trường': khen nghe hợp lý ('plausible') rồi dùng idiom để giữ hoài nghi. Rất tự nhiên, nghe có học mà không kiêu.",
+      "altOf": "voicing-doubt"
+    },
+    {
+      "pattern": "Are you absolutely sure that [mệnh đề]? It seems a little far-fetched.",
+      "use": "Chất vấn nhẹ nhàng một tuyên bố nghe khó tin.",
+      "register": "neutral",
+      "examples": [
+        "Are you absolutely sure that the figures add up? It seems a little far-fetched.",
+        "Are you absolutely sure that's what the data shows? It seems a little far-fetched."
+      ],
+      "explanationVi": "Đặt câu hỏi 'Are you absolutely sure...?' để buộc người nói tự kiểm chứng, rồi 'a little far-fetched' giảm nhẹ lời chê. 'a little' làm câu bớt gay gắt.",
+      "altOf": "challenging-claim"
+    },
+    {
+      "pattern": "I find it hard to believe that [mệnh đề], given [danh từ].",
+      "use": "Phản biện một tuyên bố dựa trên lý do/bằng chứng ngược lại.",
+      "register": "formal",
+      "examples": [
+        "I find it hard to believe that the project finished early, given how understaffed the team was.",
+        "I find it hard to believe that sales doubled, given the market conditions."
+      ],
+      "explanationVi": "'I find it hard to believe that...' bày tỏ hoài nghi mạnh nhưng vẫn lịch sự. 'given + danh từ' (= xét đến) nêu căn cứ cho sự nghi ngờ — đây là cách phản biện 'ăn điểm' ở C1.",
+      "altOf": "challenging-claim"
+    },
+    {
+      "pattern": "While [mệnh đề nhượng bộ], I'd argue that [mệnh đề chính].",
+      "use": "Vừa thừa nhận một phần đúng, vừa đưa ra góc nhìn nghi ngờ của mình.",
+      "register": "formal",
+      "examples": [
+        "While the theory is elegant, I'd argue that it simply isn't supported by the evidence.",
+        "While I see your point, I'd argue that the sample was too small to be conclusive."
+      ],
+      "explanationVi": "'While' mở mệnh đề nhượng bộ (dù...). 'I'd argue that' (= I would argue) đưa lập luận một cách quyết đoán nhưng vẫn khiêm tốn. Cấu trúc tranh luận học thuật điển hình."
+    },
+    {
+      "pattern": "Not until I see compelling evidence will I [V].",
+      "use": "Khẳng định mạnh rằng bạn sẽ không tin cho đến khi có bằng chứng.",
+      "register": "formal",
+      "examples": [
+        "Not until I see compelling evidence will I accept that conclusion.",
+        "Not until I see compelling evidence will I change my position."
+      ],
+      "explanationVi": "Đảo ngữ với 'Not until...': khi cụm phủ định đứng đầu câu thì phải đảo trợ động từ lên trước chủ ngữ ('will I'). Cấu trúc C1 trang trọng, nhấn mạnh điều kiện tiên quyết — phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "thẳng thắn mà nói", "when": "Mở đầu một nhận định hoài nghi chân thành, hơi mạnh.", "example": "Frankly, I'm not sure the numbers really stack up." },
+    { "term": "with all due respect", "ipa": "/wɪð ɔːl djuː rɪˈspekt/", "vi": "xin phép nói thẳng / với tất cả sự tôn trọng", "when": "Mào đầu lịch sự trước khi bày tỏ bất đồng/nghi ngờ với người trên.", "example": "With all due respect, I think that assumption is questionable." },
+    { "term": "if I'm honest", "ipa": "/ɪf aɪm ˈɒn.ɪst/", "vi": "nói thật lòng thì", "when": "Làm dịu một ý kiến hoài nghi, ngụ ý đang chia sẻ chân thành.", "example": "If I'm honest, the whole argument feels a bit shaky." },
+    { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "vi": "nghe nói là (nhưng tôi nghi)", "when": "Trích lại điều người khác khẳng định kèm ngụ ý mình không hẳn tin.", "example": "It's supposedly the most efficient method, though I've seen no proof." },
+    { "term": "in theory", "ipa": "/ɪn ˈθɪə.ri/", "vi": "về mặt lý thuyết (ngầm nghi ngờ thực tế)", "when": "Thừa nhận điều gì đúng trên giấy nhưng nghi ngờ trong thực hành.", "example": "In theory it should work, but I have my reservations in practice." },
+    { "term": "to put it mildly", "ipa": "/tə pʊt ɪt ˈmaɪld.li/", "vi": "nói nhẹ đi thì là vậy", "when": "Cuối câu, ngụ ý mình đã nói giảm và thực ra còn nghi ngờ hơn thế.", "example": "Their methodology was a little loose, to put it mildly." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một buổi seminar sau giờ học, hai sinh viên cao học (Mai và bạn) đang trao đổi về một nghiên cứu mới được trình bày, vốn tuyên bố rằng một phương pháp học mới giúp tăng kết quả thi lên 40%. Bạn tỏ ra hoài nghi và thảo luận một cách học thuật, lịch sự.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Did you catch that presentation just now? Apparently their new method boosted exam scores by forty percent, which honestly sounds like a game-changer to me.",
+        "ipa": "/dɪd juː kæt ðæt ˌprez.ənˈteɪ.ʃən dʒʌst naʊ əˈpær.ənt.li ðeə njuː ˈmeθ.əd ˈbuːs.tɪd ɪɡˈzæm skɔːz baɪ ˈfɔː.ti pəˈsent wɪtʃ ˈɒn.ɪst.li saʊndz laɪk ə ˈɡeɪm.tʃeɪn.dʒər tə miː/",
+        "vi": "Cậu có nghe bài thuyết trình vừa rồi không? Nghe nói phương pháp mới của họ giúp tăng điểm thi tới bốn mươi phần trăm, mà thật lòng nghe như một bước ngoặt vậy."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I did, although I'd take that figure with a pinch of salt, to be honest. A forty-percent jump seems a little ____, particularly when the study only ran for three weeks.",
+        "ipa": "/aɪ dɪd ɔːlˈðəʊ aɪd teɪk ðæt ˈfɪɡ.ər wɪð ə pɪntʃ əv sɔːlt tə biː ˈɒn.ɪst ə ˈfɔː.ti pəˈsent dʒʌmp siːmz ə ˈlɪt.əl ... pəˈtɪk.jə.lə.li wen ðə ˈstʌd.i ˈəʊn.li ræn fɔːr θriː wiːks/",
+        "vi": "Có chứ, mặc dù thật lòng thì tôi sẽ tiếp nhận con số đó một cách dè dặt thôi. Mức tăng bốn mươi phần trăm nghe hơi ____, đặc biệt khi nghiên cứu chỉ kéo dài có ba tuần.",
+        "blanks": [
+          { "type": "knowledge", "answer": "far-fetched", "explanationVi": "Dùng tính từ 'far-fetched' (khó tin, xa rời thực tế) sau 'a little' để bày tỏ hoài nghi nhẹ nhàng. Xem từ vựng 'far-fetched' và mẫu câu 'It seems a little far-fetched'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Fair point. But the lead researcher is from a well-known lab, so presumably the methodology was sound, wasn't it?",
+        "ipa": "/feə pɔɪnt bʌt ðə liːd rɪˈsɜː.tʃər ɪz frɒm ə ˌwel ˈnəʊn læb səʊ prɪˈzjuː.mə.bli ðə ˌmeθ.əˈdɒl.ə.dʒi wɒz saʊnd ˈwɒz.ənt ɪt/",
+        "vi": "Cũng có lý. Nhưng trưởng nhóm nghiên cứu đến từ một phòng thí nghiệm danh tiếng, nên đoán chừng phương pháp luận là đáng tin, đúng không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Possibly, but reputation alone doesn't convince me. While the lab is certainly respected, I'd argue ____ a sample of only thirty students is simply too small to draw any firm conclusions from.",
+        "ipa": "/ˈpɒs.ə.bli bʌt ˌrep.jʊˈteɪ.ʃən əˈləʊn ˈdʌz.ənt kənˈvɪns miː waɪl ðə læb ɪz ˈsɜː.tən.li rɪˈspek.tɪd aɪd ˈɑː.ɡjuː ... ə ˈsɑːm.pəl əv ˈəʊn.li ˈθɜː.ti ˈstjuː.dənts ɪz ˈsɪm.pli tuː smɔːl tə drɔː ˈen.i fɜːm kənˈkluː.ʒənz frɒm/",
+        "vi": "Có thể, nhưng riêng danh tiếng thì không thuyết phục được tôi. Mặc dù phòng thí nghiệm đó chắc chắn được tôn trọng, tôi cho rằng ____ một mẫu chỉ ba mươi sinh viên đơn giản là quá nhỏ để rút ra bất kỳ kết luận chắc chắn nào.",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "Dùng liên từ 'that' để mở mệnh đề tân ngữ sau 'I'd argue'. Xem mẫu câu 'While..., I'd argue that...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I hadn't thought of the sample size, actually. So you reckon the whole thing might just be statistical noise?",
+        "ipa": "/aɪ ˈhæd.ənt θɔːt əv ðə ˈsɑːm.pəl saɪz ˈæk.tʃu.ə.li səʊ juː ˈrek.ən ðə həʊl θɪŋ maɪt dʒʌst biː stəˈtɪs.tɪ.kəl nɔɪz/",
+        "vi": "Thật ra tôi chưa nghĩ tới cỡ mẫu đấy. Vậy cậu cho rằng cả chuyện này có khi chỉ là nhiễu thống kê thôi à?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I wouldn't go that far, ____ I'd certainly want to see it replicated. Not until I see ____ evidence from a larger, independent trial will I accept such a dramatic claim at face value.",
+        "ipa": "/aɪ ˈwʊd.ənt ɡəʊ ðæt fɑːr ... aɪd ˈsɜː.tən.li wɒnt tə siː ɪt ˈrep.lɪ.keɪ.tɪd nɒt ʌnˈtɪl aɪ siː ... ˈev.ɪ.dəns frɒm ə ˈlɑː.dʒər ˌɪn.dɪˈpen.dənt ˈtraɪ.əl wɪl aɪ əkˈsept sʌtʃ ə drəˈmæt.ɪk kleɪm ət feɪs ˈvæl.juː/",
+        "vi": "Tôi không nói quá đến mức ấy, ____ tôi chắc chắn muốn thấy nó được lặp lại. Cho đến khi nào tôi thấy bằng chứng ____ từ một thử nghiệm lớn hơn, độc lập, tôi mới chấp nhận một tuyên bố ấn tượng như vậy mà không soi xét.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng liên từ tương phản 'but' để nối hai vế: không phủ định hoàn toàn NHƯNG vẫn dè dặt. Cách bày tỏ hoài nghi cân bằng, không cực đoan." },
+          { "type": "knowledge", "answer": "compelling", "explanationVi": "Dùng tính từ 'compelling' (thuyết phục mạnh mẽ) bổ nghĩa cho 'evidence'. Xem từ vựng 'compelling' và mẫu đảo ngữ 'Not until I see compelling evidence will I...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That's fair enough. With all due respect to the researchers, I suppose extraordinary claims really do require extraordinary proof.",
+        "ipa": "/ðæts feər ɪˈnʌf wɪð ɔːl djuː rɪˈspekt tə ðə rɪˈsɜː.tʃəz aɪ səˈpəʊz ɪkˌstrɔː.dɪ.nri kleɪmz ˈrɪə.li duː rɪˈkwaɪər ɪkˌstrɔː.dɪ.nri pruːf/",
+        "vi": "Vậy cũng hợp lý. Với tất cả sự tôn trọng dành cho nhóm nghiên cứu, tôi đoán những tuyên bố phi thường thì thực sự đòi hỏi bằng chứng phi thường."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. I'm not dismissing their work, which clearly took a lot of effort; I just have my ____ about the conclusions until someone replicates them. The jury, as they say, is still out.",
+        "ipa": "/ɪɡˈzækt.li aɪm nɒt dɪsˈmɪs.ɪŋ ðeə wɜːk wɪtʃ ˈklɪə.li tʊk ə lɒt əv ˈef.ət aɪ dʒʌst hæv maɪ ... əˈbaʊt ðə kənˈkluː.ʒənz ʌnˈtɪl ˈsʌm.wʌn ˈrep.lɪ.keɪts ðəm ðə ˈdʒʊə.ri æz ðeɪ seɪ ɪz stɪl aʊt/",
+        "vi": "Chính xác. Tôi không phủ nhận công sức của họ, vốn rõ ràng tốn rất nhiều công; tôi chỉ còn ____ về các kết luận cho đến khi có người lặp lại được chúng. Như người ta nói, vẫn chưa ngã ngũ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "doubts", "explanationVi": "Dùng danh từ số nhiều 'doubts' trong collocation 'have my doubts about' (còn nghi ngờ về). Xem mẫu câu 'I have my doubts about...'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Well, you've definitely made me ____ more critically. Next time, I'll read the fine print before I get excited about a headline.",
+        "ipa": "/wel juːv ˈdef.ɪn.ət.li meɪd miː ... mɔː ˈkrɪt.ɪ.kəl.i nekst taɪm aɪl riːd ðə faɪn prɪnt bɪˈfɔːr aɪ ɡet ɪkˈsaɪ.tɪd əˈbaʊt ə ˈhed.laɪn/",
+        "vi": "Ừ, cậu chắc chắn đã khiến tôi ____ một cách phản biện hơn. Lần tới, tôi sẽ đọc kỹ phần chữ nhỏ trước khi hào hứng vì một dòng tít.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ nguyên thể về tư duy/cách tiếp cận. Ví dụ: 'think', 'evaluate things'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa học thuật và công sở phương Tây, bày tỏ hoài nghi không bị coi là thô lỗ — ngược lại, đặt câu hỏi phản biện được xem là dấu hiệu của tư duy độc lập, miễn là bạn lịch sự và dựa trên lý lẽ.",
+    "Người bản xứ hiếm khi nói thẳng 'You're wrong'. Họ dùng cách giảm nhẹ (hedging) như 'I'm not entirely convinced', 'I have my doubts', 'with all due respect' để giữ thể diện cho cả hai bên.",
+    "Câu 'Extraordinary claims require extraordinary evidence' (tuyên bố phi thường đòi bằng chứng phi thường) là một châm ngôn rất quen thuộc trong giới khoa học khi nói về sự hoài nghi lành mạnh.",
+    "Idiom 'take it with a pinch of salt' (Anh) và 'with a grain of salt' (Mỹ) khác nhau ở từ vựng nhưng cùng nghĩa — chọn theo đối tượng người nghe để nghe tự nhiên hơn."
+  ],
+
+  "commonMistakes": [
+    "Bày tỏ hoài nghi quá thẳng ('That's not true', 'I don't believe you') nghe đối đầu. Hãy dùng hedging: 'I'm not entirely convinced that...', 'I find it hard to believe that...'.",
+    "Sai đảo ngữ với 'Not until...': phải đảo trợ động từ — 'Not until I see proof WILL I agree', không phải 'Not until I see proof I will agree'.",
+    "Nhầm sắc thái: 'doubtful' (bản thân thấy ngờ) khác 'dubious' (vừa chỉ cảm giác mình, vừa có thể tả vật đáng ngờ) khác 'questionable' (bản thân sự việc có vấn đề). Chọn sai từ làm câu lệch nghĩa.",
+    "Quên rằng 'doubt' có chữ 'b' câm (đọc /daʊt/) và 'suspect' khi là động từ nhấn âm sau /səˈspekt/, khi là danh từ nhấn âm trước /ˈsʌs.pekt/."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận và bày tỏ hoài nghi một cách tinh tế ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người bạn học/đồng nghiệp nói tiếng Anh đang rất hào hứng tin vào một tuyên bố gây tranh cãi (ví dụ: một nghiên cứu mới, một tin tức, một sản phẩm thần kỳ). Hãy đưa ra tuyên bố đó và bảo vệ nó. Nhiệm vụ của tôi là bày tỏ hoài nghi một cách lịch sự, học thuật. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như người đang tranh luận, đưa thêm lý lẽ để tôi phải phản biện tiếp, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế hơn bằng tiếng Việt, đặc biệt là cách dùng hedging (I'm not entirely convinced, I have my doubts) và idiom (take with a pinch of salt, the jury is still out), (3) khuyến khích tôi dùng mệnh đề nhượng bộ với 'while', và đảo ngữ 'Not until... will I...'. Cuối buổi, hãy chấm điểm mức độ tinh tế và lịch sự trong cách tôi bày tỏ hoài nghi, rồi nêu 3 điểm cần cải thiện. Bắt đầu bằng tuyên bố gây tranh cãi của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một giáo sư lớn tuổi để tôi luyện dùng register thật trang trọng và lịch sự khi phản biện người trên.'",
+      "Thêm: 'Hãy thỉnh thoảng đưa ra một lý lẽ thực sự thuyết phục (compelling) để tôi tập thừa nhận một phần đúng trước khi vẫn giữ hoài nghi.'",
+      "Thêm: 'Hãy yêu cầu tôi diễn đạt lại cùng một ý theo cả hai register: rất trang trọng và rất thân mật.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi bày tỏ được sự hoài nghi một cách lịch sự bằng ít nhất hai cách hedging khác nhau, không cần nhìn gợi ý.",
+    "Tôi dùng đúng được idiom 'take it with a pinch of salt' và 'the jury is still out' đúng ngữ cảnh.",
+    "Tôi nói được câu đảo ngữ 'Not until I see compelling evidence will I...' một cách trôi chảy và đúng ngữ pháp."
+  ]
+}

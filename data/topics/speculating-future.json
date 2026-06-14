@@ -1,0 +1,337 @@
+{
+  "id": "speculating-future",
+  "category": "opinions",
+  "title": "Dự đoán tương lai",
+  "titleEn": "Speculating About the Future",
+  "level": "C1",
+  "functions": ["opinions", "suggesting", "agreeing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Đưa ra dự đoán có sắc thái chắc chắn khác nhau (chắc chắn, có khả năng, khó xảy ra) bằng từ ngữ tinh tế",
+    "Bảo vệ và phản biện một dự đoán bằng câu phức nhiều tầng, dùng despite, whereas, in order to một cách tự nhiên",
+    "Dùng cấu trúc nâng cao về tương lai (future perfect, future continuous, be likely to, on the verge of) chính xác",
+    "Đổi register linh hoạt giữa lời nói trang trọng và thân mật khi tranh luận về xu hướng",
+    "Sử dụng idiom và collocation về dự báo (a safe bet, take with a pinch of salt) đúng ngữ cảnh"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to speculate",
+      "ipa": "/ˈspek.jə.leɪt/",
+      "vi": "phỏng đoán, suy đoán (động từ)",
+      "register": "formal",
+      "example": "Analysts continue to speculate about how artificial intelligence will reshape the job market.",
+      "exampleVi": "Các nhà phân tích vẫn tiếp tục suy đoán về việc trí tuệ nhân tạo sẽ định hình lại thị trường lao động ra sao.",
+      "note": "Động từ, đi với 'about something' hoặc mệnh đề 'that/whether'. Mang sắc thái 'đoán dựa trên suy luận chứ chưa chắc chắn'.",
+      "synonyms": [
+        { "term": "to conjecture", "ipa": "/kənˈdʒek.tʃər/", "register": "formal", "nuanceVi": "Rất trang trọng, mang tính học thuật, nhấn 'kết luận dựa trên bằng chứng chưa đầy đủ'. Hiếm dùng khi nói thường ngày." },
+        { "term": "to surmise", "ipa": "/səˈmaɪz/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ, nhấn 'phán đoán từ một vài manh mối'. Tinh tế và hơi cổ điển." },
+        { "term": "to guess", "ipa": "/ɡes/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đoán đại'. Nhẹ và không hàm ý suy luận kỹ như 'speculate'." }
+      ]
+    },
+    {
+      "term": "forecast",
+      "ipa": "/ˈfɔː.kɑːst/",
+      "vi": "dự báo (danh từ / động từ)",
+      "register": "neutral",
+      "example": "Their latest economic forecast suggests that growth will slow considerably next year.",
+      "exampleVi": "Bản dự báo kinh tế mới nhất của họ cho thấy tăng trưởng sẽ chậm lại đáng kể vào năm tới.",
+      "note": "Vừa là danh từ vừa là động từ (forecast/forecast hoặc forecasted). Nhấn 'dự báo dựa trên dữ liệu', dùng nhiều cho thời tiết, kinh tế.",
+      "synonyms": [
+        { "term": "prediction", "ipa": "/prɪˈdɪk.ʃən/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính, dự đoán về điều sẽ xảy ra; không nhất thiết dựa trên dữ liệu như 'forecast'." },
+        { "term": "projection", "ipa": "/prəˈdʒek.ʃən/", "register": "formal", "nuanceVi": "Nhấn 'phép ngoại suy từ số liệu hiện tại', hay dùng trong tài chính/kế hoạch (sales projection)." }
+      ]
+    },
+    {
+      "term": "inevitable",
+      "ipa": "/ɪˈnev.ɪ.tə.bəl/",
+      "vi": "không thể tránh khỏi (tính từ)",
+      "register": "formal",
+      "example": "Given the current trends, a major shift towards remote work seems all but inevitable.",
+      "exampleVi": "Với những xu hướng hiện tại, một sự chuyển dịch lớn sang làm việc từ xa gần như là điều tất yếu.",
+      "note": "Tính từ chỉ sắc thái chắc chắn cao nhất. Cụm 'all but inevitable' = gần như chắc chắn xảy ra.",
+      "synonyms": [
+        { "term": "unavoidable", "ipa": "/ˌʌn.əˈvɔɪ.də.bəl/", "register": "neutral", "nuanceVi": "Gần nghĩa nhưng trung tính hơn; nhấn 'không thể né được', thường mang hơi hướng tiêu cực hơn 'inevitable'." },
+        { "term": "bound to happen", "ipa": "/baʊnd tə ˈhæp.ən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'kiểu gì cũng xảy ra'. Hợp khi nói chuyện thân mật hơn là viết trang trọng." }
+      ]
+    },
+    {
+      "term": "to anticipate",
+      "ipa": "/ænˈtɪs.ɪ.peɪt/",
+      "vi": "lường trước, dự liệu (động từ)",
+      "register": "formal",
+      "example": "We anticipate that demand for electric vehicles will skyrocket within the decade.",
+      "exampleVi": "Chúng tôi dự liệu nhu cầu xe điện sẽ tăng vọt trong vòng một thập kỷ tới.",
+      "note": "Động từ, nhấn 'thấy trước và chuẩn bị cho điều sắp đến', mạnh và chủ động hơn 'expect'.",
+      "synonyms": [
+        { "term": "to foresee", "ipa": "/fɔːˈsiː/", "register": "formal", "nuanceVi": "Nhấn 'nhìn thấy trước', thường dùng phủ định ('I couldn't have foreseen…'). Hơi văn vẻ." },
+        { "term": "to expect", "ipa": "/ɪkˈspekt/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'trông đợi'. Bị động hơn 'anticipate' (vốn hàm ý có chuẩn bị)." }
+      ]
+    },
+    {
+      "term": "disruptive",
+      "ipa": "/dɪsˈrʌp.tɪv/",
+      "vi": "mang tính đột phá / gây đảo lộn (tính từ)",
+      "register": "neutral",
+      "example": "Few technologies have been as disruptive as the smartphone, which transformed entire industries overnight.",
+      "exampleVi": "Hiếm công nghệ nào lại gây đảo lộn mạnh như điện thoại thông minh, thứ đã biến đổi cả những ngành công nghiệp chỉ sau một đêm.",
+      "note": "Tính từ. Trong kinh doanh mang nghĩa TÍCH CỰC (phá vỡ trật tự cũ để tạo cái mới); ngữ cảnh khác có thể tiêu cực (gây gián đoạn).",
+      "synonyms": [
+        { "term": "groundbreaking", "ipa": "/ˈɡraʊndˌbreɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Luôn tích cực, nhấn 'mở đường, đầu tiên'. Không hàm ý 'phá vỡ' như disruptive." },
+        { "term": "game-changing", "ipa": "/ˈɡeɪmˌtʃeɪn.dʒɪŋ/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'thay đổi cuộc chơi'. Sống động nhưng kém trang trọng." }
+      ]
+    },
+    {
+      "term": "to phase out",
+      "ipa": "/feɪz aʊt/",
+      "vi": "loại bỏ dần (động từ)",
+      "register": "neutral",
+      "example": "Many governments have pledged to phase out petrol cars over the next two decades.",
+      "exampleVi": "Nhiều chính phủ đã cam kết loại bỏ dần xe chạy xăng trong hai thập kỷ tới.",
+      "note": "Phrasal verb, nhấn 'bỏ TỪ TỪ theo lộ trình' chứ không dừng đột ngột. Trái nghĩa: 'to phase in' (đưa vào dần).",
+      "synonyms": [
+        { "term": "to do away with", "ipa": "/duː əˈweɪ wɪð/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'xóa bỏ hẳn', không hàm ý 'từ từ' như phase out." },
+        { "term": "to abolish", "ipa": "/əˈbɒl.ɪʃ/", "register": "formal", "nuanceVi": "Trang trọng, dứt khoát, thường dùng cho luật lệ/chế độ (abolish a law), mang tính chính thức." }
+      ]
+    },
+    {
+      "term": "plausible",
+      "ipa": "/ˈplɔː.zə.bəl/",
+      "vi": "có vẻ hợp lý, đáng tin (tính từ)",
+      "register": "formal",
+      "example": "That's a plausible scenario, although I suspect the timeline is rather optimistic.",
+      "exampleVi": "Đó là một kịch bản hợp lý, mặc dù tôi ngờ rằng mốc thời gian hơi lạc quan.",
+      "note": "Tính từ, mô tả một giả thuyết NGHE có lý (chưa chắc đúng). Dùng để công nhận một dự đoán mà vẫn giữ chút hoài nghi.",
+      "synonyms": [
+        { "term": "feasible", "ipa": "/ˈfiː.zə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'khả thi, làm được trên thực tế', khác plausible (nghe có lý về mặt logic)." },
+        { "term": "conceivable", "ipa": "/kənˈsiː.və.bəl/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung/tưởng tượng được', độ chắc chắn thấp hơn plausible." }
+      ]
+    },
+    {
+      "term": "far-fetched",
+      "ipa": "/ˌfɑːˈfetʃt/",
+      "vi": "khó tin, gượng ép, xa rời thực tế (tính từ)",
+      "register": "neutral",
+      "example": "The idea of holidaying on Mars used to sound far-fetched, yet it no longer seems entirely impossible.",
+      "exampleVi": "Ý tưởng đi nghỉ trên Sao Hỏa từng nghe rất viển vông, vậy mà giờ nó không còn hoàn toàn bất khả thi nữa.",
+      "note": "Tính từ. Dùng để bác bỏ nhẹ một dự đoán cho là thiếu cơ sở. Trái nghĩa với 'plausible'.",
+      "synonyms": [
+        { "term": "implausible", "ipa": "/ɪmˈplɔː.zə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, đơn giản là phủ định của plausible (khó tin). Trung tính hơn 'far-fetched' (vốn có chút chê bai)." },
+        { "term": "unrealistic", "ipa": "/ˌʌn.rɪəˈlɪs.tɪk/", "register": "neutral", "nuanceVi": "Phổ biến, nhấn 'phi thực tế'; nhẹ và trung tính hơn far-fetched." }
+      ]
+    },
+    {
+      "term": "imminent",
+      "ipa": "/ˈɪm.ɪ.nənt/",
+      "vi": "sắp xảy ra đến nơi (tính từ)",
+      "register": "formal",
+      "example": "Most experts agree that a breakthrough in renewable energy storage is imminent.",
+      "exampleVi": "Phần lớn chuyên gia đồng ý rằng một bước đột phá trong lưu trữ năng lượng tái tạo sắp xảy ra đến nơi.",
+      "note": "Tính từ, nhấn 'rất gần về thời gian'. Khác 'inevitable' (chắc chắn xảy ra, không nói thời điểm).",
+      "synonyms": [
+        { "term": "looming", "ipa": "/ˈluː.mɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'lù lù tới gần', thường mang sắc thái đe dọa/lo ngại (a looming crisis)." },
+        { "term": "on the horizon", "ipa": "/ɒn ðə həˈraɪ.zən/", "register": "neutral", "nuanceVi": "Thành ngữ, nghĩa 'đang ló dạng phía trước', nhẹ nhàng và trung tính, không gấp gáp như imminent." }
+      ]
+    },
+    {
+      "term": "presumably",
+      "ipa": "/prɪˈzjuː.mə.bli/",
+      "vi": "có lẽ là, chắc hẳn (trạng từ)",
+      "register": "formal",
+      "example": "Presumably, automation will eliminate many routine jobs, but it will also create entirely new ones.",
+      "exampleVi": "Có lẽ tự động hóa sẽ xóa sổ nhiều công việc lặp đi lặp lại, nhưng nó cũng sẽ tạo ra những việc làm hoàn toàn mới.",
+      "note": "Trạng từ, nêu một suy luận hợp lý mà người nói tin là đúng dù chưa kiểm chứng. Nghe có học và chừng mực.",
+      "synonyms": [
+        { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "register": "neutral", "nuanceVi": "Nhấn 'theo như người ta nói', đôi khi hàm ý hoài nghi (chưa chắc đã đúng), khác presumably (người nói tin là đúng)." },
+        { "term": "in all likelihood", "ipa": "/ɪn ɔːl ˈlaɪk.li.hʊd/", "register": "formal", "nuanceVi": "Cụm trang trọng, nghĩa 'rất có khả năng'. Độ chắc chắn cao hơn presumably." }
+      ]
+    },
+    {
+      "term": "to backfire",
+      "ipa": "/ˌbækˈfaɪər/",
+      "vi": "phản tác dụng, gậy ông đập lưng ông (động từ)",
+      "register": "neutral",
+      "example": "If we rush these regulations, the policy could easily backfire and stifle innovation.",
+      "exampleVi": "Nếu chúng ta vội vã đưa ra những quy định này, chính sách rất dễ phản tác dụng và bóp nghẹt sự đổi mới.",
+      "note": "Động từ, nghĩa 'cho kết quả ngược với mong đợi'. Hữu ích khi cảnh báo về hệ quả không lường trước của một xu hướng.",
+      "synonyms": [
+        { "term": "to boomerang", "ipa": "/ˈbuː.mə.ræŋ/", "register": "casual", "nuanceVi": "Đời thường, sinh động, nghĩa 'quay ngược lại hại chính mình', cùng nghĩa nhưng kém trang trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "It's highly likely that [mệnh đề] within the next [khoảng thời gian].",
+      "use": "Đưa ra dự đoán với độ chắc chắn cao một cách trang trọng.",
+      "register": "formal",
+      "examples": [
+        "It's highly likely that most cars will be electric within the next fifteen years.",
+        "It's highly likely that AI assistants will handle routine customer service within the next decade."
+      ],
+      "explanationVi": "'highly likely' = rất có khả năng (độ chắc chắn cao nhưng chưa tuyệt đối). Mệnh đề danh từ 'that…' đứng sau, dùng thì tương lai 'will'. Đây là khung an toàn để nêu dự báo có cơ sở.",
+      "altOf": "making-prediction"
+    },
+    {
+      "pattern": "I wouldn't be surprised if [mệnh đề ở thì quá khứ/hiện tại].",
+      "use": "Dự đoán điều gì đó dễ xảy ra một cách khiêm tốn, thân mật hơn.",
+      "register": "neutral",
+      "examples": [
+        "I wouldn't be surprised if remote work became the default for most office jobs.",
+        "I wouldn't be surprised if we saw a four-day working week become standard."
+      ],
+      "explanationVi": "Sau 'if' thường lùi thì (became, saw) để giảm độ chắc chắn — kiểu giả định nhẹ. Cách nói rất tự nhiên của người bản xứ để dự đoán mà không tỏ ra quá khẳng định.",
+      "altOf": "making-prediction"
+    },
+    {
+      "pattern": "By [mốc thời gian], we will have [V phân từ III].",
+      "use": "Dự đoán một việc sẽ đã hoàn tất trước một mốc thời gian (thì tương lai hoàn thành).",
+      "register": "formal",
+      "examples": [
+        "By 2040, we will have phased out most fossil fuels.",
+        "By the end of the decade, scientists will have developed far more efficient batteries."
+      ],
+      "explanationVi": "Thì tương lai hoàn thành 'will have + V3' diễn tả việc HOÀN TẤT trước một mốc tương lai. Kết hợp với 'By + mốc thời gian' là dấu hiệu C1 rất đắt giá khi nói về tiến trình dài hạn.",
+      "altOf": "making-prediction"
+    },
+    {
+      "pattern": "While [mệnh đề công nhận], I suspect that [mệnh đề phản biện].",
+      "use": "Vừa thừa nhận ý đối phương vừa nêu hoài nghi của mình một cách tinh tế.",
+      "register": "formal",
+      "examples": [
+        "While that's certainly possible, I suspect that the change will take far longer than people expect.",
+        "While the technology is impressive, I suspect that public trust will be the real obstacle."
+      ],
+      "explanationVi": "'While' mở mệnh đề nhượng bộ (tuy…), 'I suspect that' hạ giọng phản biện cho lịch sự. Bộ đôi này giúp bạn không đồng ý mà vẫn nhã nhặn — kỹ năng tranh luận then chốt ở C1."
+    },
+    {
+      "pattern": "The chances of [V-ing / danh từ] are slim, given that [mệnh đề].",
+      "use": "Bác bỏ một dự đoán, cho là khó xảy ra, kèm lý do.",
+      "register": "formal",
+      "examples": [
+        "The chances of that happening overnight are slim, given that the infrastructure simply isn't ready.",
+        "The chances of a full ban are slim, given that the industry employs millions."
+      ],
+      "explanationVi": "'The chances of … are slim' = khả năng rất thấp. 'given that' (= xét đến việc) dẫn lý do, trang trọng hơn 'because'. Dùng khi muốn dội gáo nước lạnh một cách có lý lẽ.",
+      "altOf": "making-prediction"
+    },
+    {
+      "pattern": "It's only a matter of time before [mệnh đề].",
+      "use": "Khẳng định điều gì đó chắc chắn sẽ xảy ra, chỉ là sớm hay muộn.",
+      "register": "neutral",
+      "examples": [
+        "It's only a matter of time before driverless taxis appear on every street.",
+        "It's only a matter of time before this technology becomes affordable for everyone."
+      ],
+      "explanationVi": "Thành ngữ nhấn 'kiểu gì cũng tới, chỉ chưa biết khi nào'. Sau 'before' dùng thì hiện tại đơn (appear, becomes) chứ KHÔNG dùng 'will'. Sắc thái rất tự tin."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "arguably", "ipa": "/ˈɑːɡ.ju.ə.bli/", "vi": "có thể nói rằng (một cách có cơ sở)", "when": "Mở đầu một nhận định mạnh nhưng vẫn để ngỏ cho tranh luận.", "example": "Arguably, no invention will shape this century as profoundly as artificial intelligence." },
+    { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "vi": "có thể hình dung là", "when": "Nêu một khả năng tuy ít nhưng không loại trừ được.", "example": "Conceivably, we could see commercial flights to space within our lifetime." },
+    { "term": "in the long run", "ipa": "/ɪn ðə lɒŋ rʌn/", "vi": "về lâu về dài", "when": "Đối lập kết quả trước mắt với hệ quả lâu dài.", "example": "It may be costly now, but in the long run, it will save us a fortune." },
+    { "term": "to take with a pinch of salt", "ipa": "/teɪk wɪð ə pɪntʃ ɒv sɔːlt/", "vi": "đừng vội tin hết (cần dè chừng)", "when": "Cảnh báo nên hoài nghi với một dự báo hay con số nào đó.", "example": "I'd take those bold predictions with a pinch of salt, honestly." },
+    { "term": "a safe bet", "ipa": "/ə seɪf bet/", "vi": "một dự đoán chắc ăn", "when": "Khẳng định điều gì đó gần như chắc chắn sẽ đúng.", "example": "Increasing automation is a pretty safe bet for the coming years." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một buổi hội thảo về xu hướng tương lai, hai đồng nghiệp (Maya và bạn) tranh luận về việc công nghệ sẽ thay đổi cuộc sống và công việc ra sao trong vài thập kỷ tới. Cuộc trao đổi vừa trang trọng vừa cởi mở, hai bên vừa dự đoán vừa phản biện nhau.",
+    "lines": [
+      {
+        "speaker": "Maya",
+        "text": "So, looking ahead a couple of decades, where do you think technology such as artificial intelligence will have taken us? Honestly, I find it both thrilling and slightly unnerving to imagine.",
+        "ipa": "/səʊ ˈlʊk.ɪŋ əˈhed ə ˈkʌp.əl ɒv ˈdek.eɪdz weər duː juː θɪŋk tekˈnɒl.ə.dʒi sʌtʃ æz ˌɑː.tɪˈfɪʃ.əl ɪnˈtel.ɪ.dʒəns wɪl hæv ˈteɪ.kən ʌs ˈɒn.ɪst.li aɪ faɪnd ɪt bəʊθ ˈθrɪl.ɪŋ ænd ˈslaɪt.li ʌnˈnɜː.vɪŋ tə ɪˈmædʒ.ɪn/",
+        "vi": "Vậy, nhìn về vài thập kỷ tới, bạn nghĩ những công nghệ như trí tuệ nhân tạo sẽ đưa chúng ta đến đâu? Thành thật mà nói, tôi thấy việc tưởng tượng ra điều đó vừa hào hứng vừa hơi đáng lo."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, it's highly likely that AI ____ have automated most routine office work within the next ____ years, although I doubt it will replace human judgement entirely. By then, presumably, we will have redefined what we even mean by a career.",
+        "ipa": "/wel ɪts ˈhaɪ.li ˈlaɪk.li ðæt eɪ aɪ ... hæv ˈɔː.tə.meɪ.tɪd məʊst ruːˈtiːn ˈɒf.ɪs wɜːk wɪˈðɪn ðə nekst ... jɪəz ɔːlˈðəʊ aɪ daʊt ɪt wɪl rɪˈpleɪs ˈhjuː.mən ˈdʒʌdʒ.mənt ɪnˈtaɪə.li baɪ ðen prɪˈzjuː.mə.bli wiː wɪl hæv riːˈdɪˌfaɪnd wɒt wiː ˈiː.vən miːn baɪ ə kəˈrɪə/",
+        "vi": "À, rất có khả năng AI ____ tự động hóa hầu hết công việc văn phòng lặp đi lặp lại trong vòng ____ năm tới, mặc dù tôi nghi ngờ rằng nó sẽ thay thế hoàn toàn khả năng phán đoán của con người. Đến lúc đó, có lẽ chúng ta sẽ định nghĩa lại cả khái niệm 'sự nghiệp' là gì.",
+        "blanks": [
+          { "type": "knowledge", "answer": "will", "explanationVi": "Thì tương lai hoàn thành: 'will have + V3' (will have automated) để diễn tả việc sẽ HOÀN TẤT trước một mốc tương lai. Xem mẫu câu 'By…, we will have…'." },
+          { "type": "personal", "hint": "Số năm bạn dự đoán. Ví dụ: 'ten', 'twenty'." }
+        ]
+      },
+      {
+        "speaker": "Maya",
+        "text": "That's a plausible scenario, but I wouldn't be surprised if the transition turned out to be far messier than the optimists suggest. New technologies often backfire in ways that nobody anticipates.",
+        "ipa": "/ðæts ə ˈplɔː.zə.bəl sɪˈnɑː.ri.əʊ bʌt aɪ ˈwʊd.ənt biː səˈpraɪzd ɪf ðə trænˈzɪʃ.ən tɜːnd aʊt tə biː fɑː ˈmes.i.ə ðæn ðə ˈɒp.tɪ.mɪsts səˈdʒest njuː tekˈnɒl.ə.dʒiz ˈɒf.ən ˌbækˈfaɪər ɪn weɪz ðæt ˈnəʊ.bɒd.i ænˈtɪs.ɪ.peɪts/",
+        "vi": "Đó là một kịch bản hợp lý, nhưng tôi sẽ không ngạc nhiên nếu quá trình chuyển đổi hóa ra lại lộn xộn hơn nhiều so với những gì phe lạc quan dự đoán. Công nghệ mới thường phản tác dụng theo những cách chẳng ai lường trước được."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Fair point. ____ that adoption is so uneven across countries, the change definitely won't happen overnight. However, in the long run, I'd say widespread automation is a fairly safe bet, whether we're ready for it or not.",
+        "ipa": "/feə pɔɪnt ... ðæt əˈdɒp.ʃən ɪz səʊ ʌnˈiː.vən əˈkrɒs ˈkʌn.triz ðə tʃeɪndʒ ˈdef.ɪn.ət.li wəʊnt ˈhæp.ən ˌəʊ.vəˈnaɪt haʊˈev.ə ɪn ðə lɒŋ rʌn aɪd seɪ ˈwaɪd.spred ˌɔː.təˈmeɪ.ʃən ɪz ə ˈfeə.li seɪf bet ˈweð.ə wɪə ˈred.i fɔːr ɪt ɔː nɒt/",
+        "vi": "Điểm hay đấy. ____ việc áp dụng còn rất không đồng đều giữa các quốc gia, sự thay đổi chắc chắn sẽ không diễn ra trong một sớm một chiều. Tuy nhiên, về lâu về dài, tôi cho rằng tự động hóa trên diện rộng là một dự đoán khá chắc ăn, dù chúng ta đã sẵn sàng hay chưa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Given", "explanationVi": "'Given that…' = 'Xét đến việc…', dùng để dẫn lý do một cách trang trọng (lịch thiệp hơn 'because'). Xem mẫu câu 'The chances of … are slim, given that …'." }
+        ]
+      },
+      {
+        "speaker": "Maya",
+        "text": "Speaking of bold claims, some people insist we'll be holidaying on Mars by mid-century. Personally, I think that's rather far-fetched, despite all the recent progress in space travel.",
+        "ipa": "/ˈspiː.kɪŋ ɒv bəʊld kleɪmz sʌm ˈpiː.pəl ɪnˈsɪst wiːl biː ˈhɒl.ɪ.deɪ.ɪŋ ɒn mɑːz baɪ ˌmɪdˈsen.tʃə.ri ˈpɜː.sən.ə.li aɪ θɪŋk ðæts ˈrɑː.ðə ˌfɑːˈfetʃt dɪˈspaɪt ɔːl ðə ˈriː.sənt ˈprəʊ.ɡres ɪn speɪs ˈtræv.əl/",
+        "vi": "Nói đến mấy tuyên bố táo bạo, có người khăng khăng rằng đến giữa thế kỷ chúng ta sẽ đi nghỉ trên Sao Hỏa. Riêng tôi thấy điều đó khá viển vông, bất chấp mọi tiến bộ gần đây trong du hành vũ trụ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd take that particular prediction with a pinch of salt too. The chances of mass space tourism are slim ____ the costs remain astronomical, although a small, wealthy elite might well get there first.",
+        "ipa": "/aɪd teɪk ðæt pəˈtɪk.jə.lə prɪˈdɪk.ʃən wɪð ə pɪntʃ ɒv sɔːlt tuː ðə tʃɑːn.sɪz ɒv mæs speɪs ˈtʊə.rɪz.əm ɑː slɪm ... ðə kɒsts rɪˈmeɪn ˌæs.trəˈnɒm.ɪk.əl ɔːlˈðəʊ ə smɔːl ˈwel.θi eɪˈliːt maɪt wel ɡet ðeə fɜːst/",
+        "vi": "Tôi cũng sẽ dè chừng với dự đoán cụ thể đó. Khả năng du lịch vũ trụ đại trà là rất thấp ____ chi phí vẫn còn trên trời, mặc dù một nhóm nhỏ giới siêu giàu thì rất có thể sẽ đặt chân tới đó trước.",
+        "blanks": [
+          { "type": "knowledge", "answer": "while", "explanationVi": "'while' ở đây mang nghĩa 'trong khi mà / chừng nào mà', nối hai sự việc song song (khả năng thấp - chi phí cao). Cũng có thể hiểu là 'as long as'. Tránh nhầm với 'although' (vốn để nhượng bộ)." }
+        ]
+      },
+      {
+        "speaker": "Maya",
+        "text": "Exactly. What I'm far more confident about is renewable energy. It's only a matter of time before fossil fuels give way to renewables, ____ are already being subsidised heavily in most developed economies.",
+        "ipa": "/ɪɡˈzækt.li wɒt aɪm fɑː mɔː ˈkɒn.fɪ.dənt əˈbaʊt ɪz rɪˈnjuː.ə.bəl ˈen.ə.dʒi ɪts ˈəʊn.li ə ˈmæt.ə ɒv taɪm bɪˈfɔː ˈfɒs.əl fjʊəlz ɡɪv weɪ tə rɪˈnjuː.ə.bəlz ... ɑː ɔːlˈred.i ˈbiː.ɪŋ ˈsʌb.sɪ.daɪzd ˈhev.ɪ.li ɪn məʊst dɪˈvel.əpt ɪˈkɒn.ə.miz/",
+        "vi": "Chính xác. Điều tôi tự tin hơn nhiều là về năng lượng tái tạo. Chỉ là vấn đề thời gian trước khi nhiên liệu hóa thạch nhường chỗ cho năng lượng tái tạo, thứ vốn đã đang được trợ giá mạnh ở hầu hết các nền kinh tế phát triển.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Đại từ quan hệ 'which' thay cho danh từ đứng ngay trước nó là 'renewables' (năng lượng tái tạo — là vật, số nhiều nên dùng 'are'). Mệnh đề quan hệ không xác định, ngăn cách bằng dấu phẩy, để bổ sung thông tin. Nếu chỉ người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Couldn't agree more. In order to avoid sounding like a fortune-teller, though, I'd simply say this: the future will almost certainly be ____ than any of us can picture right now, and that's precisely what makes it so fascinating.",
+        "ipa": "/ˈkʊd.ənt əˈɡriː mɔː ɪn ˈɔː.də tə əˈvɔɪd ˈsaʊn.dɪŋ laɪk ə ˈfɔː.tʃən ˈtel.ə ðəʊ aɪd ˈsɪm.pli seɪ ðɪs ðə ˈfjuː.tʃə wɪl ˈɔːl.məʊst ˈsɜː.tən.li biː ... ðæn ˈen.i ɒv ʌs kæn ˈpɪk.tʃə raɪt naʊ ænd ðæts prɪˈsaɪs.li wɒt meɪks ɪt səʊ ˈfæs.ɪ.neɪ.tɪŋ/",
+        "vi": "Không thể đồng ý hơn. Mặc dù vậy, để khỏi nghe như một thầy bói, tôi xin nói đơn giản thế này: tương lai gần như chắc chắn sẽ ____ hơn bất cứ điều gì chúng ta có thể hình dung lúc này, và đó chính là điều khiến nó thú vị đến vậy.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ so sánh hơn để mô tả tương lai. Ví dụ: 'stranger' (lạ lùng hơn), 'more unpredictable' (khó đoán hơn), 'more exciting' (thú vị hơn)." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong tranh luận học thuật/công sở phương Tây, người ta đề cao việc 'hedge' (rào đón) thay vì phán chắc nịch. Dùng 'arguably', 'presumably', 'I suspect' khiến bạn nghe chín chắn và mở lòng với phản biện hơn là nói 'I'm 100% sure'.",
+    "Phản bác trực tiếp 'You're wrong' bị coi là thô. Người bản xứ thường công nhận trước ('That's a plausible point, but…') rồi mới nêu bất đồng — đây là chuẩn lịch sự ở cấp C1.",
+    "Dự đoán kèm con số hoặc mốc thời gian cụ thể ('within the next decade', 'by 2040') nghe đáng tin và có trọng lượng hơn nhiều so với nói chung chung 'in the future'.",
+    "Thành ngữ như 'take it with a pinch of salt' (Anh-Anh) / 'a grain of salt' (Anh-Mỹ) rất phổ biến khi bàn về dự báo; dùng đúng chỗ sẽ khiến bạn nghe rất tự nhiên."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'will' sau 'before' / 'when' / 'as soon as' trong câu tương lai: phải là 'before fossil fuels ARE phased out', KHÔNG phải 'before fossil fuels will be…'.",
+    "Lẫn 'plausible' (nghe có lý về logic) với 'feasible' (khả thi làm được trên thực tế) — hai sắc thái khác nhau.",
+    "Quên đảo/lùi thì trong 'I wouldn't be surprised if…': người bản xứ thường lùi thì ('if it became', 'if we saw') để giảm độ chắc chắn.",
+    "Lạm dụng 'I think' ở mọi câu. Hãy đa dạng bằng 'I'd say', 'I suspect', 'presumably', 'arguably' để nghe tinh tế và đỡ lặp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận dự đoán tương lai ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người tham gia hội thảo nói tiếng Anh trình độ cao, tranh luận với tôi về việc công nghệ và xã hội sẽ thay đổi ra sao trong 20-30 năm tới (ví dụ: AI, năng lượng tái tạo, du hành vũ trụ, tương lai công việc). Hãy chủ động đưa ra một dự đoán táo bạo, rồi mời tôi phản hồi. Sau mỗi lượt của tôi, hãy: (1) phản biện hoặc đồng tình một cách tự nhiên như trong một cuộc tranh luận thật, ép tôi bảo vệ quan điểm; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt sắc bén hơn bằng tiếng Việt, đặc biệt là lỗi dùng 'will' sau before/when và cách 'rào đón' ý kiến; (3) khuyến khích tôi dùng cấu trúc C1 như future perfect ('will have + V3'), 'It's only a matter of time before…', 'While…, I suspect…', cùng các trạng từ arguably/presumably/conceivably. Cuối buổi, hãy chấm điểm khả năng lập luận của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng dự đoán táo bạo đầu tiên của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người hoài nghi cứng đầu, liên tục bác bỏ mọi dự đoán của tôi để tôi tập phản biện.'",
+      "Thêm: 'Hãy yêu cầu tôi đổi register — lúc thì tranh luận trang trọng như trên TED, lúc thì bàn tán thân mật như với bạn bè.'",
+      "Thêm: 'Mỗi lượt hãy buộc tôi dùng ít nhất một idiom về dự đoán (a safe bet, take with a pinch of salt, on the horizon).'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đưa ra được dự đoán với ba mức chắc chắn khác nhau (chắc chắn / có khả năng / khó xảy ra) bằng từ ngữ tinh tế.",
+    "Tôi phản biện được một dự đoán mà vẫn lịch sự, dùng 'While…, I suspect…' và 'given that'.",
+    "Tôi dùng đúng thì tương lai hoàn thành ('will have + V3') và không dùng 'will' sau 'before'."
+  ]
+}

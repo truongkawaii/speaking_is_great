@@ -1,0 +1,396 @@
+{
+  "id": "customs-immigration",
+  "category": "travel",
+  "title": "Hải quan & nhập cảnh",
+  "titleEn": "Customs & Immigration",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Trả lời tự tin các câu hỏi của nhân viên xuất nhập cảnh về mục đích và thời gian lưu trú",
+    "Khai báo hành lý và trả lời câu hỏi của hải quan một cách trung thực, rõ ràng",
+    "Hỏi lại lịch sự khi không hiểu hoặc cần làm rõ thông tin",
+    "Xử lý tình huống bị giữ lại kiểm tra hành lý mà vẫn giữ bình tĩnh, lịch sự"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "passport",
+      "ipa": "/ˈpɑːs.pɔːrt/",
+      "vi": "hộ chiếu (danh từ)",
+      "register": "neutral",
+      "example": "Please have your passport ready before you reach the counter.",
+      "exampleVi": "Vui lòng chuẩn bị sẵn hộ chiếu trước khi tới quầy.",
+      "note": "Danh từ. Giấy tờ tùy thân quan trọng nhất khi đi nước ngoài; nhân viên sẽ luôn yêu cầu 'your passport, please'."
+    },
+    {
+      "term": "purpose of visit",
+      "ipa": "/ˈpɜː.pəs əv ˈvɪz.ɪt/",
+      "vi": "mục đích chuyến đi (danh từ)",
+      "register": "neutral",
+      "example": "What's the purpose of your visit — business or pleasure?",
+      "exampleVi": "Mục đích chuyến đi của bạn là gì — công việc hay du lịch?",
+      "note": "Cụm danh từ. Đây là câu hỏi gần như chắc chắn sẽ gặp ở quầy nhập cảnh. Trả lời ngắn gọn: 'Tourism.' / 'Business.'",
+      "synonyms": [
+        { "term": "reason for travelling", "ipa": "/ˈriː.zən fɔːr ˈtræv.əl.ɪŋ/", "register": "neutral", "nuanceVi": "Cách nói đời thường, dễ hiểu hơn một chút. Cùng nghĩa nhưng nghe ít trang trọng hơn 'purpose of visit'." }
+      ]
+    },
+    {
+      "term": "to declare",
+      "ipa": "/dɪˈkleər/",
+      "vi": "khai báo (động từ)",
+      "register": "neutral",
+      "example": "Do you have anything to declare?",
+      "exampleVi": "Bạn có gì cần khai báo không?",
+      "note": "Động từ. Ở hải quan, 'declare' nghĩa là khai báo hàng hóa phải đóng thuế hoặc bị hạn chế. Trả lời thật: 'Nothing to declare.'",
+      "synonyms": [
+        { "term": "to report", "ipa": "/rɪˈpɔːrt/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'báo cho cơ quan biết', chung chung hơn. 'declare' là từ chuyên dùng tại hải quan." },
+        { "term": "to disclose", "ipa": "/dɪsˈkləʊz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tiết lộ điều trước đó chưa nói'. Hay gặp trên giấy tờ, ít dùng khi nói." }
+      ]
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "Is this all your luggage, or do you have any checked bags?",
+      "exampleVi": "Đây là toàn bộ hành lý của bạn, hay bạn còn vali ký gửi nào nữa?",
+      "note": "Danh từ KHÔNG đếm được: không nói 'a luggage' hay 'luggages'. Muốn đếm thì dùng 'a piece of luggage' / 'two bags'.",
+      "synonyms": [
+        { "term": "baggage", "ipa": "/ˈbæɡ.ɪdʒ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa và cũng không đếm được. Người Mỹ và biển báo sân bay ('baggage claim') hay dùng 'baggage' hơn." },
+        { "term": "belongings", "ipa": "/bɪˈlɒŋ.ɪŋz/", "register": "neutral", "nuanceVi": "Nhấn vào 'đồ đạc cá nhân nói chung', luôn số nhiều. Rộng hơn 'luggage', không chỉ riêng vali túi xách." }
+      ]
+    },
+    {
+      "term": "customs",
+      "ipa": "/ˈkʌs.təmz/",
+      "vi": "hải quan (danh từ)",
+      "register": "neutral",
+      "example": "After collecting your bags, please proceed through customs.",
+      "exampleVi": "Sau khi lấy hành lý, vui lòng đi qua khu vực hải quan.",
+      "note": "Khi nghĩa là 'cơ quan hải quan' thì LUÔN có 's' và đi với động từ số ít. Đừng nhầm với 'custom' (phong tục) hay 'costume' (trang phục)."
+    },
+    {
+      "term": "to stay",
+      "ipa": "/steɪ/",
+      "vi": "lưu trú, ở lại (động từ)",
+      "register": "neutral",
+      "example": "How long are you planning to stay in the country?",
+      "exampleVi": "Bạn dự định ở lại trong nước bao lâu?",
+      "note": "Động từ. Danh từ là 'stay' ('a short stay'). Nhân viên thường hỏi 'How long will you be staying?'.",
+      "synonyms": [
+        { "term": "to remain", "ipa": "/rɪˈmeɪn/", "register": "formal", "nuanceVi": "Trang trọng, hơi cứng. Nhấn 'tiếp tục ở đó'. Khi nói chuyện thường ngày, 'stay' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "còn hiệu lực, hợp lệ (tính từ)",
+      "register": "neutral",
+      "example": "Make sure your visa is still valid before you fly.",
+      "exampleVi": "Hãy chắc chắn visa của bạn còn hiệu lực trước khi bay.",
+      "note": "Tính từ. Trái nghĩa: 'invalid' / 'expired' (đã hết hạn). Hay dùng cho passport, visa, vé.",
+      "synonyms": [
+        { "term": "in date", "ipa": "/ɪn deɪt/", "register": "casual", "nuanceVi": "Đời thường (Anh-Anh), nghĩa 'chưa hết hạn'. Ngược lại là 'out of date'. Nghe thân mật hơn 'valid'." },
+        { "term": "current", "ipa": "/ˈkʌr.ənt/", "register": "neutral", "nuanceVi": "Nhấn 'đang trong thời hạn hiện tại, mới nhất'. Hay dùng cho giấy tờ: 'a current passport'." }
+      ]
+    },
+    {
+      "term": "to fill in",
+      "ipa": "/fɪl ɪn/",
+      "vi": "điền (vào tờ khai) (động từ)",
+      "register": "neutral",
+      "example": "You need to fill in this arrival card before you reach immigration.",
+      "exampleVi": "Bạn cần điền tờ khai nhập cảnh này trước khi tới quầy xuất nhập cảnh.",
+      "note": "Cụm động từ. 'fill in' (Anh-Anh) và 'fill out' (Anh-Mỹ) đều đúng, nghĩa như nhau. Đi với form/card/application.",
+      "synonyms": [
+        { "term": "to complete", "ipa": "/kəmˈpliːt/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay xuất hiện trên hướng dẫn chính thức: 'Please complete the form.'" }
+      ]
+    },
+    {
+      "term": "thoroughly",
+      "ipa": "/ˈθʌr.ə.li/",
+      "vi": "một cách kỹ lưỡng (trạng từ)",
+      "register": "neutral",
+      "example": "The officers checked every bag thoroughly because of new security rules.",
+      "exampleVi": "Các nhân viên kiểm tra từng vali rất kỹ vì có quy định an ninh mới.",
+      "note": "Trạng từ. Phát âm bẫy: /ˈθʌr.ə.li/, KHÔNG đọc giống 'through' /θruː/.",
+      "synonyms": [
+        { "term": "carefully", "ipa": "/ˈkeə.fəl.i/", "register": "neutral", "nuanceVi": "Phổ biến, nhấn 'cẩn thận để tránh sai sót'. Nhẹ hơn 'thoroughly' (vốn nhấn 'kỹ đến từng chi tiết, không bỏ sót')." },
+        { "term": "meticulously", "ipa": "/məˈtɪk.jə.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tỉ mỉ đến mức cực kỳ chi tiết'. Nghe chuyên nghiệp nhưng hơi nặng cho hội thoại thường." }
+      ]
+    },
+    {
+      "term": "straightforward",
+      "ipa": "/ˌstreɪtˈfɔː.wəd/",
+      "vi": "đơn giản, dễ hiểu, suôn sẻ (tính từ)",
+      "register": "neutral",
+      "example": "Don't worry — the process is usually quite straightforward.",
+      "exampleVi": "Đừng lo — quy trình thường khá đơn giản và suôn sẻ.",
+      "note": "Tính từ. Nghĩa 'không rắc rối, dễ làm theo'. Hay dùng để trấn an rằng thủ tục không phức tạp.",
+      "synonyms": [
+        { "term": "simple", "ipa": "/ˈsɪm.pəl/", "register": "neutral", "nuanceVi": "Đơn giản và phổ biến nhất. 'straightforward' nhấn thêm ý 'rõ ràng, không gây bối rối', không chỉ là dễ." },
+        { "term": "hassle-free", "ipa": "/ˈhæs.əl friː/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'không phiền phức, không mất công'. Hợp khi nói chuyện thân mật về trải nghiệm đi lại." }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách trơn tru, suôn sẻ (trạng từ)",
+      "register": "neutral",
+      "example": "Everything went smoothly, so we cleared immigration in ten minutes.",
+      "exampleVi": "Mọi thứ diễn ra suôn sẻ nên chúng tôi qua cửa nhập cảnh trong mười phút.",
+      "note": "Trạng từ. Đi với 'go' ('go smoothly') để nói việc gì đó diễn ra trôi chảy, không trục trặc.",
+      "synonyms": [
+        { "term": "quickly", "ipa": "/ˈkwɪk.li/", "register": "neutral", "nuanceVi": "Nhấn vào 'nhanh' về tốc độ, không hẳn về sự suôn sẻ. Khác sắc thái: smoothly = không trục trặc, quickly = mất ít thời gian." }
+      ]
+    },
+    {
+      "term": "officer",
+      "ipa": "/ˈɒf.ɪ.sər/",
+      "vi": "nhân viên (xuất nhập cảnh / hải quan) (danh từ)",
+      "register": "neutral",
+      "example": "The immigration officer stamped my passport and waved me through.",
+      "exampleVi": "Nhân viên xuất nhập cảnh đóng dấu hộ chiếu và vẫy tay cho tôi qua.",
+      "note": "Danh từ. Gọi đầy đủ là 'immigration officer' (cửa nhập cảnh) hoặc 'customs officer' (hải quan). Xưng hô lịch sự: 'Sir' / 'Officer'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm here for [danh từ / V-ing].",
+      "use": "Trả lời câu hỏi về mục đích chuyến đi.",
+      "register": "neutral",
+      "examples": [
+        "I'm here for tourism.",
+        "I'm here for a business conference that lasts three days."
+      ],
+      "explanationVi": "Cách trả lời ngắn gọn, tự nhiên nhất cho 'What's the purpose of your visit?'. Sau 'for' dùng danh từ hoặc V-ing.",
+      "altOf": "stating-purpose"
+    },
+    {
+      "pattern": "I'm planning to [động từ] for [khoảng thời gian].",
+      "use": "Nói rõ mục đích kèm thời gian lưu trú.",
+      "register": "neutral",
+      "examples": [
+        "I'm planning to travel around the country for two weeks.",
+        "I'm planning to visit my relatives for about ten days."
+      ],
+      "explanationVi": "Gộp mục đích và thời gian vào một câu để nghe trôi chảy và chủ động hơn. 'planning to' cho thấy bạn có kế hoạch rõ ràng.",
+      "altOf": "stating-purpose"
+    },
+    {
+      "pattern": "I'll be staying for [số] [đêm/ngày/tuần].",
+      "use": "Trả lời câu hỏi về thời gian lưu trú.",
+      "register": "neutral",
+      "examples": [
+        "I'll be staying for five nights.",
+        "I'll be staying for about a week before I fly home."
+      ],
+      "explanationVi": "Thì tương lai tiếp diễn 'will be staying' nghe lịch sự, tự nhiên cho kế hoạch đã định. Trả lời thẳng vào số ngày/đêm là điều nhân viên cần."
+    },
+    {
+      "pattern": "I have nothing to declare except [danh từ].",
+      "use": "Khai báo trung thực ở quầy hải quan.",
+      "register": "neutral",
+      "examples": [
+        "I have nothing to declare except some gifts for my family.",
+        "I have nothing to declare except a few personal items."
+      ],
+      "explanationVi": "'except' = ngoại trừ. Nếu thật sự không có gì thì chỉ cần nói 'Nothing to declare.'. Luôn khai báo thật để tránh rắc rối."
+    },
+    {
+      "pattern": "Sorry, could you say that again, please?",
+      "use": "Hỏi lại lịch sự khi không nghe rõ hoặc không hiểu.",
+      "register": "neutral",
+      "examples": [
+        "Sorry, could you say that again, please?",
+        "Sorry, could you speak a little more slowly, please?"
+      ],
+      "explanationVi": "Câu cứu cánh khi căng thẳng và nghe không kịp. Lịch sự, an toàn, không có gì đáng ngại — nhân viên gặp khách nước ngoài thường xuyên.",
+      "altOf": "asking-clarification"
+    },
+    {
+      "pattern": "Sorry, I'm not sure what you mean by [từ/cụm].",
+      "use": "Hỏi lại khi không hiểu một từ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "Sorry, I'm not sure what you mean by 'return ticket'.",
+        "Sorry, I'm not sure what you mean by 'proof of funds'."
+      ],
+      "explanationVi": "Cách hỏi rõ vào đúng từ bạn không hiểu, thay vì nhờ nhắc lại cả câu. Cho thấy bạn nghe được phần lớn, chỉ vướng một chỗ.",
+      "altOf": "asking-clarification"
+    },
+    {
+      "pattern": "Of course, here you are.",
+      "use": "Đáp lại lịch sự khi đưa giấy tờ theo yêu cầu.",
+      "register": "neutral",
+      "examples": [
+        "Of course, here you are.",
+        "Certainly, here's my passport and arrival card."
+      ],
+      "explanationVi": "'Here you are.' / 'Here you go.' là cách tự nhiên khi trao vật gì cho ai. Kèm 'Of course' / 'Certainly' để nghe sẵn lòng hợp tác."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại hoặc làm rõ một thông tin mà không nghe cộc.",
+      "example": "Actually, I'm here for both business and tourism."
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói",
+      "when": "Khi muốn nhấn rằng mình đang nói thật — rất hợp ở hải quan.",
+      "example": "Honestly, I only have a few souvenirs for my friends."
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm, bớt nặng nề)",
+      "when": "Khi muốn giảm nhẹ, cho thấy không có gì to tát.",
+      "example": "I'm just here for a short holiday with my family."
+    },
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔː.tʃən.ət.li/",
+      "vi": "may mắn thay",
+      "when": "Dẫn vào một kết quả tốt sau một chút lo lắng.",
+      "example": "Fortunately, all my documents were in order, so it went smoothly."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːrs/",
+      "vi": "tất nhiên rồi / sẵn lòng",
+      "when": "Đáp lại sẵn lòng khi được yêu cầu hợp tác.",
+      "example": "Of course, I'll open my suitcase for you right away."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa hạ cánh ở một sân bay quốc tế và đang đi qua quầy xuất nhập cảnh rồi tới khu vực hải quan. Một nhân viên đang hỏi bạn vài câu thường lệ.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon. May I see your passport and arrival card, please?",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn meɪ aɪ siː jɔːr ˈpɑːs.pɔːrt ænd əˈraɪv.əl kɑːrd pliːz/",
+        "vi": "Chào buổi chiều. Cho tôi xem hộ chiếu và tờ khai nhập cảnh của bạn nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. Of course, here you are. I've already ____ in the arrival card on the plane.",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn əv kɔːrs hɪər juː ɑːr aɪv ɔːlˈred.i ... ɪn ði əˈraɪv.əl kɑːrd ɒn ðə pleɪn/",
+        "vi": "Chào buổi chiều. Vâng, đây ạ. Tôi đã ____ tờ khai nhập cảnh trên máy bay rồi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "filled",
+            "explanationVi": "Cụm động từ 'fill in' ở thì hiện tại hoàn thành: 'have filled in'. Vì có 'in' ngay sau chỗ trống nên ta điền 'filled'. Xem mẫu từ vựng 'to fill in'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Thank you. What's the purpose of your visit, and how long are you planning to stay?",
+        "ipa": "/θæŋk juː wɒts ðə ˈpɜː.pəs əv jɔːr ˈvɪz.ɪt ænd haʊ lɒŋ ɑːr juː ˈplæn.ɪŋ tə steɪ/",
+        "vi": "Cảm ơn. Mục đích chuyến đi của bạn là gì, và bạn dự định ở lại bao lâu?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm here for tourism. I'm planning to travel around the country ____ about two weeks, although I might leave a few days earlier if the weather gets bad.",
+        "ipa": "/aɪm hɪər fɔːr ˈtʊə.rɪ.zəm aɪm ˈplæn.ɪŋ tə ˈtræv.əl əˈraʊnd ðə ˈkʌn.tri ... əˈbaʊt tuː wiːks ɔːlˈðəʊ aɪ maɪt liːv ə fjuː deɪz ˈɜː.li.ər ɪf ðə ˈweð.ər ɡets bæd/",
+        "vi": "Tôi đến để du lịch. Tôi dự định đi vòng quanh đất nước ____ khoảng hai tuần, mặc dù tôi có thể rời đi sớm vài ngày nếu thời tiết xấu.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "for",
+            "explanationVi": "Dùng giới từ 'for' trước một khoảng thời gian ('for two weeks' = trong hai tuần). Xem mẫu câu 'I'm planning to... for...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I see. Where will you be staying, and do you have a return ticket which shows when you'll be leaving?",
+        "ipa": "/aɪ siː weər wɪl juː biː ˈsteɪ.ɪŋ ænd duː juː hæv ə rɪˈtɜːn ˈtɪk.ɪt wɪtʃ ʃəʊz wen juːl biː ˈliːv.ɪŋ/",
+        "vi": "Tôi hiểu rồi. Bạn sẽ ở đâu, và bạn có vé khứ hồi cho thấy khi nào bạn rời đi không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, I'll be staying at a hotel ____ I booked online, and I definitely have a return ticket. Sorry, I'm not sure what you mean by 'proof of funds', though — could you explain that, please?",
+        "ipa": "/jes aɪl biː ˈsteɪ.ɪŋ ət ə həʊˈtel ... aɪ bʊkt ˈɒn.laɪn ænd aɪ ˈdef.ɪn.ət.li hæv ə rɪˈtɜːn ˈtɪk.ɪt ˈsɒr.i aɪm nɒt ʃʊər wɒt juː miːn baɪ pruːf əv fʌndz ðəʊ kʊd juː ɪkˈspleɪn ðæt pliːz/",
+        "vi": "Vâng, tôi sẽ ở một khách sạn ____ tôi đã đặt online, và tôi chắc chắn có vé khứ hồi. Xin lỗi, nhưng tôi không rõ 'proof of funds' nghĩa là gì — anh/chị giải thích giúp được không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "which",
+            "explanationVi": "Dùng đại từ quan hệ 'which' (hoặc 'that') thay cho 'a hotel' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'. Xem mẫu câu hỏi lại 'I'm not sure what you mean by...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "No problem — it just means evidence that you have enough money for your trip, such as a bank statement or a credit card. That's fine. Please proceed to customs over there.",
+        "ipa": "/nəʊ ˈprɒb.ləm ɪt dʒʌst miːnz ˈev.ɪ.dəns ðæt juː hæv ɪˈnʌf ˈmʌn.i fɔːr jɔːr trɪp sʌtʃ æz ə bæŋk ˈsteɪt.mənt ɔːr ə ˈkred.ɪt kɑːrd ðæts faɪn pliːz prəˈsiːd tə ˈkʌs.təmz ˈəʊ.vər ðeər/",
+        "vi": "Không sao — nó chỉ có nghĩa là bằng chứng bạn có đủ tiền cho chuyến đi, chẳng hạn như sao kê ngân hàng hoặc thẻ tín dụng. Vậy là ổn. Mời bạn đi tới khu hải quan đằng kia."
+      },
+      {
+        "speaker": "Nhân viên hải quan",
+        "text": "Hello. Do you have anything to declare? Although most passengers don't, we sometimes need to check bags ____ to keep everyone safe.",
+        "ipa": "/həˈləʊ duː juː hæv ˈen.i.θɪŋ tə dɪˈkleər ɔːlˈðəʊ məʊst ˈpæs.ɪn.dʒəz dəʊnt wiː ˈsʌm.taɪmz niːd tə tʃek bæɡz ... tə kiːp ˈev.ri.wʌn seɪf/",
+        "vi": "Xin chào. Bạn có gì cần khai báo không? Mặc dù phần lớn hành khách không có, đôi khi chúng tôi vẫn cần kiểm tra hành lý ____ để giữ an toàn cho mọi người.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "thoroughly",
+            "explanationVi": "Cần một trạng từ bổ nghĩa cho động từ 'check' (kiểm tra như thế nào). 'thoroughly' = một cách kỹ lưỡng. Xem mục từ vựng 'thoroughly'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I have nothing to declare except ____, which are just gifts for my friends. Of course, you're welcome to check my luggage if you need to — fortunately, everything is quite straightforward.",
+        "ipa": "/ˈɒn.ɪst.li aɪ hæv ˈnʌθ.ɪŋ tə dɪˈkleər ɪkˈsept ... wɪtʃ ɑːr dʒʌst ɡɪfts fɔːr maɪ frendz əv kɔːrs jɔːr ˈwel.kəm tə tʃek maɪ ˈlʌɡ.ɪdʒ ɪf juː niːd tuː ˈfɔː.tʃən.ət.li ˈev.ri.θɪŋ ɪz kwaɪt ˌstreɪtˈfɔː.wəd/",
+        "vi": "Thành thật mà nói, tôi không có gì cần khai báo ngoài ____, vốn chỉ là quà cho bạn bè tôi. Tất nhiên, anh/chị cứ kiểm tra hành lý của tôi nếu cần — may là mọi thứ khá đơn giản.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Món đồ bạn mang theo. Ví dụ: 'some chocolates', 'a few souvenirs', 'some tea'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở quầy nhập cảnh, hãy trả lời ngắn gọn, trung thực và chỉ nói điều được hỏi. Trả lời lan man đôi khi khiến nhân viên hỏi thêm nhiều hơn.",
+    "Tuyệt đối không nói đùa về bom, vũ khí, ma túy ở sân bay hay hải quan — kể cả nói giỡn cũng có thể bị giữ lại và xử lý nghiêm.",
+    "Nhiều nước cấm hoặc hạn chế mang thực phẩm tươi, thịt, hạt giống, tiền mặt vượt hạn mức. Nếu không chắc, hãy chủ động khai báo (declare) cho an toàn.",
+    "Việc bị chọn kiểm tra hành lý ngẫu nhiên là bình thường và không có nghĩa bạn bị nghi ngờ. Giữ bình tĩnh, hợp tác là cách qua cửa nhanh nhất."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'luggage' / 'baggage' ở số nhiều: SAI 'two luggages'. Đúng: 'two pieces of luggage' hoặc 'two bags'.",
+    "Nói 'I come here for travel' — chưa tự nhiên. Đúng hơn: 'I'm here for tourism' hoặc 'I'm here on holiday'.",
+    "Im lặng khi không nghe rõ vì sợ sai. Hãy chủ động hỏi lại: 'Sorry, could you say that again, please?'.",
+    "Nhầm 'customs' (hải quan, luôn có 's') với 'custom' (phong tục) hoặc 'costume' (trang phục)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống qua cửa nhập cảnh và hải quan như thật.",
+    "prompt": "Hãy đóng vai một nhân viên xuất nhập cảnh rồi nhân viên hải quan ở sân bay quốc tế, nói tiếng Anh. Tôi là hành khách vừa hạ cánh. Hãy hỏi tôi từng câu một (xin hộ chiếu và tờ khai, mục đích chuyến đi, thời gian lưu trú, nơi ở, vé khứ hồi, có gì cần khai báo không). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'although', 'such as', 'which' và các trạng từ như 'honestly', 'fortunately'. Thỉnh thoảng hãy tạo tình huống bất ngờ (ví dụ yêu cầu mở vali kiểm tra, hỏi 'proof of funds') để tôi tập xử lý bình tĩnh. Cuối buổi hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như nhân viên bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai nhân viên hơi nghiêm khắc và hỏi vặn thêm.' để tập giữ bình tĩnh dưới áp lực."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi trả lời được mục đích chuyến đi và thời gian lưu trú bằng câu đầy đủ, không nhìn gợi ý.",
+    "Tôi hỏi lại được một cách lịch sự khi không nghe rõ hoặc không hiểu một từ.",
+    "Tôi khai báo được hành lý trung thực và xử lý bình tĩnh khi bị yêu cầu kiểm tra."
+  ]
+}

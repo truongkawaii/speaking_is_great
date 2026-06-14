@@ -1,0 +1,366 @@
+{
+  "id": "interrupting-politely",
+  "category": "advanced",
+  "title": "Ngắt lời lịch sự",
+  "titleEn": "Interrupting Politely",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "requesting", "small-talk"],
+  "estimatedMinutes": 22,
+  "objectives": [
+    "Xen vào một cuộc họp hoặc cuộc trò chuyện mà không tỏ ra thô lỗ hay áp đặt",
+    "Dùng các cụm 'làm mềm' (softeners) và mệnh đề rào đón để mở lời tinh tế",
+    "Báo hiệu ý định ngắt lời, giành lượt nói, rồi trả lại lượt cho người khác một cách nhã nhặn",
+    "Phân biệt sắc thái giữa ngắt lời để bổ sung, để phản biện và để xin làm rõ",
+    "Vận dụng ngữ pháp C1 (mệnh đề quan hệ, despite, not only… but also, in order to) khi xen lời mà vẫn trôi chảy"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to interrupt",
+      "ipa": "/ˌɪn.təˈrʌpt/",
+      "vi": "ngắt lời, xen vào (động từ)",
+      "register": "neutral",
+      "example": "I'm sorry to interrupt, but I think there's a point worth raising here.",
+      "exampleVi": "Xin lỗi vì ngắt lời, nhưng tôi nghĩ có một điểm đáng nêu ở đây.",
+      "note": "Động từ trung tính, không tự thân mang nghĩa thô lỗ — chính cách bạn 'bọc' nó (softener) mới quyết định độ lịch sự. Trọng âm rơi vào âm cuối: '-RUPT'.",
+      "synonyms": [
+        { "term": "to cut in", "ipa": "/kʌt ɪn/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nhanh và hơi đột ngột; hợp lúc trò chuyện thân mật hơn là họp trang trọng." },
+        { "term": "to butt in", "ipa": "/bʌt ɪn/", "register": "casual", "nuanceVi": "Suồng sã hơn nữa, hàm ý 'chen ngang khi không được mời'. Thường dùng tự trào: 'Sorry to butt in.'" },
+        { "term": "to chime in", "ipa": "/tʃaɪm ɪn/", "register": "neutral", "nuanceVi": "Sắc thái TÍCH CỰC: góp lời, hùa vào một cách thân thiện, không mang nghĩa cắt ngang gây khó chịu." }
+      ]
+    },
+    {
+      "term": "to interject",
+      "ipa": "/ˌɪn.təˈdʒekt/",
+      "vi": "xen vào (một lời ngắn) (động từ)",
+      "register": "formal",
+      "example": "May I just interject for a moment before we move on?",
+      "exampleVi": "Cho phép tôi xen một chút trước khi ta sang phần khác nhé?",
+      "note": "Trang trọng hơn 'interrupt', nhấn vào việc chèn một câu ngắn gọn. Rất hợp trong họp hành chuyên nghiệp.",
+      "synonyms": [
+        { "term": "to interpose", "ipa": "/ˌɪn.təˈpəʊz/", "register": "formal", "nuanceVi": "Văn vẻ, học thuật; nghĩa 'đặt một lời/ý vào giữa'. Hiếm trong nói thường, hay gặp trong văn viết." }
+      ]
+    },
+    {
+      "term": "to elaborate",
+      "ipa": "/ɪˈlæb.ə.reɪt/",
+      "vi": "nói rõ thêm, khai triển chi tiết (động từ)",
+      "register": "neutral",
+      "example": "Sorry, could you elaborate on that last point a little?",
+      "exampleVi": "Xin lỗi, anh/chị có thể nói rõ thêm về ý cuối được không?",
+      "note": "Động từ, thường đi với giới từ 'on'. Cách lịch sự để yêu cầu ai đó giải thích sâu hơn mà không tỏ ra mình chưa hiểu.",
+      "synonyms": [
+        { "term": "to expand on", "ipa": "/ɪkˈspænd ɒn/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn 'mở rộng thêm'. Tự nhiên trong cả nói lẫn viết: 'expand on the idea'." },
+        { "term": "to expound", "ipa": "/ɪkˈspaʊnd/", "register": "formal", "nuanceVi": "Rất trang trọng, hơi học thuật, nghĩa 'trình bày tường tận'. Dùng nhiều có thể nghe cứng nhắc." }
+      ]
+    },
+    {
+      "term": "to digress",
+      "ipa": "/daɪˈɡres/",
+      "vi": "lạc đề, nói lan man (động từ)",
+      "register": "formal",
+      "example": "I don't mean to digress, but this is closely related to what you said.",
+      "exampleVi": "Tôi không định lạc đề, nhưng điều này liên quan chặt đến điều anh/chị vừa nói.",
+      "note": "Động từ. Cụm 'I don't mean to digress, but…' là cách lịch sự để xin phép xen một ý hơi tách khỏi mạch chính.",
+      "synonyms": [
+        { "term": "to go off on a tangent", "ipa": "/ɡəʊ ɒf ɒn ə ˈtæn.dʒənt/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'rẽ sang chuyện khác hẳn'. Hình ảnh và hóm hỉnh hơn 'digress'." }
+      ]
+    },
+    {
+      "term": "interruption",
+      "ipa": "/ˌɪn.təˈrʌp.ʃən/",
+      "vi": "sự ngắt lời, sự gián đoạn (danh từ)",
+      "register": "neutral",
+      "example": "Sorry for the interruption — please go on.",
+      "exampleVi": "Xin lỗi vì đã ngắt lời — anh/chị cứ tiếp tục ạ.",
+      "note": "Danh từ của 'interrupt'. 'Sorry for the interruption' là cách gọn gàng để xin lỗi sau khi đã xen vào.",
+      "synonyms": [
+        { "term": "intrusion", "ipa": "/ɪnˈtruː.ʒən/", "register": "formal", "nuanceVi": "Nặng hơn, hàm ý 'xâm phạm, chen vào không gian/việc riêng'. Dùng khi muốn nhấn mình thực sự áy náy." }
+      ]
+    },
+    {
+      "term": "tactful",
+      "ipa": "/ˈtækt.fəl/",
+      "vi": "khéo léo, tế nhị (tính từ)",
+      "register": "neutral",
+      "example": "She found a tactful way to point out the error without embarrassing him.",
+      "exampleVi": "Cô ấy tìm được cách khéo léo để chỉ ra lỗi mà không làm anh ta ngượng.",
+      "note": "Tính từ. 'tactful' nhấn vào sự nhạy cảm với cảm xúc người khác khi nói điều khó. Trái nghĩa: tactless / blunt.",
+      "synonyms": [
+        { "term": "diplomatic", "ipa": "/ˌdɪp.ləˈmæt.ɪk/", "register": "neutral", "nuanceVi": "Nhấn 'khéo xử lý chuyện nhạy cảm, tránh xung đột'. Hợp ngữ cảnh công sở, đàm phán." },
+        { "term": "considerate", "ipa": "/kənˈsɪd.ər.ət/", "register": "neutral", "nuanceVi": "Thiên về 'quan tâm, để ý đến cảm nhận người khác', rộng hơn tactful (vốn nhấn lời ăn tiếng nói)." }
+      ]
+    },
+    {
+      "term": "abrupt",
+      "ipa": "/əˈbrʌpt/",
+      "vi": "đột ngột, cộc lốc (tính từ)",
+      "register": "neutral",
+      "example": "His abrupt interruption caught everyone off guard.",
+      "exampleVi": "Việc anh ta xen ngang đột ngột khiến mọi người bất ngờ.",
+      "note": "Tính từ. Mô tả kiểu ngắt lời thiếu chuẩn bị, gây khó chịu — chính là điều bài này dạy bạn TRÁNH.",
+      "synonyms": [
+        { "term": "brusque", "ipa": "/bruːsk/", "register": "formal", "nuanceVi": "Nhấn 'cộc cằn, ngắn gọn đến mức khó ưa' trong cách nói. Sắc thái về thái độ con người." },
+        { "term": "blunt", "ipa": "/blʌnt/", "register": "neutral", "nuanceVi": "Nghĩa 'thẳng tuột, không vòng vo', không nhất thiết xấu — đôi khi được coi là thật thà." }
+      ]
+    },
+    {
+      "term": "to hold the floor",
+      "ipa": "/həʊld ðə flɔː/",
+      "vi": "đang giữ lượt nói (thành ngữ)",
+      "register": "formal",
+      "example": "I didn't want to take the floor while she was still holding it.",
+      "exampleVi": "Tôi không muốn giành lượt nói khi cô ấy vẫn đang phát biểu.",
+      "note": "Thành ngữ trong họp hành: 'hold the floor' = đang là người được nói; 'take the floor' = giành/nhận lượt nói. Hình ảnh rất tự nhiên ở môi trường chuyên nghiệp."
+    },
+    {
+      "term": "momentarily",
+      "ipa": "/ˈməʊ.mən.tər.ə.li/",
+      "vi": "trong chốc lát, một thoáng (trạng từ)",
+      "register": "formal",
+      "example": "If I could just jump in momentarily, I'll keep it brief.",
+      "exampleVi": "Nếu tôi xen vào một chút thôi, tôi sẽ nói thật ngắn gọn.",
+      "note": "Trạng từ. Trong Anh-Anh nghĩa 'trong chốc lát'; lưu ý Anh-Mỹ đôi khi hiểu là 'ngay sau đây'. Báo trước rằng bạn chỉ xen rất nhanh.",
+      "synonyms": [
+        { "term": "briefly", "ipa": "/ˈbriːf.li/", "register": "neutral", "nuanceVi": "Phổ biến, rõ ràng, nghĩa 'một cách ngắn gọn'. An toàn nhất khi muốn nói mình sẽ không nói dài." },
+        { "term": "for a second", "ipa": "/fər ə ˈsek.ənd/", "register": "casual", "nuanceVi": "Đời thường, thân mật: 'Can I jump in for a second?'. Nghe nhẹ và gần gũi." }
+      ]
+    },
+    {
+      "term": "respectfully",
+      "ipa": "/rɪˈspekt.fəl.i/",
+      "vi": "một cách tôn trọng (trạng từ)",
+      "register": "formal",
+      "example": "I respectfully disagree, although I do see your point.",
+      "exampleVi": "Tôi xin phép không đồng tình, dù tôi hiểu quan điểm của anh/chị.",
+      "note": "Trạng từ. 'I respectfully disagree' là công thức vàng để phản biện mà không gây mất lòng — báo trước rằng bạn phản đối ý kiến chứ không công kích con người.",
+      "synonyms": [
+        { "term": "politely", "ipa": "/pəˈlaɪt.li/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa chung 'một cách lịch sự'. Nhẹ hơn 'respectfully' (vốn trang trọng và nhấn sự nể trọng)." },
+        { "term": "courteously", "ipa": "/ˈkɜː.ti.əs.li/", "register": "formal", "nuanceVi": "Trang trọng, hơi văn vẻ, nhấn phép tắc nhã nhặn. Nghe cổ điển, lịch thiệp." }
+      ]
+    },
+    {
+      "term": "to follow up on",
+      "ipa": "/ˈfɒl.əʊ ʌp ɒn/",
+      "vi": "tiếp nối, bám theo (ý vừa nói) (cụm động từ)",
+      "register": "neutral",
+      "example": "Just to follow up on what Mark said, I'd add one thing.",
+      "exampleVi": "Để tiếp nối ý của Mark, tôi xin bổ sung một điều.",
+      "note": "Cụm động từ rất hữu ích để xen lời theo hướng XÂY DỰNG: bạn nối tiếp ý người trước thay vì cắt ngang, nên nghe rất thiện chí.",
+      "synonyms": [
+        { "term": "to build on", "ipa": "/bɪld ɒn/", "register": "neutral", "nuanceVi": "Nhấn 'xây thêm trên nền ý đó', mang tính sáng tạo, đóng góp. Rất được ưa chuộng trong họp brainstorming." },
+        { "term": "to pick up on", "ipa": "/pɪk ʌp ɒn/", "register": "neutral", "nuanceVi": "Nhấn 'bắt lấy một chi tiết người ta vừa nói để khai thác tiếp'. Tinh tế, cho thấy bạn đang lắng nghe kỹ." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Sorry to interrupt, but [mệnh đề].",
+      "use": "Mở lời xen vào nhanh, lịch sự ở mức trung tính, dùng được hầu hết mọi tình huống.",
+      "register": "neutral",
+      "examples": [
+        "Sorry to interrupt, but I think we may be running short on time.",
+        "Sorry to interrupt, but there's something here that I'd really like to clarify."
+      ],
+      "explanationVi": "Công thức an toàn nhất: xin lỗi trước rồi mới nói. 'but' nối sang nội dung. Vì đã 'rào' bằng lời xin lỗi nên dù cắt ngang vẫn nghe nhã nhặn.",
+      "altOf": "opening-interruption"
+    },
+    {
+      "pattern": "If I could just jump in for a second / momentarily, [mệnh đề].",
+      "use": "Xin một khoảng ngắn để xen vào, nhấn rằng bạn sẽ nói rất nhanh nên không 'chiếm sóng'.",
+      "register": "neutral",
+      "examples": [
+        "If I could just jump in for a second, I'd like to add a quick example.",
+        "If I could just jump in momentarily, I'd like to flag one thing in order to avoid any confusion later."
+      ],
+      "explanationVi": "Câu điều kiện rút gọn 'If I could just…' nghe khiêm tốn, như đang xin phép. 'just' và 'for a second' làm câu mềm thêm. Rất tự nhiên trong họp.",
+      "altOf": "opening-interruption"
+    },
+    {
+      "pattern": "May I interject / come in here for a moment?",
+      "use": "Xin phép xen lời một cách trang trọng, lịch sự bậc cao, hợp họp hành chính thức.",
+      "register": "formal",
+      "examples": [
+        "May I interject here for a moment, although I know you haven't quite finished?",
+        "May I come in here, just to make sure I've understood you correctly?"
+      ],
+      "explanationVi": "'May I…?' trang trọng hơn 'Can I…?'. Đây là cách xin phép rõ ràng trước khi nói, thể hiện bạn tôn trọng người đang giữ lượt nói (hold the floor).",
+      "altOf": "opening-interruption"
+    },
+    {
+      "pattern": "Just to follow up on / build on what [người] said, [mệnh đề].",
+      "use": "Xen vào theo hướng xây dựng: nối tiếp ý người trước thay vì cắt ngang để phản đối.",
+      "register": "neutral",
+      "examples": [
+        "Just to follow up on what Lan said, the data actually supports that view.",
+        "Just to build on your point, which I think is spot-on, we could also consider the cost side."
+      ],
+      "explanationVi": "Cách xen lời 'thân thiện' nhất: bạn ghi nhận và phát triển ý người khác. Mệnh đề quan hệ 'which…' chèn lời khen ngắn khiến người nghe dễ tiếp nhận.",
+      "altOf": "constructive-interruption"
+    },
+    {
+      "pattern": "I respectfully disagree, although I [do] see your point about [danh từ].",
+      "use": "Ngắt lời để phản biện mà vẫn giữ thể diện cho người kia.",
+      "register": "formal",
+      "examples": [
+        "I respectfully disagree, although I do see your point about the timeline.",
+        "I respectfully disagree, although I appreciate the reasoning behind it."
+      ],
+      "explanationVi": "Bộ đôi 'respectfully disagree' + 'although I see your point' giúp bạn phản đối ý kiến nhưng vẫn ghi nhận đối phương. Trợ động từ 'do' nhấn mạnh sự chân thành.",
+      "altOf": "constructive-interruption"
+    },
+    {
+      "pattern": "Sorry, please go on — I didn't mean to cut you off.",
+      "use": "Trả lại lượt nói sau khi đã xen vào, hoặc khi vô tình nói chồng lời người khác.",
+      "register": "neutral",
+      "examples": [
+        "Sorry, please go on — I didn't mean to cut you off.",
+        "Oh, after you — I'd hate to interrupt your train of thought."
+      ],
+      "explanationVi": "Kỹ năng quan trọng không kém: NHƯỜNG lại lượt. 'cut someone off' = cắt lời ai đó. Câu này sửa chữa lịch sự khi bạn lỡ chen vào hoặc muốn trả sân lại."
+    },
+    {
+      "pattern": "Before we move on, could I quickly clarify [danh từ]?",
+      "use": "Ngắt nhịp để xin làm rõ trước khi cuộc trò chuyện chuyển sang phần khác.",
+      "register": "neutral",
+      "examples": [
+        "Before we move on, could I quickly clarify what the deadline actually is?",
+        "Before we move on, could I quickly clarify one figure that didn't add up for me?"
+      ],
+      "explanationVi": "'Before we move on…' đặt mốc thời điểm hợp lý để xen vào (lúc sắp chuyển ý), nên không bị coi là cắt ngang tùy tiện. 'quickly' hứa rằng bạn sẽ gọn gàng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Mở lời đính chính hoặc bổ sung nhẹ nhàng mà không nghe gay gắt.", "example": "Actually, if I may add something here, the figures tell a slightly different story." },
+    { "term": "if I may", "ipa": "/ɪf aɪ meɪ/", "vi": "nếu cho phép", "when": "Chèn vào câu để xin phép xen lời một cách lịch thiệp, hơi trang trọng.", "example": "If I may, I'd like to draw your attention to one detail we've overlooked." },
+    { "term": "with respect", "ipa": "/wɪð rɪˈspekt/", "vi": "xin được nói thẳng (vẫn tôn trọng)", "when": "Báo trước một ý phản biện mà vẫn giữ nhã nhặn — dùng đúng lúc kẻo nghe khách sáo.", "example": "With respect, I think there may be a flaw in that assumption." },
+    { "term": "before I forget", "ipa": "/bɪˈfɔː aɪ fəˈɡet/", "vi": "kẻo tôi quên mất", "when": "Lý do mềm để xen một ý ngay lúc nó còn nóng hổi trong đầu.", "example": "Before I forget, could I just add one thing to what you mentioned earlier?" },
+    { "term": "in a nutshell", "ipa": "/ɪn ə ˈnʌt.ʃel/", "vi": "nói tóm lại", "when": "Hứa hẹn bạn sẽ tóm gọn khi xen vào, để người nghe yên tâm bạn không nói dài.", "example": "In a nutshell — and I'll be brief — I think we should postpone the launch." },
+    { "term": "no offence", "ipa": "/nəʊ əˈfens/", "vi": "không có ý xúc phạm đâu", "when": "Rào đón trước một nhận xét có thể hơi mất lòng; dùng tiết chế kẻo phản tác dụng.", "example": "No offence, but I'm not entirely convinced by that argument." }
+  ],
+
+  "dialogue": {
+    "context": "Một cuộc họp dự án trực tuyến. Trưởng nhóm (Daniel) đang trình bày kế hoạch ra mắt sản phẩm thì các thành viên cần xen vào để bổ sung, làm rõ và phản biện một cách lịch sự. Bạn là một thành viên trong nhóm.",
+    "lines": [
+      {
+        "speaker": "Daniel",
+        "text": "So, to sum up the plan, we'll launch the new feature next Monday, and the marketing campaign will run for two weeks across all our channels, such as email, social media, and the in-app banner.",
+        "ipa": "/səʊ tə sʌm ʌp ðə plæn wiːl lɔːntʃ ðə njuː ˈfiː.tʃər nekst ˈmʌn.deɪ ænd ðə ˈmɑː.kɪ.tɪŋ kæmˈpeɪn wɪl rʌn fɔːr tuː wiːks əˈkrɒs ɔːl aʊər ˈtʃæn.əlz sʌtʃ æz ˈiː.meɪl ˈsəʊ.ʃəl ˈmiː.di.ə ænd ðə ˌɪnˈæp ˈbæn.ər/",
+        "vi": "Vậy, tóm lại kế hoạch là: chúng ta sẽ ra mắt tính năng mới vào thứ Hai tới, và chiến dịch marketing sẽ chạy trong hai tuần trên tất cả các kênh, chẳng hạn như email, mạng xã hội và banner trong ứng dụng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sorry to interrupt, Daniel, ____ I could just jump in for a second — before we move on, could I quickly clarify whether the Monday launch includes the mobile app as well?",
+        "ipa": "/ˈsɒr.i tʊ ˌɪn.təˈrʌpt ˈdæn.jəl ɪf aɪ kʊd dʒʌst dʒʌmp ɪn fɔːr ə ˈsek.ənd bɪˈfɔː wiː muːv ɒn kʊd aɪ ˈkwɪk.li ˈklær.ɪ.faɪ ˈweð.ər ðə ˈmʌn.deɪ lɔːntʃ ɪnˈkluːdz ðə ˈməʊ.baɪl æp æz wel/",
+        "vi": "Xin lỗi vì ngắt lời, Daniel, ____ tôi xen vào một chút — trước khi ta chuyển phần, tôi có thể làm rõ nhanh là buổi ra mắt thứ Hai có bao gồm cả ứng dụng di động không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "if",
+            "explanationVi": "Dùng 'if' để tạo câu điều kiện rút gọn lịch sự 'if I could just jump in…' (nếu tôi có thể xen vào). Xem mẫu câu 'If I could just jump in…' ở phần Cấu trúc."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Good question. Actually, the mobile app launch is delayed until the following week, although the web version is definitely ready to go on Monday.",
+        "ipa": "/ɡʊd ˈkwes.tʃən ˈæk.tʃu.ə.li ðə ˈməʊ.baɪl æp lɔːntʃ ɪz dɪˈleɪd ənˈtɪl ðə ˈfɒl.əʊ.ɪŋ wiːk ɔːlˈðəʊ ðə web ˈvɜː.ʒən ɪz ˈdef.ɪ.nət.li ˈred.i tə ɡəʊ ɒn ˈmʌn.deɪ/",
+        "vi": "Câu hỏi hay. Thật ra, bản di động bị lùi đến tuần kế tiếp, dù bản web thì chắc chắn sẵn sàng phát hành vào thứ Hai."
+      },
+      {
+        "speaker": "Lan",
+        "text": "If I may, just to follow up on that point, ____ I think is really important, shouldn't we tell the customers clearly that the app is coming later, in order to avoid any confusion?",
+        "ipa": "/ɪf aɪ meɪ dʒʌst tə ˈfɒl.əʊ ʌp ɒn ðæt pɔɪnt wɪtʃ aɪ θɪŋk ɪz ˈrɪə.li ɪmˈpɔː.tənt ˈʃʊd.ənt wiː tel ðə ˈkʌs.tə.məz ˈklɪə.li ðæt ðə æp ɪz ˈkʌm.ɪŋ ˈleɪ.tər ɪn ˈɔː.də tʊ əˈvɔɪd ˈen.i kənˈfjuː.ʒən/",
+        "vi": "Nếu cho phép, để tiếp nối ý đó, ____ tôi thấy là rất quan trọng, chẳng phải chúng ta nên nói rõ với khách hàng rằng ứng dụng sẽ ra sau, để tránh gây nhầm lẫn sao?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "which",
+            "explanationVi": "Dùng đại từ quan hệ 'which' để chèn một mệnh đề khen ngắn ('which I think is really important') về 'that point' (sự vật). Nếu bổ nghĩa cho người thì dùng 'who'."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That's a fair point, Lan. Despite the tight schedule, we should certainly add a clear note about the app release date.",
+        "ipa": "/ðæts ə feər pɔɪnt læn dɪˈspaɪt ðə taɪt ˈʃed.juːl wiː ʃʊd ˈsɜːt.ən.li æd ə klɪər nəʊt əˈbaʊt ðə æp rɪˈliːs deɪt/",
+        "vi": "Ý hay đấy, Lan. Bất chấp lịch trình gấp gáp, chúng ta chắc chắn nên thêm một ghi chú rõ ràng về ngày phát hành ứng dụng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "If I may pick up on that, I respectfully ____ on the two-week campaign, although I do see the reasoning. Not only is two weeks quite short, but it also overlaps with a public holiday when most people are away.",
+        "ipa": "/ɪf aɪ meɪ pɪk ʌp ɒn ðæt aɪ rɪˈspekt.fəl.i ˌdɪs.əˈɡriː ɒn ðə tuː wiːk kæmˈpeɪn ɔːlˈðəʊ aɪ duː siː ðə ˈriː.zən.ɪŋ nɒt ˈəʊn.li ɪz tuː wiːks kwaɪt ʃɔːt bʌt ɪt ˈɔːl.səʊ ˌəʊ.vəˈlæps wɪð ə ˈpʌb.lɪk ˈhɒl.ə.deɪ wen məʊst ˈpiː.pəl ɑːr əˈweɪ/",
+        "vi": "Nếu cho phép tôi tiếp nối ý đó, tôi xin phép ____ về chiến dịch hai tuần, dù tôi hiểu lý do. Không chỉ hai tuần là khá ngắn, mà nó còn trùng với một ngày lễ khi phần lớn mọi người đi vắng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "disagree",
+            "explanationVi": "Cụm 'I respectfully disagree' là cách phản biện lịch sự, báo rằng bạn phản đối ý kiến chứ không công kích người. Lưu ý đảo ngữ ngay sau đó: 'Not only IS two weeks…'. Xem mẫu câu 'I respectfully disagree…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Oh, sorry — please go on, I didn't mean to cut you off there.",
+        "ipa": "/əʊ ˈsɒr.i pliːz ɡəʊ ɒn aɪ ˈdɪd.ənt miːn tə kʌt juː ɒf ðeə/",
+        "vi": "Ồ, xin lỗi — bạn cứ tiếp tục, tôi không có ý cắt lời bạn đâu."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "No worries at all. In a nutshell, I'd suggest we extend the campaign by a few days, ____ to give it more momentum once people are back from the holiday.",
+        "ipa": "/nəʊ ˈwʌr.iz ət ɔːl ɪn ə ˈnʌt.ʃel aɪd səˈdʒest wiː ɪkˈstend ðə kæmˈpeɪn baɪ ə fjuː deɪz ɪn ˈɔː.də tə ɡɪv ɪt mɔː məˈmen.təm wʌns ˈpiː.pəl ɑː bæk frɒm ðə ˈhɒl.ə.deɪ/",
+        "vi": "Không sao đâu. Nói tóm lại, tôi đề xuất kéo dài chiến dịch thêm vài ngày, ____ để tạo đà mạnh hơn khi mọi người đi nghỉ về.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in order",
+            "explanationVi": "'in order to + V' nêu MỤC ĐÍCH ('để mà…'), trang trọng và rõ ràng hơn 'to' đơn lẻ. Ở đây: kéo dài chiến dịch ĐỂ tạo đà. Xem mẫu 'in order to' trong phần Cấu trúc."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That makes a lot of sense. Let's revise the timeline accordingly. ____, would you mind summarising your suggestion in the chat so I can share it with the wider team?",
+        "ipa": "/ðæt meɪks ə lɒt ɒv sens lets rɪˈvaɪz ðə ˈtaɪm.laɪn əˈkɔː.dɪŋ.li baɪ ðə weɪ wʊd juː maɪnd ˈsʌm.ə.raɪ.zɪŋ jɔː səˈdʒes.tʃən ɪn ðə tʃæt səʊ aɪ kæn ʃeər ɪt wɪð ðə ˈwaɪ.də tiːm/",
+        "vi": "Điều đó rất hợp lý. Ta sẽ chỉnh lại lịch trình cho phù hợp. ____, bạn tóm tắt đề xuất của mình vào khung chat giúp mình để mình chia sẻ với cả nhóm lớn được không?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một cụm chuyển ý thân thiện để hỏi thêm việc, ví dụ: 'By the way' hoặc 'Also'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở văn hóa phương Tây, ngắt lời KHÔNG mặc nhiên là bất lịch sự — điều quan trọng là cách bạn 'bọc' nó: một câu xin lỗi, một softener ('if I may', 'sorry to interrupt') là đủ để được chấp nhận.",
+    "Trong họp hành kiểu Anh-Mỹ, người ta đánh giá cao việc xen lời theo hướng XÂY DỰNG ('build on', 'follow up on') hơn là chỉ cắt ngang để phản đối. Phản biện thì nên ghi nhận ý người trước rồi mới nêu khác biệt.",
+    "Cụm 'with respect' và 'no offence' là dao hai lưỡi: dùng đúng lúc thì lịch sự, nhưng người bản xứ hiểu rằng ngay sau đó thường là một ý phản đối — nên đừng lạm dụng kẻo nghe khách sáo hoặc mỉa mai.",
+    "Khi gọi video/họp online, độ trễ khiến việc xen lời dễ chồng tiếng. Người lịch sự thường giơ tay (raise hand), gõ vào chat, hoặc nói 'sorry, you go first' khi lỡ nói cùng lúc."
+  ],
+
+  "commonMistakes": [
+    "Ngắt lời cộc lốc kiểu 'No, you're wrong' — thiếu softener khiến nghe rất thô. Hãy bọc bằng 'I respectfully disagree, although…'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ/động từ — 'Not only IS two weeks short…', không phải 'Not only two weeks is short…'.",
+    "Nhầm 'momentarily' (Anh-Anh: trong chốc lát) với cách hiểu Anh-Mỹ (ngay sau đây). Để an toàn, dùng 'briefly' hoặc 'for a second'.",
+    "Quên trả lại lượt nói sau khi xen vào. Một câu 'Sorry, please go on' đơn giản thể hiện bạn tôn trọng người đang giữ lượt nói (hold the floor)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng xen lời lịch sự trong một cuộc họp giả lập.",
+    "prompt": "Hãy đóng vai một trưởng nhóm dự án nói tiếng Anh đang chủ trì một cuộc họp. Bạn sẽ trình bày một kế hoạch (tự bịa chi tiết) thành những đoạn dài liên tục, để tôi luyện tìm thời điểm và cách XEN LỜI lịch sự bằng tiếng Anh. Yêu cầu: (1) sau mỗi lần tôi ngắt lời, hãy phản hồi tự nhiên như một trưởng nhóm thật; (2) đánh giá xem cách tôi xen lời có lịch sự và đúng thời điểm không, rồi sửa lỗi ngữ pháp và gợi ý cách diễn đạt khéo hơn bằng tiếng Việt; (3) khuyến khích tôi dùng các mẫu 'If I could just jump in…', 'Just to follow up on…', 'I respectfully disagree, although…', kèm ngữ pháp C1 như mệnh đề quan hệ, 'not only… but also', 'in order to'; (4) thỉnh thoảng tạo tình huống bất ngờ (ví dụ bạn nói liền mạch không cho khoảng nghỉ, hoặc một đồng nghiệp khác cũng xen vào cùng lúc) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng đoạn trình bày đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy nói liền mạch, ít khoảng nghỉ hơn, để tôi tập tìm đúng thời điểm chèn lời.'",
+      "Thêm: 'Hãy đóng vai một đồng nghiệp hơi khó tính, đôi khi tỏ ra khó chịu khi bị ngắt lời, để tôi tập giữ bình tĩnh và xoa dịu.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời xen vào được bằng ít nhất hai cách khác nhau ('Sorry to interrupt…', 'If I could just jump in…') mà không nhìn gợi ý.",
+    "Tôi phản biện được bằng 'I respectfully disagree, although…' kèm đảo ngữ 'not only… but also' đúng ngữ pháp.",
+    "Tôi nhớ trả lại lượt nói cho người khác bằng một câu lịch sự sau khi đã xen vào."
+  ]
+}

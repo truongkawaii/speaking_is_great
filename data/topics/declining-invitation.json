@@ -1,0 +1,371 @@
+{
+  "id": "declining-invitation",
+  "category": "friends",
+  "title": "Từ chối lời mời",
+  "titleEn": "Declining an Invitation",
+  "level": "B1",
+  "functions": ["refusing", "apologizing", "suggesting", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Từ chối một lời mời của bạn bè một cách lịch sự, không làm mất lòng",
+    "Cảm ơn lời mời và nêu lý do ngắn gọn, hợp lý vì sao không tham gia được",
+    "Đề xuất một dịp khác để giữ mối quan hệ tốt đẹp",
+    "Dùng ngữ pháp B1 (because, so, such as, although) để câu trả lời nghe tự nhiên hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "invitation",
+      "ipa": "/ˌɪn.vɪˈteɪ.ʃən/",
+      "vi": "lời mời (danh từ)",
+      "register": "neutral",
+      "example": "Thanks so much for the invitation to your birthday party.",
+      "exampleVi": "Cảm ơn cậu rất nhiều vì đã mời mình đến tiệc sinh nhật.",
+      "note": "Danh từ. Động từ là 'to invite'. Cụm hay dùng: 'turn down an invitation' = từ chối lời mời.",
+      "synonyms": [
+        { "term": "invite", "ipa": "/ˈɪn.vaɪt/", "register": "casual", "nuanceVi": "Dạng danh từ thân mật, hay dùng khi nói chuyện với bạn bè: 'Thanks for the invite!'. Nghe đời thường hơn 'invitation'." }
+      ]
+    },
+    {
+      "term": "to decline",
+      "ipa": "/dɪˈklaɪn/",
+      "vi": "từ chối (động từ)",
+      "register": "formal",
+      "example": "I had to decline the invitation because I was already busy.",
+      "exampleVi": "Mình phải từ chối lời mời vì đã bận trước rồi.",
+      "note": "Động từ trang trọng, lịch sự. Khác 'refuse' (nghe cứng rắn, dứt khoát hơn).",
+      "synonyms": [
+        { "term": "to turn down", "ipa": "/tɜːn daʊn/", "register": "neutral", "nuanceVi": "Cụm động từ phổ biến, đời thường hơn 'decline'. 'turn down an offer / an invitation'. An toàn khi nói với bạn." },
+        { "term": "to refuse", "ipa": "/rɪˈfjuːz/", "register": "neutral", "nuanceVi": "Nhấn sự dứt khoát, đôi khi nghe hơi gay gắt. Dùng khi từ chối mạnh, không hợp lúc muốn nhẹ nhàng với bạn bè." },
+        { "term": "to pass on", "ipa": "/pɑːs ɒn/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'thôi, lần này không tham gia'. Vd 'I think I'll pass on this one.' Nghe nhẹ nhàng, thân mật." }
+      ]
+    },
+    {
+      "term": "to make it",
+      "ipa": "/meɪk ɪt/",
+      "vi": "đến / tham dự được (cụm động từ)",
+      "register": "casual",
+      "example": "I'm really sorry, but I won't be able to make it on Saturday.",
+      "exampleVi": "Mình thực sự xin lỗi, nhưng thứ Bảy mình không đến được.",
+      "note": "Cụm cực kỳ thông dụng để nói 'có mặt được / không' ở một sự kiện. 'Can you make it?' = Cậu đến được không?",
+      "synonyms": [
+        { "term": "to attend", "ipa": "/əˈtend/", "register": "formal", "nuanceVi": "Trang trọng, dùng cho sự kiện chính thức (cuộc họp, hội nghị). Với bạn bè thì 'make it' tự nhiên hơn." },
+        { "term": "to come along", "ipa": "/kʌm əˈlɒŋ/", "register": "casual", "nuanceVi": "Thân mật, nghĩa 'đi cùng cho vui'. Vd 'Why don't you come along?'" }
+      ]
+    },
+    {
+      "term": "to come up",
+      "ipa": "/kʌm ʌp/",
+      "vi": "(việc) bất ngờ xảy đến (cụm động từ)",
+      "register": "neutral",
+      "example": "Something has come up at work, so I can't join you.",
+      "exampleVi": "Có việc đột xuất ở chỗ làm, nên mình không đi cùng được.",
+      "note": "Cụm 'something came up' là lý do từ chối kinh điển: có việc đột xuất phát sinh.",
+      "synonyms": [
+        { "term": "to crop up", "ipa": "/krɒp ʌp/", "register": "casual", "nuanceVi": "Đồng nghĩa, hơi Anh-Anh và thân mật. Cũng nghĩa 'bất ngờ nảy ra'. 'Something cropped up.'" }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "vi": "kiệt sức, mệt lử (tính từ)",
+      "register": "neutral",
+      "example": "I've been working all week and I'm completely exhausted.",
+      "exampleVi": "Mình làm cả tuần rồi nên kiệt sức hoàn toàn.",
+      "note": "Tính từ mạnh hơn 'tired' rất nhiều. Đây là tính từ chỉ mức tuyệt đối (extreme adjective) nên đi với 'completely / absolutely', KHÔNG nói 'very exhausted'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt rã rời'. Nghe thân mật, hay dùng khi than với bạn." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn 'cạn kiệt năng lượng', kể cả về tinh thần. Vd 'I feel drained after that meeting.'" },
+        { "term": "tired", "ipa": "/taɪəd/", "register": "neutral", "nuanceVi": "Trung tính, mức độ nhẹ nhất. Dùng khi chỉ hơi mệt, chưa đến mức kiệt sức." }
+      ]
+    },
+    {
+      "term": "to reschedule",
+      "ipa": "/ˌriːˈʃed.juːl/",
+      "vi": "dời lịch, sắp xếp lại thời gian (động từ)",
+      "register": "neutral",
+      "example": "Could we reschedule our dinner for next week?",
+      "exampleVi": "Hay là tụi mình dời bữa tối sang tuần sau nhé?",
+      "note": "Động từ rất hữu ích khi từ chối: thay vì hủy hẳn, đề nghị dời sang dịp khác để giữ tình bạn.",
+      "synonyms": [
+        { "term": "to put off", "ipa": "/pʊt ɒf/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'hoãn lại'. Vd 'Can we put it off till Friday?' Nhẹ và thân mật." },
+        { "term": "to postpone", "ipa": "/pəˈspəʊn/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng cho sự kiện/cuộc họp chính thức. Với bạn bè thì 'put off' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "to feel up to",
+      "ipa": "/fiːl ʌp tuː/",
+      "vi": "thấy đủ sức / có hứng làm gì (cụm động từ)",
+      "register": "casual",
+      "example": "Honestly, I don't really feel up to going out tonight.",
+      "exampleVi": "Thật lòng, tối nay mình không thấy đủ hứng để đi ra ngoài.",
+      "note": "Cụm thân mật để nói 'không đủ sức/tâm trạng'. Luôn đi với danh từ hoặc V-ing: 'feel up to it / going'.",
+      "synonyms": [
+        { "term": "to be in the mood for", "ipa": "/biː ɪn ðə muːd fɔː/", "register": "casual", "nuanceVi": "Nhấn 'có tâm trạng/hứng thú'. Vd 'I'm not in the mood for a party tonight.' Gần nghĩa, đời thường." }
+      ]
+    },
+    {
+      "term": "gathering",
+      "ipa": "/ˈɡæð.ər.ɪŋ/",
+      "vi": "buổi tụ họp, gặp mặt (danh từ)",
+      "register": "neutral",
+      "example": "It's just a small gathering at my place this weekend.",
+      "exampleVi": "Chỉ là buổi tụ họp nhỏ ở nhà mình cuối tuần này thôi.",
+      "note": "Danh từ chỉ buổi gặp gỡ. 'get-together' thân mật hơn; 'party' thì sôi động hơn.",
+      "synonyms": [
+        { "term": "get-together", "ipa": "/ˈɡet.tə.ɡeð.ər/", "register": "casual", "nuanceVi": "Rất thân mật, nghĩa 'buổi gặp mặt nhỏ, vui vẻ'. Hay dùng giữa bạn bè." },
+        { "term": "do", "ipa": "/duː/", "register": "casual", "nuanceVi": "Tiếng lóng Anh-Anh chỉ một buổi tiệc/sự kiện: 'Are you going to Sam's do?' Rất đời thường." }
+      ]
+    },
+    {
+      "term": "reluctantly",
+      "ipa": "/rɪˈlʌk.tənt.li/",
+      "vi": "một cách miễn cưỡng, không muốn (trạng từ)",
+      "register": "neutral",
+      "example": "I reluctantly told her I couldn't go on the trip.",
+      "exampleVi": "Mình miễn cưỡng nói với cô ấy là không đi chuyến đi được.",
+      "note": "Trạng từ. Diễn tả việc làm điều gì đó dù trong lòng không muốn — hữu ích khi muốn cho thấy bạn tiếc.",
+      "synonyms": [
+        { "term": "unwillingly", "ipa": "/ʌnˈwɪl.ɪŋ.li/", "register": "neutral", "nuanceVi": "Nhấn mạnh 'không sẵn lòng' hơn nữa. Gần nghĩa nhưng nghe cứng hơn 'reluctantly'." },
+        { "term": "grudgingly", "ipa": "/ˈɡrʌdʒ.ɪŋ.li/", "register": "formal", "nuanceVi": "Nhấn 'làm mà còn cau có, hậm hực'. Mang sắc thái tiêu cực hơn, ít dùng giữa bạn thân." }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành, thật lòng (trạng từ)",
+      "register": "neutral",
+      "example": "I'm genuinely sorry I can't be there for you.",
+      "exampleVi": "Mình thật lòng xin lỗi vì không thể ở bên cạnh ủng hộ cậu.",
+      "note": "Trạng từ. Thêm vào lời xin lỗi để nghe chân thành, không khách sáo.",
+      "synonyms": [
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Phổ biến, nghĩa 'thật sự'. 'I'm truly sorry.' Trung tính, dùng được mọi lúc." },
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'thành thật mà nói'. Hay dẫn đầu câu để bộc bạch: 'Honestly, I'm just too tired.'" }
+      ]
+    },
+    {
+      "term": "definitely",
+      "ipa": "/ˈdef.ɪn.ət.li/",
+      "vi": "chắc chắn, nhất định (trạng từ)",
+      "register": "neutral",
+      "example": "I'll definitely come to the next one, I promise.",
+      "exampleVi": "Lần sau mình nhất định sẽ đến, mình hứa.",
+      "note": "Trạng từ. Khi từ chối lần này, thêm 'definitely' vào lời hẹn lần sau để trấn an bạn.",
+      "synonyms": [
+        { "term": "for sure", "ipa": "/fɔː ʃʊə/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chắc luôn'. 'I'll be there next time for sure.' Thân mật hơn 'definitely'." }
+      ]
+    },
+    {
+      "term": "to make up for",
+      "ipa": "/meɪk ʌp fɔː/",
+      "vi": "bù đắp, đền lại (cụm động từ)",
+      "register": "neutral",
+      "example": "Let me make up for it by treating you to lunch next week.",
+      "exampleVi": "Để mình bù lại bằng cách mời cậu ăn trưa tuần sau nhé.",
+      "note": "Cụm động từ đi với 'for + danh từ'. Dùng để xoa dịu sau khi từ chối, giữ tình bạn tốt đẹp.",
+      "synonyms": [
+        { "term": "to compensate", "ipa": "/ˈkɒm.pən.seɪt/", "register": "formal", "nuanceVi": "Trang trọng, hay dùng trong công việc/tiền bạc. Với bạn bè thì 'make up for' tự nhiên và ấm áp hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Thanks so much for the invitation, but I'm afraid I can't make it.",
+      "use": "Mở đầu lời từ chối: cảm ơn trước rồi mới báo không tham dự được.",
+      "register": "neutral",
+      "examples": [
+        "Thanks so much for the invitation, but I'm afraid I can't make it this Saturday.",
+        "Thank you for inviting me, but unfortunately I won't be able to come."
+      ],
+      "explanationVi": "'I'm afraid' = 'rất tiếc là' — làm câu từ chối nghe nhẹ nhàng, lịch sự. Luôn cảm ơn TRƯỚC khi từ chối để không làm mất lòng bạn.",
+      "altOf": "saying-no"
+    },
+    {
+      "pattern": "I'd love to, but [lý do].",
+      "use": "Từ chối nhưng cho thấy bạn thực sự muốn tham gia.",
+      "register": "casual",
+      "examples": [
+        "I'd love to, but I've already made plans with my family.",
+        "I'd love to, but I'm completely exhausted after work."
+      ],
+      "explanationVi": "'I'd love to, but…' (= I would love to) thể hiện thiện chí: bạn muốn đi lắm, chỉ là không thể. Đây là cách từ chối ấm áp và rất phổ biến với bạn bè.",
+      "altOf": "saying-no"
+    },
+    {
+      "pattern": "I can't come because [mệnh đề], so [đề xuất].",
+      "use": "Nêu lý do rõ ràng rồi đưa ra một giải pháp/đề xuất khác.",
+      "register": "neutral",
+      "examples": [
+        "I can't come because something has come up at work, so could we meet another time?"
+      ],
+      "explanationVi": "'because' nối lý do, 'so' dẫn ra hệ quả/đề xuất. Bộ đôi 'because… so…' rất đặc trưng B1, giúp câu trả lời mạch lạc và đầy đủ ý."
+    },
+    {
+      "pattern": "Could we reschedule for [thời gian] instead?",
+      "use": "Đề nghị dời sang một dịp khác thay vì hủy hẳn.",
+      "register": "neutral",
+      "examples": [
+        "Could we reschedule for next weekend instead?",
+        "Could we do it another day instead, maybe Friday?"
+      ],
+      "explanationVi": "'instead' = thay vào đó. Đề nghị dời lịch cho thấy bạn vẫn muốn gặp, chỉ là không phải lúc này — cách từ chối khéo léo nhất.",
+      "altOf": "offering-alternative"
+    },
+    {
+      "pattern": "Why don't we [V] some other time?",
+      "use": "Gợi ý một dịp khác một cách nhẹ nhàng, thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Why don't we grab a coffee some other time?",
+        "Why don't we catch up next week instead?"
+      ],
+      "explanationVi": "'Why don't we…?' là cách gợi ý thân mật (= hay là mình…?). 'some other time' = một dịp khác. Dùng để giữ cánh cửa mở cho lần sau.",
+      "altOf": "offering-alternative"
+    },
+    {
+      "pattern": "I'm really sorry, I'll definitely make it up to you.",
+      "use": "Xin lỗi chân thành và hứa bù đắp để giữ tình bạn.",
+      "register": "casual",
+      "examples": [
+        "I'm really sorry, I'll definitely make it up to you next time.",
+        "I feel awful about this — let me make it up to you somehow."
+      ],
+      "explanationVi": "'make it up to you' = bù đắp lại cho cậu. Câu này xoa dịu cảm giác bị từ chối và cho thấy bạn coi trọng mối quan hệ."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "unfortunately",
+      "ipa": "/ʌnˈfɔː.tʃən.ət.li/",
+      "vi": "rất tiếc là, không may là",
+      "when": "Dẫn vào lý do không tham gia được, làm câu nghe tiếc nuối và lịch sự.",
+      "example": "Unfortunately, I already have plans that evening."
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói",
+      "when": "Mở đầu khi muốn bộc bạch lý do thật (vd quá mệt) một cách chân thành.",
+      "example": "Honestly, I'm just too exhausted to go out tonight."
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì...",
+      "when": "Khi cần nói điều hơi trái ý (từ chối) mà không muốn cộc lốc.",
+      "example": "Actually, I won't be able to come this time."
+    },
+    {
+      "term": "maybe next time",
+      "ipa": "/ˈmeɪ.bi nekst taɪm/",
+      "vi": "có lẽ lần sau vậy",
+      "when": "Kết thúc lời từ chối bằng cách để ngỏ cho dịp sau.",
+      "example": "Maybe next time, I promise I'll be there!"
+    },
+    {
+      "term": "to be honest with you",
+      "ipa": "/tə biː ˈɒn.ɪst wɪð juː/",
+      "vi": "nói thật với cậu thì",
+      "when": "Tạo cảm giác tâm sự, thân tình trước khi đưa lý do.",
+      "example": "To be honest with you, I really need a quiet night in."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Linh nhắn rủ bạn (You) đi dự buổi tiệc tối thứ Bảy của cô ấy. Bạn không tham gia được và cần từ chối khéo léo, giữ tình bạn.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Hey! I'm having a little get-together at my place this Saturday, and I'd really love it if you could come along.",
+        "ipa": "/heɪ aɪm ˈhæv.ɪŋ ə ˈlɪt.əl ˈɡet.tə.ɡeð.ər ət maɪ pleɪs ðɪs ˈsæt.ə.deɪ ænd aɪd ˈriə.li lʌv ɪt ɪf juː kʊd kʌm əˈlɒŋ/",
+        "vi": "Này! Thứ Bảy này mình tổ chức buổi tụ họp nhỏ ở nhà, mình rất mong cậu đến chơi cùng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Aw, thanks so much for the ____! That's really sweet of you, and it sounds like a lot of fun.",
+        "ipa": "/ɔː θæŋks səʊ mʌtʃ fɔː ðə ðæts ˈriə.li swiːt ɒv juː ænd ɪt saʊndz laɪk ə lɒt ɒv fʌn/",
+        "vi": "Ồ, cảm ơn cậu nhiều vì đã ____! Cậu thật tốt bụng, nghe có vẻ vui lắm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "invite", "explanationVi": "Dùng 'invite' (danh từ thân mật) hoặc 'invitation'. Khi nói với bạn bè, 'Thanks for the invite!' nghe đời thường và tự nhiên hơn. Xem mục Từ vựng: invitation." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Great! It's nothing fancy, just a few close friends, some homemade food, and a couple of board games. Can you make it?",
+        "ipa": "/ɡreɪt ɪts ˈnʌθ.ɪŋ ˈfæn.si dʒʌst ə fjuː kləʊs frendz sʌm ˌhəʊmˈmeɪd fuːd ænd ə ˈkʌp.əl ɒv bɔːd ɡeɪmz kæn juː meɪk ɪt/",
+        "vi": "Tuyệt! Không có gì cầu kỳ đâu, chỉ vài người bạn thân, ít đồ ăn tự nấu với mấy trò chơi bàn cờ. Cậu đến được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd love to, ____ I'm afraid I can't make it this time. Something has come up at work, so I have to stay late on Saturday.",
+        "ipa": "/aɪd lʌv tuː bʌt aɪm əˈfreɪd aɪ kɑːnt meɪk ɪt ðɪs taɪm ˈsʌm.θɪŋ hæz kʌm ʌp ət wɜːk səʊ aɪ hæv tə steɪ leɪt ɒn ˈsæt.ə.deɪ/",
+        "vi": "Mình rất muốn đi, ____ tiếc là lần này không đến được. Có việc đột xuất ở chỗ làm, nên thứ Bảy mình phải ở lại trễ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' để nối ý tương phản: muốn đi NHƯNG không thể. Mẫu 'I'd love to, but…' là cách từ chối ấm áp, cho thấy thiện chí. Xem mục Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Oh no, that's such a shame! Although I understand work comes first, I'll really miss having you there. Are you sure you can't pop by even for an hour?",
+        "ipa": "/əʊ nəʊ ðæts sʌtʃ ə ʃeɪm ɔːlˈðəʊ aɪ ˌʌn.dəˈstænd wɜːk kʌmz fɜːst aɪl ˈriə.li mɪs ˈhæv.ɪŋ juː ðeə ɑː juː ʃʊə juː kɑːnt pɒp baɪ ˈiːv.ən fɔːr ən ˈaʊə/",
+        "vi": "Ôi không, tiếc quá đi! Dù mình hiểu công việc là trên hết, nhưng mình sẽ rất nhớ có cậu ở đó. Cậu chắc là không ghé qua được dù chỉ một tiếng à?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, by the time I finish I'll be completely ____, so I wouldn't be good company at all. But could we ____ for next weekend instead? I'd really like to see everyone.",
+        "ipa": "/ˈɒn.ɪst.li baɪ ðə taɪm aɪ ˈfɪn.ɪʃ aɪl biː kəmˈpliːt.li səʊ aɪ ˈwʊd.ənt biː ɡʊd ˈkʌm.pə.ni ət ɔːl bʌt kʊd wiː fɔː nekst ˈwiːk.end ɪnˈsted aɪd ˈriə.li laɪk tə siː ˈev.ri.wʌn/",
+        "vi": "Thành thật mà nói, đến lúc xong việc mình sẽ ____ hoàn toàn, nên có đi cũng chẳng vui vẻ gì được. Nhưng hay là tụi mình ____ sang cuối tuần sau nhé? Mình rất muốn gặp mọi người.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ chỉ trạng thái mệt mỏi của bạn. Ví dụ: 'exhausted', 'worn out', 'drained'." },
+          { "type": "knowledge", "answer": "reschedule", "explanationVi": "Dùng động từ 'reschedule' (dời lịch). Mẫu 'Could we reschedule for… instead?' giúp từ chối lần này nhưng vẫn giữ kế hoạch gặp lần sau. Xem mục Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That sounds perfect, actually! Next weekend works much better for me too, since I won't have to rush the cooking. Let's plan something more relaxed.",
+        "ipa": "/ðæt saʊndz ˈpɜː.fɪkt ˈæk.tʃu.ə.li nekst ˈwiːk.end wɜːks mʌtʃ ˈbet.ə fɔː miː tuː sɪns aɪ wəʊnt hæv tə rʌʃ ðə ˈkʊk.ɪŋ lets plæn ˈsʌm.θɪŋ mɔː rɪˈlækst/",
+        "vi": "Thật ra nghe hay đấy chứ! Cuối tuần sau cũng hợp với mình hơn nhiều, vì mình không phải nấu nướng vội vàng. Mình lên kế hoạch gì đó thư thả hơn nhé."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. I'm genuinely sorry about Saturday, and I'll ____ make it up to you — maybe I'll bring dessert next time. Thanks for being so understanding!",
+        "ipa": "/ˈpɜː.fɪkt aɪm ˈdʒen.ju.ɪn.li ˈsɒr.i əˈbaʊt ˈsæt.ə.deɪ ænd aɪl meɪk ɪt ʌp tə juː ˈmeɪ.bi aɪl brɪŋ dɪˈzɜːt nekst taɪm θæŋks fɔː ˈbiː.ɪŋ səʊ ˌʌn.dəˈstænd.ɪŋ/",
+        "vi": "Tuyệt. Mình thật lòng xin lỗi về thứ Bảy, và mình ____ sẽ bù đắp cho cậu — chắc lần sau mình mang món tráng miệng tới. Cảm ơn cậu đã thông cảm nhé!",
+        "blanks": [
+          { "type": "knowledge", "answer": "definitely", "explanationVi": "Dùng trạng từ 'definitely' (chắc chắn) để trấn an bạn rằng bạn nhất định sẽ bù lại. Lưu ý chính tả: defi-NITE-ly, không phải 'definately'. Xem mục Từ vựng: definitely." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, từ chối thẳng vẫn ổn, NHƯNG nên cảm ơn lời mời trước và đưa lý do ngắn gọn. Im lặng không trả lời (ghosting) bị coi là bất lịch sự.",
+    "Bạn không cần giải thích lý do quá chi tiết. Một câu 'Something has come up' hoặc 'I already have plans' là đủ và được chấp nhận hoàn toàn.",
+    "Đề xuất một dịp khác ('Could we reschedule?') được xem là dấu hiệu bạn coi trọng mối quan hệ, chứ không phải chỉ tìm cách thoái thác.",
+    "Với lời mời quan trọng (đám cưới, sinh nhật lớn), nên trả lời sớm để chủ tiệc tiện sắp xếp, và nếu có hệ thống RSVP thì nên phản hồi đúng hạn."
+  ],
+
+  "commonMistakes": [
+    "Từ chối cộc lốc kiểu 'No, I can't.' nghe lạnh lùng. Hãy thêm 'I'd love to, but…' và một lý do để mềm mỏng hơn.",
+    "Nhầm 'decline' (lịch sự, trang trọng) với 'refuse' (dứt khoát, đôi khi gay gắt) khi nói với bạn bè.",
+    "Quên cảm ơn trước khi từ chối. Trình tự tự nhiên là: cảm ơn → từ chối → lý do → đề xuất dịp khác.",
+    "Sai chính tả/phát âm 'definitely' (đúng là defi-NITE-ly), và lẫn 'exhausted' với 'very tired' về mức độ (exhausted mạnh hơn nhiều)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống từ chối lời mời như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang nhắn rủ tôi tham gia một sự kiện (tiệc, đi chơi, ăn tối...). Hãy bắt đầu bằng cách mời tôi nhiệt tình. Mục tiêu của tôi là TỪ CHỐI một cách lịch sự, ấm áp. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn (đôi khi nài thêm một chút), (2) nếu tôi mắc lỗi ngữ pháp hoặc nói chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu như 'I'd love to, but…', 'Could we reschedule…?', và các từ như 'unfortunately', 'definitely'. Cuối buổi, hãy nhận xét xem tôi từ chối đã đủ lịch sự và khéo léo chưa, kèm 3 điểm cần cải thiện. Bắt đầu bằng lời mời đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một người bạn hơi giận dỗi khi bị từ chối, để tôi tập xoa dịu.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy mời tôi đến một sự kiện trang trọng hơn (đám cưới, lễ tốt nghiệp) để tôi tập từ chối lịch sự ở mức cao hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi cảm ơn lời mời rồi mới từ chối, không nói 'No' cộc lốc.",
+    "Tôi nêu được một lý do ngắn gọn, hợp lý bằng 'because' hoặc 'unfortunately'.",
+    "Tôi đề xuất được một dịp khác bằng mẫu 'Could we reschedule…?' hoặc 'Why don't we… some other time?'."
+  ]
+}

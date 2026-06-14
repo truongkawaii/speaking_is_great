@@ -1,0 +1,361 @@
+{
+  "id": "reporting-progress",
+  "category": "work",
+  "title": "Báo cáo tiến độ",
+  "titleEn": "Reporting Progress",
+  "level": "B1",
+  "functions": ["describing", "opinions", "asking-info", "handling-problems"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Cập nhật tiến độ công việc cho quản lý bằng câu rõ ràng, mạch lạc",
+    "Báo cáo phần đã hoàn thành và phần còn dang dở",
+    "Nêu khó khăn gặp phải và cách bạn đang xử lý",
+    "Đề xuất bước tiếp theo và xin thêm thời gian/nguồn lực một cách lịch sự"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "progress",
+      "ipa": "/ˈprəʊ.ɡres/",
+      "vi": "tiến độ, sự tiến triển (danh từ)",
+      "register": "neutral",
+      "example": "We've made good progress on the report this week.",
+      "exampleVi": "Tuần này chúng tôi đã có tiến triển tốt với bản báo cáo.",
+      "note": "Danh từ không đếm được: KHÔNG nói 'a progress' hay 'progresses'. Hay đi với 'make progress'.",
+      "synonyms": [
+        { "term": "headway", "ipa": "/ˈhed.weɪ/", "register": "neutral", "nuanceVi": "Nghĩa 'tiến triển' nhưng thường đi với 'make headway', nhấn vào việc vượt qua trở ngại. Hơi trang trọng/văn vẻ hơn." },
+        { "term": "advancement", "ipa": "/ədˈvɑːns.mənt/", "register": "formal", "nuanceVi": "Trang trọng, thiên về 'sự thăng tiến/phát triển dài hạn', ít dùng cho tiến độ một công việc cụ thể." }
+      ]
+    },
+    {
+      "term": "update",
+      "ipa": "/ˈʌp.deɪt/",
+      "vi": "bản cập nhật tình hình (danh từ)",
+      "register": "neutral",
+      "example": "Here's a quick update on where we are.",
+      "exampleVi": "Đây là cập nhật nhanh về tình hình hiện tại.",
+      "note": "Danh từ nhấn 'UP-date', động từ nhấn 'up-DATE'. Cụm hay dùng: 'give an update', 'a quick update'.",
+      "synonyms": [
+        { "term": "status report", "ipa": "/ˈsteɪ.təs rɪˌpɔːt/", "register": "formal", "nuanceVi": "Trang trọng hơn, thường là báo cáo có cấu trúc/bằng văn bản. 'update' nghe nhẹ nhàng, khẩu ngữ hơn." },
+        { "term": "rundown", "ipa": "/ˈrʌn.daʊn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tóm tắt nhanh từng điểm'. Hợp lúc nói thân mật với đồng nghiệp." }
+      ]
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "The deadline for the first draft is this Friday.",
+      "exampleVi": "Hạn chót cho bản thảo đầu tiên là thứ Sáu này.",
+      "note": "Danh từ. Hay đi với 'meet a deadline' (kịp hạn), 'miss a deadline' (trễ hạn), 'a tight deadline' (hạn gấp).",
+      "synonyms": [
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'ngày phải nộp'. Gần nghĩa nhưng trung tính, ít cảm giác áp lực bằng 'deadline'." },
+        { "term": "cut-off", "ipa": "/ˈkʌt.ɒf/", "register": "neutral", "nuanceVi": "Nghĩa 'mốc thời gian cuối cùng được nhận'. Thường dùng cho thời điểm khóa sổ, đăng ký." }
+      ]
+    },
+    {
+      "term": "task",
+      "ipa": "/tɑːsk/",
+      "vi": "nhiệm vụ, đầu việc (danh từ)",
+      "register": "neutral",
+      "example": "I've finished most of the tasks on my list.",
+      "exampleVi": "Tôi đã hoàn thành phần lớn đầu việc trong danh sách.",
+      "note": "Danh từ, một việc cụ thể cần làm. Khác 'project' (dự án lớn gồm nhiều task).",
+      "synonyms": [
+        { "term": "assignment", "ipa": "/əˈsaɪn.mənt/", "register": "neutral", "nuanceVi": "Nhấn 'việc được GIAO cho bạn'. Trang trọng hơn task một chút." },
+        { "term": "duty", "ipa": "/ˈdjuː.ti/", "register": "formal", "nuanceVi": "Nhấn 'trách nhiệm thường xuyên, bổn phận', không phải việc làm một lần." }
+      ]
+    },
+    {
+      "term": "to complete",
+      "ipa": "/kəmˈpliːt/",
+      "vi": "hoàn thành (động từ)",
+      "register": "neutral",
+      "example": "We've completed about seventy percent of the work.",
+      "exampleVi": "Chúng tôi đã hoàn thành khoảng bảy mươi phần trăm công việc.",
+      "note": "Động từ, trang trọng và rõ ràng hơn 'finish' một chút khi báo cáo công việc.",
+      "synonyms": [
+        { "term": "to finish", "ipa": "/ˈfɪn.ɪʃ/", "register": "neutral", "nuanceVi": "Phổ biến nhất, đời thường. An toàn để dùng trong mọi ngữ cảnh." },
+        { "term": "to wrap up", "ipa": "/ˌræp ˈʌp/", "register": "casual", "nuanceVi": "Cụm động từ thân mật, nghĩa 'làm nốt cho xong'. Hợp khi nói chuyện thoải mái với đồng nghiệp." },
+        { "term": "to finalize", "ipa": "/ˈfaɪ.nə.laɪz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'chốt phiên bản cuối cùng', thường cho tài liệu/hợp đồng/kế hoạch." }
+      ]
+    },
+    {
+      "term": "to delay",
+      "ipa": "/dɪˈleɪ/",
+      "vi": "trì hoãn, làm chậm trễ (động từ)",
+      "register": "neutral",
+      "example": "The supplier issue delayed the whole project by a week.",
+      "exampleVi": "Sự cố từ nhà cung cấp đã làm cả dự án chậm một tuần.",
+      "note": "Vừa là động từ vừa là danh từ ('a delay' = sự chậm trễ). Hay đi với 'cause a delay'.",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəʊstˈpəʊn/", "register": "neutral", "nuanceVi": "Nhấn 'dời sang thời điểm sau một cách CHỦ ĐỘNG, có kế hoạch'. Khác 'delay' (thường là bị chậm ngoài ý muốn)." },
+        { "term": "to hold up", "ipa": "/ˌhəʊld ˈʌp/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'làm kẹt lại, cản tiến độ'. Vd 'The bad weather held us up.'" }
+      ]
+    },
+    {
+      "term": "issue",
+      "ipa": "/ˈɪʃ.uː/",
+      "vi": "vấn đề, trục trặc (danh từ)",
+      "register": "neutral",
+      "example": "We ran into a small issue with the software.",
+      "exampleVi": "Chúng tôi gặp một trục trặc nhỏ với phần mềm.",
+      "note": "Danh từ, nghe nhẹ và chuyên nghiệp hơn 'problem' khi báo cáo. Cụm: 'run into an issue', 'resolve an issue'.",
+      "synonyms": [
+        { "term": "problem", "ipa": "/ˈprɒb.ləm/", "register": "neutral", "nuanceVi": "Phổ biến, nhưng nghe hơi nặng/tiêu cực hơn. 'issue' khéo léo hơn khi báo cáo với sếp." },
+        { "term": "setback", "ipa": "/ˈset.bæk/", "register": "neutral", "nuanceVi": "Nhấn 'bước lùi khiến tiến độ chậm lại'. Mạnh hơn issue, hàm ý đã ảnh hưởng đến kế hoạch." },
+        { "term": "hiccup", "ipa": "/ˈhɪk.ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'trục trặc nhỏ, thoáng qua'. Làm nhẹ vấn đề khi nói thân mật." }
+      ]
+    },
+    {
+      "term": "on track",
+      "ipa": "/ɒn træk/",
+      "vi": "đúng tiến độ, đi đúng hướng (tính từ/cụm)",
+      "register": "neutral",
+      "example": "Despite the delay, we're still on track to finish by Friday.",
+      "exampleVi": "Dù bị chậm, chúng tôi vẫn đúng tiến độ để xong vào thứ Sáu.",
+      "note": "Cụm cố định rất hay dùng khi báo cáo. Trái nghĩa: 'behind schedule' (chậm tiến độ).",
+      "synonyms": [
+        { "term": "on schedule", "ipa": "/ɒn ˈʃed.juːl/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn vào việc khớp với LỊCH đã định. 'on track' rộng hơn, nhấn 'đúng hướng nói chung'." }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách trôi chảy, suôn sẻ (trạng từ)",
+      "register": "neutral",
+      "example": "The first phase went smoothly without any problems.",
+      "exampleVi": "Giai đoạn đầu diễn ra suôn sẻ, không gặp vấn đề gì.",
+      "note": "Trạng từ. Hay đi với 'go smoothly', 'run smoothly' để mô tả mọi thứ chạy êm.",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'liền mạch, không vấp váp chỗ nối'. Nghe chuyên nghiệp, hay dùng cho quy trình/hệ thống." },
+        { "term": "without a hitch", "ipa": "/wɪˈðaʊt ə hɪtʃ/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'trót lọt, không trục trặc gì'. Vd 'The launch went without a hitch.'" }
+      ]
+    },
+    {
+      "term": "currently",
+      "ipa": "/ˈkʌr.ənt.li/",
+      "vi": "hiện tại, đang (trạng từ)",
+      "register": "neutral",
+      "example": "I'm currently working on the final section.",
+      "exampleVi": "Hiện tại tôi đang làm phần cuối cùng.",
+      "note": "Trạng từ chỉ thời điểm hiện tại, hay đi với thì hiện tại tiếp diễn để báo việc đang làm.",
+      "synonyms": [
+        { "term": "at the moment", "ipa": "/ət ðə ˈməʊ.mənt/", "register": "neutral", "nuanceVi": "Cụm trung tính, khẩu ngữ tự nhiên. Nghĩa y hệt 'currently' nhưng nghe đời thường hơn." },
+        { "term": "presently", "ipa": "/ˈprez.ənt.li/", "register": "formal", "nuanceVi": "Trang trọng, hơi cổ. Lưu ý: ở Anh-Anh đôi khi nghĩa 'lát nữa', dễ gây nhầm — dùng cẩn thận." }
+      ]
+    },
+    {
+      "term": "to expect",
+      "ipa": "/ɪkˈspekt/",
+      "vi": "dự kiến, mong đợi (động từ)",
+      "register": "neutral",
+      "example": "We expect to deliver the final version next Monday.",
+      "exampleVi": "Chúng tôi dự kiến giao bản cuối vào thứ Hai tới.",
+      "note": "Động từ. 'expect to + V' = dự kiến sẽ làm gì. Rất hữu ích để báo mốc thời gian sắp tới.",
+      "synonyms": [
+        { "term": "to anticipate", "ipa": "/ænˈtɪs.ɪ.peɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'lường trước, tính trước'. Nghe chuyên nghiệp trong báo cáo." }
+      ]
+    },
+    {
+      "term": "feedback",
+      "ipa": "/ˈfiːd.bæk/",
+      "vi": "phản hồi, ý kiến đóng góp (danh từ)",
+      "register": "neutral",
+      "example": "I'd appreciate your feedback before I continue.",
+      "exampleVi": "Tôi rất mong nhận phản hồi của anh/chị trước khi tiếp tục.",
+      "note": "Danh từ không đếm được: KHÔNG nói 'a feedback' hay 'feedbacks'. Nói 'some feedback', 'a piece of feedback'.",
+      "synonyms": [
+        { "term": "input", "ipa": "/ˈɪn.pʊt/", "register": "neutral", "nuanceVi": "Nhấn 'sự đóng góp ý kiến để cùng quyết định'. Gần nghĩa feedback nhưng thiên về tham gia vào quá trình." },
+        { "term": "comments", "ipa": "/ˈkɒm.ənts/", "register": "neutral", "nuanceVi": "Cụ thể hơn, là 'những lời nhận xét cụ thể' về một sản phẩm/tài liệu." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to give you a quick update on [danh từ].",
+      "use": "Mở đầu báo cáo tiến độ một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to give you a quick update on the marketing report.",
+        "I'd like to give you a quick update on where we are with the project."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự, chuyên nghiệp. 'a quick update on...' báo trước rằng bạn sẽ nói ngắn gọn, đúng trọng tâm — sếp rất thích điều này.",
+      "altOf": "starting-report"
+    },
+    {
+      "pattern": "Let me bring you up to speed on [danh từ].",
+      "use": "Mở đầu báo cáo theo cách thân thiện, tự nhiên hơn.",
+      "register": "casual",
+      "examples": [
+        "Let me bring you up to speed on the latest figures.",
+        "Let me bring you up to speed on what the team has done so far."
+      ],
+      "explanationVi": "'bring someone up to speed' là thành ngữ nghĩa 'cập nhật cho ai đó nắm tình hình mới nhất'. Nghe gần gũi, hợp khi nói với đồng nghiệp hoặc sếp thoải mái.",
+      "altOf": "starting-report"
+    },
+    {
+      "pattern": "So far, we've completed [phần việc], although [mệnh đề khó khăn].",
+      "use": "Báo phần đã xong, đồng thời thành thật nêu trở ngại.",
+      "register": "neutral",
+      "examples": [
+        "So far, we've completed the design phase, although the testing took longer than expected.",
+        "So far, we've completed most of the tasks, although we're still waiting for the client's approval."
+      ],
+      "explanationVi": "'So far' = cho đến hiện tại (đi với hiện tại hoàn thành 'we've completed'). 'although' mở mệnh đề nhượng bộ — vừa khoe kết quả vừa minh bạch về khó khăn, nghe rất chuyên nghiệp."
+    },
+    {
+      "pattern": "We're currently working on [danh từ], such as [ví dụ].",
+      "use": "Mô tả việc đang làm và nêu ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "We're currently working on the final tasks, such as proofreading and formatting.",
+        "We're currently working on several improvements, such as fixing bugs and updating the design."
+      ],
+      "explanationVi": "Thì hiện tại tiếp diễn ('are working on') diễn tả việc đang diễn ra. 'such as' nêu ví dụ minh họa — nêu cụ thể luôn rõ ràng và đáng tin hơn nói chung chung."
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], we're still on track to [V].",
+      "use": "Trấn an rằng dù có trở ngại, mọi thứ vẫn trong tầm kiểm soát.",
+      "register": "neutral",
+      "examples": [
+        "Despite the delay, we're still on track to finish by Friday.",
+        "Despite losing a team member, we're still on track to meet the deadline."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG có mệnh đề đầy đủ phía sau) nghĩa 'mặc dù'. 'on track to + V' = đúng hướng để làm gì. Câu này giúp sếp yên tâm — rất 'ăn điểm'."
+    },
+    {
+      "pattern": "We expect to [V] by [mốc thời gian].",
+      "use": "Báo mốc hoàn thành dự kiến sắp tới.",
+      "register": "neutral",
+      "examples": [
+        "We expect to deliver the final version by next Monday.",
+        "We expect to wrap everything up by the end of the month."
+      ],
+      "explanationVi": "'expect to + V' = dự kiến sẽ. Giới từ 'by' chỉ 'không muộn hơn mốc đó'. Đây là câu chốt báo cáo, cho thấy bạn có kế hoạch rõ ràng.",
+      "altOf": "stating-timeline"
+    },
+    {
+      "pattern": "Would it be possible to [V], in order to [mục đích]?",
+      "use": "Đề nghị lịch sự khi cần thêm thời gian/nguồn lực, kèm lý do.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to push the deadline back two days, in order to test everything properly?",
+        "Would it be possible to add one more person, in order to speed things up?"
+      ],
+      "explanationVi": "'Would it be possible to...?' là cách đề nghị lịch sự bậc cao (xin một đặc ân). 'in order to + V' nêu mục đích rõ ràng — kèm lý do chính đáng thì dễ được đồng ý hơn.",
+      "altOf": "stating-timeline"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính nhẹ nhàng hoặc nói điều hơi trái với kỳ vọng.", "example": "Actually, we're a little ahead of schedule this week." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu nói thẳng thắn về khó khăn.", "example": "Honestly, the testing phase has been more difficult than we thought." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một kết quả tốt sau khi đã nêu khó khăn.", "example": "Fortunately, we found a workaround and got back on track." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần, từ từ", "when": "Mô tả tiến độ cải thiện từng bước.", "example": "Things are gradually improving now that the new tool is in place." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "nói thật thì", "when": "Mềm hóa một thông tin không vui trước khi báo.", "example": "To be honest, we might need a couple of extra days." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là thành viên trong nhóm dự án. Quản lý (manager) gọi bạn vào để hỏi về tiến độ công việc trong tuần này.",
+    "lines": [
+      {
+        "speaker": "Quản lý",
+        "text": "Morning! Thanks for coming in. Could you give me a quick update on how the project is going this week?",
+        "ipa": "/ˈmɔː.nɪŋ θæŋks fɔː ˈkʌm.ɪŋ ɪn kʊd juː ɡɪv miː ə kwɪk ˈʌp.deɪt ɒn haʊ ðə ˈprɒdʒ.ekt ɪz ˈɡəʊ.ɪŋ ðɪs wiːk/",
+        "vi": "Chào buổi sáng! Cảm ơn bạn đã vào. Bạn cho tôi cập nhật nhanh về tình hình dự án tuần này được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. Of course. So far, we've ____ about seventy percent of the work, although the testing phase took a bit longer than we expected.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ɒv kɔːs səʊ fɑː wiːv əˈbaʊt ˈsev.ən.ti pəˈsent ɒv ðə wɜːk ɔːlˈðəʊ ðə ˈtes.tɪŋ feɪz tʊk ə bɪt ˈlɒŋ.ɡə ðæn wiː ɪkˈspek.tɪd/",
+        "vi": "Chào buổi sáng. Tất nhiên rồi. Cho đến giờ, chúng tôi đã ____ khoảng bảy mươi phần trăm công việc, mặc dù giai đoạn kiểm thử mất nhiều thời gian hơn dự kiến.",
+        "blanks": [
+          { "type": "knowledge", "answer": "completed", "explanationVi": "Dùng 'completed' (quá khứ phân từ của 'complete') vì đi với thì hiện tại hoàn thành 'we've ___'. Xem mẫu câu 'So far, we've completed...'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "That sounds reasonable. What exactly is the team working on right now?",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl wɒt ɪɡˈzækt.li ɪz ðə tiːm ˈwɜː.kɪŋ ɒn raɪt naʊ/",
+        "vi": "Nghe hợp lý đấy. Hiện tại nhóm đang làm chính xác việc gì vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "We're ____ working on the final tasks, such as proofreading the document and fixing a few small bugs which the testers reported yesterday.",
+        "ipa": "/wɪə ... ˈwɜː.kɪŋ ɒn ðə ˈfaɪ.nəl tɑːsks sʌtʃ æz ˈpruːfˌriː.dɪŋ ðə ˈdɒk.jə.mənt ænd ˈfɪk.sɪŋ ə fjuː smɔːl bʌɡz wɪtʃ ðə ˈtes.təz rɪˈpɔː.tɪd ˈjes.tə.deɪ/",
+        "vi": "Chúng tôi đang ____ làm những đầu việc cuối cùng, chẳng hạn như soát lỗi tài liệu và sửa vài lỗi nhỏ mà nhóm kiểm thử báo hôm qua.",
+        "blanks": [
+          { "type": "knowledge", "answer": "currently", "explanationVi": "Dùng trạng từ 'currently' (hiện tại) đi với thì hiện tại tiếp diễn 'are ___ working on' để báo việc đang làm. Xem mẫu 'We're currently working on..., such as...'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "I see. You mentioned a delay earlier. Is there anything that's seriously holding the team up?",
+        "ipa": "/aɪ siː juː ˈmen.ʃənd ə dɪˈleɪ ˈɜː.li.ə ɪz ðeər ˈen.i.θɪŋ ðæts ˈsɪə.ri.əs.li ˈhəʊl.dɪŋ ðə tiːm ʌp/",
+        "vi": "Tôi hiểu. Lúc nãy bạn có nhắc đến chậm trễ. Có gì đang thực sự cản trở nhóm không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, we ran into a small ____ with the new software last week, which slowed us down. Fortunately, the IT team helped us fix it, and despite that, we're still on track to finish on time.",
+        "ipa": "/ˈɒn.ɪst.li wiː ræn ˈɪn.tə ə smɔːl ... wɪð ðə njuː ˈsɒft.weə lɑːst wiːk wɪtʃ sləʊd ʌs daʊn ˈfɔː.tʃən.ət.li ðə ˌaɪ ˈtiː tiːm helpt ʌs fɪks ɪt ænd dɪˈspaɪt ðæt wɪə stɪl ɒn træk tə ˈfɪn.ɪʃ ɒn taɪm/",
+        "vi": "Thành thật mà nói, tuần trước chúng tôi gặp một ____ nhỏ với phần mềm mới, điều này làm chậm tiến độ. May mắn là nhóm IT đã giúp khắc phục, và dù vậy, chúng tôi vẫn đúng tiến độ để hoàn thành đúng hạn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "issue", "explanationVi": "Dùng 'issue' (trục trặc) — nghe nhẹ và chuyên nghiệp hơn 'problem' khi báo cáo với sếp. Lưu ý mệnh đề quan hệ 'which slowed us down' nối ý vào danh từ trước." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "Good to hear. So when do you think the final version will be ready?",
+        "ipa": "/ɡʊd tə hɪə səʊ wen duː juː θɪŋk ðə ˈfaɪ.nəl ˈvɜː.ʒən wɪl biː ˈred.i/",
+        "vi": "Mừng khi nghe vậy. Vậy bạn nghĩ bản cuối cùng sẽ sẵn sàng khi nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "We ____ to deliver the final version by ____. However, would it be possible to get your feedback on the draft beforehand, in order to make any changes early?",
+        "ipa": "/wiː ... tə dɪˈlɪv.ə ðə ˈfaɪ.nəl ˈvɜː.ʒən baɪ ... haʊˈev.ə wʊd ɪt biː ˈpɒs.ə.bəl tə ɡet jɔː ˈfiːd.bæk ɒn ðə drɑːft bɪˈfɔː.hænd ɪn ˈɔː.də tə meɪk ˈen.i ˈtʃeɪn.dʒɪz ˈɜː.li/",
+        "vi": "Chúng tôi ____ giao bản cuối cùng vào ____. Tuy nhiên, liệu có thể xin phản hồi của anh/chị về bản thảo trước đó không, để chúng tôi điều chỉnh sớm?",
+        "blanks": [
+          { "type": "knowledge", "answer": "expect", "explanationVi": "Dùng 'expect' (dự kiến): 'expect to + V'. Xem mẫu câu 'We expect to ... by ...'." },
+          { "type": "personal", "hint": "Mốc thời gian bạn dự kiến. Ví dụ: 'next Monday', 'the end of the week'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý",
+        "text": "Absolutely. Send me the draft today, and I'll get back to you with comments by tomorrow afternoon. Great work, everyone!",
+        "ipa": "/ˈæb.sə.luːt.li send miː ðə drɑːft təˈdeɪ ænd aɪl ɡet bæk tə juː wɪð ˈkɒm.ənts baɪ təˈmɒr.əʊ ˌɑːf.təˈnuːn ɡreɪt wɜːk ˈev.ri.wʌn/",
+        "vi": "Chắc chắn rồi. Gửi tôi bản thảo hôm nay nhé, tôi sẽ phản hồi kèm nhận xét trước chiều mai. Cả nhóm làm tốt lắm!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong môi trường công sở phương Tây, báo cáo tiến độ nên đi thẳng vào trọng tâm: nói trước phần đã xong, rồi đến khó khăn và bước tiếp theo. Đừng vòng vo.",
+    "Khi gặp vấn đề, hãy báo SỚM và kèm theo giải pháp/đề xuất, đừng giấu đến phút chót. Sếp đánh giá cao sự chủ động hơn là tin xấu đến muộn.",
+    "Nói có con số cụ thể ('about 70% done', 'two days behind') nghe đáng tin hơn nhiều so với 'almost done' hay 'soon'.",
+    "Dùng 'issue' thay vì 'problem', và bọc tin xấu bằng 'honestly' / 'to be honest' giúp giọng điệu chuyên nghiệp, bình tĩnh."
+  ],
+
+  "commonMistakes": [
+    "Coi 'progress', 'feedback', 'advice' là danh từ đếm được: SAI khi nói 'a progress', 'feedbacks'. Phải nói 'some progress', 'a piece of feedback'.",
+    "Nhầm 'Despite' với 'Although': 'Despite' + danh từ/V-ing ('Despite the delay'), còn 'Although' + mệnh đề đầy đủ ('Although we were delayed').",
+    "Trả lời quá cụt khi được hỏi tiến độ ('It's fine.'). Hãy mở rộng: nêu phần đã xong, khó khăn, và mốc dự kiến.",
+    "Quên giới từ 'on' sau 'working': luôn là 'working ON something', và 'an update ON something'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện báo cáo tiến độ với sếp như thật.",
+    "prompt": "Hãy đóng vai quản lý trực tiếp của tôi, nói tiếng Anh, và hỏi tôi về tiến độ một dự án mà tôi sẽ nêu. Hãy hỏi từng câu một (tổng quan tiến độ, việc đang làm, khó khăn gặp phải, mốc hoàn thành dự kiến). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người quản lý thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'so far', 'although', 'despite', 'such as' và 'in order to'. Thỉnh thoảng hãy đặt một tình huống bất ngờ (ví dụ dự án bị chậm, một thành viên nghỉ) để tôi tập xử lý. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi dồn về lý do bị chậm để tôi tập giải thích và trấn an.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai một sếp khó tính, hỏi sâu về con số và mốc thời gian.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được báo cáo bằng một câu lịch sự ('I'd like to give you a quick update on...').",
+    "Tôi nêu được phần đã xong và khó khăn trong cùng một câu dùng 'so far' và 'although'.",
+    "Tôi báo được mốc dự kiến và đề nghị lịch sự xin thêm thời gian/phản hồi khi cần."
+  ]
+}

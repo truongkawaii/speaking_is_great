@@ -1,0 +1,396 @@
+{
+  "id": "hypothetical-situations",
+  "category": "opinions",
+  "title": "Tình huống giả định",
+  "titleEn": "Hypothetical Situations",
+  "level": "C1",
+  "functions": ["opinions", "suggesting", "agreeing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Bày tỏ quan điểm về tình huống giả định bằng câu điều kiện loại 2 và loại 3 thuần thục",
+    "Suy đoán về quá khứ với 'would/could/might have + V3' một cách tự nhiên",
+    "Đưa giả thuyết tế nhị bằng cấu trúc đảo ngữ (Had I known…, Were I to…) và 'wish/if only'",
+    "Chuyển đổi register linh hoạt và dùng idiom khi tranh luận về kịch bản 'nếu như'",
+    "Phản biện, nhượng bộ và bảo vệ lập trường mà vẫn giữ giọng điệu nhã nhặn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "hypothetical",
+      "ipa": "/ˌhaɪ.pəˈθet.ɪ.kəl/",
+      "vi": "mang tính giả định, giả thuyết (tính từ)",
+      "register": "formal",
+      "example": "Let's consider a purely hypothetical scenario for a moment.",
+      "exampleVi": "Hãy thử xét một kịch bản hoàn toàn giả định trong chốc lát.",
+      "note": "Tính từ. Phát âm bẫy: trọng âm rơi vào âm 'thet' /θet/. Danh từ là 'hypothesis', số nhiều 'hypotheses'.",
+      "synonyms": [
+        { "term": "theoretical", "ipa": "/ˌθiː.əˈret.ɪ.kəl/", "register": "formal", "nuanceVi": "Nhấn vào 'trên lý thuyết, chưa kiểm chứng thực tế'. Thiên về học thuật hơn 'hypothetical' (vốn nhấn 'giả sử nếu như')." },
+        { "term": "speculative", "ipa": "/ˈspek.jə.lə.tɪv/", "register": "formal", "nuanceVi": "Nhấn 'phỏng đoán, suy diễn thiếu căn cứ chắc chắn'. Đôi khi mang sắc thái hơi mạo hiểm/rủi ro (vd speculative investment)." },
+        { "term": "what-if", "ipa": "/ˈwɒt.ɪf/", "register": "casual", "nuanceVi": "Đời thường, dùng như tính từ ghép: 'a what-if question'. Hợp khi nói chuyện thân mật hơn là văn bản trang trọng." }
+      ]
+    },
+    {
+      "term": "scenario",
+      "ipa": "/səˈnɑː.ri.oʊ/",
+      "vi": "kịch bản, viễn cảnh (danh từ)",
+      "register": "neutral",
+      "example": "In the worst-case scenario, we would simply postpone the launch.",
+      "exampleVi": "Trong viễn cảnh tệ nhất, chúng ta chỉ việc hoãn buổi ra mắt.",
+      "note": "Danh từ. Cụm cố định rất hay gặp: 'best-case / worst-case scenario'. Số nhiều: scenarios.",
+      "synonyms": [
+        { "term": "situation", "ipa": "/ˌsɪtʃ.uˈeɪ.ʃən/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến nhất. 'scenario' nhấn vào 'một chuỗi diễn biến có thể xảy ra', còn 'situation' thiên về 'tình hình hiện tại'." },
+        { "term": "case", "ipa": "/keɪs/", "register": "neutral", "nuanceVi": "Ngắn gọn, nhấn 'trường hợp cụ thể'. Dùng trong 'in that case' (nếu vậy thì)." }
+      ]
+    },
+    {
+      "term": "to speculate",
+      "ipa": "/ˈspek.jə.leɪt/",
+      "vi": "suy đoán, phỏng đoán (động từ)",
+      "register": "formal",
+      "example": "I wouldn't want to speculate about what might have happened.",
+      "exampleVi": "Tôi không muốn suy đoán về điều có thể đã xảy ra.",
+      "note": "Động từ, đi với 'about / on something'. Mang sắc thái 'đoán mà chưa có bằng chứng', hợp với chủ đề giả định.",
+      "synonyms": [
+        { "term": "to hypothesize", "ipa": "/haɪˈpɒθ.ə.saɪz/", "register": "formal", "nuanceVi": "Trang trọng/học thuật, nhấn 'đặt giả thuyết có hệ thống'. Nghe khoa học hơn 'speculate'." },
+        { "term": "to guess", "ipa": "/ɡes/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng. 'speculate' nghe có cân nhắc, 'guess' nghe ngẫu hứng hơn." }
+      ]
+    },
+    {
+      "term": "inevitable",
+      "ipa": "/ɪnˈev.ɪ.tə.bəl/",
+      "vi": "không thể tránh khỏi, tất yếu (tính từ)",
+      "register": "neutral",
+      "example": "Had we ignored the warning signs, a crisis would have been inevitable.",
+      "exampleVi": "Giá mà chúng ta lơ là các dấu hiệu cảnh báo, một cuộc khủng hoảng hẳn đã là điều tất yếu.",
+      "note": "Tính từ. Trạng từ 'inevitably' rất hay dùng để dẫn dắt kết luận tất yếu trong tranh luận.",
+      "synonyms": [
+        { "term": "unavoidable", "ipa": "/ˌʌn.əˈvɔɪ.də.bəl/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, trực diện hơn ('không thể né được'). 'inevitable' nghe trang trọng và mang tính tất yếu của số phận hơn." },
+        { "term": "bound to happen", "ipa": "/baʊnd tə ˈhæp.ən/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'kiểu gì cũng xảy ra'. Hợp khi nói chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "to backfire",
+      "ipa": "/ˌbækˈfaɪər/",
+      "vi": "phản tác dụng, gậy ông đập lưng ông (động từ)",
+      "register": "neutral",
+      "example": "If we rushed the decision, it could easily backfire on us.",
+      "exampleVi": "Nếu vội vàng quyết định, nó rất dễ phản tác dụng đối với chúng ta.",
+      "note": "Động từ, mang sắc thái 'ý định tốt nhưng cho kết quả ngược lại'. Rất hợp để cảnh báo trong tình huống giả định.",
+      "synonyms": [
+        { "term": "to go awry", "ipa": "/tə ɡəʊ əˈraɪ/", "register": "formal", "nuanceVi": "Văn vẻ, nghĩa 'trục trặc, đi chệch hướng'. Trang trọng hơn 'backfire' và không nhất thiết là do chính mình gây ra." },
+        { "term": "to blow up in one's face", "ipa": "/bləʊ ʌp ɪn wʌnz feɪs/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, rất mạnh: 'nổ tung vào mặt'. Hợp lúc nói chuyện thân mật, nhấn hậu quả thảm khốc." }
+      ]
+    },
+    {
+      "term": "far-fetched",
+      "ipa": "/ˌfɑːˈfetʃt/",
+      "vi": "khó tin, gượng ép, xa rời thực tế (tính từ)",
+      "register": "neutral",
+      "example": "That assumption strikes me as rather far-fetched, to be honest.",
+      "exampleVi": "Thành thật mà nói, giả định đó với tôi nghe khá là xa vời, gượng ép.",
+      "note": "Tính từ ghép. Dùng để phản biện một giả thuyết mà bạn thấy thiếu cơ sở, nhưng vẫn lịch sự.",
+      "synonyms": [
+        { "term": "implausible", "ipa": "/ɪmˈplɔː.zə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thiếu tính thuyết phục, khó mà tin được'. Nghe học thuật hơn 'far-fetched'." },
+        { "term": "unrealistic", "ipa": "/ˌʌn.rɪəˈlɪs.tɪk/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'không thực tế, không khả thi'. 'far-fetched' nhấn thêm sắc thái 'cố tưởng tượng quá xa'." }
+      ]
+    },
+    {
+      "term": "to weigh up",
+      "ipa": "/tə weɪ ʌp/",
+      "vi": "cân nhắc, cân đo lợi hại (động từ)",
+      "register": "neutral",
+      "example": "Before committing, we should weigh up all the possible outcomes.",
+      "exampleVi": "Trước khi quyết tâm làm, ta nên cân nhắc mọi kết cục có thể xảy ra.",
+      "note": "Cụm động từ. Đi với 'the pros and cons / the options / the risks'. Rất hợp khi thảo luận lựa chọn giả định.",
+      "synonyms": [
+        { "term": "to assess", "ipa": "/əˈses/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đánh giá có hệ thống'. 'weigh up' thiên về 'đặt lên bàn cân để so sánh'." },
+        { "term": "to consider", "ipa": "/kənˈsɪd.ər/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến, nhẹ hơn. Không nhấn việc so sánh đối lập như 'weigh up'." },
+        { "term": "to mull over", "ipa": "/tə mʌl ˈəʊ.vər/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'ngẫm nghĩ thong thả, chưa vội quyết'. Hợp khi trò chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "hindsight",
+      "ipa": "/ˈhaɪnd.saɪt/",
+      "vi": "sự nhìn lại quá khứ (biết rồi mới khôn) (danh từ)",
+      "register": "neutral",
+      "example": "With the benefit of hindsight, I would have done things very differently.",
+      "exampleVi": "Bây giờ ngẫm lại thì lẽ ra tôi đã làm khác đi rất nhiều.",
+      "note": "Danh từ không đếm được. Cụm cố định: 'with hindsight / in hindsight / with the benefit of hindsight'. Cực kỳ hợp với điều kiện loại 3.",
+      "synonyms": [
+        { "term": "in retrospect", "ipa": "/ɪn ˈret.rə.spekt/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'khi nhìn lại'. Gần đồng nghĩa, hay đứng đầu câu: 'In retrospect, that was a mistake.'" }
+      ]
+    },
+    {
+      "term": "presumably",
+      "ipa": "/prɪˈzjuː.mə.bli/",
+      "vi": "có lẽ là, đoán chừng (trạng từ)",
+      "register": "neutral",
+      "example": "Presumably, they would have warned us if there had been any danger.",
+      "exampleVi": "Đoán chừng là họ hẳn đã cảnh báo chúng ta nếu có nguy hiểm gì đó.",
+      "note": "Trạng từ. Dùng khi suy luận một điều có vẻ hợp lý dựa trên lẽ thường, hợp với suy đoán giả định.",
+      "synonyms": [
+        { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "register": "neutral", "nuanceVi": "Nhấn 'theo như người ta nói/cho là', đôi khi hàm ý hoài nghi. Khác 'presumably' (suy luận hợp lý của chính người nói)." },
+        { "term": "in all likelihood", "ipa": "/ɪn ɔːl ˈlaɪk.li.hʊd/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'khả năng cao là'. Dài và nhã nhặn hơn 'presumably'." }
+      ]
+    },
+    {
+      "term": "to rule out",
+      "ipa": "/tə ruːl aʊt/",
+      "vi": "loại bỏ, gạt khỏi khả năng (động từ)",
+      "register": "neutral",
+      "example": "I wouldn't entirely rule out that possibility just yet.",
+      "exampleVi": "Tôi sẽ chưa hoàn toàn loại bỏ khả năng đó vội đâu.",
+      "note": "Cụm động từ. Trái nghĩa với việc xem xét một kịch bản. Hay dùng kèm 'entirely / completely'.",
+      "synonyms": [
+        { "term": "to dismiss", "ipa": "/dɪˈsmɪs/", "register": "formal", "nuanceVi": "Nhấn 'bác bỏ, cho là không đáng xét'. Mạnh và dứt khoát hơn 'rule out' một chút." },
+        { "term": "to discount", "ipa": "/dɪsˈkaʊnt/", "register": "formal", "nuanceVi": "Nhấn 'xem nhẹ, không tính tới vì cho là không quan trọng'. Tinh tế hơn, không hẳn là loại bỏ hoàn toàn." }
+      ]
+    },
+    {
+      "term": "conceivably",
+      "ipa": "/kənˈsiː.və.bli/",
+      "vi": "có thể hình dung là, biết đâu (trạng từ)",
+      "register": "formal",
+      "example": "Conceivably, the outcome could have been far worse.",
+      "exampleVi": "Biết đâu, kết cục có thể đã tệ hơn nhiều.",
+      "note": "Trạng từ trang trọng. Dùng để thừa nhận một khả năng dù khó xảy ra — rất hợp giọng điệu giả định, thận trọng.",
+      "synonyms": [
+        { "term": "arguably", "ipa": "/ˈɑːɡ.juː.ə.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể lập luận rằng', dùng khi nêu một nhận định có thể bảo vệ được nhưng còn tranh cãi." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "If I were [danh từ/tính từ], I would [V nguyên thể].",
+      "use": "Đưa giả định không có thật ở hiện tại (điều kiện loại 2).",
+      "register": "neutral",
+      "examples": [
+        "If I were in your position, I would think twice before signing anything.",
+        "If money were no object, I would travel the world for a year."
+      ],
+      "explanationVi": "Điều kiện loại 2: 'If + quá khứ đơn, would + V'. Lưu ý dùng 'were' cho mọi ngôi (kể cả I/he/she) trong văn nói chuẩn mực. Diễn tả điều trái với thực tế hiện tại.",
+      "altOf": "present-hypothetical"
+    },
+    {
+      "pattern": "Suppose / Supposing [mệnh đề], what would you do?",
+      "use": "Mời người khác cùng tưởng tượng một kịch bản giả định.",
+      "register": "neutral",
+      "examples": [
+        "Suppose you were offered the job tomorrow — would you actually take it?",
+        "Supposing the deal fell through, how would we recover?"
+      ],
+      "explanationVi": "'Suppose / Supposing' = 'giả sử như', cách mở màn một tình huống giả định tự nhiên hơn là lặp đi lặp lại 'if'. Theo sau vẫn dùng thì quá khứ để chỉ điều không thật.",
+      "altOf": "present-hypothetical"
+    },
+    {
+      "pattern": "If I had [V3], I would have [V3].",
+      "use": "Suy đoán về một quá khứ đã không xảy ra (điều kiện loại 3) — hối tiếc hoặc trách cứ.",
+      "register": "neutral",
+      "examples": [
+        "If I had known about the traffic, I would have left much earlier.",
+        "If they had listened to us, the project would not have collapsed."
+      ],
+      "explanationVi": "Điều kiện loại 3: 'If + had + V3, would have + V3'. Diễn tả điều trái với thực tế trong quá khứ. Rất hay đi kèm 'hindsight' (giờ ngẫm lại).",
+      "altOf": "past-hypothetical"
+    },
+    {
+      "pattern": "Had I [V3], I would have [V3].",
+      "use": "Cùng nghĩa điều kiện loại 3 nhưng đảo ngữ, nghe trang trọng và văn vẻ.",
+      "register": "formal",
+      "examples": [
+        "Had I realized how risky it was, I would never have agreed.",
+        "Had they invested earlier, they would have reaped enormous rewards."
+      ],
+      "explanationVi": "Đảo ngữ điều kiện loại 3: bỏ 'if', đưa 'Had' lên đầu câu trước chủ ngữ. Đây là dấu hiệu tiếng Anh trình độ cao — nhưng phải đảo đúng, đừng giữ lại 'if'.",
+      "altOf": "past-hypothetical"
+    },
+    {
+      "pattern": "Were I to [V nguyên thể], I would [V nguyên thể].",
+      "use": "Đưa giả định tương lai khó xảy ra, bằng đảo ngữ trang trọng.",
+      "register": "formal",
+      "examples": [
+        "Were I to accept the offer, I would have to relocate abroad.",
+        "Were the situation to change, we would naturally reconsider our stance."
+      ],
+      "explanationVi": "Đảo ngữ của 'If I were to + V': bỏ 'if', đưa 'Were' lên đầu. Diễn tả một giả định tương lai mang tính lý thuyết, ít khả năng. Rất nhã nhặn, hợp tranh luận trang trọng.",
+      "altOf": "present-hypothetical"
+    },
+    {
+      "pattern": "I wish I had [V3] / If only I had [V3].",
+      "use": "Bày tỏ tiếc nuối về điều đã không làm trong quá khứ.",
+      "register": "neutral",
+      "examples": [
+        "I wish I had spoken up during the meeting.",
+        "If only we had taken that warning more seriously."
+      ],
+      "explanationVi": "'wish / if only' + quá khứ hoàn thành (had V3) để tiếc nuối quá khứ. 'If only' nhấn mạnh cảm xúc tiếc nuối hơn 'wish'. Tránh nói 'I wish I would have' — sai ngữ pháp phổ biến."
+    },
+    {
+      "pattern": "I take your point, but [mệnh đề].",
+      "use": "Nhượng bộ một phần rồi đưa phản biện, giữ giọng nhã nhặn.",
+      "register": "neutral",
+      "examples": [
+        "I take your point, but I'm not entirely convinced that it would work in practice.",
+        "I see where you're coming from; that said, the risks shouldn't be underestimated."
+      ],
+      "explanationVi": "Cách phản biện lịch sự: thừa nhận ý đối phương trước ('I take your point / I see where you're coming from'), rồi mới phản đối bằng 'but / that said'. Giúp tranh luận không gay gắt."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "hypothetically speaking", "ipa": "/ˌhaɪ.pəˈθet.ɪ.kəl.i ˈspiː.kɪŋ/", "vi": "nói về mặt giả định thì", "when": "Mở đầu khi muốn rào trước rằng đây chỉ là giả sử, không phải ý định thật.", "example": "Hypothetically speaking, what would you do if the budget were doubled?" },
+    { "term": "for the sake of argument", "ipa": "/fɔːr ðə seɪk əv ˈɑːɡ.jə.mənt/", "vi": "cứ cho là vậy đi (để tiện tranh luận)", "when": "Khi tạm chấp nhận một giả định để đẩy lập luận đi tiếp, dù chưa hẳn đồng ý.", "example": "For the sake of argument, let's assume the launch is delayed by a month." },
+    { "term": "in theory", "ipa": "/ɪn ˈθɪə.ri/", "vi": "về mặt lý thuyết", "when": "Khi điều gì đó nghe hợp lý trên giấy nhưng thực tế có thể khác.", "example": "In theory it sounds perfect, although in practice it might be a different story." },
+    { "term": "by and large", "ipa": "/baɪ ænd lɑːdʒ/", "vi": "nhìn chung, về đại thể", "when": "Khi đưa nhận định tổng quát trước khi đi vào ngoại lệ.", "example": "By and large, I'd agree with you, but there are a couple of caveats." },
+    { "term": "all things considered", "ipa": "/ɔːl θɪŋz kənˈsɪd.əd/", "vi": "xét cho cùng, cân nhắc mọi mặt", "when": "Khi chốt lại một kết luận sau khi đã cân đo nhiều khả năng.", "example": "All things considered, I think we made the right call." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp (Linh và Bạn) ngồi cà phê sau giờ làm, tranh luận một cách thoải mái về một quyết định lớn của công ty: lẽ ra có nên tung sản phẩm sớm hơn không, và nếu rơi vào những tình huống giả định khác thì sẽ ra sao.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "You know, I've been thinking about the launch all week. Hypothetically speaking, if we ____ released the app three months earlier, do you think we would have captured the market before our competitors did?",
+        "ipa": "/juː nəʊ aɪv biːn ˈθɪŋ.kɪŋ əˈbaʊt ðə lɔːntʃ ɔːl wiːk ˌhaɪ.pəˈθet.ɪ.kəl.i ˈspiː.kɪŋ ɪf wiː rɪˈliːst ði æp θriː mʌnθs ˈɜː.li.ər duː juː θɪŋk wiː wʊd həv ˈkæp.tʃəd ðə ˈmɑː.kɪt bɪˈfɔːr ɑː kəmˈpet.ɪ.təz dɪd/",
+        "vi": "Cậu biết không, cả tuần nay tớ cứ nghĩ mãi về vụ ra mắt. Nói về mặt giả định nhé, nếu chúng ta ____ tung ứng dụng sớm hơn ba tháng, cậu có nghĩ là mình đã chiếm được thị trường trước đối thủ không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "had",
+            "explanationVi": "Điều kiện loại 3 dùng cho quá khứ trái thực tế: 'If we HAD released…, we would HAVE captured…'. Mệnh đề if dùng 'had + V3'. Xem mẫu câu 'If I had V3, I would have V3'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I'm not so sure. Although launching early sounds tempting, the app still had several bugs, which could easily have backfired on us. If I ____ been the project lead, I would probably have waited until everything was rock-solid.",
+        "ipa": "/ˈɒn.ɪst.li aɪm nɒt səʊ ʃʊər ɔːlˈðəʊ ˈlɔːn.tʃɪŋ ˈɜː.li saʊndz ˈtemp.tɪŋ ði æp stɪl hæd ˈsev.rəl bʌɡz wɪtʃ kʊd ˈiː.zɪ.li həv ˌbækˈfaɪəd ɒn ʌs ɪf aɪ bɪn ðə ˈprɒdʒ.ekt liːd aɪ ˈprɒb.ə.bli wʊd həv ˈweɪ.tɪd/",
+        "vi": "Thành thật thì tớ không chắc lắm. Mặc dù tung sớm nghe hấp dẫn, ứng dụng vẫn còn vài lỗi, mà mấy lỗi đó rất dễ phản tác dụng lên chính mình. Nếu tớ ____ là người dẫn dắt dự án, có lẽ tớ sẽ chờ đến khi mọi thứ thật vững chắc.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "had",
+            "explanationVi": "Tiếp tục điều kiện loại 3: 'If I HAD been…, I would have waited'. 'had been' = giá mà (đã) là, nhưng thực tế thì không. Đừng nhầm với loại 2 ('If I were')."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I take your point, but with the benefit of ____, the bugs turned out to be minor. Suppose the bigger risk wasn't the bugs at all, but losing the first-mover advantage — wouldn't that have hurt us far more in the long run?",
+        "ipa": "/aɪ teɪk jɔː pɔɪnt bʌt wɪð ðə ˈben.ɪ.fɪt əv ˈhaɪnd.saɪt ðə bʌɡz tɜːnd aʊt tə biː ˈmaɪ.nər səˈpəʊz ðə ˈbɪɡ.ər rɪsk ˈwɒz.ənt ðə bʌɡz ət ɔːl bʌt ˈluː.zɪŋ ðə ˈfɜːst ˈmuː.vər ədˈvɑːn.tɪdʒ ˈwʊd.ənt ðæt həv hɜːt ʌs fɑː mɔːr ɪn ðə lɒŋ rʌn/",
+        "vi": "Tớ hiểu ý cậu, nhưng giờ ngẫm lại thì mấy lỗi đó hóa ra cũng nhỏ thôi. Cứ giả sử rủi ro lớn hơn chẳng phải là lỗi ứng dụng, mà là việc đánh mất lợi thế người đi đầu — chẳng phải điều đó hẳn đã gây hại cho mình nhiều hơn về lâu dài sao?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "hindsight",
+            "explanationVi": "Cụm cố định 'with the benefit of hindsight' = bây giờ nhìn lại mới biết. Rất hợp với điều kiện loại 3 vì cùng nói về quá khứ. Xem mục từ vựng 'hindsight'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a fair point, and for the sake of ____, let's say speed really was everything. Even so, I'd argue that a buggy launch could have damaged our reputation, which is far harder to rebuild than to lose. Were I to do it all again, I'd still push for quality first.",
+        "ipa": "/ðæts ə feər pɔɪnt ænd fɔː ðə seɪk əv ˈɑːɡ.jə.mənt lets seɪ spiːd ˈrɪə.li wɒz ˈev.ri.θɪŋ ˈiː.vən səʊ aɪd ˈɑː.ɡjuː ðæt ə ˈbʌɡ.i lɔːntʃ kʊd həv ˈdæm.ɪdʒd ɑː ˌrep.jʊˈteɪ.ʃən wɪtʃ ɪz fɑː ˈhɑː.də tə ˌriːˈbɪld ðæn tə luːz wɜːr aɪ tə duː ɪt ɔːl əˈɡen aɪd stɪl pʊʃ fɔː ˈkwɒl.ə.ti fɜːst/",
+        "vi": "Đó là một ý xác đáng, và cứ cho là tốc độ mới là tất cả đi. Dù vậy, tớ vẫn cho rằng một lần ra mắt đầy lỗi có thể đã làm tổn hại danh tiếng của mình, mà danh tiếng thì khó gây dựng lại hơn nhiều so với việc đánh mất. Nếu được làm lại từ đầu, tớ vẫn sẽ ưu tiên chất lượng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "argument",
+            "explanationVi": "Cụm 'for the sake of argument' = cứ cho là vậy đi, để tiện tranh luận. Dùng khi tạm chấp nhận giả định của đối phương để đẩy lập luận đi tiếp. Xem mục trạng từ & cụm từ."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Fair enough. By the way, here's a more personal one: if you ____ given a once-in-a-lifetime chance to lead a brand-new team abroad, even though it meant starting from scratch, would you take it?",
+        "ipa": "/feər ɪˈnʌf baɪ ðə weɪ hɪəz ə mɔː ˈpɜː.sən.əl wʌn ɪf juː wɜː ˈɡɪv.ən ə ˈwʌn ɪn ə ˈlaɪf.taɪm tʃɑːns tə liːd ə brænd njuː tiːm əˈbrɔːd ˈiː.vən ðəʊ ɪt ment ˈstɑː.tɪŋ frəm skrætʃ wʊd juː teɪk ɪt/",
+        "vi": "Hợp lý. À tiện đây, hỏi cậu một câu cá nhân hơn: nếu cậu ____ trao một cơ hội ngàn năm có một để dẫn dắt một đội hoàn toàn mới ở nước ngoài, dù điều đó có nghĩa là phải bắt đầu lại từ con số không, cậu có nhận không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "were",
+            "explanationVi": "Điều kiện loại 2 (giả định hiện tại/tương lai trái thực tế) dùng thể bị động: 'if you WERE given…'. Dùng 'were' cho mọi ngôi trong văn nói chuẩn. Xem mẫu 'If I were…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Wow, that's a tough one. ____ speaking, I'd love to say yes immediately, but realistically I'd need to weigh up the pros and cons carefully. If only such decisions ____ as simple as they sound!",
+        "ipa": "/waʊ ðæts ə tʌf wʌn ˌaɪ.diː.əˈlɪs.tɪk.li ˈspiː.kɪŋ aɪd lʌv tə seɪ jes ɪˈmiː.di.ət.li bʌt ˌrɪə.ˈlɪs.tɪk.li aɪd niːd tə weɪ ʌp ðə prəʊz ænd kɒnz ˈkeə.fəl.i ɪf ˈəʊn.li sʌtʃ dɪˈsɪʒ.ənz wɜːr əz ˈsɪm.pəl əz ðeɪ saʊnd/",
+        "vi": "Ồ, câu này khó đấy. Nói một cách lý tưởng thì tớ rất muốn gật đầu ngay lập tức, nhưng thực tế thì tớ cần cân nhắc lợi hại thật cẩn thận. Giá mà những quyết định kiểu này ____ đơn giản như khi nghe nói!",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một trạng từ chỉ góc nhìn để mở đầu, ví dụ: 'Ideally', 'Honestly', 'Personally'."
+          },
+          {
+            "type": "knowledge",
+            "answer": "were",
+            "explanationVi": "Cấu trúc 'If only + quá khứ' để tiếc nuối/ước điều trái thực tế hiện tại: 'If only such decisions WERE as simple…'. Dùng 'were' (không phải 'was') trong văn nói chuẩn. Xem mẫu 'I wish / If only'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Ha, true. But knowing you, I'd say you'd jump at it. Personally, ____ I to be offered something like that, I think I'd regret it forever if I turned it down out of fear.",
+        "ipa": "/hɑː truː bʌt ˈnəʊ.ɪŋ juː aɪd seɪ juːd dʒʌmp ət ɪt ˈpɜː.sən.ə.li wɜːr aɪ tə biː ˈɒfəd ˈsʌm.θɪŋ laɪk ðæt aɪ θɪŋk aɪd rɪˈɡret ɪt fəˈrev.ər ɪf aɪ tɜːnd ɪt daʊn aʊt əv fɪər/",
+        "vi": "Ha, đúng thật. Nhưng tớ biết tính cậu mà, tớ dám nói là cậu sẽ chộp lấy ngay. Còn riêng tớ, nếu được trao một cơ hội như thế, tớ nghĩ mình sẽ hối hận mãi mãi nếu từ chối nó chỉ vì sợ hãi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "were",
+            "explanationVi": "Đảo ngữ trang trọng của 'If I were to be offered': bỏ 'if', đưa 'Were' lên đầu → 'WERE I to be offered…'. Diễn tả giả định tương lai mang tính lý thuyết. Xem mẫu 'Were I to + V'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "All things considered, maybe you're right. Let's just say that if the opportunity ____ ever come up, I promise I'll think it over seriously instead of dismissing it. ____, I really need another coffee before we solve all the world's problems!",
+        "ipa": "/ɔːl θɪŋz kənˈsɪd.əd ˈmeɪ.bi jɔː raɪt lets dʒʌst seɪ ðæt ɪf ði ˌɒp.əˈtjuː.nə.ti ˈev.ər kʌm ʌp aɪ ˈprɒm.ɪs aɪl θɪŋk ɪt ˈəʊ.və ˈsɪə.ri.əs.li ɪnˈsted əv dɪsˈmɪs.ɪŋ ɪt ˌɒn ðə ˈʌð.ər hænd aɪ ˈrɪə.li niːd əˈnʌð.ə ˈkɒf.i/",
+        "vi": "Xét cho cùng thì có lẽ cậu nói đúng. Cứ cho là nếu cơ hội đó ____ xuất hiện, tớ hứa sẽ suy nghĩ nghiêm túc chứ không gạt phăng đi. ____, giờ tớ thật sự cần thêm một ly cà phê nữa trước khi tụi mình giải quyết hết mọi vấn đề của thế giới!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "should",
+            "explanationVi": "'if ... should ever come up' là cấu trúc điều kiện trang trọng diễn tả khả năng nhỏ/bất ngờ ở tương lai ('lỡ như có xảy ra'). 'should' ở đây nhấn tính ngẫu nhiên, ít khả năng."
+          },
+          {
+            "type": "personal",
+            "hint": "Một cụm chuyển ý hài hước/đổi chủ đề, ví dụ: 'On the other hand', 'Anyway', 'In any case'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận của người nói tiếng Anh, dùng câu giả định ('what if', 'suppose…') để khám phá ý tưởng được xem là dấu hiệu tư duy cởi mở, không phải là thiếu lập trường.",
+    "Người bản xứ thường 'rào' giả định bằng các cụm như 'hypothetically speaking' hay 'for the sake of argument' để tránh bị hiểu lầm là đang cam kết thật — nếu thiếu, lời nói có thể bị coi là hứa hẹn.",
+    "Cụm 'with hindsight / in retrospect' được dùng để tự nhận lỗi một cách nhẹ nhàng, văn minh; thừa nhận 'lẽ ra tôi nên…' được đánh giá cao hơn là chối bỏ trách nhiệm.",
+    "Khi phản biện, người Anh-Mỹ chuộng kiểu 'nhượng bộ trước, phản đối sau' ('I take your point, but…') để giữ hòa khí; phản đối thẳng thừng dễ bị coi là khó chịu."
+  ],
+
+  "commonMistakes": [
+    "Nhầm điều kiện loại 2 và loại 3: nói về quá khứ phải dùng 'If I had known…, I would have…', không phải 'If I knew…, I would…'.",
+    "Sai cấu trúc 'wish/if only': KHÔNG nói 'I wish I would have done' — đúng là 'I wish I had done' (tiếc nuối quá khứ).",
+    "Đảo ngữ điều kiện sai: khi đã dùng 'Had I known…' hay 'Were I to…' thì KHÔNG được giữ lại 'if' (sai: 'If had I known…').",
+    "Dùng 'was' thay vì 'were' trong giả định trang trọng: chuẩn mực là 'If I were you', 'Were I to…', không phải 'If I was you' (dù văn nói đời thường vẫn nghe)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về các tình huống giả định ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh thông minh, thích tranh luận, để luyện cho tôi nói về các tình huống giả định ở trình độ C1. Hãy đặt cho tôi những câu hỏi 'what-if' thú vị (ví dụ: 'Nếu được quay ngược thời gian, bạn sẽ thay đổi quyết định nào?', 'Giả sử bạn trúng số, bạn có bỏ việc không?'), mỗi lần một câu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và phản biện lại để đẩy cuộc tranh luận đi xa hơn, (2) sửa lỗi ngữ pháp bằng tiếng Việt, ĐẶC BIỆT chú ý câu điều kiện loại 2/loại 3, cấu trúc 'wish/if only', và đảo ngữ ('Had I…', 'Were I to…'), (3) gợi ý cho tôi dùng idiom và cụm rào giả định như 'hypothetically speaking', 'for the sake of argument', 'with hindsight'. Cuối buổi, hãy chấm điểm độ tự nhiên của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi giả định đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy cố tình bất đồng quan điểm với tôi để tớ phải tập bảo vệ lập trường và nhượng bộ một cách nhã nhặn.'",
+      "Thêm: 'Hãy yêu cầu tôi dùng ít nhất một cấu trúc đảo ngữ trong mỗi câu trả lời.' khi bạn đã quen.",
+      "Thêm: 'Hãy đẩy chủ đề sang các tình huống đạo đức nan giải (moral dilemmas) để tăng độ phức tạp.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi phân biệt và dùng đúng điều kiện loại 2 (giả định hiện tại) và loại 3 (giả định quá khứ) mà không cần suy nghĩ lâu.",
+    "Tôi nói được ít nhất một câu đảo ngữ ('Had I…' hoặc 'Were I to…') một cách tự nhiên.",
+    "Tôi phản biện được một quan điểm bằng kiểu 'nhượng bộ trước, phản đối sau' mà vẫn giữ giọng nhã nhặn."
+  ]
+}

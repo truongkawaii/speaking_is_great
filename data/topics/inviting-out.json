@@ -1,0 +1,381 @@
+{
+  "id": "inviting-out",
+  "category": "friends",
+  "title": "Mời đi chơi",
+  "titleEn": "Inviting Someone Out",
+  "level": "B1",
+  "functions": ["suggesting", "requesting", "agreeing", "refusing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mời bạn bè đi chơi một cách tự nhiên và thân thiện",
+    "Đề xuất thời gian, địa điểm và hoạt động cụ thể",
+    "Nhận lời mời một cách hào hứng và lịch sự",
+    "Từ chối khéo léo kèm lý do mà không làm mất lòng",
+    "Dùng câu nối B1 (because, so, although, such as) khi rủ rê"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to hang out",
+      "ipa": "/hæŋ aʊt/",
+      "vi": "đi chơi, tụ tập (động từ, thân mật)",
+      "register": "casual",
+      "example": "Do you want to hang out this weekend?",
+      "exampleVi": "Cuối tuần này cậu muốn đi chơi không?",
+      "note": "Cụm động từ rất đời thường giữa bạn bè. Không dùng trong ngữ cảnh trang trọng.",
+      "synonyms": [
+        { "term": "to get together", "ipa": "/ɡet təˈɡeð.ər/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'tụ họp gặp nhau', hơi trung tính hơn 'hang out'. Hợp khi rủ một nhóm." },
+        { "term": "to meet up", "ipa": "/miːt ʌp/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'hẹn gặp ở một điểm', thường có kế hoạch trước. Trung tính, dùng được khá rộng." }
+      ]
+    },
+    {
+      "term": "to be up for",
+      "ipa": "/biː ʌp fɔːr/",
+      "vi": "có hứng / sẵn sàng tham gia (cụm động từ)",
+      "register": "casual",
+      "example": "Are you up for a movie tonight?",
+      "exampleVi": "Tối nay cậu có hứng đi xem phim không?",
+      "note": "Luôn đi với 'for + danh từ/V-ing'. Cách rủ rê rất tự nhiên của người bản xứ.",
+      "synonyms": [
+        { "term": "to feel like", "ipa": "/fiːl laɪk/", "register": "casual", "nuanceVi": "Nhấn vào cảm giác 'thèm/muốn làm gì lúc này'. Đi với V-ing: 'Do you feel like going out?'" },
+        { "term": "to be keen on", "ipa": "/biː kiːn ɒn/", "register": "neutral", "nuanceVi": "Anh-Anh hay dùng, nghĩa 'khoái, thích'. Hơi trang nhã hơn 'up for'." }
+      ]
+    },
+    {
+      "term": "invitation",
+      "ipa": "/ˌɪn.vɪˈteɪ.ʃən/",
+      "vi": "lời mời (danh từ)",
+      "register": "neutral",
+      "example": "Thanks for the invitation, I'd love to come.",
+      "exampleVi": "Cảm ơn lời mời, tớ rất muốn đến.",
+      "note": "Danh từ. Động từ là 'to invite'. Cụm hay gặp: 'accept/turn down an invitation'.",
+      "synonyms": [
+        { "term": "invite", "ipa": "/ˈɪn.vaɪt/", "register": "casual", "nuanceVi": "Dùng như danh từ trong văn nói đời thường (trọng âm đầu): 'Thanks for the invite.' Thân mật hơn 'invitation'." }
+      ]
+    },
+    {
+      "term": "to grab",
+      "ipa": "/ɡræb/",
+      "vi": "tranh thủ đi (ăn/uống) nhanh (động từ)",
+      "register": "casual",
+      "example": "Let's grab a coffee after work.",
+      "exampleVi": "Tan làm mình đi làm cốc cà phê đi.",
+      "note": "Trong ngữ cảnh rủ rê, 'grab a coffee / grab a bite' = đi uống/ăn nhanh, không cầu kỳ.",
+      "synonyms": [
+        { "term": "to go for", "ipa": "/ɡəʊ fɔːr/", "register": "neutral", "nuanceVi": "Trung tính: 'go for a drink/a walk'. Bớt vẻ vội vàng hơn 'grab'." }
+      ]
+    },
+    {
+      "term": "free",
+      "ipa": "/friː/",
+      "vi": "rảnh, có thời gian (tính từ)",
+      "register": "neutral",
+      "example": "Are you free on Saturday evening?",
+      "exampleVi": "Tối thứ Bảy cậu rảnh không?",
+      "note": "Tính từ. Ở đây nghĩa 'rảnh rỗi', khác nghĩa 'miễn phí'. Trái nghĩa: busy.",
+      "synonyms": [
+        { "term": "available", "ipa": "/əˈveɪ.lə.bəl/", "register": "neutral", "nuanceVi": "Hơi trang trọng hơn, nhấn 'có mặt được, sắp xếp được'. Hợp khi hẹn công việc lẫn bạn bè." },
+        { "term": "off", "ipa": "/ɒf/", "register": "casual", "nuanceVi": "Nghĩa 'được nghỉ làm': 'I'm off on Friday.' Chỉ dùng cho ngày nghỉ, không thay được hoàn toàn cho 'free'." }
+      ]
+    },
+    {
+      "term": "to turn down",
+      "ipa": "/tɜːn daʊn/",
+      "vi": "từ chối (lời mời/đề nghị) (động từ)",
+      "register": "neutral",
+      "example": "I hate to turn down your invitation, but I'm busy.",
+      "exampleVi": "Tớ rất ngại phải từ chối lời mời của cậu, nhưng tớ bận mất rồi.",
+      "note": "Cụm động từ, tách được: 'turn it down'. Lịch sự hơn nói thẳng 'refuse'.",
+      "synonyms": [
+        { "term": "to decline", "ipa": "/dɪˈklaɪn/", "register": "formal", "nuanceVi": "Trang trọng, nhã nhặn, hay gặp trong văn viết/thiệp mời: 'I must respectfully decline.'" },
+        { "term": "to pass on", "ipa": "/pɑːs ɒn/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng: 'I'll pass on the party this time.' Nghe đỡ nặng nề hơn 'turn down'." }
+      ]
+    },
+    {
+      "term": "to make it",
+      "ipa": "/meɪk ɪt/",
+      "vi": "đến/tham dự được (cụm động từ)",
+      "register": "casual",
+      "example": "Sorry, I can't make it on Friday.",
+      "exampleVi": "Xin lỗi, thứ Sáu tớ không đến được.",
+      "note": "Idiom rất thông dụng để nói 'có/không thể tham dự'. Đừng dịch sát từng chữ.",
+      "synonyms": [
+        { "term": "to come along", "ipa": "/kʌm əˈlɒŋ/", "register": "casual", "nuanceVi": "Nhấn vào việc 'đi cùng theo nhóm'. Hợp khi rủ tham gia chung với mọi người." }
+      ]
+    },
+    {
+      "term": "tempting",
+      "ipa": "/ˈtemp.tɪŋ/",
+      "vi": "hấp dẫn, khó chối từ (tính từ)",
+      "register": "neutral",
+      "example": "That sounds really tempting, but I'm exhausted.",
+      "exampleVi": "Nghe hấp dẫn thật đấy, nhưng tớ kiệt sức mất rồi.",
+      "note": "Tính từ. Dùng để khen lời mời hay nhưng (thường) sắp từ chối — cách từ chối khéo.",
+      "synonyms": [
+        { "term": "appealing", "ipa": "/əˈpiː.lɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'thu hút, dễ ưa'. Trung tính, dùng được cho cả ý tưởng lẫn món ăn." },
+        { "term": "enticing", "ipa": "/ɪnˈtaɪ.sɪŋ/", "register": "formal", "nuanceVi": "Mạnh hơn, văn vẻ hơn: 'lôi cuốn đến mức khó cưỡng'. Nghe hơi trang trọng." }
+      ]
+    },
+    {
+      "term": "definitely",
+      "ipa": "/ˈdef.ɪn.ət.li/",
+      "vi": "chắc chắn rồi (trạng từ)",
+      "register": "neutral",
+      "example": "I'm definitely coming, count me in!",
+      "exampleVi": "Tớ chắc chắn đi, tính cả tớ nhé!",
+      "note": "Trạng từ nhấn mạnh sự đồng ý dứt khoát. Bẫy chính tả: 'defiNITEly', không phải 'definately'.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˌæb.səˈluːt.li/", "register": "neutral", "nuanceVi": "Mạnh hơn, nghe hào hứng dứt khoát: 'Absolutely!' = 'Chắc chắn luôn!'" },
+        { "term": "for sure", "ipa": "/fɔːr ʃʊər/", "register": "casual", "nuanceVi": "Đời thường, thân mật: 'I'll be there for sure.' Hợp văn nói giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "casually",
+      "ipa": "/ˈkæʒ.u.ə.li/",
+      "vi": "một cách thoải mái, xuề xòa (trạng từ)",
+      "register": "neutral",
+      "example": "Let's keep it casual — just dress casually and bring a friend.",
+      "exampleVi": "Cứ thoải mái thôi — mặc xuề xòa và rủ thêm bạn nữa nhé.",
+      "note": "Trạng từ từ 'casual'. Hữu ích khi muốn nói buổi gặp không cầu kỳ.",
+      "synonyms": [
+        { "term": "informally", "ipa": "/ɪnˈfɔː.mə.li/", "register": "neutral", "nuanceVi": "Nhấn 'không trang trọng, không nghi thức'. Hơi thiên về văn viết hơn 'casually'." }
+      ]
+    },
+    {
+      "term": "spontaneous",
+      "ipa": "/spɒnˈteɪ.ni.əs/",
+      "vi": "ngẫu hứng, không lên kế hoạch trước (tính từ)",
+      "register": "neutral",
+      "example": "I love spontaneous plans, such as a last-minute road trip.",
+      "exampleVi": "Tớ thích những kế hoạch ngẫu hứng, chẳng hạn một chuyến đi phút chót.",
+      "note": "Tính từ. Trạng từ là 'spontaneously'. Bẫy phát âm: nhấn âm 'TA' ở giữa."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Do you want to + [động từ] + [thời gian]?",
+      "use": "Rủ rê trực tiếp, thân mật giữa bạn bè.",
+      "register": "casual",
+      "examples": [
+        "Do you want to grab dinner tonight?",
+        "Do you want to come over this weekend?"
+      ],
+      "explanationVi": "Cách rủ đơn giản và phổ biến nhất giữa bạn thân. Trong văn nói thường rút gọn thành 'D'you wanna...?'.",
+      "altOf": "making-invitation"
+    },
+    {
+      "pattern": "Would you like to + [động từ] ...?",
+      "use": "Mời ai đó một cách lịch sự, nhã nhặn hơn.",
+      "register": "neutral",
+      "examples": [
+        "Would you like to join us for lunch on Sunday?",
+        "Would you like to come to my birthday party?"
+      ],
+      "explanationVi": "Lịch sự hơn 'Do you want to...?'. Hợp khi mời người chưa thân lắm hoặc muốn nghe trang trọng, ấm áp hơn.",
+      "altOf": "making-invitation"
+    },
+    {
+      "pattern": "How about + [V-ing / danh từ]?",
+      "use": "Đề xuất một hoạt động hoặc thời gian cụ thể.",
+      "register": "casual",
+      "examples": [
+        "How about going to the new café near the station?",
+        "How about Saturday afternoon instead?"
+      ],
+      "explanationVi": "'How about' luôn theo sau bởi V-ing hoặc danh từ (KHÔNG dùng nguyên thể). Rất tiện để gợi ý phương án.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we + [động từ nguyên thể]?",
+      "use": "Gợi ý cùng nhau làm gì đó (bao gồm cả người nói).",
+      "register": "neutral",
+      "examples": [
+        "Why don't we watch a movie this evening?",
+        "Why don't we meet up at six?"
+      ],
+      "explanationVi": "'Why don't we...?' theo sau là động từ nguyên thể (không 'to'). Nghe rủ rê nhiệt tình hơn vì gộp cả hai vào kế hoạch.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I'd love to, but [lý do], so [hệ quả].",
+      "use": "Từ chối khéo léo kèm lý do, giữ thiện cảm.",
+      "register": "neutral",
+      "examples": [
+        "I'd love to, but I have to work late, so maybe next time?",
+        "I'd love to, but I'm not feeling well, so I'll have to pass this time."
+      ],
+      "explanationVi": "Khen lời mời trước ('I'd love to') rồi mới nêu lý do bằng 'but' và hệ quả bằng 'so' — cách từ chối lịch sự, không làm mất lòng.",
+      "altOf": "declining-invitation"
+    },
+    {
+      "pattern": "Sounds great! What time + [mệnh đề]?",
+      "use": "Nhận lời hào hứng và hỏi thêm chi tiết.",
+      "register": "casual",
+      "examples": [
+        "Sounds great! What time should we meet?",
+        "Sounds great! What time does it start?"
+      ],
+      "explanationVi": "Đáp 'Sounds great!' thể hiện sự hào hứng, rồi hỏi chi tiết (giờ giấc) cho thấy bạn thực sự muốn tham gia.",
+      "altOf": "accepting-invitation"
+    },
+    {
+      "pattern": "Are you free + [thời gian] to + [động từ]?",
+      "use": "Hỏi xem bạn có rảnh không trước khi rủ.",
+      "register": "neutral",
+      "examples": [
+        "Are you free on Friday to catch up over coffee?",
+        "Are you free tomorrow to go shopping?"
+      ],
+      "explanationVi": "Hỏi 'Are you free...?' trước để dò lịch, vừa lịch sự vừa tránh tình huống khó xử nếu họ bận.",
+      "altOf": "making-invitation"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc đề xuất phương án khác.", "example": "Actually, I'd prefer Saturday if that works for you." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời từ chối chân thành để nghe đỡ phũ.", "example": "Honestly, I'm too tired tonight, but I really want to next time." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể", "when": "Chèn thêm một gợi ý hoặc câu hỏi ngoài lề.", "example": "By the way, can I bring a friend along?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh khi nhận lời.", "example": "I'll definitely be there!" },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ / hay là", "when": "Khi gợi ý mềm mỏng hoặc còn lưỡng lự.", "example": "Maybe we could go a bit earlier?" },
+    { "term": "for sure", "ipa": "/fɔːr ʃʊər/", "vi": "chắc chắn rồi (thân mật)", "when": "Đáp lại đồng ý một cách hào hứng, đời thường.", "example": "Count me in, for sure!" }
+  ],
+
+  "dialogue": {
+    "context": "Linh nhắn tin và gọi rủ bạn thân là Minh đi chơi cuối tuần. Minh ban đầu hơi bận nhưng cuối cùng cũng sắp xếp được. Hãy điền vào chỗ trống để hoàn thành cuộc hội thoại.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Hey Minh! Are you ____ this weekend? I was thinking we could finally do something fun together.",
+        "ipa": "/heɪ mɪn ɑːr juː ... ðɪs ˈwiːk.end aɪ wɒz ˈθɪŋ.kɪŋ wiː kʊd ˈfaɪ.nə.li duː ˈsʌm.θɪŋ fʌn təˈɡeð.ər/",
+        "vi": "Này Minh! Cuối tuần này cậu ____ không? Tớ đang nghĩ cuối cùng thì bọn mình cũng nên làm gì đó vui vẻ cùng nhau.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "free",
+            "explanationVi": "Dùng tính từ 'free' (= rảnh, có thời gian). Câu hỏi 'Are you free...?' là cách dò lịch lịch sự trước khi rủ. Xem mẫu câu 'Are you free... to...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Hi Linh! Honestly, my Saturday is quite packed because I promised to help my sister move, ____ Sunday is completely open. What did you have in mind?",
+        "ipa": "/haɪ mɪn ˈɒn.ɪst.li maɪ ˈsæt.ə.deɪ ɪz kwaɪt pækt bɪˈkɒz aɪ ˈprɒm.ɪst tə help maɪ ˈsɪs.tər muːv ... ˈsʌn.deɪ ɪz kəmˈpliːt.li ˈəʊ.pən wɒt dɪd juː hæv ɪn maɪnd/",
+        "vi": "Chào Linh! Thành thật mà nói, thứ Bảy của tớ khá kín vì tớ đã hứa giúp chị gái chuyển nhà, ____ Chủ nhật thì hoàn toàn rảnh. Cậu định làm gì thế?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "but",
+            "explanationVi": "Dùng 'but' để nối hai vế tương phản: thứ Bảy bận nhưng Chủ nhật rảnh. Đây là từ nối tương phản cơ bản ở trình độ B1."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Perfect, Sunday works for me too! How about ____ to that new rooftop café everyone keeps talking about, and then maybe catching a movie afterwards?",
+        "ipa": "/ˈpɜː.fɪkt ˈsʌn.deɪ wɜːks fɔːr miː tuː haʊ əˈbaʊt ... tə ðæt njuː ˈrʊf.tɒp ˈkæf.eɪ ˈev.ri.wʌn kiːps ˈtɔː.kɪŋ əˈbaʊt ænd ðen ˈmeɪ.bi ˈkætʃ.ɪŋ ə ˈmuː.vi ˈɑːf.tə.wədz/",
+        "vi": "Tuyệt, Chủ nhật tớ cũng được! Hay là mình ____ đến quán cà phê sân thượng mới mà ai cũng nhắc đến, rồi sau đó có thể đi xem phim nữa?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "going",
+            "explanationVi": "Sau 'How about' phải dùng V-ing, nên là 'going'. Lưu ý: 'How about + V-ing/danh từ', tuyệt đối không dùng động từ nguyên thể. Xem mẫu câu 'How about + V-ing'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds really ____! I've actually wanted to try that café for ages, although I'm not sure I can afford an expensive movie ticket this month.",
+        "ipa": "/ðæt saʊndz ˈrɪə.li ... aɪv ˈæk.tʃu.ə.li ˈwɒn.tɪd tə traɪ ðæt ˈkæf.eɪ fɔːr ˈeɪ.dʒɪz ɔːlˈðəʊ aɪm nɒt ʃʊər aɪ kæn əˈfɔːd ən ɪkˈspen.sɪv ˈmuː.vi ˈtɪk.ɪt ðɪs mʌnθ/",
+        "vi": "Nghe ____ thật đấy! Thật ra tớ đã muốn thử quán đó từ lâu rồi, mặc dù tớ không chắc tháng này mình có đủ tiền mua vé xem phim đắt đỏ không.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "tempting",
+            "explanationVi": "Tính từ 'tempting' (= hấp dẫn, khó chối từ) khen ý tưởng của bạn. Sau 'sounds really' cần một tính từ. 'although' phía sau mở mệnh đề nhượng bộ (mặc dù)."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "No worries at all! We don't have to do everything, ____ we could just enjoy the café and take a long walk by the river instead. It's free and the view is gorgeous.",
+        "ipa": "/nəʊ ˈwʌr.iz ət ɔːl wiː dəʊnt hæv tə duː ˈev.ri.θɪŋ ... wiː kʊd dʒʌst ɪnˈdʒɔɪ ðə ˈkæf.eɪ ænd teɪk ə lɒŋ wɔːk baɪ ðə ˈrɪv.ər ɪnˈsted ɪts friː ænd ðə vjuː ɪz ˈɡɔː.dʒəs/",
+        "vi": "Không sao đâu! Mình đâu cần làm hết mọi thứ, ____ mình chỉ cần tận hưởng quán cà phê rồi đi dạo dọc bờ sông cũng được. Vừa miễn phí lại vừa có cảnh đẹp.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "so",
+            "explanationVi": "Dùng 'so' để dẫn ra một phương án/hệ quả hợp lý: không cần làm hết nên chọn cách đơn giản. 'so' là từ nối kết quả phổ biến ở B1."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Sounds great! That's such a relaxing plan, which is exactly what I need after a busy week. What time should we ____ on Sunday?",
+        "ipa": "/saʊndz ɡreɪt ðæts sʌtʃ ə rɪˈlæk.sɪŋ plæn wɪtʃ ɪz ɪɡˈzækt.li wɒt aɪ niːd ˈɑːf.tər ə ˈbɪz.i wiːk wɒt taɪm ʃʊd wiː ... ɒn ˈsʌn.deɪ/",
+        "vi": "Nghe tuyệt đấy! Đúng là một kế hoạch thư giãn, mà đó chính xác là điều tớ cần sau một tuần bận rộn. Chủ nhật mình nên ____ lúc mấy giờ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "meet",
+            "explanationVi": "Động từ nguyên thể 'meet' (= gặp nhau). Sau 'should we' dùng động từ nguyên thể không 'to'. 'which' phía trước là đại từ quan hệ thay cho cả ý 'a relaxing plan'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Let's say around ____, so we have plenty of daylight for the walk. By the way, would it be okay if I invited Hoa to come along too?",
+        "ipa": "/lets seɪ əˈraʊnd ... səʊ wiː hæv ˈplen.ti ɒv ˈdeɪ.laɪt fɔːr ðə wɔːk baɪ ðə weɪ wʊd ɪt biː ˈəʊ.keɪ ɪf aɪ ɪnˈvaɪ.tɪd ˈhəʊ.ə tə kʌm əˈlɒŋ tuː/",
+        "vi": "Hẹn khoảng ____ nhé, để mình còn nhiều ánh sáng ban ngày mà đi dạo. Tiện thể, cậu thấy có ổn không nếu tớ rủ Hoa đi cùng luôn?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một mốc giờ bạn muốn hẹn. Ví dụ: 'three' hoặc 'four o'clock'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "The more the merrier! Hoa is great company, ____ tell her to bring her camera since the rooftop view will be perfect for photos. I'm definitely looking forward to it!",
+        "ipa": "/ðə mɔːr ðə ˈmer.i.ər ˈhəʊ.ə ɪz ɡreɪt ˈkʌm.pə.ni ... tel hɜːr tə brɪŋ hɜːr ˈkæm.rə sɪns ðə ˈrʊf.tɒp vjuː wɪl biː ˈpɜː.fɪkt fɔːr ˈfəʊ.təʊz aɪm ˈdef.ɪn.ət.li ˈlʊk.ɪŋ ˈfɔː.wəd tə ɪt/",
+        "vi": "Càng đông càng vui! Hoa đi cùng thì vui lắm, ____ bảo nhỏ ấy mang theo máy ảnh vì cảnh sân thượng sẽ rất hợp để chụp hình. Tớ chắc chắn rất mong đến hôm đó!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "and",
+            "explanationVi": "Dùng 'and' để nối thêm một ý đề nghị (bảo Hoa mang máy ảnh). 'and' là từ nối thêm thông tin cơ bản, tự nhiên trong văn nói thân mật."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Giữa bạn bè phương Tây, lời mời thường khá thoải mái và không câu nệ; nói 'Do you want to hang out?' là hoàn toàn bình thường, không hề bị xem là suồng sã.",
+    "Khi từ chối, người bản xứ hiếm khi nói 'No' cụt lủn. Họ thường khen lời mời ('I'd love to / That sounds great') rồi mới nêu lý do — đây là phép lịch sự quan trọng.",
+    "Câu 'The more the merrier!' (càng đông càng vui) là cách đáp rất thân thiện khi ai đó xin rủ thêm bạn.",
+    "Ở nhiều nước, khi rủ đi ăn/uống, việc ai trả tiền thường được hiểu ngầm là chia đều ('split the bill') hoặc 'go Dutch', trừ khi người mời nói rõ sẽ bao."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai sau 'How about': phải là 'How about GOING...', không phải 'How about to go...'.",
+    "Từ chối quá thẳng kiểu 'No, I'm busy.' nghe phũ. Hãy thêm 'I'd love to, but...' và một lời hẹn lần sau.",
+    "Nhầm 'free' nghĩa 'rảnh' với 'free' nghĩa 'miễn phí' — chú ý ngữ cảnh để hiểu đúng.",
+    "Quên 'for' trong 'be up for' — luôn là 'Are you up FOR something?', không phải 'Are you up something?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện rủ bạn đi chơi như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh. Tôi sẽ rủ bạn đi chơi. Hãy phản hồi tự nhiên như một người bạn: đôi khi đồng ý hào hứng, đôi khi từ chối khéo hoặc đề xuất phương án/thời gian khác để tôi phải thương lượng. Sau mỗi câu của tôi, hãy: (1) trả lời tự nhiên đúng vai người bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu rủ rê như 'Do you want to...?', 'How about + V-ing?', 'Why don't we...?' và cách từ chối khéo 'I'd love to, but...'. Hãy bắt đầu bằng việc để tôi mở lời trước.",
+    "advancedTips": [
+      "Thêm: 'Thỉnh thoảng hãy từ chối lời mời để tôi luyện thuyết phục và đề xuất phương án khác.'",
+      "Thêm: 'Hãy trả lời nhanh và dùng tiếng lóng đời thường như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi rủ được một người bạn đi chơi bằng ít nhất hai mẫu câu khác nhau.",
+    "Tôi đề xuất được thời gian và hoạt động cụ thể bằng 'How about...?' hoặc 'Why don't we...?'.",
+    "Tôi từ chối được khéo léo bằng 'I'd love to, but...' kèm lý do và lời hẹn lần sau."
+  ]
+}

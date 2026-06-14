@@ -1,0 +1,349 @@
+{
+  "id": "talking-environment",
+  "category": "opinions",
+  "title": "Chủ đề môi trường",
+  "titleEn": "Talking About the Environment",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về các vấn đề môi trường bằng câu dài, mạch lạc",
+    "Đồng tình và phản biện một cách lịch sự khi tranh luận",
+    "Đề xuất giải pháp và hành động cụ thể cho người dân và doanh nghiệp",
+    "Dùng ngữ pháp nâng cao (despite, in order to, not only… but also, mệnh đề quan hệ) khi nói về môi trường",
+    "Sử dụng từ vựng chủ đề khí hậu, ô nhiễm và phát triển bền vững một cách tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "climate change",
+      "ipa": "/ˈklaɪ.mət tʃeɪndʒ/",
+      "vi": "biến đổi khí hậu (danh từ)",
+      "register": "neutral",
+      "example": "Climate change is one of the most pressing issues of our time.",
+      "exampleVi": "Biến đổi khí hậu là một trong những vấn đề cấp bách nhất của thời đại chúng ta.",
+      "note": "Danh từ không đếm được, không thêm 's'. Đừng nhầm với 'weather' (thời tiết hằng ngày); 'climate' là khí hậu lâu dài.",
+      "synonyms": [
+        { "term": "global warming", "ipa": "/ˌɡləʊ.bəl ˈwɔː.mɪŋ/", "register": "neutral", "nuanceVi": "Hẹp hơn: chỉ riêng việc Trái Đất nóng lên. 'Climate change' rộng hơn, bao gồm cả hạn hán, bão lũ, nước biển dâng." },
+        { "term": "the climate crisis", "ipa": "/ðə ˈklaɪ.mət ˈkraɪ.sɪs/", "register": "formal", "nuanceVi": "Nhấn mạnh tính khẩn cấp, nghiêm trọng. Báo chí và nhà hoạt động hay dùng để tạo cảm giác cấp bách hơn." }
+      ]
+    },
+    {
+      "term": "pollution",
+      "ipa": "/pəˈluː.ʃən/",
+      "vi": "sự ô nhiễm (danh từ)",
+      "register": "neutral",
+      "example": "Air pollution in big cities has reached alarming levels.",
+      "exampleVi": "Ô nhiễm không khí ở các thành phố lớn đã đến mức báo động.",
+      "note": "Danh từ không đếm được. Hay đi với 'air / water / noise / plastic pollution'. Động từ là 'to pollute', tính từ 'polluted'.",
+      "synonyms": [
+        { "term": "contamination", "ipa": "/kənˌtæm.ɪˈneɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, kỹ thuật hơn; nhấn vào việc một chất độc/bẩn lẫn vào (nước, đất, thực phẩm). Hay dùng trong văn cảnh khoa học." },
+        { "term": "smog", "ipa": "/smɒɡ/", "register": "neutral", "nuanceVi": "Cụ thể: lớp khói bụi mù mịt trong không khí đô thị (smoke + fog). Chỉ một dạng ô nhiễm không khí nhìn thấy được." }
+      ]
+    },
+    {
+      "term": "sustainable",
+      "ipa": "/səˈsteɪ.nə.bəl/",
+      "vi": "bền vững (tính từ)",
+      "register": "neutral",
+      "example": "We need a more sustainable approach to economic growth.",
+      "exampleVi": "Chúng ta cần một cách tiếp cận bền vững hơn với tăng trưởng kinh tế.",
+      "note": "Tính từ. Danh từ 'sustainability', trạng từ 'sustainably'. Nghĩa: dùng được lâu dài mà không cạn kiệt/hủy hoại tài nguyên.",
+      "synonyms": [
+        { "term": "eco-friendly", "ipa": "/ˈiː.kəʊ ˌfrend.li/", "register": "neutral", "nuanceVi": "Nhấn 'thân thiện với môi trường, không gây hại'. Thiên về sản phẩm/hành vi cụ thể hơn là cả một hệ thống." },
+        { "term": "green", "ipa": "/ɡriːn/", "register": "casual", "nuanceVi": "Đời thường, ngắn gọn: 'green energy', 'go green'. Nghe nhẹ nhàng nhưng kém chính xác/trang trọng hơn 'sustainable'." },
+        { "term": "renewable", "ipa": "/rɪˈnjuː.ə.bəl/", "register": "neutral", "nuanceVi": "Chỉ riêng nguồn 'tái tạo được' (nắng, gió, nước). Hẹp hơn 'sustainable', thường dùng cho năng lượng." }
+      ]
+    },
+    {
+      "term": "to reduce",
+      "ipa": "/rɪˈdjuːs/",
+      "vi": "giảm bớt, cắt giảm (động từ)",
+      "register": "neutral",
+      "example": "Governments are trying to reduce carbon emissions worldwide.",
+      "exampleVi": "Các chính phủ đang cố gắng cắt giảm khí thải carbon trên toàn cầu.",
+      "note": "Động từ ngoại động. Bộ ba kinh điển: 'reduce, reuse, recycle'. Danh từ là 'reduction'.",
+      "synonyms": [
+        { "term": "to cut down on", "ipa": "/tə kʌt daʊn ɒn/", "register": "casual", "nuanceVi": "Cụm động từ đời thường: 'cut down on plastic'. Nhấn việc giảm dần thói quen sử dụng." },
+        { "term": "to curb", "ipa": "/tə kɜːb/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'kìm hãm, kiểm soát cho khỏi tăng'. Hay dùng với emissions/pollution trong văn bản chính sách." },
+        { "term": "to minimize", "ipa": "/ˈmɪn.ɪ.maɪz/", "register": "neutral", "nuanceVi": "Nhấn 'giảm xuống mức thấp nhất có thể', mạnh hơn 'reduce' (chỉ giảm bớt)." }
+      ]
+    },
+    {
+      "term": "to recycle",
+      "ipa": "/ˌriːˈsaɪ.kəl/",
+      "vi": "tái chế (động từ)",
+      "register": "neutral",
+      "example": "In our neighbourhood, we recycle paper, glass and plastic separately.",
+      "exampleVi": "Ở khu phố tôi, chúng tôi phân loại tái chế giấy, thủy tinh và nhựa riêng.",
+      "note": "Động từ. Danh từ 'recycling'. Đừng nhầm với 'reuse' (dùng lại nguyên trạng) — recycle là chế biến lại thành vật mới.",
+      "synonyms": [
+        { "term": "to reuse", "ipa": "/ˌriːˈjuːz/", "register": "neutral", "nuanceVi": "Dùng lại đúng vật đó mà không chế biến (vd tái sử dụng túi vải), khác recycle (biến rác thành nguyên liệu mới)." }
+      ]
+    },
+    {
+      "term": "carbon footprint",
+      "ipa": "/ˈkɑː.bən ˈfʊt.prɪnt/",
+      "vi": "dấu chân carbon (lượng khí thải gây ra) (danh từ)",
+      "register": "neutral",
+      "example": "Flying less is one way to lower your carbon footprint.",
+      "exampleVi": "Bay ít lại là một cách giảm dấu chân carbon của bạn.",
+      "note": "Cụm danh từ cố định. Chỉ tổng lượng khí nhà kính mà một người/tổ chức thải ra. Hay đi với 'reduce / lower / cut your carbon footprint'."
+    },
+    {
+      "term": "harmful",
+      "ipa": "/ˈhɑːm.fəl/",
+      "vi": "có hại (tính từ)",
+      "register": "neutral",
+      "example": "Single-use plastics are extremely harmful to marine life.",
+      "exampleVi": "Nhựa dùng một lần cực kỳ có hại cho sinh vật biển.",
+      "note": "Tính từ, đi với 'harmful to + đối tượng'. Trái nghĩa 'harmless'. Mạnh hơn 'bad'.",
+      "synonyms": [
+        { "term": "damaging", "ipa": "/ˈdæm.ɪ.dʒɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'gây tổn hại, phá hủy dần'. Gần nghĩa harmful nhưng thiên về hậu quả lâu dài." },
+        { "term": "detrimental", "ipa": "/ˌde.trɪˈmen.təl/", "register": "formal", "nuanceVi": "Rất trang trọng, dùng trong văn viết/học thuật: 'detrimental to the environment'. Tạo ấn tượng nghiêm túc." },
+        { "term": "toxic", "ipa": "/ˈtɒk.sɪk/", "register": "neutral", "nuanceVi": "Cụ thể hơn: 'độc, gây ngộ độc'. Chỉ chất hóa học/khí độc, không dùng chung chung như harmful." }
+      ]
+    },
+    {
+      "term": "drastically",
+      "ipa": "/ˈdræs.tɪk.li/",
+      "vi": "một cách mạnh mẽ / triệt để (trạng từ)",
+      "register": "neutral",
+      "example": "Emissions need to fall drastically over the next decade.",
+      "exampleVi": "Lượng khí thải cần giảm mạnh trong thập kỷ tới.",
+      "note": "Trạng từ. Nhấn mức độ thay đổi rất lớn và đột ngột. Tính từ là 'drastic'.",
+      "synonyms": [
+        { "term": "significantly", "ipa": "/sɪɡˈnɪf.ɪ.kənt.li/", "register": "neutral", "nuanceVi": "Trung tính hơn: 'đáng kể'. Không nhất thiết đột ngột/cực đoan như drastically." },
+        { "term": "considerably", "ipa": "/kənˈsɪd.ər.ə.bli/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'đáng kể, khá nhiều'. Hay dùng trong văn viết để chỉ mức chênh lệch lớn." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "một cách dần dần (trạng từ)",
+      "register": "neutral",
+      "example": "People are gradually becoming more aware of environmental issues.",
+      "exampleVi": "Mọi người đang dần dần ý thức hơn về các vấn đề môi trường.",
+      "note": "Trạng từ. Nhấn quá trình từ từ, từng bước. Trái với 'suddenly' (đột ngột).",
+      "synonyms": [
+        { "term": "steadily", "ipa": "/ˈsted.ɪ.li/", "register": "neutral", "nuanceVi": "Nhấn 'đều đặn, ổn định không gián đoạn'. Gần nghĩa nhưng thiên về tính liên tục hơn là chậm rãi." },
+        { "term": "little by little", "ipa": "/ˈlɪt.əl baɪ ˈlɪt.əl/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'từng chút một'. Nghe gần gũi, hợp văn nói thân mật." }
+      ]
+    },
+    {
+      "term": "to raise awareness",
+      "ipa": "/tə reɪz əˈweə.nəs/",
+      "vi": "nâng cao nhận thức (động từ + danh từ)",
+      "register": "neutral",
+      "example": "Schools play a key role in raising awareness about recycling.",
+      "exampleVi": "Trường học đóng vai trò quan trọng trong việc nâng cao nhận thức về tái chế.",
+      "note": "Cụm cố định: 'raise awareness of/about something'. Đừng dùng 'rise' (tự dâng lên) — phải là 'raise' (làm cho cao lên).",
+      "synonyms": [
+        { "term": "to educate the public", "ipa": "/tə ˈed.jʊ.keɪt ðə ˈpʌb.lɪk/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn việc 'cung cấp kiến thức' chứ không chỉ gây chú ý như raise awareness." }
+      ]
+    },
+    {
+      "term": "renewable energy",
+      "ipa": "/rɪˈnjuː.ə.bəl ˈen.ə.dʒi/",
+      "vi": "năng lượng tái tạo (danh từ)",
+      "register": "neutral",
+      "example": "Investing in renewable energy creates jobs as well as cutting emissions.",
+      "exampleVi": "Đầu tư vào năng lượng tái tạo vừa tạo việc làm vừa cắt giảm khí thải.",
+      "note": "Cụm danh từ. Gồm điện mặt trời (solar), gió (wind), thủy điện (hydro). Trái nghĩa: 'fossil fuels' (nhiên liệu hóa thạch)."
+    },
+    {
+      "term": "biodiversity",
+      "ipa": "/ˌbaɪ.əʊ.daɪˈvɜː.sə.ti/",
+      "vi": "đa dạng sinh học (danh từ)",
+      "register": "formal",
+      "example": "Deforestation is a major threat to biodiversity.",
+      "exampleVi": "Nạn phá rừng là mối đe dọa lớn đối với đa dạng sinh học.",
+      "note": "Danh từ không đếm được, hơi học thuật. Chỉ sự phong phú của các loài động thực vật trong tự nhiên."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], particularly because [lý do].",
+      "use": "Mở đầu bày tỏ quan điểm cá nhân kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, governments should act faster, particularly because the effects of climate change are already visible."
+      ],
+      "explanationVi": "'In my opinion' báo hiệu đây là ý kiến chủ quan, nghe khiêm tốn hơn khẳng định chắc nịch. 'particularly because' dẫn vào lý do cốt lõi.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Nêu quan điểm theo cách thân mật, đời thường hơn.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, individuals can make a real difference by changing small daily habits."
+      ],
+      "explanationVi": "'If you ask me' = 'theo tôi thì'. Nhẹ nhàng, thân thiện, hợp khi trò chuyện đời thường. Trang trọng hơn thì dùng 'In my opinion'.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "I completely agree that [mệnh đề], although [điểm bổ sung].",
+      "use": "Đồng tình mạnh nhưng vẫn thêm một góc nhìn riêng.",
+      "register": "neutral",
+      "examples": [
+        "I completely agree that recycling helps, although it is not enough on its own."
+      ],
+      "explanationVi": "'I completely agree' thể hiện đồng tình dứt khoát. 'although' mở mệnh đề nhượng bộ, giúp bạn không chỉ gật đầu mà còn đóng góp thêm — nghe sâu sắc hơn.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but I think [mệnh đề].",
+      "use": "Phản biện lịch sự khi không hoàn toàn đồng ý.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I think companies, rather than individuals, bear most of the responsibility."
+      ],
+      "explanationVi": "Công nhận ý đối phương ('I see your point') trước khi phản biện ('but I think') giúp tranh luận văn minh, không gây căng thẳng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "We should [V] in order to [mục đích].",
+      "use": "Đề xuất giải pháp kèm mục đích rõ ràng.",
+      "register": "neutral",
+      "examples": [
+        "We should switch to renewable energy in order to reduce our dependence on fossil fuels."
+      ],
+      "explanationVi": "'in order to + V' nêu mục đích trang trọng, rõ ràng hơn 'to' đơn thuần. Mẫu lý tưởng khi đề xuất hành động.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "One effective way to tackle [vấn đề] would be to [V].",
+      "use": "Đưa ra một giải pháp cụ thể, có cân nhắc.",
+      "register": "formal",
+      "examples": [
+        "One effective way to tackle plastic waste would be to ban single-use packaging."
+      ],
+      "explanationVi": "'would be to' (thể giả định) khiến đề xuất nghe cân nhắc, lịch sự, không áp đặt. 'tackle' = xử lý vấn đề khó. Rất 'ăn điểm' khi bàn giải pháp.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh một việc mang lại lợi ích kép.",
+      "register": "formal",
+      "examples": [
+        "Not only does cycling cut emissions, but it also improves your health."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ ('does … V'). Cấu trúc nâng cao gây ấn tượng — phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một quan điểm chân thật, đôi khi hơi thẳng thắn.", "example": "Honestly, I don't think enough is being done about plastic waste." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Khi muốn nêu ý kiến mạnh, dứt khoát, hơi gay gắt.", "example": "Frankly, big corporations should be held far more accountable." },
+    { "term": "to a certain extent", "ipa": "/tʊ ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý có giới hạn, không hoàn toàn — giọng cân nhắc.", "example": "To a certain extent, I agree, but technology alone won't save us." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói cũng biết", "when": "Dẫn vào một điều hiển nhiên ai cũng đồng ý.", "example": "Needless to say, clean air benefits everyone." },
+    { "term": "as far as I'm concerned", "ipa": "/əz fɑːr əz aɪm kənˈsɜːnd/", "vi": "theo như tôi thấy", "when": "Nhấn rằng đây là góc nhìn riêng của bạn.", "example": "As far as I'm concerned, this is the most urgent issue of our generation." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "rốt cuộc / xét cho cùng", "when": "Chốt lại điểm quan trọng nhất sau khi cân nhắc.", "example": "Ultimately, it comes down to changing the way we consume." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Linh và Tom, đang trò chuyện sau khi xem một bộ phim tài liệu về biến đổi khí hậu. Họ trao đổi quan điểm về nguyên nhân, trách nhiệm và giải pháp cho các vấn đề môi trường.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "That documentary really got me thinking. Honestly, I had no idea how serious the situation was. What did you make of it?",
+        "ipa": "/ðæt ˌdɒk.jəˈmen.tər.i ˈrɪə.li ɡɒt miː ˈθɪŋ.kɪŋ ˈɒn.ɪst.li aɪ hæd nəʊ aɪˈdɪə haʊ ˈsɪə.ri.əs ðə ˌsɪtʃ.uˈeɪ.ʃən wɒz wɒt dɪd juː meɪk ɒv ɪt/",
+        "vi": "Bộ phim tài liệu đó khiến mình suy nghĩ thật sự. Thành thật mà nói, mình không ngờ tình hình lại nghiêm trọng đến vậy. Cậu thấy thế nào?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "Same here. In my opinion, the biggest problem is ____ change, particularly because it affects everything, ____ rising sea levels, extreme weather and food shortages.",
+        "ipa": "/seɪm hɪə ɪn maɪ əˈpɪn.jən ðə ˈbɪɡ.ɪst ˈprɒb.ləm ɪz ... tʃeɪndʒ pəˈtɪk.jə.lə.li bɪˈkɒz ɪt əˈfekts ˈev.ri.θɪŋ ... ˈraɪ.zɪŋ siː ˈlev.əlz ɪkˈstriːm ˈweð.ər ænd fuːd ˈʃɔː.tɪdʒ.ɪz/",
+        "vi": "Mình cũng vậy. Theo mình, vấn đề lớn nhất là biến đổi ____, đặc biệt vì nó ảnh hưởng đến mọi thứ, ____ nước biển dâng, thời tiết cực đoan và thiếu lương thực.",
+        "blanks": [
+          { "type": "knowledge", "answer": "climate", "explanationVi": "'climate change' (biến đổi khí hậu) là cụm danh từ cố định. Đừng dùng 'weather change'. Xem mục từ vựng 'climate change'." },
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'everything'. Nêu ví dụ cụ thể nghe thuyết phục hơn. Xem mẫu câu dùng 'such as'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "I completely agree that it touches every part of our lives. But do you think ordinary people can actually make a difference, or is it really up to governments and big companies?",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː ðæt ɪt ˈtʌtʃ.ɪz ˈev.ri pɑːt ɒv ˈaʊə laɪvz bʌt duː juː θɪŋk ˈɔː.dən.ri ˈpiː.pəl kæn ˈæk.tʃu.ə.li meɪk ə ˈdɪf.ər.əns ɔːr ɪz ɪt ˈrɪə.li ʌp tə ˈɡʌv.ən.mənts ænd bɪɡ ˈkʌm.pə.niz/",
+        "vi": "Mình hoàn toàn đồng ý rằng nó chạm tới mọi mặt cuộc sống. Nhưng cậu có nghĩ người dân bình thường thực sự tạo ra khác biệt không, hay rốt cuộc là chuyện của chính phủ và các tập đoàn lớn?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "I see your point, but I think we all share the responsibility. We should cut down on single-use plastics ____ to reduce our carbon footprint, and gradually those small habits add up when millions of people adopt them.",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪ θɪŋk wiː ɔːl ʃeə ðə rɪˌspɒn.səˈbɪl.ə.ti wiː ʃʊd kʌt daʊn ɒn ˈsɪŋ.ɡəl juːs ˈplæs.tɪks ... tə rɪˈdjuːs ˈaʊə ˈkɑː.bən ˈfʊt.prɪnt ænd ˈɡrædʒ.u.ə.li ðəʊz smɔːl ˈhæb.ɪts æd ʌp wen ˈmɪl.jənz ɒv ˈpiː.pəl əˈdɒpt ðəm/",
+        "vi": "Mình hiểu ý cậu, nhưng mình nghĩ tất cả chúng ta đều có phần trách nhiệm. Chúng ta nên giảm dùng đồ nhựa một lần ____ giảm dấu chân carbon, và dần dần những thói quen nhỏ đó cộng dồn lại khi hàng triệu người cùng làm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "'in order to + V' nêu mục đích một cách rõ ràng, trang trọng hơn 'to' đơn thuần. Xem mẫu câu 'We should… in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's a fair point. Despite all the news coverage, though, a lot of people still feel that their individual efforts are pointless. How would you respond to someone ____ thinks that way?",
+        "ipa": "/ðæts ə feə pɔɪnt dɪˈspaɪt ɔːl ðə njuːz ˈkʌv.ər.ɪdʒ ðəʊ ə lɒt ɒv ˈpiː.pəl stɪl fiːl ðæt ðeər ˌɪn.dɪˈvɪdʒ.u.əl ˈef.əts ɑː ˈpɔɪnt.ləs haʊ wʊd juː rɪˈspɒnd tə ˈsʌm.wʌn ... θɪŋks ðæt weɪ/",
+        "vi": "Ý hay đấy. Nhưng dù tin tức đưa nhiều như vậy, nhiều người vẫn cảm thấy nỗ lực cá nhân là vô ích. Cậu sẽ đáp lại một người ____ nghĩ như vậy thế nào?",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì danh từ đứng trước là 'someone' (người). Nếu là vật/sự việc thì dùng 'which/that'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Honestly, I'd tell them that change starts somewhere. Not only ____ recycling reduce waste, but it also raises awareness in the community, ____ eventually puts pressure on companies to act more responsibly.",
+        "ipa": "/ˈɒn.ɪst.li aɪd tel ðəm ðæt tʃeɪndʒ stɑːts ˈsʌm.weə nɒt ˈəʊn.li ... rɪˈsaɪ.kəl.ɪŋ rɪˈdjuː.sɪz weɪst bʌt ɪt ˈɔːl.səʊ ˈreɪ.zɪz əˈweə.nəs ɪn ðə kəˈmjuː.nə.ti ... ɪˈven.tʃu.ə.li pʊts ˈpreʃ.ər ɒn ˈkʌm.pə.niz tə ækt mɔː rɪˈspɒn.sə.bli/",
+        "vi": "Thành thật mà nói, mình sẽ bảo họ rằng thay đổi phải bắt đầu từ đâu đó. Tái chế không những ____ giảm rác thải, mà còn nâng cao nhận thức trong cộng đồng, điều ____ cuối cùng tạo áp lực buộc các công ty hành động có trách nhiệm hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "does", "explanationVi": "Đảo ngữ với 'Not only' đầu mệnh đề: phải đảo trợ động từ 'does' lên trước chủ ngữ 'recycling'. Xem mẫu câu 'Not only does…, but it also…'." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng 'which' mở mệnh đề quan hệ không xác định, thay cho cả ý đứng trước (việc nâng cao nhận thức). 'which' thay cho vật/ý, không thay cho người." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "I hadn't thought of it that way. So, as far as you're concerned, what would be the single most ____ step we could take right now?",
+        "ipa": "/aɪ ˈhæd.ənt θɔːt ɒv ɪt ðæt weɪ səʊ əz fɑːr əz jɔː kənˈsɜːnd wɒt wʊd biː ðə ˈsɪŋ.ɡəl məʊst ... step wiː kʊd teɪk raɪt naʊ/",
+        "vi": "Mình chưa từng nghĩ theo hướng đó. Vậy theo cậu, bước đi ____ nhất mà chúng ta có thể làm ngay bây giờ là gì?",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ thể hiện mức độ quan trọng/hiệu quả. Ví dụ: 'important', 'effective', 'urgent'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Ultimately, I'd say switching to renewable energy, such as solar and wind power. It's not the easiest option, but in spite of the cost, it's the one that would make the biggest difference for ____.",
+        "ipa": "/ˈʌl.tɪ.mət.li aɪd seɪ ˈswɪtʃ.ɪŋ tə rɪˈnjuː.ə.bəl ˈen.ə.dʒi sʌtʃ æz ˈsəʊ.lə ænd wɪnd ˈpaʊ.ər ɪts nɒt ðə ˈiː.zi.əst ˈɒp.ʃən bʌt ɪn spaɪt ɒv ðə kɒst ɪts ðə wʌn ðæt wʊd meɪk ðə ˈbɪɡ.ɪst ˈdɪf.ər.əns fɔː .../",
+        "vi": "Xét cho cùng, mình sẽ nói là chuyển sang năng lượng tái tạo, chẳng hạn như điện mặt trời và điện gió. Đó không phải lựa chọn dễ nhất, nhưng dù tốn kém, đó là điều tạo ra khác biệt lớn nhất cho ____.",
+        "blanks": [
+          { "type": "personal", "hint": "Đối tượng được hưởng lợi từ giải pháp. Ví dụ: 'future generations', 'the planet', 'our children'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, môi trường là chủ đề small-talk rất phổ biến và an toàn — khác với chính trị hay tôn giáo. Bày tỏ quan điểm cân nhắc, có dẫn chứng được đánh giá cao.",
+    "Tranh luận lịch sự: người bản xứ thường công nhận ý đối phương ('I see your point', 'That's fair') trước khi phản biện, thay vì bác bỏ thẳng.",
+    "Các khái niệm như 'carbon footprint', 'recycling', phân loại rác đã thành thói quen hằng ngày ở nhiều nước; biết những từ này giúp bạn hòa nhập khi sống/làm việc ở nước ngoài.",
+    "Tránh nói quá tuyệt đối ('Everyone must…', 'It's all the government's fault'). Giọng điệu chừng mực, dùng 'to a certain extent', 'I think' nghe trưởng thành và thuyết phục hơn."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES recycling reduce…', không phải 'Not only recycling reduces…'.",
+    "Nhầm 'raise' (làm cho cao lên, có tân ngữ) với 'rise' (tự dâng lên, không tân ngữ): phải là 'raise awareness', không phải 'rise awareness'.",
+    "Dùng 'climate' và 'weather' lẫn lộn: 'climate' là khí hậu lâu dài, 'weather' là thời tiết hằng ngày. Cụm đúng là 'climate change'.",
+    "Quên giới từ sau 'harmful' và 'aware': luôn là 'harmful TO something' và 'aware OF something'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về môi trường như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang tranh luận với tôi về một chủ đề môi trường (ví dụ: biến đổi khí hậu, ô nhiễm nhựa, năng lượng tái tạo). Hãy nêu quan điểm của bạn rồi hỏi quan điểm của tôi, và thỉnh thoảng phản biện nhẹ nhàng để tôi phải bảo vệ ý kiến. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đang thảo luận, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'in order to', 'despite', 'not only… but also', mệnh đề quan hệ 'which/who'. Cuối buổi, hãy chấm điểm phần tranh luận của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng quan điểm của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn để tôi tập giữ lập trường và bảo vệ ý kiến.'",
+      "Thêm: 'Hãy yêu cầu tôi đưa số liệu/dẫn chứng cụ thể cho mỗi luận điểm.' khi bạn đã quen.",
+      "Thêm: 'Hãy đổi chủ đề sang một vấn đề môi trường khó hơn như đánh đổi giữa kinh tế và môi trường.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi bày tỏ được quan điểm về một vấn đề môi trường bằng câu dài có lý do, không nhìn gợi ý.",
+    "Tôi đồng tình hoặc phản biện được một cách lịch sự ('I see your point, but…').",
+    "Tôi dùng đúng 'in order to', 'not only… but also' và mệnh đề quan hệ 'which/who' khi nói."
+  ]
+}

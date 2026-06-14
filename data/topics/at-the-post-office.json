@@ -1,0 +1,376 @@
+{
+  "id": "at-the-post-office",
+  "category": "daily-life",
+  "title": "Ở bưu điện",
+  "titleEn": "At the Post Office",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gửi thư hoặc bưu kiện và hỏi giá tại quầy bưu điện",
+    "Hỏi về thời gian giao hàng và các cách gửi khác nhau",
+    "Mua tem và yêu cầu lịch sự bằng 'I'd like to...' và 'Could I...?'",
+    "Hỏi thông tin đơn giản về cân nặng, đích đến và phí gửi"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "parcel",
+      "ipa": "/ˈpɑːr.səl/",
+      "vi": "bưu kiện, gói hàng (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to send this parcel to Vietnam.",
+      "exampleVi": "Tôi muốn gửi bưu kiện này sang Việt Nam.",
+      "note": "Danh từ. Chỉ gói hàng có hộp/bọc; khác 'letter' (thư mỏng). Người Mỹ hay dùng 'package'.",
+      "synonyms": [
+        { "term": "package", "ipa": "/ˈpæk.ɪdʒ/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'parcel'. Người Mỹ dùng 'package' nhiều hơn; người Anh nghiêng về 'parcel'. Dùng cái nào cũng được." }
+      ]
+    },
+    {
+      "term": "stamp",
+      "ipa": "/stæmp/",
+      "vi": "tem (danh từ)",
+      "register": "neutral",
+      "example": "Can I buy three stamps, please?",
+      "exampleVi": "Tôi mua ba con tem được không?",
+      "note": "Danh từ đếm được. Dán lên thư/bưu kiện để trả phí gửi. Số nhiều: 'stamps'."
+    },
+    {
+      "term": "to send",
+      "ipa": "/send/",
+      "vi": "gửi (động từ)",
+      "register": "neutral",
+      "example": "I want to send this letter today.",
+      "exampleVi": "Tôi muốn gửi lá thư này hôm nay.",
+      "note": "Động từ bất quy tắc: send - sent - sent. Đi với 'send something to somebody/somewhere'.",
+      "synonyms": [
+        { "term": "to post", "ipa": "/poʊst/", "register": "neutral", "nuanceVi": "Anh-Anh dùng 'to post a letter' (bỏ thư đi gửi). Nhấn vào hành động đưa vào hệ thống bưu chính." },
+        { "term": "to mail", "ipa": "/meɪl/", "register": "neutral", "nuanceVi": "Anh-Mỹ dùng 'to mail a letter'. Nghĩa giống 'to post' nhưng phổ biến ở Mỹ." }
+      ]
+    },
+    {
+      "term": "to deliver",
+      "ipa": "/dɪˈlɪv.ər/",
+      "vi": "giao, phát (hàng/thư) (động từ)",
+      "register": "neutral",
+      "example": "They will deliver the parcel tomorrow.",
+      "exampleVi": "Họ sẽ giao bưu kiện vào ngày mai.",
+      "note": "Động từ. Danh từ là 'delivery' (việc giao hàng). Người giao hàng là 'courier'.",
+      "synonyms": [
+        { "term": "to drop off", "ipa": "/drɑːp ɔːf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mang đến và để lại'. Nhẹ nhàng, dùng khi nói chuyện bình thường hơn là trong văn bản trang trọng." }
+      ]
+    },
+    {
+      "term": "to weigh",
+      "ipa": "/weɪ/",
+      "vi": "cân (đo trọng lượng) (động từ)",
+      "register": "neutral",
+      "example": "Let me weigh your parcel first.",
+      "exampleVi": "Để tôi cân bưu kiện của bạn trước.",
+      "note": "Động từ. Phát âm bẫy: 'gh' câm, đọc là /weɪ/. Danh từ là 'weight' /weɪt/ (cân nặng)."
+    },
+    {
+      "term": "fragile",
+      "ipa": "/ˈfrædʒ.aɪl/",
+      "vi": "dễ vỡ (tính từ)",
+      "register": "neutral",
+      "example": "Please be careful, the box is fragile.",
+      "exampleVi": "Làm ơn cẩn thận, cái hộp dễ vỡ.",
+      "note": "Tính từ. Hay được dán nhãn 'FRAGILE' lên kiện hàng dễ vỡ. Trọng âm rơi vào âm đầu.",
+      "synonyms": [
+        { "term": "breakable", "ipa": "/ˈbreɪ.kə.bəl/", "register": "neutral", "nuanceVi": "Đơn giản, dễ hiểu: 'có thể vỡ'. Đời thường hơn 'fragile' một chút, ai cũng đoán được nghĩa." },
+        { "term": "delicate", "ipa": "/ˈdel.ɪ.kət/", "register": "formal", "nuanceVi": "Nhấn 'mỏng manh, cần nâng niu nhẹ tay'; nghe tinh tế hơn, hay dùng cho đồ tinh xảo." }
+      ]
+    },
+    {
+      "term": "express",
+      "ipa": "/ɪkˈspres/",
+      "vi": "chuyển phát nhanh (tính từ)",
+      "register": "neutral",
+      "example": "I'd like to send it by express, please.",
+      "exampleVi": "Tôi muốn gửi chuyển phát nhanh ạ.",
+      "note": "Tính từ chỉ dịch vụ nhanh, đến sớm nhưng đắt hơn. Trái nghĩa thường gặp: 'standard' (thường).",
+      "synonyms": [
+        { "term": "priority", "ipa": "/praɪˈɔːr.ə.ti/", "register": "neutral", "nuanceVi": "Nhấn 'được ưu tiên xử lý trước'. Nhiều bưu điện gọi gói nhanh là 'Priority Mail'." },
+        { "term": "fast", "ipa": "/fæst/", "register": "casual", "nuanceVi": "Đời thường, chung chung ('nhanh'). Không phải tên dịch vụ chính thức nên ít dùng ở quầy." }
+      ]
+    },
+    {
+      "term": "envelope",
+      "ipa": "/ˈen.və.loʊp/",
+      "vi": "phong bì (danh từ)",
+      "register": "neutral",
+      "example": "Do you sell envelopes here?",
+      "exampleVi": "Ở đây có bán phong bì không?",
+      "note": "Danh từ. Bao đựng thư. Đừng nhầm với động từ 'to envelop' (/ɪnˈvel.əp/, bao bọc) — khác trọng âm."
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈker.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Please wrap it carefully because it can break.",
+      "exampleVi": "Làm ơn gói nó cẩn thận vì nó có thể vỡ.",
+      "note": "Trạng từ, thường đứng cuối câu hoặc sau động từ. Tính từ là 'careful'.",
+      "synonyms": [
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, không thô bạo'. Hợp khi nói về cách cầm/đặt đồ dễ vỡ." },
+        { "term": "safely", "ipa": "/ˈseɪf.li/", "register": "neutral", "nuanceVi": "Nhấn 'an toàn, không hư hại'. Thiên về kết quả (không bị hỏng) hơn là cách làm." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "I need it to arrive quickly.",
+      "exampleVi": "Tôi cần nó đến nhanh.",
+      "note": "Trạng từ chỉ tốc độ. Tính từ là 'quick'.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fæst/", "register": "neutral", "nuanceVi": "Vừa là tính từ vừa là trạng từ ('arrive fast'). Đời thường, rất phổ biến." },
+        { "term": "rapidly", "ipa": "/ˈræp.ɪd.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'rất nhanh'. Ít dùng trong hội thoại đời thường ở bưu điện." }
+      ]
+    },
+    {
+      "term": "to fill in",
+      "ipa": "/fɪl ɪn/",
+      "vi": "điền (vào tờ khai/biểu mẫu) (động từ)",
+      "register": "neutral",
+      "example": "Please fill in this customs form.",
+      "exampleVi": "Làm ơn điền vào tờ khai hải quan này.",
+      "note": "Cụm động từ. Anh-Mỹ hay nói 'fill out'. Đi với 'a form' (biểu mẫu).",
+      "synonyms": [
+        { "term": "to complete", "ipa": "/kəmˈpliːt/", "register": "formal", "nuanceVi": "Trang trọng hơn: 'complete the form'. Hay thấy trên hướng dẫn/giấy tờ chính thức." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to + [động từ nguyên thể], please.",
+      "use": "Đưa ra yêu cầu lịch sự với nhân viên bưu điện.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to send this parcel to Japan, please.",
+        "I'd like to buy some stamps, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn nhiều so với 'I want to' (nghe hơi cộc). Đây là mẫu câu xương sống để nói bạn cần làm gì.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I + [động từ nguyên thể] ... ?",
+      "use": "Xin phép hoặc nhờ làm gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I have a customs form, please?",
+        "Could I pay by card?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?' và rất hợp khi nói với người lạ. Dùng khi bạn cần họ cho phép hoặc đưa cho bạn thứ gì.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "How much does it cost to + [động từ] ... ?",
+      "use": "Hỏi giá của một dịch vụ gửi hàng.",
+      "register": "neutral",
+      "examples": [
+        "How much does it cost to send this to Vietnam?",
+        "How much does it cost to send a letter by express?"
+      ],
+      "explanationVi": "Mẫu hỏi giá rất thông dụng. Có thể nói gọn hơn là 'How much is it?'. Nhớ dùng 'does it cost' (số ít)."
+    },
+    {
+      "pattern": "How long does it take to + [động từ] ... ?",
+      "use": "Hỏi thời gian giao hàng mất bao lâu.",
+      "register": "neutral",
+      "examples": [
+        "How long does it take to arrive?",
+        "How long does it take to deliver to Da Nang?"
+      ],
+      "explanationVi": "'How long does it take...?' hỏi về thời lượng. Câu trả lời thường là 'It takes three to five days.'"
+    },
+    {
+      "pattern": "Do you have any [danh từ]?",
+      "use": "Hỏi xem bưu điện có bán/có sẵn món gì không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any envelopes?",
+        "Do you have any boxes for sale?"
+      ],
+      "explanationVi": "'any' dùng trong câu hỏi để hỏi về số lượng chưa rõ. Mẫu này hữu ích khi bạn cần mua thêm phong bì, hộp, băng dính."
+    },
+    {
+      "pattern": "I'd prefer to send it by [cách gửi], because [lý do].",
+      "use": "Nói rõ bạn muốn cách gửi nào và vì sao.",
+      "register": "neutral",
+      "examples": [
+        "I'd prefer to send it by express, because I need it to arrive quickly.",
+        "I'd prefer to send it by standard mail, because it is cheaper."
+      ],
+      "explanationVi": "'I'd prefer to' = tôi thích/chọn hơn. Thêm 'because' để nêu lý do giúp câu dài và tự nhiên hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin mà không muốn nghe cộc lốc.",
+      "example": "Actually, I'd prefer the cheaper option."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, do you sell envelopes here?"
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi.",
+      "example": "I just need three stamps, please."
+    },
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔːr.tʃən.ət.li/",
+      "vi": "may mắn thay",
+      "when": "Dẫn vào một thông tin tốt.",
+      "example": "Fortunately, the express option is not too expensive."
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈker.fəl.i/",
+      "vi": "một cách cẩn thận",
+      "when": "Khi nhờ ai làm gì nhẹ tay với đồ dễ vỡ.",
+      "example": "Please handle the box carefully."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến bưu điện để gửi một bưu kiện ra nước ngoài và mua thêm vài con tem. Bạn nói chuyện với nhân viên bưu điện ở quầy.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! Welcome to the post office. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ ˈwel.kəm tə ðə poʊst ˈɔː.fɪs haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng! Hân hạnh đón bạn đến bưu điện. Hôm nay tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to ____ this parcel to ____, and I also need to buy some stamps.",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ aɪd laɪk tə ... ðɪs ˈpɑːr.səl tə ... ænd aɪ ˈɔːl.soʊ niːd tə baɪ sʌm stæmps/",
+        "vi": "Chào buổi sáng. Tôi muốn ____ bưu kiện này tới ____, và tôi cũng cần mua vài con tem.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "send",
+            "explanationVi": "Dùng động từ 'send' (gửi) sau 'I'd like to'. Sau 'to' luôn là động từ nguyên thể. Xem mẫu câu 'I'd like to + động từ, please.'"
+          },
+          {
+            "type": "personal",
+            "hint": "Nơi bạn muốn gửi tới. Ví dụ: 'Vietnam', 'Japan', 'my family in Hanoi'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. Let me ____ it first... It's two kilograms. Is there anything fragile inside?",
+        "ipa": "/əv kɔːrs let miː ... ɪt fɜːrst ɪts tuː ˈkɪl.ə.ɡræmz ɪz ðer ˈen.i.θɪŋ ˈfrædʒ.aɪl ɪnˈsaɪd/",
+        "vi": "Tất nhiên rồi. Để tôi ____ nó trước đã... Nó nặng hai ký. Bên trong có gì dễ vỡ không ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "weigh",
+            "explanationVi": "Dùng động từ 'weigh' (cân) để đo trọng lượng. Phát âm /weɪ/, 'gh' câm. Xem từ vựng 'to weigh'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, actually there are some glasses inside, so please handle it ____. How much does it cost to send it by express?",
+        "ipa": "/jes ˈæk.tʃu.ə.li ðer ɑːr sʌm ˈɡlæs.ɪz ɪnˈsaɪd soʊ pliːz ˈhæn.dəl ɪt ... haʊ mʌtʃ dʌz ɪt kɒst tə send ɪt baɪ ɪkˈspres/",
+        "vi": "Có, thật ra bên trong có mấy cái ly, nên làm ơn cầm nó ____. Gửi chuyển phát nhanh thì hết bao nhiêu tiền ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "carefully",
+            "explanationVi": "Dùng trạng từ 'carefully' (cẩn thận) để bổ nghĩa cho động từ 'handle'. Trạng từ thường đứng sau động từ + tân ngữ. Xem từ vựng 'carefully'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Sending it by express costs fifteen dollars, although the standard option is cheaper. Which one would you prefer?",
+        "ipa": "/ˈsen.dɪŋ ɪt baɪ ɪkˈspres kɒsts fɪfˈtiːn ˈdɑː.lərz ɔːlˈðoʊ ðə ˈstæn.dərd ˈɑːp.ʃən ɪz ˈtʃiː.pər wɪtʃ wʌn wʊd juː prɪˈfɜːr/",
+        "vi": "Gửi chuyển phát nhanh mất mười lăm đô, mặc dù gói thường thì rẻ hơn. Bạn muốn chọn cách nào ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd prefer to send it by express, ____ I need it to arrive quickly. By the way, how long does it take to deliver?",
+        "ipa": "/aɪd prɪˈfɜːr tə send ɪt baɪ ɪkˈspres ... aɪ niːd ɪt tu əˈraɪv ˈkwɪk.li baɪ ðə weɪ haʊ lɒŋ dʌz ɪt teɪk tə dɪˈlɪv.ər/",
+        "vi": "Tôi muốn gửi chuyển phát nhanh, ____ tôi cần nó đến nhanh. Tiện thể, mất bao lâu để giao hàng ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "because",
+            "explanationVi": "Dùng 'because' (vì) để nêu lý do cho lựa chọn gửi nhanh. 'because' nối hai mệnh đề, theo sau là một mệnh đề có chủ ngữ + động từ."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "It usually takes three to five days. Please fill in this customs form, which describes what is inside the parcel.",
+        "ipa": "/ɪt ˈjuː.ʒu.ə.li teɪks θriː tə faɪv deɪz pliːz fɪl ɪn ðɪs ˈkʌs.təmz fɔːrm wɪtʃ dɪˈskraɪbz wɒt ɪz ɪnˈsaɪd ðə ˈpɑːr.səl/",
+        "vi": "Thường mất ba đến năm ngày. Làm ơn điền vào tờ khai hải quan này, tờ khai mô tả những gì có bên trong bưu kiện."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure. Could I ____ buy three stamps as well? Fortunately, I have a few letters to send too.",
+        "ipa": "/ʃʊr kʊd aɪ ... baɪ θriː stæmps əz wel ˈfɔːr.tʃən.ət.li aɪ hæv ə fjuː ˈlet.ərz tə send tuː/",
+        "vi": "Được ạ. Tôi có thể ____ mua ba con tem nữa không? May là tôi cũng có vài lá thư cần gửi.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một trạng từ làm câu mềm hơn, ví dụ 'also' (cũng), hoặc để trống cũng được."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. Here are your stamps and your receipt. Your parcel will be delivered soon. Have a nice day!",
+        "ipa": "/əv kɔːrs hɪr ɑːr jɔːr stæmps ænd jɔːr rɪˈsiːt jɔːr ˈpɑːr.səl wɪl biː dɪˈlɪv.ərd suːn hæv ə naɪs deɪ/",
+        "vi": "Tất nhiên rồi. Đây là tem và biên lai của bạn. Bưu kiện của bạn sẽ sớm được giao. Chúc một ngày tốt lành!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi gửi hàng ra nước ngoài, bạn thường phải điền 'customs form' (tờ khai hải quan) ghi rõ món hàng và giá trị. Khai trung thực để tránh bị giữ hàng.",
+    "Ở nhiều nước, bưu điện không chỉ gửi thư mà còn bán phong bì, hộp, băng dính và đôi khi cả dịch vụ ngân hàng cơ bản.",
+    "Hàng dễ vỡ nên dán nhãn 'FRAGILE' và bọc kỹ; nhân viên có thể hỏi 'Is there anything fragile inside?' để chọn cách xử lý.",
+    "Giữ lại 'receipt' (biên lai) và mã theo dõi (tracking number) để kiểm tra hành trình bưu kiện trên mạng."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want to send...' nghe hơi cộc. Người bản xứ dùng 'I'd like to...' hoặc 'Could I...?' cho lịch sự.",
+    "Phát âm sai 'weigh' — đọc là /weɪ/ (gh câm), không đọc thành 'oeo' hay 'oai'.",
+    "Quên 'to' sau 'I'd like': phải nói 'I'd like TO send', không phải 'I'd like send'.",
+    "Nhầm tính từ và trạng từ: phải nói 'handle it carefully' (trạng từ), không phải 'handle it careful'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ở bưu điện như thật.",
+    "prompt": "Hãy đóng vai một nhân viên bưu điện nói tiếng Anh. Tôi là khách đến để gửi một bưu kiện và mua tem. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra một tình huống bất ngờ (ví dụ bưu kiện quá nặng, thiếu tờ khai hải quan, hết loại tem tôi cần) để tôi tập xử lý. Hãy dùng câu đơn giản, nói chậm rãi và thân thiện vì trình độ của tôi là A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm về cân nặng, kích thước và giá trị của bưu kiện.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất bằng tiếng Việt.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được 'I'd like to send this parcel to...' mà không cần nhìn gợi ý.",
+    "Tôi hỏi được giá gửi và thời gian giao hàng bằng 'How much...?' và 'How long...?'.",
+    "Tôi dùng được 'Could I...?' để mua tem hoặc xin tờ khai một cách lịch sự."
+  ]
+}

@@ -1,0 +1,346 @@
+{
+  "id": "moving-house",
+  "category": "family",
+  "title": "Chuyển nhà",
+  "titleEn": "Moving House",
+  "level": "B1",
+  "functions": ["describing", "requesting", "opinions", "small-talk"],
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Kể về kế hoạch chuyển nhà và lý do chuyển bằng câu dài, tự nhiên",
+    "Mô tả căn nhà/khu vực mới (vị trí, tiện ích, hàng xóm) bằng nhiều tính từ",
+    "Đề nghị và nhờ giúp đỡ lịch sự khi dọn dẹp, đóng gói, vận chuyển",
+    "Dùng ngữ pháp B1 (because, such as, although, mệnh đề quan hệ which/who) khi trò chuyện về việc chuyển nhà"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to move house",
+      "ipa": "/tə muːv haʊs/",
+      "vi": "chuyển nhà, dọn nhà (động từ)",
+      "register": "neutral",
+      "example": "We're going to move house next month because the rent here is too high.",
+      "exampleVi": "Tháng sau chúng tôi sẽ chuyển nhà vì tiền thuê ở đây quá cao.",
+      "note": "Cụm động từ. Anh-Anh hay nói 'move house', Anh-Mỹ thường chỉ nói 'move' hoặc 'relocate'. Không cần 'a' trước 'house' trong cụm này.",
+      "synonyms": [
+        { "term": "to relocate", "ipa": "/ˌriː.ləʊˈkeɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, thường dùng khi chuyển cả nhà/công việc tới thành phố hoặc nước khác. Vd 'relocate to Singapore for work'." },
+        { "term": "to move out", "ipa": "/muːv aʊt/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'dọn KHỎI' nơi đang ở (chuyển đi). Ngược lại là 'move in' (dọn vào)." }
+      ]
+    },
+    {
+      "term": "landlord",
+      "ipa": "/ˈlænd.lɔːrd/",
+      "vi": "chủ nhà cho thuê (danh từ)",
+      "register": "neutral",
+      "example": "My landlord agreed to return the deposit after we cleaned the flat.",
+      "exampleVi": "Chủ nhà đồng ý trả lại tiền cọc sau khi chúng tôi dọn sạch căn hộ.",
+      "note": "Danh từ. Người sở hữu và cho thuê nhà. Chủ nhà nữ có thể gọi là 'landlady'. Người thuê là 'tenant'.",
+      "synonyms": [
+        { "term": "property owner", "ipa": "/ˈprɒp.ə.ti ˈəʊ.nər/", "register": "formal", "nuanceVi": "Trang trọng, trung tính về giới, nhấn vào quyền sở hữu tài sản. Hay xuất hiện trong hợp đồng." }
+      ]
+    },
+    {
+      "term": "neighbourhood",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "vi": "khu phố, khu dân cư (danh từ)",
+      "register": "neutral",
+      "example": "We chose a quiet neighbourhood that is close to my children's school.",
+      "exampleVi": "Chúng tôi chọn một khu dân cư yên tĩnh gần trường của các con.",
+      "note": "Danh từ. Chỉ khu vực xung quanh nơi ở. Anh-Mỹ viết 'neighborhood' (không có 'u').",
+      "synonyms": [
+        { "term": "area", "ipa": "/ˈeə.ri.ə/", "register": "neutral", "nuanceVi": "Chung chung hơn, chỉ một vùng/khu vực bất kỳ, không nhất thiết là khu dân cư có cộng đồng." },
+        { "term": "district", "ipa": "/ˈdɪs.trɪkt/", "register": "neutral", "nuanceVi": "Nhấn vào ranh giới hành chính (quận/khu). Vd 'the financial district'." }
+      ]
+    },
+    {
+      "term": "to pack",
+      "ipa": "/tə pæk/",
+      "vi": "đóng gói, gói đồ (động từ)",
+      "register": "neutral",
+      "example": "It took us three days to pack all our belongings into boxes.",
+      "exampleVi": "Chúng tôi mất ba ngày để đóng gói toàn bộ đồ đạc vào thùng.",
+      "note": "Động từ. Ngược lại là 'to unpack' (mở đồ ra). Đi với 'pack up' (gói gọn lại), 'pack into boxes'.",
+      "synonyms": [
+        { "term": "to box up", "ipa": "/bɒks ʌp/", "register": "casual", "nuanceVi": "Đời thường, nhấn cụ thể vào việc cho đồ vào thùng carton. Vd 'box up the kitchen stuff'." }
+      ]
+    },
+    {
+      "term": "belongings",
+      "ipa": "/bɪˈlɒŋ.ɪŋz/",
+      "vi": "đồ đạc, vật dụng cá nhân (danh từ)",
+      "register": "neutral",
+      "example": "Please make sure all your personal belongings are labelled clearly.",
+      "exampleVi": "Hãy chắc chắn mọi đồ đạc cá nhân của bạn được dán nhãn rõ ràng.",
+      "note": "Danh từ, luôn dùng số nhiều. Chỉ những vật dụng bạn sở hữu, mang theo được.",
+      "synonyms": [
+        { "term": "stuff", "ipa": "/stʌf/", "register": "casual", "nuanceVi": "Rất đời thường, nói khẩu ngữ. Không đếm được. Vd 'I've got so much stuff to move.'" },
+        { "term": "possessions", "ipa": "/pəˈzeʃ.ənz/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào quyền sở hữu, đôi khi gồm cả tài sản giá trị." }
+      ]
+    },
+    {
+      "term": "spacious",
+      "ipa": "/ˈspeɪ.ʃəs/",
+      "vi": "rộng rãi (tính từ)",
+      "register": "neutral",
+      "example": "The new flat is much more spacious than our old one.",
+      "exampleVi": "Căn hộ mới rộng rãi hơn nhiều so với căn cũ.",
+      "note": "Tính từ mang sắc thái TÍCH CỰC (rộng và thoải mái), khác 'big' chỉ đơn thuần là to.",
+      "synonyms": [
+        { "term": "roomy", "ipa": "/ˈruː.mi/", "register": "casual", "nuanceVi": "Đời thường, thân mật, cùng nghĩa 'nhiều không gian'. Hay dùng cho xe, phòng, túi." },
+        { "term": "cramped", "ipa": "/kræmpt/", "register": "neutral", "nuanceVi": "TRÁI NGHĨA: chật chội, bí bách. Tiện học cặp đôi để mô tả nhà cũ/nhà mới." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "thuận tiện (tính từ)",
+      "register": "neutral",
+      "example": "The location is very convenient because there's a bus stop right outside.",
+      "exampleVi": "Vị trí rất thuận tiện vì có trạm xe buýt ngay bên ngoài.",
+      "note": "Tính từ. Đi với 'convenient for + somebody / for + V-ing'. Bẫy phát âm: trọng âm rơi vào âm thứ hai 'VEN'.",
+      "synonyms": [
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'tiện, ở gần dùng được ngay'. Vd 'The shop is really handy.'" }
+      ]
+    },
+    {
+      "term": "to settle in",
+      "ipa": "/tə ˈset.əl ɪn/",
+      "vi": "ổn định cuộc sống ở nơi mới (động từ)",
+      "register": "neutral",
+      "example": "It took us a few weeks to settle in and get to know the neighbours.",
+      "exampleVi": "Chúng tôi mất vài tuần để ổn định và làm quen với hàng xóm.",
+      "note": "Cụm động từ. Nghĩa 'quen dần và thấy thoải mái' ở nhà mới, công việc mới. Khác 'move in' (chỉ là dọn vào)."
+    },
+    {
+      "term": "removal van",
+      "ipa": "/rɪˈmuː.vəl væn/",
+      "vi": "xe tải chuyển nhà (danh từ)",
+      "register": "neutral",
+      "example": "We hired a removal van to carry the furniture to the new house.",
+      "exampleVi": "Chúng tôi thuê một xe tải chuyển nhà để chở đồ nội thất đến nhà mới.",
+      "note": "Danh từ (Anh-Anh). Anh-Mỹ hay gọi là 'moving truck'. Công ty làm dịch vụ là 'removal company / movers'."
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɒz.ɪt/",
+      "vi": "tiền đặt cọc thuê nhà (danh từ)",
+      "register": "neutral",
+      "example": "The landlord will refund the deposit once the inspection is done.",
+      "exampleVi": "Chủ nhà sẽ hoàn lại tiền cọc sau khi kiểm tra xong.",
+      "note": "Danh từ. Khoản tiền đặt trước, được hoàn lại nếu không hư hỏng. Động từ 'to refund' = hoàn tiền."
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "vi": "kiệt sức, mệt rã rời (tính từ)",
+      "register": "neutral",
+      "example": "After carrying boxes all day, we were completely exhausted.",
+      "exampleVi": "Sau cả ngày khuân thùng, chúng tôi kiệt sức hoàn toàn.",
+      "note": "Tính từ mạnh hơn 'tired' rất nhiều. Là tính từ 'cực điểm' nên đi với 'completely/absolutely', KHÔNG đi với 'very'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt lả, đuối sức'. Gần nghĩa exhausted nhưng nghe thân mật hơn." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn vào cảm giác 'cạn kiệt năng lượng, rút hết sức', cả thể chất lẫn tinh thần." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "dần dần, từ từ (trạng từ)",
+      "register": "neutral",
+      "example": "We are gradually unpacking the boxes, one room at a time.",
+      "exampleVi": "Chúng tôi đang dần dần mở các thùng đồ, mỗi lần một phòng.",
+      "note": "Trạng từ chỉ một quá trình diễn ra từng chút một, không vội vã.",
+      "synonyms": [
+        { "term": "little by little", "ipa": "/ˈlɪt.əl baɪ ˈlɪt.əl/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'từng chút một'. Dễ hình dung, hợp khẩu ngữ." },
+        { "term": "steadily", "ipa": "/ˈsted.ɪ.li/", "register": "neutral", "nuanceVi": "Nhấn vào 'đều đặn, ổn định' chứ không chỉ là chậm rãi. Vd 'progress steadily'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "We're moving house because [mệnh đề lý do].",
+      "use": "Nêu lý do chuyển nhà.",
+      "register": "neutral",
+      "examples": [
+        "We're moving house because the new place is closer to my office.",
+        "We're moving house because our family is getting bigger."
+      ],
+      "explanationVi": "'because' nối một mệnh đề lý do hoàn chỉnh (có chủ ngữ + động từ). Đây là cách giải thích nguyên nhân tự nhiên và phổ biến nhất ở trình độ B1.",
+      "altOf": "giving-reason"
+    },
+    {
+      "pattern": "The reason we're moving is that [mệnh đề].",
+      "use": "Nêu lý do một cách rõ ràng, có nhấn mạnh hơn.",
+      "register": "neutral",
+      "examples": [
+        "The reason we're moving is that the rent has gone up a lot.",
+        "The reason we're moving is that we need more space for the baby."
+      ],
+      "explanationVi": "Sau 'The reason ... is' dùng 'that' rồi mới đến mệnh đề. Cách nói này trang trọng và rành mạch hơn 'because', hợp khi muốn nhấn vào lý do.",
+      "altOf": "giving-reason"
+    },
+    {
+      "pattern": "The new house has [danh từ], such as [ví dụ].",
+      "use": "Mô tả căn nhà mới và nêu ví dụ cụ thể về tiện ích.",
+      "register": "neutral",
+      "examples": [
+        "The new house has several modern features, such as a big kitchen and a small garden."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Nêu ví dụ cụ thể giúp lời mô tả sinh động và thuyết phục hơn là nói chung chung."
+    },
+    {
+      "pattern": "Could you give me a hand with [danh từ / V-ing]?",
+      "use": "Nhờ ai đó giúp một việc cụ thể một cách thân thiện.",
+      "register": "neutral",
+      "examples": [
+        "Could you give me a hand with these heavy boxes?",
+        "Could you give me a hand with moving the sofa?"
+      ],
+      "explanationVi": "'give someone a hand' là thành ngữ nghĩa 'giúp một tay'. 'Could you...?' làm lời nhờ nghe lịch sự, hợp khi nhờ bạn bè hoặc người thân.",
+      "altOf": "asking-help"
+    },
+    {
+      "pattern": "Would you mind [V-ing]?",
+      "use": "Nhờ giúp đỡ một cách lịch sự, tế nhị hơn.",
+      "register": "formal",
+      "examples": [
+        "Would you mind helping me carry this table downstairs?",
+        "Would you mind holding the door while I bring in the boxes?"
+      ],
+      "explanationVi": "Sau 'Would you mind' luôn dùng động từ thêm '-ing'. Lưu ý: trả lời 'No' nghĩa là ĐỒNG Ý giúp (không phiền gì). Đây là cách nhờ lịch sự bậc cao.",
+      "altOf": "asking-help"
+    },
+    {
+      "pattern": "It's [tính từ] because [mệnh đề].",
+      "use": "Đưa ra nhận xét/ý kiến về nhà hoặc khu vực mới kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "It's very convenient because there's a supermarket nearby.",
+        "It's quite peaceful because the street is far from the main road."
+      ],
+      "explanationVi": "Mẫu kết hợp tính từ mô tả + 'because' giải thích. Cách này giúp câu nói có chiều sâu thay vì chỉ liệt kê tính từ rời rạc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một nhận xét chân thật về nhà mới hoặc cảm xúc chuyển nhà.", "example": "Honestly, the move was much harder than I expected." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một điều tốt đẹp giữa lúc vất vả chuyển nhà.", "example": "Fortunately, our new neighbours helped us carry the boxes." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Đính chính nhẹ hoặc nói điều hơi bất ngờ một cách tự nhiên.", "example": "Actually, the flat is bigger than it looks in the photos." },
+    { "term": "at the moment", "ipa": "/ət ðə ˈməʊ.mənt/", "vi": "hiện giờ, lúc này", "when": "Nói về tình trạng đang diễn ra của việc dọn nhà.", "example": "At the moment, half of our boxes are still unpacked." },
+    { "term": "in the end", "ipa": "/ɪn ðə ˈend/", "vi": "cuối cùng thì", "when": "Kể kết quả sau cả quá trình chuyển nhà.", "example": "In the end, everything went smoothly and we settled in quickly." }
+  ],
+
+  "dialogue": {
+    "context": "Lan vừa chuyển đến căn hộ mới. Cô tình cờ gặp người bạn Minh và kể về việc chuyển nhà, ngôi nhà mới và những vất vả trong quá trình dọn dẹp.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "Hi Lan! I heard you moved last weekend. How is the new place, and why did you decide to move in the first place?",
+        "ipa": "/haɪ læn aɪ hɜːd juː muːvd lɑːst ˈwiːk.end haʊ ɪz ðə njuː pleɪs ænd waɪ dɪd juː dɪˈsaɪd tə muːv ɪn ðə fɜːst pleɪs/",
+        "vi": "Chào Lan! Mình nghe nói cậu vừa chuyển nhà cuối tuần rồi. Chỗ mới thế nào, và vì sao ban đầu cậu quyết định chuyển vậy?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Hi Minh! Yes, we finally moved. We decided to move house ____ our old flat was too cramped for the four of us, and honestly the rent kept going up every year.",
+        "ipa": "/haɪ mɪn jes wiː ˈfaɪ.nə.li muːvd wiː dɪˈsaɪ.dɪd tə muːv haʊs ... aʊə əʊld flæt wɒz tuː kræmpt fɔːr ðə fɔːr ɒv ʌs ænd ˈɒn.ɪst.li ðə rent kept ˈɡəʊ.ɪŋ ʌp ˈev.ri jɪər/",
+        "vi": "Chào Minh! Ừ, cuối cùng bọn mình cũng chuyển rồi. Bọn mình quyết định chuyển nhà ____ căn hộ cũ quá chật với bốn người, và thật lòng mà nói tiền thuê cứ tăng đều mỗi năm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để mở mệnh đề lý do hoàn chỉnh (chủ ngữ 'our old flat' + động từ 'was'). Xem mẫu câu 'We're moving house because...'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That makes sense. So what is the new neighbourhood like? Is it a good area to live in?",
+        "ipa": "/ðæt meɪks sens səʊ wɒt ɪz ðə njuː ˈneɪ.bə.hʊd laɪk ɪz ɪt ə ɡʊd ˈeə.ri.ə tə lɪv ɪn/",
+        "vi": "Cũng hợp lý đấy. Vậy khu mới thế nào? Có phải là khu vực tốt để sống không?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "It's really lovely. The new house is much more spacious, and the location is very convenient ____ there's a market and a school just around the corner.",
+        "ipa": "/ɪts ˈrɪə.li ˈlʌv.li ðə njuː haʊs ɪz mʌtʃ mɔːr ˈspeɪ.ʃəs ænd ðə ləʊˈkeɪ.ʃən ɪz ˈver.i kənˈviː.ni.ənt ... ðeəz ə ˈmɑː.kɪt ænd ə skuːl dʒʌst əˈraʊnd ðə ˈkɔː.nər/",
+        "vi": "Đáng yêu lắm. Nhà mới rộng rãi hơn nhiều, và vị trí rất thuận tiện ____ có chợ và một trường học ngay gần góc đường.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để giải thích vì sao vị trí thuận tiện. Xem mẫu câu 'It's + tính từ + because + mệnh đề'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds wonderful! Was the moving process difficult? I remember moving can be a real nightmare.",
+        "ipa": "/ðæt saʊndz ˈwʌn.də.fəl wɒz ðə ˈmuː.vɪŋ ˈprəʊ.ses ˈdɪf.ɪ.kəlt aɪ rɪˈmem.bər ˈmuː.vɪŋ kæn biː ə rɪəl ˈnaɪt.meər/",
+        "vi": "Nghe tuyệt thật! Quá trình chuyển nhà có vất vả không? Mình nhớ chuyển nhà có thể là cơn ác mộng thực sự đấy."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Although we hired a removal van, it was still incredibly tiring. We had to ____ everything into boxes, and by the evening we were completely exhausted.",
+        "ipa": "/ɔːlˈðəʊ wiː ˈhaɪəd ə rɪˈmuː.vəl væn ɪt wɒz stɪl ɪnˈkred.ɪ.bli ˈtaɪə.rɪŋ wiː hæd tə ... ˈev.ri.θɪŋ ˈɪn.tə ˈbɒk.sɪz ænd baɪ ðə ˈiːv.nɪŋ wiː wɜː kəmˈpliːt.li ɪɡˈzɔːs.tɪd/",
+        "vi": "Mặc dù bọn mình đã thuê xe tải chuyển nhà, vẫn mệt kinh khủng. Bọn mình phải ____ mọi thứ vào thùng, và đến tối thì kiệt sức hoàn toàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "pack", "explanationVi": "Sau 'had to' dùng động từ nguyên thể không 'to': 'had to pack'. 'pack ... into boxes' = đóng gói vào thùng. Xem từ vựng 'to pack'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Oh, I can imagine. Did your new neighbours, who you mentioned earlier, turn out to be friendly?",
+        "ipa": "/əʊ aɪ kæn ɪˈmædʒ.ɪn dɪd jɔː njuː ˈneɪ.bəz huː juː ˈmen.ʃənd ˈɜː.li.ər tɜːn aʊt tə biː ˈfrend.li/",
+        "vi": "Ồ, mình hình dung được. Hàng xóm mới của cậu, những người cậu nhắc lúc nãy, hóa ra có thân thiện không?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Fortunately, yes! The couple ____ live next door even brought us dinner on the first night. We're gradually settling in, and I'm sure we'll be happy here in the end.",
+        "ipa": "/ˈfɔː.tʃən.ət.li jes ðə ˈkʌp.əl ... lɪv nekst dɔːr ˈiː.vən brɔːt ʌs ˈdɪn.ər ɒn ðə fɜːst naɪt wiə ˈɡrædʒ.u.ə.li ˈset.lɪŋ ɪn ænd aɪm ʃʊə wiːl biː ˈhæp.i hɪər ɪn ðə end/",
+        "vi": "May mắn là có! Cặp vợ chồng ____ sống nhà bên cạnh còn mang bữa tối sang cho bọn mình vào đêm đầu tiên. Bọn mình đang dần ổn định, và mình chắc rằng cuối cùng bọn mình sẽ hạnh phúc ở đây.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' để nối mệnh đề mô tả về người ('the couple'). Nếu là vật thì dùng 'which/that'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I'm so glad to hear that. By the way, if you ever need ____ unpacking the rest, just give me a call and I'll come over!",
+        "ipa": "/aɪm səʊ ɡlæd tə hɪər ðæt baɪ ðə weɪ ɪf juː ˈev.ər niːd ... ʌnˈpæk.ɪŋ ðə rest dʒʌst ɡɪv miː ə kɔːl ænd aɪl kʌm ˈəʊ.vər/",
+        "vi": "Mình mừng khi nghe vậy. Nhân tiện, nếu cậu cần ____ mở nốt đống đồ còn lại, cứ gọi mình một tiếng là mình sang ngay!",
+        "blanks": [
+          { "type": "knowledge", "answer": "a hand with", "explanationVi": "'need a hand with + V-ing' = cần giúp một tay làm gì. Liên quan mẫu câu 'Could you give me a hand with...?'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's so kind of you, thank you! Actually, I might take you up on that ____ I still have a dozen boxes to sort out.",
+        "ipa": "/ðæts səʊ kaɪnd ɒv juː θæŋk juː ˈæk.tʃu.ə.li aɪ maɪt teɪk juː ʌp ɒn ðæt ... aɪ stɪl hæv ə ˈdʌz.ən ˈbɒk.sɪz tə sɔːt aʊt/",
+        "vi": "Cậu tốt quá, cảm ơn nhé! Thật ra mình có thể nhờ cậu đấy ____ mình vẫn còn cả tá thùng phải sắp xếp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do vì sao Lan sẽ nhờ Minh (vẫn còn nhiều thùng). Nối một mệnh đề lý do hoàn chỉnh." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, người thuê nhà thường phải đặt cọc (deposit) tương đương 1-2 tháng tiền thuê; khoản này được hoàn lại khi trả nhà nếu không hư hỏng và nhà sạch sẽ.",
+    "Khi chuyển đến, nhiều người tổ chức 'housewarming party' (tiệc tân gia) để mời bạn bè và làm quen hàng xóm. Khách thường mang quà nhỏ cho nhà mới.",
+    "Việc tự đóng gói rồi thuê 'removal company' (công ty chuyển nhà) chở đồ rất phổ biến; nhiều gia đình cũng nhờ bạn bè giúp và đãi ăn để cảm ơn.",
+    "Chào hỏi và tự giới thiệu với hàng xóm mới được xem là lịch sự và giúp bạn hòa nhập cộng đồng nhanh hơn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'move to a new house' kiểu word-by-word; tự nhiên hơn là 'move house' (Anh-Anh) hoặc đơn giản 'move' (Anh-Mỹ).",
+    "Dùng 'very exhausted'. 'exhausted' đã là nghĩa cực điểm nên đi với 'completely/absolutely', không dùng 'very'.",
+    "Quên đổi động từ sau 'Would you mind' thành '-ing': phải nói 'Would you mind HELPING me', không phải 'Would you mind to help'.",
+    "Nhầm 'because' (theo sau là mệnh đề) với 'because of' (theo sau là danh từ): 'because the rent is high' nhưng 'because of the high rent'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về việc chuyển nhà như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh, tình cờ gặp tôi và tò mò về việc tôi vừa chuyển nhà. Hãy hỏi tôi từng câu một (vì sao chuyển, nhà mới thế nào, khu vực ra sao, quá trình dọn nhà có vất vả không, hàng xóm thế nào). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'because', 'such as', 'although' và mệnh đề quan hệ 'who/which'. Thỉnh thoảng đặt một tình huống bất ngờ (ví dụ đồ đạc bị hỏng khi vận chuyển, hàng xóm ồn ào) để tôi tập xử lý. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai nhân viên công ty chuyển nhà để tôi tập thương lượng giá và lịch chuyển.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi giải thích được lý do chuyển nhà bằng câu có 'because' mà không cần nhìn gợi ý.",
+    "Tôi mô tả được nhà/khu vực mới bằng ít nhất 3 tính từ (spacious, convenient...).",
+    "Tôi nhờ được người khác giúp lịch sự bằng 'Could you give me a hand with...?' hoặc 'Would you mind...?'."
+  ]
+}

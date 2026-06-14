@@ -1,0 +1,74 @@
+[
+  {
+    "id": "daily-life",
+    "title": "Giao tiếp hằng ngày",
+    "titleEn": "Everyday Communication",
+    "icon": "🗣️",
+    "levelRange": "A2–B1",
+    "description": "Nền tảng sinh tồn: chào hỏi, mua sắm, gọi món, hỏi đường, đặt lịch hẹn.",
+    "color": "#2f6fed"
+  },
+  {
+    "id": "family",
+    "title": "Gia đình",
+    "titleEn": "Family",
+    "icon": "👨‍👩‍👧",
+    "levelRange": "A2–B1",
+    "description": "Ngôn ngữ thân mật: kể về bản thân, người thân, cảm xúc, sinh hoạt.",
+    "color": "#e0518a"
+  },
+  {
+    "id": "travel",
+    "title": "Du lịch",
+    "titleEn": "Travel",
+    "icon": "✈️",
+    "levelRange": "A2–B1",
+    "description": "Xử lý tình huống thực tế khi đi: sân bay, khách sạn, di chuyển, sự cố.",
+    "color": "#0a9d8e"
+  },
+  {
+    "id": "friends",
+    "title": "Bạn bè & xã giao",
+    "titleEn": "Friends & Social",
+    "icon": "🧑‍🤝‍🧑",
+    "levelRange": "B1–B2",
+    "description": "Small talk, mời mọc, kể chuyện, bày tỏ cảm xúc, đùa vui tự nhiên.",
+    "color": "#f2a73b"
+  },
+  {
+    "id": "work",
+    "title": "Công việc & sự nghiệp",
+    "titleEn": "Work & Career",
+    "icon": "💼",
+    "levelRange": "B1–C1",
+    "description": "Phỏng vấn, họp, thuyết trình, phản hồi, networking, đàm phán.",
+    "color": "#5b54e0"
+  },
+  {
+    "id": "services",
+    "title": "Dịch vụ & sự cố",
+    "titleEn": "Services & Situations",
+    "icon": "🏥",
+    "levelRange": "B1–B2",
+    "description": "Bệnh viện, ngân hàng, bưu điện, sửa chữa, khiếu nại, tình huống khẩn cấp.",
+    "color": "#d9534f"
+  },
+  {
+    "id": "opinions",
+    "title": "Quan điểm & thảo luận",
+    "titleEn": "Opinions & Discussion",
+    "icon": "💭",
+    "levelRange": "B2–C1",
+    "description": "Bày tỏ ý kiến, đồng tình/phản bác, lập luận, giả định, so sánh.",
+    "color": "#7a52c7"
+  },
+  {
+    "id": "advanced",
+    "title": "Giao tiếp nâng cao",
+    "titleEn": "Advanced Communication",
+    "icon": "🎓",
+    "levelRange": "C1",
+    "description": "Thuyết phục, đàm phán, kể chuyện hấp dẫn, thành ngữ, đổi register linh hoạt.",
+    "color": "#2d2f8f"
+  }
+]

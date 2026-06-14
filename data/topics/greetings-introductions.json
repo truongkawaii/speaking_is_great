@@ -1,0 +1,342 @@
+{
+  "id": "greetings-introductions",
+  "category": "daily-life",
+  "title": "Chào hỏi & giới thiệu",
+  "titleEn": "Greetings & Introductions",
+  "level": "A2",
+  "functions": ["greetings", "small-talk", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Chào hỏi và đáp lại lời chào phù hợp với từng thời điểm trong ngày",
+    "Giới thiệu tên, quê quán và nghề nghiệp của bản thân bằng câu trọn vẹn",
+    "Hỏi và trả lời vài câu xã giao đơn giản để làm quen",
+    "Tạm biệt một cách lịch sự và tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to introduce",
+      "ipa": "/ˌɪn.trəˈduːs/",
+      "vi": "giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "Let me introduce myself; my name is Lan.",
+      "exampleVi": "Để tôi giới thiệu bản thân; tên tôi là Lan.",
+      "note": "Động từ. 'introduce myself' = tự giới thiệu; 'introduce A to B' = giới thiệu A với B.",
+      "synonyms": [
+        { "term": "to present", "ipa": "/prɪˈzent/", "register": "formal", "nuanceVi": "Trang trọng hơn nhiều, thường dùng trong sự kiện/sân khấu: 'May I present Mr Long.' Đời thường ít dùng." }
+      ]
+    },
+    {
+      "term": "to meet",
+      "ipa": "/miːt/",
+      "vi": "gặp gỡ (động từ)",
+      "register": "neutral",
+      "example": "Nice to meet you for the first time.",
+      "exampleVi": "Rất vui được gặp bạn lần đầu.",
+      "note": "Khi gặp LẦN ĐẦU nói 'Nice to meet you'. Gặp lại người quen thì nói 'Nice to see you' (see, không phải meet).",
+      "synonyms": [
+        { "term": "to come across", "ipa": "/kʌm əˈkrɒs/", "register": "casual", "nuanceVi": "Nghĩa 'tình cờ gặp/bắt gặp', không hẹn trước. Đời thường, nhẹ nhàng." },
+        { "term": "to get to know", "ipa": "/ɡet tə nəʊ/", "register": "neutral", "nuanceVi": "Nhấn vào 'làm quen, tìm hiểu dần dần', không phải khoảnh khắc gặp mặt." }
+      ]
+    },
+    {
+      "term": "neighbour",
+      "ipa": "/ˈneɪ.bər/",
+      "vi": "hàng xóm (danh từ)",
+      "register": "neutral",
+      "example": "She is my new neighbour who just moved in.",
+      "exampleVi": "Cô ấy là hàng xóm mới của tôi vừa chuyển đến.",
+      "note": "Danh từ. Anh-Mỹ viết 'neighbor' (không có 'u'); Anh-Anh viết 'neighbour'. Phát âm giống nhau.",
+      "synonyms": [
+        { "term": "next-door neighbour", "ipa": "/ˌnekstˈdɔːr ˈneɪ.bər/", "register": "neutral", "nuanceVi": "Nhấn rõ 'ở sát vách / nhà bên cạnh', cụ thể hơn 'neighbour' chung chung." }
+      ]
+    },
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "This is my colleague who works in the same office.",
+      "exampleVi": "Đây là đồng nghiệp của tôi, người làm chung văn phòng.",
+      "note": "Danh từ. Người làm cùng công ty/nơi làm. Trọng âm rơi vào âm đầu 'COL-league'.",
+      "synonyms": [
+        { "term": "co-worker", "ipa": "/ˈkəʊˌwɜː.kər/", "register": "neutral", "nuanceVi": "Nghĩa gần y hệt, người Mỹ dùng nhiều hơn. Đời thường, dễ dùng." },
+        { "term": "workmate", "ipa": "/ˈwɜːk.meɪt/", "register": "casual", "nuanceVi": "Thân mật (Anh-Anh, Úc), nghe gần gũi như 'bạn cùng làm'." }
+      ]
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện (tính từ)",
+      "register": "neutral",
+      "example": "Everyone here is very friendly and welcoming.",
+      "exampleVi": "Mọi người ở đây rất thân thiện và niềm nở.",
+      "note": "Tính từ (không phải trạng từ, dù có đuôi -ly). Trái nghĩa: unfriendly.",
+      "synonyms": [
+        { "term": "warm", "ipa": "/wɔːm/", "register": "neutral", "nuanceVi": "Nhấn 'ấm áp, tình cảm' trong cách đối xử, không chỉ là dễ gần." },
+        { "term": "approachable", "ipa": "/əˈprəʊ.tʃə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'dễ bắt chuyện, dễ tiếp cận'; thường dùng để khen người ở vị trí cao mà vẫn gần gũi." }
+      ]
+    },
+    {
+      "term": "polite",
+      "ipa": "/pəˈlaɪt/",
+      "vi": "lịch sự (tính từ)",
+      "register": "neutral",
+      "example": "It is polite to smile when you greet someone.",
+      "exampleVi": "Mỉm cười khi chào ai đó là điều lịch sự.",
+      "note": "Tính từ. Trạng từ là 'politely' (một cách lịch sự).",
+      "synonyms": [
+        { "term": "courteous", "ipa": "/ˈkɜː.ti.əs/", "register": "formal", "nuanceVi": "Trang trọng hơn 'polite', nhấn phép tắc lịch thiệp, nhã nhặn." }
+      ]
+    },
+    {
+      "term": "nervous",
+      "ipa": "/ˈnɜː.vəs/",
+      "vi": "hồi hộp, lo lắng (tính từ)",
+      "register": "neutral",
+      "example": "I always feel a little nervous when I meet new people.",
+      "exampleVi": "Tôi luôn thấy hơi hồi hộp khi gặp người mới.",
+      "note": "Tính từ. Đừng nhầm với 'angry' (giận). 'nervous' là cảm giác lo, bồn chồn.",
+      "synonyms": [
+        { "term": "shy", "ipa": "/ʃaɪ/", "register": "neutral", "nuanceVi": "Nhấn 'rụt rè, ngại ngùng' khi tiếp xúc người lạ, là tính cách hơn là cảm giác nhất thời." },
+        { "term": "anxious", "ipa": "/ˈæŋk.ʃəs/", "register": "neutral", "nuanceVi": "Lo lắng ở mức nặng hơn 'nervous', kèm bồn chồn về điều sắp xảy ra." }
+      ]
+    },
+    {
+      "term": "to chat",
+      "ipa": "/tʃæt/",
+      "vi": "trò chuyện, tán gẫu (động từ)",
+      "register": "casual",
+      "example": "We chatted for a while although we had only just met.",
+      "exampleVi": "Chúng tôi trò chuyện một lúc dù mới chỉ vừa gặp nhau.",
+      "note": "Động từ, nhẹ nhàng, thân mật. Đi với 'with somebody / about something'.",
+      "synonyms": [
+        { "term": "to talk", "ipa": "/tɔːk/", "register": "neutral", "nuanceVi": "Trung tính, dùng được mọi lúc. 'chat' nghe thoải mái, vui vẻ hơn." },
+        { "term": "to have a word", "ipa": "/hæv ə wɜːd/", "register": "neutral", "nuanceVi": "Nói chuyện ngắn, riêng tư về một việc cụ thể: 'Can I have a word?'." }
+      ]
+    },
+    {
+      "term": "warmly",
+      "ipa": "/ˈwɔːm.li/",
+      "vi": "một cách nồng hậu (trạng từ)",
+      "register": "neutral",
+      "example": "They greeted us warmly as soon as we arrived.",
+      "exampleVi": "Họ chào đón chúng tôi nồng hậu ngay khi chúng tôi đến.",
+      "note": "Trạng từ, mô tả cách chào hỏi đầy thiện cảm, ấm áp.",
+      "synonyms": [
+        { "term": "kindly", "ipa": "/ˈkaɪnd.li/", "register": "neutral", "nuanceVi": "Nhấn 'tử tế, ân cần'. Gần nghĩa nhưng thiên về lòng tốt hơn là sự nhiệt tình." },
+        { "term": "cheerfully", "ipa": "/ˈtʃɪə.fəl.li/", "register": "neutral", "nuanceVi": "Nhấn 'vui vẻ, hồ hởi', kèm nét tươi cười." }
+      ]
+    },
+    {
+      "term": "to get along",
+      "ipa": "/ɡet əˈlɒŋ/",
+      "vi": "hòa hợp, hợp nhau (cụm động từ)",
+      "register": "casual",
+      "example": "We get along really well, although we are quite different.",
+      "exampleVi": "Chúng tôi hợp nhau lắm, dù khá khác biệt.",
+      "note": "Cụm động từ. Đi với 'with somebody'. 'get along with my colleagues' = hòa thuận với đồng nghiệp.",
+      "synonyms": [
+        { "term": "to bond", "ipa": "/bɒnd/", "register": "neutral", "nuanceVi": "Nhấn 'gắn kết tình cảm, thân thiết dần', mạnh hơn chỉ là hòa hợp bề ngoài." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Good [morning / afternoon / evening], my name is [tên].",
+      "use": "Chào hỏi theo thời điểm trong ngày rồi giới thiệu tên.",
+      "register": "neutral",
+      "examples": [
+        "Good morning, my name is Lan.",
+        "Good evening, my name is Minh, and I'm your new neighbour."
+      ],
+      "explanationVi": "Chào theo buổi: 'Good morning' (sáng), 'Good afternoon' (chiều), 'Good evening' (tối). Lưu ý 'Good night' KHÔNG dùng để chào gặp mặt, mà để chúc ngủ ngon/tạm biệt buổi tối.",
+      "altOf": "greeting"
+    },
+    {
+      "pattern": "Hi / Hello, I'm [tên]. Nice to meet you.",
+      "use": "Cách chào và giới thiệu thân thiện, dùng được hầu hết tình huống.",
+      "register": "casual",
+      "examples": [
+        "Hi, I'm Nam. Nice to meet you.",
+        "Hello, I'm Hoa. Nice to meet you too."
+      ],
+      "explanationVi": "'Hi/Hello' nhẹ nhàng, dùng mọi lúc. Gặp lần đầu nói 'Nice to meet you'; người kia đáp lại thêm 'too' (cũng vậy).",
+      "altOf": "greeting"
+    },
+    {
+      "pattern": "I'm from [nơi chốn], and I work as a/an [nghề nghiệp].",
+      "use": "Cho biết quê quán và nghề nghiệp của bản thân.",
+      "register": "neutral",
+      "examples": [
+        "I'm from Hanoi, and I work as a teacher.",
+        "I'm from Da Nang, and I work as an engineer."
+      ],
+      "explanationVi": "'I'm from + nơi chốn' nói quê/xuất xứ. 'work as a/an + nghề' nói nghề nghiệp; nhớ thêm 'a' trước nghề, và 'an' nếu nghề bắt đầu bằng nguyên âm (an engineer, an artist)."
+    },
+    {
+      "pattern": "How are you? — I'm fine, thank you. And you?",
+      "use": "Hỏi thăm xã giao và đáp lại sau khi chào.",
+      "register": "neutral",
+      "examples": [
+        "How are you? — I'm fine, thank you. And you?",
+        "How are you doing today? — Pretty good, thanks!"
+      ],
+      "explanationVi": "Sau khi chào nên hỏi thăm. Nhớ hỏi ngược lại bằng 'And you?' để cuộc trò chuyện tự nhiên, không bị cụt một chiều.",
+      "altOf": "small-talk-question"
+    },
+    {
+      "pattern": "Where are you from? / What do you do?",
+      "use": "Hỏi quê quán và nghề nghiệp của người mới quen.",
+      "register": "neutral",
+      "examples": [
+        "Where are you from? — I'm from Hue.",
+        "What do you do? — I'm a nurse."
+      ],
+      "explanationVi": "'Where are you from?' hỏi xuất xứ. 'What do you do?' là cách hỏi nghề nghiệp thông dụng (KHÔNG hỏi 'What is your job?' nghe hơi cứng).",
+      "altOf": "small-talk-question"
+    },
+    {
+      "pattern": "It was nice talking to you. See you [later / soon / tomorrow]!",
+      "use": "Kết thúc cuộc trò chuyện và tạm biệt lịch sự.",
+      "register": "casual",
+      "examples": [
+        "It was nice talking to you. See you tomorrow!",
+        "It was lovely meeting you. See you soon!"
+      ],
+      "explanationVi": "Trước khi tạm biệt nên 'đóng' bằng một câu lịch sự ('It was nice talking to you'). Sau đó chọn 'See you later/soon/tomorrow' tùy khi nào gặp lại."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn nói thêm hoặc đính chính nhẹ nhàng một thông tin.", "example": "Actually, I'm not from here; I moved in last week." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc chuyển nhẹ sang chủ đề mới.", "example": "By the way, what's your name again?" },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói điều gì đó một cách chân thành, gần gũi.", "example": "Honestly, I was a bit nervous about meeting everyone." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khi muốn đồng ý hoặc khẳng định một cách dứt khoát, vui vẻ.", "example": "We should definitely have a coffee sometime." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi đáp lại lời đề nghị hoặc câu hỏi một cách niềm nở.", "example": "Of course, let me introduce you to my colleague." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa chuyển đến một căn hộ mới. Sáng nay bạn gặp một người hàng xóm ở hành lang và bắt đầu làm quen.",
+    "lines": [
+      {
+        "speaker": "Hàng xóm",
+        "text": "Good morning! You must be the new neighbour who just moved into apartment 7, right?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ juː mʌst biː ðə njuː ˈneɪ.bər huː dʒʌst muːvd ˈɪn.tuː əˈpɑːt.mənt ˈsev.ən raɪt/",
+        "vi": "Chào buổi sáng! Bạn chắc là người hàng xóm mới vừa chuyển vào căn hộ số 7, đúng không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____ morning! Yes, that's me. My name is ____, and honestly I'm a little nervous because everything here is still new to me.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ jes ðæts miː maɪ neɪm ɪz ænd ˈɒn.ɪst.li aɪm ə ˈlɪt.əl ˈnɜː.vəs bɪˈkɔz ˈev.ri.θɪŋ hɪər ɪz stɪl njuː tə miː/",
+        "vi": "Chào buổi sáng! Vâng, là tôi đây. Tên tôi là ____, và thành thật mà nói tôi hơi hồi hộp vì mọi thứ ở đây vẫn còn mới mẻ với tôi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Good",
+            "explanationVi": "Chào buổi sáng là 'Good morning'. Theo thời điểm: Good morning (sáng), Good afternoon (chiều), Good evening (tối). Xem mẫu câu 'Good morning, my name is...'."
+          },
+          {
+            "type": "personal",
+            "hint": "Tên của bạn. Ví dụ: 'Lan' hoặc 'Nguyen Van Nam'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "Oh, there's no need to worry! Everyone in this building is really friendly, so you will fit in very quickly. I'm Mai, by the way. Nice to meet you!",
+        "ipa": "/əʊ ðeəz nəʊ niːd tə ˈwʌr.i ˈev.ri.wʌn ɪn ðɪs ˈbɪl.dɪŋ ɪz ˈrɪə.li ˈfrend.li səʊ juː wɪl fɪt ɪn ˈver.i ˈkwɪk.li aɪm maɪ baɪ ðə weɪ naɪs tə miːt juː/",
+        "vi": "Ồ, không cần lo đâu! Mọi người trong tòa nhà này đều rất thân thiện, nên bạn sẽ hòa nhập rất nhanh thôi. Tiện thể, tôi là Mai. Rất vui được gặp bạn!"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Nice to meet you ____, Mai! By the way, where are you from? I'm from ____, although I have lived in this city for a few years now.",
+        "ipa": "/naɪs tə miːt juː tuː maɪ baɪ ðə weɪ weər ɑːr juː frɒm aɪm frɒm ɔːlˈðəʊ aɪ hæv lɪvd ɪn ðɪs ˈsɪt.i fɔːr ə fjuː jɪəz naʊ/",
+        "vi": "Rất vui được gặp bạn nữa, Mai! Tiện thể, bạn quê ở đâu vậy? Tôi đến từ ____, dù tôi đã sống ở thành phố này được vài năm rồi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "too",
+            "explanationVi": "Khi người kia nói 'Nice to meet you', bạn đáp lại 'Nice to meet you too' (cũng rất vui được gặp bạn). 'too' đặt cuối câu nghĩa là 'cũng vậy'."
+          },
+          {
+            "type": "personal",
+            "hint": "Quê quán của bạn. Ví dụ: 'Hanoi' hoặc 'Da Nang'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "I'm originally from Hue, but I moved here for work. So, what do you do?",
+        "ipa": "/aɪm əˈrɪdʒ.ən.əl.i frɒm hweɪ bʌt aɪ muːvd hɪər fɔː wɜːk səʊ wɒt duː juː duː/",
+        "vi": "Tôi quê gốc ở Huế, nhưng tôi chuyển đến đây vì công việc. Vậy bạn làm nghề gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I work ____ a ____. I really enjoy it, although it can be quite busy. What about you?",
+        "ipa": "/aɪ wɜːk æz ə aɪ ˈrɪə.li ɪnˈdʒɔɪ ɪt ɔːlˈðəʊ ɪt kæn biː kwaɪt ˈbɪz.i wɒt əˈbaʊt juː/",
+        "vi": "Tôi làm ____ một ____. Tôi rất thích công việc đó, dù đôi khi khá bận. Còn bạn thì sao?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "as",
+            "explanationVi": "Nói nghề nghiệp dùng 'work as a/an + nghề'. Ví dụ: 'I work as a teacher.' Xem mẫu câu 'I work as a/an...'."
+          },
+          {
+            "type": "personal",
+            "hint": "Nghề của bạn. Ví dụ: 'teacher', 'engineer', 'nurse'."
+          }
+        ]
+      },
+      {
+        "speaker": "Hàng xóm",
+        "text": "I'm a graphic designer, and I work from home most days, so we will probably bump into each other quite often.",
+        "ipa": "/aɪm ə ˈɡræf.ɪk dɪˈzaɪ.nər ænd aɪ wɜːk frɒm həʊm məʊst deɪz səʊ wiː wɪl ˈprɒb.ə.bli bʌmp ˈɪn.tuː iːtʃ ˈʌð.ər kwaɪt ˈɒf.ən/",
+        "vi": "Tôi là nhà thiết kế đồ họa, và tôi làm việc tại nhà hầu hết các ngày, nên chắc chúng ta sẽ hay chạm mặt nhau đấy."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great! I'm sure we will get along well. It was really nice talking to you, Mai. ____ you later!",
+        "ipa": "/ðæt saʊndz ɡreɪt aɪm ʃɔː wiː wɪl ɡet əˈlɒŋ wel ɪt wɒz ˈrɪə.li naɪs ˈtɔː.kɪŋ tə juː maɪ siː juː ˈleɪ.tər/",
+        "vi": "Nghe tuyệt quá! Tôi tin chắc chúng ta sẽ hợp nhau. Rất vui được trò chuyện với bạn, Mai. Hẹn gặp lại sau nhé!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "See",
+            "explanationVi": "Tạm biệt khi sẽ gặp lại nói 'See you later/soon/tomorrow'. 'See you later!' nghĩa là 'Hẹn gặp lại sau nhé'. Xem mẫu câu kết thúc trò chuyện."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Người phương Tây thường bắt tay khi gặp lần đầu, kèm nụ cười và nhìn vào mắt. Người Việt có thể thấy lạ nhưng đây là phép lịch sự cơ bản.",
+    "Câu 'How are you?' phần lớn là lời chào xã giao, không phải câu hỏi thật về sức khỏe. Đáp ngắn gọn 'I'm fine, thanks. And you?' là đủ.",
+    "'Good night' chỉ dùng khi chia tay vào buổi tối hoặc trước khi đi ngủ, KHÔNG dùng để chào khi mới gặp ai đó vào buổi tối (lúc đó dùng 'Good evening').",
+    "Hỏi tuổi, lương, hay tình trạng hôn nhân ngay lần đầu gặp bị xem là kém tế nhị ở nhiều nước phương Tây; nên bắt đầu bằng quê quán, nghề nghiệp, sở thích."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'Nice to meet you' (gặp lần đầu) với 'Nice to see you' (gặp lại người đã quen).",
+    "Dùng 'Good night' để chào khi mới gặp vào buổi tối — phải dùng 'Good evening'.",
+    "Quên mạo từ 'a/an' khi nói nghề: phải nói 'I'm a teacher' / 'I work as an engineer', không phải 'I'm teacher'.",
+    "Trả lời cụt lủn 'Fine.' rồi im lặng. Hãy hỏi ngược lại 'And you?' để cuộc trò chuyện tự nhiên."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện chào hỏi và làm quen như thật.",
+    "prompt": "Hãy đóng vai một người mới quen nói tiếng Anh (ví dụ một hàng xóm hoặc đồng nghiệp mới). Hãy bắt đầu bằng cách chào tôi và tự giới thiệu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thân thiện như người bản xứ, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) hỏi tôi vài câu xã giao đơn giản (tên, quê quán, nghề nghiệp, sở thích) và thỉnh thoảng tạo một tình huống bất ngờ (ví dụ rủ tôi đi cà phê) để tôi tập phản xạ. Hãy nói chậm rãi, dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy dùng câu dài hơn một chút và thêm các từ như although, by the way, honestly.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi chào hỏi và giới thiệu tên, quê quán, nghề nghiệp của mình mà không cần nhìn gợi ý.",
+    "Tôi phân biệt và dùng đúng 'Nice to meet you', 'How are you?' và 'See you later'.",
+    "Tôi hỏi lại được người mới quen ít nhất 2 câu xã giao ('Where are you from?', 'What do you do?')."
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "id": "cultural-differences",
+  "category": "opinions",
+  "title": "Khác biệt văn hóa",
+  "titleEn": "Cultural Differences",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "describing", "small-talk"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Trình bày quan điểm tinh tế về khác biệt văn hóa bằng câu phức nhiều tầng",
+    "Đồng tình hoặc phản biện một cách lịch sự, có sắc thái (hedging) thay vì khẳng định cứng nhắc",
+    "Dùng idiom và collocation về văn hóa (culture shock, common ground, take with a grain of salt) đúng ngữ cảnh",
+    "Chuyển đổi register linh hoạt giữa trang trọng và thân mật khi bàn chủ đề nhạy cảm",
+    "Khái quát hóa mà không rơi vào định kiến (generalisation vs. stereotype)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "norm",
+      "ipa": "/nɔːrm/",
+      "vi": "chuẩn mực, quy ước (danh từ)",
+      "register": "neutral",
+      "example": "What counts as politeness in one country may violate social norms in another.",
+      "exampleVi": "Điều được coi là lịch sự ở nước này có thể vi phạm chuẩn mực xã hội ở nước khác.",
+      "note": "Danh từ. Hay đi với 'social norms', 'cultural norms'. Đừng nhầm với 'normal' (tính từ).",
+      "synonyms": [
+        { "term": "convention", "ipa": "/kənˈven.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, nhấn vào 'quy ước được số đông ngầm chấp nhận', thường về cách hành xử (social convention)." },
+        { "term": "custom", "ipa": "/ˈkʌs.təm/", "register": "neutral", "nuanceVi": "Nhấn vào 'tập quán truyền thống lặp lại', mang màu sắc văn hóa lâu đời hơn 'norm'." },
+        { "term": "standard", "ipa": "/ˈstæn.dəd/", "register": "neutral", "nuanceVi": "Nhấn vào 'mức quy chuẩn để đối chiếu/đánh giá', ít màu sắc xã hội hơn 'norm'." }
+      ]
+    },
+    {
+      "term": "etiquette",
+      "ipa": "/ˈet.ɪ.ket/",
+      "vi": "phép tắc xã giao, nghi thức ứng xử (danh từ)",
+      "register": "formal",
+      "example": "Business etiquette varies enormously across Asia and Europe.",
+      "exampleVi": "Phép tắc trong kinh doanh khác nhau rất nhiều giữa châu Á và châu Âu.",
+      "note": "Danh từ không đếm được, gốc tiếng Pháp; 't' cuối thường không đọc rõ. Trang trọng và lịch sự.",
+      "synonyms": [
+        { "term": "manners", "ipa": "/ˈmæn.əz/", "register": "neutral", "nuanceVi": "Đời thường hơn, luôn số nhiều, chỉ cách cư xử cá nhân ('good manners'). 'Etiquette' là cả hệ quy tắc, trang trọng hơn." },
+        { "term": "protocol", "ipa": "/ˈprəʊ.tə.kɒl/", "register": "formal", "nuanceVi": "Trang trọng nhất, nhấn nghi thức chính thức trong ngoại giao/công sở, có tính bắt buộc cao." }
+      ]
+    },
+    {
+      "term": "to assume",
+      "ipa": "/əˈsjuːm/",
+      "vi": "cho rằng, mặc định (động từ)",
+      "register": "neutral",
+      "example": "We tend to assume that our own way of doing things is universal.",
+      "exampleVi": "Chúng ta thường mặc định cách làm của mình là phổ quát.",
+      "note": "Động từ. Hay đi với 'assume that + mệnh đề'. Danh từ là 'assumption'.",
+      "synonyms": [
+        { "term": "to presume", "ipa": "/prɪˈzjuːm/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'suy đoán dựa trên cơ sở hợp lý' chứ không hoàn toàn vô căn cứ." },
+        { "term": "to take for granted", "ipa": "/teɪk fɔː ˈɡrɑːn.tɪd/", "register": "neutral", "nuanceVi": "Cụm động từ, nhấn 'coi là hiển nhiên mà không suy xét', đôi khi mang sắc thái tiêu cực." }
+      ]
+    },
+    {
+      "term": "to embrace",
+      "ipa": "/ɪmˈbreɪs/",
+      "vi": "đón nhận, ôm trọn (một ý tưởng/sự khác biệt) (động từ)",
+      "register": "neutral",
+      "example": "Living abroad taught me to embrace differences rather than resist them.",
+      "exampleVi": "Sống ở nước ngoài dạy tôi đón nhận sự khác biệt thay vì kháng cự nó.",
+      "note": "Động từ mang sắc thái tích cực, nhiệt thành (hơn 'accept' vốn trung tính). Nghĩa đen là 'ôm'.",
+      "synonyms": [
+        { "term": "to accept", "ipa": "/əkˈsept/", "register": "neutral", "nuanceVi": "Trung tính, chỉ 'chấp nhận', không hàm ý nhiệt thành chủ động như 'embrace'." },
+        { "term": "to welcome", "ipa": "/ˈwel.kəm/", "register": "neutral", "nuanceVi": "Nhấn 'hoan nghênh, vui mừng đón nhận', tích cực nhưng nhẹ hơn 'embrace'." }
+      ]
+    },
+    {
+      "term": "subtle",
+      "ipa": "/ˈsʌt.əl/",
+      "vi": "tinh tế, khó nhận ra (tính từ)",
+      "register": "neutral",
+      "example": "The differences in body language are often subtle but significant.",
+      "exampleVi": "Khác biệt trong ngôn ngữ cơ thể thường tinh tế nhưng đáng kể.",
+      "note": "Tính từ. Bẫy phát âm: chữ 'b' CÂM, đọc /ˈsʌt.əl/. Danh từ là 'subtlety'.",
+      "synonyms": [
+        { "term": "nuanced", "ipa": "/ˈnjuː.ɑːnst/", "register": "formal", "nuanceVi": "Nhấn 'nhiều sắc thái tinh vi', thường khen một quan điểm/phân tích sâu sắc." },
+        { "term": "understated", "ipa": "/ˌʌn.dəˈsteɪ.tɪd/", "register": "formal", "nuanceVi": "Nhấn 'kín đáo, không phô trương', thiên về phong cách thể hiện hơn là độ khó nhận biết." }
+      ]
+    },
+    {
+      "term": "ingrained",
+      "ipa": "/ɪnˈɡreɪnd/",
+      "vi": "ăn sâu, thâm căn cố đế (tính từ)",
+      "register": "formal",
+      "example": "Such attitudes are deeply ingrained in the culture and hard to change.",
+      "exampleVi": "Những thái độ như vậy đã ăn sâu vào văn hóa và khó thay đổi.",
+      "note": "Tính từ. Hay đi với 'deeply ingrained'. Dùng cho thói quen/niềm tin tồn tại lâu dài.",
+      "synonyms": [
+        { "term": "deep-rooted", "ipa": "/ˌdiːpˈruː.tɪd/", "register": "neutral", "nuanceVi": "Hình ảnh 'rễ sâu', gần nghĩa, dùng nhiều cho vấn đề/định kiến tồn tại dai dẳng." },
+        { "term": "entrenched", "ipa": "/ɪnˈtrentʃt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'cố thủ, khó lay chuyển', thường mang sắc thái hơi tiêu cực." }
+      ]
+    },
+    {
+      "term": "to bridge the gap",
+      "ipa": "/brɪdʒ ðə ɡæp/",
+      "vi": "thu hẹp khoảng cách, bắc cầu nối (cụm động từ)",
+      "register": "neutral",
+      "example": "A few words in the local language can go a long way towards bridging the cultural gap.",
+      "exampleVi": "Vài câu tiếng địa phương có thể giúp ích rất nhiều trong việc thu hẹp khoảng cách văn hóa.",
+      "note": "Cụm động từ idiom. Hay đi với 'bridge the cultural/generational gap'.",
+      "synonyms": [
+        { "term": "to find common ground", "ipa": "/faɪnd ˈkɒm.ən ɡraʊnd/", "register": "neutral", "nuanceVi": "Idiom, nhấn 'tìm điểm chung để cùng đồng thuận', thiên về sự thấu hiểu hai chiều." }
+      ]
+    },
+    {
+      "term": "open-minded",
+      "ipa": "/ˌəʊ.pənˈmaɪn.dɪd/",
+      "vi": "cởi mở, không thành kiến (tính từ)",
+      "register": "neutral",
+      "example": "Travelling has made me far more open-minded about other ways of life.",
+      "exampleVi": "Đi đây đó khiến tôi cởi mở hơn nhiều với những lối sống khác.",
+      "note": "Tính từ ghép. Trái nghĩa: 'narrow-minded' (hẹp hòi).",
+      "synonyms": [
+        { "term": "broad-minded", "ipa": "/ˌbrɔːdˈmaɪn.dɪd/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn 'bao dung với quan điểm/lối sống khác biệt', đặc biệt về đạo đức." },
+        { "term": "tolerant", "ipa": "/ˈtɒl.ər.ənt/", "register": "neutral", "nuanceVi": "Nhấn 'chấp nhận, không phán xét điều mình không tán thành', hơi thụ động hơn 'open-minded'." }
+      ]
+    },
+    {
+      "term": "inadvertently",
+      "ipa": "/ˌɪn.ədˈvɜː.tənt.li/",
+      "vi": "một cách vô tình, không chủ ý (trạng từ)",
+      "register": "formal",
+      "example": "Tourists often inadvertently offend locals simply because they don't know the customs.",
+      "exampleVi": "Du khách thường vô tình làm phật lòng người địa phương chỉ vì không biết phong tục.",
+      "note": "Trạng từ trang trọng. Dùng để giải thích một lỗi không cố ý — rất hữu ích khi nói về hiểu lầm văn hóa.",
+      "synonyms": [
+        { "term": "unintentionally", "ipa": "/ˌʌn.ɪnˈten.ʃən.əl.i/", "register": "neutral", "nuanceVi": "Phổ biến, dễ dùng hơn, nghĩa 'không cố ý'. 'Inadvertently' nghe trang trọng và văn vẻ hơn." },
+        { "term": "accidentally", "ipa": "/ˌæk.sɪˈden.təl.i/", "register": "neutral", "nuanceVi": "Đời thường nhất, nhấn 'tình cờ, do sơ ý', dùng cho cả sự việc lẫn hành vi." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːɡ.ju.ə.bli/",
+      "vi": "có thể lập luận rằng, có lẽ (trạng từ)",
+      "register": "formal",
+      "example": "Punctuality is arguably the area where cultures clash most often.",
+      "exampleVi": "Sự đúng giờ có lẽ là lĩnh vực mà các nền văn hóa va chạm nhau nhiều nhất.",
+      "note": "Trạng từ làm mềm một nhận định mạnh, ngụ ý 'có cơ sở để cho là vậy'. Rất hợp khi nêu quan điểm ở C1.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung/tưởng tượng được', độ chắc chắn thấp hơn 'arguably'." },
+        { "term": "presumably", "ipa": "/prɪˈzjuː.mə.bli/", "register": "formal", "nuanceVi": "Nhấn 'có lẽ là vậy dựa trên suy đoán hợp lý', thiên về phỏng đoán hơn lập luận." }
+      ]
+    },
+    {
+      "term": "to generalise",
+      "ipa": "/ˈdʒen.ər.əl.aɪz/",
+      "vi": "khái quát hóa, vơ đũa cả nắm (động từ)",
+      "register": "neutral",
+      "example": "It would be unfair to generalise about an entire nation based on one experience.",
+      "exampleVi": "Sẽ không công bằng nếu khái quát hóa cả một dân tộc chỉ dựa trên một trải nghiệm.",
+      "note": "Động từ (Anh-Anh viết -ise, Anh-Mỹ -ize). Đi với 'generalise about'. Danh từ: 'generalisation'.",
+      "synonyms": [
+        { "term": "to stereotype", "ipa": "/ˈster.i.ə.taɪp/", "register": "neutral", "nuanceVi": "Mạnh và tiêu cực hơn, nhấn 'gán định kiến rập khuôn' cho cả nhóm người." }
+      ]
+    },
+    {
+      "term": "rapport",
+      "ipa": "/ræˈpɔːr/",
+      "vi": "sự ăn ý, mối quan hệ thân thiết (danh từ)",
+      "register": "formal",
+      "example": "Building rapport with foreign colleagues takes patience and genuine curiosity.",
+      "exampleVi": "Xây dựng sự ăn ý với đồng nghiệp nước ngoài cần kiên nhẫn và sự tò mò chân thành.",
+      "note": "Danh từ gốc Pháp; 't' CÂM, đọc /ræˈpɔːr/. Hay đi với 'build/establish rapport with somebody'.",
+      "synonyms": [
+        { "term": "connection", "ipa": "/kəˈnek.ʃən/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa rộng 'sự kết nối'. 'Rapport' nhấn riêng vào sự hòa hợp, thấu hiểu lẫn nhau." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What strikes me most about [văn hóa/khía cạnh] is the way [mệnh đề].",
+      "use": "Mở đầu nêu quan sát ấn tượng nhất một cách trau chuốt.",
+      "register": "formal",
+      "examples": [
+        "What strikes me most about Japanese culture is the way silence is treated as a form of respect rather than awkwardness."
+      ],
+      "explanationVi": "'What strikes me most is…' là cấu trúc chẻ (cleft) nhấn mạnh điểm nổi bật nhất, nghe sắc sảo và chững chạc hơn 'I think the most interesting thing is…'."
+    },
+    {
+      "pattern": "I'd be inclined to say that [mệnh đề], although I admit [mệnh đề nhượng bộ].",
+      "use": "Nêu quan điểm có hedging (làm mềm) kèm thừa nhận giới hạn.",
+      "register": "formal",
+      "examples": [
+        "I'd be inclined to say that direct communication is more efficient, although I admit it can come across as rude in some cultures."
+      ],
+      "explanationVi": "'I'd be inclined to say' = 'tôi nghiêng về ý cho rằng', làm mềm khẳng định để tránh áp đặt. 'although' mở mệnh đề nhượng bộ giúp quan điểm nghe cân bằng, tinh tế — rất đặc trưng C1.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "It seems to me that [mệnh đề], not only because [lý do] but also because [lý do].",
+      "use": "Đưa quan điểm kèm lập luận hai vế song song.",
+      "register": "neutral",
+      "examples": [
+        "It seems to me that we misjudge other cultures, not only because we lack information but also because we cling to our own assumptions."
+      ],
+      "explanationVi": "'It seems to me that' làm câu khiêm tốn, để ngỏ khả năng sai. 'not only… but also…' nối hai lý do song song, làm lập luận nghe đầy đặn, có chiều sâu.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I see your point, but I can't help feeling that [mệnh đề].",
+      "use": "Phản biện lịch sự sau khi đã ghi nhận ý người kia.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I can't help feeling that we're generalising a little too much here."
+      ],
+      "explanationVi": "Công thức ngoại giao: ghi nhận trước ('I see your point') rồi mới nêu khác biệt. 'I can't help feeling that' = 'tôi không thể không cảm thấy rằng', diễn đạt bất đồng một cách nhẹ nhàng, không gây đối đầu.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "That's a fair point, and I'd even go so far as to say [mệnh đề].",
+      "use": "Đồng tình rồi đẩy ý lên một mức cao hơn.",
+      "register": "neutral",
+      "examples": [
+        "That's a fair point, and I'd even go so far as to say that culture shapes the way we perceive time itself."
+      ],
+      "explanationVi": "'That's a fair point' công nhận ý đối phương; 'I'd go so far as to say' = 'tôi thậm chí dám nói rằng', dùng để nâng cấp, mở rộng ý — thể hiện sự đồng tình chủ động và sâu sắc.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], [mệnh đề chính].",
+      "use": "Nêu sự đối lập giữa hoàn cảnh và kết quả một cách gọn gàng.",
+      "register": "formal",
+      "examples": [
+        "Despite having lived there for years, she still found certain customs bewildering."
+      ],
+      "explanationVi": "'Despite' + danh từ / V-ing (KHÔNG dùng mệnh đề có chủ ngữ + động từ chia). Tương đương 'although' nhưng theo sau là cụm danh từ — bẫy ngữ pháp TOEIC kinh điển."
+    },
+    {
+      "pattern": "The longer I [V], the more I realise that [mệnh đề].",
+      "use": "Diễn đạt một nhận thức tăng dần theo thời gian/trải nghiệm.",
+      "register": "neutral",
+      "examples": [
+        "The longer I work in international teams, the more I realise that there is rarely a single right way of doing things."
+      ],
+      "explanationVi": "Cấu trúc so sánh kép 'The + so sánh hơn…, the + so sánh hơn…' (càng… càng…). Tạo câu giàu sức thuyết phục, thể hiện sự chiêm nghiệm — rất 'ăn điểm' ở trình độ cao."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Khi thừa nhận một điểm trước khi phản biện, để nghe công bằng.", "example": "Admittedly, my own culture has its fair share of strange habits too." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "thẳng thắn mà nói", "when": "Mở đầu một nhận định thẳng thắn, đôi khi hơi nhạy cảm.", "example": "Frankly, I found their idea of personal space rather hard to get used to." },
+    { "term": "to a certain extent", "ipa": "/tu ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý một phần, không tuyệt đối — kiểu hedging điển hình.", "example": "To a certain extent, stereotypes contain a grain of truth, but they're still misleading." },
+    { "term": "by and large", "ipa": "/baɪ ænd lɑːdʒ/", "vi": "nhìn chung, đại thể", "when": "Khái quát một cách thận trọng, chừa chỗ cho ngoại lệ.", "example": "By and large, people everywhere want the same basic things." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói, dĩ nhiên", "when": "Dẫn vào một điều hiển nhiên ai cũng đoán được.", "example": "Needless to say, what is polite in one country can be offensive in another." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp từng sống ở nước ngoài đang ngồi cà phê, trao đổi quan điểm về những cú sốc văn hóa và cách thích nghi. Cuộc trò chuyện trang trọng vừa phải, đậm tính bày tỏ ý kiến và tranh luận lịch sự.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "You've just come back from two years in ____, haven't you? I'm curious — what struck you most about the culture there, particularly compared with home?",
+        "ipa": "/juːv dʒʌst kʌm bæk frɒm tuː jɪəz ɪn ... ˈhævnt juː aɪm ˈkjʊə.ri.əs wɒt strʌk juː məʊst əˈbaʊt ðə ˈkʌl.tʃər ðeər pəˈtɪk.jə.lə.li kəmˈpeəd wɪð həʊm/",
+        "vi": "Bạn vừa từ ____ về sau hai năm đúng không? Mình tò mò — điều gì khiến bạn ấn tượng nhất về văn hóa ở đó, nhất là khi so với quê nhà?",
+        "blanks": [
+          { "type": "personal", "hint": "Tên một quốc gia/thành phố bạn từng sống hoặc muốn nói tới. Ví dụ: 'Japan', 'Germany'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, what struck me most was the way punctuality was treated almost as a moral value. ____ I considered myself a fairly organised person, I inadvertently offended a few colleagues simply by turning up five minutes late.",
+        "ipa": "/ˈɒn.ɪst.li wɒt strʌk miː məʊst wɒz ðə weɪ ˌpʌŋk.tʃuˈæl.ə.ti wɒz ˈtriː.tɪd ˈɔːl.məʊst æz ə ˈmɒr.əl ˈvæl.juː ... aɪ kənˈsɪd.əd maɪˈself ə ˈfeə.li ˈɔː.ɡən.aɪzd ˈpɜː.sən aɪ ˌɪn.ədˈvɜː.tənt.li əˈfen.dɪd ə fjuː ˈkɒl.iːɡz ˈsɪm.pli baɪ ˈtɜː.nɪŋ ʌp faɪv ˈmɪn.ɪts leɪt/",
+        "vi": "Thật ra, điều khiến mình ấn tượng nhất là cách họ coi sự đúng giờ gần như một giá trị đạo đức. ____ mình vẫn tự thấy mình là người khá ngăn nắp, mình đã vô tình làm phật lòng vài đồng nghiệp chỉ vì đến muộn năm phút.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) để mở mệnh đề nhượng bộ: dù tự thấy ngăn nắp nhưng vẫn bị xem là trễ. Lưu ý sau 'Although' là cả mệnh đề (chủ ngữ + động từ), khác với 'Despite' phải đi kèm danh từ/V-ing. Xem mẫu câu so sánh 'Despite…'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I see your point, but I can't help feeling we sometimes ____ too much — surely not everyone there is obsessed with the clock?",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪ kɑːnt help ˈfiː.lɪŋ wiː ˈsʌm.taɪmz ... tuː mʌtʃ ˈʃʊə.li nɒt ˈev.ri.wʌn ðeər ɪz əbˈsest wɪð ðə klɒk/",
+        "vi": "Mình hiểu ý bạn, nhưng mình không thể không cảm thấy đôi khi chúng ta ____ hơi quá — chắc chắn không phải ai ở đó cũng bị ám ảnh bởi đồng hồ chứ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "generalise", "explanationVi": "Dùng động từ 'generalise' (khái quát hóa, vơ đũa cả nắm) ở thì hiện tại đơn với chủ ngữ 'we' (chia nguyên thể, không thêm -s). Trạng từ tần suất 'sometimes' đứng trước động từ thường. Nó cảnh báo nguy cơ quy chụp cả một dân tộc — đúng tinh thần phản biện lịch sự ở mẫu câu 'I see your point, but…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's a fair point, and admittedly I'm describing a tendency rather than a rule. Still, these attitudes seemed deeply ____ in the way people organised their daily lives, which made them hard to ignore.",
+        "ipa": "/ðæts ə feə pɔɪnt ænd ədˈmɪt.ɪd.li aɪm dɪsˈkraɪ.bɪŋ ə ˈten.dən.si ˈrɑː.ðər ðæn ə ruːl stɪl ðiːz ˈæt.ɪ.tjuːdz siːmd ˈdiːp.li ... ɪn ðə weɪ ˈpiː.pəl ˈɔː.ɡən.aɪzd ðeə ˈdeɪ.li laɪvz wɪtʃ meɪd ðəm hɑːd tʊ ɪɡˈnɔːr/",
+        "vi": "Đó là một điểm hợp lý, và phải thừa nhận là mình đang mô tả một xu hướng chứ không phải một quy luật. Dù vậy, những thái độ này dường như đã ____ rất sâu trong cách họ tổ chức đời sống hằng ngày, điều khiến chúng khó mà bỏ qua.",
+        "blanks": [
+          { "type": "knowledge", "answer": "ingrained", "explanationVi": "Dùng tính từ 'ingrained' (ăn sâu) sau trạng từ 'deeply' — collocation cố định 'deeply ingrained'. Cụm 'which made them hard to ignore' là mệnh đề quan hệ không xác định bổ nghĩa cho cả ý trước đó." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Fair enough. Despite ____ there for so long, did you ever truly feel at home, or was there always a subtle distance you couldn't quite bridge?",
+        "ipa": "/feər ɪˈnʌf dɪˈspaɪt ... ðeər fɔː səʊ lɒŋ dɪd juː ˈev.ər ˈtruː.li fiːl ət həʊm ɔː wɒz ðeər ˈɔːl.weɪz ə ˈsʌt.əl ˈdɪs.təns juː ˈkʊd.ənt kwaɪt brɪdʒ/",
+        "vi": "Hợp lý đấy. Dù ____ ở đó lâu như vậy, bạn có bao giờ thực sự thấy như ở nhà không, hay luôn có một khoảng cách tinh tế nào đó mà bạn không tài nào bắc cầu nổi?",
+        "blanks": [
+          { "type": "knowledge", "answer": "living", "explanationVi": "Sau 'Despite' phải dùng danh từ hoặc V-ing, nên là 'living' (chứ không phải mệnh đề 'I lived'). Đây là bẫy ngữ pháp TOEIC: 'Despite + V-ing' ≈ 'Although + mệnh đề'. Xem mẫu câu 'Despite…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "There was always a slight distance, to be honest. ____, I learned that a few words in the local language and a genuine willingness to listen go a long way towards building rapport.",
+        "ipa": "/ðeə wɒz ˈɔːl.weɪz ə slaɪt ˈdɪs.təns tə biː ˈɒn.ɪst ... aɪ lɜːnd ðæt ə fjuː wɜːdz ɪn ðə ˈləʊ.kəl ˈlæŋ.ɡwɪdʒ ænd ə ˈdʒen.ju.ɪn ˈwɪl.ɪŋ.nəs tə ˈlɪs.ən ɡəʊ ə lɒŋ weɪ təˈwɔːdz ˈbɪl.dɪŋ ræˈpɔːr/",
+        "vi": "Thành thật mà nói, luôn có một khoảng cách nhỏ. ____, mình học được rằng vài câu tiếng địa phương và một thiện chí lắng nghe chân thành giúp ích rất nhiều trong việc xây dựng sự ăn ý.",
+        "blanks": [
+          { "type": "knowledge", "answer": "However", "explanationVi": "Dùng trạng từ liên kết 'However' (tuy nhiên) đứng đầu câu, theo sau là dấu phẩy, để báo hiệu sự đối lập với ý 'luôn có khoảng cách' ở câu trước. Khác với 'but' (liên từ nối trong cùng câu), 'However' mở một câu mới." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "The longer we talk, the more I realise how ____ we have to be to live abroad happily. I think I'd react far worse than you did to all those unwritten rules.",
+        "ipa": "/ðə ˈlɒŋ.ɡər wiː tɔːk ðə mɔːr aɪ ˈrɪə.laɪz haʊ ... wiː hæv tə biː tə lɪv əˈbrɔːd ˈhæp.ɪ.li aɪ θɪŋk aɪd riˈækt fɑː wɜːs ðæn juː dɪd tʊ ɔːl ðəʊz ˌʌnˈrɪt.ən ruːlz/",
+        "vi": "Càng nói chuyện, mình càng nhận ra ta phải ____ đến mức nào để sống vui vẻ ở nước ngoài. Mình nghĩ mình sẽ phản ứng tệ hơn bạn nhiều trước tất cả những luật bất thành văn đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "open-minded", "explanationVi": "Dùng tính từ 'open-minded' (cởi mở) sau 'how' trong câu cảm thán/nhấn mạnh 'how + tính từ'. Cấu trúc so sánh kép 'The longer…, the more…' (càng… càng…) ở đầu câu thể hiện một nhận thức tăng dần." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Don't underestimate yourself — most people adapt better than they expect. By and large, if you approach differences with curiosity instead of judgement, you eventually stop seeing them as obstacles and start seeing them as something to ____.",
+        "ipa": "/dəʊnt ˌʌn.dərˈes.tɪ.meɪt jɔːˈself məʊst ˈpiː.pəl əˈdæpt ˈbet.ər ðæn ðeɪ ɪkˈspekt baɪ ænd lɑːdʒ ɪf juː əˈprəʊtʃ ˈdɪf.ər.ən.sɪz wɪð ˌkjʊə.riˈɒs.ə.ti ɪnˈsted ɒv ˈdʒʌdʒ.mənt juː ɪˈven.tʃu.ə.li stɒp ˈsiː.ɪŋ ðəm æz ˈɒb.stə.kəlz ænd stɑːt ˈsiː.ɪŋ ðəm æz ˈsʌm.θɪŋ tʊ .../",
+        "vi": "Đừng đánh giá thấp bản thân — đa số người ta thích nghi tốt hơn họ tưởng. Nhìn chung, nếu bạn tiếp cận khác biệt bằng sự tò mò thay vì phán xét, thì cuối cùng bạn sẽ thôi xem chúng là rào cản mà bắt đầu xem chúng là thứ đáng để ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "embrace", "explanationVi": "Dùng động từ nguyên thể 'embrace' (đón nhận nhiệt thành) sau 'something to', tạo collocation tích cực 'embrace differences'. Nó mạnh và chủ động hơn 'accept', khép lại cuộc trò chuyện bằng một thái độ cởi mở." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khái niệm 'thời gian' rất khác nhau: văn hóa 'monochronic' (Đức, Thụy Sĩ, Nhật) coi đúng giờ là tôn trọng; văn hóa 'polychronic' (nhiều nước Nam Âu, Trung Đông, Mỹ Latinh) linh hoạt hơn về giờ giấc. Hiểu điều này tránh hiểu lầm 'họ vô kỷ luật'.",
+    "Phong cách giao tiếp chia thành 'high-context' (ý ngầm, tế nhị — như Nhật, Việt Nam) và 'low-context' (nói thẳng, rõ ràng — như Đức, Hà Lan). Người nói thẳng không hề thô lỗ, và người nói vòng không hề thiếu thành thật — chỉ là quy ước khác nhau.",
+    "Khoảng cách cá nhân (personal space) và tiếp xúc cơ thể (bắt tay, ôm, hôn má) khác biệt lớn. Khi không chắc, hãy quan sát và để người bản địa chủ động trước.",
+    "Thành ngữ hữu ích: 'take it with a grain of salt' (tiếp nhận có dè dặt), 'when in Rome, do as the Romans do' (nhập gia tùy tục) — dùng đúng chỗ sẽ tạo ấn tượng tự nhiên, bản ngữ."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'Despite' kèm mệnh đề có chủ ngữ + động từ chia: SAI 'Despite I lived there' → ĐÚNG 'Despite living there' hoặc 'Although I lived there'.",
+    "Phát âm sai chữ câm: 'subtle' đọc /ˈsʌt.əl/ (b câm), 'rapport' đọc /ræˈpɔːr/ (t câm) — không đọc bật ra.",
+    "Khẳng định quá cứng nhắc khi nêu quan điểm ('Their culture is rude'). Người bản xứ thường hedging: 'It can come across as…', 'arguably', 'to a certain extent' để nghe tinh tế, không phán xét.",
+    "Lẫn 'generalise' (khái quát hóa, có thể chấp nhận khi thận trọng) với 'stereotype' (gán định kiến rập khuôn, mang tính tiêu cực) — sắc thái khác nhau rõ rệt."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về khác biệt văn hóa ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh bản xứ, có hiểu biết và quan điểm riêng về khác biệt văn hóa. Chúng ta sẽ trò chuyện kiểu tranh luận lịch sự (debate) về các chủ đề như: sự đúng giờ, giao tiếp thẳng hay vòng, khoảng cách cá nhân, cú sốc văn hóa. Hãy đưa ra quan điểm của bạn rồi mời tôi phản biện. Sau mỗi lượt nói của tôi, hãy: (1) phản hồi tự nhiên và nêu một góc nhìn mới hoặc phản biện lại tôi, (2) sửa lỗi ngữ pháp/dùng từ và gợi ý cách diễn đạt tinh tế hơn bằng tiếng Việt, (3) khuyến khích tôi dùng cách nói có sắc thái như 'I'd be inclined to say…', 'arguably', 'to a certain extent', 'I see your point, but…', cùng các cấu trúc 'although', 'despite + V-ing', 'not only… but also', 'the more… the more…'. Cuối buổi, hãy chấm trình độ của tôi theo thang CEFR và nêu 3 điểm cần cải thiện. Bắt đầu bằng quan điểm đầu tiên của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy cố tình đưa ra một nhận định mang tính định kiến (stereotype) để tôi tập phản biện một cách lịch sự.'",
+      "Thêm: 'Hãy yêu cầu tôi đóng vai bảo vệ quan điểm trái ngược với điều tôi thực sự tin (devil's advocate).' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm có hedging (làm mềm) bằng 'arguably', 'I'd be inclined to say…', 'to a certain extent' thay vì khẳng định cứng nhắc.",
+    "Tôi phản biện và đồng tình lịch sự được bằng 'I see your point, but…' và 'That's a fair point, and I'd go so far as to say…'.",
+    "Tôi dùng đúng 'Despite + V-ing' và phân biệt được 'generalise' với 'stereotype' khi nói."
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "id": "at-the-dentist",
+  "category": "services",
+  "title": "Đi nha sĩ",
+  "titleEn": "At the Dentist",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "describing", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả triệu chứng đau răng và vấn đề răng miệng bằng câu rõ ràng",
+    "Đặt lịch hẹn và hỏi về chi phí, bảo hiểm, thời gian điều trị",
+    "Hiểu và đáp lại hướng dẫn của nha sĩ trong khi khám",
+    "Dùng ngữ pháp B1 (such as, because, although, mệnh đề quan hệ which) khi nói về sức khỏe"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "vi": "cuộc hẹn (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make an appointment with the dentist for next week.",
+      "exampleVi": "Tôi muốn đặt lịch hẹn với nha sĩ vào tuần tới.",
+      "note": "Danh từ. Cụm chuẩn: 'make / book an appointment'. Đừng nhầm với 'meeting' (cuộc họp công việc).",
+      "synonyms": [
+        { "term": "booking", "ipa": "/ˈbʊk.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'đã giữ chỗ trước'. Người Anh-Anh hay dùng 'booking'; với phòng khám thì 'appointment' tự nhiên hơn." },
+        { "term": "visit", "ipa": "/ˈvɪz.ɪt/", "register": "neutral", "nuanceVi": "Nghĩa 'lần đến khám', nhấn vào buổi gặp chứ không phải việc giữ chỗ. Vd 'a routine dental visit'." }
+      ]
+    },
+    {
+      "term": "toothache",
+      "ipa": "/ˈtuːθ.eɪk/",
+      "vi": "cơn đau răng (danh từ)",
+      "register": "neutral",
+      "example": "I've had a terrible toothache since yesterday.",
+      "exampleVi": "Tôi bị đau răng dữ dội từ hôm qua.",
+      "note": "Danh từ không đếm được khi nói chung; thường đi với 'have a toothache'. Số nhiều của tooth là 'teeth'.",
+      "synonyms": [
+        { "term": "dental pain", "ipa": "/ˈden.təl peɪn/", "register": "formal", "nuanceVi": "Trang trọng, mang tính y khoa. Hợp khi điền giấy tờ hoặc nói với bác sĩ một cách chính thức." }
+      ]
+    },
+    {
+      "term": "cavity",
+      "ipa": "/ˈkæv.ə.ti/",
+      "vi": "lỗ sâu răng (danh từ)",
+      "register": "neutral",
+      "example": "The dentist found a small cavity in one of my back teeth.",
+      "exampleVi": "Nha sĩ phát hiện một lỗ sâu nhỏ ở một chiếc răng hàm.",
+      "note": "Danh từ đếm được. Đây là từ thông dụng cho 'sâu răng'. Trạng thái chung gọi là 'tooth decay'.",
+      "synonyms": [
+        { "term": "tooth decay", "ipa": "/tuːθ dɪˈkeɪ/", "register": "neutral", "nuanceVi": "Chỉ quá trình/tình trạng răng bị hỏng nói chung (không đếm được), còn 'cavity' là cái lỗ cụ thể đã hình thành." }
+      ]
+    },
+    {
+      "term": "filling",
+      "ipa": "/ˈfɪl.ɪŋ/",
+      "vi": "miếng trám răng (danh từ)",
+      "register": "neutral",
+      "example": "You'll need a filling to repair that tooth.",
+      "exampleVi": "Bạn sẽ cần trám để phục hồi chiếc răng đó.",
+      "note": "Danh từ. Động từ là 'to fill a tooth' (trám răng). 'Get a filling' = được trám một miếng."
+    },
+    {
+      "term": "to examine",
+      "ipa": "/ɪɡˈzæm.ɪn/",
+      "vi": "khám, kiểm tra (động từ)",
+      "register": "neutral",
+      "example": "The dentist will examine your teeth before deciding on treatment.",
+      "exampleVi": "Nha sĩ sẽ khám răng của bạn trước khi quyết định cách điều trị.",
+      "note": "Động từ trang trọng hơn 'check'. Danh từ liên quan: 'examination' / 'check-up' (lần khám).",
+      "synonyms": [
+        { "term": "to check", "ipa": "/tʃek/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng hơn. Vd 'Let me check your teeth.' Nghe thân thiện nhưng kém trang trọng hơn 'examine'." },
+        { "term": "to inspect", "ipa": "/ɪnˈspekt/", "register": "formal", "nuanceVi": "Nhấn vào việc 'soi xét kỹ từng chỗ'. Trang trọng, kỹ thuật; hợp khi nói về kiểm tra tỉ mỉ." }
+      ]
+    },
+    {
+      "term": "treatment",
+      "ipa": "/ˈtriːt.mənt/",
+      "vi": "việc điều trị (danh từ)",
+      "register": "neutral",
+      "example": "The treatment was painless and only took twenty minutes.",
+      "exampleVi": "Việc điều trị không đau và chỉ mất hai mươi phút.",
+      "note": "Danh từ không đếm được khi nói chung. Động từ: 'to treat' (điều trị). 'Undergo treatment' = trải qua điều trị.",
+      "synonyms": [
+        { "term": "procedure", "ipa": "/prəˈsiː.dʒər/", "register": "formal", "nuanceVi": "Nhấn vào một thủ thuật/quy trình cụ thể (vd nhổ răng, trám). Trang trọng, dùng cho từng can thiệp riêng lẻ." }
+      ]
+    },
+    {
+      "term": "painful",
+      "ipa": "/ˈpeɪn.fəl/",
+      "vi": "đau, gây đau (tính từ)",
+      "register": "neutral",
+      "example": "Chewing on that side is really painful right now.",
+      "exampleVi": "Nhai bên đó bây giờ thật sự rất đau.",
+      "note": "Tính từ. Trái nghĩa: 'painless' (không đau). Đừng nói 'I am painful' (sai) — phải nói 'It is painful' hoặc 'I am in pain'.",
+      "synonyms": [
+        { "term": "sore", "ipa": "/sɔːr/", "register": "neutral", "nuanceVi": "Nhấn 'đau âm ỉ, ê ẩm' khi chạm hoặc dùng đến. Vd 'My gums feel sore.' Nhẹ hơn 'painful'." },
+        { "term": "aching", "ipa": "/ˈeɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'đau nhức kéo dài, âm ỉ liên tục'. Hợp với cơn đau ngầm chứ không phải đau nhói." }
+      ]
+    },
+    {
+      "term": "sensitive",
+      "ipa": "/ˈsen.sə.tɪv/",
+      "vi": "nhạy cảm, ê buốt (tính từ)",
+      "register": "neutral",
+      "example": "My teeth are very sensitive to cold drinks such as iced water.",
+      "exampleVi": "Răng tôi rất ê buốt với đồ uống lạnh như nước đá.",
+      "note": "Tính từ, thường đi với 'sensitive to + thứ gì' (nóng/lạnh/ngọt). Đây là cách diễn đạt chuẩn cho 'ê buốt răng'."
+    },
+    {
+      "term": "to numb",
+      "ipa": "/nʌm/",
+      "vi": "làm tê (động từ)",
+      "register": "neutral",
+      "example": "The dentist will numb the area before drilling.",
+      "exampleVi": "Nha sĩ sẽ làm tê vùng đó trước khi khoan.",
+      "note": "Lưu ý phát âm: 'b' câm, đọc /nʌm/. Tính từ 'numb' = bị tê. Liên quan: 'anaesthetic' (thuốc tê).",
+      "synonyms": [
+        { "term": "to freeze", "ipa": "/friːz/", "register": "casual", "nuanceVi": "Cách nói đời thường của nha sĩ (đặc biệt ở Bắc Mỹ): 'I'll freeze it for you.' nghĩa là gây tê chỗ đó." }
+      ]
+    },
+    {
+      "term": "thoroughly",
+      "ipa": "/ˈθʌr.ə.li/",
+      "vi": "một cách kỹ lưỡng (trạng từ)",
+      "register": "neutral",
+      "example": "You should brush your teeth thoroughly twice a day.",
+      "exampleVi": "Bạn nên đánh răng thật kỹ hai lần mỗi ngày.",
+      "note": "Trạng từ. Bẫy phát âm: /ˈθʌr.ə.li/, KHÔNG đọc giống 'through'.",
+      "synonyms": [
+        { "term": "properly", "ipa": "/ˈprɒp.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'đúng cách, đúng kiểu' chứ không hẳn là 'kỹ đến từng chỗ'. Vd 'Brush properly.' rất tự nhiên." },
+        { "term": "carefully", "ipa": "/ˈkeə.fəl.i/", "register": "neutral", "nuanceVi": "Nhấn 'cẩn thận, nhẹ tay'. Thiên về sự thận trọng hơn là độ tỉ mỉ bao quát." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "một cách đều đặn, thường xuyên (trạng từ)",
+      "register": "neutral",
+      "example": "If you visit the dentist regularly, problems can be caught early.",
+      "exampleVi": "Nếu bạn đi khám nha sĩ đều đặn, các vấn đề có thể được phát hiện sớm.",
+      "note": "Trạng từ chỉ tần suất theo lịch đều đặn. Khác 'often' (hay, nhiều lần nhưng không nhất thiết theo lịch)."
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "khuyên, đề xuất (động từ)",
+      "register": "neutral",
+      "example": "I'd recommend a cleaning before we do anything else.",
+      "exampleVi": "Tôi khuyên nên làm sạch răng trước khi làm bất cứ điều gì khác.",
+      "note": "Đi với 'recommend + V-ing' hoặc 'recommend that + S + V'. Lưu ý: KHÔNG nói 'recommend me to do' theo kiểu Việt.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Nhẹ hơn, mang tính gợi ý chứ không khẳng định mạnh. 'recommend' nghe như lời khuyên chuyên môn đáng tin hơn." },
+        { "term": "to advise", "ipa": "/ədˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng, mang sắc thái lời khuyên của người có chuyên môn/thẩm quyền. Vd 'I'd advise you to...'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to make an appointment to [động từ / for danh từ].",
+      "use": "Đặt lịch hẹn khám với phòng khám.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to make an appointment to have my teeth checked.",
+        "I'd like to make an appointment for a cleaning this week."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự và an toàn hơn 'I want'. Đây là câu mở đầu chuẩn khi gọi điện hoặc đến quầy lễ tân phòng khám.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "I've had [triệu chứng] since/for [thời gian].",
+      "use": "Mô tả triệu chứng đã kéo dài bao lâu.",
+      "register": "neutral",
+      "examples": [
+        "I've had a sharp toothache since Monday.",
+        "I've had this pain for about three days."
+      ],
+      "explanationVi": "Dùng thì hiện tại hoàn thành ('I've had') vì cơn đau bắt đầu trong quá khứ và VẪN còn đến hiện tại. 'since' + mốc thời gian, 'for' + khoảng thời gian."
+    },
+    {
+      "pattern": "It hurts when I [động từ].",
+      "use": "Nói rõ hành động nào gây đau để nha sĩ chẩn đoán.",
+      "register": "neutral",
+      "examples": [
+        "It hurts when I chew on the right side.",
+        "It really hurts when I drink something cold."
+      ],
+      "explanationVi": "'It hurts' = nó đau (dùng cho cảm giác đau). Mệnh đề 'when I...' chỉ rõ tác nhân. Tự nhiên hơn nhiều so với chỉ nói 'My tooth is painful'."
+    },
+    {
+      "pattern": "Could you tell me how much [danh từ] will cost?",
+      "use": "Hỏi chi phí một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me how much the treatment will cost?",
+        "Could you tell me how much a filling will cost?"
+      ],
+      "explanationVi": "Đây là câu hỏi gián tiếp lịch sự — trật tự từ là 'how much it WILL cost' (không đảo như câu hỏi trực tiếp). Nhã nhặn hơn 'How much is it?'.",
+      "altOf": "asking-cost"
+    },
+    {
+      "pattern": "Is [dịch vụ] covered by [bảo hiểm]?",
+      "use": "Hỏi xem bảo hiểm có chi trả không.",
+      "register": "neutral",
+      "examples": [
+        "Is this procedure covered by my insurance?",
+        "Is the X-ray covered by the health plan?"
+      ],
+      "explanationVi": "'covered by' = được chi trả bởi. Câu rất thực dụng ở các nước có hệ thống bảo hiểm nha khoa; tránh được hóa đơn bất ngờ.",
+      "altOf": "asking-cost"
+    },
+    {
+      "pattern": "Would it be possible to [động từ] ... ?",
+      "use": "Đề nghị tế nhị (gây tê thêm, hẹn lại, làm nhẹ tay).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to numb the area a bit more?",
+        "Would it be possible to reschedule my appointment?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một điều mà người kia có thể từ chối. Nghe rất nhã nhặn và dễ được giúp.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi muốn sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, the pain started in the upper tooth, not the lower one." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi thừa nhận điều hơi ngại (lười đánh răng, sợ nha sĩ).", "example": "Honestly, I haven't been to the dentist for over two years." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Mô tả triệu chứng tăng/giảm từ từ theo thời gian.", "example": "The pain has gradually become worse over the past few days." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một tin tốt hoặc kết quả nhẹ nhõm.", "example": "Fortunately, it's only a small cavity and easy to fix." },
+    { "term": "a little", "ipa": "/ə ˈlɪt.əl/", "vi": "một chút (làm câu mềm, đỡ phóng đại)", "when": "Khi mô tả mức độ nhẹ để không nghe quá kịch tính.", "example": "It's a little sensitive when I drink cold water." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn bị đau răng vài ngày nay nên đến phòng khám nha khoa. Nha sĩ hỏi về triệu chứng, khám và tư vấn cách điều trị.",
+    "lines": [
+      {
+        "speaker": "Nha sĩ",
+        "text": "Good morning, please take a seat. So, what seems to be the problem today?",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ pliːz teɪk ə siːt səʊ wɒt siːmz tə biː ðə ˈprɒb.ləm təˈdeɪ/",
+        "vi": "Chào buổi sáng, mời bạn ngồi. Nào, hôm nay bạn gặp vấn đề gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I've had a really painful toothache ____ Monday, and honestly it has gradually become worse, particularly when I eat something cold.",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ aɪv hæd ə ˈrɪə.li ˈpeɪn.fəl ˈtuːθ.eɪk ... ˈmʌn.deɪ ænd ˈɒn.ɪst.li ɪt hæz ˈɡrædʒ.u.ə.li bɪˈkʌm wɜːs pəˈtɪk.jə.lə.li wen aɪ iːt ˈsʌm.θɪŋ kəʊld/",
+        "vi": "Chào bác sĩ. Tôi bị đau răng rất dữ dội ____ thứ Hai, và thành thật mà nói cơn đau dần dần nặng hơn, đặc biệt khi tôi ăn đồ lạnh.",
+        "blanks": [
+          { "type": "knowledge", "answer": "since", "explanationVi": "Dùng 'since' + mốc thời gian (Monday) với thì hiện tại hoàn thành 'I've had', vì cơn đau bắt đầu từ thứ Hai và vẫn còn. Nếu là khoảng thời gian thì dùng 'for'. Xem mẫu câu 'I've had ... since/for ...'." }
+        ]
+      },
+      {
+        "speaker": "Nha sĩ",
+        "text": "I see. Let me examine the area. Could you open wide for me, please? It looks like there's a small cavity ____ is causing the sensitivity.",
+        "ipa": "/aɪ siː let miː ɪɡˈzæm.ɪn ðə ˈeə.ri.ə kʊd juː ˈəʊ.pən waɪd fɔːr miː pliːz ɪt lʊks laɪk ðeəz ə smɔːl ˈkæv.ə.ti ... ɪz ˈkɔː.zɪŋ ðə ˌsen.səˈtɪv.ə.ti/",
+        "vi": "Tôi hiểu rồi. Để tôi khám vùng đó. Bạn há to giúp tôi nhé? Có vẻ như có một lỗ sâu nhỏ ____ đang gây ra cảm giác ê buốt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'a small cavity' (vật) để nối mệnh đề mô tả. Nếu nói về người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That makes sense. It really hurts when I ____ on that side. Could you tell me how much the treatment will cost, and is it covered by insurance?",
+        "ipa": "/ðæt meɪks sens ɪt ˈrɪə.li hɜːts wen aɪ ... ɒn ðæt saɪd kʊd juː tel miː haʊ mʌtʃ ðə ˈtriːt.mənt wɪl kɒst ænd ɪz ɪt ˈkʌv.əd baɪ ɪnˈʃʊə.rəns/",
+        "vi": "Vậy thì hợp lý rồi. Răng tôi đau thật sự khi tôi ____ bên đó. Bác sĩ cho tôi biết việc điều trị tốn bao nhiêu, và bảo hiểm có chi trả không ạ?",
+        "blanks": [
+          { "type": "personal", "hint": "Hành động gây đau khi bạn dùng răng đó. Ví dụ: 'chew' (nhai), 'bite' (cắn)." }
+        ]
+      },
+      {
+        "speaker": "Nha sĩ",
+        "text": "A filling is quite affordable, and although it isn't fully covered, most insurance plans cover about half of the cost. The procedure is quick and almost painless.",
+        "ipa": "/ə ˈfɪl.ɪŋ ɪz kwaɪt əˈfɔː.də.bəl ænd ɔːlˈðəʊ ɪt ˈɪz.ənt ˈfʊl.i ˈkʌv.əd məʊst ɪnˈʃʊə.rəns plænz ˈkʌv.ər əˈbaʊt hɑːf ɒv ðə kɒst ðə prəˈsiː.dʒər ɪz kwɪk ænd ˈɔːl.məʊst ˈpeɪn.ləs/",
+        "vi": "Trám răng khá phải chăng, và mặc dù không được chi trả toàn bộ, hầu hết các gói bảo hiểm chi trả khoảng một nửa chi phí. Thủ thuật nhanh và gần như không đau."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a relief. ____ it be possible to numb the area properly, because I'm quite nervous about procedures such as drilling?",
+        "ipa": "/ðæts ə rɪˈliːf ... ɪt biː ˈpɒs.ə.bəl tə nʌm ðə ˈeə.ri.ə ˈprɒp.ə.li bɪˈkɔːz aɪm kwaɪt ˈnɜː.vəs əˈbaʊt prəˈsiː.dʒəz sʌtʃ æz ˈdrɪl.ɪŋ/",
+        "vi": "Vậy thì nhẹ cả người. ____ thể làm tê kỹ vùng đó không, vì tôi khá lo lắng về các thủ thuật như khoan răng ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Would", "explanationVi": "Mẫu đề nghị lịch sự bậc cao: 'Would it be possible to...?'. Dùng khi xin một đặc ân (gây tê kỹ hơn) một cách nhã nhặn. Xem mẫu câu cùng tên ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Nha sĩ",
+        "text": "Of course, don't worry. I'll numb it completely before I start, so you won't feel any pain. I'd also recommend that you brush ____ twice a day to prevent further decay.",
+        "ipa": "/ɒv kɔːs dəʊnt ˈwʌr.i aɪl nʌm ɪt kəmˈpliːt.li bɪˈfɔːr aɪ stɑːt səʊ juː wəʊnt fiːl ˈen.i peɪn aɪd ˈɔːl.səʊ ˌrek.əˈmend ðæt juː brʌʃ ... twaɪs ə deɪ tə prɪˈvent ˈfɜː.ðər dɪˈkeɪ/",
+        "vi": "Đương nhiên rồi, đừng lo. Tôi sẽ làm tê hoàn toàn trước khi bắt đầu, nên bạn sẽ không thấy đau gì cả. Tôi cũng khuyên bạn nên đánh răng ____ hai lần mỗi ngày để ngừa sâu răng thêm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "thoroughly", "explanationVi": "Cần một TRẠNG TỪ bổ nghĩa cho động từ 'brush'. 'thoroughly' = một cách kỹ lưỡng. Lưu ý phát âm /ˈθʌr.ə.li/, không đọc như 'through'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. I'll definitely try to visit the dentist more ____ from now on so that small problems can be caught early.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ aɪl ˈdef.ɪn.ət.li traɪ tə ˈvɪz.ɪt ðə ˈden.tɪst mɔːr ... frɒm naʊ ɒn səʊ ðæt smɔːl ˈprɒb.ləmz kæn biː kɔːt ˈɜː.li/",
+        "vi": "Cảm ơn bác sĩ rất nhiều. Từ giờ tôi chắc chắn sẽ cố gắng đi khám nha sĩ ____ hơn để các vấn đề nhỏ được phát hiện sớm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "regularly", "explanationVi": "Cần một TRẠNG TỪ chỉ tần suất sau 'more'. 'regularly' = đều đặn, theo lịch. Tự nhiên hơn 'often' khi nói về việc khám định kỳ." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, khám nha khoa định kỳ 6 tháng/lần (check-up) là thông lệ, và thường được khuyến khích mạnh dù răng không đau.",
+    "Chi phí nha khoa khá cao và không phải lúc nào cũng được bảo hiểm chi trả toàn bộ; hỏi rõ 'how much it will cost' và 'covered by insurance' trước khi điều trị là hoàn toàn bình thường, không hề bất lịch sự.",
+    "Nha sĩ thường giải thích từng bước họ sẽ làm để trấn an bệnh nhân; bạn có thể chủ động nói 'I'm a bit nervous' và họ sẽ đi chậm lại.",
+    "Câu lễ tân/nha sĩ hay dùng để hỏi vấn đề là 'What seems to be the problem?' — nghe lịch sự và quan tâm hơn 'What's wrong?'."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I am painful' (sai). Phải nói 'It is painful', 'My tooth hurts' hoặc 'I am in pain'.",
+    "Dùng sai thì: 'I have a toothache since Monday' (sai). Phải dùng hiện tại hoàn thành: 'I have HAD a toothache since Monday'.",
+    "Nói 'recommend me to brush' theo kiểu tiếng Việt. Đúng là 'recommend brushing' hoặc 'recommend that you brush'.",
+    "Lẫn 'sensitive' (ê buốt, nhạy cảm) với 'sensible' (hợp lý, biết điều) — hai từ khác nghĩa hoàn toàn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi khám nha sĩ như thật.",
+    "prompt": "Hãy đóng vai một nha sĩ nói tiếng Anh. Tôi là bệnh nhân vừa đến vì bị đau răng. Hãy bắt đầu bằng cách chào và hỏi tôi gặp vấn đề gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nha sĩ thật (hỏi triệu chứng, mô tả việc khám và điều trị, trấn an tôi), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ phát hiện cần nhổ răng, hỏi về tiền sử dị ứng thuốc tê) để tôi tập xử lý. Hãy khuyến khích tôi mô tả triệu chứng bằng câu dài có 'since', 'because', 'such as'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi về tiền sử răng miệng và thói quen ăn uống một cách chi tiết hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý từ vựng nha khoa nâng cao.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được triệu chứng đau răng bằng câu dùng đúng thì hiện tại hoàn thành (I've had ... since/for ...).",
+    "Tôi hỏi được về chi phí và bảo hiểm một cách lịch sự (how much it will cost / covered by insurance).",
+    "Tôi dùng được mẫu 'Would it be possible to...?' để đề nghị nha sĩ làm tê hoặc hẹn lại."
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "id": "public-speaking",
+  "category": "advanced",
+  "title": "Nói trước đám đông",
+  "titleEn": "Public Speaking",
+  "level": "C1",
+  "functions": ["opinions", "describing", "suggesting", "small-talk"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Mở đầu và kết thúc một bài nói thu hút bằng câu phức nhiều tầng",
+    "Trình bày luận điểm mạch lạc, dẫn dắt khán giả bằng câu chuyển ý tinh tế",
+    "Xử lý hồi hộp và sự cố trên sân khấu một cách điềm tĩnh, chuyên nghiệp",
+    "Dùng idiom và sắc thái nâng cao (in order to, despite, not only… but also, mệnh đề quan hệ) khi nói",
+    "Đổi register linh hoạt giữa trang trọng và gần gũi để giữ chân khán giả"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "audience",
+      "ipa": "/ˈɔː.di.əns/",
+      "vi": "khán giả, người nghe (danh từ)",
+      "register": "neutral",
+      "example": "A skilled speaker reads the audience and adjusts accordingly.",
+      "exampleVi": "Người nói giỏi đọc được khán giả và điều chỉnh cho phù hợp.",
+      "note": "Danh từ tập hợp; ở Anh-Anh có thể đi với động từ số nhiều ('the audience were…'), Anh-Mỹ thường số ít.",
+      "synonyms": [
+        { "term": "crowd", "ipa": "/kraʊd/", "register": "casual", "nuanceVi": "Đời thường, nhấn vào 'đám đông' lớn, có thể hơi hỗn loạn; hợp với sự kiện ngoài trời, hòa nhạc hơn là hội thảo trang trọng." },
+        { "term": "spectators", "ipa": "/ˈspek.teɪ.təz/", "register": "neutral", "nuanceVi": "Nhấn 'người xem' một sự kiện trực quan (thể thao, biểu diễn); không hợp khi nói về người nghe một bài thuyết trình." },
+        { "term": "attendees", "ipa": "/əˌtenˈdiːz/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'người tham dự'; hay dùng trong văn cảnh hội nghị, sự kiện chuyên môn." }
+      ]
+    },
+    {
+      "term": "to deliver",
+      "ipa": "/dɪˈlɪv.ər/",
+      "vi": "trình bày, thể hiện (một bài nói) (động từ)",
+      "register": "neutral",
+      "example": "She delivered her keynote with remarkable poise.",
+      "exampleVi": "Cô ấy trình bày bài phát biểu chính với phong thái điềm tĩnh đáng nể.",
+      "note": "Động từ chuyên dùng: 'deliver a speech/talk/presentation'. Nhấn vào cách thể hiện chứ không chỉ nội dung.",
+      "synonyms": [
+        { "term": "to present", "ipa": "/prɪˈzent/", "register": "neutral", "nuanceVi": "Trung tính, thiên về 'trình bày nội dung'; ít gợi sắc thái phong cách sân khấu như 'deliver'." },
+        { "term": "to give", "ipa": "/ɡɪv/", "register": "casual", "nuanceVi": "Đơn giản, đời thường: 'give a talk'. An toàn nhưng kém trang trọng và kém gợi hình hơn 'deliver'." }
+      ]
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "có sức thuyết phục, cuốn hút (tính từ)",
+      "register": "formal",
+      "example": "He made a compelling case for investing in renewable energy.",
+      "exampleVi": "Anh ấy đưa ra một lập luận đầy thuyết phục cho việc đầu tư vào năng lượng tái tạo.",
+      "note": "Tính từ mạnh, nghĩa 'hấp dẫn đến mức khó cưỡng'; đi với argument, story, reason, case.",
+      "synonyms": [
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn 'có khả năng thuyết phục người khác đồng ý'; thiên về lý lẽ logic hơn là sức hút cảm xúc." },
+        { "term": "captivating", "ipa": "/ˈkæp.tɪ.veɪ.tɪŋ/", "register": "formal", "nuanceVi": "Nhấn 'mê hoặc, hút hồn' về mặt cảm xúc/thẩm mỹ; hợp khi khen một màn trình diễn lôi cuốn." },
+        { "term": "gripping", "ipa": "/ˈɡrɪp.ɪŋ/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'nắm chặt sự chú ý' (phim, truyện, bài nói); sống động nhưng kém trang trọng." }
+      ]
+    },
+    {
+      "term": "stage fright",
+      "ipa": "/steɪdʒ fraɪt/",
+      "vi": "nỗi sợ sân khấu, run khi đứng trước đám đông (danh từ)",
+      "register": "neutral",
+      "example": "Even seasoned actors occasionally suffer from stage fright.",
+      "exampleVi": "Ngay cả diễn viên kỳ cựu thỉnh thoảng vẫn bị run sân khấu.",
+      "note": "Cụm danh từ cố định; thường đi với 'suffer from / get / overcome stage fright'.",
+      "synonyms": [
+        { "term": "nerves", "ipa": "/nɜːvz/", "register": "casual", "nuanceVi": "Đời thường, số nhiều: 'I get the nerves before a talk'. Nhẹ và chung chung hơn 'stage fright'." },
+        { "term": "performance anxiety", "ipa": "/pəˈfɔː.məns æŋˈzaɪ.ə.ti/", "register": "formal", "nuanceVi": "Trang trọng, mang màu sắc tâm lý học; dùng trong văn cảnh nghiêm túc, học thuật." }
+      ]
+    },
+    {
+      "term": "to engage",
+      "ipa": "/ɪnˈɡeɪdʒ/",
+      "vi": "thu hút, lôi kéo sự tham gia của (động từ)",
+      "register": "neutral",
+      "example": "Good speakers engage their listeners with questions and stories.",
+      "exampleVi": "Người nói giỏi lôi cuốn người nghe bằng câu hỏi và câu chuyện.",
+      "note": "Động từ; 'engage the audience' = khiến khán giả chú ý và tham gia. Tính từ 'engaging' = cuốn hút.",
+      "synonyms": [
+        { "term": "to captivate", "ipa": "/ˈkæp.tɪ.veɪt/", "register": "formal", "nuanceVi": "Mạnh hơn, nghĩa 'mê hoặc hoàn toàn'; nhấn vào sức hút khó cưỡng chứ không chỉ giữ chú ý." },
+        { "term": "to connect with", "ipa": "/kəˈnekt wɪð/", "register": "neutral", "nuanceVi": "Nhấn 'tạo sự gắn kết, đồng cảm' với người nghe; ấm áp và mang tính quan hệ hơn." }
+      ]
+    },
+    {
+      "term": "concise",
+      "ipa": "/kənˈsaɪs/",
+      "vi": "súc tích, ngắn gọn mà đủ ý (tính từ)",
+      "register": "formal",
+      "example": "Try to keep your key message clear and concise.",
+      "exampleVi": "Hãy giữ cho thông điệp chính rõ ràng và súc tích.",
+      "note": "Tính từ tích cực: ngắn nhưng vẫn đầy đủ. Đừng nhầm với 'short' (chỉ đơn thuần là ngắn).",
+      "synonyms": [
+        { "term": "succinct", "ipa": "/səkˈsɪŋkt/", "register": "formal", "nuanceVi": "Đồng nghĩa rất gần, hơi văn vẻ/trang trọng hơn; nhấn 'diễn đạt gọn gàng, không thừa chữ'." },
+        { "term": "to the point", "ipa": "/tə ðə ˈpɔɪnt/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'đi thẳng vào vấn đề, không lan man'." }
+      ]
+    },
+    {
+      "term": "articulate",
+      "ipa": "/ɑːˈtɪk.jə.lət/",
+      "vi": "diễn đạt rõ ràng, lưu loát (tính từ)",
+      "register": "formal",
+      "example": "She is one of the most articulate speakers I've ever heard.",
+      "exampleVi": "Cô ấy là một trong những người nói rành mạch nhất tôi từng nghe.",
+      "note": "Là tính từ (đọc đuôi /-lət/) nghĩa 'ăn nói lưu loát'; còn là động từ (đọc đuôi /-leɪt/) nghĩa 'diễn đạt thành lời rõ ràng'.",
+      "synonyms": [
+        { "term": "eloquent", "ipa": "/ˈel.ə.kwənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn vẻ đẹp và sức lay động của lời nói; cao hơn articulate một bậc về tính nghệ thuật." },
+        { "term": "well-spoken", "ipa": "/ˌwel ˈspəʊ.kən/", "register": "neutral", "nuanceVi": "Trung tính, nhấn 'nói năng chuẩn mực, lịch thiệp'; thiên về ấn tượng tổng thể hơn là tài hùng biện." }
+      ]
+    },
+    {
+      "term": "confidently",
+      "ipa": "/ˈkɒn.fɪ.dənt.li/",
+      "vi": "một cách tự tin (trạng từ)",
+      "register": "neutral",
+      "example": "He walked onto the stage confidently and greeted the room.",
+      "exampleVi": "Anh ấy bước lên sân khấu đầy tự tin và chào cả khán phòng.",
+      "note": "Trạng từ. Đừng nhầm với 'confidentially' (một cách bí mật) — chỉ khác một âm tiết nhưng nghĩa hoàn toàn khác.",
+      "synonyms": [
+        { "term": "assertively", "ipa": "/əˈsɜː.tɪv.li/", "register": "formal", "nuanceVi": "Nhấn 'quả quyết, dứt khoát bảo vệ quan điểm'; mạnh hơn confidently và thiên về thái độ." },
+        { "term": "boldly", "ipa": "/ˈbəʊld.li/", "register": "neutral", "nuanceVi": "Nhấn 'táo bạo, dám làm điều mạo hiểm'; mang chút liều lĩnh, không chỉ là tự tin bình thản." }
+      ]
+    },
+    {
+      "term": "spontaneously",
+      "ipa": "/spɒnˈteɪ.ni.əs.li/",
+      "vi": "một cách tự phát, ứng khẩu (trạng từ)",
+      "register": "formal",
+      "example": "When the slides failed, she spontaneously turned it into a Q&A.",
+      "exampleVi": "Khi slide bị lỗi, cô ấy ứng biến ngay thành phần hỏi đáp.",
+      "note": "Trạng từ; nhấn 'không chuẩn bị trước, bột phát tự nhiên'. Phát âm bẫy ở trọng âm âm thứ hai: 'tan'.",
+      "synonyms": [
+        { "term": "off the cuff", "ipa": "/ˌɒf ðə ˈkʌf/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'ngẫu hứng, không soạn sẵn'; rất hợp văn nói." },
+        { "term": "improvising", "ipa": "/ˈɪm.prə.vaɪ.zɪŋ/", "register": "neutral", "nuanceVi": "Dạng V-ing của 'improvise'; nhấn hành động 'tùy cơ ứng biến' tại chỗ." }
+      ]
+    },
+    {
+      "term": "to rehearse",
+      "ipa": "/rɪˈhɜːs/",
+      "vi": "tập dượt, luyện trước (động từ)",
+      "register": "neutral",
+      "example": "I rehearsed my opening line dozens of times before the event.",
+      "exampleVi": "Tôi tập câu mở đầu hàng chục lần trước sự kiện.",
+      "note": "Động từ; danh từ là 'rehearsal'. Nhấn vào việc luyện tập một màn trình diễn/bài nói.",
+      "synonyms": [
+        { "term": "to practise", "ipa": "/ˈpræk.tɪs/", "register": "neutral", "nuanceVi": "Chung chung hơn, dùng cho mọi kỹ năng; 'rehearse' riêng cho màn trình diễn sẽ diễn ra trước khán giả. (Anh-Mỹ viết 'practice'.)" },
+        { "term": "to run through", "ipa": "/rʌn θruː/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'chạy lướt qua một lượt'; nhẹ nhàng hơn, ít trang trọng." }
+      ]
+    },
+    {
+      "term": "takeaway",
+      "ipa": "/ˈteɪk.ə.weɪ/",
+      "vi": "thông điệp/bài học rút ra (danh từ)",
+      "register": "neutral",
+      "example": "The key takeaway is that preparation beats talent.",
+      "exampleVi": "Bài học cốt lõi rút ra là sự chuẩn bị thắng tài năng.",
+      "note": "Danh từ; trong văn cảnh thuyết trình nghĩa 'điều đọng lại'. (Anh-Anh còn nghĩa 'đồ ăn mang về' — phân biệt theo ngữ cảnh.)",
+      "synonyms": [
+        { "term": "key message", "ipa": "/kiː ˈmes.ɪdʒ/", "register": "neutral", "nuanceVi": "Nhấn 'thông điệp chính người nói muốn truyền tải'; hơi thiên về phía người nói hơn là phía người nghe." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to begin by [V-ing], in order to [mục đích].",
+      "use": "Mở đầu bài nói và nêu ngay mục đích để định hướng khán giả.",
+      "register": "formal",
+      "examples": [
+        "I'd like to begin by sharing a short story, in order to show you why this issue matters to all of us."
+      ],
+      "explanationVi": "'in order to' nêu mục đích trang trọng hơn 'to' đơn lẻ và làm câu nghe có chủ đích. Mở đầu bằng câu chuyện luôn cuốn hút hơn vào thẳng số liệu.",
+      "altOf": "opening-a-talk"
+    },
+    {
+      "pattern": "Let me start with a question: [câu hỏi]?",
+      "use": "Mở đầu bằng câu hỏi để kéo khán giả vào cuộc ngay lập tức.",
+      "register": "neutral",
+      "examples": [
+        "Let me start with a question: how many of you have ever frozen completely in front of a crowd?"
+      ],
+      "explanationVi": "Mở đầu bằng câu hỏi tu từ kích thích khán giả tự liên hệ bản thân; nhẹ nhàng và gần gũi hơn cách mở trang trọng, hợp khi muốn tạo không khí thân mật.",
+      "altOf": "opening-a-talk"
+    },
+    {
+      "pattern": "This brings me to my next point, which is [danh từ/mệnh đề].",
+      "use": "Chuyển ý mượt mà từ luận điểm này sang luận điểm khác.",
+      "register": "formal",
+      "examples": [
+        "This brings me to my next point, which is how we can rebuild trust with our customers."
+      ],
+      "explanationVi": "'which' mở mệnh đề quan hệ không xác định, giúp nối ý liền mạch. Câu chuyển ý rõ ràng giúp khán giả không bị lạc, một dấu hiệu của người nói chuyên nghiệp.",
+      "altOf": "signposting"
+    },
+    {
+      "pattern": "Having covered [ý 1], let's now turn to [ý 2].",
+      "use": "Khép lại một phần và mở sang phần tiếp theo.",
+      "register": "formal",
+      "examples": [
+        "Having covered the causes of the problem, let's now turn to some practical solutions."
+      ],
+      "explanationVi": "Mệnh đề phân từ 'Having + V3' (= sau khi đã…) là cấu trúc C1 sang trọng, súc tích, thay cho 'Now that we have covered…'. Tạo cảm giác mạch lạc, có cấu trúc.",
+      "altOf": "signposting"
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], I'd argue that [mệnh đề].",
+      "use": "Nêu quan điểm ngược lại một cách điềm tĩnh, có cân nhắc.",
+      "register": "formal",
+      "examples": [
+        "Despite the obvious risks, I'd argue that doing nothing would cost us far more."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG theo sau bởi mệnh đề có chủ ngữ + động từ chia). 'I'd argue that' làm quan điểm nghe có lý lẽ, khiêm tốn mà vẫn vững."
+    },
+    {
+      "pattern": "To wrap up, the key takeaway is that [mệnh đề].",
+      "use": "Kết bài bằng cách chốt lại thông điệp cốt lõi.",
+      "register": "neutral",
+      "examples": [
+        "To wrap up, the key takeaway is that confidence comes from preparation, not from talent."
+      ],
+      "explanationVi": "'To wrap up' (= tóm lại) báo hiệu phần kết, giúp khán giả tập trung lần cuối. Một câu chốt rõ ràng khiến bài nói đọng lại lâu hơn."
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh một điều mang lại nhiều hơn một lợi ích.",
+      "register": "formal",
+      "examples": [
+        "Not only does storytelling capture attention, but it also makes your message far easier to remember."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu kéo theo trợ động từ ('does') lên trước chủ ngữ. Cấu trúc nâng cao gây ấn tượng — phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một thừa nhận chân thành để tạo sự gần gũi với khán giả.", "example": "Honestly, the first time I gave a talk, my hands were shaking." },
+    { "term": "essentially", "ipa": "/ɪˈsen.ʃəl.i/", "vi": "về cơ bản, nói gọn lại", "when": "Tóm tắt một ý phức tạp thành cốt lõi dễ hiểu.", "example": "Essentially, what I'm saying is that the audience comes first." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần, từ từ", "when": "Mô tả một sự thay đổi diễn ra qua thời gian, ví dụ sự tiến bộ.", "example": "Gradually, the nerves faded and I started to enjoy myself." },
+    { "term": "for instance", "ipa": "/fɔːr ˈɪn.stəns/", "vi": "ví dụ như", "when": "Đưa ra một ví dụ minh họa cụ thể cho luận điểm.", "example": "Take great leaders, for instance: most of them are excellent storytellers." },
+    { "term": "more importantly", "ipa": "/mɔːr ɪmˈpɔː.tənt.li/", "vi": "quan trọng hơn là", "when": "Nâng cấp một ý lên thành điểm quan trọng nhất.", "example": "It saves time and, more importantly, it builds real trust." },
+    { "term": "at the end of the day", "ipa": "/ət ðə end əv ðə ˈdeɪ/", "vi": "suy cho cùng thì", "when": "Chốt lại một kết luận thực tế sau khi đã bàn nhiều khía cạnh.", "example": "At the end of the day, people remember how you made them feel." }
+  ],
+
+  "dialogue": {
+    "context": "Một huấn luyện viên thuyết trình (coach) đang kèm bạn chuẩn bị cho bài phát biểu sắp tới trước hàng trăm khán giả. Họ trao đổi về cách mở bài, xử lý hồi hộp và chốt thông điệp.",
+    "lines": [
+      {
+        "speaker": "Huấn luyện viên",
+        "text": "So, the big day is almost here. Before we polish the details, tell me honestly: what worries you the most about standing in front of such a large audience?",
+        "ipa": "/səʊ ðə bɪɡ deɪ ɪz ˈɔːl.məʊst hɪər bɪˈfɔːr wiː ˈpɒl.ɪʃ ðə ˈdiː.teɪlz tel miː ˈɒn.ɪst.li wɒt ˈwʌr.iz juː ðə məʊst əˈbaʊt ˈstæn.dɪŋ ɪn frʌnt əv sʌtʃ ə lɑːdʒ ˈɔː.di.əns/",
+        "vi": "Vậy là ngày trọng đại sắp đến rồi. Trước khi chúng ta gọt giũa chi tiết, hãy nói thật với tôi: điều gì khiến bạn lo nhất khi đứng trước một khán giả đông như vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, my biggest fear is ____, which tends to hit me the moment I see all those faces staring back at me. Although I've rehearsed the content thoroughly, I'm afraid my mind will simply go blank.",
+        "ipa": "/ˈɒn.ɪst.li maɪ ˈbɪɡ.ɪst fɪər ɪz ... wɪtʃ tendz tə hɪt miː ðə ˈməʊ.mənt aɪ siː ɔːl ðəʊz ˈfeɪs.ɪz ˈsteə.rɪŋ bæk ət miː ɔːlˈðəʊ aɪv rɪˈhɜːst ðə ˈkɒn.tent ˈθʌr.ə.li aɪm əˈfreɪd maɪ maɪnd wɪl ˈsɪm.pli ɡəʊ blæŋk/",
+        "vi": "Thành thật mà nói, nỗi sợ lớn nhất của tôi là ____, thường ập đến đúng khoảnh khắc tôi nhìn thấy ngần ấy gương mặt đang chăm chú nhìn lại. Dù tôi đã tập kỹ phần nội dung, tôi vẫn sợ đầu óc sẽ trống rỗng hoàn toàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "stage fright", "explanationVi": "'stage fright' là cụm danh từ cố định chỉ nỗi run khi đứng trước đám đông; hợp ngay sau 'my biggest fear is'. Xem mục Từ vựng để biết các từ thay thế như 'nerves'." }
+        ]
+      },
+      {
+        "speaker": "Huấn luyện viên",
+        "text": "That's completely normal — even the most experienced speakers feel it. The trick is to channel that nervous energy rather than fight it. May I ask how you're planning to open the talk?",
+        "ipa": "/ðæts kəmˈpliːt.li ˈnɔː.məl ˈiː.vən ðə məʊst ɪkˈspɪə.ri.ənst ˈspiː.kəz fiːl ɪt ðə trɪk ɪz tə ˈtʃæn.əl ðæt ˈnɜː.vəs ˈen.ə.dʒi ˈrɑː.ðər ðæn faɪt ɪt meɪ aɪ ɑːsk haʊ jɔːr ˈplæn.ɪŋ tə ˈəʊ.pən ðə tɔːk/",
+        "vi": "Điều đó hoàn toàn bình thường — ngay cả những diễn giả dày dạn nhất cũng cảm thấy thế. Bí quyết là dẫn dắt nguồn năng lượng hồi hộp ấy thay vì chống lại nó. Tôi hỏi nhé, bạn định mở đầu bài nói thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd like to begin by sharing a personal story ____ order to make the topic feel real, instead of opening with dry statistics. The story is about ____, and I think it will help the audience connect with me straight away.",
+        "ipa": "/aɪd laɪk tə bɪˈɡɪn baɪ ˈʃeə.rɪŋ ə ˈpɜː.sən.əl ˈstɔː.ri ... ˈɔː.dər tə meɪk ðə ˈtɒp.ɪk fiːl rɪəl ɪnˈsted əv ˈəʊ.pən.ɪŋ wɪð draɪ stəˈtɪs.tɪks ðə ˈstɔː.ri ɪz əˈbaʊt ... ænd aɪ θɪŋk ɪt wɪl help ðə ˈɔː.di.əns kəˈnekt wɪð miː streɪt əˈweɪ/",
+        "vi": "Tôi muốn mở đầu bằng cách kể một câu chuyện cá nhân ____ làm cho chủ đề trở nên gần gũi, thay vì mở màn bằng những con số khô khan. Câu chuyện về ____, và tôi nghĩ nó sẽ giúp khán giả kết nối với tôi ngay lập tức.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in", "explanationVi": "Cụm 'in order to' (= để, nhằm) nêu mục đích trang trọng; chỗ trống điền 'in'. Xem mẫu câu 'I'd like to begin by V-ing, in order to…'." },
+          { "type": "personal", "hint": "Chủ đề câu chuyện cá nhân của bạn. Ví dụ: 'the day I failed my first presentation'." }
+        ]
+      },
+      {
+        "speaker": "Huấn luyện viên",
+        "text": "Excellent instinct. A story not only grabs attention but also makes your message memorable. Now, what about the structure in the middle? How will you guide them from one idea to the next?",
+        "ipa": "/ˈek.səl.ənt ˈɪn.stɪŋkt ə ˈstɔː.ri nɒt ˈəʊn.li ɡræbz əˈten.ʃən bʌt ˈɔːl.səʊ meɪks jɔːr ˈmes.ɪdʒ ˈmem.ər.ə.bəl naʊ wɒt əˈbaʊt ðə ˈstrʌk.tʃər ɪn ðə ˈmɪd.əl haʊ wɪl juː ɡaɪd ðəm frʌm wʌn aɪˈdɪər tə ðə nekst/",
+        "vi": "Bản năng tốt đấy. Một câu chuyện không chỉ thu hút sự chú ý mà còn khiến thông điệp dễ nhớ. Giờ thì phần cấu trúc ở giữa thì sao? Bạn sẽ dẫn dắt họ từ ý này sang ý kế tiếp ra sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'll use clear signposting, such as \"this brings me to my next point\", so that nobody gets lost. ____ the topic is fairly complex, I'll keep each section concise and summarize it before moving on.",
+        "ipa": "/aɪl juːz klɪər ˈsaɪn.pəʊs.tɪŋ sʌtʃ æz ðɪs brɪŋz miː tə maɪ nekst pɔɪnt səʊ ðæt ˈnəʊ.bɒ.di ɡets lɒst ... ðə ˈtɒp.ɪk ɪz ˈfeə.li ˈkɒm.pleks aɪl kiːp iːtʃ ˈsek.ʃən kənˈsaɪs ænd ˈsʌm.ə.raɪz ɪt bɪˈfɔːr ˈmuː.vɪŋ ɒn/",
+        "vi": "Tôi sẽ dùng các câu chuyển ý rõ ràng, ví dụ như \"điều này dẫn tôi tới ý tiếp theo\", để không ai bị lạc. ____ chủ đề khá phức tạp, tôi sẽ giữ mỗi phần thật súc tích và tóm tắt lại trước khi chuyển tiếp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' (= mặc dù) mở mệnh đề nhượng bộ: dù phức tạp nhưng vẫn giữ súc tích. Theo sau là mệnh đề đầy đủ (chủ ngữ + động từ), khác với 'Despite' (theo sau là danh từ/V-ing)." }
+        ]
+      },
+      {
+        "speaker": "Huấn luyện viên",
+        "text": "Perfect. And if something goes wrong on the day — say, the projector fails or you lose your place — how will you handle it without panicking?",
+        "ipa": "/ˈpɜː.fekt ænd ɪf ˈsʌm.θɪŋ ɡəʊz rɒŋ ɒn ðə deɪ seɪ ðə prəˈdʒek.tər feɪlz ɔːr juː luːz jɔːr pleɪs haʊ wɪl juː ˈhæn.dəl ɪt wɪðˈaʊt ˈpæn.ɪk.ɪŋ/",
+        "vi": "Hoàn hảo. Và nếu hôm đó có trục trặc — chẳng hạn máy chiếu hỏng hoặc bạn quên mất đang nói đến đâu — bạn sẽ xử lý thế nào mà không hoảng loạn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Despite the pressure, I'll try to stay calm, take a deep breath, and perhaps respond ____, maybe by turning the glitch into a light joke. After all, the audience, ____ are mostly there to support me, will forgive a small slip far more easily than I fear.",
+        "ipa": "/dɪsˈpaɪt ðə ˈpreʃ.ər aɪl traɪ tə steɪ kɑːm teɪk ə diːp breθ ænd pəˈhæps rɪˈspɒnd ... ˈmeɪ.bi baɪ ˈtɜː.nɪŋ ðə ɡlɪtʃ ˈɪn.tə ə laɪt dʒəʊk ˈɑːf.tər ɔːl ðə ˈɔː.di.əns ... ɑːr ˈməʊst.li ðeər tə səˈpɔːt miː wɪl fəˈɡɪv ə smɔːl slɪp fɑːr mɔːr ˈiː.zəl.i ðæn aɪ fɪər/",
+        "vi": "Dù áp lực, tôi sẽ cố giữ bình tĩnh, hít một hơi thật sâu, và có lẽ phản ứng ____, ví dụ biến sự cố thành một câu đùa nhẹ. Suy cho cùng, khán giả, ____ phần lớn đến để ủng hộ tôi, sẽ bỏ qua một lỗi nhỏ dễ dàng hơn nhiều so với tôi tưởng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "spontaneously", "explanationVi": "Cần một trạng từ chỉ cách phản ứng tại chỗ, không chuẩn bị trước: 'spontaneously' (ứng khẩu). Trạng từ bổ nghĩa cho động từ 'respond'." },
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' cho người ('the audience') để mở mệnh đề mô tả không xác định. Nếu là vật thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Huấn luyện viên",
+        "text": "Beautifully put. One last thing: how do you intend to close? Remember, people tend to remember the very last sentence the most.",
+        "ipa": "/ˈbjuː.tɪ.fəl.i pʊt wʌn lɑːst θɪŋ haʊ duː juː ɪnˈtend tə kləʊz rɪˈmem.bər ˈpiː.pəl tend tə rɪˈmem.bər ðə ˈver.i lɑːst ˈsen.təns ðə məʊst/",
+        "vi": "Diễn đạt hay lắm. Một điều cuối: bạn định kết bài ra sao? Nhớ rằng người ta thường nhớ câu cuối cùng nhất."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "To wrap up, I'll return to my opening story and end with a single, clear takeaway, which is that confidence comes from preparation rather than talent. At the end of the day, I want them to leave feeling ____ to give it a try themselves.",
+        "ipa": "/tə ræp ʌp aɪl rɪˈtɜːn tə maɪ ˈəʊ.pən.ɪŋ ˈstɔː.ri ænd end wɪð ə ˈsɪŋ.ɡəl klɪər ˈteɪk.ə.weɪ wɪtʃ ɪz ðæt ˈkɒn.fɪ.dəns kʌmz frʌm ˌprep.əˈreɪ.ʃən ˈrɑː.ðər ðæn ˈtæl.ənt ət ðə end əv ðə deɪ aɪ wɒnt ðəm tə liːv ˈfiː.lɪŋ ... tə ɡɪv ɪt ə traɪ ðəmˈselvz/",
+        "vi": "Để khép lại, tôi sẽ quay về câu chuyện mở đầu và kết bằng một thông điệp duy nhất, rõ ràng, đó là sự tự tin đến từ chuẩn bị chứ không phải tài năng. Suy cho cùng, tôi muốn họ ra về với cảm giác ____ để tự mình thử sức.",
+        "blanks": [
+          { "type": "personal", "hint": "Cảm xúc/trạng thái bạn muốn khơi gợi nơi khán giả. Ví dụ: 'inspired', 'motivated', 'empowered'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Văn hóa thuyết trình phương Tây đề cao việc kể chuyện (storytelling) và sự chân thành hơn là phô diễn từ ngữ hoa mỹ; một câu chuyện cá nhân thường thuyết phục hơn một loạt số liệu.",
+    "Giao tiếp bằng mắt (eye contact) đều khắp khán phòng được coi là dấu hiệu của sự tự tin và đáng tin cậy, khác với một số văn hóa Á Đông nơi nhìn thẳng có thể bị xem là thiếu khiêm tốn.",
+    "Mở đầu hoặc xen kẽ một chút hài hước (humour) được đánh giá cao, nhưng nên nhẹ nhàng, tránh đùa về chủ đề nhạy cảm (tôn giáo, chính trị, ngoại hình).",
+    "Phần hỏi đáp (Q&A) cuối bài rất quan trọng; trả lời 'That's a great question' để có thời gian suy nghĩ là thông lệ được chấp nhận, không bị coi là né tránh."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'Despite' với 'Although': 'Despite' + danh từ/V-ing ('Despite the pressure'), còn 'Although' + mệnh đề đầy đủ ('Although it was difficult').",
+    "Đảo ngữ sai với 'Not only…': phải đảo trợ động từ — 'Not only DOES a story grab attention…', không phải 'Not only a story grabs…'.",
+    "Lẫn 'confidently' (tự tin) với 'confidentially' (một cách bí mật) — chỉ khác một âm tiết nhưng nghĩa hoàn toàn khác.",
+    "Nói quá dài dòng, lan man. Người bản xứ chuộng sự 'concise' (súc tích); hãy tóm ý chính rồi mới triển khai."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng nói trước đám đông như có một huấn luyện viên thật.",
+    "prompt": "Hãy đóng vai một huấn luyện viên thuyết trình nói tiếng Anh, đang kèm tôi chuẩn bị cho một bài phát biểu trước đám đông về chủ đề mà tôi sẽ nêu. Hãy hỏi từng bước một: cách mở bài, cách triển khai luận điểm và chuyển ý, cách xử lý hồi hộp và sự cố, và cách kết bài. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một huấn luyện viên thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt trôi chảy, tinh tế hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu phức với 'in order to', 'despite', 'although', 'not only… but also' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng tạo một tình huống bất ngờ (slide hỏng, bị hỏi một câu khó) để tôi tập ứng biến. Cuối buổi, chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một khán giả khó tính và đặt cho tôi vài câu hỏi phản biện gai góc trong phần Q&A.'",
+      "Thêm: 'Hãy yêu cầu tôi ứng khẩu (off the cuff) một bài nói 2 phút về một chủ đề bạn chọn ngẫu nhiên.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở và kết được một bài nói bằng câu phức nhiều tầng, không nhìn gợi ý.",
+    "Tôi dùng đúng 'in order to', 'despite/although' và mệnh đề quan hệ 'which/who' khi nói.",
+    "Tôi giữ được bình tĩnh và ứng biến khi mô tả một sự cố bất ngờ trên sân khấu."
+  ]
+}

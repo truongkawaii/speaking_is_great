@@ -1,0 +1,402 @@
+{
+  "id": "asking-for-help",
+  "category": "daily-life",
+  "title": "Nhờ giúp đỡ",
+  "titleEn": "Asking for Help",
+  "level": "B1",
+  "functions": ["requesting", "asking-info", "apologizing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Nhờ người khác giúp một việc cụ thể bằng câu lịch sự, tự nhiên",
+    "Mở đầu lời nhờ một cách tế nhị (xin lỗi đã làm phiền, hỏi xem họ có rảnh không)",
+    "Giải thích lý do vì sao bạn cần giúp đỡ bằng câu có mệnh đề phụ",
+    "Cảm ơn và đáp lại lời từ chối/đồng ý một cách lịch thiệp",
+    "Dùng các mẫu nhờ vả ở nhiều mức trang trọng khác nhau cho đúng ngữ cảnh"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "favour",
+      "ipa": "/ˈfeɪ.vər/",
+      "vi": "việc nhờ vả, ân huệ (danh từ)",
+      "register": "neutral",
+      "example": "Could you do me a favour and watch my bag for a minute?",
+      "exampleVi": "Bạn giúp mình một việc, trông cái túi giúp mình một phút được không?",
+      "note": "Danh từ. Cụm cố định: 'do somebody a favour' = giúp ai một việc. Anh-Mỹ viết là 'favor'.",
+      "synonyms": [
+        { "term": "hand", "ipa": "/hænd/", "register": "casual", "nuanceVi": "Đời thường, trong cụm 'give somebody a hand' = phụ một tay. Nghe thân mật, nhẹ nhàng hơn 'favour'." }
+      ]
+    },
+    {
+      "term": "to assist",
+      "ipa": "/əˈsɪst/",
+      "vi": "hỗ trợ, giúp đỡ (động từ)",
+      "register": "formal",
+      "example": "A staff member kindly assisted me with my luggage.",
+      "exampleVi": "Một nhân viên đã ân cần giúp tôi mang hành lý.",
+      "note": "Động từ trang trọng hơn 'help'. Đi với 'assist somebody with something'. Danh từ: assistance.",
+      "synonyms": [
+        { "term": "to help out", "ipa": "/help aʊt/", "register": "casual", "nuanceVi": "Phrasal verb đời thường, nghĩa 'giúp một tay khi cần'. Thân mật, hợp bạn bè hơn." },
+        { "term": "to lend a hand", "ipa": "/lend ə hænd/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'phụ giúp'. Nghe gần gũi, thường dùng cho việc tay chân." }
+      ]
+    },
+    {
+      "term": "to manage",
+      "ipa": "/ˈmæn.ɪdʒ/",
+      "vi": "tự xoay xở, làm được (động từ)",
+      "register": "neutral",
+      "example": "Thanks, but I think I can manage on my own.",
+      "exampleVi": "Cảm ơn, nhưng mình nghĩ mình tự xoay xở được.",
+      "note": "Động từ. 'manage to + V' = cố gắng làm được điều khó. Dùng khi muốn lịch sự từ chối sự giúp đỡ.",
+      "synonyms": [
+        { "term": "to cope", "ipa": "/kəʊp/", "register": "neutral", "nuanceVi": "Nhấn 'đối phó được với khó khăn/áp lực'. Đi với 'cope with something'." },
+        { "term": "to handle", "ipa": "/ˈhæn.dəl/", "register": "neutral", "nuanceVi": "Nhấn 'tự kiểm soát, xử lý được'. Vd 'I can handle it.' nghe tự tin." }
+      ]
+    },
+    {
+      "term": "to bother",
+      "ipa": "/ˈbɒð.ər/",
+      "vi": "làm phiền (động từ)",
+      "register": "neutral",
+      "example": "Sorry to bother you, but could I ask a quick question?",
+      "exampleVi": "Xin lỗi đã làm phiền, nhưng mình hỏi nhanh một câu được không?",
+      "note": "Động từ. Cụm mở đầu lịch sự rất thông dụng: 'Sorry to bother you, but...'. Cũng có nghĩa 'bận tâm'.",
+      "synonyms": [
+        { "term": "to trouble", "ipa": "/ˈtrʌb.əl/", "register": "formal", "nuanceVi": "Trang trọng hơn, vd 'Sorry to trouble you.' Nghe lịch sự, hơi khách sáo." },
+        { "term": "to disturb", "ipa": "/dɪˈstɜːb/", "register": "formal", "nuanceVi": "Nhấn 'cắt ngang, quấy rầy lúc người ta đang bận'. Vd 'I don't want to disturb you.'" }
+      ]
+    },
+    {
+      "term": "to struggle",
+      "ipa": "/ˈstrʌɡ.əl/",
+      "vi": "chật vật, vất vả (động từ)",
+      "register": "neutral",
+      "example": "I'm struggling to carry all these boxes by myself.",
+      "exampleVi": "Mình đang chật vật mang hết đống thùng này một mình.",
+      "note": "Động từ. 'struggle to + V' / 'struggle with something' = gặp khó khăn khi làm gì. Dùng để giải thích vì sao cần giúp."
+    },
+    {
+      "term": "grateful",
+      "ipa": "/ˈɡreɪt.fəl/",
+      "vi": "biết ơn (tính từ)",
+      "register": "neutral",
+      "example": "I'd be really grateful if you could help me with this.",
+      "exampleVi": "Mình sẽ rất biết ơn nếu bạn giúp mình việc này.",
+      "note": "Tính từ. Cụm rất 'ăn điểm': 'I'd be grateful if you could...'. Đi với 'grateful for something / to somebody'.",
+      "synonyms": [
+        { "term": "thankful", "ipa": "/ˈθæŋk.fəl/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhưng nhấn cảm giác nhẹ nhõm/may mắn hơn là mang ơn ai cụ thể." },
+        { "term": "indebted", "ipa": "/ɪnˈdet.ɪd/", "register": "formal", "nuanceVi": "Rất trang trọng, nghĩa 'mang ơn sâu sắc'. Dùng khi ai đó giúp việc lớn." }
+      ]
+    },
+    {
+      "term": "willing",
+      "ipa": "/ˈwɪl.ɪŋ/",
+      "vi": "sẵn lòng (tính từ)",
+      "register": "neutral",
+      "example": "She was more than willing to show me the way.",
+      "exampleVi": "Cô ấy rất sẵn lòng chỉ đường cho mình.",
+      "note": "Tính từ. Đi với 'willing to + V'. 'more than willing' = cực kỳ sẵn lòng.",
+      "synonyms": [
+        { "term": "happy", "ipa": "/ˈhæp.i/", "register": "casual", "nuanceVi": "Đời thường: 'I'm happy to help.' = mình vui lòng giúp. Nghe thân thiện, ấm áp." },
+        { "term": "glad", "ipa": "/ɡlæd/", "register": "neutral", "nuanceVi": "Tương tự 'happy', vd 'I'd be glad to.' Nhấn sự vui lòng khi được giúp." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "It's not urgent, so please take your time.",
+      "exampleVi": "Việc không gấp đâu, nên bạn cứ từ từ.",
+      "note": "Tính từ. Hữu ích để cho người giúp biết mức độ ưu tiên. Trạng từ: urgently.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'cấp bách, cần xử lý ngay'. Vd 'a pressing matter'." }
+      ]
+    },
+    {
+      "term": "kindly",
+      "ipa": "/ˈkaɪnd.li/",
+      "vi": "một cách tử tế / vui lòng (trạng từ)",
+      "register": "formal",
+      "example": "A stranger kindly helped me find the station.",
+      "exampleVi": "Một người lạ đã tử tế giúp mình tìm nhà ga.",
+      "note": "Trạng từ. Khi đứng trước động từ trong lời nhờ ('Could you kindly...?') nghe rất lịch sự, hơi trang trọng.",
+      "synonyms": [
+        { "term": "graciously", "ipa": "/ˈɡreɪ.ʃəs.li/", "register": "formal", "nuanceVi": "Rất trang trọng, nhấn 'nhã nhặn, hào phóng'. Ít dùng trong đời thường." }
+      ]
+    },
+    {
+      "term": "straight away",
+      "ipa": "/ˌstreɪt əˈweɪ/",
+      "vi": "ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "Don't worry, I'll deal with it straight away.",
+      "exampleVi": "Đừng lo, mình sẽ xử lý ngay.",
+      "note": "Cụm trạng từ chỉ thời gian, nghĩa 'ngay tức thì'. Anh-Anh hay dùng; Anh-Mỹ nói 'right away'.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Trung tính, hơi trang trọng hơn. Phù hợp cả văn nói lẫn viết." },
+        { "term": "right away", "ipa": "/ˌraɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, kiểu Anh-Mỹ, nghĩa y hệt 'straight away'." }
+      ]
+    },
+    {
+      "term": "to figure out",
+      "ipa": "/ˈfɪɡ.ər aʊt/",
+      "vi": "tìm ra cách, hiểu ra (động từ)",
+      "register": "casual",
+      "example": "I can't figure out how to fill in this form.",
+      "exampleVi": "Mình không hiểu ra cách điền cái mẫu này.",
+      "note": "Phrasal verb đời thường. Dùng để nói bạn đang loay hoay chưa biết làm và cần giúp."
+    },
+    {
+      "term": "instructions",
+      "ipa": "/ɪnˈstrʌk.ʃənz/",
+      "vi": "hướng dẫn (danh từ)",
+      "register": "neutral",
+      "example": "Could you explain the instructions again, please?",
+      "exampleVi": "Bạn giải thích lại phần hướng dẫn giúp mình được không?",
+      "note": "Danh từ, thường dùng số nhiều. Đi với 'follow the instructions' = làm theo hướng dẫn.",
+      "synonyms": [
+        { "term": "directions", "ipa": "/dəˈrek.ʃənz/", "register": "neutral", "nuanceVi": "Nghiêng về 'chỉ dẫn đường đi' hoặc các bước làm. Vd 'ask for directions' = hỏi đường." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you (possibly) help me [V] ... ?",
+      "use": "Nhờ giúp một việc cụ thể một cách lịch sự, trung tính.",
+      "register": "neutral",
+      "examples": [
+        "Could you help me carry these bags upstairs?",
+        "Could you possibly help me move this table?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Thêm 'possibly' làm câu nghe khiêm tốn, đỡ áp đặt. Đây là mẫu nhờ vả xương sống.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "Would you mind [V-ing] ... ?",
+      "use": "Nhờ một việc một cách tế nhị, để người ta dễ từ chối nếu bận.",
+      "register": "neutral",
+      "examples": [
+        "Would you mind helping me with this report?",
+        "Would you mind keeping an eye on my laptop for a moment?"
+      ],
+      "explanationVi": "Sau 'Would you mind' phải dùng V-ing. Lưu ý: trả lời 'No' nghĩa là ĐỒNG Ý (không phiền gì). Mẫu này nghe rất nhã nhặn.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "I was wondering if you could [V] ... .",
+      "use": "Mở lời nhờ vả một cách rất lịch sự, hơi rào trước.",
+      "register": "formal",
+      "examples": [
+        "I was wondering if you could give me a hand with the printer.",
+        "I was wondering if you could explain this part to me."
+      ],
+      "explanationVi": "Dùng thì quá khứ 'was wondering' tuy đang nói ở hiện tại — đây là 'thì lùi' khiến lời nhờ nghe nhẹ nhàng, lịch sự hơn. Rất hợp khi nhờ người chưa thân.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "Sorry to bother you, but [mệnh đề / lời nhờ].",
+      "use": "Mở đầu lời nhờ khi sợ làm phiền người đang bận.",
+      "register": "neutral",
+      "examples": [
+        "Sorry to bother you, but do you know where the lift is?",
+        "Sorry to bother you, but could I ask for some help?"
+      ],
+      "explanationVi": "Câu mở đầu xin lỗi trước cho thấy bạn ý thức mình đang chen ngang. Nghe rất lịch sự và là thói quen của người bản xứ."
+    },
+    {
+      "pattern": "I'd be grateful if you could [V].",
+      "use": "Nhấn mạnh sự biết ơn để lời nhờ thêm trọng lượng và lịch sự.",
+      "register": "formal",
+      "examples": [
+        "I'd be grateful if you could reply by tomorrow.",
+        "I'd really be grateful if you could show me how it works."
+      ],
+      "explanationVi": "'I'd be grateful if...' = mình sẽ biết ơn nếu... Đây là câu điều kiện lịch sự, đặc biệt hợp khi nhờ qua email hay nhờ việc hơi lớn."
+    },
+    {
+      "pattern": "Do you think you could [V] ... ?",
+      "use": "Nhờ vả một cách mềm mỏng, như đang hỏi ý người ta.",
+      "register": "casual",
+      "examples": [
+        "Do you think you could lend me your charger?",
+        "Do you think you could check this email for me?"
+      ],
+      "explanationVi": "Diễn đạt lời nhờ thành một câu hỏi ý kiến nên nghe nhẹ và thân thiện. Hợp với bạn bè, đồng nghiệp thân.",
+      "altOf": "asking-favour"
+    },
+    {
+      "pattern": "Thanks anyway. / No worries, I'll [V].",
+      "use": "Đáp lại lịch sự khi người ta không giúp được, để không khí vẫn dễ chịu.",
+      "register": "casual",
+      "examples": [
+        "Thanks anyway, I'll figure it out.",
+        "No worries, I'll ask someone else."
+      ],
+      "explanationVi": "'Thanks anyway' = dù sao cũng cảm ơn (khi họ không giúp được). 'No worries' = không sao đâu. Hai câu này giúp giữ thái độ lịch thiệp, không gượng gạo."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì...",
+      "when": "Khi nhẹ nhàng nói ra điều cần nhờ, hoặc đính chính một chút.",
+      "example": "Actually, I could use a bit of help with this."
+    },
+    {
+      "term": "if it's not too much trouble",
+      "ipa": "/ɪf ɪts nɒt tuː mʌtʃ ˈtrʌb.əl/",
+      "vi": "nếu không quá phiền",
+      "when": "Chèn vào cuối lời nhờ để nghe khiêm tốn, để đường cho người ta từ chối.",
+      "example": "Could you give me a lift home, if it's not too much trouble?"
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói",
+      "when": "Khi thừa nhận bạn đang gặp khó và thật sự cần giúp.",
+      "example": "Honestly, I have no idea how to fix this."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːs/",
+      "vi": "tất nhiên rồi",
+      "when": "Khi vui vẻ nhận lời giúp ai đó.",
+      "example": "Of course, I'd be happy to help."
+    },
+    {
+      "term": "by any chance",
+      "ipa": "/baɪ ˌen.i ˈtʃɑːns/",
+      "vi": "liệu có... không (rào trước nhẹ nhàng)",
+      "when": "Khi nhờ một việc mà không chắc người ta làm được, hỏi cho lịch sự.",
+      "example": "Do you have a pen I could borrow, by any chance?"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Lan là nhân viên mới ở văn phòng. Cô đang loay hoay với máy in và một biểu mẫu chưa biết điền, nên nhờ một đồng nghiệp tên Tom giúp đỡ.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Sorry to ____ you, Tom, but I was wondering if you could give me a hand for a moment — I'm really struggling with this printer.",
+        "ipa": "/ˈsɒr.i tə ... juː tɒm bʌt aɪ wɒz ˈwʌn.də.rɪŋ ɪf juː kʊd ɡɪv miː ə hænd fɔːr ə ˈməʊ.mənt aɪm ˈrɪə.li ˈstrʌɡ.lɪŋ wɪð ðɪs ˈprɪn.tər/",
+        "vi": "Xin lỗi đã ____ cậu nhé Tom, nhưng không biết cậu giúp mình một lát được không — mình đang vật lộn mãi với cái máy in này.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "bother",
+            "explanationVi": "Dùng 'bother' trong cụm mở đầu lịch sự 'Sorry to bother you, but...'. Xem mẫu câu 'Sorry to bother you, but...' ở phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Of course, no problem at all. Although I'm a bit busy with a report, I can definitely spare a few minutes. What seems to be the matter?",
+        "ipa": "/əv ˈkɔːs nəʊ ˈprɒb.ləm ət ɔːl ɔːlˈðəʊ aɪm ə bɪt ˈbɪz.i wɪð ə rɪˈpɔːt aɪ kæn ˈdef.ɪn.ət.li speər ə fjuː ˈmɪn.ɪts wɒt siːmz tə biː ðə ˈmæt.ər/",
+        "vi": "Tất nhiên rồi, không vấn đề gì cả. Dù mình đang hơi bận với một bản báo cáo, mình chắc chắn dành ra vài phút được. Có chuyện gì thế?"
+      },
+      {
+        "speaker": "Lan",
+        "text": "Honestly, I can't figure out how to print double-sided, and I also have this form ____ I don't really understand. It's not urgent, so please take your time.",
+        "ipa": "/ˈɒn.ɪst.li aɪ kɑːnt ˈfɪɡ.ər aʊt haʊ tə prɪnt ˈdʌb.əl ˈsaɪ.dɪd ænd aɪ ˈɔːl.səʊ hæv ðɪs fɔːm ... aɪ dəʊnt ˈrɪə.li ˌʌn.dəˈstænd ɪts nɒt ˈɜː.dʒənt səʊ pliːz teɪk jɔːr taɪm/",
+        "vi": "Thành thật mà nói, mình không hiểu ra cách in hai mặt, và mình còn có cái mẫu này ____ mình không hiểu lắm. Việc không gấp đâu, nên cậu cứ từ từ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "which",
+            "explanationVi": "Dùng đại từ quan hệ 'which' để nối mệnh đề mô tả cho 'this form' (vật). Nếu là người thì dùng 'who'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "No worries. For the printer, you just need to tick the 'double-sided' box in the settings — it's the one on the left here. Let me show you straight away.",
+        "ipa": "/nəʊ ˈwʌr.iz fɔːr ðə ˈprɪn.tər juː dʒʌst niːd tə tɪk ðə ˈdʌb.əl ˈsaɪ.dɪd bɒks ɪn ðə ˈset.ɪŋz ɪts ðə wʌn ɒn ðə left hɪər let miː ʃəʊ juː ˌstreɪt əˈweɪ/",
+        "vi": "Không sao đâu. Với máy in, cậu chỉ cần tích vào ô 'in hai mặt' trong phần cài đặt — chính là cái ở bên trái đây này. Để mình chỉ cho cậu ngay."
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's so kind of you. ____ you mind explaining the form as well? I'd be really grateful, because my manager needs it by noon.",
+        "ipa": "/ðæts səʊ kaɪnd əv juː ... juː maɪnd ɪkˈspleɪ.nɪŋ ðə fɔːm æz wel aɪd biː ˈrɪə.li ˈɡreɪt.fəl bɪˈkɒz maɪ ˈmæn.ɪ.dʒər niːdz ɪt baɪ nuːn/",
+        "vi": "Cậu tốt quá. ____ cậu giải thích luôn cái mẫu này nữa không? Mình sẽ rất biết ơn đấy, vì sếp mình cần nó trước trưa.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Would",
+            "explanationVi": "Mẫu nhờ vả tế nhị 'Would you mind + V-ing?'. Sau 'mind' phải dùng V-ing (explaining). Xem mẫu câu 'Would you mind...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Not at all. This section is for your employee ID, while the box below is for the date. Despite looking complicated, it's actually quite straightforward once you've done it once.",
+        "ipa": "/nɒt ət ɔːl ðɪs ˈsek.ʃən ɪz fɔːr jɔːr ɪmˈplɔɪ.iː aɪ ˈdiː waɪl ðə bɒks bɪˈləʊ ɪz fɔːr ðə deɪt dɪˈspaɪt ˈlʊk.ɪŋ ˈkɒm.plɪ.keɪ.tɪd ɪts ˈæk.tʃu.ə.li kwaɪt ˌstreɪt.ˈfɔː.wəd wʌns juːv dʌn ɪt wʌns/",
+        "vi": "Không phiền gì cả. Phần này điền mã nhân viên, còn ô bên dưới là ngày tháng. Tuy trông phức tạp, thật ra nó khá đơn giản một khi cậu làm một lần rồi."
+      },
+      {
+        "speaker": "Lan",
+        "text": "Thank you so much — not only did you fix the printer, ____ you also helped me with the form. I really appreciate you taking the time.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ nɒt ˈəʊn.li dɪd juː fɪks ðə ˈprɪn.tər ... juː ˈɔːl.səʊ helpt miː wɪð ðə fɔːm aɪ ˈrɪə.li əˈpriː.ʃi.eɪt juː ˈteɪk.ɪŋ ðə taɪm/",
+        "vi": "Cảm ơn cậu nhiều lắm — cậu không những sửa được máy in, ____ còn giúp mình cả cái mẫu nữa. Mình thật sự trân trọng việc cậu đã bỏ thời gian ra.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "but",
+            "explanationVi": "Cấu trúc 'not only... but also...'. Sau 'not only' đầu câu phải đảo ngữ (did you fix), và vế thứ hai bắt đầu bằng 'but ... also'."
+          }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Don't mention it! I'm always happy to help out. If you ever get stuck again, just let me know and I'll come over ____ away.",
+        "ipa": "/dəʊnt ˈmen.ʃən ɪt aɪm ˈɔːl.weɪz ˈhæp.i tə help aʊt ɪf juː ˈev.ər ɡet stʌk əˈɡen dʒʌst let miː nəʊ ænd aɪl kʌm ˈəʊ.vər ... əˈweɪ/",
+        "vi": "Có gì đâu mà! Mình luôn vui lòng giúp một tay. Nếu lần sau lại bí, cứ báo mình một tiếng, mình sẽ qua ngay ____.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "straight",
+            "explanationVi": "Cụm trạng từ 'straight away' = ngay lập tức. Xem mục Trạng từ. Anh-Mỹ thường nói 'right away' với nghĩa tương đương."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "You're a lifesaver. Next time the coffee's on me — it's the least I can do to say thanks!",
+        "ipa": "/jɔːr ə ˈlaɪf.seɪ.vər nekst taɪm ðə ˈkɒf.iz ɒn miː ɪts ðə liːst aɪ kæn duː tə seɪ θæŋks/",
+        "vi": "Cậu đúng là cứu tinh. Lần tới cà phê mình bao — đó là điều ít nhất mình làm được để cảm ơn cậu!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Người nói tiếng Anh thường 'rào trước' khi nhờ vả ('Sorry to bother you', 'I was wondering if...') thay vì vào thẳng vấn đề. Vào đề quá thẳng có thể bị xem là đòi hỏi.",
+    "Khi ai đó cảm ơn, đáp lại bằng 'Don't mention it', 'No problem', 'My pleasure' hoặc 'Anytime' nghe tự nhiên hơn là im lặng.",
+    "Với 'Would you mind...?', trả lời 'No' (không phiền) nghĩa là ĐỒNG Ý giúp — điều này dễ gây nhầm cho người Việt nên cần lưu ý.",
+    "Một lời cảm ơn nhỏ hoặc đáp lễ (mời cà phê, giúp lại lần sau) được đánh giá cao và giữ quan hệ tốt đẹp."
+  ],
+
+  "commonMistakes": [
+    "Nói trống không 'Help me!' nghe như ra lệnh. Hãy bọc bằng 'Could you help me...?' hoặc 'Would you mind...?' cho lịch sự.",
+    "Dùng sai sau 'Would you mind': phải là V-ing ('Would you mind helping?'), không phải 'to help'.",
+    "Hiểu sai câu trả lời 'No' cho 'Would you mind...?' — 'No' ở đây nghĩa là đồng ý, không phải từ chối.",
+    "Quên cảm ơn hoặc đáp lễ sau khi được giúp. Một câu 'Thank you so much, I really appreciate it.' tạo ấn tượng tốt."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống nhờ giúp đỡ như thật.",
+    "prompt": "Hãy đóng vai một người bạn/đồng nghiệp nói tiếng Anh. Tôi sẽ là người cần nhờ bạn giúp một việc (ví dụ: nhờ chỉ đường, nhờ phụ mang đồ, nhờ giải thích một biểu mẫu). Hãy để tôi mở lời nhờ trước. Sau mỗi câu của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật (đôi khi đồng ý, đôi khi nói bận để tôi tập đáp lại lời từ chối), (2) nếu tôi nhờ chưa lịch sự hoặc sai ngữ pháp thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu lịch sự như 'Could you...?', 'Would you mind...?', 'I was wondering if you could...'. Cuối buổi, hãy chấm điểm và nêu 3 điều tôi nên cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Thỉnh thoảng hãy từ chối lời nhờ của tôi để tôi tập nói Thanks anyway và xoay xở phương án khác.'",
+      "Thêm câu: 'Hãy đặt tình huống trang trọng hơn (nhờ sếp/người lạ) để tôi tập đổi sang register lịch sự hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời nhờ được một cách lịch sự, không nói trống không.",
+    "Tôi dùng được ít nhất hai mẫu khác nhau như 'Could you...?', 'Would you mind...?', 'I was wondering if you could...'.",
+    "Tôi cảm ơn và đáp lại được cả khi người ta đồng ý lẫn khi họ không giúp được."
+  ]
+}

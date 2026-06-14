@@ -1,0 +1,357 @@
+{
+  "id": "reuniting-old-friends",
+  "category": "friends",
+  "title": "Gặp lại bạn cũ",
+  "titleEn": "Reuniting with Old Friends",
+  "level": "B2",
+  "functions": ["greetings", "small-talk", "describing", "opinions"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Chào hỏi và bày tỏ niềm vui khi tình cờ gặp lại một người bạn lâu năm",
+    "Cập nhật cho nhau về công việc, gia đình và những thay đổi trong cuộc sống bằng câu dài, mạch lạc",
+    "Hồi tưởng kỷ niệm chung và so sánh quá khứ với hiện tại một cách tự nhiên",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, mệnh đề quan hệ) và nhiều trạng từ khi trò chuyện",
+    "Đề nghị giữ liên lạc và hẹn gặp lại một cách chân thành"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to bump into",
+      "ipa": "/bʌmp ˈɪn.tuː/",
+      "vi": "tình cờ gặp (ai đó) (động từ)",
+      "register": "casual",
+      "example": "I can't believe I bumped into you here after all these years!",
+      "exampleVi": "Không thể tin được là tớ lại tình cờ gặp cậu ở đây sau bao nhiêu năm!",
+      "note": "Cụm động từ đời thường, nghĩa 'gặp tình cờ, không hẹn trước'. Đi với 'into + somebody'.",
+      "synonyms": [
+        { "term": "to run into", "ipa": "/rʌn ˈɪn.tuː/", "register": "casual", "nuanceVi": "Gần như y hệt 'bump into', cũng là gặp tình cờ. Dùng thay thế nhau thoải mái trong văn nói." },
+        { "term": "to come across", "ipa": "/kʌm əˈkrɒs/", "register": "neutral", "nuanceVi": "Cũng là 'tình cờ gặp/bắt gặp', nhưng hay dùng cho cả đồ vật/thông tin, không chỉ người. Hơi trung tính hơn." },
+        { "term": "to encounter", "ipa": "/ɪnˈkaʊn.tər/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ. Mang sắc thái 'chạm trán/gặp gỡ' nghiêm túc; hiếm dùng khi tán gẫu thân mật." }
+      ]
+    },
+    {
+      "term": "reunion",
+      "ipa": "/riːˈjuː.ni.ən/",
+      "vi": "buổi họp mặt, sự đoàn tụ (danh từ)",
+      "register": "neutral",
+      "example": "We're organizing a class reunion to celebrate ten years since graduation.",
+      "exampleVi": "Chúng tôi đang tổ chức một buổi họp lớp để kỷ niệm mười năm ra trường.",
+      "note": "Danh từ. Hay đi với 'class reunion' (họp lớp), 'family reunion' (đoàn tụ gia đình).",
+      "synonyms": [
+        { "term": "get-together", "ipa": "/ˈɡet.tə.ɡeð.ər/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'buổi tụ họp nhỏ, thân mật'. Ít trang trọng và quy mô hơn 'reunion'." },
+        { "term": "gathering", "ipa": "/ˈɡæð.ər.ɪŋ/", "register": "neutral", "nuanceVi": "Trung tính, chỉ một cuộc tụ họp nói chung; không nhất thiết là gặp lại người cũ." }
+      ]
+    },
+    {
+      "term": "to keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "vi": "giữ liên lạc (động từ)",
+      "register": "neutral",
+      "example": "We promised to keep in touch, but somehow we gradually lost contact.",
+      "exampleVi": "Chúng tôi đã hứa giữ liên lạc, nhưng rồi dần dần mất liên lạc.",
+      "note": "Cụm cố định. Ngược lại là 'to lose touch / lose contact' (mất liên lạc).",
+      "synonyms": [
+        { "term": "to stay in contact", "ipa": "/steɪ ɪn ˈkɒn.tækt/", "register": "neutral", "nuanceVi": "Gần nghĩa, hơi trung tính/trang trọng hơn một chút. Dùng thay thế tốt trong cả ngữ cảnh công việc." }
+      ]
+    },
+    {
+      "term": "nostalgic",
+      "ipa": "/nɒsˈtæl.dʒɪk/",
+      "vi": "hoài niệm, nhớ về thời xưa (tính từ)",
+      "register": "neutral",
+      "example": "Seeing our old classroom made me feel really nostalgic.",
+      "exampleVi": "Nhìn thấy lớp học cũ khiến tôi thấy thật bồi hồi nhớ về ngày xưa.",
+      "note": "Tính từ. Danh từ là 'nostalgia' /nɒsˈtæl.dʒə/ (nỗi hoài niệm). Diễn tả cảm giác vừa vui vừa man mác khi nhớ quá khứ.",
+      "synonyms": [
+        { "term": "sentimental", "ipa": "/ˌsen.tɪˈmen.təl/", "register": "neutral", "nuanceVi": "Nhấn vào 'giàu cảm xúc, dễ xúc động' (có thể về người, kỷ vật), không nhất thiết chỉ về quá khứ như 'nostalgic'." },
+        { "term": "wistful", "ipa": "/ˈwɪst.fəl/", "register": "formal", "nuanceVi": "Văn vẻ, nhấn nỗi 'tiếc nuối man mác', buồn nhẹ pha mong mỏi. Sắc thái tinh tế hơn." }
+      ]
+    },
+    {
+      "term": "to settle down",
+      "ipa": "/ˈset.əl daʊn/",
+      "vi": "ổn định cuộc sống (lập gia đình, an cư) (động từ)",
+      "register": "neutral",
+      "example": "After years of travelling, he finally settled down and bought a house.",
+      "exampleVi": "Sau nhiều năm đi đây đó, cuối cùng anh ấy cũng ổn định và mua một căn nhà.",
+      "note": "Cụm động từ, hàm ý ổn định lâu dài: lập gia đình, mua nhà, định cư một chỗ.",
+      "synonyms": [
+        { "term": "to put down roots", "ipa": "/pʊt daʊn ruːts/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'bén rễ, gắn bó lâu dài với một nơi'. Hình ảnh hơn, hợp văn nói thân mật." }
+      ]
+    },
+    {
+      "term": "to catch up",
+      "ipa": "/kætʃ ʌp/",
+      "vi": "hàn huyên, cập nhật chuyện đã qua (động từ)",
+      "register": "casual",
+      "example": "Let's grab a coffee so we can properly catch up on everything.",
+      "exampleVi": "Đi uống cà phê đi để bọn mình hàn huyên cho tử tế về mọi chuyện.",
+      "note": "Cụm động từ rất thông dụng. Đi với 'catch up WITH somebody' và 'catch up ON something'.",
+      "synonyms": [
+        { "term": "to fill (someone) in", "ipa": "/fɪl ɪn/", "register": "casual", "nuanceVi": "Nhấn vào việc 'kể lại đầy đủ thông tin cho người chưa biết'; thiên về một chiều, không hẳn hai bên cùng hàn huyên." }
+      ]
+    },
+    {
+      "term": "acquaintance",
+      "ipa": "/əˈkweɪn.təns/",
+      "vi": "người quen (sơ) (danh từ)",
+      "register": "formal",
+      "example": "She's more of an acquaintance than a close friend.",
+      "exampleVi": "Cô ấy chỉ là người quen sơ chứ không phải bạn thân.",
+      "note": "Danh từ. Chỉ người mình biết nhưng không thân — khác hẳn 'close friend'. Phát âm bẫy: âm 'qu' đọc /kw/.",
+      "synonyms": [
+        { "term": "pal", "ipa": "/pæl/", "register": "casual", "nuanceVi": "Trái lại, 'pal' là 'bạn, bồ', thân mật và đời thường. Mức thân thiết cao hơn 'acquaintance' nhiều." },
+        { "term": "buddy", "ipa": "/ˈbʌd.i/", "register": "casual", "nuanceVi": "Cũng nghĩa 'bạn thân, chiến hữu', đặc Mỹ và rất thân mật. Ngược sắc thái với 'acquaintance'." }
+      ]
+    },
+    {
+      "term": "to reminisce",
+      "ipa": "/ˌrem.ɪˈnɪs/",
+      "vi": "ôn lại, hồi tưởng kỷ niệm (động từ)",
+      "register": "formal",
+      "example": "We spent the whole evening reminiscing about our university days.",
+      "exampleVi": "Chúng tôi dành cả buổi tối ôn lại những ngày đại học.",
+      "note": "Động từ, hơi trang trọng/văn vẻ. Đi với 'reminisce ABOUT something'. Mang cảm giác kể lại kỷ niệm một cách trìu mến.",
+      "synonyms": [
+        { "term": "to look back on", "ipa": "/lʊk bæk ɒn/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'nhìn lại (quá khứ)'. Dễ dùng và tự nhiên trong văn nói hằng ngày." }
+      ]
+    },
+    {
+      "term": "remarkably",
+      "ipa": "/rɪˈmɑː.kə.bli/",
+      "vi": "một cách đáng kể, rõ rệt (trạng từ)",
+      "register": "neutral",
+      "example": "You've remarkably stayed exactly the same after all this time.",
+      "exampleVi": "Đáng ngạc nhiên là cậu chẳng thay đổi gì sau ngần ấy thời gian.",
+      "note": "Trạng từ, nhấn mạnh điều gây ngạc nhiên/đáng chú ý. Tính từ gốc: 'remarkable'.",
+      "synonyms": [
+        { "term": "noticeably", "ipa": "/ˈnəʊ.tɪs.ə.bli/", "register": "neutral", "nuanceVi": "Nhấn 'đủ rõ để nhận ra'. Nhẹ hơn 'remarkably' (vốn hàm ý gây ấn tượng mạnh)." },
+        { "term": "strikingly", "ipa": "/ˈstraɪ.kɪŋ.li/", "register": "formal", "nuanceVi": "Mạnh hơn, nghĩa 'đến mức nổi bật/gây sửng sốt'. Dùng khi muốn nhấn cực mạnh." }
+      ]
+    },
+    {
+      "term": "overwhelmed",
+      "ipa": "/ˌəʊ.vəˈwelmd/",
+      "vi": "choáng ngợp (vì cảm xúc) (tính từ)",
+      "register": "neutral",
+      "example": "I was completely overwhelmed with joy when I saw her at the airport.",
+      "exampleVi": "Tôi vỡ òa vì vui sướng khi nhìn thấy cô ấy ở sân bay.",
+      "note": "Tính từ, chỉ cảm xúc mạnh đến mức 'ngợp'. Đi với 'overwhelmed WITH/BY something'.",
+      "synonyms": [
+        { "term": "thrilled", "ipa": "/θrɪld/", "register": "neutral", "nuanceVi": "Nghĩa 'mừng rỡ, phấn khích tột độ'. Thuần tích cực, nhẹ và vui hơn 'overwhelmed' (vốn có thể quá tải)." },
+        { "term": "moved", "ipa": "/muːvd/", "register": "neutral", "nuanceVi": "Nghĩa 'xúc động, rưng rưng'. Thiên về cảm động sâu lắng hơn là phấn khích." }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành, thật lòng (trạng từ)",
+      "register": "neutral",
+      "example": "I'm genuinely happy that things have worked out so well for you.",
+      "exampleVi": "Tớ thật lòng vui vì mọi chuyện đã suôn sẻ với cậu đến vậy.",
+      "note": "Trạng từ. Dùng để nhấn 'không phải nói xã giao mà thật lòng'. Tính từ gốc: 'genuine'.",
+      "synonyms": [
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng trong lời chúc/thư từ ('sincerely hope'). Cùng nghĩa 'thật lòng'." },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Phổ biến, nhấn 'thật sự'. An toàn và dễ dùng, hơi rộng nghĩa hơn 'genuinely'." }
+      ]
+    },
+    {
+      "term": "grown-up",
+      "ipa": "/ˈɡrəʊn.ʌp/",
+      "vi": "trưởng thành, chững chạc (tính từ)",
+      "register": "casual",
+      "example": "Your kids look so grown-up now — last time I saw them they were tiny!",
+      "exampleVi": "Mấy đứa nhỏ nhà cậu trông lớn hẳn rồi — lần trước tớ gặp chúng còn bé tí!",
+      "note": "Tính từ đời thường. Danh từ 'a grown-up' = người lớn. Khác 'mature' (chín chắn về tính cách)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I can't believe it's [tên/cách xưng hô]! It's been [khoảng thời gian], hasn't it?",
+      "use": "Reo lên vui mừng khi bất ngờ nhận ra một người bạn cũ.",
+      "register": "casual",
+      "examples": [
+        "I can't believe it's you, Linh! It's been at least ten years, hasn't it?"
+      ],
+      "explanationVi": "Câu cảm thán mở màn rất tự nhiên. 'It's been…' = đã ngần ấy lâu rồi; đuôi câu hỏi 'hasn't it?' để mời người kia xác nhận, nghe thân mật.",
+      "altOf": "expressing-surprise-greeting"
+    },
+    {
+      "pattern": "Fancy [V-ing] you here! What a small world!",
+      "use": "Diễn tả sự ngạc nhiên thú vị khi tình cờ gặp ai đó.",
+      "register": "casual",
+      "examples": [
+        "Fancy seeing you here! What a small world!"
+      ],
+      "explanationVi": "'Fancy seeing you here!' là thành ngữ Anh-Anh diễn tả bất ngờ kiểu 'ai mà ngờ gặp cậu ở đây'. 'What a small world!' = trái đất tròn thật. Cả hai đều rất bản xứ.",
+      "altOf": "expressing-surprise-greeting"
+    },
+    {
+      "pattern": "Although [mệnh đề], you haven't changed a bit.",
+      "use": "Nhận xét rằng người bạn không hề thay đổi dù thời gian trôi qua.",
+      "register": "neutral",
+      "examples": [
+        "Although it's been almost fifteen years, you haven't changed a bit."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). 'haven't changed a bit' = chẳng đổi tí nào, một lời khen quen thuộc khi gặp lại."
+    },
+    {
+      "pattern": "So, what have you been up to [khoảng thời gian]?",
+      "use": "Hỏi xem dạo này / những năm qua người kia làm gì, sống ra sao.",
+      "register": "casual",
+      "examples": [
+        "So, what have you been up to all these years?"
+      ],
+      "explanationVi": "'What have you been up to?' (thì hiện tại hoàn thành tiếp diễn) = dạo này cậu làm gì rồi? Câu mở đầu hàn huyên kinh điển, thân mật và mở.",
+      "altOf": "asking-update"
+    },
+    {
+      "pattern": "How have things been with [chủ đề] since [mốc thời gian]?",
+      "use": "Hỏi cập nhật về một mảng cụ thể (công việc, gia đình) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "How have things been with your career since we last met?"
+      ],
+      "explanationVi": "Trang nhã và cụ thể hơn 'What have you been up to?'. 'How have things been…?' mời người kia kể chi tiết về một khía cạnh.",
+      "altOf": "asking-update"
+    },
+    {
+      "pattern": "We should definitely [V] sometime so we can catch up properly.",
+      "use": "Đề nghị gặp lại để hàn huyên tử tế trước khi chia tay.",
+      "register": "casual",
+      "examples": [
+        "We should definitely grab dinner sometime so we can catch up properly."
+      ],
+      "explanationVi": "'We should definitely…' là lời rủ chân thành, không khách sáo. 'catch up properly' = hàn huyên cho ra trò. Cách kết thúc cuộc gặp rất tự nhiên.",
+      "altOf": "suggesting-meetup"
+    },
+    {
+      "pattern": "Let's not lose touch again — why don't we [V]?",
+      "use": "Bày tỏ mong muốn giữ liên lạc và đề xuất cách cụ thể.",
+      "register": "casual",
+      "examples": [
+        "Let's not lose touch again — why don't we exchange numbers right now?"
+      ],
+      "explanationVi": "'Let's not lose touch again' nhấn mong muốn không mất liên lạc lần nữa; 'why don't we…?' là cách đề xuất nhẹ nhàng, mời cùng làm.",
+      "altOf": "suggesting-meetup"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một lời chia sẻ chân thành hoặc thừa nhận điều gì đó.", "example": "Honestly, I never expected to run into you again after all this time." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Đính chính nhẹ hoặc hé lộ một thông tin hơi bất ngờ.", "example": "Actually, I moved back to the city just last year." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Kể một quá trình thay đổi diễn ra từ từ theo thời gian.", "example": "We gradually drifted apart after we left university." },
+    { "term": "eventually", "ipa": "/ɪˈven.tʃu.ə.li/", "vi": "rồi cuối cùng thì", "when": "Dẫn tới kết quả sau một quãng thời gian dài.", "example": "Eventually, I found a job that I truly love." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Chuyển sang hỏi thêm một chuyện ngoài lề.", "example": "By the way, are you still in contact with anyone from our old group?" },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói cũng biết", "when": "Dẫn vào một điều hiển nhiên ai cũng đoán được.", "example": "Needless to say, we had so much to talk about." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn (Minh) tình cờ gặp lại một người bạn thân thời đại học (Linh) tại một quán cà phê sau gần mười năm không gặp. Hai người dừng lại hàn huyên, cập nhật cuộc sống và hẹn giữ liên lạc.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Wait... Minh? I can't believe it's actually you! Fancy bumping into you here, of all places — it must have been nearly ten years since we last saw each other!",
+        "ipa": "/weɪt mɪn aɪ kɑːnt bɪˈliːv ɪts ˈæk.tʃu.ə.li juː ˈfæn.si ˈbʌmp.ɪŋ ˈɪn.tə juː hɪər ɒv ɔːl ˈpleɪ.sɪz ɪt mʌst həv biːn ˈnɪə.li ten jɪəz sɪns wiː lɑːst sɔː iːtʃ ˈʌð.ər/",
+        "vi": "Khoan đã... Minh? Tớ không thể tin đây đúng là cậu! Ai mà ngờ lại tình cờ gặp cậu ở đây cơ chứ — chắc phải gần mười năm rồi từ lần cuối bọn mình gặp nhau nhỉ!"
+      },
+      {
+        "speaker": "Minh",
+        "text": "Linh! Honestly, this is such a lovely surprise. ____ it's been so many years, you haven't changed a bit — what a small world! So, what have you ____ up to all this time?",
+        "ipa": "/lɪn ˈɒn.ɪst.li ðɪs ɪz sʌtʃ ə ˈlʌv.li səˈpraɪz ... ɪts biːn səʊ ˈmen.i jɪəz juː ˈhæv.ənt tʃeɪndʒd ə bɪt wɒt ə smɔːl wɜːld səʊ wɒt həv juː ... ʌp tə ɔːl ðɪs taɪm/",
+        "vi": "Linh! Thật lòng mà nói, đây đúng là một bất ngờ đáng yêu. ____ đã bao nhiêu năm trôi qua, trông cậu chẳng thay đổi tí nào — trái đất tròn thật! Mà này, bao năm qua cậu đã ____ những gì rồi?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) mở mệnh đề nhượng bộ: dù nhiều năm trôi qua nhưng vẫn không đổi. Xem mẫu câu 'Although…, you haven't changed a bit.'" },
+          { "type": "knowledge", "answer": "been", "explanationVi": "Cấu trúc 'What have you been up to?' (hiện tại hoàn thành tiếp diễn) cần 'have + been'. Đây là câu hỏi hàn huyên kinh điển ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Oh, where do I even start? After graduation I moved abroad to study, and although it was incredibly challenging at first, I eventually settled down in Singapore. Not only did I find a job I love, but I also met my husband there. What about you?",
+        "ipa": "/əʊ weər duː aɪ ˈiːv.ən stɑːt ˈɑːf.tə ˌɡrædʒ.uˈeɪ.ʃən aɪ muːvd əˈbrɔːd tə ˈstʌd.i ænd ɔːlˈðəʊ ɪt wɒz ɪnˈkred.ɪ.bli ˈtʃæl.ɪn.dʒɪŋ ət fɜːst aɪ ɪˈven.tʃu.ə.li ˈset.əld daʊn ɪn ˈsɪŋ.ə.pɔː nɒt ˈəʊn.li dɪd aɪ faɪnd ə dʒɒb aɪ lʌv bʌt aɪ ˈɔːl.səʊ met maɪ ˈhʌz.bənd ðeə wɒt əˈbaʊt juː/",
+        "vi": "Ôi, biết bắt đầu từ đâu đây? Sau khi tốt nghiệp tớ ra nước ngoài học, và dù lúc đầu cực kỳ vất vả, cuối cùng tớ cũng ổn định ở Singapore. Tớ không những tìm được công việc mình yêu thích, mà còn gặp được chồng tớ ở đó nữa. Còn cậu thì sao?"
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds wonderful, and I'm genuinely happy for you. As for me, I stayed here and started my own business, ____ has kept me unbelievably busy. Despite all the stress, it's been the most rewarding decision I've ever made.",
+        "ipa": "/ðæt saʊndz ˈwʌn.də.fəl ænd aɪm ˈdʒen.ju.ɪn.li ˈhæp.i fɔː juː æz fɔː miː aɪ steɪd hɪər ænd ˈstɑː.tɪd maɪ əʊn ˈbɪz.nɪs ... həz kept miː ˌʌn.bɪˈliː.və.bli ˈbɪz.i dɪsˈpaɪt ɔːl ðə stres ɪts biːn ðə məʊst rɪˈwɔː.dɪŋ dɪˈsɪʒ.ən aɪv ˈev.ə meɪd/",
+        "vi": "Nghe tuyệt thật, tớ thật lòng mừng cho cậu. Còn tớ thì ở lại đây và mở công ty riêng, điều đó khiến tớ bận đến khó tin. Bất chấp mọi căng thẳng, đó là quyết định đáng giá nhất mà tớ từng đưa ra.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho cả mệnh đề trước ('started my own business') để nối ý nhận xét. Nếu thay cho người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I always knew you'd do something ambitious! By the way, do you ever feel nostalgic about our university days? I still remember all those late nights ____ we stayed up studying and then went out for noodles at dawn.",
+        "ipa": "/aɪ ˈɔːl.weɪz njuː juːd duː ˈsʌm.θɪŋ æmˈbɪʃ.əs baɪ ðə weɪ duː juː ˈev.ə fiːl nɒsˈtæl.dʒɪk əˈbaʊt ˈaʊə ˌjuː.nɪˈvɜː.sɪ.ti deɪz aɪ stɪl rɪˈmem.bə ɔːl ðəʊz leɪt naɪts ... wiː steɪd ʌp ˈstʌd.i.ɪŋ ænd ðen went aʊt fɔː ˈnuː.dəlz ət dɔːn/",
+        "vi": "Tớ luôn biết cậu sẽ làm điều gì đó đầy hoài bão mà! Tiện thể, cậu có bao giờ thấy bồi hồi nhớ về thời đại học không? Tớ vẫn nhớ những đêm khuya ____ bọn mình thức học rồi kéo nhau đi ăn mì lúc tờ mờ sáng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "when", "explanationVi": "Dùng trạng từ quan hệ 'when' để bổ nghĩa cho thời gian ('those late nights'). Với danh từ chỉ thời điểm, 'when' tự nhiên hơn 'which/that'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Of course I do — those were honestly some of the best years of my life. We really should have kept ____ touch better; somehow we gradually lost contact after everyone moved away. Are you still close with anyone from our old group?",
+        "ipa": "/ɒv kɔːs aɪ duː ðəʊz wə ˈɒn.ɪst.li sʌm ɒv ðə best jɪəz ɒv maɪ laɪf wiː ˈrɪə.li ʃʊd həv kept ... tʌtʃ ˈbet.ə ˈsʌm.haʊ wiː ˈɡrædʒ.u.ə.li lɒst ˈkɒn.tækt ˈɑːf.tə ˈev.ri.wʌn muːvd əˈweɪ ɑː juː stɪl kləʊs wɪð ˈen.i.wʌn frɒm ˈaʊə əʊld ɡruːp/",
+        "vi": "Tất nhiên là có — thật lòng đó là những năm tháng đẹp nhất đời tớ. Lẽ ra bọn mình nên giữ ____ lạc tốt hơn; chẳng hiểu sao cứ dần dần mất liên lạc sau khi mọi người chuyển đi. Cậu còn thân với ai trong nhóm cũ không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "in", "explanationVi": "Cụm cố định 'to keep in touch' (giữ liên lạc) luôn dùng giới từ 'in'. Đây là từ vựng trọng tâm của bài." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Only a couple, sadly. That's exactly why I'd love to organize a proper reunion, such as a small get-together next month, in order to bring everyone back together. Would you be up for helping me plan it?",
+        "ipa": "/ˈəʊn.li ə ˈkʌp.əl ˈsæd.li ðæts ɪɡˈzækt.li waɪ aɪd lʌv tu ˈɔː.ɡə.naɪz ə ˈprɒp.ə riːˈjuː.ni.ən sʌtʃ æz ə smɔːl ˈɡet.tə.ɡeð.ə nekst mʌnθ ɪn ˈɔː.də tə brɪŋ ˈev.ri.wʌn bæk təˈɡeð.ə wʊd juː biː ʌp fɔː ˈhel.pɪŋ miː plæn ɪt/",
+        "vi": "Buồn là chỉ còn vài người thôi. Đó chính là lý do tớ rất muốn tổ chức một buổi họp mặt cho đàng hoàng, chẳng hạn một buổi tụ tập nhỏ vào tháng tới, để gọi mọi người về với nhau. Cậu có hứng giúp tớ lên kế hoạch không?"
+      },
+      {
+        "speaker": "Minh",
+        "text": "I'd absolutely love to! Listen, let's not lose ____ again — why don't we exchange numbers right now, and we should definitely grab dinner sometime so we can catch up properly?",
+        "ipa": "/aɪd ˈæb.sə.luːt.li lʌv tuː ˈlɪs.ən lets nɒt luːz ... əˈɡen waɪ dəʊnt wiː ɪksˈtʃeɪndʒ ˈnʌm.bəz raɪt naʊ ænd wiː ʃʊd ˈdef.ɪn.ət.li ɡræb ˈdɪn.ə ˈsʌm.taɪm səʊ wiː kæn kætʃ ʌp ˈprɒp.ə.li/",
+        "vi": "Tớ cực kỳ muốn ấy chứ! Này, đừng để mất ____ lần nữa nhé — hay là bọn mình trao đổi số ngay bây giờ, rồi nhất định phải đi ăn tối lúc nào đó để hàn huyên cho ra trò chứ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "touch", "explanationVi": "Cụm 'to lose touch' (mất liên lạc) là phản nghĩa của 'keep in touch'. Vế sau 'why don't we…?' là cách đề xuất nhẹ nhàng — xem phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "It's a deal! Here, save my number. Needless to say, I'm ____ thrilled that we bumped into each other today — let's make sure we actually follow through this time, alright?",
+        "ipa": "/ɪts ə diːl hɪə seɪv maɪ ˈnʌm.bə ˈniːd.ləs tə seɪ aɪm ... θrɪld ðæt wiː bʌmpt ˈɪn.tə iːtʃ ˈʌð.ə təˈdeɪ lets meɪk ʃʊə wiː ˈæk.tʃu.ə.li ˈfɒl.əʊ θruː ðɪs taɪm ɔːlˈraɪt/",
+        "vi": "Chốt nhé! Đây, lưu số tớ vào đi. Khỏi phải nói, tớ ____ vui mừng vì hôm nay bọn mình tình cờ gặp lại nhau — lần này nhớ thực hiện cho bằng được nhé, được chứ?",
+        "blanks": [
+          { "type": "personal", "hint": "Một trạng từ nhấn mạnh cảm xúc của bạn. Ví dụ: 'genuinely', 'truly', 'so'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi tình cờ gặp lại người quen, người phương Tây thường reo lên và khen nhanh ('You look great!', 'You haven't changed a bit!') như một lời chào thân thiện, không nhất thiết là nhận xét nghiêm túc về ngoại hình.",
+    "Câu 'We should grab coffee/dinner sometime!' đôi khi chỉ là lời xã giao lịch sự khi chia tay, không hẳn là lời hẹn chắc chắn. Nếu thật sự muốn gặp, hãy trao đổi số và chốt thời gian cụ thể.",
+    "Họp lớp (class reunion) là nét văn hóa phổ biến ở phương Tây, thường tổ chức theo mốc 5, 10, 20 năm sau khi tốt nghiệp.",
+    "Hỏi thẳng về lương, cân nặng hay vì sao chưa kết hôn/sinh con bị xem là kém tế nhị; nên xoay quanh công việc, sở thích, du lịch và kỷ niệm chung."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID I find…', không phải 'Not only I found…'.",
+    "Quên giới từ trong các cụm cố định: 'keep IN touch', 'lose touch', 'catch up WITH somebody', 'reminisce ABOUT something'.",
+    "Dịch nguyên xi 'long time no see' rồi dừng lại cộc lốc. Hãy mở rộng: 'It's been so long! What have you been up to?'.",
+    "Nhầm 'acquaintance' (người quen sơ) với 'friend' (bạn) — hai mức thân thiết khác hẳn nhau."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống gặp lại bạn cũ như thật.",
+    "prompt": "Hãy đóng vai một người bạn cũ của tôi (thời đại học hoặc thời đi làm) mà chúng ta đã gần mười năm không gặp, nói tiếng Anh. Hãy bắt đầu bằng cách reo lên ngạc nhiên khi nhận ra tôi. Sau đó dẫn dắt cuộc trò chuyện: hỏi tôi dạo này thế nào, kể về cuộc sống của bạn, cùng ôn lại một kỷ niệm chung, rồi gợi ý giữ liên lạc. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also', mệnh đề quan hệ và nhiều trạng từ (honestly, gradually, eventually). Thỉnh thoảng đưa ra một bất ngờ nho nhỏ (ví dụ bạn vừa chuyển về thành phố, hay đang tổ chức họp lớp). Cuối buổi, hãy chấm điểm câu trả lời của tôi và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy nói nhanh hơn và dùng nhiều thành ngữ đời thường như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm: 'Hãy đóng vai một người bạn đã thay đổi rất nhiều khiến tôi bất ngờ, để tôi tập phản ứng tự nhiên.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi reo lên chào và bày tỏ ngạc nhiên khi gặp lại bạn cũ bằng câu tự nhiên, không cần nhìn gợi ý.",
+    "Tôi dùng được 'although', 'such as', mệnh đề quan hệ (which/who/when) và đảo ngữ 'not only… but also' khi kể về cuộc sống mình.",
+    "Tôi đề nghị giữ liên lạc và hẹn gặp lại một cách chân thành, đúng sắc thái thân mật."
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "id": "workplace-etiquette",
+  "category": "work",
+  "title": "Văn hóa công sở",
+  "titleEn": "Workplace Etiquette",
+  "level": "B2",
+  "functions": ["opinions", "requesting", "suggesting", "agreeing", "apologizing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trao đổi lịch sự, chuyên nghiệp với đồng nghiệp và cấp trên bằng câu dài, tự nhiên",
+    "Đề nghị giúp đỡ, nhờ vả và phản hồi mà vẫn giữ phép lịch sự nơi công sở",
+    "Bày tỏ quan điểm, đồng tình hoặc bất đồng một cách khéo léo trong cuộc họp",
+    "Xin lỗi và xử lý hiểu lầm trong môi trường làm việc một cách tế nhị",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, in order to) khi giao tiếp công việc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "I get along well with most of my colleagues.",
+      "exampleVi": "Tôi hòa hợp với hầu hết đồng nghiệp của mình.",
+      "note": "Danh từ. Trang trọng và an toàn nơi công sở; chỉ người cùng làm việc với bạn, không nhất thiết là bạn thân.",
+      "synonyms": [
+        { "term": "coworker", "ipa": "/ˈkəʊˌwɜː.kər/", "register": "neutral", "nuanceVi": "Phổ biến hơn trong tiếng Anh-Mỹ, đời thường hơn 'colleague' một chút. Nghĩa gần như y hệt." },
+        { "term": "teammate", "ipa": "/ˈtiːm.meɪt/", "register": "casual", "nuanceVi": "Nhấn 'người cùng nhóm/dự án với bạn', thân mật và gần gũi hơn; dùng khi muốn nhấn tinh thần đồng đội." }
+      ]
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "We have a tight deadline to meet by Friday.",
+      "exampleVi": "Chúng tôi có một hạn chót gấp phải kịp vào thứ Sáu.",
+      "note": "Danh từ. Đi với động từ 'meet a deadline' (kịp hạn) hoặc 'miss a deadline' (trễ hạn) — đừng dùng 'catch'.",
+      "synonyms": [
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Nhấn 'ngày phải nộp/hoàn thành', trung tính, thường dùng cho báo cáo, hóa đơn, bài nộp." },
+        { "term": "cut-off", "ipa": "/ˈkʌt.ɒf/", "register": "neutral", "nuanceVi": "Nhấn 'mốc thời gian sau đó không nhận nữa', cứng nhắc hơn; hay dùng cho đăng ký, nộp đơn." }
+      ]
+    },
+    {
+      "term": "professional",
+      "ipa": "/prəˈfeʃ.ən.əl/",
+      "vi": "chuyên nghiệp (tính từ)",
+      "register": "neutral",
+      "example": "She always stays professional, even when clients are difficult.",
+      "exampleVi": "Cô ấy luôn giữ thái độ chuyên nghiệp, ngay cả khi khách hàng khó tính.",
+      "note": "Tính từ. Cũng là danh từ (a professional = người làm nghề chuyên môn). Trái nghĩa: unprofessional.",
+      "synonyms": [
+        { "term": "competent", "ipa": "/ˈkɒm.pɪ.tənt/", "register": "formal", "nuanceVi": "Nhấn 'có đủ năng lực, làm tốt việc', thiên về kỹ năng hơn là cách cư xử." },
+        { "term": "polished", "ipa": "/ˈpɒl.ɪʃt/", "register": "neutral", "nuanceVi": "Nhấn 'trau chuốt, mượt mà, không có sơ suất' — thường nói về cách trình bày, tác phong." }
+      ]
+    },
+    {
+      "term": "courteous",
+      "ipa": "/ˈkɜː.ti.əs/",
+      "vi": "nhã nhặn, lịch thiệp (tính từ)",
+      "register": "formal",
+      "example": "He gave a courteous reply to every email, no matter how busy he was.",
+      "exampleVi": "Anh ấy trả lời nhã nhặn mọi email, dù bận đến đâu.",
+      "note": "Tính từ trang trọng, nhấn vào cách cư xử lễ độ, tôn trọng người khác. Danh từ: courtesy.",
+      "synonyms": [
+        { "term": "polite", "ipa": "/pəˈlaɪt/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính, ai cũng hiểu. 'courteous' nghe trang trọng và trau chuốt hơn." },
+        { "term": "respectful", "ipa": "/rɪˈspekt.fəl/", "register": "neutral", "nuanceVi": "Nhấn 'tôn trọng, không xúc phạm', thiên về thái độ hơn là lời lẽ lịch sự bề ngoài." },
+        { "term": "tactful", "ipa": "/ˈtækt.fəl/", "register": "formal", "nuanceVi": "Nhấn 'khéo léo, biết ý tứ' khi nói điều nhạy cảm mà không làm mất lòng." }
+      ]
+    },
+    {
+      "term": "to delegate",
+      "ipa": "/ˈdel.ɪ.ɡeɪt/",
+      "vi": "giao phó, ủy thác (công việc) (động từ)",
+      "register": "neutral",
+      "example": "A good manager knows how to delegate tasks to the right people.",
+      "exampleVi": "Một quản lý giỏi biết cách giao việc cho đúng người.",
+      "note": "Động từ: 'delegate something to somebody'. Là kỹ năng quan trọng của người lãnh đạo. Danh từ 'delegate' (đại biểu) phát âm hơi khác phần đuôi.",
+      "synonyms": [
+        { "term": "to assign", "ipa": "/əˈsaɪn/", "register": "neutral", "nuanceVi": "Nhấn 'phân công, giao nhiệm vụ cụ thể'; trung tính, ít hàm ý trao quyền như 'delegate'." },
+        { "term": "to hand over", "ipa": "/hænd ˈəʊ.vər/", "register": "casual", "nuanceVi": "Nhấn 'chuyển giao toàn bộ cho người khác', đời thường hơn; hay dùng khi bàn giao việc." }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "vi": "ghi nhận, xác nhận (đã nhận/đã biết) (động từ)",
+      "register": "formal",
+      "example": "Please acknowledge receipt of this email as soon as possible.",
+      "exampleVi": "Vui lòng xác nhận đã nhận được email này sớm nhất có thể.",
+      "note": "Động từ. Cụm 'ack' đọc là /ək/ (chữ 'g' mới câm, không đọc), cả từ là /əkˈnɒl.ɪdʒ/. Nghĩa: thừa nhận đã nhận được, hoặc công nhận công sức ai đó.",
+      "synonyms": [
+        { "term": "to recognize", "ipa": "/ˈrek.əɡ.naɪz/", "register": "neutral", "nuanceVi": "Khi nói về công lao, nhấn 'công nhận, ghi công'; rộng nghĩa hơn 'acknowledge'." },
+        { "term": "to confirm", "ipa": "/kənˈfɜːm/", "register": "neutral", "nuanceVi": "Nhấn 'khẳng định chắc chắn một thông tin', mạnh hơn 'acknowledge' (chỉ là cho biết đã nhận)." }
+      ]
+    },
+    {
+      "term": "punctual",
+      "ipa": "/ˈpʌŋk.tʃu.əl/",
+      "vi": "đúng giờ (tính từ)",
+      "register": "neutral",
+      "example": "Being punctual shows that you respect other people's time.",
+      "exampleVi": "Đúng giờ cho thấy bạn tôn trọng thời gian của người khác.",
+      "note": "Tính từ. Danh từ: punctuality. Một phẩm chất rất được coi trọng nơi công sở phương Tây.",
+      "synonyms": [
+        { "term": "on time", "ipa": "/ɒn ˈtaɪm/", "register": "neutral", "nuanceVi": "Cụm trạng từ đời thường: 'arrive on time'. 'punctual' là tính từ mô tả tính cách, nghe trang trọng hơn." },
+        { "term": "prompt", "ipa": "/prɒmpt/", "register": "formal", "nuanceVi": "Nhấn 'mau lẹ, không trì hoãn'; hay dùng cho phản hồi/hành động ('a prompt reply')." }
+      ]
+    },
+    {
+      "term": "diplomatically",
+      "ipa": "/ˌdɪp.ləˈmæt.ɪ.kəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "formal",
+      "example": "She handled the disagreement diplomatically and nobody felt offended.",
+      "exampleVi": "Cô ấy xử lý bất đồng một cách khéo léo và không ai cảm thấy bị xúc phạm.",
+      "note": "Trạng từ. Dùng khi nói về cách giải quyết mâu thuẫn/ý kiến trái chiều mà vẫn giữ hòa khí.",
+      "synonyms": [
+        { "term": "tactfully", "ipa": "/ˈtækt.fəl.i/", "register": "formal", "nuanceVi": "Nhấn 'tinh ý, biết chọn lời cho khỏi mất lòng'; gần nghĩa, thiên về lời ăn tiếng nói." },
+        { "term": "gracefully", "ipa": "/ˈɡreɪs.fəl.i/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, có phong thái đẹp' khi xử lý tình huống khó; hơi văn vẻ hơn." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "ngay lập tức, kịp thời (trạng từ)",
+      "register": "neutral",
+      "example": "He always responds promptly to messages from clients.",
+      "exampleVi": "Anh ấy luôn phản hồi tin nhắn của khách hàng một cách kịp thời.",
+      "note": "Trạng từ. Nhấn vào sự nhanh nhạy, không để người khác phải chờ — rất được đánh giá cao trong công việc.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay tức khắc, không một chút trì hoãn'; mạnh hơn 'promptly'." },
+        { "term": "swiftly", "ipa": "/ˈswɪft.li/", "register": "formal", "nuanceVi": "Nhấn 'nhanh và mượt mà'; nghe trang trọng, văn vẻ hơn 'quickly'." }
+      ]
+    },
+    {
+      "term": "to follow up",
+      "ipa": "/ˈfɒl.əʊ ʌp/",
+      "vi": "theo sát, nhắc lại để tiếp tục (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll follow up with the supplier to make sure the order is on track.",
+      "exampleVi": "Tôi sẽ theo sát với nhà cung cấp để đảm bảo đơn hàng đang đúng tiến độ.",
+      "note": "Cụm động từ: 'follow up with somebody / on something'. Danh từ là 'follow-up' (có gạch nối). Rất thông dụng trong email công việc.",
+      "synonyms": [
+        { "term": "to check in", "ipa": "/tʃek ɪn/", "register": "casual", "nuanceVi": "Nhẹ nhàng hơn, nghĩa 'hỏi thăm xem tình hình thế nào'; ít áp lực hơn 'follow up'." },
+        { "term": "to chase up", "ipa": "/tʃeɪs ʌp/", "register": "casual", "nuanceVi": "Anh-Anh, nhấn 'thúc/giục cho xong'; hơi gấp gáp, dùng khi việc bị chậm." }
+      ]
+    },
+    {
+      "term": "appropriate",
+      "ipa": "/əˈprəʊ.pri.ət/",
+      "vi": "phù hợp, đúng mực (tính từ)",
+      "register": "neutral",
+      "example": "It's important to wear appropriate clothing for client meetings.",
+      "exampleVi": "Mặc trang phục phù hợp cho các buổi gặp khách hàng là điều quan trọng.",
+      "note": "Tính từ. Phát âm khác với động từ 'appropriate' /əˈprəʊ.pri.eɪt/ (chiếm dụng). Trái nghĩa: inappropriate.",
+      "synonyms": [
+        { "term": "suitable", "ipa": "/ˈsuː.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'hợp với mục đích/hoàn cảnh'; trung tính, dễ dùng, gần nghĩa." },
+        { "term": "proper", "ipa": "/ˈprɒp.ər/", "register": "neutral", "nuanceVi": "Nhấn 'đúng chuẩn mực, đúng cách'; hơi thiên về quy tắc, lễ nghi." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Would you mind [V-ing] when you get a chance?",
+      "use": "Nhờ đồng nghiệp làm giúp một việc một cách lịch sự, không áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "Would you mind reviewing this report when you get a chance?",
+        "Would you mind sending me the figures before the meeting?"
+      ],
+      "explanationVi": "'Would you mind + V-ing' nghĩa đen là 'bạn có phiền... không', rất lịch sự khi nhờ vả. Lưu ý: trả lời 'No' nghĩa là 'không phiền, được thôi'. 'when you get a chance' làm yêu cầu nghe thoải mái, không thúc ép.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "Could you possibly [V] in order to [mục đích]?",
+      "use": "Đề nghị giúp đỡ kèm nêu rõ mục đích, nghe khiêm tốn.",
+      "register": "formal",
+      "examples": [
+        "Could you possibly share the slides in order to help me prepare for the call?",
+        "Could you possibly stay a bit later in order to finish the proposal?"
+      ],
+      "explanationVi": "'Could you possibly...?' là mức đề nghị lịch sự bậc cao. 'in order to' nêu mục đích trang trọng hơn 'to' đơn thuần, giúp người nghe hiểu vì sao bạn nhờ.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "I see your point, but I'd suggest [danh từ / V-ing] instead.",
+      "use": "Bày tỏ bất đồng một cách khéo léo trong cuộc họp.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I'd suggest postponing the launch instead.",
+        "I see your point, but I'd suggest a different approach instead."
+      ],
+      "explanationVi": "Công thức 'công nhận trước, phản biện sau': 'I see your point' thừa nhận ý người kia, rồi 'but I'd suggest' đưa đề xuất riêng mà không nghe gay gắt. Rất hợp văn hóa công sở phương Tây.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "That makes sense; however, [mệnh đề].",
+      "use": "Đồng tình một phần rồi nêu điểm khác biệt.",
+      "register": "formal",
+      "examples": [
+        "That makes sense; however, we may run out of time if we add another step.",
+        "That makes sense; however, the budget is quite limited this quarter."
+      ],
+      "explanationVi": "'however' là liên từ trang trọng để chuyển ý trái chiều, đứng sau dấu chấm phẩy hoặc đầu câu mới. Cách này nhẹ nhàng hơn 'but', hợp ngữ cảnh chuyên nghiệp.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I'm so sorry for [danh từ / V-ing]; I'll make sure it doesn't happen again.",
+      "use": "Xin lỗi khi mắc lỗi nơi công sở và cam kết sửa.",
+      "register": "neutral",
+      "examples": [
+        "I'm so sorry for the delay; I'll make sure it doesn't happen again.",
+        "I'm so sorry for missing the deadline; I'll make sure it doesn't happen again."
+      ],
+      "explanationVi": "Lời xin lỗi tốt gồm 2 phần: nhận lỗi cụ thể + cam kết khắc phục. Câu cam kết 'I'll make sure it doesn't happen again' thể hiện tinh thần trách nhiệm, gây thiện cảm."
+    },
+    {
+      "pattern": "Not only did I [V], but I also [V] in order to [mục đích].",
+      "use": "Trình bày bạn đã chủ động làm nhiều hơn một việc.",
+      "register": "formal",
+      "examples": [
+        "Not only did I finish my own tasks, but I also helped a colleague in order to meet the deadline."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đứng đầu câu thì phải đảo trợ động từ ('did I') lên trước chủ ngữ. Cấu trúc nâng cao, gây ấn tượng chủ động — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    },
+    {
+      "pattern": "I'd appreciate it if you could [V].",
+      "use": "Nhờ vả trang trọng, thường trong email hoặc với cấp trên.",
+      "register": "formal",
+      "examples": [
+        "I'd appreciate it if you could send me your feedback by tomorrow.",
+        "I'd appreciate it if you could double-check these numbers."
+      ],
+      "explanationVi": "'I'd appreciate it if you could...' là cách nhờ vả lịch sự, hơi trang trọng, thường gặp trong văn viết công sở. Đừng quên chữ 'it' sau 'appreciate'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi tế nhị.", "example": "Honestly, I think we should rethink the schedule." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ nhàng)", "when": "Khi cần sửa thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, the meeting was moved to three o'clock." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh mẽ sự đồng tình hoặc cam kết.", "example": "I'll definitely have it ready before the deadline." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm cụ thể trong nhiều điểm.", "example": "I'm particularly grateful for your help with the presentation." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn nhìn nhận khách quan, bênh vực nhẹ một phía.", "example": "To be fair, the team was given very little time." },
+    { "term": "I'm afraid", "ipa": "/aɪm əˈfreɪd/", "vi": "e rằng / rất tiếc là", "when": "Báo tin không vui hoặc từ chối một cách nhẹ nhàng.", "example": "I'm afraid I won't be able to join the call this afternoon." }
+  ],
+
+  "dialogue": {
+    "context": "Tại văn phòng, Mai (đồng nghiệp) tới gặp Tom (đồng nghiệp cùng nhóm) để nhờ giúp một báo cáo gấp và trao đổi về một cuộc họp sắp tới. Cuộc trò chuyện thể hiện phép lịch sự công sở: nhờ vả, xin lỗi, bày tỏ ý kiến.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Hi Tom, I'm sorry to bother you. Would you mind ____ over this quarterly report when you get a chance? I'd really value your opinion, particularly on the budget section.",
+        "ipa": "/haɪ tɒm aɪm ˈsɒr.i tə ˈbɒð.ər juː wʊd juː maɪnd ... ˈəʊ.vər ðɪs ˈkwɔː.tə.li rɪˈpɔːt wen juː ɡet ə tʃɑːns aɪd ˈrɪə.li ˈvæl.juː jɔːr əˈpɪn.jən pəˈtɪk.jə.lə.li ɒn ðə ˈbʌdʒ.ɪt ˈsek.ʃən/",
+        "vi": "Chào Tom, xin lỗi đã làm phiền cậu. Cậu có phiền ____ qua bản báo cáo quý này khi rảnh không? Tớ thực sự coi trọng ý kiến của cậu, đặc biệt là phần ngân sách.",
+        "blanks": [
+          { "type": "knowledge", "answer": "looking", "explanationVi": "Sau 'Would you mind' phải dùng V-ing. 'look over' = xem qua, kiểm tra. Xem mẫu câu 'Would you mind + V-ing'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Of course, I'd be happy to help. Although I'm a bit busy with the client proposal, I can definitely take a look this afternoon. When is the ____ for it?",
+        "ipa": "/ɒv kɔːs aɪd biː ˈhæp.i tə help ɔːlˈðəʊ aɪm ə bɪt ˈbɪz.i wɪð ðə ˈklaɪ.ənt prəˈpəʊz.əl aɪ kæn ˈdef.ɪn.ət.li teɪk ə lʊk ðɪs ˌɑːf.təˈnuːn wen ɪz ðə ... fɔːr ɪt/",
+        "vi": "Tất nhiên rồi, tớ rất sẵn lòng giúp. Mặc dù tớ hơi bận với bản đề xuất cho khách hàng, tớ chắc chắn có thể xem chiều nay. Hạn chót của nó là khi nào vậy?",
+        "blanks": [
+          { "type": "knowledge", "answer": "deadline", "explanationVi": "'deadline' = hạn chót. Đi với 'meet/miss a deadline'. Đây là từ vựng trọng tâm của bài." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "It's due tomorrow morning, which is why I wanted to ask early. By the way, I'm so sorry for ____ you the wrong figures last week; I'll make sure it doesn't happen again.",
+        "ipa": "/ɪts djuː təˈmɒr.əʊ ˈmɔː.nɪŋ wɪtʃ ɪz waɪ aɪ ˈwɒn.tɪd tu ɑːsk ˈɜː.li baɪ ðə weɪ aɪm ˈsəʊ ˈsɒr.i fɔːr ... juː ðə rɒŋ ˈfɪɡ.əz lɑːst wiːk aɪl meɪk ʃʊər ɪt ˈdʌz.ənt ˈhæp.ən əˈɡen/",
+        "vi": "Hạn là sáng mai, nên tớ mới muốn hỏi sớm. Mà tiện đây, tớ thực sự xin lỗi vì đã ____ cho cậu số liệu sai tuần trước; tớ sẽ đảm bảo điều đó không tái diễn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "sending", "explanationVi": "Sau giới từ 'for' phải dùng V-ing. 'send somebody something' = gửi cho ai cái gì. Xem mẫu câu 'I'm so sorry for + V-ing'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Don't worry about it at all — these things happen to everyone. Honestly, I appreciate that you let me know ____ instead of waiting. It saved us a lot of trouble.",
+        "ipa": "/dəʊnt ˈwʌr.i əˈbaʊt ɪt ət ɔːl ðiːz θɪŋz ˈhæp.ən tu ˈev.ri.wʌn ˈɒn.ɪst.li aɪ əˈpriː.ʃi.eɪt ðæt juː let miː nəʊ ... ɪnˈsted ɒv ˈweɪ.tɪŋ ɪt seɪvd ʌs ə lɒt ɒv ˈtrʌb.əl/",
+        "vi": "Đừng lo chút nào — chuyện này ai cũng gặp mà. Thành thật mà nói, tớ trân trọng việc cậu báo cho tớ ____ thay vì cứ chờ. Nó giúp bọn mình tránh được khối rắc rối.",
+        "blanks": [
+          { "type": "knowledge", "answer": "promptly", "explanationVi": "Cần một trạng từ chỉ sự kịp thời. 'promptly' = ngay, kịp thời. Đây là từ vựng trọng tâm và rất hợp ngữ cảnh công sở." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Thanks for being so understanding. About tomorrow's meeting — I think we should present the new plan, although some people might find it risky. What's your view?",
+        "ipa": "/θæŋks fɔːr ˈbiː.ɪŋ ˈsəʊ ˌʌn.dəˈstæn.dɪŋ əˈbaʊt təˈmɒr.əʊz ˈmiː.tɪŋ aɪ θɪŋk wiː ʃʊd prɪˈzent ðə njuː plæn ɔːlˈðəʊ sʌm ˈpiː.pəl maɪt faɪnd ɪt ˈrɪs.ki wɒts jɔːr vjuː/",
+        "vi": "Cảm ơn cậu đã thông cảm. Về cuộc họp ngày mai — tớ nghĩ bọn mình nên trình bày kế hoạch mới, mặc dù một số người có thể thấy nó mạo hiểm. Quan điểm của cậu thế nào?"
+      },
+      {
+        "speaker": "Tom",
+        "text": "I see your point, ____ I'd suggest a softer approach instead. We could introduce the plan gradually, such as starting with one department, in order to reduce resistance from the team.",
+        "ipa": "/aɪ siː jɔːr pɔɪnt ... aɪd səˈdʒest ə ˈsɒf.tər əˈprəʊtʃ ɪnˈsted wiː kʊd ˌɪn.trəˈdjuːs ðə plæn ˈɡrædʒ.u.ə.li sʌtʃ æz ˈstɑː.tɪŋ wɪð wʌn dɪˈpɑːt.mənt ɪn ˈɔː.dər tə rɪˈdjuːs rɪˈzɪs.təns frɒm ðə tiːm/",
+        "vi": "Tớ hiểu ý cậu, ____ tớ đề xuất một cách tiếp cận mềm mỏng hơn. Bọn mình có thể giới thiệu kế hoạch dần dần, chẳng hạn bắt đầu với một phòng ban, để giảm bớt sự phản đối từ nhóm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Công thức công nhận rồi phản biện: 'I see your point, but I'd suggest...'. 'but' nối ý trái chiều một cách nhẹ nhàng. Xem mẫu câu bày tỏ bất đồng lịch sự." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That makes sense; however, we have a tight ____ from management, so we may not have the luxury of going slowly. Could you possibly help me prepare a clear summary in order to convince them?",
+        "ipa": "/ðæt meɪks sens haʊˈev.ər wiː hæv ə taɪt ... frɒm ˈmæn.ɪdʒ.mənt səʊ wiː meɪ nɒt hæv ðə ˈlʌk.ʃə.ri ɒv ˈɡəʊ.ɪŋ ˈsləʊ.li kʊd juː ˈpɒs.ə.bli help miː prɪˈpeər ə klɪər ˈsʌm.ər.i ɪn ˈɔː.dər tə kənˈvɪns ðem/",
+        "vi": "Điều đó hợp lý; tuy nhiên, bọn mình có một ____ gấp từ ban quản lý, nên có lẽ không có điều kiện làm chậm rãi. Cậu có thể giúp tớ chuẩn bị một bản tóm tắt rõ ràng để thuyết phục họ không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "deadline", "explanationVi": "'a tight deadline' = một hạn chót gấp. 'tight' thường đi với 'deadline'. Câu này dùng 'however' để chuyển ý trái chiều một cách trang trọng." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Absolutely. Not only will I help with the summary, but I'll also follow ____ with the data team this afternoon. I'm ____ that, if we present it diplomatically, management will be open to the idea.",
+        "ipa": "/ˌæb.səˈluːt.li nɒt ˈəʊn.li wɪl aɪ help wɪð ðə ˈsʌm.ər.i bʌt aɪl ˈɔːl.səʊ ˈfɒl.əʊ ... wɪð ðə ˈdeɪ.tə tiːm ðɪs ˌɑːf.təˈnuːn aɪm ... ðæt ɪf wiː prɪˈzent ɪt ˌdɪp.ləˈmæt.ɪ.kəl.i ˈmæn.ɪdʒ.mənt wɪl biː ˈəʊ.pən tə ðiː aɪˈdɪə/",
+        "vi": "Chắc chắn rồi. Tớ không những giúp phần tóm tắt, mà còn ____ với nhóm dữ liệu chiều nay. Tớ ____ rằng, nếu bọn mình trình bày khéo léo, ban quản lý sẽ cởi mở với ý tưởng này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "up", "explanationVi": "'follow up with somebody' = theo sát, liên hệ tiếp với ai. 'follow' + 'up' tạo cụm động từ trọng tâm của bài." },
+          { "type": "personal", "hint": "Một tính từ thể hiện sự tự tin. Ví dụ: 'confident', 'sure', 'optimistic'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, đúng giờ (punctuality) được coi là dấu hiệu tôn trọng người khác. Đến họp trễ mà không báo trước bị xem là thiếu chuyên nghiệp.",
+    "Văn hóa công sở phương Tây đề cao việc bày tỏ bất đồng một cách thẳng thắn nhưng lịch sự ('I see your point, but…'), thay vì im lặng đồng ý cho qua như nhiều nơi ở châu Á.",
+    "Email công việc thường mong được phản hồi (acknowledge/follow up) trong vòng 24 giờ; im lặng quá lâu dễ bị hiểu là thiếu trách nhiệm.",
+    "Nói 'please', 'thank you' và 'sorry' nhiều một chút là bình thường và được đánh giá cao, không bị xem là khách sáo."
+  ],
+
+  "commonMistakes": [
+    "Dùng nguyên thể sau 'Would you mind' — sai. Phải là V-ing: 'Would you mind HELPING me?', không phải 'Would you mind help me?'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only WILL I help…', không phải 'Not only I will help…'.",
+    "Dùng 'I want you to…' với cấp trên/đồng nghiệp nghe ra lệnh, cộc. Hãy dùng 'Could you possibly…?' hoặc 'I'd appreciate it if you could…'.",
+    "Quên chữ 'it' trong 'I'd appreciate it if you could…' — bỏ 'it' là sai ngữ pháp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện giao tiếp công sở như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp người nói tiếng Anh ở văn phòng của tôi. Mình sẽ trao đổi về công việc hằng ngày: nhờ cậu giúp một việc gấp, bày tỏ ý kiến trong cuộc họp, xin lỗi vì một sơ suất, và phản hồi email. Sau mỗi câu của tôi, hãy: (1) trả lời tự nhiên như một đồng nghiệp thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt lịch sự, chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also', 'in order to' và các mẫu nhờ vả lịch sự như 'Would you mind…?', 'Could you possibly…?'. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ tôi lỡ hạn chót, hoặc có bất đồng ý kiến) để tôi tập xử lý khéo léo. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc chào tôi ở văn phòng nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một cấp trên khó tính để tôi tập giữ thái độ chuyên nghiệp khi bị phê bình.' khi bạn đã quen.",
+      "Thêm: 'Hãy đặt tôi vào một cuộc họp có ý kiến trái chiều để tôi luyện cách bất đồng lịch sự.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nhờ được đồng nghiệp giúp một việc bằng câu lịch sự ('Would you mind…?', 'Could you possibly…?') mà không nhìn gợi ý.",
+    "Tôi bày tỏ được sự bất đồng một cách khéo léo bằng 'I see your point, but…' hoặc 'That makes sense; however,…'.",
+    "Tôi xin lỗi và cam kết khắc phục được một sơ suất nơi công sở một cách tự nhiên, mạch lạc."
+  ]
+}

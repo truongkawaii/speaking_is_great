@@ -1,0 +1,345 @@
+{
+  "id": "networking",
+  "category": "work",
+  "title": "Kết nối chuyên nghiệp",
+  "titleEn": "Networking",
+  "level": "B2",
+  "functions": ["greetings", "small-talk", "describing", "opinions", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Giới thiệu bản thân và công việc một cách tự tin trong sự kiện kết nối",
+    "Mở đầu và duy trì cuộc trò chuyện xã giao bằng câu dài, tự nhiên",
+    "Bày tỏ sự quan tâm và đề xuất giữ liên lạc sau khi gặp gỡ",
+    "Dùng ngữ pháp nâng cao (such as, not only… but also, in order to, mệnh đề quan hệ) khi nói chuyện"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to network",
+      "ipa": "/ˈnet.wɜːk/",
+      "vi": "kết nối, mở rộng quan hệ (động từ)",
+      "register": "neutral",
+      "example": "I attend conferences mainly to network with people in my field.",
+      "exampleVi": "Tôi dự hội nghị chủ yếu để kết nối với những người trong ngành.",
+      "note": "Động từ. Danh từ 'a network' = mạng lưới quan hệ. Hành động 'networking' rất được coi trọng trong môi trường công sở phương Tây.",
+      "synonyms": [
+        { "term": "to connect", "ipa": "/kəˈnekt/", "register": "neutral", "nuanceVi": "Phổ biến, nhẹ nhàng, nhấn vào việc 'tạo mối liên hệ'. Thường nghe trên LinkedIn: 'Let's connect.'" },
+        { "term": "to mingle", "ipa": "/ˈmɪŋ.ɡəl/", "register": "casual", "nuanceVi": "Nghĩa 'đi lại trò chuyện với nhiều người trong một buổi tiệc/sự kiện'. Đời thường, mang sắc thái xã giao thoải mái." }
+      ]
+    },
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to introduce you to a colleague of mine from the design team.",
+      "exampleVi": "Tôi muốn giới thiệu anh với một đồng nghiệp của tôi ở nhóm thiết kế.",
+      "note": "Danh từ. Người làm cùng công ty/tổ chức. Phát âm bẫy: âm cuối là /iːɡ/, KHÔNG đọc 'cô-li-gờ-iu'.",
+      "synonyms": [
+        { "term": "coworker", "ipa": "/ˈkəʊˌwɜː.kər/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt; phổ biến trong tiếng Anh-Mỹ, đời thường hơn 'colleague' một chút." },
+        { "term": "associate", "ipa": "/əˈsəʊ.si.ət/", "register": "formal", "nuanceVi": "Trang trọng, chỉ người cộng tác/làm ăn cùng, không nhất thiết cùng công ty. Hay dùng trong giới kinh doanh." }
+      ]
+    },
+    {
+      "term": "industry",
+      "ipa": "/ˈɪn.də.stri/",
+      "vi": "ngành, lĩnh vực (danh từ)",
+      "register": "neutral",
+      "example": "She has worked in the tech industry for over a decade.",
+      "exampleVi": "Cô ấy đã làm trong ngành công nghệ hơn một thập kỷ.",
+      "note": "Danh từ. Trọng âm rơi vào âm đầu 'IN'. Câu hỏi xã giao kinh điển: 'What industry are you in?'",
+      "synonyms": [
+        { "term": "field", "ipa": "/fiːld/", "register": "neutral", "nuanceVi": "Nghiêng về 'lĩnh vực chuyên môn' của cá nhân (marketing, y học). 'Industry' rộng hơn, chỉ cả khu vực kinh tế." },
+        { "term": "sector", "ipa": "/ˈsek.tər/", "register": "formal", "nuanceVi": "Trang trọng, hay dùng trong báo cáo kinh tế: 'the public sector', 'the banking sector'." }
+      ]
+    },
+    {
+      "term": "to specialize in",
+      "ipa": "/ˈspeʃ.əl.aɪz ɪn/",
+      "vi": "chuyên về (động từ)",
+      "register": "neutral",
+      "example": "Our company specializes in renewable energy solutions.",
+      "exampleVi": "Công ty chúng tôi chuyên về các giải pháp năng lượng tái tạo.",
+      "note": "Động từ, LUÔN đi với giới từ 'in'. Cách hay để mô tả thế mạnh của bạn hoặc công ty.",
+      "synonyms": [
+        { "term": "to focus on", "ipa": "/ˈfəʊ.kəs ɒn/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nhấn 'tập trung vào' chứ chưa hẳn là chuyên gia. Đi với giới từ 'on'." }
+      ]
+    },
+    {
+      "term": "approachable",
+      "ipa": "/əˈprəʊ.tʃə.bəl/",
+      "vi": "dễ gần, dễ bắt chuyện (tính từ)",
+      "register": "neutral",
+      "example": "The keynote speaker was surprisingly approachable during the break.",
+      "exampleVi": "Diễn giả chính lại dễ gần một cách bất ngờ trong giờ giải lao.",
+      "note": "Tính từ, mang sắc thái TÍCH CỰC: người mà bạn cảm thấy thoải mái khi đến bắt chuyện.",
+      "synonyms": [
+        { "term": "friendly", "ipa": "/ˈfrend.li/", "register": "neutral", "nuanceVi": "Phổ biến, nghĩa 'thân thiện'. An toàn để dùng, nhưng 'approachable' nhấn cụ thể vào việc 'dễ đến gần để nói chuyện'." },
+        { "term": "personable", "ipa": "/ˈpɜː.sən.ə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'duyên dáng, dễ mến trong giao tiếp'. Hay dùng để khen kỹ năng xã giao của ai đó." }
+      ]
+    },
+    {
+      "term": "insightful",
+      "ipa": "/ˈɪn.saɪt.fəl/",
+      "vi": "sâu sắc, thấu đáo (tính từ)",
+      "register": "neutral",
+      "example": "That was a really insightful talk on market trends.",
+      "exampleVi": "Đó là một bài nói rất sâu sắc về xu hướng thị trường.",
+      "note": "Tính từ. Lời khen tinh tế dành cho một ý kiến/bài nói cho thấy hiểu biết sâu — rất hợp khi xã giao.",
+      "synonyms": [
+        { "term": "thought-provoking", "ipa": "/ˈθɔːt.prəˌvəʊ.kɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'khiến người ta phải suy nghĩ', gợi mở. Khác 'insightful' (vốn nhấn vào độ sâu của hiểu biết)." },
+        { "term": "enlightening", "ipa": "/ɪnˈlaɪ.tən.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'làm sáng tỏ, giúp mình hiểu ra điều mới'. Nghe học thuật hơn." }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành (trạng từ)",
+      "register": "neutral",
+      "example": "I'm genuinely interested in what your team is working on.",
+      "exampleVi": "Tôi thực sự quan tâm đến những gì nhóm anh đang làm.",
+      "note": "Trạng từ. Thêm vào để lời nói nghe thật lòng, không xã giao sáo rỗng — rất quan trọng khi kết nối.",
+      "synonyms": [
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'từ đáy lòng'. Cũng là từ kết thúc thư trang trọng ('Yours sincerely')." },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Trung tính, nhấn mức độ 'thực sự'. Gần nghĩa nhưng thiên về cường độ hơn là sự chân thành." }
+      ]
+    },
+    {
+      "term": "to follow up",
+      "ipa": "/ˈfɒl.əʊ ʌp/",
+      "vi": "liên hệ lại, theo sát (động từ)",
+      "register": "neutral",
+      "example": "I'll follow up with an email next week to share those resources.",
+      "exampleVi": "Tuần tới tôi sẽ liên hệ lại bằng email để gửi các tài liệu đó.",
+      "note": "Cụm động từ. Đi với 'with somebody / on something'. Danh từ là 'a follow-up' (có gạch nối). Cốt lõi để giữ liên lạc sau khi gặp.",
+      "synonyms": [
+        { "term": "to reach out", "ipa": "/riːtʃ aʊt/", "register": "neutral", "nuanceVi": "Nhấn 'chủ động liên hệ trước'. Hơi đời thường, rất phổ biến: 'Feel free to reach out anytime.'" },
+        { "term": "to get in touch", "ipa": "/ɡet ɪn tʌtʃ/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'liên lạc'. Đi với 'with somebody'. Nhẹ nhàng, lịch sự." }
+      ]
+    },
+    {
+      "term": "to keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "vi": "giữ liên lạc (cụm động từ)",
+      "register": "neutral",
+      "example": "It was great meeting you — let's keep in touch.",
+      "exampleVi": "Rất vui được gặp anh — mình giữ liên lạc nhé.",
+      "note": "Cụm cố định để kết thúc cuộc trò chuyện một cách thân thiện. KHÔNG nói 'keep contact'."
+    },
+    {
+      "term": "business card",
+      "ipa": "/ˈbɪz.nɪs kɑːd/",
+      "vi": "danh thiếp (danh từ)",
+      "register": "neutral",
+      "example": "Here's my business card — feel free to email me anytime.",
+      "exampleVi": "Đây là danh thiếp của tôi — cứ email cho tôi bất cứ lúc nào.",
+      "note": "Danh từ ghép. Việc trao đổi danh thiếp vẫn là nghi thức phổ biến tại sự kiện kết nối, dù LinkedIn đang dần thay thế."
+    },
+    {
+      "term": "to come across as",
+      "ipa": "/kʌm əˈkrɒs æz/",
+      "vi": "tạo ấn tượng là, trông có vẻ (động từ)",
+      "register": "neutral",
+      "example": "I don't want to come across as pushy when I introduce myself.",
+      "exampleVi": "Tôi không muốn tạo ấn tượng là quá sấn sổ khi tự giới thiệu.",
+      "note": "Cụm động từ, đi với tính từ. Mô tả ấn tượng mà người khác cảm nhận về bạn — hữu ích để nói về phong cách giao tiếp."
+    },
+    {
+      "term": "rewarding",
+      "ipa": "/rɪˈwɔː.dɪŋ/",
+      "vi": "đáng giá, mang lại nhiều giá trị (tính từ)",
+      "register": "neutral",
+      "example": "Building genuine relationships at events is far more rewarding than collecting contacts.",
+      "exampleVi": "Xây dựng quan hệ chân thành ở các sự kiện đáng giá hơn nhiều so với việc thu thập danh bạ.",
+      "note": "Tính từ, nghĩa 'mang lại cảm giác hài lòng/giá trị', không phải về tiền bạc. Khác 'profitable' (sinh lời).",
+      "synonyms": [
+        { "term": "fulfilling", "ipa": "/fʊlˈfɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'thỏa mãn về mặt cá nhân/ý nghĩa cuộc sống'. Sâu hơn 'rewarding' một chút." },
+        { "term": "worthwhile", "ipa": "/ˌwɜːθˈwaɪl/", "register": "neutral", "nuanceVi": "Nhấn 'xứng đáng với công sức/thời gian bỏ ra'. Thiên về tính toán chi phí–lợi ích." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi, I don't think we've met — I'm [tên], I work in [lĩnh vực].",
+      "use": "Tự giới thiệu để mở đầu trò chuyện với người lạ tại sự kiện.",
+      "register": "neutral",
+      "examples": [
+        "Hi, I don't think we've met — I'm Nam, I work in software development."
+      ],
+      "explanationVi": "'I don't think we've met' (thì hiện tại hoàn thành) là cách mở đầu lịch sự, tự nhiên để bắt chuyện mà không đường đột. Rất 'an toàn' tại tiệc networking.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "I work for [công ty], where I'm responsible for [danh từ / V-ing].",
+      "use": "Giới thiệu nơi làm việc và vai trò bằng một câu dài, mạch lạc.",
+      "register": "neutral",
+      "examples": [
+        "I work for a fintech startup, where I'm responsible for managing partnerships."
+      ],
+      "explanationVi": "'where' là mệnh đề quan hệ chỉ nơi chốn, gộp hai ý (nơi làm + vai trò) thành một câu mượt. Nghe trôi chảy hơn nói thành hai câu cụt.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "So, what brings you to [sự kiện]?",
+      "use": "Hỏi lý do người kia tham dự — câu mở chuyện kinh điển.",
+      "register": "neutral",
+      "examples": [
+        "So, what brings you to the conference today?",
+        "What brings you here this evening?"
+      ],
+      "explanationVi": "'What brings you to…?' (= điều gì đưa bạn đến đây) là câu small-talk rất tự nhiên, mở ra một cuộc trò chuyện dài hơn là chỉ hỏi 'Why are you here?' (nghe hơi cộc)."
+    },
+    {
+      "pattern": "I'd love to hear more about [danh từ], such as [ví dụ].",
+      "use": "Bày tỏ sự quan tâm và mời người kia nói thêm.",
+      "register": "neutral",
+      "examples": [
+        "I'd love to hear more about your projects, such as the app you just launched."
+      ],
+      "explanationVi": "'I'd love to' thể hiện sự nhiệt thành lịch sự; 'such as' nêu ví dụ cụ thể giúp câu hỏi có trọng tâm, khiến người kia dễ trả lời và thấy bạn thật sự lắng nghe."
+    },
+    {
+      "pattern": "It was great meeting you — would you mind if we [V]?",
+      "use": "Kết thúc trò chuyện và đề nghị giữ liên lạc một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "It was great meeting you — would you mind if we connected on LinkedIn?"
+      ],
+      "explanationVi": "'Would you mind if we…?' là lời đề nghị lịch sự (sau đó dùng quá khứ 'connected'). Bọc lời xin kết nối trong cấu trúc này nghe nhã nhặn, không sấn sổ.",
+      "altOf": "staying-in-touch"
+    },
+    {
+      "pattern": "Let's stay in touch — I'll follow up with [danh từ] in order to [V].",
+      "use": "Hứa hẹn liên hệ lại kèm mục đích cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "Let's stay in touch — I'll follow up with an email in order to share those resources."
+      ],
+      "explanationVi": "'in order to' nêu mục đích trang trọng hơn 'to' đơn thuần. Nêu rõ bạn sẽ làm gì tiếp theo khiến lời 'giữ liên lạc' đáng tin, không sáo rỗng.",
+      "altOf": "staying-in-touch"
+    },
+    {
+      "pattern": "Not only is the event well-organized, but the speakers are also [tính từ].",
+      "use": "Khen ngợi sự kiện để duy trì cuộc trò chuyện tích cực.",
+      "register": "formal",
+      "examples": [
+        "Not only is the event well-organized, but the speakers are also remarkably insightful."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đứng đầu câu thì phải đảo động từ ('is the event'). Cấu trúc nâng cao gây ấn tượng — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Dẫn vào một thông tin hơi bất ngờ hoặc đính chính nhẹ nhàng.", "example": "Actually, I started out in finance before moving into tech." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, tạo cảm giác cởi mở.", "example": "Honestly, this is the most useful conference I've been to this year." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Chuyển sang một câu hỏi/chủ đề mới một cách nhẹ nhàng.", "example": "By the way, are you attending the workshop tomorrow?" },
+    { "term": "as a matter of fact", "ipa": "/æz ə ˈmæt.ər əv fækt/", "vi": "thật ra là", "when": "Nhấn mạnh một thông tin thú vị mình sắp chia sẻ.", "example": "As a matter of fact, we're hiring for a similar role right now." },
+    { "term": "speaking of which", "ipa": "/ˈspiː.kɪŋ əv wɪtʃ/", "vi": "nhân nói đến chuyện đó", "when": "Bắt sang chủ đề liên quan vừa được nhắc tới một cách trôi chảy.", "example": "Speaking of which, have you read the report they published last month?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Hưởng ứng nhiệt tình một đề nghị hoặc khẳng định mạnh.", "example": "Definitely, I'd be happy to introduce you to my manager." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang dự một hội nghị ngành và tới bắt chuyện với một người tham dự khác trong giờ giải lao. Mục tiêu là tự giới thiệu, trò chuyện xã giao và đề nghị giữ liên lạc.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Hi, I don't think we've met — I'm ____, and I work in ____. This is my first time at this conference, although I've heard wonderful things about it for years.",
+        "ipa": "/haɪ aɪ dəʊnt θɪŋk wiːv met aɪm ... ænd aɪ wɜːk ɪn ... ðɪs ɪz maɪ fɜːst taɪm æt ðɪs ˈkɒn.fər.əns ɔːlˈðəʊ aɪv hɜːd ˈwʌn.də.fəl θɪŋz əˈbaʊt ɪt fɔːr jɪəz/",
+        "vi": "Chào, hình như chúng ta chưa gặp nhau — tôi là ____, và tôi làm trong lĩnh vực ____. Đây là lần đầu tôi dự hội nghị này, mặc dù tôi đã nghe nhiều điều tuyệt vời về nó suốt nhiều năm.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Nam' hoặc 'Linh'." },
+          { "type": "personal", "hint": "Lĩnh vực của bạn. Ví dụ: 'marketing', 'software development', 'finance'." }
+        ]
+      },
+      {
+        "speaker": "Người tham dự",
+        "text": "Nice to meet you! I'm Sarah, a product manager at a healthcare company. So, what brings you here today — are you looking to learn, or mainly to ____ with people in the field?",
+        "ipa": "/naɪs tə miːt juː aɪm ˈseə.rə ə ˈprɒd.əkt ˈmæn.ɪdʒ.ər ət ə ˈhelθ.keə ˈkʌm.pə.ni səʊ wɒt brɪŋz juː hɪə təˈdeɪ ɑː juː ˈlʊk.ɪŋ tə lɜːn ɔː ˈmeɪn.li tə ... wɪð ˈpiː.pəl ɪn ðə fiːld/",
+        "vi": "Rất vui được gặp bạn! Tôi là Sarah, quản lý sản phẩm tại một công ty y tế. Vậy điều gì đưa bạn đến đây hôm nay — bạn muốn học hỏi, hay chủ yếu là để ____ với những người trong ngành?",
+        "blanks": [
+          { "type": "knowledge", "answer": "network", "explanationVi": "Dùng động từ 'network' (kết nối, mở rộng quan hệ) sau 'to'. Đây chính là từ vựng trọng tâm của bài; 'to network with people' = kết nối với mọi người." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "A bit of both, honestly. I work for a fintech startup, ____ I'm responsible for building partnerships, so meeting people from different industries is genuinely valuable for me.",
+        "ipa": "/ə bɪt əv bəʊθ ˈɒn.ɪst.li aɪ wɜːk fɔːr ə ˈfɪn.tek ˈstɑːt.ʌp ... aɪm rɪˈspɒn.sə.bəl fɔːr ˈbɪl.dɪŋ ˈpɑːt.nə.ʃɪps səʊ ˈmiː.tɪŋ ˈpiː.pəl frɒm ˈdɪf.rənt ˈɪn.də.striz ɪz ˈdʒen.ju.ɪn.li ˈvæl.jə.bəl fɔːr miː/",
+        "vi": "Thành thật thì cả hai một chút. Tôi làm cho một startup fintech, ____ tôi phụ trách xây dựng quan hệ đối tác, nên việc gặp gỡ người ở các ngành khác nhau thực sự rất giá trị với tôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "where", "explanationVi": "Dùng mệnh đề quan hệ 'where' (chỉ nơi chốn) để nối 'a fintech startup' với vai trò của bạn. Xem mẫu câu 'I work for…, where I'm responsible for…'." }
+        ]
+      },
+      {
+        "speaker": "Người tham dự",
+        "text": "That sounds fascinating. The keynote this morning touched on partnerships too, ____ was particularly relevant to your work, I imagine.",
+        "ipa": "/ðæt saʊndz ˈfæs.ɪ.neɪ.tɪŋ ðə ˈkiː.nəʊt ðɪs ˈmɔː.nɪŋ tʌtʃt ɒn ˈpɑːt.nə.ʃɪps tuː ... wɒz pəˈtɪk.jə.lə.li ˈrel.ə.vənt tə jɔː wɜːk aɪ ɪˈmædʒ.ɪn/",
+        "vi": "Nghe hấp dẫn đấy. Bài phát biểu chính sáng nay cũng đề cập đến quan hệ đối tác, ____ chắc đặc biệt liên quan đến công việc của bạn nhỉ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' để bổ nghĩa cho cả ý đứng trước (việc bài keynote nói về partnerships). Nếu thay cho người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Absolutely — it was incredibly insightful. Not only did the speaker explain the theory, but she also shared real case studies ____ failed mergers and successful alliances, which made it far more practical.",
+        "ipa": "/ˈæb.sə.luːt.li ɪt wɒz ɪnˈkred.ə.bli ˈɪn.saɪt.fəl nɒt ˈəʊn.li dɪd ðə ˈspiː.kər ɪkˈspleɪn ðə ˈθɪə.ri bʌt ʃiː ˈɔːl.səʊ ʃeəd rɪəl keɪs ˈstʌd.iz ... feɪld ˈmɜː.dʒəz ænd səkˈses.fəl əˈlaɪ.ən.sɪz wɪtʃ meɪd ɪt fɑː mɔː ˈpræk.tɪ.kəl/",
+        "vi": "Hoàn toàn đúng — bài nói rất sâu sắc. Diễn giả không chỉ giải thích lý thuyết, mà còn chia sẻ các tình huống thực tế ____ những vụ sáp nhập thất bại và liên minh thành công, khiến nó thực tế hơn nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'real case studies'. Nêu ví dụ cụ thể nghe thuyết phục và sống động hơn. Lưu ý đảo ngữ ở đầu câu: 'Not only did the speaker…'." }
+        ]
+      },
+      {
+        "speaker": "Người tham dự",
+        "text": "I couldn't agree more. By the way, my team is actually exploring a few partnerships at the moment, so it would be great to compare notes sometime.",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː mɔː baɪ ðə weɪ maɪ tiːm ɪz ˈæk.tʃu.ə.li ɪkˈsplɔː.rɪŋ ə fjuː ˈpɑːt.nə.ʃɪps æt ðə ˈməʊ.mənt səʊ ɪt wʊd biː ɡreɪt tə kəmˈpeə nəʊts ˈsʌm.taɪm/",
+        "vi": "Tôi hoàn toàn đồng ý. Nhân tiện, nhóm tôi hiện cũng đang tìm hiểu vài quan hệ đối tác, nên thật tuyệt nếu lúc nào đó chúng ta trao đổi với nhau.",
+        "blanks": []
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd love that. It was great meeting you, Sarah — would you mind if we ____ on LinkedIn? I'll follow up with an email in order to share some resources on cross-industry partnerships.",
+        "ipa": "/aɪd lʌv ðæt ɪt wɒz ɡreɪt ˈmiː.tɪŋ juː ˈseə.rə wʊd juː maɪnd ɪf wiː ... ɒn ˈlɪŋkt.ɪn aɪl ˈfɒl.əʊ ʌp wɪð ən ˈiː.meɪl ɪn ˈɔː.dər tə ʃeə sʌm rɪˈzɔː.sɪz ɒn ˈkrɒs ˈɪn.də.stri ˈpɑːt.nə.ʃɪps/",
+        "vi": "Tôi rất sẵn lòng. Rất vui được gặp chị, Sarah — chị có phiền nếu chúng ta ____ trên LinkedIn không? Tôi sẽ liên hệ lại bằng email để gửi vài tài liệu về quan hệ đối tác liên ngành.",
+        "blanks": [
+          { "type": "knowledge", "answer": "connected", "explanationVi": "Sau 'Would you mind if we…' thường dùng động từ ở dạng quá khứ ('connected') theo lối nói lịch sự. Xem mẫu câu 'would you mind if we…?' ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Người tham dự",
+        "text": "Definitely! Here's my business card. Despite how busy this week is, I'll make sure to reply as soon as your email arrives. Let's keep in touch!",
+        "ipa": "/ˈdef.ɪn.ət.li hɪəz maɪ ˈbɪz.nɪs kɑːd dɪˈspaɪt haʊ ˈbɪz.i ðɪs wiːk ɪz aɪl meɪk ʃʊə tə rɪˈplaɪ əz suːn əz jɔːr ˈiː.meɪl əˈraɪvz lets kiːp ɪn tʌtʃ/",
+        "vi": "Chắc chắn rồi! Đây là danh thiếp của tôi. Dù tuần này rất bận, tôi sẽ chắc chắn trả lời ngay khi email của bạn đến. Mình giữ liên lạc nhé!",
+        "blanks": []
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, networking được xem là kỹ năng nghề nghiệp thiết yếu, không phải 'đi cửa sau'. Chủ động bắt chuyện với người lạ tại sự kiện là hoàn toàn bình thường và được khuyến khích.",
+    "Trao đổi danh thiếp hoặc kết nối LinkedIn ngay sau khi trò chuyện là thông lệ. Một lời 'follow-up' bằng email trong vòng 24–48 giờ giúp mối quan hệ được ghi nhớ.",
+    "Người phương Tây coi trọng small-talk (nói chuyện phiếm về sự kiện, ngành nghề, thời tiết) như bước đệm trước khi vào việc — đừng vội nói chuyện kinh doanh ngay lập tức.",
+    "Chất lượng quan trọng hơn số lượng: xây vài mối quan hệ chân thành (genuine) được đánh giá cao hơn là phát thật nhiều danh thiếp."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID the speaker explain…', không phải 'Not only the speaker explained…'.",
+    "Nói 'keep contact' — sai. Cụm đúng là 'keep in touch' hoặc 'stay in touch'.",
+    "Quên giới từ sau động từ: 'specialize IN', 'follow up WITH somebody', 'get in touch WITH somebody'.",
+    "Vào thẳng chuyện công việc/bán hàng mà bỏ qua small-talk khiến mình 'come across as pushy' (tạo ấn tượng sấn sổ)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện kết nối tại sự kiện như thật.",
+    "prompt": "Hãy đóng vai một người tham dự tại một hội nghị ngành nói tiếng Anh. Tôi cũng là một người tham dự và sẽ tới bắt chuyện với bạn trong giờ giải lao. Hãy trò chuyện tự nhiên qua các bước: chào hỏi và tự giới thiệu, hỏi về công việc/ngành của nhau, bàn về một bài nói tại sự kiện, rồi đề nghị giữ liên lạc. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người thật đang xã giao, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'not only… but also', 'in order to' và mệnh đề quan hệ (which/who/where). Thỉnh thoảng hãy tạo một tình huống bất ngờ (ví dụ bạn vội phải đi, hoặc hỏi một câu khó về ngành của tôi) để tôi tập xử lý. Cuối buổi, hãy nhận xét và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng cách để tôi chào trước nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người khá kiệm lời để tôi tập chủ động giữ cho cuộc trò chuyện không bị chùng xuống.'",
+      "Thêm: 'Hãy nói nhanh và dùng nhiều thành ngữ công sở hơn như người bản xứ.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự giới thiệu được bản thân và công việc bằng một câu dài có mệnh đề quan hệ, không cần nhìn gợi ý.",
+    "Tôi mở và duy trì được cuộc trò chuyện xã giao bằng 'What brings you here?' và các trạng từ làm mượt câu.",
+    "Tôi đề nghị giữ liên lạc một cách lịch sự bằng 'Would you mind if we…?' và 'Let's keep in touch'."
+  ]
+}

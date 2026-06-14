@@ -1,0 +1,411 @@
+{
+  "id": "renting-car",
+  "category": "travel",
+  "title": "Thuê xe",
+  "titleEn": "Renting a Car",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "negotiating"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi thuê xe và nói rõ loại xe, số ngày bạn cần",
+    "Hỏi về giá thuê, bảo hiểm và những gì đã bao gồm trong giá",
+    "Đề nghị lịch sự (xem giấy tờ, nhận và trả xe ở đâu)",
+    "Hiểu và trả lời các câu hỏi cơ bản của nhân viên cho thuê xe"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to rent",
+      "ipa": "/rent/",
+      "vi": "thuê (động từ)",
+      "register": "neutral",
+      "example": "I'd like to rent a car for three days.",
+      "exampleVi": "Tôi muốn thuê một chiếc xe trong ba ngày.",
+      "note": "Động từ. 'rent a car' = thuê xe. Người Anh-Anh đôi khi nói 'hire a car'. Người cho thuê thì dùng 'rent out'.",
+      "synonyms": [
+        {
+          "term": "to hire",
+          "ipa": "/haɪər/",
+          "register": "neutral",
+          "nuanceVi": "Anh-Anh hay dùng 'hire a car' thay cho 'rent a car'. Nghĩa giống nhau. Lưu ý: ở Anh-Mỹ, 'hire' thường nghĩa là 'thuê người làm việc'."
+        }
+      ]
+    },
+    {
+      "term": "rental",
+      "ipa": "/ˈren.təl/",
+      "vi": "việc cho thuê / xe thuê (danh từ, tính từ)",
+      "register": "neutral",
+      "example": "The rental price includes insurance.",
+      "exampleVi": "Giá thuê đã bao gồm bảo hiểm.",
+      "note": "Vừa là danh từ ('a car rental' = một chỗ cho thuê xe) vừa là tính từ ('a rental car' = xe thuê)."
+    },
+    {
+      "term": "driver's license",
+      "ipa": "/ˈdraɪ.vəz ˈlaɪ.səns/",
+      "vi": "bằng lái xe (danh từ)",
+      "register": "neutral",
+      "example": "Can I see your driver's license, please?",
+      "exampleVi": "Cho tôi xem bằng lái xe của bạn được không?",
+      "note": "Anh-Mỹ viết 'license', Anh-Anh viết 'licence' và nói 'driving licence'. Bạn luôn cần xuất trình bằng lái khi thuê xe.",
+      "synonyms": [
+        {
+          "term": "driving licence",
+          "ipa": "/ˈdraɪ.vɪŋ ˈlaɪ.səns/",
+          "register": "neutral",
+          "nuanceVi": "Cách viết và nói của Anh-Anh. Nghĩa y hệt 'driver's license' của Anh-Mỹ."
+        }
+      ]
+    },
+    {
+      "term": "insurance",
+      "ipa": "/ɪnˈʃʊə.rəns/",
+      "vi": "bảo hiểm (danh từ)",
+      "register": "neutral",
+      "example": "Is insurance included in the price?",
+      "exampleVi": "Bảo hiểm có được tính trong giá không?",
+      "note": "Danh từ không đếm được (không có 'an insurance'). Trọng âm rơi vào âm thứ hai: in-SUR-ance."
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "còn sẵn, có thể dùng (tính từ)",
+      "register": "neutral",
+      "example": "Do you have any cars available today?",
+      "exampleVi": "Hôm nay còn xe nào không?",
+      "note": "Tính từ. Rất hữu ích để hỏi xem còn xe trống hay không.",
+      "synonyms": [
+        {
+          "term": "free",
+          "ipa": "/friː/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, nghĩa 'rảnh, còn trống'. Nghe nhẹ nhàng hơn nhưng hơi mơ hồ; trong dịch vụ cho thuê, 'available' rõ nghĩa hơn."
+        },
+        {
+          "term": "in stock",
+          "ipa": "/ɪn stɒk/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'còn hàng/còn xe trong kho'. Hợp khi nói về số lượng xe còn lại, không hợp khi nói về khoảng thời gian rảnh."
+        }
+      ]
+    },
+    {
+      "term": "to pick up",
+      "ipa": "/pɪk ʌp/",
+      "vi": "nhận (xe), lấy (cụm động từ)",
+      "register": "neutral",
+      "example": "Where can I pick up the car?",
+      "exampleVi": "Tôi có thể nhận xe ở đâu?",
+      "note": "Cụm động từ. Danh từ là 'pick-up' (nơi/giờ nhận xe). Ngược lại là 'drop off' (trả xe).",
+      "synonyms": [
+        {
+          "term": "to collect",
+          "ipa": "/kəˈlekt/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn 'pick up', nghĩa 'đến nhận/lấy'. Anh-Anh hay dùng: 'collect the car'."
+        }
+      ]
+    },
+    {
+      "term": "to drop off",
+      "ipa": "/drɒp ɒf/",
+      "vi": "trả (xe), để lại (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll drop off the car at the airport.",
+      "exampleVi": "Tôi sẽ trả xe ở sân bay.",
+      "note": "Cụm động từ. Danh từ là 'drop-off'. Trái nghĩa với 'pick up'.",
+      "synonyms": [
+        {
+          "term": "to return",
+          "ipa": "/rɪˈtɜːn/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'trả lại đúng nơi đã thuê'. Trung tính và rõ ràng: 'return the car'."
+        }
+      ]
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɒz.ɪt/",
+      "vi": "tiền đặt cọc (danh từ)",
+      "register": "neutral",
+      "example": "We need a deposit on your credit card.",
+      "exampleVi": "Chúng tôi cần đặt cọc trên thẻ tín dụng của bạn.",
+      "note": "Tiền tạm giữ, được hoàn lại khi bạn trả xe nguyên vẹn."
+    },
+    {
+      "term": "automatic",
+      "ipa": "/ˌɔː.təˈmæt.ɪk/",
+      "vi": "xe số tự động (tính từ / danh từ)",
+      "register": "neutral",
+      "example": "Do you have an automatic car?",
+      "exampleVi": "Bạn có xe số tự động không?",
+      "note": "Ngược lại là 'manual' (số sàn). Nhiều người châu Á quen lái số tự động, nên đây là câu hỏi rất hay dùng."
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔː.də.bəl/",
+      "vi": "phải chăng, giá hợp lý (tính từ)",
+      "register": "neutral",
+      "example": "I'm looking for an affordable car.",
+      "exampleVi": "Tôi đang tìm một chiếc xe giá phải chăng.",
+      "note": "Tính từ. Nghĩa 'đủ rẻ để trả được', lịch sự hơn nói thẳng 'cheap'.",
+      "synonyms": [
+        {
+          "term": "cheap",
+          "ipa": "/tʃiːp/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, nghĩa 'rẻ'. Đôi khi mang ý 'rẻ tiền, kém chất lượng', nên 'affordable' nghe lịch sự và tích cực hơn."
+        },
+        {
+          "term": "reasonable",
+          "ipa": "/ˈriː.zən.ə.bəl/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'giá hợp lý, công bằng'. Dùng khi muốn khen giá không quá đắt: 'a reasonable price'."
+        }
+      ]
+    },
+    {
+      "term": "roughly",
+      "ipa": "/ˈrʌf.li/",
+      "vi": "khoảng chừng, áng chừng (trạng từ)",
+      "register": "neutral",
+      "example": "It costs roughly fifty dollars a day.",
+      "exampleVi": "Nó tốn khoảng năm mươi đô một ngày.",
+      "note": "Trạng từ. Dùng khi nói một con số không chính xác hoàn toàn.",
+      "synonyms": [
+        {
+          "term": "about",
+          "ipa": "/əˈbaʊt/",
+          "register": "neutral",
+          "nuanceVi": "Phổ biến và dễ dùng nhất, nghĩa 'khoảng'. An toàn trong mọi tình huống: 'about fifty dollars'."
+        },
+        {
+          "term": "approximately",
+          "ipa": "/əˈprɒk.sɪ.mət.li/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, hay gặp trong văn bản hoặc thông báo chính thức. Nói chuyện đời thường thì 'about' tự nhiên hơn."
+        }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to rent [loại xe] for [số] days.",
+      "use": "Mở đầu yêu cầu thuê xe và nói rõ loại xe, số ngày.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to rent a small car for three days.",
+        "I'd like to rent an automatic for a week."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want to'. Đây là câu xương sống để mở đầu khi thuê xe.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể] ... ?",
+      "use": "Xin phép hoặc đề nghị một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I see the car first?",
+        "Could I pick up the car at the airport?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?', rất hợp khi nói chuyện với nhân viên. Dùng cho việc bạn muốn họ cho phép hoặc làm giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "How much does it cost [thời gian / điều kiện]?",
+      "use": "Hỏi giá thuê.",
+      "register": "neutral",
+      "examples": [
+        "How much does it cost per day?",
+        "How much does it cost for a week?"
+      ],
+      "explanationVi": "'per day' = mỗi ngày, 'for a week' = trong một tuần. Đây là câu hỏi giá cơ bản và an toàn nhất."
+    },
+    {
+      "pattern": "Is [danh từ] included?",
+      "use": "Hỏi xem một thứ đã nằm trong giá chưa.",
+      "register": "neutral",
+      "examples": [
+        "Is insurance included?",
+        "Is the fuel included in the price?"
+      ],
+      "explanationVi": "'included' = đã bao gồm (không tính thêm tiền). Hỏi câu này để tránh bị tính phí bất ngờ, đặc biệt là bảo hiểm."
+    },
+    {
+      "pattern": "Do you have any [danh từ] available?",
+      "use": "Hỏi xem còn xe hay loại xe nào không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any cars available today?",
+        "Do you have any automatic cars available?"
+      ],
+      "explanationVi": "'available' = còn sẵn. Dùng khi bạn đến mà chưa đặt trước, hoặc muốn hỏi một loại xe cụ thể.",
+      "altOf": "asking-availability"
+    },
+    {
+      "pattern": "Where can I [động từ] the car?",
+      "use": "Hỏi địa điểm nhận hoặc trả xe.",
+      "register": "neutral",
+      "examples": [
+        "Where can I pick up the car?",
+        "Where can I drop off the car?"
+      ],
+      "explanationVi": "Mẫu hỏi địa điểm rất gọn. Thay động từ 'pick up' (nhận) hoặc 'drop off' (trả) tùy ý bạn cần hỏi."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin mà không muốn nghe cộc lốc.",
+      "example": "Actually, I need an automatic car, not a manual one."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, is insurance included?"
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.",
+      "example": "I just need a small car for the weekend."
+    },
+    {
+      "term": "roughly",
+      "ipa": "/ˈrʌf.li/",
+      "vi": "khoảng chừng",
+      "when": "Khi nói hoặc hỏi một con số không cần chính xác.",
+      "example": "It's roughly forty dollars a day."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːs/",
+      "vi": "tất nhiên rồi",
+      "when": "Khi đồng ý hoặc trả lời lịch sự một yêu cầu.",
+      "example": "Of course, here is my driver's license."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang ở quầy cho thuê xe tại sân bay và muốn thuê một chiếc xe cho chuyến đi vài ngày.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! Welcome to City Car Rental. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈwel.kəm tə ˈsɪt.i kɑː ˈren.təl haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng! Chào mừng đến với City Car Rental. Tôi có thể giúp gì cho bạn hôm nay?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to rent a small car for ____ days, because I'm visiting a few towns nearby.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tə rent ə smɔːl kɑː fɔː deɪz bɪˈkɒz aɪm ˈvɪz.ɪt.ɪŋ ə fjuː taʊnz ˈnɪə.baɪ/",
+        "vi": "Chào buổi sáng. Tôi muốn thuê một chiếc xe nhỏ trong ____ ngày, vì tôi sẽ đi thăm vài thị trấn gần đây.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Số ngày bạn muốn thuê xe. Ví dụ: 'three' (3 ngày)."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. We have several cars available, such as a compact and a small SUV. Would you prefer an automatic or a manual?",
+        "ipa": "/əv ˈkɔːs wiː hæv ˈsev.rəl kɑːz əˈveɪ.lə.bəl sʌtʃ æz ə ˈkɒm.pækt ænd ə smɔːl ˌes.juːˈviː wʊd juː prɪˈfɜːr ən ˌɔː.təˈmæt.ɪk ɔːr ə ˈmæn.ju.əl/",
+        "vi": "Tất nhiên rồi. Chúng tôi có vài chiếc xe còn trống, chẳng hạn một xe cỡ nhỏ và một SUV nhỏ. Bạn muốn xe số tự động hay số sàn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "An automatic, please. By the way, how much ____ it cost per day?",
+        "ipa": "/ən ˌɔː.təˈmæt.ɪk pliːz baɪ ðə weɪ haʊ mʌtʃ ɪt kɒst pɜː deɪ/",
+        "vi": "Cho tôi xe số tự động. Tiện thể, mỗi ngày ____ bao nhiêu tiền?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "does",
+            "explanationVi": "Câu hỏi ở thì hiện tại đơn với chủ ngữ 'it' nên dùng trợ động từ 'does': 'How much does it cost...?'. Xem mẫu câu 'How much does it cost...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "It's roughly fifty dollars a day, although the price is lower if you rent for a whole week.",
+        "ipa": "/ɪts ˈrʌf.li ˈfɪf.ti ˈdɒl.əz ə deɪ ɔːlˈðəʊ ðə praɪs ɪz ˈləʊ.ər ɪf juː rent fɔːr ə həʊl wiːk/",
+        "vi": "Khoảng năm mươi đô một ngày, mặc dù giá sẽ rẻ hơn nếu bạn thuê cả tuần."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds affordable. Is insurance ____ in the price?",
+        "ipa": "/ðæt saʊndz əˈfɔː.də.bəl ɪz ɪnˈʃʊə.rəns ɪn ðə praɪs/",
+        "vi": "Nghe có vẻ phải chăng. Bảo hiểm có ____ trong giá không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "included",
+            "explanationVi": "Dùng 'included' (đã bao gồm trong giá). Cấu trúc: 'Is + danh từ + included?'. Xem mẫu câu 'Is ... included?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Yes, basic insurance is included. However, we'll also need a deposit on your credit card, which we'll return when you bring the car back.",
+        "ipa": "/jes ˈbeɪ.sɪk ɪnˈʃʊə.rəns ɪz ɪnˈkluː.dɪd haʊˈev.ər wiːl ˈɔːl.səʊ niːd ə dɪˈpɒz.ɪt ɒn jɔː ˈkred.ɪt kɑːd wɪtʃ wiːl rɪˈtɜːn wen juː brɪŋ ðə kɑː bæk/",
+        "vi": "Vâng, bảo hiểm cơ bản đã được tính. Tuy nhiên, chúng tôi cũng cần một khoản đặt cọc trên thẻ tín dụng của bạn, khoản này chúng tôi sẽ hoàn lại khi bạn mang xe về."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's fine. ____ I pick up the car here, and can I drop it off at the airport instead?",
+        "ipa": "/ðæts faɪn aɪ pɪk ʌp ðə kɑː hɪər ænd kæn aɪ drɒp ɪt ɒf ət ði ˈeə.pɔːt ɪnˈsted/",
+        "vi": "Được thôi. ____ tôi nhận xe ở đây, và tôi có thể trả xe ở sân bay thay vào đó không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "Mẫu đề nghị lịch sự: 'Could I...?'. Lịch sự hơn 'Can I...?' khi nói với nhân viên. Xem mẫu câu 'Could I...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. Just bring your driver's license and we'll get everything ready for you. Enjoy your trip!",
+        "ipa": "/əv ˈkɔːs dʒʌst brɪŋ jɔː ˈdraɪ.vəz ˈlaɪ.səns ænd wiːl ɡet ˈev.ri.θɪŋ ˈred.i fɔː juː ɪnˈdʒɔɪ jɔː trɪp/",
+        "vi": "Tất nhiên rồi. Bạn chỉ cần đưa bằng lái xe và chúng tôi sẽ chuẩn bị mọi thứ sẵn sàng cho bạn. Chúc bạn có chuyến đi vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi thuê xe ở nước ngoài, bạn gần như luôn cần bằng lái quốc tế (International Driving Permit) đi kèm bằng lái gốc.",
+    "Hầu hết công ty cho thuê yêu cầu thẻ tín dụng (không phải thẻ ghi nợ) để giữ tiền cọc, và tài xế thường phải đủ một độ tuổi nhất định (hay là 21 hoặc 25).",
+    "Ở nhiều nước phương Tây, xe số sàn (manual) phổ biến hơn, nên nếu bạn chỉ quen số tự động hãy hỏi rõ 'automatic' khi đặt.",
+    "Nên kiểm tra và chụp ảnh xe trước khi nhận để tránh bị tính phí cho những vết xước có sẵn khi trả xe."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a car' nghe cộc và đòi hỏi. Hãy dùng 'I'd like to rent...' cho lịch sự.",
+    "Quên trợ động từ trong câu hỏi: phải nói 'How much DOES it cost?', không phải 'How much it cost?'.",
+    "Nói 'an insurance' — 'insurance' là danh từ không đếm được, không có 'an'. Chỉ cần nói 'insurance'.",
+    "Lẫn lộn 'pick up' (nhận xe) và 'drop off' (trả xe). Nhớ: pick up khi bắt đầu, drop off khi kết thúc."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống thuê xe như thật.",
+    "prompt": "Hãy đóng vai một nhân viên quầy cho thuê xe nói tiếng Anh. Tôi là khách muốn thuê một chiếc xe. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra một tình huống bất ngờ (ví dụ hết xe số tự động, cần thêm phụ phí, hỏi tuổi của tôi) để tôi tập xử lý. Hãy hỏi từng câu một và nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự nói được câu thuê xe có loại xe và số ngày mà không nhìn gợi ý.",
+    "Tôi hỏi được giá thuê và hỏi bảo hiểm có được tính trong giá không.",
+    "Tôi dùng được mẫu 'Could I...?' để hỏi nơi nhận và trả xe."
+  ]
+}

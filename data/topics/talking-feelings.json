@@ -1,0 +1,362 @@
+{
+  "id": "talking-feelings",
+  "category": "family",
+  "title": "Nói về cảm xúc",
+  "titleEn": "Talking About Feelings",
+  "level": "B1",
+  "functions": ["describing", "opinions", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gọi tên và mô tả cảm xúc của bản thân bằng câu vừa, tự nhiên",
+    "Hỏi thăm và an ủi người thân khi họ buồn hoặc căng thẳng",
+    "Giải thích lý do vì sao mình cảm thấy như vậy (because, so, such as)",
+    "Dùng tính từ cảm xúc và trạng từ mức độ (really, a bit, completely) đúng sắc thái"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "feeling",
+      "ipa": "/ˈfiː.lɪŋ/",
+      "vi": "cảm xúc, cảm giác (danh từ)",
+      "register": "neutral",
+      "example": "I had a strange feeling that something was wrong.",
+      "exampleVi": "Tôi có một cảm giác kỳ lạ rằng có gì đó không ổn.",
+      "note": "Danh từ. Hỏi thăm cảm xúc người khác thường dùng động từ: 'How are you feeling?' chứ không nói 'How is your feeling?'.",
+      "synonyms": [
+        { "term": "emotion", "ipa": "/ɪˈməʊ.ʃən/", "register": "neutral", "nuanceVi": "Trang trọng và 'sách vở' hơn, chỉ cảm xúc mạnh, sâu (vui, buồn, giận). 'feeling' rộng hơn, gồm cả cảm giác mơ hồ." },
+        { "term": "mood", "ipa": "/muːd/", "register": "neutral", "nuanceVi": "Nhấn vào tâm trạng nhất thời lúc đó (good mood / bad mood), không phải một cảm xúc cụ thể." }
+      ]
+    },
+    {
+      "term": "upset",
+      "ipa": "/ʌpˈset/",
+      "vi": "buồn bực, khó chịu (tính từ)",
+      "register": "neutral",
+      "example": "She was really upset about the argument with her sister.",
+      "exampleVi": "Cô ấy thực sự buồn bực về vụ cãi nhau với em gái.",
+      "note": "Tính từ. Nghĩa rộng: vừa buồn vừa hơi bực, do điều gì đó làm mình tổn thương. Đi với 'about something'.",
+      "synonyms": [
+        { "term": "annoyed", "ipa": "/əˈnɔɪd/", "register": "neutral", "nuanceVi": "Nhẹ hơn, thiên về 'bực mình, khó chịu' chứ không buồn. Vd bị ai làm phiền." },
+        { "term": "devastated", "ipa": "/ˈdev.ə.steɪ.tɪd/", "register": "neutral", "nuanceVi": "Rất mạnh: 'suy sụp, đau khổ tột cùng'. Chỉ dùng cho chuyện thật sự lớn (mất người thân, thất bại nặng)." },
+        { "term": "down", "ipa": "/daʊn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'xuống tinh thần, ỉu xìu'. 'I feel a bit down today.' Nhẹ và thân mật." }
+      ]
+    },
+    {
+      "term": "stressed",
+      "ipa": "/strest/",
+      "vi": "căng thẳng, áp lực (tính từ)",
+      "register": "neutral",
+      "example": "I've been feeling stressed because of all the exams.",
+      "exampleVi": "Tôi thấy căng thẳng vì cả đống bài thi.",
+      "note": "Tính từ. Hay dùng dạng 'stressed out' cho nhấn mạnh. Đừng nhầm với 'stressful' (tả việc/tình huống gây căng thẳng, không tả người).",
+      "synonyms": [
+        { "term": "overwhelmed", "ipa": "/ˌəʊ.vəˈwelmd/", "register": "neutral", "nuanceVi": "Nhấn 'quá tải, ngợp vì có quá nhiều thứ phải lo cùng lúc'. Mạnh hơn 'stressed' một chút." },
+        { "term": "anxious", "ipa": "/ˈæŋk.ʃəs/", "register": "neutral", "nuanceVi": "Nghiêng về 'lo lắng, bồn chồn về điều sắp tới', không chỉ là áp lực công việc." }
+      ]
+    },
+    {
+      "term": "relieved",
+      "ipa": "/rɪˈliːvd/",
+      "vi": "nhẹ nhõm (tính từ)",
+      "register": "neutral",
+      "example": "I was so relieved when I heard the good news.",
+      "exampleVi": "Tôi nhẹ cả người khi nghe tin tốt.",
+      "note": "Tính từ. Cảm giác trút được gánh nặng sau khi lo lắng. Danh từ là 'relief': 'What a relief!'.",
+      "synonyms": [
+        { "term": "reassured", "ipa": "/ˌriː.əˈʃɔːd/", "register": "neutral", "nuanceVi": "Nhấn 'được trấn an, yên tâm trở lại nhờ ai đó nói/làm gì'. Thiên về có người làm mình bớt lo." }
+      ]
+    },
+    {
+      "term": "cheerful",
+      "ipa": "/ˈtʃɪə.fəl/",
+      "vi": "vui vẻ, tươi tỉnh (tính từ)",
+      "register": "neutral",
+      "example": "My grandmother is always cheerful, even on a rainy day.",
+      "exampleVi": "Bà tôi lúc nào cũng vui vẻ, kể cả ngày mưa.",
+      "note": "Tính từ, tả người hoặc bầu không khí toát ra sự vui tươi, lạc quan.",
+      "synonyms": [
+        { "term": "delighted", "ipa": "/dɪˈlaɪ.tɪd/", "register": "neutral", "nuanceVi": "Nhấn 'rất vui mừng, hài lòng' về một điều cụ thể vừa xảy ra. Mạnh hơn 'happy'." },
+        { "term": "thrilled", "ipa": "/θrɪld/", "register": "casual", "nuanceVi": "Vui sướng, phấn khích tột độ. 'I'm thrilled!' nghe rất hồ hởi, thân mật." }
+      ]
+    },
+    {
+      "term": "to cheer up",
+      "ipa": "/tʃɪər ʌp/",
+      "vi": "làm vui lên / phấn chấn hơn (động từ)",
+      "register": "casual",
+      "example": "I called my brother to cheer him up after his bad day.",
+      "exampleVi": "Tôi gọi cho em trai để động viên nó vui lên sau một ngày tệ.",
+      "note": "Cụm động từ. 'cheer somebody up' = làm ai đó vui lên; 'Cheer up!' = 'Vui lên nào!'.",
+      "synonyms": [
+        { "term": "to comfort", "ipa": "/ˈkʌm.fət/", "register": "neutral", "nuanceVi": "Nhấn 'an ủi, vỗ về' để ai bớt buồn/đau, không nhất thiết làm họ vui hẳn lên." }
+      ]
+    },
+    {
+      "term": "to express",
+      "ipa": "/ɪkˈspres/",
+      "vi": "bày tỏ, diễn đạt (cảm xúc) (động từ)",
+      "register": "neutral",
+      "example": "It's healthy to express your emotions instead of hiding them.",
+      "exampleVi": "Bày tỏ cảm xúc thay vì giấu kín là điều lành mạnh.",
+      "note": "Động từ. Đi với 'express your feelings/emotions/opinion'. Đừng nhầm danh từ 'expression' (biểu cảm/cách diễn đạt).",
+      "synonyms": [
+        { "term": "to show", "ipa": "/ʃəʊ/", "register": "casual", "nuanceVi": "Đơn giản, đời thường: 'show your feelings'. Nhẹ và phổ biến hơn 'express'." },
+        { "term": "to convey", "ipa": "/kənˈveɪ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'truyền đạt thông điệp/cảm xúc cho người khác hiểu'. Hơi văn vẻ." }
+      ]
+    },
+    {
+      "term": "supportive",
+      "ipa": "/səˈpɔː.tɪv/",
+      "vi": "luôn ủng hộ, biết động viên (tính từ)",
+      "register": "neutral",
+      "example": "My parents have always been very supportive of my choices.",
+      "exampleVi": "Bố mẹ tôi luôn rất ủng hộ những lựa chọn của tôi.",
+      "note": "Tính từ. Tả người luôn đứng về phía, giúp đỡ và động viên mình. Đi với 'supportive of somebody/something'.",
+      "synonyms": [
+        { "term": "caring", "ipa": "/ˈkeə.rɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'quan tâm, ân cần chăm sóc' về mặt tình cảm, không chỉ là ủng hộ quyết định." },
+        { "term": "understanding", "ipa": "/ˌʌn.dəˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'thông cảm, biết đặt mình vào hoàn cảnh người khác'. Một kiểu hỗ trợ tinh thần." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I felt a bit lonely after everyone left.",
+      "exampleVi": "Thành thật mà nói, tôi thấy hơi cô đơn sau khi mọi người về.",
+      "note": "Trạng từ. Mở đầu một lời thổ lộ chân thành. Lưu ý 'h' câm: đọc là /ˈɒn.ɪst.li/.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Nhấn 'nói thẳng' điều có thể hơi khó nghe. Thẳng thắn hơn 'honestly' một chút." },
+        { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "register": "casual", "nuanceVi": "Cụm thân mật, cùng nghĩa, hay đặt đầu câu khi tâm sự: 'To be honest, I was scared.'" }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "dần dần, từ từ (trạng từ)",
+      "register": "neutral",
+      "example": "I gradually felt better after talking to my mum.",
+      "exampleVi": "Tôi dần thấy khá hơn sau khi nói chuyện với mẹ.",
+      "note": "Trạng từ. Tả sự thay đổi diễn ra từ từ theo thời gian, hợp khi kể quá trình hồi phục cảm xúc.",
+      "synonyms": [
+        { "term": "slowly", "ipa": "/ˈsləʊ.li/", "register": "neutral", "nuanceVi": "Nhấn tốc độ chậm. 'gradually' nhấn 'từng chút một, theo từng bước', không chỉ là chậm." },
+        { "term": "little by little", "ipa": "/ˈlɪt.əl baɪ ˈlɪt.əl/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'từng chút từng chút một'. Gần nghĩa gradually nhưng thân mật hơn." }
+      ]
+    },
+    {
+      "term": "mood",
+      "ipa": "/muːd/",
+      "vi": "tâm trạng (danh từ)",
+      "register": "neutral",
+      "example": "He's been in a bad mood all morning.",
+      "exampleVi": "Anh ấy cáu kỉnh cả buổi sáng.",
+      "note": "Danh từ. Cụm hay dùng: 'in a good/bad mood', 'mood swings' (thay đổi tâm trạng thất thường)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm feeling a bit [tính từ] because [mệnh đề].",
+      "use": "Nói ra cảm xúc hiện tại của mình kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'm feeling a bit stressed because I have a lot of work to finish.",
+        "I'm feeling a bit down because my best friend moved away."
+      ],
+      "explanationVi": "'a bit' làm cảm xúc nghe nhẹ đi, đỡ nặng nề. 'because + mệnh đề' nêu lý do. Đây là mẫu xương sống để mở lòng ở mức B1.",
+      "altOf": "stating-feeling"
+    },
+    {
+      "pattern": "To be honest, I feel [tính từ] about [danh từ / V-ing].",
+      "use": "Thổ lộ một cảm xúc thật, hơi riêng tư.",
+      "register": "neutral",
+      "examples": [
+        "To be honest, I feel nervous about the family dinner tonight.",
+        "To be honest, I feel relieved about finally telling them the truth."
+      ],
+      "explanationVi": "'To be honest' báo hiệu bạn sắp nói thật lòng, khiến lời tâm sự nghe chân thành. Nhớ dùng giới từ 'about' sau tính từ cảm xúc.",
+      "altOf": "stating-feeling"
+    },
+    {
+      "pattern": "How are you feeling [trạng ngữ thời gian]?",
+      "use": "Hỏi thăm cảm xúc/tâm trạng của người thân.",
+      "register": "neutral",
+      "examples": [
+        "How are you feeling today?",
+        "How have you been feeling lately?"
+      ],
+      "explanationVi": "Dùng 'feeling' (V-ing) chứ KHÔNG nói 'How is your feeling?'. Đây là câu hỏi thăm tự nhiên nhất khi quan tâm ai đó.",
+      "altOf": "asking-feeling"
+    },
+    {
+      "pattern": "Is everything okay? You seem [tính từ].",
+      "use": "Hỏi thăm khi nhận thấy người kia có vẻ không ổn.",
+      "register": "neutral",
+      "examples": [
+        "Is everything okay? You seem a little quiet today.",
+        "Is everything okay? You seem upset."
+      ],
+      "explanationVi": "'You seem + tính từ' = trông bạn có vẻ... Cách mở lời tế nhị, dựa trên quan sát, để người kia dễ chia sẻ.",
+      "altOf": "asking-feeling"
+    },
+    {
+      "pattern": "Don't worry, [mệnh đề]. Everything will be fine.",
+      "use": "An ủi, trấn an người thân đang lo lắng.",
+      "register": "casual",
+      "examples": [
+        "Don't worry, you did your best. Everything will be fine.",
+        "Don't worry, I'm here for you. Everything will be fine."
+      ],
+      "explanationVi": "Câu trấn an quen thuộc. 'I'm here for you' (tôi luôn ở bên bạn) là cách thể hiện sự ủng hộ rất ấm áp.",
+      "altOf": "comforting"
+    },
+    {
+      "pattern": "If you ever need to talk, [mệnh đề].",
+      "use": "Mời người thân chia sẻ bất cứ lúc nào — thể hiện sự ủng hộ.",
+      "register": "neutral",
+      "examples": [
+        "If you ever need to talk, I'm always here.",
+        "If you ever need to talk, just give me a call."
+      ],
+      "explanationVi": "Câu điều kiện loại 1 với 'ever' (bất cứ khi nào) tạo cảm giác cánh cửa luôn mở. Cách an ủi tinh tế, không ép người kia phải nói ngay.",
+      "altOf": "comforting"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đính chính nhẹ hoặc thổ lộ điều trái với vẻ ngoài.", "example": "Actually, I'm not as fine as I look." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời tâm sự chân thành.", "example": "Honestly, I've been feeling quite lonely lately." },
+    { "term": "completely", "ipa": "/kəmˈpliːt.li/", "vi": "hoàn toàn (nhấn mức độ mạnh)", "when": "Nhấn cảm xúc ở mức tối đa, đi với tính từ mạnh.", "example": "I was completely exhausted after the long trip." },
+    { "term": "a bit", "ipa": "/ə bɪt/", "vi": "hơi hơi (giảm nhẹ mức độ)", "when": "Làm cảm xúc nghe nhẹ đi, đỡ nặng nề khi chia sẻ.", "example": "I'm a bit nervous about meeting his parents." },
+    { "term": "lately", "ipa": "/ˈleɪt.li/", "vi": "gần đây", "when": "Nói về cảm xúc kéo dài trong thời gian gần đây.", "example": "I haven't been sleeping well lately." }
+  ],
+
+  "dialogue": {
+    "context": "Lan nhận thấy em trai mình là Minh có vẻ buồn và ít nói trong bữa tối. Cô hỏi thăm và lắng nghe Minh chia sẻ về một tuần căng thẳng.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Hey Minh, is everything okay? You ____ a bit quiet tonight, although you usually talk a lot during dinner.",
+        "ipa": "/heɪ mɪn ɪz ˈev.ri.θɪŋ əʊˈkeɪ juː ... ə bɪt ˈkwaɪ.ət təˈnaɪt ɔːlˈðəʊ juː ˈjuː.ʒu.ə.li tɔːk ə lɒt ˈdjʊə.rɪŋ ˈdɪn.ər/",
+        "vi": "Này Minh, mọi chuyện ổn chứ? Em ____ hơi ít nói tối nay, dù mọi khi em nói rất nhiều trong bữa tối.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "seem",
+            "explanationVi": "Dùng 'seem + tính từ' = trông có vẻ... Mẫu câu hỏi thăm tế nhị: 'You seem + tính từ.' Xem cấu trúc 'Is everything okay? You seem...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, I'm feeling a bit ____ because I've had so many deadlines at work this week, and I haven't been sleeping well.",
+        "ipa": "/ˈɒn.ɪst.li aɪm ˈfiː.lɪŋ ə bɪt ... bɪˈkɒz aɪv hæd səʊ ˈmen.i ˈded.laɪnz ət wɜːk ðɪs wiːk ænd aɪ ˈhævnt biːn ˈsliː.pɪŋ wel/",
+        "vi": "Thành thật thì em thấy hơi ____ vì tuần này có quá nhiều hạn chót ở chỗ làm, mà em lại ngủ không ngon.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một tính từ tả cảm xúc của bạn. Ví dụ: 'stressed', 'overwhelmed', 'tired'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I'm sorry to hear that. Although work can be tough, you shouldn't push yourself too hard. Have you tried to express how you feel to your manager?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt ɔːlˈðəʊ wɜːk kæn biː tʌf juː ˈʃʊd.ənt pʊʃ jɔːrˈself tuː hɑːd hæv juː traɪd tu ɪkˈspres haʊ juː fiːl tə jɔːr ˈmæn.ɪdʒ.ər/",
+        "vi": "Chị tiếc khi nghe vậy. Dù công việc có thể vất vả, em cũng không nên ép bản thân quá. Em đã thử bày tỏ cảm giác của mình với quản lý chưa?"
+      },
+      {
+        "speaker": "Minh",
+        "text": "Not yet. To be honest, I feel nervous ____ talking to him, because I don't want him to think I can't handle the pressure.",
+        "ipa": "/nɒt jet tə biː ˈɒn.ɪst aɪ fiːl ˈnɜː.vəs ... ˈtɔː.kɪŋ tuː hɪm bɪˈkɒz aɪ dəʊnt wɒnt hɪm tə θɪŋk aɪ kɑːnt ˈhæn.dəl ðə ˈpreʃ.ər/",
+        "vi": "Chưa đâu. Thành thật mà nói em thấy lo lắng ____ việc nói chuyện với sếp, vì em không muốn ông ấy nghĩ là em không chịu nổi áp lực.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "about",
+            "explanationVi": "Sau tính từ cảm xúc như 'nervous', 'worried', 'excited' ta dùng giới từ 'about' + danh từ/V-ing. Xem mẫu 'I feel + tính từ + about + V-ing'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I understand, but a good manager will appreciate honesty. Not only will it ease your stress, but it might also lead to a fairer workload.",
+        "ipa": "/aɪ ˌʌn.dəˈstænd bʌt ə ɡʊd ˈmæn.ɪdʒ.ər wɪl əˈpriː.ʃi.eɪt ˈɒn.ɪs.ti nɒt ˈəʊn.li wɪl ɪt iːz jɔːr stres bʌt ɪt maɪt ˈɔːl.səʊ liːd tuː ə ˈfeə.rər ˈwɜːk.ləʊd/",
+        "vi": "Chị hiểu, nhưng một người quản lý tốt sẽ trân trọng sự thành thật. Việc đó không chỉ giúp em bớt căng thẳng mà còn có thể dẫn tới khối lượng công việc công bằng hơn."
+      },
+      {
+        "speaker": "Minh",
+        "text": "Maybe you're right. ____ I always worry too much, talking to you already makes me feel a little better.",
+        "ipa": "/ˈmeɪ.biː jɔː raɪt ... aɪ ˈɔːl.weɪz ˈwʌr.i tuː mʌtʃ ˈtɔː.kɪŋ tə juː ɔːlˈred.i meɪks miː fiːl ə ˈlɪt.əl ˈbet.ər/",
+        "vi": "Có lẽ chị nói đúng. ____ em luôn lo lắng quá nhiều, chỉ cần nói chuyện với chị thôi đã khiến em thấy đỡ hơn một chút rồi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Although",
+            "explanationVi": "Dùng 'Although' (= mặc dù) mở mệnh đề nhượng bộ: tuy hay lo nhưng giờ đã thấy đỡ hơn. Xem mẫu 'Although..., ...'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That makes me really happy to hear. You know, if you ever need to talk, I'm always here for you, ____ I might be busy sometimes.",
+        "ipa": "/ðæt meɪks miː ˈrɪə.li ˈhæp.i tə hɪər juː nəʊ ɪf juː ˈev.ər niːd tə tɔːk aɪm ˈɔːl.weɪz hɪər fɔːr juː ... aɪ maɪt biː ˈbɪz.i ˈsʌm.taɪmz/",
+        "vi": "Nghe vậy chị vui lắm. Em biết đấy, nếu em cần tâm sự bất cứ lúc nào, chị luôn ở đây vì em, ____ đôi khi chị có thể bận.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "even though",
+            "explanationVi": "'even though' (= dù cho) nhấn mạnh sự nhượng bộ hơn 'although'. Ở đây: dù đôi khi bận, chị vẫn luôn sẵn sàng. Cũng có thể dùng 'although'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Thank you. Gradually, I'm learning that ____ my feelings instead of hiding them really helps me cope.",
+        "ipa": "/θæŋk juː ˈɡrædʒ.u.ə.li aɪm ˈlɜː.nɪŋ ðæt ... maɪ ˈfiː.lɪŋz ɪnˈsted ɒv ˈhaɪ.dɪŋ ðəm ˈrɪə.li helps miː kəʊp/",
+        "vi": "Cảm ơn chị. Dần dần em đang nhận ra rằng ____ cảm xúc thay vì giấu kín thực sự giúp em chịu đựng tốt hơn.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một động từ (dạng V-ing) chỉ việc bộc lộ cảm xúc. Ví dụ: 'expressing', 'sharing', 'showing'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Exactly. Despite all the pressure you're under, remember that family will always support you. Let's plan something fun this weekend to cheer you up.",
+        "ipa": "/ɪɡˈzækt.li dɪˈspaɪt ɔːl ðə ˈpreʃ.ər jʊə ˈʌn.dər rɪˈmem.bər ðæt ˈfæm.əl.i wɪl ˈɔːl.weɪz səˈpɔːt juː lets plæn ˈsʌm.θɪŋ fʌn ðɪs ˌwiːkˈend tə tʃɪər juː ʌp/",
+        "vi": "Chính xác. Bất chấp mọi áp lực em đang gánh, hãy nhớ rằng gia đình sẽ luôn ủng hộ em. Cuối tuần này mình lên kế hoạch làm gì đó vui vẻ để em phấn chấn lên nhé."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, việc nói thẳng về cảm xúc ('I feel sad', 'I'm stressed') được xem là lành mạnh và bình thường, không phải dấu hiệu yếu đuối.",
+    "Khi ai đó chia sẻ chuyện buồn, người bản xứ thường đáp 'I'm sorry to hear that' trước, rồi mới lắng nghe — đây là phản xạ đồng cảm rất phổ biến.",
+    "Câu 'I'm here for you' (tôi luôn ở bên bạn) là một trong những cách thể hiện sự ủng hộ ấm áp và rất hay dùng trong gia đình, bạn bè.",
+    "Trong trò chuyện thân mật, người ta hay dùng 'a bit' hoặc 'kind of' để giảm nhẹ cảm xúc, tránh nghe quá kịch tính."
+  ],
+
+  "commonMistakes": [
+    "Nói 'How is your feeling?' — sai. Người bản xứ hỏi 'How are you feeling?' (dùng V-ing).",
+    "Nhầm 'stressed' (người căng thẳng) với 'stressful' (việc gây căng thẳng): 'I am stressed', 'The job is stressful'.",
+    "Quên giới từ 'about' sau tính từ cảm xúc: phải nói 'nervous ABOUT', 'worried ABOUT', không bỏ trống.",
+    "Lạm dụng 'very' cho mọi cảm xúc. Hãy đổi sang tính từ mạnh sẵn có: 'exhausted' thay 'very tired', 'delighted' thay 'very happy'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về cảm xúc như trò chuyện với người thân.",
+    "prompt": "Hãy đóng vai một người thân trong gia đình tôi (anh/chị/em hoặc bố/mẹ) nói tiếng Anh. Chúng ta đang trò chuyện về cảm xúc trong ngày. Hãy bắt đầu bằng cách hỏi thăm xem hôm nay tôi cảm thấy thế nào. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên, đồng cảm như một người thân thật, (2) nếu tôi dùng từ hoặc ngữ pháp chưa tự nhiên (đặc biệt tính từ cảm xúc và giới từ 'about') thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi giải thích lý do bằng 'because' và dùng câu dài hơn với 'although', 'even though'. Thỉnh thoảng hãy kể một cảm xúc của chính bạn để cuộc trò chuyện qua lại tự nhiên. Nói ấm áp, gần gũi. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đưa ra một tình huống khó (ví dụ tôi vừa cãi nhau với bạn) để tôi tập an ủi bạn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê những tính từ cảm xúc tôi nên học thêm và 3 lỗi tôi hay mắc.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được cảm xúc của mình kèm lý do bằng 'I'm feeling... because...' mà không nhìn gợi ý.",
+    "Tôi hỏi thăm được người thân bằng 'How are you feeling?' hoặc 'You seem...'.",
+    "Tôi dùng đúng giới từ 'about' sau tính từ cảm xúc và biết an ủi bằng 'Don't worry' / 'I'm here for you'."
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": "telling-stories",
+  "category": "friends",
+  "title": "Kể chuyện",
+  "titleEn": "Telling Stories",
+  "level": "B2",
+  "functions": ["describing", "small-talk", "opinions"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Kể lại một câu chuyện/trải nghiệm bằng câu dài, có mở đầu - diễn biến - cao trào - kết",
+    "Sắp xếp sự kiện theo trình tự bằng các từ nối thời gian (as soon as, while, eventually)",
+    "Làm câu chuyện sinh động bằng tính từ, trạng từ và mệnh đề quan hệ",
+    "Phản ứng và giữ nhịp khi bạn bè kể chuyện (No way!, What happened next?)",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, despite) tự nhiên khi kể"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "anecdote",
+      "ipa": "/ˈæn.ɪk.dəʊt/",
+      "vi": "mẩu chuyện ngắn, giai thoại (danh từ)",
+      "register": "neutral",
+      "example": "She told a funny anecdote about her first day at work.",
+      "exampleVi": "Cô ấy kể một mẩu chuyện vui về ngày đầu đi làm.",
+      "note": "Danh từ. Là câu chuyện ngắn, thường vui hoặc thú vị, kể trong lúc trò chuyện. Phát âm bẫy: âm cuối '-dote' đọc /dəʊt/.",
+      "synonyms": [
+        { "term": "tale", "ipa": "/teɪl/", "register": "neutral", "nuanceVi": "Nghĩa 'câu chuyện kể', hơi văn vẻ, có thể là chuyện có thật hoặc tưởng tượng (a fairy tale)." },
+        { "term": "story", "ipa": "/ˈstɔː.ri/", "register": "casual", "nuanceVi": "Phổ biến nhất, trung tính, dùng cho mọi loại chuyện. An toàn nhất khi nói chuyện thường ngày." }
+      ]
+    },
+    {
+      "term": "to happen",
+      "ipa": "/ˈhæp.ən/",
+      "vi": "xảy ra (động từ)",
+      "register": "neutral",
+      "example": "You won't believe what happened to me yesterday.",
+      "exampleVi": "Cậu sẽ không tin nổi chuyện xảy ra với tớ hôm qua đâu.",
+      "note": "Động từ. Câu mở đầu kinh điển khi kể chuyện: 'Guess what happened…' hoặc 'You won't believe what happened…'.",
+      "synonyms": [
+        { "term": "to occur", "ipa": "/əˈkɜːr/", "register": "formal", "nuanceVi": "Trang trọng hơn 'happen', thường dùng trong văn viết hoặc trình bày nghiêm túc." },
+        { "term": "to take place", "ipa": "/teɪk pleɪs/", "register": "neutral", "nuanceVi": "Nhấn vào sự kiện có sắp đặt/diễn ra ở một nơi-thời điểm (a wedding took place), khác với chuyện bất ngờ." }
+      ]
+    },
+    {
+      "term": "to bump into",
+      "ipa": "/bʌmp ˈɪn.tuː/",
+      "vi": "tình cờ gặp (động từ, cụm)",
+      "register": "casual",
+      "example": "I bumped into an old friend at the train station.",
+      "exampleVi": "Tớ tình cờ gặp một người bạn cũ ở ga tàu.",
+      "note": "Cụm động từ, nghĩa 'gặp ai đó một cách bất ngờ, không hẹn trước'. Rất hay xuất hiện trong các câu chuyện kể.",
+      "synonyms": [
+        { "term": "to run into", "ipa": "/rʌn ˈɪn.tuː/", "register": "casual", "nuanceVi": "Gần như y hệt 'bump into', cũng là gặp tình cờ. Dùng thay nhau thoải mái trong văn nói." },
+        { "term": "to come across", "ipa": "/kʌm əˈkrɒs/", "register": "neutral", "nuanceVi": "Thiên về tình cờ 'bắt gặp' đồ vật/thông tin hơn là gặp người (I came across an old photo)." }
+      ]
+    },
+    {
+      "term": "embarrassing",
+      "ipa": "/ɪmˈbær.ə.sɪŋ/",
+      "vi": "ngượng ngùng, xấu hổ (tính từ)",
+      "register": "neutral",
+      "example": "It was the most embarrassing moment of my life.",
+      "exampleVi": "Đó là khoảnh khắc xấu hổ nhất đời tôi.",
+      "note": "Tính từ mô tả TÌNH HUỐNG khiến ta ngượng. Còn cảm giác của người thì dùng 'embarrassed' (I felt embarrassed). Bẫy: hai chữ 'r' và 'ss'.",
+      "synonyms": [
+        { "term": "awkward", "ipa": "/ˈɔːk.wəd/", "register": "casual", "nuanceVi": "Nhấn vào sự 'gượng gạo, khó xử', không nhất thiết xấu hổ. Tình huống ngại ngùng nói chung." },
+        { "term": "humiliating", "ipa": "/hjuːˈmɪl.i.eɪ.tɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'nhục nhã, mất mặt'. Dùng cho tình huống thực sự bẽ bàng." }
+      ]
+    },
+    {
+      "term": "hilarious",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "vi": "cực kỳ buồn cười (tính từ)",
+      "register": "casual",
+      "example": "The whole situation was absolutely hilarious.",
+      "exampleVi": "Cả tình huống đó buồn cười không chịu được.",
+      "note": "Tính từ mạnh, mạnh hơn 'funny' nhiều. Thường đi với 'absolutely' chứ không 'very' (vì đã là tính từ tuyệt đối).",
+      "synonyms": [
+        { "term": "funny", "ipa": "/ˈfʌn.i/", "register": "neutral", "nuanceVi": "Trung tính, mức độ vừa phải. An toàn để dùng trong mọi ngữ cảnh." },
+        { "term": "amusing", "ipa": "/əˈmjuː.zɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ nhàng, nghĩa 'thú vị, làm ta mỉm cười', không bật cười to như hilarious." }
+      ]
+    },
+    {
+      "term": "to realize",
+      "ipa": "/ˈriː.ə.laɪz/",
+      "vi": "nhận ra (động từ)",
+      "register": "neutral",
+      "example": "Halfway home, I realized I had left my wallet at the café.",
+      "exampleVi": "Đi nửa đường về nhà, tôi mới nhận ra mình để quên ví ở quán.",
+      "note": "Động từ chỉ khoảnh khắc 'vỡ lẽ'. Rất hữu ích để tạo cao trào trong chuyện: 'That's when I realized…'.",
+      "synonyms": [
+        { "term": "to notice", "ipa": "/ˈnəʊ.tɪs/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'để ý thấy bằng giác quan', nhẹ hơn 'realize' (vốn là hiểu ra trong đầu)." }
+      ]
+    },
+    {
+      "term": "coincidence",
+      "ipa": "/kəʊˈɪn.sɪ.dəns/",
+      "vi": "sự trùng hợp (danh từ)",
+      "register": "neutral",
+      "example": "What a coincidence that we were both there at the same time!",
+      "exampleVi": "Thật trùng hợp khi cả hai chúng tôi đều ở đó cùng lúc!",
+      "note": "Danh từ. Cụm cảm thán hay dùng: 'What a coincidence!'. Phát âm khó: bốn âm tiết /kəʊˈɪn.sɪ.dəns/.",
+      "synonyms": [
+        { "term": "fluke", "ipa": "/fluːk/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sự may rủi tình cờ, ăn may'. Nhấn vào yếu tố may mắn hơn là trùng hợp." }
+      ]
+    },
+    {
+      "term": "to crack up",
+      "ipa": "/kræk ʌp/",
+      "vi": "cười phá lên (động từ, cụm)",
+      "register": "casual",
+      "example": "When he told us the ending, we all cracked up.",
+      "exampleVi": "Khi cậu ấy kể đoạn kết, cả bọn cười phá lên.",
+      "note": "Cụm động từ rất đời thường, nghĩa 'không nhịn được cười'. Dùng khi kể chuyện vui với bạn bè.",
+      "synonyms": [
+        { "term": "to burst out laughing", "ipa": "/bɜːst aʊt ˈlɑːf.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'bật cười đột ngột'. Trung tính hơn 'crack up', dùng được trong cả văn viết." }
+      ]
+    },
+    {
+      "term": "eventually",
+      "ipa": "/ɪˈven.tʃu.ə.li/",
+      "vi": "cuối cùng thì (sau một quá trình) (trạng từ)",
+      "register": "neutral",
+      "example": "Eventually, we found the right address after asking three people.",
+      "exampleVi": "Cuối cùng thì chúng tôi cũng tìm đúng địa chỉ sau khi hỏi ba người.",
+      "note": "Trạng từ chỉ kết quả đạt được sau một quá trình kéo dài (cuối cùng thì…). Bẫy: 'eventually' KHÔNG có nghĩa 'có thể/có lẽ' như nhiều người Việt hay nhầm; nó luôn chỉ điều rốt cuộc đã xảy ra.",
+      "synonyms": [
+        { "term": "in the end", "ipa": "/ɪn ði end/", "register": "neutral", "nuanceVi": "Cụm trung tính, dễ dùng, nghĩa 'rốt cuộc'. Linh hoạt đặt đầu hoặc cuối câu." },
+        { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào kết quả cuối cùng quan trọng nhất. Hợp văn nói nghiêm túc." }
+      ]
+    },
+    {
+      "term": "suddenly",
+      "ipa": "/ˈsʌd.ən.li/",
+      "vi": "đột nhiên (trạng từ)",
+      "register": "neutral",
+      "example": "We were chatting calmly when suddenly the lights went out.",
+      "exampleVi": "Chúng tôi đang trò chuyện bình thản thì đột nhiên đèn tắt phụt.",
+      "note": "Trạng từ tạo bất ngờ, đẩy nhịp truyện lên cao trào. Hay đứng đầu mệnh đề: 'Suddenly, …'.",
+      "synonyms": [
+        { "term": "all of a sudden", "ipa": "/ˌɔːl əv ə ˈsʌd.ən/", "register": "casual", "nuanceVi": "Đời thường hơn, cùng nghĩa 'bỗng dưng'. Tạo cảm giác kể chuyện sinh động, kịch tính." },
+        { "term": "out of nowhere", "ipa": "/aʊt əv ˈnəʊ.weər/", "register": "casual", "nuanceVi": "Nhấn 'từ đâu chẳng biết, hoàn toàn bất ngờ'. Rất hợp khi kể tình huống gây sốc." }
+      ]
+    },
+    {
+      "term": "memorable",
+      "ipa": "/ˈmem.ər.ə.bəl/",
+      "vi": "đáng nhớ (tính từ)",
+      "register": "neutral",
+      "example": "It turned out to be one of the most memorable trips of my life.",
+      "exampleVi": "Hóa ra đó lại là một trong những chuyến đi đáng nhớ nhất đời tôi.",
+      "note": "Tính từ tích cực, nhấn 'để lại ấn tượng sâu, khó quên'. Trọng âm rơi vào âm đầu 'MEM'.",
+      "synonyms": [
+        { "term": "unforgettable", "ipa": "/ˌʌn.fəˈɡet.ə.bəl/", "register": "neutral", "nuanceVi": "Mạnh hơn, nghĩa 'không thể nào quên'. Nhấn cảm xúc đậm hơn 'memorable'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "You won't believe what happened to me [thời gian].",
+      "use": "Mở đầu một câu chuyện để gây tò mò, kéo người nghe vào.",
+      "register": "casual",
+      "examples": [
+        "You won't believe what happened to me last weekend!",
+        "You won't believe what happened to me on the way here."
+      ],
+      "explanationVi": "Câu 'mồi' kinh điển khi kể chuyện với bạn bè. Tạo sự hồi hộp ngay từ đầu, khiến người nghe muốn nghe tiếp.",
+      "altOf": "opening-story"
+    },
+    {
+      "pattern": "So there I was, [V-ing], when [mệnh đề bất ngờ].",
+      "use": "Mở đầu sinh động, dựng cảnh rồi tung tình huống bất ngờ.",
+      "register": "casual",
+      "examples": [
+        "So there I was, waiting for the bus, when a stranger suddenly called my name."
+      ],
+      "explanationVi": "'So there I was' là cách dẫn truyện rất tự nhiên của người bản xứ. Mệnh đề 'when…' chèn cú twist, đẩy nhịp lên cao trào.",
+      "altOf": "opening-story"
+    },
+    {
+      "pattern": "As soon as [mệnh đề], [mệnh đề chính].",
+      "use": "Nối hai sự kiện xảy ra liền nhau theo trình tự thời gian.",
+      "register": "neutral",
+      "examples": [
+        "As soon as I opened the door, I knew something was wrong.",
+        "As soon as we arrived, it started to rain heavily."
+      ],
+      "explanationVi": "'As soon as' = ngay khi. Dùng để xâu chuỗi sự kiện cho câu chuyện trôi chảy, không bị rời rạc kiểu 'and then… and then…'.",
+      "altOf": "sequencing"
+    },
+    {
+      "pattern": "While [mệnh đề tiếp diễn], [sự kiện xen vào].",
+      "use": "Diễn tả một việc đang diễn ra thì một việc khác chen vào.",
+      "register": "neutral",
+      "examples": [
+        "While we were having dinner, the power suddenly went out.",
+        "While I was telling the story, everyone started laughing."
+      ],
+      "explanationVi": "'While' + thì quá khứ tiếp diễn để dựng bối cảnh nền, rồi một sự kiện ngắn (quá khứ đơn) xen vào. Đây là bộ đôi thì kinh điển khi kể chuyện.",
+      "altOf": "sequencing"
+    },
+    {
+      "pattern": "It was so [tính từ] that [mệnh đề kết quả].",
+      "use": "Nhấn mạnh mức độ và dẫn ra hệ quả, tạo cao trào.",
+      "register": "neutral",
+      "examples": [
+        "It was so embarrassing that I wanted to disappear.",
+        "It was so funny that we couldn't stop laughing for ten minutes."
+      ],
+      "explanationVi": "Cấu trúc 'so + tính từ + that' nối nguyên nhân với kết quả, giúp câu chuyện giàu cảm xúc thay vì kể phẳng lì."
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], [mệnh đề chính].",
+      "use": "Nêu một trở ngại nhưng kết quả vẫn theo hướng khác mong đợi.",
+      "register": "formal",
+      "examples": [
+        "Despite getting completely lost, we somehow ended up at the right place.",
+        "Despite the heavy rain, the whole trip turned out to be unforgettable."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG có mệnh đề ngay sau). Nếu muốn theo sau là mệnh đề thì phải dùng 'although'. Cặp này hay bị nhầm.",
+      "altOf": "contrast"
+    },
+    {
+      "pattern": "Long story short, [kết quả].",
+      "use": "Tóm tắt nhanh để kết thúc câu chuyện.",
+      "register": "casual",
+      "examples": [
+        "Long story short, we missed the flight but had an amazing day anyway."
+      ],
+      "explanationVi": "Cụm 'Long story short' nghĩa 'nói ngắn gọn lại'. Dùng để chốt nhanh khi chuyện đã dài, rất tự nhiên trong văn nói."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi hé lộ một chi tiết bất ngờ hoặc đính chính nhẹ.", "example": "Actually, it turned out the man was my new neighbor." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nhấn cảm xúc thật của mình trong chuyện.", "example": "Honestly, I have never been so scared in my life." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Khi mô tả một việc thay đổi từ từ trong câu chuyện.", "example": "Gradually, everyone realized what had really happened." },
+    { "term": "No way!", "ipa": "/nəʊ ˈweɪ/", "vi": "Không thể nào! / Thật á!", "when": "Phản ứng ngạc nhiên khi nghe bạn kể chuyện sốc.", "example": "No way! Did that really happen to you?" },
+    { "term": "Guess what?", "ipa": "/ɡes ˈwɒt/", "vi": "Đoán xem nào?", "when": "Mồi người nghe ngay trước khi tung tình tiết chính.", "example": "Guess what? I actually got the job in the end!" },
+    { "term": "to be fair", "ipa": "/tə biː ˈfeər/", "vi": "nói cho công bằng thì", "when": "Khi muốn thêm một góc nhìn cân bằng vào câu chuyện.", "example": "To be fair, it was partly my own fault." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn thân, Linh và Bạn, đang ngồi cà phê. Linh kể lại một kỷ niệm cuối tuần vừa rồi, còn Bạn vừa nghe vừa phản ứng và kể lại chuyện của mình.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Hey, you won't believe what happened to me last weekend! Honestly, it was probably the most embarrassing thing that has ever happened to me.",
+        "ipa": "/heɪ juː wəʊnt bɪˈliːv wɒt ˈhæp.ənd tə miː lɑːst ˌwiːkˈend ˈɒn.ɪst.li ɪt wɒz ˈprɒb.ə.bli ðə məʊst ɪmˈbær.ə.sɪŋ θɪŋ ðæt həz ˈev.ər ˈhæp.ənd tə miː/",
+        "vi": "Này, cậu sẽ không tin nổi chuyện xảy ra với tớ cuối tuần rồi đâu! Thành thật mà nói, đó có lẽ là chuyện xấu hổ nhất từng xảy đến với tớ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh no, now I'm curious! Tell me everything — what exactly ____ to you?",
+        "ipa": "/əʊ nəʊ naʊ aɪm ˈkjʊə.ri.əs tel miː ˈev.ri.θɪŋ wɒt ɪɡˈzækt.li tə juː/",
+        "vi": "Ôi không, giờ tớ tò mò ghê! Kể hết tớ nghe đi — chính xác là chuyện gì ____ với cậu vậy?",
+        "blanks": [
+          { "type": "knowledge", "answer": "happened", "explanationVi": "Dùng quá khứ đơn 'happened' vì chuyện đã xảy ra cuối tuần rồi (mốc thời gian xác định trong quá khứ). Xem từ vựng 'to happen'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "So there I was, walking through the shopping mall, when I suddenly ____ into my old high-school teacher, who I hadn't seen for almost ten years.",
+        "ipa": "/səʊ ðeər aɪ wɒz ˈwɔː.kɪŋ θruː ðə ˈʃɒp.ɪŋ mɔːl wen aɪ ˈsʌd.ən.li ˈɪn.tuː maɪ əʊld haɪ skuːl ˈtiː.tʃər huː aɪ ˈhædənt siːn fɔːr ˈɔːl.məʊst ten jɪəz/",
+        "vi": "Thế là tớ đang đi trong trung tâm mua sắm, thì đột nhiên ____ phải cô giáo cấp ba cũ, người mà tớ đã gần mười năm không gặp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "bumped", "explanationVi": "Cụm động từ 'bump into' = tình cờ gặp; chia quá khứ là 'bumped'. Lưu ý mệnh đề quan hệ 'who I hadn't seen…' bổ nghĩa cho 'teacher' (người). Xem từ vựng 'to bump into'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "No way! What a coincidence! So what did you do — did you recognize her straight away?",
+        "ipa": "/nəʊ weɪ wɒt ə kəʊˈɪn.sɪ.dəns səʊ wɒt dɪd juː duː dɪd juː ˈrek.əɡ.naɪz hɜːr streɪt əˈweɪ/",
+        "vi": "Không thể nào! Trùng hợp ghê! Thế cậu làm gì — cậu nhận ra cô ngay luôn à?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's the problem! I confidently called her by the wrong name, ____ I was completely sure I was right. She just stared at me, and it was so embarrassing that I wished the floor would swallow me up.",
+        "ipa": "/ðæts ðə ˈprɒb.ləm aɪ ˈkɒn.fɪ.dənt.li kɔːld hɜːr baɪ ðə rɒŋ neɪm aɪ wɒz kəmˈpliːt.li ʃʊər aɪ wɒz raɪt ʃiː dʒʌst steəd ət miː ænd ɪt wɒz səʊ ɪmˈbær.ə.sɪŋ ðæt aɪ wɪʃt ðə flɔːr wʊd ˈswɒl.əʊ miː ʌp/",
+        "vi": "Đó mới là vấn đề! Tớ tự tin gọi sai tên cô, ____ tớ chắc mẩm là mình đúng. Cô chỉ nhìn tớ chằm chằm, và xấu hổ đến mức tớ chỉ ước có cái lỗ nẻ để chui xuống.",
+        "blanks": [
+          { "type": "knowledge", "answer": "even though", "explanationVi": "Dùng 'even though' (= mặc dù) để mở mệnh đề nhượng bộ, theo sau là cả một mệnh đề. KHÔNG dùng 'despite' ở đây vì despite phải đi với danh từ/V-ing. Xem mẫu câu so sánh 'Despite…' và 'although'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh, that's brutal! Although it must have felt awful at the time, it actually makes a hilarious story now, doesn't it?",
+        "ipa": "/əʊ ðæts ˈbruː.təl ɔːlˈðəʊ ɪt mʌst həv felt ˈɔː.fəl ət ðə taɪm ɪt ˈæk.tʃu.ə.li meɪks ə hɪˈleə.ri.əs ˈstɔː.ri naʊ ˈdʌz.ənt ɪt/",
+        "vi": "Ôi, đau thật đấy! Mặc dù lúc đó chắc cảm giác kinh khủng lắm, nhưng giờ nó lại thành một câu chuyện cười ra trò, đúng không?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "Exactly! And the best part is that she remembered me perfectly. Not only did she forgive my mistake, ____ she also invited me for coffee to catch up. Despite my awful start, we ended up chatting for two whole hours.",
+        "ipa": "/ɪɡˈzækt.li ænd ðə best pɑːt ɪz ðæt ʃiː rɪˈmem.bəd miː ˈpɜː.fɪkt.li nɒt ˈəʊn.li dɪd ʃiː fəˈɡɪv maɪ mɪsˈteɪk ʃiː ˈɔːl.səʊ ɪnˈvaɪ.tɪd miː fɔːr ˈkɒf.i tə kætʃ ʌp dɪˈspaɪt maɪ ˈɔː.fəl stɑːt wiː ˈen.dɪd ʌp ˈtʃæt.ɪŋ fɔːr tuː həʊl ˈaʊəz/",
+        "vi": "Chính xác! Mà hay nhất là cô vẫn nhớ tớ rõ mồn một. Cô không những bỏ qua lỗi của tớ, ____ còn rủ tớ đi cà phê hàn huyên nữa. Dù khởi đầu thảm hại vậy, cuối cùng bọn tớ ngồi tám với nhau suốt hai tiếng đồng hồ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'Not only… but also…': sau 'Not only' đầu câu phải đảo ngữ ('did she forgive'), và vế thứ hai nối bằng 'but … also'. Xem mẫu câu 'Not only… but also…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's such a sweet ending! ____ honest, something similar happened to me once — I waved enthusiastically at a complete stranger, thinking he was my cousin.",
+        "ipa": "/ðæts sʌtʃ ə swiːt ˈen.dɪŋ ˈɒn.ɪst ˈsʌm.θɪŋ ˈsɪm.ɪ.lər ˈhæp.ənd tə miː wʌns aɪ weɪvd ɪnˌθjuː.zi.ˈæs.tɪk.li ət ə kəmˈpliːt ˈstreɪn.dʒər ˈθɪŋ.kɪŋ hiː wɒz maɪ ˈkʌz.ən/",
+        "vi": "Cái kết dễ thương ghê! ____ thật thì, có lần chuyện tương tự cũng xảy ra với tớ — tớ vẫy tay nhiệt tình với một người hoàn toàn xa lạ, vì tưởng đó là anh họ mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "To be", "explanationVi": "Cụm 'To be honest' (= thành thật mà nói) mở đầu một lời bộc bạch. Xem phần Trạng từ & cụm từ với 'honestly' / 'to be fair'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "No way, that's hilarious! See, ____ a coincidence — it turns out we're both equally embarrassing in public. We should definitely write a book of our most cringeworthy moments!",
+        "ipa": "/nəʊ weɪ ðæts hɪˈleə.ri.əs siː ə kəʊˈɪn.sɪ.dəns ɪt tɜːnz aʊt wɪər bəʊθ ˈiː.kwə.li ɪmˈbær.ə.sɪŋ ɪn ˈpʌb.lɪk wiː ʃʊd ˈdef.ɪn.ət.li raɪt ə bʊk ɒv ˈaʊə məʊst ˈkrɪndʒ.wɜː.ði ˈməʊ.mənts/",
+        "vi": "Trời, buồn cười quá! Thấy chưa, ____ trùng hợp ghê — hóa ra cả hai đứa mình đều hay làm trò xấu hổ nơi công cộng như nhau. Chắc phải viết hẳn một cuốn sách về những khoảnh khắc ngượng chín mặt mới được!",
+        "blanks": [
+          { "type": "personal", "hint": "Cụm cảm thán bày tỏ sự trùng hợp. Ví dụ: 'what'. Câu đầy đủ là 'what a coincidence'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Người bản xứ rất thích nghe và kể chuyện trong lúc trò chuyện (storytelling). Một mẩu chuyện hay giúp bạn hòa nhập và trở nên gần gũi hơn nhiều so với chỉ trả lời câu hỏi.",
+    "Người nghe thường xuyên 'phản ứng' để giữ nhịp: 'No way!', 'Really?', 'What happened next?', 'Oh my gosh!'. Im lặng nghe suốt bị xem là thờ ơ.",
+    "Văn hóa Anh-Mỹ chuộng việc tự cười nhạo bản thân (self-deprecating humor) — kể chuyện mình quê độ một cách hài hước được coi là dễ mến, khiêm tốn.",
+    "Khi kể chuyện, dùng thì quá khứ làm 'xương sống', nhưng nhiều người chuyển sang hiện tại (historical present) ở đoạn cao trào để nghe sống động: 'So he walks up to me and says…'."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'despite' với 'although': 'Despite' đi với DANH TỪ/V-ing ('despite the rain'), còn 'although/even though' đi với cả MỆNH ĐỀ ('although it was raining').",
+    "Quên đảo ngữ sau 'Not only' đầu câu: phải là 'Not only DID she forgive…', không phải 'Not only she forgave…'.",
+    "Kể chuyện chỉ nối bằng 'and then… and then…' nghe nhàm. Hãy dùng 'as soon as', 'while', 'suddenly', 'eventually' để câu chuyện có nhịp.",
+    "Nhầm 'embarrassing' (tình huống gây ngượng) với 'embarrassed' (cảm giác ngượng của người): 'I was embarrassed' chứ không phải 'I was embarrassing' (trừ khi bạn cố ý nói mình gây ngượng cho người khác)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể chuyện và phản ứng như một người bạn bản xứ.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang ngồi cà phê với tôi. Chúng ta sẽ thay phiên kể cho nhau nghe những câu chuyện đời thường (một lần xấu hổ, một sự trùng hợp thú vị, một chuyến đi đáng nhớ). Hãy bắt đầu bằng cách kể cho tôi một mẩu chuyện ngắn của bạn, rồi hỏi 'What about you?'. Sau mỗi lượt tôi kể, hãy: (1) phản ứng thật tự nhiên như bạn bè ('No way!', 'What happened next?'), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'as soon as', 'while', 'although', 'not only… but also', 'despite' và các trạng từ như 'suddenly', 'eventually'. Cuối buổi, hãy chấm điểm khả năng kể chuyện của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu chuyện của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy yêu cầu tôi kể lại cùng một câu chuyện nhưng theo ba phong cách khác nhau (hài hước, kịch tính, ngắn gọn).'",
+      "Thêm: 'Hãy thỉnh thoảng ngắt lời và hỏi chi tiết bất ngờ để tôi tập ứng biến và mở rộng câu chuyện.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi kể được một câu chuyện có mở đầu, diễn biến và kết thúc bằng các câu dài, không bị rời rạc.",
+    "Tôi dùng đúng 'as soon as', 'while', 'although' và 'despite' khi nối các sự kiện.",
+    "Tôi biết phản ứng tự nhiên ('No way!', 'What happened next?') khi nghe bạn kể chuyện."
+  ]
+}

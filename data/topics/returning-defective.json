@@ -1,0 +1,349 @@
+{
+  "id": "returning-defective",
+  "category": "services",
+  "title": "Trả hàng lỗi",
+  "titleEn": "Returning a Defective Product",
+  "level": "B2",
+  "functions": ["complaining", "requesting", "handling-problems", "negotiating"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Mô tả lỗi sản phẩm rõ ràng, lịch sự bằng câu dài, có dẫn chứng",
+    "Khiếu nại và yêu cầu hoàn tiền hoặc đổi hàng một cách quả quyết nhưng nhã nhặn",
+    "Hiểu và dùng đúng các từ về bảo hành, hoàn tiền, biên lai, đổi trả",
+    "Dùng ngữ pháp nâng cao (despite, although, not only… but also, mệnh đề quan hệ which) khi thương lượng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "defective",
+      "ipa": "/dɪˈfek.tɪv/",
+      "vi": "bị lỗi, có khuyết tật (tính từ)",
+      "register": "neutral",
+      "example": "The blender I bought last week turned out to be defective.",
+      "exampleVi": "Cái máy xay tôi mua tuần trước hóa ra bị lỗi.",
+      "note": "Tính từ trang trọng, đúng chuẩn để khiếu nại. Dùng cho hàng sản xuất hỏng/lỗi, nghe khách quan hơn 'broken'.",
+      "synonyms": [
+        { "term": "faulty", "ipa": "/ˈfɔːl.ti/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, rất hay dùng ở Anh-Anh. Nhấn vào việc 'có lỗi kỹ thuật, hoạt động không đúng'." },
+        { "term": "flawed", "ipa": "/flɔːd/", "register": "formal", "nuanceVi": "Nhấn vào 'có khuyết điểm trong thiết kế/sản xuất'. Hơi trang trọng, cũng hay dùng nghĩa bóng (kế hoạch có sai sót)." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hỏng, vỡ, không chạy'. Cụ thể và mạnh, nhưng kém trang trọng hơn 'defective' khi khiếu nại chính thức." }
+      ]
+    },
+    {
+      "term": "refund",
+      "ipa": "/ˈriː.fʌnd/",
+      "vi": "tiền hoàn lại / việc hoàn tiền (danh từ)",
+      "register": "neutral",
+      "example": "I'd like a full refund rather than a replacement.",
+      "exampleVi": "Tôi muốn được hoàn lại toàn bộ tiền chứ không phải đổi hàng.",
+      "note": "Danh từ (nhấn 'RE-fund') và động từ (nhấn 're-FUND') viết giống nhau, khác trọng âm. Cụm hay dùng: 'a full refund', 'get a refund'.",
+      "synonyms": [
+        { "term": "reimbursement", "ipa": "/ˌriː.ɪmˈbɜːs.mənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'hoàn trả khoản tiền đã chi'. Hay dùng cho chi phí công tác/bồi hoàn hơn là trả hàng ở cửa hàng." },
+        { "term": "money back", "ipa": "/ˈmʌn.i bæk/", "register": "casual", "nuanceVi": "Đời thường, dễ hiểu: 'I want my money back.' Nghe trực tiếp, hơi mạnh hơn 'refund'." }
+      ]
+    },
+    {
+      "term": "replacement",
+      "ipa": "/rɪˈpleɪs.mənt/",
+      "vi": "hàng/sản phẩm thay thế (danh từ)",
+      "register": "neutral",
+      "example": "Could you send me a replacement instead of repairing it?",
+      "exampleVi": "Anh/chị gửi cho tôi một sản phẩm thay thế thay vì sửa được không?",
+      "note": "Danh từ. Động từ là 'to replace' (thay thế). Cụm: 'a replacement', 'replace it with a new one'.",
+      "synonyms": [
+        { "term": "exchange", "ipa": "/ɪksˈtʃeɪndʒ/", "register": "neutral", "nuanceVi": "Nhấn vào hành động 'đổi cái này lấy cái khác', có thể đổi sang mẫu/màu khác chứ không nhất thiết cùng loại. Dùng cả danh từ lẫn động từ." }
+      ]
+    },
+    {
+      "term": "warranty",
+      "ipa": "/ˈwɒr.ən.ti/",
+      "vi": "bảo hành (danh từ)",
+      "register": "neutral",
+      "example": "Fortunately, the product is still under warranty.",
+      "exampleVi": "May là sản phẩm vẫn còn trong thời hạn bảo hành.",
+      "note": "Danh từ. Cụm cốt lõi: 'under warranty' (còn bảo hành), 'the warranty has expired' (hết hạn bảo hành).",
+      "synonyms": [
+        { "term": "guarantee", "ipa": "/ˌɡær.ənˈtiː/", "register": "neutral", "nuanceVi": "Gần nghĩa nhưng rộng hơn: lời cam kết của người bán (có thể bằng miệng). 'warranty' thường là cam kết chính thức bằng văn bản đi kèm sản phẩm." }
+      ]
+    },
+    {
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vi": "hóa đơn, biên lai mua hàng (danh từ)",
+      "register": "neutral",
+      "example": "I'm afraid I no longer have the original receipt.",
+      "exampleVi": "Tiếc là tôi không còn giữ hóa đơn gốc nữa.",
+      "note": "Danh từ. BẪY phát âm: chữ 'p' câm — đọc /rɪˈsiːt/, KHÔNG đọc 'p'. Cụm: 'proof of purchase' (bằng chứng mua hàng).",
+      "synonyms": [
+        { "term": "proof of purchase", "ipa": "/pruːf əv ˈpɜː.tʃəs/", "register": "formal", "nuanceVi": "Cụm trang trọng, rộng hơn 'receipt' — có thể là hóa đơn, sao kê thẻ, email xác nhận. Cửa hàng hay dùng cụm này." }
+      ]
+    },
+    {
+      "term": "to malfunction",
+      "ipa": "/ˌmælˈfʌŋk.ʃən/",
+      "vi": "hoạt động sai/hỏng hóc (động từ)",
+      "register": "formal",
+      "example": "The device started to malfunction within a few days of purchase.",
+      "exampleVi": "Thiết bị bắt đầu trục trặc chỉ vài ngày sau khi mua.",
+      "note": "Động từ trang trọng, hợp khi khiếu nại. Cũng dùng làm danh từ: 'a malfunction'.",
+      "synonyms": [
+        { "term": "to break down", "ipa": "/breɪk daʊn/", "register": "neutral", "nuanceVi": "Cụm động từ nhấn 'ngừng hoạt động hẳn'. Hay dùng cho máy móc, xe cộ. Đời thường hơn 'malfunction'." },
+        { "term": "to stop working", "ipa": "/stɒp ˈwɜː.kɪŋ/", "register": "casual", "nuanceVi": "Đơn giản, ai cũng hiểu: 'It just stopped working.' Trực tiếp, dùng khi nói chuyện bình thường." }
+      ]
+    },
+    {
+      "term": "to complain",
+      "ipa": "/kəmˈpleɪn/",
+      "vi": "phàn nàn, khiếu nại (động từ)",
+      "register": "neutral",
+      "example": "I'd like to complain about a product I purchased online.",
+      "exampleVi": "Tôi muốn khiếu nại về một sản phẩm tôi đã mua online.",
+      "note": "Động từ, đi với 'about something' / 'to somebody'. Danh từ là 'a complaint'. Tránh giọng gay gắt; người bản xứ thường nói lịch sự.",
+      "synonyms": [
+        { "term": "to raise an issue", "ipa": "/reɪz ən ˈɪʃ.uː/", "register": "formal", "nuanceVi": "Trang trọng, nhẹ nhàng hơn 'complain' — nhấn 'nêu một vấn đề' chứ không mang giọng trách móc. Tạo thiện chí khi thương lượng." },
+        { "term": "to file a complaint", "ipa": "/faɪl ə kəmˈpleɪnt/", "register": "formal", "nuanceVi": "Nhấn việc 'nộp khiếu nại chính thức' (bằng văn bản/hệ thống). Mạnh và trang trọng, dùng khi muốn ghi nhận chính thức." }
+      ]
+    },
+    {
+      "term": "to inspect",
+      "ipa": "/ɪnˈspekt/",
+      "vi": "kiểm tra, xem xét kỹ (động từ)",
+      "register": "formal",
+      "example": "Let me inspect the item to confirm the fault.",
+      "exampleVi": "Để tôi kiểm tra sản phẩm để xác nhận lỗi.",
+      "note": "Động từ trang trọng, nhấn 'xem xét kỹ để đánh giá'. Nhân viên hay dùng khi xem hàng lỗi.",
+      "synonyms": [
+        { "term": "to examine", "ipa": "/ɪɡˈzæm.ɪn/", "register": "formal", "nuanceVi": "Rất gần nghĩa, nhấn 'xem xét cẩn thận từng phần'. Dùng thay 'inspect' gần như tương đương trong ngữ cảnh này." },
+        { "term": "to check", "ipa": "/tʃek/", "register": "neutral", "nuanceVi": "Phổ biến, đời thường, nghĩa 'kiểm tra nhanh'. Nhẹ hơn 'inspect' vốn hàm ý kỹ lưỡng, chính thức." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, trục trặc (tính từ)",
+      "register": "neutral",
+      "example": "They agreed to replace the faulty charger free of charge.",
+      "exampleVi": "Họ đồng ý đổi cục sạc lỗi miễn phí.",
+      "note": "Tính từ rất hay dùng khi mô tả hàng hỏng. Cụm: 'a faulty product', 'faulty wiring'."
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, đúng lúc (trạng từ)",
+      "register": "formal",
+      "example": "The store promised to process my refund promptly.",
+      "exampleVi": "Cửa hàng hứa xử lý hoàn tiền cho tôi nhanh chóng.",
+      "note": "Trạng từ trang trọng, nhấn 'ngay, không chậm trễ'. Tạo ấn tượng chuyên nghiệp khi yêu cầu dịch vụ.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, tức thì'. Mạnh hơn 'promptly' (vốn nghĩa 'kịp thời, không trì hoãn')." },
+        { "term": "without delay", "ipa": "/wɪˈðaʊt dɪˈleɪ/", "register": "formal", "nuanceVi": "Cụm trang trọng, nhấn 'không để chậm trễ'. Hay dùng trong văn bản/yêu cầu lịch sự." }
+      ]
+    },
+    {
+      "term": "understandably",
+      "ipa": "/ˌʌn.dəˈstæn.də.bli/",
+      "vi": "một cách dễ hiểu, hợp lẽ (trạng từ)",
+      "register": "neutral",
+      "example": "Understandably, I was quite frustrated by the whole situation.",
+      "exampleVi": "Cũng dễ hiểu thôi, tôi khá bực bội với toàn bộ chuyện này.",
+      "note": "Trạng từ dùng đầu câu để biện minh cảm xúc/phản ứng của mình một cách hợp lý, nghe chín chắn."
+    },
+    {
+      "term": "store policy",
+      "ipa": "/stɔː ˈpɒl.ə.si/",
+      "vi": "chính sách của cửa hàng (danh từ)",
+      "register": "neutral",
+      "example": "According to our store policy, returns are accepted within thirty days.",
+      "exampleVi": "Theo chính sách cửa hàng, hàng được nhận trả trong vòng ba mươi ngày.",
+      "note": "Danh từ. Cụm liên quan: 'return policy' (chính sách đổi trả), 'within 30 days' (trong vòng 30 ngày)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to return this [danh từ] because it [mô tả lỗi].",
+      "use": "Mở đầu việc trả hàng và nêu lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to return this kettle because it stopped working after only two days.",
+        "I'd like to return these headphones because the left side is completely silent."
+      ],
+      "explanationVi": "'I'd like to return…' lịch sự, đi thẳng vào việc. 'because' dẫn lý do cụ thể — nêu lỗi rõ ràng giúp được xử lý nhanh hơn.",
+      "altOf": "stating-the-problem"
+    },
+    {
+      "pattern": "There seems to be a problem with [danh từ]; it [mô tả lỗi].",
+      "use": "Nêu vấn đề một cách nhẹ nhàng, không gay gắt.",
+      "register": "formal",
+      "examples": [
+        "There seems to be a problem with this laptop; it keeps overheating within minutes.",
+        "There seems to be a problem with the zipper, which broke the first time I used it."
+      ],
+      "explanationVi": "'There seems to be…' làm lời phàn nàn mềm mại, lịch sự (như thể chưa khẳng định chắc chắn). Tạo thiện chí, dễ được hợp tác hơn là buộc tội thẳng.",
+      "altOf": "stating-the-problem"
+    },
+    {
+      "pattern": "Would it be possible to get a refund or a replacement?",
+      "use": "Đề nghị giải pháp một cách lịch sự, để ngỏ lựa chọn.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get a refund or a replacement?",
+        "Would it be possible to exchange it for a different model?"
+      ],
+      "explanationVi": "Mẫu đề nghị lịch sự bậc cao. Nêu 'refund or replacement' cho thấy bạn linh hoạt, dễ đạt được thỏa thuận.",
+      "altOf": "requesting-solution"
+    },
+    {
+      "pattern": "Could you please [V] so that I can [V]?",
+      "use": "Yêu cầu hành động kèm lý do/mục đích.",
+      "register": "neutral",
+      "examples": [
+        "Could you please process a refund so that I can buy the correct model?",
+        "Could you please check your records so that I can confirm the purchase date?"
+      ],
+      "explanationVi": "'Could you please…?' lịch sự. 'so that' nêu mục đích, giúp yêu cầu nghe hợp lý và thuyết phục hơn.",
+      "altOf": "requesting-solution"
+    },
+    {
+      "pattern": "Although [mệnh đề], I'm afraid [mệnh đề].",
+      "use": "Bày tỏ sự thông cảm nhưng vẫn giữ vững yêu cầu.",
+      "register": "neutral",
+      "examples": [
+        "Although I understand it's store policy, I'm afraid a store credit won't really help me.",
+        "Although the item was on sale, I'm afraid it should still work properly."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (tôi hiểu…), 'I'm afraid' làm lời từ chối/giữ ý kiến nghe nhã nhặn. Bộ đôi này rất hữu ích khi thương lượng mà không gây căng thẳng."
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], the product [mô tả lỗi].",
+      "use": "Nhấn mạnh sự bất hợp lý: dù đã làm đúng nhưng vẫn hỏng.",
+      "register": "formal",
+      "examples": [
+        "Despite following the instructions carefully, the product malfunctioned almost immediately.",
+        "Despite being brand new, the phone wouldn't even turn on."
+      ],
+      "explanationVi": "'Despite + danh từ/V-ing' (= mặc dù) làm nổi bật việc lỗi không phải do bạn. Lưu ý: sau 'despite' KHÔNG có mệnh đề đầy đủ — dùng danh từ hoặc V-ing."
+    },
+    {
+      "pattern": "Not only is it [tính từ], but it also [V/mô tả].",
+      "use": "Nhấn mạnh sản phẩm có nhiều vấn đề.",
+      "register": "formal",
+      "examples": [
+        "Not only is it defective, but it also arrived with a scratch on the screen.",
+        "Not only did it stop working, but it also damaged my other charger."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ/động từ to be lên trước chủ ngữ ('is it', 'did it'). Cấu trúc nâng cao, nhấn mạnh có nhiều lỗi — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời bày tỏ sự thất vọng một cách chân thành nhưng không gay gắt.", "example": "Honestly, I was quite disappointed with the quality." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "tiếc là, không may là", "when": "Dẫn vào một thông tin xấu (lỗi, mất hóa đơn) một cách lịch sự.", "example": "Unfortunately, it broke down on the very first day." },
+    { "term": "ideally", "ipa": "/aɪˈdiə.li/", "vi": "lý tưởng nhất thì", "when": "Nêu giải pháp mong muốn nhất một cách mềm mỏng.", "example": "Ideally, I'd prefer a full refund rather than a replacement." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói cho công bằng thì", "when": "Thừa nhận một điểm của phía bên kia trước khi giữ vững quan điểm.", "example": "To be fair, the staff were polite, but the product was still faulty." },
+    { "term": "as you can see", "ipa": "/əz juː kæn siː/", "vi": "như anh/chị thấy đấy", "when": "Khi đưa ra bằng chứng trực quan (chỉ vào lỗi, đưa biên lai).", "example": "As you can see, the seam has already come apart here." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn quay lại một cửa hàng điện máy để trả một tai nghe không dây bị lỗi đã mua tuần trước. Bạn nói chuyện với nhân viên dịch vụ khách hàng để xin hoàn tiền hoặc đổi hàng.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon! Welcome to the service desk. How can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn ˈwel.kəm tə ðə ˈsɜː.vɪs desk haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều! Chào mừng đến quầy dịch vụ. Hôm nay tôi có thể giúp gì cho anh/chị ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. I'd like to return these wireless headphones, which I bought here about a week ago, because they turned out to be ____.",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn aɪd laɪk tə rɪˈtɜːn ðiːz ˈwaɪə.ləs ˈhed.fəʊnz wɪtʃ aɪ bɔːt hɪər əˈbaʊt ə wiːk əˈɡəʊ bɪˈkɒz ðeɪ tɜːnd aʊt tə biː/",
+        "vi": "Chào buổi chiều. Tôi muốn trả lại cặp tai nghe không dây này, cái mà tôi đã mua ở đây khoảng một tuần trước, vì hóa ra chúng bị ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "defective", "explanationVi": "Dùng tính từ 'defective' (bị lỗi) — trang trọng, đúng chuẩn khi khiếu nại hàng sản xuất. Có thể thay bằng 'faulty'. Xem từ vựng và mẫu câu nêu vấn đề." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm sorry to hear that. Could you tell me exactly what the problem is, and do you happen to have the ____ with you?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt kʊd juː tel miː ɪɡˈzækt.li wɒt ðə ˈprɒb.ləm ɪz ænd duː juː ˈhæp.ən tə hæv ðə wɪð juː/",
+        "vi": "Tôi rất tiếc khi nghe vậy. Anh/chị có thể cho tôi biết chính xác vấn đề là gì, và anh/chị có mang theo ____ không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "receipt", "explanationVi": "Dùng 'receipt' (hóa đơn/biên lai) — bằng chứng mua hàng. Lưu ý chữ 'p' câm: /rɪˈsiːt/. Có thể thay bằng cụm 'proof of purchase'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, here it is. The issue is that the left earbud is completely silent. Despite ____ the device several times, I couldn't get it to work, although I followed every instruction in the manual.",
+        "ipa": "/jes hɪər ɪt ɪz ðə ˈɪʃ.uː ɪz ðæt ðə left ˈɪə.bʌd ɪz kəmˈpliːt.li ˈsaɪ.lənt dɪˈspaɪt ðə dɪˈvaɪs ˈsev.rəl taɪmz aɪ ˈkʊd.ənt ɡet ɪt tə wɜːk ɔːlˈðəʊ aɪ ˈfɒl.əʊd ˈev.ri ɪnˈstrʌk.ʃən ɪn ðə ˈmæn.ju.əl/",
+        "vi": "Vâng, đây ạ. Vấn đề là bên tai nghe trái im hoàn toàn. Mặc dù đã ____ thiết bị vài lần, tôi vẫn không làm nó hoạt động được, dù tôi đã làm theo từng hướng dẫn trong sách.",
+        "blanks": [
+          { "type": "knowledge", "answer": "resetting", "explanationVi": "Sau 'despite' phải dùng V-ing (hoặc danh từ), KHÔNG dùng mệnh đề. 'resetting' = khởi động lại. Xem mẫu câu 'Despite + V-ing…'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Thank you for explaining. Let me ____ the headphones to confirm the fault. According to our store policy, items can be returned within thirty days, so you're well within that period.",
+        "ipa": "/θæŋk juː fɔːr ɪkˈspleɪ.nɪŋ let miː ðə ˈhed.fəʊnz tə kənˈfɜːm ðə fɔːlt əˈkɔː.dɪŋ tə ˈaʊə stɔː ˈpɒl.ə.si ˈaɪ.təmz kæn biː rɪˈtɜːnd wɪˈðɪn ˈθɜː.ti deɪz/",
+        "vi": "Cảm ơn anh/chị đã giải thích. Để tôi ____ tai nghe để xác nhận lỗi. Theo chính sách cửa hàng, hàng có thể được trả trong vòng ba mươi ngày, nên anh/chị vẫn còn trong thời hạn đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "inspect", "explanationVi": "Dùng động từ 'inspect' (kiểm tra kỹ) — trang trọng, đúng việc nhân viên xem xét hàng lỗi. Có thể thay bằng 'examine' hoặc 'check'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate that. Honestly, I was quite frustrated, because not only did the product fail to work, but it also took me a long time to come back to the store. Ideally, I'd prefer a full ____ rather than a replacement.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt ˈɒn.ɪst.li aɪ wɒz kwaɪt frʌˈstreɪ.tɪd bɪˈkɒz nɒt ˈəʊn.li dɪd ðə ˈprɒd.ʌkt feɪl tə wɜːk bʌt ɪt ˈɔːl.səʊ tʊk miː ə lɒŋ taɪm tə kʌm bæk tə ðə stɔː aɪˈdɪə.li aɪd prɪˈfɜː ə fʊl ˈræð.ə ðæn ə rɪˈpleɪs.mənt/",
+        "vi": "Tôi cảm kích điều đó. Thành thật mà nói, tôi khá bực vì không những sản phẩm không chạy, mà tôi còn mất nhiều thời gian quay lại cửa hàng. Lý tưởng nhất thì tôi muốn được hoàn ____ toàn bộ hơn là đổi hàng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "refund", "explanationVi": "Dùng danh từ 'refund' (tiền hoàn lại): 'a full refund' = hoàn toàn bộ tiền. Xem từ vựng 'refund' và mẫu câu yêu cầu giải pháp." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "That's completely understandable. Since the headphones are clearly faulty and still under ____, I can certainly process a full refund for you. Would you like it back on the card you originally paid with?",
+        "ipa": "/ðæts kəmˈpliːt.li ˌʌn.dəˈstæn.də.bəl sɪns ðə ˈhed.fəʊnz ɑːr ˈklɪə.li ˈfɔːl.ti ænd stɪl ˈʌn.də aɪ kæn ˈsɜːt.ən.li ˈprəʊ.ses ə fʊl ˈriː.fʌnd fɔːr juː/",
+        "vi": "Hoàn toàn dễ hiểu. Vì tai nghe rõ ràng bị lỗi và vẫn còn trong thời hạn ____, tôi chắc chắn có thể xử lý hoàn tiền toàn bộ cho anh/chị. Anh/chị muốn nhận lại vào đúng thẻ đã thanh toán chứ ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "warranty", "explanationVi": "Cụm cố định 'under warranty' = còn trong thời hạn bảo hành. Đây là lý do then chốt để được hoàn tiền/đổi hàng miễn phí." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please — that would be ____. Thank you for handling this so promptly; I really appreciate how smoothly you've sorted it all out.",
+        "ipa": "/jes pliːz ðæt wʊd biː θæŋk juː fɔːr ˈhænd.lɪŋ ðɪs səʊ ˈprɒmpt.li aɪ ˈrɪə.li əˈpriː.ʃi.eɪt haʊ ˈsmuːð.li juːv ˈsɔː.tɪd ɪt ɔːl aʊt/",
+        "vi": "Vâng, làm ơn — như vậy thì ____ quá. Cảm ơn anh/chị đã xử lý nhanh gọn thế này; tôi thực sự cảm kích vì anh/chị đã giải quyết mọi thứ trôi chảy.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ thể hiện sự hài lòng. Ví dụ: 'perfect', 'great', 'ideal'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, luật bảo vệ người tiêu dùng khá mạnh: hàng lỗi thường được hoàn tiền hoặc đổi mà không cần lý do, miễn còn trong thời hạn (thường 14–30 ngày).",
+    "Giữ hóa đơn (receipt) hoặc email xác nhận là rất quan trọng — nhiều cửa hàng yêu cầu 'proof of purchase' trước khi xử lý đổi trả.",
+    "Người bản xứ thường khiếu nại bằng giọng điềm tĩnh, lịch sự ('There seems to be a problem…') thay vì gay gắt — thái độ nhã nhặn thường giúp được giải quyết nhanh hơn.",
+    "Phân biệt 'refund' (hoàn tiền), 'exchange/replacement' (đổi hàng) và 'store credit' (phiếu mua hàng tại cửa hàng); bạn có quyền hỏi rõ mình được lựa chọn nào."
+  ],
+
+  "commonMistakes": [
+    "Dùng mệnh đề đầy đủ sau 'despite' — sai. Phải là 'despite + V-ing/danh từ' ('despite resetting it'), không phải 'despite I reset it'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID the product fail…', không phải 'Not only the product failed…'.",
+    "Đọc 'receipt' có âm 'p' — sai. Chữ 'p' câm, đọc là /rɪˈsiːt/.",
+    "Yêu cầu cộc lốc kiểu 'Give me my money back!'. Hãy dùng 'Would it be possible to get a refund?' hoặc 'I'd like a refund, please.' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống trả hàng lỗi như thật.",
+    "prompt": "Hãy đóng vai một nhân viên dịch vụ khách hàng nói tiếng Anh tại một cửa hàng. Tôi là khách quay lại để trả một sản phẩm bị lỗi. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (hỏi về lỗi, hóa đơn, thời hạn bảo hành), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói lịch sự, chuyên nghiệp hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ tôi không còn hóa đơn, hết thời hạn đổi trả, hoặc cửa hàng chỉ chịu đổi hàng chứ không hoàn tiền) để tôi tập thương lượng. Khuyến khích tôi dùng câu dài với 'although', 'despite', 'not only… but also'. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một nhân viên hơi khó tính, từ chối hoàn tiền lúc đầu, để tôi tập kiên nhẫn thuyết phục.'",
+      "Thêm: 'Hãy nói nhanh hơn như người bản xứ và dùng nhiều thành ngữ về dịch vụ khách hàng.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được lỗi sản phẩm bằng một câu dài, lịch sự mà không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'despite + V-ing' và đảo ngữ 'not only… but also' khi nói.",
+    "Tôi đề nghị được hoàn tiền hoặc đổi hàng bằng mẫu câu lịch sự ('Would it be possible to…?')."
+  ]
+}

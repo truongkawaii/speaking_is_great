@@ -1,0 +1,338 @@
+{
+  "id": "job-onboarding",
+  "category": "work",
+  "title": "Ngày đầu đi làm",
+  "titleEn": "First Day at Work",
+  "level": "B1",
+  "functions": ["greetings", "asking-info", "small-talk", "requesting"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Chào hỏi và tự giới thiệu với đồng nghiệp mới một cách tự nhiên",
+    "Hỏi thông tin cơ bản trong ngày đầu (chỗ ngồi, giờ giấc, quy trình)",
+    "Đề nghị giúp đỡ và xin hướng dẫn một cách lịch sự",
+    "Dùng câu vừa phải có 'because', 'such as', 'although' khi nói chuyện ở văn phòng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "I met most of my new colleagues during the morning meeting.",
+      "exampleVi": "Tôi đã gặp hầu hết đồng nghiệp mới trong buổi họp sáng.",
+      "note": "Danh từ. Phát âm bẫy: trọng âm đầu /ˈkɒl.iːɡ/, chữ 'g' cuối không đọc thành 'gờ' rõ.",
+      "synonyms": [
+        { "term": "coworker", "ipa": "/ˈkəʊˌwɜː.kər/", "register": "neutral", "nuanceVi": "Nghĩa gần y hệt, người Mỹ dùng nhiều hơn. 'colleague' nghe hơi trang trọng và thiên về Anh-Anh một chút." },
+        { "term": "teammate", "ipa": "/ˈtiːm.meɪt/", "register": "casual", "nuanceVi": "Nhấn vào 'cùng một nhóm/đội'. Dùng khi muốn nói tới người làm chung team trực tiếp với mình." }
+      ]
+    },
+    {
+      "term": "supervisor",
+      "ipa": "/ˈsuː.pə.vaɪ.zər/",
+      "vi": "người giám sát / quản lý trực tiếp (danh từ)",
+      "register": "neutral",
+      "example": "My supervisor will show me what to do on my first day.",
+      "exampleVi": "Quản lý trực tiếp sẽ hướng dẫn tôi việc cần làm trong ngày đầu.",
+      "note": "Danh từ. Là người quản lý trực tiếp công việc của bạn, không nhất thiết là sếp lớn nhất.",
+      "synonyms": [
+        { "term": "manager", "ipa": "/ˈmæn.ɪ.dʒər/", "register": "neutral", "nuanceVi": "Phổ biến và rộng hơn, chỉ người quản lý nói chung. An toàn để dùng trong hầu hết tình huống." },
+        { "term": "line manager", "ipa": "/laɪn ˈmæn.ɪ.dʒər/", "register": "formal", "nuanceVi": "Trang trọng (Anh-Anh), nhấn rõ 'người quản lý trực tiếp mình báo cáo'. Hay gặp trong văn bản công ty." }
+      ]
+    },
+    {
+      "term": "department",
+      "ipa": "/dɪˈpɑːt.mənt/",
+      "vi": "phòng ban (danh từ)",
+      "register": "neutral",
+      "example": "I work in the marketing department on the third floor.",
+      "exampleVi": "Tôi làm ở phòng marketing trên tầng ba.",
+      "note": "Danh từ. Viết tắt thông dụng là 'dept.'. Đi với giới từ 'in': 'in the … department'.",
+      "synonyms": [
+        { "term": "team", "ipa": "/tiːm/", "register": "neutral", "nuanceVi": "Nhỏ hơn 'department', chỉ một nhóm làm việc cụ thể. Văn phòng hiện đại hay nói 'team' thay cho phòng ban nhỏ." },
+        { "term": "division", "ipa": "/dɪˈvɪʒ.ən/", "register": "formal", "nuanceVi": "To hơn department, là một mảng lớn của công ty. Trang trọng, dùng ở các tập đoàn lớn." }
+      ]
+    },
+    {
+      "term": "to introduce",
+      "ipa": "/ˌɪn.trəˈdjuːs/",
+      "vi": "giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "Let me introduce you to the rest of the team.",
+      "exampleVi": "Để tôi giới thiệu bạn với những người còn lại trong nhóm.",
+      "note": "Động từ, đi với 'introduce somebody to somebody'. Danh từ là 'introduction'.",
+      "synonyms": [
+        { "term": "to present", "ipa": "/prɪˈzent/", "register": "formal", "nuanceVi": "Trang trọng hơn, mang sắc thái 'giới thiệu chính thức'. Trong văn phòng đời thường thì 'introduce' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "workstation",
+      "ipa": "/ˈwɜːk.steɪ.ʃən/",
+      "vi": "chỗ làm việc / bàn làm việc (danh từ)",
+      "register": "neutral",
+      "example": "Your workstation is by the window, next to the printer.",
+      "exampleVi": "Chỗ làm việc của bạn ở cạnh cửa sổ, ngay bên máy in.",
+      "note": "Danh từ. Chỉ cả bàn, ghế và máy tính của bạn. Nói đơn giản thì 'desk' (bàn) cũng được.",
+      "synonyms": [
+        { "term": "desk", "ipa": "/desk/", "register": "casual", "nuanceVi": "Đời thường, chỉ riêng cái bàn. Trong nói chuyện hằng ngày dùng 'desk' là đủ và tự nhiên." },
+        { "term": "cubicle", "ipa": "/ˈkjuː.bɪ.kəl/", "register": "neutral", "nuanceVi": "Chỉ ô làm việc có vách ngăn. Dùng khi văn phòng chia thành các ô riêng." }
+      ]
+    },
+    {
+      "term": "to get familiar with",
+      "ipa": "/ɡet fəˈmɪl.i.ər wɪð/",
+      "vi": "làm quen với (động từ + cụm)",
+      "register": "neutral",
+      "example": "It took me a few days to get familiar with the new software.",
+      "exampleVi": "Tôi mất vài ngày để làm quen với phần mềm mới.",
+      "note": "Cụm động từ, đi với 'with'. Rất hợp để nói về việc mới mẻ trong ngày đầu.",
+      "synonyms": [
+        { "term": "to get used to", "ipa": "/ɡet juːst tuː/", "register": "neutral", "nuanceVi": "Nhấn vào 'quen dần đến mức thấy bình thường'. Sau 'used to' (cụm này) phải dùng danh từ hoặc V-ing." },
+        { "term": "to settle in", "ipa": "/ˈset.əl ɪn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ổn định, hòa nhập vào môi trường mới'. Rất tự nhiên khi nói về ngày đầu đi làm." }
+      ]
+    },
+    {
+      "term": "helpful",
+      "ipa": "/ˈhelp.fəl/",
+      "vi": "hữu ích / hay giúp đỡ (tính từ)",
+      "register": "neutral",
+      "example": "Everyone here has been really helpful since I arrived.",
+      "exampleVi": "Mọi người ở đây đều rất nhiệt tình giúp đỡ từ khi tôi đến.",
+      "note": "Tính từ. Dùng cho cả người (hay giúp) lẫn vật/thông tin (có ích).",
+      "synonyms": [
+        { "term": "supportive", "ipa": "/səˈpɔː.tɪv/", "register": "neutral", "nuanceVi": "Nhấn vào 'ủng hộ, đỡ đần về tinh thần lẫn công việc'. Nghe ấm áp hơn 'helpful' một chút." },
+        { "term": "considerate", "ipa": "/kənˈsɪd.ər.ət/", "register": "formal", "nuanceVi": "Nhấn 'tâm lý, biết nghĩ cho người khác'. Khen ai đó tinh tế thì dùng từ này." }
+      ]
+    },
+    {
+      "term": "nervous",
+      "ipa": "/ˈnɜː.vəs/",
+      "vi": "lo lắng, hồi hộp (tính từ)",
+      "register": "neutral",
+      "example": "I felt a bit nervous before meeting my new boss.",
+      "exampleVi": "Tôi thấy hơi hồi hộp trước khi gặp sếp mới.",
+      "note": "Tính từ chỉ cảm giác hồi hộp căng thẳng. Đừng nhầm 'nervous' (lo lắng) với 'nervy' hay 'angry'.",
+      "synonyms": [
+        { "term": "anxious", "ipa": "/ˈæŋk.ʃəs/", "register": "neutral", "nuanceVi": "Nặng hơn 'nervous', nhấn 'lo lắng kéo dài về điều sắp tới'. 'nervous' thường tạm thời, ngắn hơn." },
+        { "term": "uneasy", "ipa": "/ʌnˈiː.zi/", "register": "formal", "nuanceVi": "Nhẹ và tế nhị, nghĩa 'thấy không thoải mái, bất an mơ hồ'. Lịch sự khi không muốn nói thẳng là sợ." }
+      ]
+    },
+    {
+      "term": "to look forward to",
+      "ipa": "/lʊk ˈfɔː.wəd tuː/",
+      "vi": "mong chờ, háo hức (động từ + cụm)",
+      "register": "neutral",
+      "example": "I'm really looking forward to working with this team.",
+      "exampleVi": "Tôi rất mong được làm việc với nhóm này.",
+      "note": "Cụm cố định: sau 'to' phải là danh từ hoặc V-ing, KHÔNG phải động từ nguyên thể. Câu xã giao rất hay dùng.",
+      "synonyms": [
+        { "term": "to be excited about", "ipa": "/biː ɪkˈsaɪ.tɪd əˈbaʊt/", "register": "casual", "nuanceVi": "Đời thường, bộc lộ cảm xúc rõ hơn. 'look forward to' nghe nhã nhặn, hợp văn phòng hơn." }
+      ]
+    },
+    {
+      "term": "warmly",
+      "ipa": "/ˈwɔːm.li/",
+      "vi": "một cách nồng hậu, niềm nở (trạng từ)",
+      "register": "neutral",
+      "example": "The team welcomed me warmly on my first day.",
+      "exampleVi": "Cả nhóm chào đón tôi rất nồng hậu trong ngày đầu.",
+      "note": "Trạng từ, hay đi với 'welcome' và 'greet'. Tạo sắc thái thân thiện, ấm áp.",
+      "synonyms": [
+        { "term": "kindly", "ipa": "/ˈkaɪnd.li/", "register": "neutral", "nuanceVi": "Nhấn 'tử tế, tốt bụng'. Gần nghĩa nhưng thiên về lòng tốt hơn là sự niềm nở." },
+        { "term": "cheerfully", "ipa": "/ˈtʃɪə.fəl.i/", "register": "casual", "nuanceVi": "Nhấn 'vui vẻ, hớn hở'. Dùng khi muốn tả không khí tươi vui, rộn ràng." }
+      ]
+    },
+    {
+      "term": "to fill in",
+      "ipa": "/fɪl ɪn/",
+      "vi": "điền (giấy tờ, biểu mẫu) (động từ)",
+      "register": "neutral",
+      "example": "Please fill in this form with your personal details.",
+      "exampleVi": "Vui lòng điền biểu mẫu này với thông tin cá nhân của bạn.",
+      "note": "Cụm động từ, dùng cho điền vào ô trống/biểu mẫu. Người Mỹ hay nói 'fill out', nghĩa tương đương.",
+      "synonyms": [
+        { "term": "to complete", "ipa": "/kəmˈpliːt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'hoàn thành (việc điền)'. Hay thấy trong hướng dẫn chính thức: 'complete the form'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi, I'm [tên]. I'm the new [chức danh] in the [phòng ban] team.",
+      "use": "Tự giới thiệu khi gặp đồng nghiệp mới.",
+      "register": "neutral",
+      "examples": [
+        "Hi, I'm Lan. I'm the new accountant in the finance team.",
+        "Hi, I'm Minh. I'm the new intern in the design team."
+      ],
+      "explanationVi": "Câu mở đầu chuẩn cho ngày đầu: tên + chức danh + phòng ban. Ngắn gọn, thân thiện, dễ nhớ tên nhau.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "Nice to meet you. I've heard a lot about [danh từ].",
+      "use": "Đáp lại lời giới thiệu một cách niềm nở.",
+      "register": "neutral",
+      "examples": [
+        "Nice to meet you. I've heard a lot about your team.",
+        "Nice to meet you. I've heard a lot about this company."
+      ],
+      "explanationVi": "'I've heard a lot about…' (thì hiện tại hoàn thành) là câu xã giao lịch sự, cho thấy bạn đã tìm hiểu trước. Nghe rất tự nhiên và thân thiện.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "Could you show me how to [động từ]?",
+      "use": "Xin được hướng dẫn cách làm một việc.",
+      "register": "neutral",
+      "examples": [
+        "Could you show me how to use the coffee machine?",
+        "Could you show me how to log in to the system?"
+      ],
+      "explanationVi": "'Could you show me how to…?' lịch sự và rất hợp khi bạn là người mới cần học việc. 'Could' nhã hơn 'Can'.",
+      "altOf": "asking-help"
+    },
+    {
+      "pattern": "Would you mind [V-ing]?",
+      "use": "Nhờ ai đó làm giúp một việc nhỏ một cách tế nhị.",
+      "register": "formal",
+      "examples": [
+        "Would you mind showing me where the meeting room is?",
+        "Would you mind helping me set up my email?"
+      ],
+      "explanationVi": "'Would you mind + V-ing?' nghĩa đen là 'Bạn có phiền… không?'. Rất lịch sự. Lưu ý: sau 'mind' phải là V-ing, và trả lời 'No' nghĩa là đồng ý giúp.",
+      "altOf": "asking-help"
+    },
+    {
+      "pattern": "Where can I find [danh từ]?",
+      "use": "Hỏi vị trí/chỗ để của một thứ trong văn phòng.",
+      "register": "neutral",
+      "examples": [
+        "Where can I find the stationery?",
+        "Where can I find the staff kitchen?"
+      ],
+      "explanationVi": "Câu hỏi thông tin gọn gàng để hỏi chỗ. Tự nhiên hơn 'Where is…?' khi bạn chưa rõ thứ đó có ở văn phòng không.",
+      "altOf": "asking-info-office"
+    },
+    {
+      "pattern": "If you need anything, just let me know.",
+      "use": "Đề nghị giúp đỡ người mới một cách thân thiện.",
+      "register": "neutral",
+      "examples": [
+        "If you have any questions, just let me know.",
+        "If you need anything during the day, just let me know."
+      ],
+      "explanationVi": "Câu mời gọi giúp đỡ rất phổ biến ở văn phòng. 'just let me know' = cứ nói cho tôi biết. Nghe cởi mở, dễ gần."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính nhẹ hoặc bổ sung điều người kia chưa biết.", "example": "Actually, this is my very first day here." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ cảm xúc thật, gần gũi.", "example": "Honestly, I was a little nervous this morning." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, what time is the lunch break?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh mẽ khi đồng ý hoặc nhận lời.", "example": "I'll definitely ask if I'm not sure about something." },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Bày tỏ mong muốn tích cực về điều sắp tới.", "example": "Hopefully, I'll get to know everyone soon." }
+  ],
+
+  "dialogue": {
+    "context": "Hôm nay là ngày đầu tiên của bạn ở công ty. Một đồng nghiệp tên Sarah được giao nhiệm vụ đón và hướng dẫn bạn làm quen với văn phòng.",
+    "lines": [
+      {
+        "speaker": "Sarah",
+        "text": "Good morning, and welcome to the team! You must be the new member who's joining the marketing department. I'm Sarah, and I'll be helping you settle in today.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd ˈwel.kəm tə ðə tiːm juː mʌst biː ðə njuː ˈmem.bər huːz ˈdʒɔɪ.nɪŋ ðə ˈmɑː.kɪ.tɪŋ dɪˈpɑːt.mənt aɪm ˈseə.rə ænd aɪl biː ˈhel.pɪŋ juː ˈset.əl ɪn təˈdeɪ/",
+        "vi": "Chào buổi sáng, và chào mừng bạn đến với nhóm! Chắc bạn là thành viên mới sắp vào phòng marketing. Tôi là Sarah, và hôm nay tôi sẽ giúp bạn làm quen."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Sarah. Yes, that's me. Thank you so much for the warm welcome. Honestly, I was a bit ____ this morning, although everyone seems really friendly here.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈseə.rə jes ðæts miː θæŋk juː səʊ mʌtʃ fɔːr ðə wɔːm ˈwel.kəm ˈɒn.ɪst.li aɪ wɒz ə bɪt ... ðɪs ˈmɔː.nɪŋ ɔːlˈðəʊ ˈev.ri.wʌn siːmz ˈrɪə.li ˈfrend.li hɪər/",
+        "vi": "Chào buổi sáng, Sarah. Vâng, là tôi đây. Cảm ơn bạn rất nhiều vì sự chào đón nồng hậu. Thành thật mà nói, sáng nay tôi hơi ____, dù mọi người ở đây trông đều rất thân thiện.",
+        "blanks": [
+          { "type": "personal", "hint": "Cảm xúc của bạn trong ngày đầu. Ví dụ: 'nervous' (hồi hộp), 'excited' (háo hức)." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "That's completely normal — everyone feels that way at first. Let me introduce you to a few colleagues, such as the people on your team, and then I'll show you around the office.",
+        "ipa": "/ðæts kəmˈpliːt.li ˈnɔː.məl ˈev.ri.wʌn fiːlz ðæt weɪ ət fɜːst let miː ˌɪn.trəˈdjuːs juː tə ə fjuː ˈkɒl.iːɡz sʌtʃ æz ðə ˈpiː.pəl ɒn jɔː tiːm ænd ðen aɪl ʃəʊ juː əˈraʊnd ðiː ˈɒf.ɪs/",
+        "vi": "Điều đó hoàn toàn bình thường — ai lúc đầu cũng vậy cả. Để tôi giới thiệu bạn với vài đồng nghiệp, chẳng hạn như những người trong nhóm của bạn, rồi tôi sẽ dẫn bạn đi tham quan văn phòng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great, thank you. By the way, where can I ____ my workstation? I'd like to put my things down before we start.",
+        "ipa": "/ðæt saʊndz ɡreɪt θæŋk juː baɪ ðə weɪ weər kæn aɪ ... maɪ ˈwɜːk.steɪ.ʃən aɪd laɪk tə pʊt maɪ θɪŋz daʊn bɪˈfɔː wiː stɑːt/",
+        "vi": "Nghe tuyệt đấy, cảm ơn bạn. Tiện thể, tôi có thể ____ chỗ làm việc của mình ở đâu? Tôi muốn để đồ xuống trước khi chúng ta bắt đầu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "find", "explanationVi": "Dùng 'find' trong mẫu 'Where can I find…?' (Tôi có thể tìm thấy… ở đâu?). Đây là câu hỏi vị trí ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Of course. Your desk is the one by the window, next to Tom, who has been with the company for five years. He's very ____, so don't hesitate to ask him anything.",
+        "ipa": "/ɒv kɔːs jɔː desk ɪz ðə wʌn baɪ ðə ˈwɪn.dəʊ ˈnekst tə tɒm huː hæz biːn wɪð ðə ˈkʌm.pə.ni fɔː faɪv jɪəz hiːz ˈver.i ... səʊ dəʊnt ˈhez.ɪ.teɪt tə ɑːsk hɪm ˈen.i.θɪŋ/",
+        "vi": "Tất nhiên rồi. Bàn của bạn là cái cạnh cửa sổ, ngay bên Tom, người đã gắn bó với công ty được năm năm. Anh ấy rất ____, nên đừng ngại hỏi anh ấy bất cứ điều gì.",
+        "blanks": [
+          { "type": "knowledge", "answer": "helpful", "explanationVi": "Dùng tính từ 'helpful' (hay giúp đỡ) để mô tả một người tốt bụng, sẵn lòng hỗ trợ. Đồng nghĩa: 'supportive'. Xem mục từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. Would you mind ____ me how to log in to the computer? I want to get familiar with the system as soon as possible.",
+        "ipa": "/ˈpɜː.fɪkt wʊd juː maɪnd ... miː haʊ tə lɒɡ ɪn tə ðə kəmˈpjuː.tər aɪ wɒnt tə ɡet fəˈmɪl.i.ər wɪð ðə ˈsɪs.təm æz suːn æz ˈpɒs.ə.bəl/",
+        "vi": "Tuyệt vời. Bạn có phiền ____ tôi cách đăng nhập vào máy tính không? Tôi muốn làm quen với hệ thống càng sớm càng tốt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "showing", "explanationVi": "Sau 'Would you mind' phải dùng V-ing, nên là 'showing'. Mẫu 'Would you mind + V-ing?' để nhờ vả lịch sự. Xem phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Not at all. First, you'll need to fill in this short form in order to activate your account. Despite looking complicated, it only takes a couple of minutes.",
+        "ipa": "/nɒt ət ɔːl fɜːst juːl niːd tə fɪl ɪn ðɪs ʃɔːt fɔːm ɪn ˈɔː.də tʊ ˈæk.tɪ.veɪt jɔːr əˈkaʊnt dɪˈspaɪt ˈlʊk.ɪŋ ˈkɒm.plɪ.keɪ.tɪd ɪt ˈəʊn.li teɪks ə ˈkʌp.əl ɒv ˈmɪn.ɪts/",
+        "vi": "Không phiền chút nào. Trước tiên, bạn cần điền tờ biểu mẫu ngắn này để kích hoạt tài khoản. Dù trông có vẻ phức tạp, nó chỉ mất vài phút thôi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Got it, I'll fill it in right away. Thank you for being so patient with me. I'm really ____ to working here and getting to know everyone.",
+        "ipa": "/ɡɒt ɪt aɪl fɪl ɪt ɪn raɪt əˈweɪ θæŋk juː fɔː ˈbiː.ɪŋ səʊ ˈpeɪ.ʃənt wɪð miː aɪm ˈrɪə.li ... tə ˈwɜː.kɪŋ hɪər ænd ˈɡet.ɪŋ tə nəʊ ˈev.ri.wʌn/",
+        "vi": "Hiểu rồi, tôi sẽ điền ngay. Cảm ơn bạn đã kiên nhẫn với tôi. Tôi thật sự ____ được làm việc ở đây và làm quen với mọi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "looking forward", "explanationVi": "Cụm 'be looking forward to + V-ing' nghĩa là mong chờ. Lưu ý sau 'to' phải là V-ing ('working'), không phải động từ nguyên thể. Xem mục từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "I'm sure you'll fit in quickly. If you need anything during the day, just let me know — my desk is right behind yours, so I'm always nearby.",
+        "ipa": "/aɪm ʃɔː juːl fɪt ɪn ˈkwɪk.li ɪf juː niːd ˈen.i.θɪŋ ˈdjʊə.rɪŋ ðə deɪ dʒʌst let miː nəʊ maɪ desk ɪz raɪt bɪˈhaɪnd jɔːz səʊ aɪm ˈɔːl.weɪz ˈnɪə.baɪ/",
+        "vi": "Tôi chắc là bạn sẽ hòa nhập nhanh thôi. Nếu cần gì trong ngày, cứ nói cho tôi biết — bàn tôi ngay sau bàn bạn, nên tôi luôn ở gần."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở môi trường công sở phương Tây, một cái bắt tay chắc chắn kèm giao tiếp bằng mắt và mỉm cười khi tự giới thiệu tạo ấn tượng tự tin, thân thiện.",
+    "Ngày đầu, việc chủ động hỏi và xin hướng dẫn được xem là tích cực, không phải dấu hiệu yếu kém. Người mới được kỳ vọng sẽ đặt nhiều câu hỏi.",
+    "Gọi tên riêng (first name) của đồng nghiệp và quản lý là bình thường ở nhiều công ty phương Tây, trừ khi văn hóa công ty rất trang trọng.",
+    "Tham gia trò chuyện xã giao nhẹ (small talk) về cuối tuần, thời tiết, hay đồ ăn trưa giúp bạn nhanh hòa nhập hơn."
+  ],
+
+  "commonMistakes": [
+    "Sau 'look forward to' và 'would you mind' phải dùng V-ing, không dùng động từ nguyên thể: 'looking forward to workING', 'mind showING'.",
+    "Nhầm 'colleague' với 'college' (trường cao đẳng) — hai từ khác nghĩa và khác cách đọc hoàn toàn.",
+    "Nói 'I want to know how to…' nghe hơi cộc; dùng 'Could you show me how to…?' lịch sự và phù hợp hơn cho người mới.",
+    "Quên giới từ: là 'in the marketing department' và 'get familiar WITH', không bỏ giới từ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ngày đầu đi làm như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp thân thiện nói tiếng Anh, được giao đón tôi trong ngày đầu tiên đi làm ở công ty. Hãy bắt đầu bằng cách chào và chào mừng tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật (giới thiệu người khác, dẫn tôi đi quanh văn phòng, hướng dẫn việc), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu vừa phải với 'because', 'such as', 'although' và các mẫu lịch sự như 'Could you show me how to…?', 'Would you mind…?'. Thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ máy tính chưa cài xong, có cuộc họp gấp) để tôi tập xử lý. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy giới thiệu tôi với sếp lớn (manager) và để tôi tập tự giới thiệu trang trọng hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và chấm điểm sự tự nhiên khi tôi nói.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự giới thiệu được tên, chức danh và phòng ban bằng một câu trọn vẹn, không nhìn gợi ý.",
+    "Tôi xin được hướng dẫn lịch sự bằng 'Could you show me how to…?' hoặc 'Would you mind…?'.",
+    "Tôi dùng đúng V-ing sau 'look forward to' và 'would you mind' khi nói."
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "id": "renting-apartment",
+  "category": "daily-life",
+  "title": "Thuê nhà / căn hộ",
+  "titleEn": "Renting an Apartment",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "negotiating", "describing"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Hỏi rõ thông tin về căn hộ: giá thuê, tiền cọc, hóa đơn điện nước, đồ đạc",
+    "Mô tả nhu cầu nhà ở của bạn bằng câu vừa phải, tự nhiên",
+    "Thương lượng lịch sự về giá thuê và điều khoản hợp đồng",
+    "Hỏi và xác nhận các điều khoản quan trọng trong hợp đồng thuê (thời hạn, báo trước, sửa chữa)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "landlord",
+      "ipa": "/ˈlænd.lɔːrd/",
+      "vi": "chủ nhà (người cho thuê) (danh từ)",
+      "register": "neutral",
+      "example": "The landlord lives in the building next door, so repairs are usually quick.",
+      "exampleVi": "Chủ nhà sống ở tòa nhà bên cạnh, nên việc sửa chữa thường nhanh.",
+      "note": "Danh từ. Chủ nhà là nam hoặc chung chung dùng 'landlord'; nữ có thể gọi 'landlady'. Người đi thuê là 'tenant'.",
+      "synonyms": [
+        { "term": "property owner", "ipa": "/ˈprɒp.ə.ti ˈəʊ.nər/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào quyền sở hữu tài sản; hay xuất hiện trong hợp đồng và giấy tờ." },
+        { "term": "letting agent", "ipa": "/ˈlet.ɪŋ ˈeɪ.dʒənt/", "register": "neutral", "nuanceVi": "Không phải chủ nhà mà là môi giới/đại lý cho thuê đứng giữa. Anh-Anh hay dùng; Anh-Mỹ thường nói 'rental agent'." }
+      ]
+    },
+    {
+      "term": "tenant",
+      "ipa": "/ˈten.ənt/",
+      "vi": "người thuê nhà (danh từ)",
+      "register": "neutral",
+      "example": "As a tenant, you are responsible for keeping the flat clean.",
+      "exampleVi": "Là người thuê, bạn có trách nhiệm giữ căn hộ sạch sẽ.",
+      "note": "Danh từ. Trong giao dịch thuê nhà, bạn chính là 'the tenant'. Đừng nhầm với 'tenement' (khu nhà ở cũ, đông đúc)."
+    },
+    {
+      "term": "rent",
+      "ipa": "/rent/",
+      "vi": "tiền thuê (danh từ); thuê (động từ)",
+      "register": "neutral",
+      "example": "The monthly rent is $800, not including bills.",
+      "exampleVi": "Tiền thuê hàng tháng là 800 đô, chưa gồm hóa đơn.",
+      "note": "Vừa là danh từ (tiền thuê) vừa là động từ (to rent = thuê hoặc cho thuê). 'rent out' nghĩa là cho người khác thuê.",
+      "synonyms": [
+        { "term": "to lease", "ipa": "/liːs/", "register": "formal", "nuanceVi": "Động từ trang trọng, gắn với hợp đồng dài hạn có ràng buộc pháp lý ('lease' cũng là danh từ chỉ chính hợp đồng đó)." }
+      ]
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɒz.ɪt/",
+      "vi": "tiền đặt cọc (danh từ)",
+      "register": "neutral",
+      "example": "You usually have to pay a deposit equal to one month's rent.",
+      "exampleVi": "Bạn thường phải trả tiền cọc bằng một tháng tiền thuê.",
+      "note": "Khoản tiền cọc giữ phòng/đảm bảo, được hoàn lại khi trả nhà nếu không hư hỏng. Còn gọi là 'security deposit'."
+    },
+    {
+      "term": "furnished",
+      "ipa": "/ˈfɜː.nɪʃt/",
+      "vi": "có sẵn đồ đạc, nội thất (tính từ)",
+      "register": "neutral",
+      "example": "We're looking for a furnished flat because we don't own any furniture yet.",
+      "exampleVi": "Chúng tôi tìm căn hộ có sẵn nội thất vì chưa có đồ đạc gì.",
+      "note": "Tính từ. Trái nghĩa là 'unfurnished' (nhà trống). 'partly furnished' = có một phần đồ đạc.",
+      "synonyms": [
+        { "term": "fully equipped", "ipa": "/ˈfʊl.i ɪˈkwɪpt/", "register": "neutral", "nuanceVi": "Nhấn vào việc trang bị đầy đủ thiết bị (bếp, máy giặt...), thiên về tiện nghi hơn là 'có ghế bàn giường'." },
+        { "term": "move-in ready", "ipa": "/ˈmuːv.ɪn ˈred.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'dọn vào là ở được ngay', không cần sửa sang thêm gì." }
+      ]
+    },
+    {
+      "term": "spacious",
+      "ipa": "/ˈspeɪ.ʃəs/",
+      "vi": "rộng rãi (tính từ)",
+      "register": "neutral",
+      "example": "The living room is surprisingly spacious for a city apartment.",
+      "exampleVi": "Phòng khách rộng rãi đến bất ngờ so với một căn hộ trong thành phố.",
+      "note": "Tính từ mang sắc thái TÍCH CỰC (rộng và thoải mái). Khác 'big' nghe trung tính, 'huge' nghe phóng đại.",
+      "synonyms": [
+        { "term": "roomy", "ipa": "/ˈruː.mi/", "register": "casual", "nuanceVi": "Đời thường, thân mật hơn 'spacious'; nghĩa gần như nhau, hay dùng khi nói chuyện bình thường." },
+        { "term": "airy", "ipa": "/ˈeə.ri/", "register": "neutral", "nuanceVi": "Nhấn vào 'thoáng, nhiều ánh sáng và không khí', không chỉ riêng diện tích rộng." }
+      ]
+    },
+    {
+      "term": "cosy",
+      "ipa": "/ˈkəʊ.zi/",
+      "vi": "ấm cúng, nhỏ mà dễ chịu (tính từ)",
+      "register": "casual",
+      "example": "It's a small studio, but it feels really cosy in winter.",
+      "exampleVi": "Đây là một studio nhỏ, nhưng vào mùa đông thì rất ấm cúng.",
+      "note": "Tính từ. Anh-Anh viết 'cosy', Anh-Mỹ viết 'cozy'. Trong rao thuê nhà, 'cosy' đôi khi là cách nói tế nhị cho 'hơi nhỏ'.",
+      "synonyms": [
+        { "term": "snug", "ipa": "/snʌɡ/", "register": "casual", "nuanceVi": "Nhấn 'nhỏ gọn và ấm áp, ôm trọn'; thân mật, hơi mộc mạc hơn 'cosy'." },
+        { "term": "homely", "ipa": "/ˈhəʊm.li/", "register": "neutral", "nuanceVi": "Nghĩa 'có cảm giác như nhà mình' (Anh-Anh). Lưu ý: ở Anh-Mỹ 'homely' lại có nghĩa xấu là 'không xinh' — nên cẩn thận." }
+      ]
+    },
+    {
+      "term": "utilities",
+      "ipa": "/juːˈtɪl.ə.tiz/",
+      "vi": "các dịch vụ điện, nước, gas (danh từ)",
+      "register": "neutral",
+      "example": "Does the rent cover utilities, or do we pay for them separately?",
+      "exampleVi": "Tiền thuê đã gồm điện nước chưa, hay mình trả riêng?",
+      "note": "Thường dùng số nhiều. Trong đời thường người ta cũng nói 'bills' (hóa đơn) cho điện, nước, internet.",
+      "synonyms": [
+        { "term": "bills", "ipa": "/bɪlz/", "register": "casual", "nuanceVi": "Đời thường và rất phổ biến khi nói chuyện ('bills included' = đã gồm hóa đơn). 'utilities' nghe chính thức hơn một chút." }
+      ]
+    },
+    {
+      "term": "lease",
+      "ipa": "/liːs/",
+      "vi": "hợp đồng thuê (danh từ)",
+      "register": "formal",
+      "example": "The standard lease runs for twelve months.",
+      "exampleVi": "Hợp đồng thuê tiêu chuẩn kéo dài mười hai tháng.",
+      "note": "Danh từ chỉ bản hợp đồng thuê có ràng buộc. 'sign a lease' = ký hợp đồng. Đồng nghĩa gần: 'tenancy agreement' (Anh-Anh).",
+      "synonyms": [
+        { "term": "rental agreement", "ipa": "/ˈren.təl əˈɡriː.mənt/", "register": "neutral", "nuanceVi": "Trung tính, dễ hiểu, dùng được ở cả hai biến thể Anh-Anh và Anh-Mỹ. Nghĩa gần như 'lease'." },
+        { "term": "contract", "ipa": "/ˈkɒn.trækt/", "register": "neutral", "nuanceVi": "Nghĩa rộng 'hợp đồng' nói chung; trong ngữ cảnh thuê nhà người ta vẫn hiểu là hợp đồng thuê." }
+      ]
+    },
+    {
+      "term": "to move in",
+      "ipa": "/tə muːv ɪn/",
+      "vi": "dọn vào ở (cụm động từ)",
+      "register": "neutral",
+      "example": "We'd like to move in at the beginning of next month if possible.",
+      "exampleVi": "Chúng tôi muốn dọn vào đầu tháng sau nếu được.",
+      "note": "Cụm động từ. Ngược lại là 'move out' (dọn đi). 'move-in date' (có gạch nối) là danh từ chỉ ngày dọn vào."
+    },
+    {
+      "term": "conveniently",
+      "ipa": "/kənˈviː.ni.ənt.li/",
+      "vi": "một cách thuận tiện (trạng từ)",
+      "register": "neutral",
+      "example": "The flat is conveniently located near the subway station.",
+      "exampleVi": "Căn hộ nằm ở vị trí thuận tiện gần ga tàu điện ngầm.",
+      "note": "Trạng từ. Hay đi cùng 'located' khi mô tả vị trí. Phát âm: nhấn âm thứ hai 'vee'.",
+      "synonyms": [
+        { "term": "centrally", "ipa": "/ˈsen.trə.li/", "register": "neutral", "nuanceVi": "Nhấn 'ở vị trí trung tâm', gần lõi thành phố; cụ thể hơn 'conveniently'." },
+        { "term": "handily", "ipa": "/ˈhæn.dɪ.li/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện lợi, ngay sát bên'; thân mật hơn 'conveniently'." }
+      ]
+    },
+    {
+      "term": "to negotiate",
+      "ipa": "/nɪˈɡəʊ.ʃi.eɪt/",
+      "vi": "thương lượng, mặc cả (động từ)",
+      "register": "neutral",
+      "example": "It's worth trying to negotiate the rent before you sign anything.",
+      "exampleVi": "Nên thử thương lượng tiền thuê trước khi ký bất cứ thứ gì.",
+      "note": "Động từ. Đi với 'negotiate the price / the terms'. Danh từ là 'negotiation'. Phát âm bẫy: âm /ʃ/ ở giữa.",
+      "synonyms": [
+        { "term": "to haggle", "ipa": "/ˈhæɡ.əl/", "register": "casual", "nuanceVi": "Nhấn 'mặc cả qua lại, kì kèo từng đồng'; đời thường, hợp chợ búa hơn là hợp đồng trang trọng." },
+        { "term": "to bargain", "ipa": "/ˈbɑː.ɡɪn/", "register": "neutral", "nuanceVi": "Nghĩa 'mặc cả để có giá tốt'; gần 'haggle' nhưng trung tính hơn một chút." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm looking for a [loại nhà] that is [đặc điểm].",
+      "use": "Mô tả loại nhà bạn đang tìm và nêu yêu cầu chính.",
+      "register": "neutral",
+      "examples": [
+        "I'm looking for a one-bedroom flat that is close to the city centre.",
+        "I'm looking for a furnished apartment that has good natural light."
+      ],
+      "explanationVi": "'that' là mệnh đề quan hệ nối đặc điểm vào danh từ, giúp câu gọn và tự nhiên hơn là nói rời thành hai câu ngắn."
+    },
+    {
+      "pattern": "Could you tell me how much the rent is, and whether [điều khoản] is included?",
+      "use": "Hỏi giá thuê và làm rõ một khoản đã gồm trong đó hay chưa.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me how much the rent is, and whether water is included?"
+      ],
+      "explanationVi": "'whether' = liệu có hay không, dùng cho câu hỏi gián tiếp nghe lịch sự. Gộp hai câu hỏi vào một câu dài, mượt mà.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Does the rent include [danh từ], or do I pay for that separately?",
+      "use": "Hỏi rõ một chi phí đã nằm trong tiền thuê chưa.",
+      "register": "neutral",
+      "examples": [
+        "Does the rent include utilities, or do I pay for that separately?",
+        "Does the rent include internet, or do I pay for that separately?"
+      ],
+      "explanationVi": "Câu hỏi 'A, or B?' đưa ra hai khả năng để chủ nhà chọn, giúp bạn nhận câu trả lời rõ ràng, tránh bị tính phí bất ngờ.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Would you be willing to lower the rent if [điều kiện]?",
+      "use": "Thương lượng giảm giá thuê một cách lịch sự, kèm điều kiện đổi lại.",
+      "register": "neutral",
+      "examples": [
+        "Would you be willing to lower the rent if I signed a longer lease?",
+        "Would you be willing to lower the rent if I paid six months in advance?"
+      ],
+      "explanationVi": "'Would you be willing to...?' là cách đề nghị rất nhã nhặn. Kèm câu điều kiện 'if I...' để tạo lý do hợp lý, chủ nhà dễ gật đầu hơn.",
+      "altOf": "negotiating"
+    },
+    {
+      "pattern": "Is there any chance you could [động từ]?",
+      "use": "Hỏi xin một nhượng bộ nhỏ một cách khéo léo.",
+      "register": "casual",
+      "examples": [
+        "Is there any chance you could include the parking space?",
+        "Is there any chance you could repaint the bedroom before we move in?"
+      ],
+      "explanationVi": "'Is there any chance...?' nghe khiêm tốn, không ép buộc, để ngỏ cho người ta dễ từ chối — rất hợp khi mặc cả.",
+      "altOf": "negotiating"
+    },
+    {
+      "pattern": "How long is the lease, and how much notice do I have to give before [V-ing]?",
+      "use": "Hỏi về thời hạn hợp đồng và quy định báo trước khi muốn dọn đi.",
+      "register": "neutral",
+      "examples": [
+        "How long is the lease, and how much notice do I have to give before moving out?"
+      ],
+      "explanationVi": "'notice' ở đây là 'thông báo trước'. Nắm rõ thời hạn và quy định báo trước giúp bạn tránh mất tiền cọc hay bị phạt hợp đồng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "ideally", "ipa": "/aɪˈdɪə.li/", "vi": "lý tưởng nhất là", "when": "Khi nêu mong muốn tốt nhất nhưng vẫn để ngỏ phương án khác.", "example": "Ideally, I'd like to move in before the end of the month." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một ý chân thành, đôi khi hơi tế nhị (vd về ngân sách).", "example": "To be honest, that's a little more than my budget allows." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I was hoping for something a bit closer to the station." },
+    { "term": "as long as", "ipa": "/əz lɒŋ əz/", "vi": "miễn là, với điều kiện là", "when": "Khi đưa ra điều kiện để đồng ý một việc.", "example": "I'm happy to take it, as long as the deposit is refundable." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, is there a washing machine in the building?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang đi xem một căn hộ và nói chuyện với chủ nhà (hoặc môi giới) để hỏi thông tin, thương lượng giá và làm rõ hợp đồng trước khi quyết định thuê.",
+    "lines": [
+      {
+        "speaker": "Chủ nhà",
+        "text": "Welcome, please come in and have a look around. This is the living room, which gets plenty of sunlight in the afternoon.",
+        "ipa": "/ˈwel.kəm pliːz kʌm ɪn ænd hæv ə lʊk əˈraʊnd ðɪs ɪz ðə ˈlɪv.ɪŋ ruːm wɪtʃ ɡets ˈplen.ti ɒv ˈsʌn.laɪt ɪn ðə ˌɑːf.təˈnuːn/",
+        "vi": "Chào mừng, mời bạn vào và xem quanh một vòng. Đây là phòng khách, nơi đón rất nhiều nắng vào buổi chiều."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you. It looks really spacious and bright. I'm looking for a flat ____ is conveniently located, because I commute to the city centre every day.",
+        "ipa": "/θæŋk juː ɪt lʊks ˈrɪə.li ˈspeɪ.ʃəs ænd braɪt aɪm ˈlʊk.ɪŋ fɔːr ə flæt ðæt ɪz kənˈviː.ni.ənt.li ləʊˈkeɪ.tɪd bɪˈkɒz aɪ kəˈmjuːt tə ðə ˈsɪt.i ˈsen.tər ˈev.ri deɪ/",
+        "vi": "Cảm ơn. Trông rất rộng rãi và sáng sủa. Tôi đang tìm một căn hộ ____ có vị trí thuận tiện, vì ngày nào tôi cũng đi làm vào trung tâm thành phố.",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "Dùng đại từ quan hệ 'that' (hoặc 'which') thay cho 'a flat' (vật) để nối mệnh đề mô tả đặc điểm. Xem mẫu câu 'I'm looking for a... that is...'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "It's only a ten-minute walk to the subway, so you'll find it very handy. The flat is fully furnished, although you're welcome to bring your own furniture if you prefer.",
+        "ipa": "/ɪts ˈəʊn.li ə ˈten ˈmɪn.ɪt wɔːk tə ðə ˈsʌb.weɪ səʊ juːl faɪnd ɪt ˈver.i ˈhæn.di ðə flæt ɪz ˈfʊl.i ˈfɜː.nɪʃt ɔːlˈðəʊ jʊə ˈwel.kəm tə brɪŋ jɔːr əʊn ˈfɜː.nɪ.tʃər ɪf juː prɪˈfɜːr/",
+        "vi": "Chỉ đi bộ mười phút là tới tàu điện ngầm, nên bạn sẽ thấy rất tiện. Căn hộ có đầy đủ nội thất, dù bạn cứ thoải mái mang đồ đạc riêng nếu thích."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's great to hear. Could you tell me how much the rent is, and ____ utilities such as electricity and water are included?",
+        "ipa": "/ðæts ɡreɪt tə hɪər kʊd juː tel miː haʊ mʌtʃ ðə rent ɪz ænd juːˈtɪl.ə.tiz sʌtʃ æz ɪˌlekˈtrɪs.ə.ti ænd ˈwɔː.tər ɑːr ɪnˈkluː.dɪd/",
+        "vi": "Nghe hay đấy. Bạn có thể cho tôi biết tiền thuê là bao nhiêu, và ____ các chi phí điện nước đã được bao gồm chưa?",
+        "blanks": [
+          { "type": "knowledge", "answer": "whether", "explanationVi": "Dùng 'whether' (= liệu có hay không) để mở câu hỏi gián tiếp nghe lịch sự. Xem mẫu câu 'Could you tell me... and whether... is included?'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "The rent is 850 a month. That includes water and internet, but you'll have to pay for electricity and gas ____. Most tenants spend around 60 a month on those.",
+        "ipa": "/ðə rent ɪz ˌeɪt ˈfɪf.ti ə mʌnθ ðæt ɪnˈkluːdz ˈwɔː.tər ænd ˈɪn.tə.net bʌt juːl hæv tə peɪ fɔːr ɪˌlekˈtrɪs.ə.ti ænd ɡæs ˈsep.rət.li məʊst ˈten.ənts spend əˈraʊnd ˈsɪk.sti ə mʌnθ ɒn ðəʊz/",
+        "vi": "Tiền thuê là 850 một tháng. Đã gồm nước và internet, nhưng bạn sẽ phải trả tiền điện và gas ____. Đa số người thuê tốn khoảng 60 một tháng cho mấy khoản đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "separately", "explanationVi": "Dùng trạng từ 'separately' (= riêng, tách ra) để nói khoản này trả riêng, không nằm trong tiền thuê. Liên hệ mẫu câu 'or do I pay for that separately?'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see. To be honest, 850 is a little above my budget. Would you be willing to lower the rent slightly if I ____ a twelve-month lease instead of six?",
+        "ipa": "/aɪ siː tə biː ˈɒn.ɪst ˌeɪt ˈfɪf.ti ɪz ə ˈlɪt.əl əˈbʌv maɪ ˈbʌdʒ.ɪt wʊd juː biː ˈwɪl.ɪŋ tə ˈləʊ.ər ðə rent ˈslaɪt.li ɪf aɪ ˈsaɪnd ə ˈtwelv mʌnθ liːs ɪnˈsted ɒv sɪks/",
+        "vi": "Tôi hiểu. Thành thật mà nói, 850 hơi vượt ngân sách của tôi. Bạn có sẵn lòng giảm tiền thuê một chút nếu tôi ____ hợp đồng mười hai tháng thay vì sáu tháng không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "signed", "explanationVi": "Câu điều kiện loại 2 (giả định lịch sự): 'Would you... if I + V quá khứ'. Vì vế chính dùng 'would', vế 'if' phải chia quá khứ 'signed'. Xem mẫu câu 'Would you be willing to...?'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "That sounds reasonable. I could bring it down to 800 if you commit to a year, as long as the deposit is paid before you move in.",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl aɪ kʊd brɪŋ ɪt daʊn tə eɪt ˈhʌn.drəd ɪf juː kəˈmɪt tə ə jɪər əz lɒŋ əz ðə dɪˈpɒz.ɪt ɪz peɪd bɪˈfɔːr juː muːv ɪn/",
+        "vi": "Nghe hợp lý đấy. Tôi có thể giảm xuống còn 800 nếu bạn cam kết thuê một năm, miễn là tiền cọc được trả trước khi bạn dọn vào."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That works for me. By the way, how much notice do I have to give before moving out, and ____ I get the full deposit back if there's no damage?",
+        "ipa": "/ðæt wɜːks fɔːr miː baɪ ðə weɪ haʊ mʌtʃ ˈnəʊ.tɪs duː aɪ hæv tə ɡɪv bɪˈfɔːr ˈmuːv.ɪŋ aʊt ænd wɪl aɪ ɡet ðə fʊl dɪˈpɒz.ɪt bæk ɪf ðeəz nəʊ ˈdæm.ɪdʒ/",
+        "vi": "Vậy là ổn với tôi. Tiện thể, tôi phải báo trước bao lâu khi muốn dọn đi, và liệu tôi ____ được hoàn lại toàn bộ tiền cọc nếu không có hư hỏng gì không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "will", "explanationVi": "Dùng 'will' cho câu hỏi về tương lai có thật (chuyện sẽ xảy ra khi trả nhà), khác với câu giả định ở trên dùng 'would'. Cấu trúc: 'will I get... back?'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "You need to give one month's notice, and the full deposit is refundable provided the flat is left in good condition. Why don't you take the contract home and read it carefully before you decide?",
+        "ipa": "/juː niːd tə ɡɪv wʌn mʌnθs ˈnəʊ.tɪs ænd ðə fʊl dɪˈpɒz.ɪt ɪz rɪˈfʌn.də.bəl prəˈvaɪ.dɪd ðə flæt ɪz left ɪn ɡʊd kənˈdɪʃ.ən waɪ dəʊnt juː teɪk ðə ˈkɒn.trækt həʊm ænd riːd ɪt ˈkeə.fəl.i bɪˈfɔːr juː dɪˈsaɪd/",
+        "vi": "Bạn cần báo trước một tháng, và tiền cọc sẽ được hoàn lại đầy đủ với điều kiện căn hộ được giữ trong tình trạng tốt. Sao bạn không mang hợp đồng về đọc kỹ trước khi quyết định nhỉ?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, khi thuê nhà bạn thường phải trả trước tiền thuê tháng đầu CỘNG tiền cọc (deposit), nên cần chuẩn bị một khoản kha khá ngay từ đầu.",
+    "Tiền cọc thường được pháp luật bảo vệ và phải hoàn lại khi trả nhà nếu không hư hỏng; hãy chụp ảnh hiện trạng căn hộ lúc dọn vào để tránh tranh chấp.",
+    "Giá thuê niêm yết đôi khi vẫn có thể thương lượng, đặc biệt nếu bạn cam kết thuê dài hạn hoặc trả trước — đừng ngại hỏi một cách lịch sự.",
+    "Luôn đọc kỹ hợp đồng (lease) về thời hạn, quy định báo trước (notice) và ai chịu trách nhiệm sửa chữa trước khi ký."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'rent' (tiền thuê / thuê hàng tháng) với 'hire' — trong tiếng Anh-Mỹ, nhà cửa luôn dùng 'rent', không dùng 'hire'.",
+    "Quên 'for' sau 'pay' khi nói về chi phí: phải là 'pay FOR electricity', không phải 'pay electricity'.",
+    "Dùng sai thì trong câu điều kiện thương lượng: 'Would you lower the rent if I sign...' nên là 'if I signED' (điều kiện loại 2).",
+    "Nói 'I want to rent' nghe hơi cộc; dùng 'I'm looking for...' hoặc 'I'd like to rent...' cho lịch sự và tự nhiên hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi thuê nhà như thật.",
+    "prompt": "Hãy đóng vai một chủ nhà (hoặc môi giới) nói tiếng Anh đang cho thuê một căn hộ. Tôi là người đi xem nhà và muốn thuê. Hãy bắt đầu bằng cách chào và giới thiệu căn hộ. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một chủ nhà thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'although', mệnh đề quan hệ 'which/that' và câu điều kiện khi thương lượng, (4) thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ căn hộ đã có người đặt cọc, hoặc không cho nuôi thú cưng) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy làm một chủ nhà khó tính và không muốn giảm giá, để tôi tập thương lượng cứng hơn.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đọc cho tôi vài điều khoản trong hợp đồng và hỏi xem tôi có hiểu không.' để luyện từ vựng pháp lý."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được về giá thuê, tiền cọc và điện nước mà không cần nhìn gợi ý.",
+    "Tôi dùng được mẫu 'Would you be willing to...?' kèm câu điều kiện để thương lượng.",
+    "Tôi hỏi và hiểu được các điều khoản về thời hạn hợp đồng và quy định báo trước."
+  ]
+}

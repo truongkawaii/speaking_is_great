@@ -1,0 +1,359 @@
+{
+  "id": "expressing-opinions",
+  "category": "opinions",
+  "title": "Bày tỏ quan điểm",
+  "titleEn": "Expressing Opinions",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Nêu quan điểm cá nhân bằng câu dài, mạch lạc, có lý lẽ",
+    "Đồng ý và bất đồng một cách lịch sự, không gây mất lòng",
+    "Bảo vệ ý kiến bằng dẫn chứng và ví dụ cụ thể",
+    "Dùng ngữ pháp nâng cao (although, however, not only… but also, in order to, mệnh đề quan hệ) khi tranh luận",
+    "Dùng trạng từ và cụm làm mềm câu (frankly, arguably, to some extent) để nghe khách quan, chuyên nghiệp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "opinion",
+      "ipa": "/əˈpɪn.jən/",
+      "vi": "quan điểm, ý kiến (danh từ)",
+      "register": "neutral",
+      "example": "In my opinion, remote work has more benefits than drawbacks.",
+      "exampleVi": "Theo tôi, làm việc từ xa có nhiều lợi ích hơn là bất lợi.",
+      "note": "Danh từ. Cụm cố định 'in my opinion' (theo ý tôi), KHÔNG nói 'in my point of view' — phải là 'from my point of view'.",
+      "synonyms": [
+        { "term": "viewpoint", "ipa": "/ˈvjuː.pɔɪnt/", "register": "neutral", "nuanceVi": "Nhấn 'góc nhìn, lập trường' từ một vị trí cụ thể. Hơi trang trọng hơn 'opinion'." },
+        { "term": "stance", "ipa": "/stɑːns/", "register": "formal", "nuanceVi": "Nghĩa 'lập trường' rõ ràng, thường về vấn đề tranh cãi (chính trị, đạo đức). Hàm ý đã cân nhắc kỹ." },
+        { "term": "take", "ipa": "/teɪk/", "register": "casual", "nuanceVi": "Đời thường: 'What's your take on this?' = 'Bạn nghĩ sao về chuyện này?'. Nghe trẻ trung, thân mật." }
+      ]
+    },
+    {
+      "term": "to argue",
+      "ipa": "/ˈɑːɡ.juː/",
+      "vi": "lập luận, cho rằng (động từ)",
+      "register": "neutral",
+      "example": "Some people argue that technology makes us less social.",
+      "exampleVi": "Một số người cho rằng công nghệ khiến ta ít giao tiếp hơn.",
+      "note": "Động từ. Trong tranh luận, 'argue that…' = 'lập luận rằng', mang sắc thái đưa lý lẽ, KHÔNG phải 'cãi nhau' như nghĩa đời thường.",
+      "synonyms": [
+        { "term": "to maintain", "ipa": "/meɪnˈteɪn/", "register": "formal", "nuanceVi": "Nhấn 'kiên trì khẳng định' dù có ý kiến trái chiều. Trang trọng, dùng trong văn viết/tranh luận học thuật." },
+        { "term": "to claim", "ipa": "/kleɪm/", "register": "neutral", "nuanceVi": "Nhấn 'tuyên bố là đúng nhưng chưa chắc có bằng chứng'. Đôi khi hàm ý hoài nghi nhẹ." }
+      ]
+    },
+    {
+      "term": "to disagree",
+      "ipa": "/ˌdɪs.əˈɡriː/",
+      "vi": "không đồng ý (động từ)",
+      "register": "neutral",
+      "example": "I have to disagree with you on that point.",
+      "exampleVi": "Tôi phải không đồng ý với bạn ở điểm đó.",
+      "note": "Động từ, đi với 'with somebody / on something'. Để lịch sự, thêm 'I'm afraid' hoặc 'respectfully' ở trước.",
+      "synonyms": [
+        { "term": "to object", "ipa": "/əbˈdʒekt/", "register": "formal", "nuanceVi": "Nhấn 'phản đối ra mặt'. Mạnh hơn disagree; đi với 'object to something'." },
+        { "term": "to beg to differ", "ipa": "/beɡ tə ˈdɪf.ər/", "register": "formal", "nuanceVi": "Thành ngữ lịch sự, hơi trang trọng/cổ: 'I beg to differ' = 'tôi xin phép có ý khác'. Nghe nhã nhặn." }
+      ]
+    },
+    {
+      "term": "convincing",
+      "ipa": "/kənˈvɪn.sɪŋ/",
+      "vi": "thuyết phục, có sức thuyết phục (tính từ)",
+      "register": "neutral",
+      "example": "She made a convincing argument for working from home.",
+      "exampleVi": "Cô ấy đưa ra một lập luận thuyết phục về việc làm tại nhà.",
+      "note": "Tính từ, mô tả lý lẽ/bằng chứng đủ mạnh để người khác tin. Trái nghĩa: unconvincing.",
+      "synonyms": [
+        { "term": "compelling", "ipa": "/kəmˈpel.ɪŋ/", "register": "formal", "nuanceVi": "Mạnh hơn 'convincing': hấp dẫn đến mức khó cưỡng, cuốn người nghe theo. Tạo ấn tượng tinh tế." },
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn 'có khả năng thuyết phục, lay chuyển người khác'. Gần nghĩa, thiên về kỹ năng diễn đạt." }
+      ]
+    },
+    {
+      "term": "reasonable",
+      "ipa": "/ˈriː.zən.ə.bəl/",
+      "vi": "hợp lý, có lý (tính từ)",
+      "register": "neutral",
+      "example": "That sounds like a reasonable point of view.",
+      "exampleVi": "Nghe có vẻ là một quan điểm hợp lý.",
+      "note": "Tính từ. Khen ý kiến của người khác 'hợp lý' là cách công nhận lịch sự trước khi nêu ý mình.",
+      "synonyms": [
+        { "term": "valid", "ipa": "/ˈvæl.ɪd/", "register": "neutral", "nuanceVi": "Nhấn 'có cơ sở, đúng về mặt logic'. Hay dùng: 'a valid point' = một điểm xác đáng." },
+        { "term": "sound", "ipa": "/saʊnd/", "register": "formal", "nuanceVi": "Tính từ nghĩa 'vững chắc, không có lỗ hổng' (a sound argument). Trang trọng, hơi học thuật." }
+      ]
+    },
+    {
+      "term": "perspective",
+      "ipa": "/pəˈspek.tɪv/",
+      "vi": "góc nhìn, lăng kính (danh từ)",
+      "register": "neutral",
+      "example": "From an economic perspective, the policy makes sense.",
+      "exampleVi": "Xét từ góc độ kinh tế, chính sách này hợp lý.",
+      "note": "Danh từ. Cụm 'from a … perspective' = 'xét từ góc độ …', rất hữu ích khi giới hạn phạm vi quan điểm.",
+      "synonyms": [
+        { "term": "angle", "ipa": "/ˈæŋ.ɡəl/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'khía cạnh để nhìn nhận'. 'Look at it from a different angle.'" }
+      ]
+    },
+    {
+      "term": "to overlook",
+      "ipa": "/ˌəʊ.vəˈlʊk/",
+      "vi": "bỏ sót, không để ý đến (động từ)",
+      "register": "neutral",
+      "example": "I think you're overlooking the cost involved.",
+      "exampleVi": "Tôi nghĩ bạn đang bỏ qua chi phí liên quan.",
+      "note": "Động từ, nghĩa 'không nhận ra/không tính đến điều quan trọng'. Cách nhẹ nhàng để chỉ ra thiếu sót trong lập luận của người khác.",
+      "synonyms": [
+        { "term": "to ignore", "ipa": "/ɪɡˈnɔːr/", "register": "neutral", "nuanceVi": "Nhấn 'cố tình phớt lờ'. Nặng hơn 'overlook' (vốn mang nghĩa vô tình bỏ sót)." },
+        { "term": "to disregard", "ipa": "/ˌdɪs.rɪˈɡɑːd/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'gạt sang một bên, không coi trọng'. Dùng trong văn nói chính thức." }
+      ]
+    },
+    {
+      "term": "frankly",
+      "ipa": "/ˈfræŋk.li/",
+      "vi": "thẳng thắn mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Frankly, I don't think that approach will work.",
+      "exampleVi": "Thẳng thắn mà nói, tôi không nghĩ cách đó hiệu quả.",
+      "note": "Trạng từ đứng đầu câu, báo hiệu bạn sắp nói thật lòng, đôi khi điều khó nghe — nhưng vẫn lịch sự.",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "neutral", "nuanceVi": "Gần nghĩa, phổ biến hơn và nhẹ nhàng hơn 'frankly' một chút." },
+        { "term": "to be blunt", "ipa": "/tə biː blʌnt/", "register": "casual", "nuanceVi": "Nhấn 'nói toạc, không vòng vo, có thể hơi thô'. Báo trước điều sắp nói khá thẳng." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːɡ.ju.ə.bli/",
+      "vi": "có thể nói là, có lẽ (trạng từ)",
+      "register": "formal",
+      "example": "This is arguably the most important issue we face.",
+      "exampleVi": "Đây có thể nói là vấn đề quan trọng nhất chúng ta đối mặt.",
+      "note": "Trạng từ làm câu nghe khách quan, cân nhắc: 'có cơ sở để khẳng định nhưng vẫn để ngỏ tranh luận'. Rất 'sang' trong tranh luận B2-C1.",
+      "synonyms": [
+        { "term": "presumably", "ipa": "/prɪˈzjuː.mə.bli/", "register": "formal", "nuanceVi": "Nhấn 'phỏng đoán dựa trên lẽ thường'. Khác arguably: presumably thiên về suy đoán, arguably thiên về 'có thể lập luận được'." }
+      ]
+    },
+    {
+      "term": "to some extent",
+      "ipa": "/tə sʌm ɪkˈstent/",
+      "vi": "ở một mức độ nào đó (cụm trạng từ)",
+      "register": "neutral",
+      "example": "I agree with you to some extent, but not entirely.",
+      "exampleVi": "Tôi đồng ý với bạn ở một mức độ nào đó, nhưng không hoàn toàn.",
+      "note": "Cụm trạng ngữ dùng để đồng ý một phần — vừa công nhận, vừa giữ chỗ cho ý kiến riêng. Cực kỳ hữu ích khi tranh luận tế nhị.",
+      "synonyms": [
+        { "term": "up to a point", "ipa": "/ʌp tə ə pɔɪnt/", "register": "neutral", "nuanceVi": "Đồng nghĩa, đời thường hơn: 'I agree up to a point.' Hàm ý 'đến một giới hạn thì thôi'." }
+      ]
+    },
+    {
+      "term": "biased",
+      "ipa": "/ˈbaɪ.əst/",
+      "vi": "thiên vị, định kiến (tính từ)",
+      "register": "neutral",
+      "example": "I try not to be biased when judging the two options.",
+      "exampleVi": "Tôi cố không thiên vị khi đánh giá hai phương án.",
+      "note": "Tính từ. Đi với 'biased towards/against'. Phát âm bẫy: /ˈbaɪ.əst/, hai âm tiết, không đọc 'bi-a-sed'.",
+      "synonyms": [
+        { "term": "one-sided", "ipa": "/ˌwʌnˈsaɪ.dɪd/", "register": "neutral", "nuanceVi": "Nhấn 'chỉ nhìn một phía, không công bằng'. Hay mô tả lập luận hoặc bài viết phiến diện." },
+        { "term": "prejudiced", "ipa": "/ˈpredʒ.ə.dɪst/", "register": "formal", "nuanceVi": "Nặng hơn, nghĩa 'định kiến cố hữu (thường về con người/nhóm người)'. Mang sắc thái tiêu cực rõ." }
+      ]
+    },
+    {
+      "term": "to come up with",
+      "ipa": "/tə kʌm ʌp wɪð/",
+      "vi": "nghĩ ra, đưa ra (cụm động từ)",
+      "register": "neutral",
+      "example": "We need to come up with a better solution.",
+      "exampleVi": "Chúng ta cần nghĩ ra một giải pháp tốt hơn.",
+      "note": "Cụm động từ, nghĩa 'tìm ra/đề xuất' ý tưởng, giải pháp. Rất tự nhiên khi đề xuất hướng giải quyết trong thảo luận.",
+      "synonyms": [
+        { "term": "to propose", "ipa": "/prəˈpəʊz/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'chính thức đề xuất'. Dùng trong họp hành, văn bản." },
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Phổ biến, nhẹ nhàng nhất. Đi với 'suggest doing / suggest that…'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], although I can see why some people disagree.",
+      "use": "Nêu quan điểm cá nhân nhưng vẫn thể hiện sự cởi mở, tôn trọng ý khác.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, social media does more harm than good, although I can see why some people disagree."
+      ],
+      "explanationVi": "'In my opinion' mở đầu quan điểm. Mệnh đề nhượng bộ với 'although' cho thấy bạn đã cân nhắc cả ý trái chiều — nghe chín chắn, không áp đặt.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "From my point of view, [mệnh đề], particularly because [lý do].",
+      "use": "Nêu quan điểm kèm lý do nhấn mạnh.",
+      "register": "neutral",
+      "examples": [
+        "From my point of view, remote work boosts productivity, particularly because it saves commuting time."
+      ],
+      "explanationVi": "'From my point of view' = 'theo góc nhìn của tôi'. Lưu ý KHÔNG nói 'in my point of view'. 'particularly because' dẫn vào lý do cốt lõi, làm quan điểm có sức nặng.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "I completely agree with you, not only because [lý do 1], but also because [lý do 2].",
+      "use": "Đồng tình mạnh mẽ và đưa hai lý do để củng cố.",
+      "register": "neutral",
+      "examples": [
+        "I completely agree with you, not only because it cuts costs, but also because it improves morale."
+      ],
+      "explanationVi": "'not only… but also…' nối hai lý do song song, nghe đầy đặn và thuyết phục. Khi đứng giữa câu (sau 'because') thì KHÔNG cần đảo ngữ.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, however, I'm afraid I have to disagree because [lý do].",
+      "use": "Bất đồng một cách lịch sự sau khi đã công nhận ý người kia.",
+      "register": "formal",
+      "examples": [
+        "I see your point, however, I'm afraid I have to disagree because the data suggests otherwise."
+      ],
+      "explanationVi": "Công thức vàng để phản biện văn minh: công nhận ('I see your point') + chuyển ý ('however') + làm mềm ('I'm afraid') + lý do. 'however' là trạng từ nối, sau nó có dấu phẩy.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "I agree with you to some extent, but I think you're overlooking [danh từ].",
+      "use": "Đồng ý một phần rồi chỉ ra điều người kia bỏ sót.",
+      "register": "neutral",
+      "examples": [
+        "I agree with you to some extent, but I think you're overlooking the long-term costs."
+      ],
+      "explanationVi": "'to some extent' (ở mức độ nào đó) giúp bạn không phủ nhận hoàn toàn. 'you're overlooking…' chỉ ra thiếu sót một cách nhẹ nhàng, không công kích.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "While [mệnh đề 1], it could be argued that [mệnh đề 2].",
+      "use": "Trình bày hai mặt của vấn đề một cách khách quan, học thuật.",
+      "register": "formal",
+      "examples": [
+        "While technology connects us, it could be argued that it also makes us more isolated."
+      ],
+      "explanationVi": "'While' mở mệnh đề tương phản (= trong khi/mặc dù). 'it could be argued that' là cách nói bị động khách quan, tránh áp đặt ý mình — rất hợp khi cân nhắc hai chiều.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "Wouldn't it be better to [V], in order to [mục đích]?",
+      "use": "Đề xuất một hướng khác dưới dạng câu hỏi tu từ nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "Wouldn't it be better to compromise, in order to keep everyone satisfied?"
+      ],
+      "explanationVi": "Câu hỏi phủ định 'Wouldn't it be better…?' đề xuất khéo léo mà không ra lệnh. 'in order to' nêu mục đích, sang hơn 'to' đơn thuần.",
+      "altOf": "suggesting"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "cá nhân tôi thì", "when": "Mở đầu khi muốn nhấn đây là ý riêng, không áp đặt người khác.", "example": "Personally, I find that argument rather weak." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Khi muốn công nhận một điểm đúng của phía đối lập trước khi phản biện.", "example": "To be fair, both sides have a point." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì (đính chính nhẹ)", "when": "Khi nhẹ nhàng đưa ra thông tin trái với điều vừa nói.", "example": "Actually, the statistics show the opposite." },
+    { "term": "absolutely", "ipa": "/ˈæb.sə.luːt.li/", "vi": "hoàn toàn (đồng ý mạnh)", "when": "Khi muốn tán thành dứt khoát, đầy nhiệt tình.", "example": "Absolutely, I couldn't agree more." },
+    { "term": "on the other hand", "ipa": "/ɒn ðiː ˈʌð.ər hænd/", "vi": "mặt khác", "when": "Khi chuyển sang trình bày mặt còn lại của vấn đề.", "example": "On the other hand, it does have some clear drawbacks." },
+    { "term": "having said that", "ipa": "/ˈhæv.ɪŋ sed ðæt/", "vi": "tuy nói vậy nhưng", "when": "Khi muốn bổ sung một ý hơi trái với điều mình vừa khẳng định.", "example": "Having said that, I still believe it's worth trying." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp, Linh và Mark, đang thảo luận trong giờ nghỉ về việc công ty có nên chuyển hẳn sang mô hình làm việc từ xa hay không. Mỗi người bày tỏ quan điểm và phản biện lịch sự.",
+    "lines": [
+      {
+        "speaker": "Mark",
+        "text": "So, what's your take on the company's plan to switch to fully remote work? Honestly, I think it's a fantastic idea.",
+        "ipa": "/səʊ wɒts jɔː teɪk ɒn ðə ˈkʌm.pə.niz plæn tə swɪtʃ tə ˈfʊl.i rɪˈməʊt wɜːk ˈɒn.ɪst.li aɪ θɪŋk ɪts ə fænˈtæs.tɪk aɪˈdɪə/",
+        "vi": "Vậy cậu nghĩ sao về kế hoạch chuyển hẳn sang làm việc từ xa của công ty? Thành thật mà nói, tớ thấy đó là ý tưởng tuyệt vời."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Well, ____ my point of view, it has clear benefits, particularly because it saves us hours of commuting every week. However, I'm not entirely convinced it suits everyone.",
+        "ipa": "/wel ... maɪ pɔɪnt ɒv vjuː ɪt hæz klɪə ˈben.ɪ.fɪts pəˈtɪk.jə.lə.li bɪˈkɒz ɪt seɪvz ʌs ˈaʊ.əz ɒv kəˈmjuː.tɪŋ ˈev.ri wiːk haʊˈev.ər aɪm nɒt ɪnˈtaɪə.li kənˈvɪnst ɪt suːts ˈev.ri.wʌn/",
+        "vi": "Ừm, theo góc nhìn của tớ, nó có lợi ích rõ ràng, đặc biệt vì nó giúp tiết kiệm hàng giờ đi lại mỗi tuần. Tuy nhiên, tớ không hoàn toàn tin là nó hợp với tất cả mọi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "from", "explanationVi": "Cụm cố định là 'from my point of view' (theo góc nhìn của tôi). KHÔNG dùng 'in my point of view'. Xem mẫu câu 'From my point of view…'." }
+        ]
+      },
+      {
+        "speaker": "Mark",
+        "text": "That's a reasonable point. But don't you think the increase in flexibility makes up for it? There are many studies ____ show that remote employees are actually more productive.",
+        "ipa": "/ðæts ə ˈriː.zən.ə.bəl pɔɪnt bʌt dəʊnt juː θɪŋk ðiː ˈɪn.kriːs ɪn ˌflek.səˈbɪl.ə.ti meɪks ʌp fɔːr ɪt ðeər ɑː ˈmen.i ˈstʌd.iz ... ʃəʊ ðæt rɪˈməʊt ɪmˈplɔɪ.iːz ˈæk.tʃu.ə.li ɑː mɔː prəˈdʌk.tɪv/",
+        "vi": "Đó là một điểm hợp lý. Nhưng cậu không nghĩ là sự linh hoạt tăng thêm bù lại được điều đó sao? Có nhiều nghiên cứu ____ chỉ ra rằng nhân viên làm từ xa thật ra còn năng suất hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' (cho vật/sự việc, ở đây là 'studies') để mở mệnh đề quan hệ xác định, làm chủ ngữ cho động từ 'show'. Cũng có thể dùng 'that'. Nếu chủ thể là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I agree with you ____ some extent, but I think you're overlooking the people who struggle to focus at home, such as those who live in small, crowded apartments.",
+        "ipa": "/aɪ əˈɡriː wɪð juː ... sʌm ɪkˈstent bʌt aɪ θɪŋk jɔː ˌəʊ.vəˈlʊk.ɪŋ ðə ˈpiː.pəl huː ˈstrʌɡ.əl tə ˈfəʊ.kəs ət həʊm sʌtʃ æz ðəʊz huː lɪv ɪn smɔːl ˈkraʊ.dɪd əˈpɑːt.mənts/",
+        "vi": "Tớ đồng ý với cậu ở một mức độ nào đó, nhưng tớ nghĩ cậu đang bỏ sót những người khó tập trung ở nhà, chẳng hạn như những người sống trong căn hộ nhỏ, đông đúc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Cụm cố định 'to some extent' = 'ở một mức độ nào đó', dùng để đồng ý một phần. Xem mẫu câu 'I agree with you to some extent, but…'." }
+        ]
+      },
+      {
+        "speaker": "Mark",
+        "text": "Fair enough. ____ I do see the downsides, I still believe the company could offer a hybrid option in order to keep everyone happy.",
+        "ipa": "/feər ɪˈnʌf ... aɪ duː siː ðə ˈdaʊn.saɪdz aɪ stɪl bɪˈliːv ðə ˈkʌm.pə.ni kʊd ˈɒf.ər ə ˈhaɪ.brɪd ˈɒp.ʃən ɪn ˈɔː.dər tə kiːp ˈev.ri.wʌn ˈhæp.i/",
+        "vi": "Cũng có lý. Mặc dù tớ có thấy mặt trái, tớ vẫn tin công ty có thể đưa ra phương án kết hợp (hybrid) để giữ cho mọi người vui vẻ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù…), đứng đầu câu nên viết hoa. Cho thấy bạn công nhận mặt trái nhưng vẫn giữ quan điểm. Tương đương 'Even though'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Now that's a compromise I can support. Personally, I'd argue that a hybrid model is the most sensible choice, because it offers freedom ____ keeping the team connected.",
+        "ipa": "/naʊ ðæts ə ˈkɒm.prə.maɪz aɪ kæn səˈpɔːt ˈpɜː.sən.əl.i aɪd ˈɑːɡ.juː ðæt ə ˈhaɪ.brɪd ˈmɒd.əl ɪz ðə məʊst ˈsen.sə.bəl tʃɔɪs bɪˈkɒz ɪt ˈɒf.əz ˈfriː.dəm ... ˈkiːp.ɪŋ ðə tiːm kəˈnek.tɪd/",
+        "vi": "Đó mới là một sự thỏa hiệp mà tớ ủng hộ. Cá nhân tớ cho rằng mô hình kết hợp là lựa chọn hợp lý nhất, vì nó vừa cho tự do trong khi vẫn giữ cả nhóm gắn kết.",
+        "blanks": [
+          { "type": "knowledge", "answer": "while", "explanationVi": "'while' ở đây nghĩa 'trong khi (vẫn)', nối hai ý song song có phần tương phản: vừa tự do vừa gắn kết. Theo sau là V-ing ('keeping')." }
+        ]
+      },
+      {
+        "speaker": "Mark",
+        "text": "Exactly. And honestly, the biggest reason I prefer it is ____. What about you — what matters most to you?",
+        "ipa": "/ɪɡˈzækt.li ænd ˈɒn.ɪst.li ðə ˈbɪɡ.ɪst ˈriː.zən aɪ prɪˈfɜː ɪt ɪz ... wɒt əˈbaʊt juː wɒt ˈmæt.əz məʊst tə juː/",
+        "vi": "Chính xác. Và thành thật mà nói, lý do lớn nhất khiến tớ thích nó là ____. Còn cậu thì sao — điều gì quan trọng nhất với cậu?",
+        "blanks": [
+          { "type": "personal", "hint": "Lý do cá nhân của bạn khi thích mô hình hybrid. Ví dụ: 'the work-life balance it gives me' hoặc 'being able to focus at home'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "For me, what matters most is ____. At the end of the day, although no system is perfect, I'm confident we can come up with one that works for almost everyone.",
+        "ipa": "/fɔː miː wɒt ˈmæt.əz məʊst ɪz ... ət ðiː end ɒv ðə deɪ ɔːlˈðəʊ nəʊ ˈsɪs.təm ɪz ˈpɜː.fɪkt aɪm ˈkɒn.fɪ.dənt wiː kæn kʌm ʌp wɪð wʌn ðæt wɜːks fɔːr ˈɔːl.məʊst ˈev.ri.wʌn/",
+        "vi": "Với tớ, điều quan trọng nhất là ____. Suy cho cùng, mặc dù không hệ thống nào hoàn hảo, tớ tin chúng ta có thể nghĩ ra một phương án phù hợp với gần như tất cả mọi người.",
+        "blanks": [
+          { "type": "personal", "hint": "Điều quan trọng nhất với bạn trong công việc. Ví dụ: 'feeling trusted by my manager' hoặc 'having clear communication'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, bất đồng ý kiến (disagree) trong thảo luận là chuyện bình thường và lành mạnh, miễn là tấn công vào lập luận chứ không vào con người. Đừng coi việc bị phản biện là xúc phạm cá nhân.",
+    "Người bản xứ thường 'đệm' trước khi phản đối: 'I see your point, but…', 'That's a fair point, however…'. Bỏ qua bước công nhận này dễ khiến bạn nghe gay gắt.",
+    "Câu hỏi tu từ phủ định ('Wouldn't it be better to…?', 'Don't you think…?') là cách đề xuất/phản biện rất phổ biến và lịch sự, mềm hơn câu khẳng định trực tiếp.",
+    "Dùng 'I think', 'In my opinion', 'It seems to me' để đánh dấu rõ đây là ý kiến chứ không phải sự thật tuyệt đối — nghe khiêm tốn và cởi mở hơn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'in my point of view' — SAI. Cụm đúng là 'from my point of view' hoặc 'in my opinion'.",
+    "Phản đối thẳng 'No, you're wrong' nghe rất thô. Hãy dùng 'I'm afraid I have to disagree' hoặc 'I see it differently'.",
+    "Nhầm 'although/however': 'although' là liên từ nối hai mệnh đề trong một câu; 'however' là trạng từ nối, thường đứng đầu câu mới và có dấu phẩy theo sau.",
+    "Lạm dụng 'I think' đầu mọi câu. Hãy đa dạng hóa: 'In my view', 'Personally', 'It seems to me', 'I'd argue that…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận, bày tỏ quan điểm như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh có quan điểm khác tôi. Hãy chọn một chủ đề gây tranh luận (ví dụ: làm việc từ xa, mạng xã hội, học online) và nêu quan điểm của bạn trước. Sau đó tranh luận lịch sự với tôi: lắng nghe ý tôi, đồng ý hoặc phản biện có lý lẽ, và đặt câu hỏi để tôi phải bảo vệ quan điểm. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như đang tranh luận thật, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên, lịch sự hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'however', 'not only… but also', 'to some extent'. Cuối buổi, hãy nhận xét xem tôi bày tỏ và bảo vệ quan điểm đã thuyết phục chưa, và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu chủ đề và quan điểm của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn và ép tôi đưa ra dẫn chứng cụ thể.' khi bạn đã quen.",
+      "Thêm: 'Hãy đổi chủ đề sang một vấn đề trừu tượng/đạo đức để tôi tập lập luận sâu hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm bằng một câu dài có lý do, dùng 'In my opinion' hoặc 'From my point of view' đúng cách.",
+    "Tôi đồng ý và bất đồng một cách lịch sự, biết công nhận ý người khác trước khi phản biện ('I see your point, however…').",
+    "Tôi dùng được 'although', 'to some extent' và câu hỏi tu từ để tranh luận mềm mại, không gay gắt."
+  ]
+}

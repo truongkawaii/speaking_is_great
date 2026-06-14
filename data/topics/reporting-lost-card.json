@@ -1,0 +1,356 @@
+{
+  "id": "reporting-lost-card",
+  "category": "services",
+  "title": "Báo mất thẻ",
+  "titleEn": "Reporting a Lost Card",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "handling-problems", "complaining"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Báo cho ngân hàng biết thẻ của bạn bị mất hoặc bị đánh cắp",
+    "Yêu cầu khóa thẻ và phát hành lại thẻ mới một cách lịch sự",
+    "Cung cấp thông tin xác minh danh tính (tên, ngày sinh, số tài khoản)",
+    "Hỏi về các giao dịch đáng ngờ và phí làm lại thẻ",
+    "Dùng các cấu trúc B1 như 'because', 'such as', 'although' khi trình bày sự việc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to report",
+      "ipa": "/rɪˈpɔːrt/",
+      "vi": "báo cáo, trình báo (động từ)",
+      "register": "neutral",
+      "example": "I'd like to report a lost card, please.",
+      "exampleVi": "Tôi muốn trình báo về một chiếc thẻ bị mất.",
+      "note": "Động từ. Đi với 'report something to somebody'. Đây là động từ cốt lõi của cả tình huống này.",
+      "synonyms": [
+        { "term": "to notify", "ipa": "/ˈnəʊ.tɪ.faɪ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'thông báo chính thức cho ai đó'. Hay gặp trong văn bản ngân hàng: 'Please notify us immediately.'" },
+        { "term": "to flag", "ipa": "/flæɡ/", "register": "neutral", "nuanceVi": "Nhấn ý 'đánh dấu để lưu ý/kiểm tra'. Vd 'flag a suspicious transaction' (đánh dấu giao dịch đáng ngờ)." }
+      ]
+    },
+    {
+      "term": "to lose",
+      "ipa": "/luːz/",
+      "vi": "làm mất, đánh mất (động từ)",
+      "register": "neutral",
+      "example": "I think I lost my card on the bus this morning.",
+      "exampleVi": "Tôi nghĩ mình làm mất thẻ trên xe buýt sáng nay.",
+      "note": "Động từ bất quy tắc: lose - lost - lost. Đừng nhầm 'lose' (mất) với 'loose' (lỏng, rộng) — viết và nghĩa khác hẳn.",
+      "synonyms": [
+        { "term": "to misplace", "ipa": "/ˌmɪsˈpleɪs/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'lose', nghĩa 'để quên ở đâu đó, tạm thời chưa tìm thấy'. Còn hy vọng tìm lại được." }
+      ]
+    },
+    {
+      "term": "to block",
+      "ipa": "/blɒk/",
+      "vi": "khóa (thẻ), chặn (động từ)",
+      "register": "neutral",
+      "example": "Could you block my card immediately?",
+      "exampleVi": "Anh/chị có thể khóa thẻ của tôi ngay được không?",
+      "note": "Động từ. Khi báo mất thẻ, đây là việc đầu tiên cần yêu cầu. Đồng nghĩa rất gần là 'cancel' và 'freeze'.",
+      "synonyms": [
+        { "term": "to cancel", "ipa": "/ˈkæn.səl/", "register": "neutral", "nuanceVi": "Nhấn 'hủy hẳn thẻ', thẻ sẽ không dùng lại được. 'block' đôi khi chỉ là tạm khóa." },
+        { "term": "to freeze", "ipa": "/friːz/", "register": "neutral", "nuanceVi": "Nhấn 'tạm đóng băng', có thể mở lại sau nếu tìm thấy thẻ. Mềm hơn 'cancel'." },
+        { "term": "to deactivate", "ipa": "/diˈæk.tɪ.veɪt/", "register": "formal", "nuanceVi": "Trang trọng, kỹ thuật, nghĩa 'vô hiệu hóa'. Hay xuất hiện trong app hoặc lời nhân viên ngân hàng." }
+      ]
+    },
+    {
+      "term": "to replace",
+      "ipa": "/rɪˈpleɪs/",
+      "vi": "làm lại, thay thế (động từ)",
+      "register": "neutral",
+      "example": "How long does it take to replace the card?",
+      "exampleVi": "Làm lại thẻ mất bao lâu vậy?",
+      "note": "Động từ. Danh từ là 'replacement' (thẻ thay thế): 'a replacement card'. Đây là việc bạn xin sau khi đã khóa thẻ cũ."
+    },
+    {
+      "term": "transaction",
+      "ipa": "/trænˈzæk.ʃən/",
+      "vi": "giao dịch (danh từ)",
+      "register": "neutral",
+      "example": "There are two transactions I don't recognize.",
+      "exampleVi": "Có hai giao dịch mà tôi không nhận ra.",
+      "note": "Danh từ. Mỗi lần chi tiêu/chuyển tiền là một 'transaction'. Số nhiều thêm -s.",
+      "synonyms": [
+        { "term": "payment", "ipa": "/ˈpeɪ.mənt/", "register": "neutral", "nuanceVi": "Nhấn riêng 'khoản thanh toán đi ra'. Hẹp hơn 'transaction' (vốn gồm cả tiền ra lẫn tiền vào)." },
+        { "term": "charge", "ipa": "/tʃɑːrdʒ/", "register": "neutral", "nuanceVi": "Nhấn 'khoản bị trừ/tính tiền vào thẻ'. Vd 'an unknown charge' (một khoản lạ bị trừ)." }
+      ]
+    },
+    {
+      "term": "suspicious",
+      "ipa": "/səˈspɪʃ.əs/",
+      "vi": "đáng ngờ (tính từ)",
+      "register": "neutral",
+      "example": "Please check for any suspicious activity on my account.",
+      "exampleVi": "Làm ơn kiểm tra xem có hoạt động đáng ngờ nào trên tài khoản tôi không.",
+      "note": "Tính từ. Hay đi với 'activity', 'transaction', 'charge'. Phát âm: âm 'sp' rồi /ˈspɪʃ/.",
+      "synonyms": [
+        { "term": "unusual", "ipa": "/ʌnˈjuː.ʒu.əl/", "register": "neutral", "nuanceVi": "Nhẹ hơn, chỉ 'bất thường, khác lệ thường', chưa hẳn ám chỉ gian lận. 'suspicious' ngụ ý nghi ngờ xấu rõ hơn." },
+        { "term": "fraudulent", "ipa": "/ˈfrɔː.dʒə.lənt/", "register": "formal", "nuanceVi": "Mạnh và trang trọng, nghĩa 'gian lận, lừa đảo' đã được khẳng định. Dùng khi chắc chắn là lừa đảo." }
+      ]
+    },
+    {
+      "term": "to verify",
+      "ipa": "/ˈver.ɪ.faɪ/",
+      "vi": "xác minh (động từ)",
+      "register": "formal",
+      "example": "First, I need to verify your identity.",
+      "exampleVi": "Trước tiên, tôi cần xác minh danh tính của quý khách.",
+      "note": "Động từ. Danh từ là 'verification'. Nhân viên ngân hàng luôn 'verify your identity' trước khi xử lý.",
+      "synonyms": [
+        { "term": "to confirm", "ipa": "/kənˈfɜːm/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'xác nhận lại cho chắc'. 'verify' nhấn việc kiểm tra để chứng minh là đúng/thật." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp (tính từ)",
+      "register": "neutral",
+      "example": "This is urgent because someone might be using my card.",
+      "exampleVi": "Việc này khẩn cấp vì có thể ai đó đang dùng thẻ của tôi.",
+      "note": "Tính từ. Trạng từ là 'urgently' (một cách khẩn cấp). Dùng để nhấn rằng việc cần xử lý ngay.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ hơn, nghĩa 'cấp bách, không thể chần chừ'. Vd 'a pressing matter'." }
+      ]
+    },
+    {
+      "term": "immediately",
+      "ipa": "/ɪˈmiː.di.ət.li/",
+      "vi": "ngay lập tức (trạng từ)",
+      "register": "neutral",
+      "example": "I called the bank immediately after I noticed it was gone.",
+      "exampleVi": "Tôi gọi ngân hàng ngay khi nhận ra thẻ đã mất.",
+      "note": "Trạng từ. Rất hay dùng khi báo mất thẻ để nhấn tính khẩn. Đồng nghĩa: straight away, right away.",
+      "synonyms": [
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa y hệt 'immediately' nhưng nghe thân mật, gần gũi hơn." },
+        { "term": "promptly", "ipa": "/ˈprɒmpt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nhanh và đúng lúc, không trì hoãn'. Hợp ngữ cảnh dịch vụ chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "PIN",
+      "ipa": "/pɪn/",
+      "vi": "mã PIN (mật khẩu thẻ) (danh từ)",
+      "register": "neutral",
+      "example": "Don't worry, I'll never ask you for your full PIN.",
+      "exampleVi": "Đừng lo, tôi sẽ không bao giờ hỏi đầy đủ mã PIN của quý khách.",
+      "note": "Viết tắt của 'Personal Identification Number'. Tuyệt đối không đọc PIN cho người lạ — ngân hàng thật sẽ không hỏi."
+    },
+    {
+      "term": "statement",
+      "ipa": "/ˈsteɪt.mənt/",
+      "vi": "sao kê (bảng kê giao dịch) (danh từ)",
+      "register": "neutral",
+      "example": "I noticed the charges on my latest statement.",
+      "exampleVi": "Tôi để ý thấy các khoản đó trên bảng sao kê mới nhất.",
+      "note": "Danh từ. 'bank statement' = sao kê ngân hàng, liệt kê mọi giao dịch trong kỳ."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to report a [danh từ], please.",
+      "use": "Mở đầu cuộc gọi/đối thoại để nêu lý do bạn liên hệ.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to report a lost card, please.",
+        "I'd like to report a stolen credit card, please."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want to'. Đây là câu mở đầu chuẩn nhất khi gọi tổng đài ngân hàng.",
+      "altOf": "stating-purpose"
+    },
+    {
+      "pattern": "I'm calling because [mệnh đề].",
+      "use": "Nêu lý do liên hệ kèm giải thích ngắn.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling because I think my card has been stolen.",
+        "I'm calling because I can't find my debit card anywhere."
+      ],
+      "explanationVi": "'because' nối lý do — một liên từ trọng tâm ở cấp B1. Dùng để giải thích ngay vì sao bạn gọi, nghe rõ ràng và tự nhiên.",
+      "altOf": "stating-purpose"
+    },
+    {
+      "pattern": "Could you [động từ nguyên thể] ... ?",
+      "use": "Yêu cầu nhân viên làm gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you block my card immediately?",
+        "Could you tell me if there have been any recent transactions?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?', rất hợp khi nói với nhân viên. Dùng cho việc bạn cần họ thực hiện.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Would it be possible to [động từ nguyên thể] ... ?",
+      "use": "Đề nghị một việc tế nhị hơn (xin làm lại thẻ gấp, miễn phí...).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get a replacement card by tomorrow?",
+        "Would it be possible to waive the replacement fee this time?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, dùng khi xin một đặc ân mà người ta có quyền từ chối. Nghe rất nhã nhặn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "There [is/are] [số] [danh từ] (that) I don't recognize.",
+      "use": "Báo về các giao dịch lạ trên tài khoản.",
+      "register": "neutral",
+      "examples": [
+        "There are two transactions that I don't recognize.",
+        "There is a charge that I don't recognize on my statement."
+      ],
+      "explanationVi": "Dùng 'There is/are' để nêu sự tồn tại của giao dịch lạ, kèm mệnh đề quan hệ '(that) I don't recognize' để mô tả. Câu cực kỳ hữu ích khi nghi ngờ bị gian lận."
+    },
+    {
+      "pattern": "How long does it take to [động từ]?",
+      "use": "Hỏi thời gian xử lý (làm lại thẻ, hoàn tiền...).",
+      "register": "neutral",
+      "examples": [
+        "How long does it take to replace the card?",
+        "How long does it take to receive the new card?"
+      ],
+      "explanationVi": "Mẫu hỏi thời gian rất thông dụng. 'it takes + khoảng thời gian + to do something'. Dùng để biết khi nào có thẻ mới."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin hoặc bổ sung điều quan trọng mà không muốn cộc lốc.",
+      "example": "Actually, I think it was stolen rather than lost."
+    },
+    {
+      "term": "to be honest",
+      "ipa": "/tə biː ˈɒn.ɪst/",
+      "vi": "thành thật mà nói",
+      "when": "Mở đầu một lời thừa nhận hoặc chia sẻ chân thành (vd bạn không chắc mất ở đâu).",
+      "example": "To be honest, I'm not exactly sure where I lost it."
+    },
+    {
+      "term": "as soon as possible",
+      "ipa": "/əz suːn əz ˈpɒs.ə.bəl/",
+      "vi": "càng sớm càng tốt",
+      "when": "Khi muốn nhấn rằng việc cần được xử lý gấp.",
+      "example": "I'd appreciate it if you could block the card as soon as possible."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề, chuyển nhẹ chủ đề.",
+      "example": "By the way, will there be a fee for the new card?"
+    },
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔː.tʃən.ət.li/",
+      "vi": "may mắn thay",
+      "when": "Dẫn vào một thông tin tốt giữa tình huống xấu.",
+      "example": "Fortunately, I noticed it was missing within an hour."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa phát hiện thẻ ngân hàng của mình bị mất và gọi điện đến tổng đài chăm sóc khách hàng của ngân hàng để báo mất, khóa thẻ và xin làm lại thẻ mới.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon, thank you for calling City Bank. My name is Laura. How can I help you today?",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn θæŋk juː fɔːr ˈkɔː.lɪŋ ˈsɪt.i bæŋk maɪ neɪm ɪz ˈlɔː.rə haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi chiều, cảm ơn quý khách đã gọi đến City Bank. Tôi là Laura. Hôm nay tôi có thể giúp gì cho quý khách ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. I'd like to report a lost card, please. I'm calling ____ I noticed this morning that my debit card was missing, and honestly I'm a little worried.",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn aɪd laɪk tə rɪˈpɔːrt ə lɒst kɑːrd pliːz aɪm ˈkɔː.lɪŋ ... aɪ ˈnəʊ.tɪst ðɪs ˈmɔːr.nɪŋ ðæt maɪ ˈdeb.ɪt kɑːrd wɒz ˈmɪs.ɪŋ ænd ˈɒn.ɪst.li aɪm ə ˈlɪt.əl ˈwʌr.id/",
+        "vi": "Chào buổi chiều. Tôi muốn trình báo về một chiếc thẻ bị mất. Tôi gọi ____ sáng nay tôi phát hiện thẻ ghi nợ của mình biến mất, và thú thật là tôi hơi lo.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nối lý do bạn gọi. Đây là liên từ trọng tâm ở cấp B1. Xem mẫu câu 'I'm calling because...'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I'm sorry to hear that. Don't worry, I'll help you straight away. First, in order to protect your account, I need to verify your identity. Could you give me your full name and date of birth?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt dəʊnt ˈwʌr.i aɪl help juː streɪt əˈweɪ fɜːst ɪn ˈɔː.dər tə prəˈtekt jɔːr əˈkaʊnt aɪ niːd tə ˈver.ɪ.faɪ jɔːr aɪˈden.tɪ.ti kʊd juː ɡɪv miː jɔːr fʊl neɪm ænd deɪt ɒv bɜːθ/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Đừng lo, tôi sẽ giúp quý khách ngay. Trước hết, để bảo vệ tài khoản của quý khách, tôi cần xác minh danh tính. Quý khách cho tôi xin họ tên đầy đủ và ngày sinh được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. My name is ____ and my date of birth is ____. Could you please ____ my card immediately? I'm afraid someone might try to use it.",
+        "ipa": "/ɒv kɔːrs maɪ neɪm ɪz ... ænd maɪ deɪt ɒv bɜːθ ɪz ... kʊd juː pliːz ... maɪ kɑːrd ɪˈmiː.di.ət.li aɪm əˈfreɪd ˈsʌm.wʌn maɪt traɪ tə juːz ɪt/",
+        "vi": "Tất nhiên rồi. Tên tôi là ____ và ngày sinh của tôi là ____. Anh/chị có thể ____ thẻ của tôi ngay được không? Tôi sợ có người sẽ tìm cách dùng nó.",
+        "blanks": [
+          { "type": "personal", "hint": "Họ tên đầy đủ của bạn. Ví dụ: 'Tran Van Nam'." },
+          { "type": "personal", "hint": "Ngày sinh của bạn. Ví dụ: 'the fifth of March, 1995'." },
+          { "type": "knowledge", "answer": "block", "explanationVi": "Dùng động từ 'block' (khóa thẻ) sau 'Could you please...'. Đây là việc đầu tiên cần yêu cầu khi mất thẻ. Đồng nghĩa: freeze, cancel, deactivate." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "I've just blocked it, so no one can use it now. Although the card is now safe, I'd recommend checking your recent activity. Are there any transactions that look unfamiliar to you?",
+        "ipa": "/aɪv dʒʌst blɒkt ɪt səʊ nəʊ wʌn kæn juːz ɪt naʊ ɔːlˈðəʊ ðə kɑːrd ɪz naʊ seɪf aɪd ˌrek.əˈmend ˈtʃek.ɪŋ jɔːr ˈriː.sənt ækˈtɪv.ɪ.ti ɑːr ðeər ˈen.i trænˈzæk.ʃənz ðæt lʊk ʌnfəˈmɪl.i.ər tə juː/",
+        "vi": "Tôi vừa khóa thẻ xong, nên giờ không ai dùng được nữa. Mặc dù thẻ đã an toàn, tôi khuyên quý khách nên kiểm tra hoạt động gần đây. Có giao dịch nào trông lạ với quý khách không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Let me see... Actually, yes. There are two ____ that I don't recognize, such as a payment of fifty dollars to an online shop. I definitely didn't make those.",
+        "ipa": "/let miː siː ˈæk.tʃu.ə.li jes ðeər ɑːr tuː ... ðæt aɪ dəʊnt ˈrek.əɡ.naɪz sʌtʃ æz ə ˈpeɪ.mənt ɒv ˈfɪf.ti ˈdɒl.ərz tə ən ˈɒn.laɪn ʃɒp aɪ ˈdef.ɪn.ət.li ˈdɪd.ənt meɪk ðəʊz/",
+        "vi": "Để tôi xem... Đúng thật, có. Có hai ____ mà tôi không nhận ra, chẳng hạn một khoản thanh toán năm mươi đô cho một cửa hàng trực tuyến. Chắc chắn tôi không thực hiện những giao dịch đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "transactions", "explanationVi": "Dùng danh từ số nhiều 'transactions' (vì có 'two'). Mỗi lần chi tiêu là một transaction. Xem mẫu câu 'There are... that I don't recognize'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Thank you for letting me know. I'll flag both of them as suspicious and start a fraud investigation, which usually takes a few days. You won't be charged for any transaction that turns out to be fraudulent.",
+        "ipa": "/θæŋk juː fɔːr ˈlet.ɪŋ miː nəʊ aɪl flæɡ bəʊθ ɒv ðəm æz səˈspɪʃ.əs ænd stɑːrt ə frɔːd ɪnˌves.tɪˈɡeɪ.ʃən wɪtʃ ˈjuː.ʒu.ə.li teɪks ə fjuː deɪz juː wəʊnt biː tʃɑːrdʒd fɔːr ˈen.i trænˈzæk.ʃən ðæt tɜːnz aʊt tə biː ˈfrɔː.dʒə.lənt/",
+        "vi": "Cảm ơn quý khách đã báo. Tôi sẽ đánh dấu cả hai khoản đó là đáng ngờ và mở một cuộc điều tra gian lận, việc này thường mất vài ngày. Quý khách sẽ không bị tính tiền cho bất kỳ giao dịch nào hóa ra là gian lận."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a relief, thank you. By the way, would it be possible to ____ the card as soon as possible? I need it for work, although I understand it may take some time to arrive.",
+        "ipa": "/ðæts ə rɪˈliːf θæŋk juː baɪ ðə weɪ wʊd ɪt biː ˈpɒs.ə.bəl tə ... ðə kɑːrd əz suːn əz ˈpɒs.ə.bəl aɪ niːd ɪt fɔːr wɜːk ɔːlˈðəʊ aɪ ˌʌn.dərˈstænd ɪt meɪ teɪk sʌm taɪm tə əˈraɪv/",
+        "vi": "Vậy thì nhẹ cả người, cảm ơn anh/chị. Tiện thể, có thể ____ thẻ càng sớm càng tốt không ạ? Tôi cần nó cho công việc, mặc dù tôi hiểu là có thể mất chút thời gian để thẻ tới nơi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "replace", "explanationVi": "Dùng động từ 'replace' (làm lại thẻ) sau 'would it be possible to'. Danh từ tương ứng là 'a replacement card'. Đây là việc xin sau khi đã khóa thẻ cũ." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Absolutely. Your new card will arrive within five to seven working days, and there's no fee since this is a security issue. Is there anything else I can help you with today?",
+        "ipa": "/ˈæb.sə.luːt.li jɔːr njuː kɑːrd wɪl əˈraɪv wɪˈðɪn faɪv tə ˈsev.ən ˈwɜːk.ɪŋ deɪz ænd ðeəz nəʊ fiː sɪns ðɪs ɪz ə sɪˈkjʊə.rɪ.ti ˈɪʃ.uː ɪz ðeər ˈen.i.θɪŋ els aɪ kæn help juː wɪð təˈdeɪ/",
+        "vi": "Chắc chắn rồi. Thẻ mới của quý khách sẽ tới trong vòng năm đến bảy ngày làm việc, và không mất phí vì đây là vấn đề an ninh. Quý khách còn cần tôi giúp gì khác hôm nay không ạ?"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi mất thẻ, hãy gọi ngân hàng để khóa thẻ ngay lập tức — nhiều ngân hàng có đường dây nóng 24/7 in ngay sau thẻ hoặc trong app.",
+    "Nhân viên ngân hàng sẽ luôn 'verify your identity' (xác minh danh tính) trước, nên hãy sẵn sàng họ tên, ngày sinh, đôi khi vài chữ số cuối tài khoản.",
+    "Ngân hàng thật KHÔNG BAO GIỜ hỏi đầy đủ mã PIN hay mật khẩu qua điện thoại. Nếu ai hỏi, rất có thể đó là lừa đảo (scam).",
+    "Ở nhiều nước, nếu bạn báo mất kịp thời thì các giao dịch gian lận thường được hoàn lại — nên tốc độ trình báo rất quan trọng."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'lose' (mất) với 'loose' (lỏng/rộng). Mất thẻ là 'I lost my card', không phải 'I loose my card'.",
+    "Quên mạo từ 'a': phải nói 'report A lost card', không phải 'report lost card'.",
+    "Dùng động từ bất quy tắc sai: lose - lost - lost. Nói 'I losed my card' là sai.",
+    "Yêu cầu cộc lốc kiểu 'Block my card!'. Hãy bọc bằng 'Could you...?' hoặc 'Would it be possible to...?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống báo mất thẻ như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài ngân hàng nói tiếng Anh. Tôi là khách hàng vừa phát hiện mình bị mất thẻ và gọi đến để báo. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần giúp gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (xác minh danh tính, khóa thẻ, hỏi về giao dịch lạ, hẹn ngày giao thẻ mới), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ phát hiện một giao dịch đáng ngờ, hỏi thêm câu xác minh, hoặc báo có phí làm lại thẻ) để tôi tập xử lý. Khuyến khích tôi nói câu dài có 'because', 'such as', 'although'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như nhân viên tổng đài thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý cách cải thiện.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự mở đầu cuộc gọi và nêu được lý do (mất thẻ) mà không nhìn gợi ý.",
+    "Tôi yêu cầu được khóa thẻ và làm lại thẻ bằng câu lịch sự ('Could you...?', 'Would it be possible to...?').",
+    "Tôi báo được về một giao dịch đáng ngờ bằng mẫu 'There are... that I don't recognize'."
+  ]
+}

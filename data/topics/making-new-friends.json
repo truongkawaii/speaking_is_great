@@ -1,0 +1,352 @@
+{
+  "id": "making-new-friends",
+  "category": "friends",
+  "title": "Làm quen bạn mới",
+  "titleEn": "Making New Friends",
+  "level": "B1",
+  "functions": ["greetings", "small-talk", "suggesting"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Chủ động bắt chuyện và tự giới thiệu trong một tình huống xã giao mới",
+    "Hỏi và trả lời các câu small-talk tự nhiên (sở thích, công việc, quê quán)",
+    "Tìm điểm chung và giữ cuộc trò chuyện trôi chảy thay vì để rơi vào im lặng",
+    "Đề nghị giữ liên lạc và rủ gặp lại một cách lịch sự",
+    "Dùng được liên từ B1 như such as, because, although, so khi nói về bản thân"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to introduce",
+      "ipa": "/ˌɪn.trəˈdjuːs/",
+      "vi": "giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "Let me introduce myself — I'm Nam, and I just moved here.",
+      "exampleVi": "Để tôi tự giới thiệu — tôi là Nam, tôi vừa chuyển đến đây.",
+      "note": "Động từ. Cấu trúc: 'introduce somebody to somebody' hoặc 'introduce myself'. Danh từ là 'introduction'.",
+      "synonyms": [
+        { "term": "to present", "ipa": "/prɪˈzent/", "register": "formal", "nuanceVi": "Trang trọng hơn nhiều, thường dùng trong lễ nghi hoặc giới thiệu người quan trọng. Không hợp cho làm quen bình thường." },
+        { "term": "to acquaint", "ipa": "/əˈkweɪnt/", "register": "formal", "nuanceVi": "Văn vẻ, nghĩa 'làm cho quen biết' (acquaint someone with...). Hiếm dùng khi nói, nhưng nên biết để đọc hiểu." }
+      ]
+    },
+    {
+      "term": "acquaintance",
+      "ipa": "/əˈkweɪn.təns/",
+      "vi": "người quen (chưa thân) (danh từ)",
+      "register": "neutral",
+      "example": "He's just an acquaintance, not a close friend yet.",
+      "exampleVi": "Anh ấy mới chỉ là người quen, chưa phải bạn thân.",
+      "note": "Danh từ. Mức độ thân thiết thấp hơn 'friend'. Phát âm bẫy: không đọc chữ 'c' thứ hai, /əˈkweɪn.təns/.",
+      "synonyms": [
+        { "term": "contact", "ipa": "/ˈkɒn.tækt/", "register": "neutral", "nuanceVi": "Nhấn vào người bạn 'có thể liên hệ', thiên về quan hệ công việc/mạng lưới. Ít cảm xúc cá nhân hơn 'acquaintance'." }
+      ]
+    },
+    {
+      "term": "outgoing",
+      "ipa": "/ˌaʊtˈɡəʊ.ɪŋ/",
+      "vi": "hướng ngoại, dễ gần (tính từ)",
+      "register": "neutral",
+      "example": "She's really outgoing, so she makes friends wherever she goes.",
+      "exampleVi": "Cô ấy rất hướng ngoại, nên đi đâu cũng kết bạn được.",
+      "note": "Tính từ tả tính cách. Mang nghĩa TÍCH CỰC: thích giao tiếp, chủ động với người lạ.",
+      "synonyms": [
+        { "term": "sociable", "ipa": "/ˈsəʊ.ʃə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'thích ở cùng và trò chuyện với mọi người'. Gần nghĩa, nhưng 'outgoing' thiên về chủ động bắt chuyện hơn." },
+        { "term": "friendly", "ipa": "/ˈfrend.li/", "register": "neutral", "nuanceVi": "Nhấn 'thân thiện, dễ chịu' với người khác — không nhất thiết là chủ động hay nói nhiều như 'outgoing'." },
+        { "term": "approachable", "ipa": "/əˈprəʊ.tʃə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'dễ tiếp cận, người khác thấy thoải mái đến bắt chuyện'. Là cảm nhận của người ngoài, không phải tính cách chủ động." }
+      ]
+    },
+    {
+      "term": "to get along (with)",
+      "ipa": "/ɡet əˈlɒŋ/",
+      "vi": "hợp nhau, hòa hợp (cụm động từ)",
+      "register": "neutral",
+      "example": "We got along really well from the very first conversation.",
+      "exampleVi": "Chúng tôi hợp nhau ngay từ cuộc trò chuyện đầu tiên.",
+      "note": "Cụm động từ, đi với 'with somebody'. Nghĩa: quan hệ tốt đẹp, không xung đột.",
+      "synonyms": [
+        { "term": "to hit it off", "ipa": "/hɪt ɪt ɒf/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nhấn 'hợp nhau NGAY từ đầu'. Mạnh và tự nhiên hơn 'get along' khi kể về lần gặp đầu tiên." },
+        { "term": "to bond", "ipa": "/bɒnd/", "register": "neutral", "nuanceVi": "Nhấn 'gắn kết tình cảm' qua một trải nghiệm chung. Sâu hơn 'get along' (vốn chỉ là không có mâu thuẫn)." }
+      ]
+    },
+    {
+      "term": "in common",
+      "ipa": "/ɪn ˈkɒm.ən/",
+      "vi": "điểm chung (cụm danh từ)",
+      "register": "neutral",
+      "example": "It turned out we had a lot in common, such as a love of hiking.",
+      "exampleVi": "Hóa ra chúng tôi có nhiều điểm chung, chẳng hạn như cùng thích leo núi.",
+      "note": "Luôn đi với 'have ... in common'. Tìm điểm chung là chìa khóa để giữ cuộc trò chuyện."
+    },
+    {
+      "term": "hobby",
+      "ipa": "/ˈhɒb.i/",
+      "vi": "sở thích (danh từ)",
+      "register": "neutral",
+      "example": "My main hobby is photography, although I also enjoy cooking.",
+      "exampleVi": "Sở thích chính của tôi là chụp ảnh, mặc dù tôi cũng thích nấu ăn.",
+      "note": "Danh từ đếm được; số nhiều 'hobbies'. Chủ đề small-talk an toàn và phổ biến nhất.",
+      "synonyms": [
+        { "term": "pastime", "ipa": "/ˈpɑːs.taɪm/", "register": "neutral", "nuanceVi": "Nhấn 'hoạt động giải trí cho qua thời gian rảnh', nhẹ hơn 'hobby' (vốn hàm ý đam mê, theo đuổi đều đặn)." },
+        { "term": "interest", "ipa": "/ˈɪn.trəst/", "register": "neutral", "nuanceVi": "Rộng hơn: là điều bạn 'quan tâm/yêu thích', không nhất thiết là việc bạn tự tay làm. Vd 'an interest in history'." }
+      ]
+    },
+    {
+      "term": "to come up (with a topic)",
+      "ipa": "/kʌm ʌp/",
+      "vi": "(chủ đề) nảy ra / được nhắc đến (cụm động từ)",
+      "register": "neutral",
+      "example": "The topic of travel came up, and we chatted for hours.",
+      "exampleVi": "Chủ đề du lịch được nhắc đến, và chúng tôi đã trò chuyện hàng giờ.",
+      "note": "Cụm động từ. 'come up' = (chuyện) tình cờ xuất hiện. Khác 'come up WITH' = nghĩ ra ý tưởng."
+    },
+    {
+      "term": "to keep in touch",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "vi": "giữ liên lạc (cụm động từ)",
+      "register": "neutral",
+      "example": "It was lovely meeting you — let's keep in touch!",
+      "exampleVi": "Rất vui được gặp bạn — mình giữ liên lạc nhé!",
+      "note": "Cụm cố định. Câu chia tay kinh điển khi muốn duy trì mối quan hệ mới.",
+      "synonyms": [
+        { "term": "to stay in touch", "ipa": "/steɪ ɪn tʌtʃ/", "register": "neutral", "nuanceVi": "Gần như y hệt 'keep in touch'. 'stay' nhấn nhẹ vào việc 'duy trì trạng thái đã có'. Dùng cái nào cũng tự nhiên." }
+      ]
+    },
+    {
+      "term": "awkward",
+      "ipa": "/ˈɔː.kwəd/",
+      "vi": "ngượng ngùng, lúng túng (tính từ)",
+      "register": "neutral",
+      "example": "There was an awkward silence, so I quickly asked her a question.",
+      "exampleVi": "Có một khoảng lặng ngượng ngùng, nên tôi nhanh chóng hỏi cô ấy một câu.",
+      "note": "Tính từ. Phát âm bẫy: /ˈɔː.kwəd/, không đọc chữ 'w' thành âm rõ. 'awkward silence' = khoảng lặng khó xử.",
+      "synonyms": [
+        { "term": "uncomfortable", "ipa": "/ʌnˈkʌmf.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'cảm giác không thoải mái' nói chung, rộng hơn. 'awkward' thiên về vụng về, khó xử trong giao tiếp." },
+        { "term": "embarrassing", "ipa": "/ɪmˈbær.ə.sɪŋ/", "register": "neutral", "nuanceVi": "Nặng hơn: 'gây xấu hổ, mất mặt'. 'awkward' chỉ là lúng túng nhẹ, chưa đến mức xấu hổ." }
+      ]
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành, thật lòng (trạng từ)",
+      "register": "neutral",
+      "example": "I was genuinely happy to meet someone with the same interests.",
+      "exampleVi": "Tôi thật lòng vui khi gặp một người có cùng sở thích.",
+      "note": "Trạng từ. Làm lời nói nghe chân thật, không khách sáo. Đi trước tính từ/động từ chỉ cảm xúc.",
+      "synonyms": [
+        { "term": "sincerely", "ipa": "/sɪnˈsɪə.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'thật lòng, không giả tạo'. Hay gặp ở cuối thư ('Sincerely yours')." },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Nhấn mức độ 'thực sự, đúng là vậy'. Gần nghĩa nhưng thiên về cường độ hơn là sự chân thành." }
+      ]
+    },
+    {
+      "term": "to break the ice",
+      "ipa": "/breɪk ðə aɪs/",
+      "vi": "phá tan sự ngại ngùng ban đầu (thành ngữ)",
+      "register": "casual",
+      "example": "Asking about the weather is a simple way to break the ice.",
+      "exampleVi": "Hỏi về thời tiết là cách đơn giản để phá tan sự ngại ngùng ban đầu.",
+      "note": "Thành ngữ rất thông dụng. 'an ice-breaker' (danh từ) = câu/trò giúp mọi người bớt ngại."
+    },
+    {
+      "term": "casually",
+      "ipa": "/ˈkæʒ.u.ə.li/",
+      "vi": "một cách thoải mái, tự nhiên (trạng từ)",
+      "register": "neutral",
+      "example": "I casually asked where she was from to start a conversation.",
+      "exampleVi": "Tôi hỏi vu vơ một cách tự nhiên xem cô ấy từ đâu đến để bắt chuyện.",
+      "note": "Trạng từ. Nhấn 'không trang trọng, không gượng ép' — đúng tinh thần khi làm quen.",
+      "synonyms": [
+        { "term": "naturally", "ipa": "/ˈnætʃ.ər.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'một cách tự nhiên, không gò bó'. Gần nghĩa, nhưng 'casually' thêm sắc thái 'thoải mái, xuề xòa'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi, I don't think we've met — I'm [tên].",
+      "use": "Chủ động tự giới thiệu với người chưa quen.",
+      "register": "casual",
+      "examples": [
+        "Hi, I don't think we've met — I'm Linh.",
+        "Hi, I don't think we've met before — I'm Nam, by the way."
+      ],
+      "explanationVi": "'I don't think we've met' (dùng hiện tại hoàn thành) là cách mở lời lịch sự, tự nhiên để bắt chuyện. Mềm hơn nhiều so với hỏi thẳng 'Who are you?'.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "Let me introduce myself. I'm [tên], and I [thông tin nền].",
+      "use": "Tự giới thiệu kèm một thông tin về mình để mở chuyện.",
+      "register": "neutral",
+      "examples": [
+        "Let me introduce myself. I'm Mai, and I work in the marketing team.",
+        "Let me introduce myself. I'm Khoa, and I just moved to this neighbourhood."
+      ],
+      "explanationVi": "'Let me introduce myself' hơi chỉn chu hơn, hợp cảnh có chút trang trọng (sự kiện, nơi làm việc mới). Thêm một thông tin nền giúp đối phương có cái để hỏi tiếp.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "So, what brings you [to nơi/sự kiện]?",
+      "use": "Hỏi lý do người kia có mặt ở đây để bắt chuyện.",
+      "register": "casual",
+      "examples": [
+        "So, what brings you to this workshop?",
+        "So, what brings you here tonight?"
+      ],
+      "explanationVi": "'What brings you here?' là câu small-talk kinh điển để phá băng. 'So' ở đầu làm câu nghe thân mật, tự nhiên như đang tiếp nối câu chuyện."
+    },
+    {
+      "pattern": "What do you like to do in your free time, such as [ví dụ]?",
+      "use": "Hỏi về sở thích, gợi ví dụ để người kia dễ trả lời.",
+      "register": "neutral",
+      "examples": [
+        "What do you like to do in your free time, such as sports or reading?",
+        "What do you usually do at the weekend, such as travelling or cooking?"
+      ],
+      "explanationVi": "'such as' nêu ví dụ minh họa, giúp câu hỏi cụ thể và dễ trả lời hơn. Đây là liên từ B1 rất 'ăn điểm' khi nói về sở thích.",
+      "altOf": "asking-interests"
+    },
+    {
+      "pattern": "It sounds like we have a lot in common, because [lý do].",
+      "use": "Nhận ra điểm chung và nói ra để gắn kết.",
+      "register": "neutral",
+      "examples": [
+        "It sounds like we have a lot in common, because I love hiking too.",
+        "It sounds like we have a lot in common, because we both enjoy live music."
+      ],
+      "explanationVi": "'have a lot in common' + 'because' giúp bạn vừa thể hiện sự đồng điệu vừa giải thích lý do. Tìm điểm chung là cách hiệu quả nhất để biến người quen thành bạn."
+    },
+    {
+      "pattern": "It was really nice talking to you. Shall we [đề nghị]?",
+      "use": "Kết thúc trò chuyện và đề nghị giữ liên lạc / gặp lại.",
+      "register": "neutral",
+      "examples": [
+        "It was really nice talking to you. Shall we swap numbers?",
+        "It was really nice meeting you. Shall we grab a coffee sometime?"
+      ],
+      "explanationVi": "'It was nice talking to you' là câu chốt lịch sự. 'Shall we...?' là cách rủ rê nhẹ nhàng, mời cả hai cùng làm — nghe thân thiện hơn 'Do you want to...?'.",
+      "altOf": "suggesting-meetup"
+    },
+    {
+      "pattern": "We should definitely [hoạt động] sometime. Let's keep in touch!",
+      "use": "Đề xuất gặp lại trong tương lai và xin giữ liên lạc.",
+      "register": "casual",
+      "examples": [
+        "We should definitely hang out sometime. Let's keep in touch!",
+        "We should definitely catch up again sometime. Let's keep in touch!"
+      ],
+      "explanationVi": "'We should definitely...' thể hiện mong muốn rõ ràng nhưng không gây áp lực. 'Let's keep in touch' là lời chốt thân thiện để mở đường cho lần gặp sau.",
+      "altOf": "suggesting-meetup"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn bổ sung hoặc đính chính nhẹ một thông tin về mình.", "example": "Actually, I'm not from here — I moved last month." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ chân thành, tạo cảm giác gần gũi.", "example": "Honestly, I was a bit nervous about coming here alone." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc chuyển nhẹ sang một chủ đề mới.", "example": "By the way, what's your name? I forgot to ask!" },
+    { "term": "so", "ipa": "/səʊ/", "vi": "vậy thì... (mở lời / nối câu)", "when": "Đặt ở đầu câu hỏi để mở chuyện một cách tự nhiên, đỡ đột ngột.", "example": "So, how do you know the host?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Hưởng ứng nhiệt tình một lời rủ rê hoặc đề nghị.", "example": "Yes, definitely! I'd love to join you next time." },
+    { "term": "probably", "ipa": "/ˈprɒb.ə.bli/", "vi": "có lẽ", "when": "Trả lời mềm mại khi chưa chắc chắn hẳn về kế hoạch.", "example": "I'll probably come to the next meetup as well." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang dự một buổi workshop (lớp học ngắn) vào cuối tuần. Trong giờ giải lao, bạn đứng cạnh một người lạ tên Emma và quyết định chủ động bắt chuyện để làm quen.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Hi, I don't think we've met — I'm ____. The talk was really interesting, although it was a bit long, wasn't it?",
+        "ipa": "/haɪ aɪ dəʊnt θɪŋk wiːv met aɪm ... ðə tɔːk wəz ˈrɪə.li ˈɪn.trəs.tɪŋ ɔːlˈðəʊ ɪt wəz ə bɪt lɒŋ ˈwɒz.ənt ɪt/",
+        "vi": "Chào bạn, hình như chúng ta chưa gặp nhau — tôi là ____. Buổi nói chuyện rất thú vị, mặc dù hơi dài một chút, đúng không?",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Nam' hoặc 'Linh'." }
+        ]
+      },
+      {
+        "speaker": "Emma",
+        "text": "Hi! Nice to meet you — I'm Emma. Yes, I agree, it was fascinating, ____ the speaker spoke a little too quickly for me. So, what brings you to this workshop?",
+        "ipa": "/haɪ naɪs tə miːt juː aɪm ˈem.ə jes aɪ əˈɡriː ɪt wəz ˈfæs.ɪ.neɪ.tɪŋ ... ðə ˈspiː.kər spəʊk ə ˈlɪt.əl tuː ˈkwɪk.li fɔːr miː səʊ wɒt brɪŋz juː tə ðɪs ˈwɜːk.ʃɒp/",
+        "vi": "Chào bạn! Rất vui được gặp — tôi là Emma. Vâng, tôi đồng ý, nó rất hấp dẫn, ____ diễn giả nói hơi nhanh đối với tôi. Vậy, điều gì đưa bạn đến workshop này?",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: tuy hấp dẫn nhưng diễn giả nói hơi nhanh. Có thể thay bằng 'even though'. Xem mẫu câu có 'although' ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I came here ____ improve my public-speaking skills, because I get quite nervous in front of people. What about you?",
+        "ipa": "/ˈɒn.ɪst.li aɪ keɪm hɪər ... ɪmˈpruːv maɪ ˈpʌb.lɪk ˈspiː.kɪŋ skɪlz bɪˈkɒz aɪ ɡet kwaɪt ˈnɜː.vəs ɪn frʌnt əv ˈpiː.pəl wɒt əˈbaʊt juː/",
+        "vi": "Thành thật mà nói, tôi đến đây ____ cải thiện kỹ năng nói trước đám đông, vì tôi khá lo lắng khi đứng trước mọi người. Còn bạn thì sao?",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order to", "explanationVi": "Dùng 'in order to + động từ' để diễn đạt mục đích ('để mà...'). Trang trọng và rõ ràng hơn chỉ dùng 'to'. Đây là cấu trúc chỉ mục đích kiểu TOEIC." }
+        ]
+      },
+      {
+        "speaker": "Emma",
+        "text": "That's a great reason! I work in design, so I came here to find new ideas. By the way, what do you like to do in your free time, ____ as sports or reading?",
+        "ipa": "/ðæts ə ɡreɪt ˈriː.zən aɪ wɜːk ɪn dɪˈzaɪn səʊ aɪ keɪm hɪər tə faɪnd njuː aɪˈdɪəz baɪ ðə weɪ wɒt duː juː laɪk tə duː ɪn jɔːr friː taɪm ... əz spɔːts ɔːr ˈriː.dɪŋ/",
+        "vi": "Đó là một lý do tuyệt vời! Tôi làm trong ngành thiết kế, nên tôi đến đây để tìm ý tưởng mới. Tiện thể, lúc rảnh bạn thích làm gì, ____ như thể thao hay đọc sách?",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "Cụm 'such as' dùng để nêu ví dụ minh họa (sports, reading) cho 'free time'. Đây là liên từ B1 rất thông dụng — xem mẫu câu hỏi sở thích ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I love hiking, and I also enjoy photography, ____ I take pictures of nature on every trip. It sounds like we might have a lot in common!",
+        "ipa": "/aɪ lʌv ˈhaɪ.kɪŋ ænd aɪ ˈɔːl.səʊ ɪnˈdʒɔɪ fəˈtɒɡ.rə.fi ... aɪ teɪk ˈpɪk.tʃəz əv ˈneɪ.tʃər ɒn ˈev.ri trɪp ɪt saʊndz laɪk wiː maɪt hæv ə lɒt ɪn ˈkɒm.ən/",
+        "vi": "Tôi thích leo núi, và tôi cũng thích chụp ảnh ____ tôi chụp ảnh thiên nhiên trong mỗi chuyến đi. Nghe có vẻ chúng ta có nhiều điểm chung đấy!",
+        "blanks": [
+          { "type": "knowledge", "answer": "which is why", "explanationVi": "'which is why' (= đó là lý do vì sao) nối mệnh đề quan hệ giải thích kết quả: thích chụp ảnh nên chụp thiên nhiên mỗi chuyến đi. 'which' thay cho cả ý đứng trước." }
+        ]
+      },
+      {
+        "speaker": "Emma",
+        "text": "We really do! I'm ____ into hiking too — there's a beautiful trail near my house which I visit almost every weekend. We should go together sometime.",
+        "ipa": "/wiː ˈrɪə.li duː aɪm ... ˈɪn.tə ˈhaɪ.kɪŋ tuː ðeəz ə ˈbjuː.tɪ.fəl treɪl nɪər maɪ haʊs wɪtʃ aɪ ˈvɪz.ɪt ˈɔːl.məʊst ˈev.ri ˌwiːkˈend wiː ʃʊd ɡəʊ təˈɡeð.ər ˈsʌm.taɪm/",
+        "vi": "Đúng thật đấy! Tôi cũng ____ thích leo núi — có một con đường mòn rất đẹp gần nhà tôi mà tôi đi gần như mỗi cuối tuần. Hôm nào đó chúng ta nên đi cùng nhau.",
+        "blanks": [
+          { "type": "personal", "hint": "Một trạng từ chỉ mức độ để nhấn mạnh, ví dụ: 'really', 'totally', 'genuinely'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd genuinely love that! It was really nice talking to you, Emma. ____ we swap numbers so we can plan a hike?",
+        "ipa": "/aɪd ˈdʒen.ju.ɪn.li lʌv ðæt ɪt wəz ˈrɪə.li naɪs ˈtɔː.kɪŋ tə juː ˈem.ə ... wiː swɒp ˈnʌm.bəz səʊ wiː kæn plæn ə haɪk/",
+        "vi": "Tôi thật lòng rất thích như vậy! Rất vui được trò chuyện với bạn, Emma. ____ chúng ta trao đổi số điện thoại để có thể lên kế hoạch đi leo núi nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Shall", "explanationVi": "'Shall we...?' là cách rủ rê lịch sự, mời cả hai cùng làm. Nghe thân thiện và nhã nhặn hơn 'Do you want to...?'. Xem mẫu câu đề nghị gặp lại ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Emma",
+        "text": "Absolutely! Here's my number. Not only have I made a new friend today, but I've also found a hiking buddy. Let's definitely keep in touch!",
+        "ipa": "/ˈæb.sə.luːt.li hɪəz maɪ ˈnʌm.bər nɒt ˈəʊn.li hæv aɪ meɪd ə njuː frend təˈdeɪ bʌt aɪv ˈɔːl.səʊ faʊnd ə ˈhaɪ.kɪŋ ˈbʌd.i lets ˈdef.ɪn.ət.li kiːp ɪn tʌtʃ/",
+        "vi": "Chắc chắn rồi! Đây là số của tôi. Hôm nay tôi không chỉ kết được một người bạn mới, mà còn tìm được một người bạn đồng hành leo núi. Mình nhất định giữ liên lạc nhé!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, small-talk (chuyện phiếm về thời tiết, cuối tuần, sở thích) là bước khởi động bình thường và được mong đợi trước khi nói chuyện sâu hơn — đừng coi đó là vô nghĩa.",
+    "Hỏi tuổi, mức lương, tình trạng hôn nhân hoặc cân nặng ngay khi mới quen bị xem là thiếu tế nhị. Chủ đề an toàn là sở thích, du lịch, phim ảnh, công việc (chung chung).",
+    "Khi chia tay, câu 'We should grab a coffee sometime' đôi khi chỉ là phép lịch sự xã giao, không phải lời hẹn chắc chắn. Nếu thực sự muốn gặp lại, hãy chủ động đề nghị trao đổi số hoặc kết bạn mạng xã hội.",
+    "Giao tiếp bằng mắt vừa phải và một nụ cười chân thành giúp bạn trông 'approachable' (dễ gần) — quan trọng không kém lời nói khi làm quen."
+  ],
+
+  "commonMistakes": [
+    "Hỏi quá thẳng và riêng tư ngay lần đầu ('How old are you?', 'How much do you earn?'). Hãy bắt đầu bằng chủ đề trung lập như sở thích hoặc lý do bạn có mặt ở đó.",
+    "Nhầm 'friend' với 'acquaintance': người mới quen sơ là 'an acquaintance', chưa phải 'a friend'. Gọi vội 'my friend' có thể nghe hơi quá.",
+    "Dịch sát 'làm quen' thành 'make acquaintance' nghe rất cứng. Người bản xứ nói 'get to know someone' hoặc 'meet someone'.",
+    "Trả lời cụt lủn ('Yes', 'No', 'I don't know') khiến cuộc trò chuyện chết. Hãy thêm một câu mở rộng và hỏi ngược lại 'What about you?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống làm quen bạn mới như thật.",
+    "prompt": "Hãy đóng vai một người lạ thân thiện mà tôi vừa gặp tại một sự kiện (workshop, tiệc, hoặc lớp học) và nói chuyện với tôi bằng tiếng Anh. Tôi sẽ chủ động bắt chuyện trước. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn mới đang trò chuyện, đặt câu hỏi ngược để giữ cuộc trò chuyện trôi chảy, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'because', 'although', và tìm điểm chung. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ phát hiện chúng ta có cùng sở thích, hoặc có một khoảng lặng ngượng ngùng) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng cách để tôi mở lời nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một người hơi kiệm lời để tôi tập chủ động dẫn dắt và giữ cuộc trò chuyện.'",
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng vài thành ngữ đời thường (hit it off, break the ice) để tôi quen với cách nói tự nhiên.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự tin mở lời và giới thiệu bản thân với người lạ mà không nhìn gợi ý.",
+    "Tôi hỏi và trả lời được ít nhất 2 câu small-talk, có dùng 'such as' hoặc 'because' để mở rộng.",
+    "Tôi đề nghị được việc giữ liên lạc hoặc gặp lại bằng 'Shall we...?' hoặc 'Let's keep in touch'."
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "id": "childhood-memories",
+  "category": "family",
+  "title": "Kỷ niệm tuổi thơ",
+  "titleEn": "Childhood Memories",
+  "level": "B1",
+  "functions": ["describing", "small-talk", "opinions"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Kể lại một kỷ niệm tuổi thơ bằng thì quá khứ một cách mạch lạc",
+    "Mô tả nơi bạn lớn lên, người thân và những thói quen hồi nhỏ",
+    "Dùng 'used to' và 'would' để nói về thói quen trong quá khứ",
+    "Bày tỏ cảm xúc hoài niệm (nhớ, tiếc nuối, biết ơn) khi trò chuyện"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "memory",
+      "ipa": "/ˈmem.ər.i/",
+      "vi": "ký ức, kỷ niệm (danh từ)",
+      "register": "neutral",
+      "example": "I have many happy memories of my grandparents' house.",
+      "exampleVi": "Tôi có nhiều kỷ niệm vui ở nhà ông bà.",
+      "note": "Danh từ. Đếm được khi chỉ một kỷ niệm cụ thể (a memory); không đếm được khi chỉ trí nhớ nói chung (a good memory = trí nhớ tốt).",
+      "synonyms": [
+        { "term": "recollection", "ipa": "/ˌrek.əˈlek.ʃən/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn vào 'điều nhớ lại được' khi cố hồi tưởng. Nghe văn vẻ, ít dùng trong nói thường ngày." },
+        { "term": "flashback", "ipa": "/ˈflæʃ.bæk/", "register": "casual", "nuanceVi": "Nghĩa 'ký ức ùa về bất chợt, sống động'. Đời thường, dùng khi một hình ảnh quá khứ hiện lên đột ngột." }
+      ]
+    },
+    {
+      "term": "childhood",
+      "ipa": "/ˈtʃaɪld.hʊd/",
+      "vi": "thời thơ ấu (danh từ)",
+      "register": "neutral",
+      "example": "I had a really happy childhood in the countryside.",
+      "exampleVi": "Tôi có một tuổi thơ rất hạnh phúc ở vùng quê.",
+      "note": "Danh từ không đếm được. Hay đi với tính từ: a happy/difficult/carefree childhood.",
+      "synonyms": [
+        { "term": "upbringing", "ipa": "/ˈʌpˌbrɪŋ.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào 'cách được nuôi dạy, giáo dục' chứ không chỉ là quãng thời gian. Vd 'a strict upbringing' (được dạy dỗ nghiêm khắc)." }
+      ]
+    },
+    {
+      "term": "to grow up",
+      "ipa": "/ɡrəʊ ʌp/",
+      "vi": "lớn lên, trưởng thành (động từ)",
+      "register": "neutral",
+      "example": "I grew up in a small village near the sea.",
+      "exampleVi": "Tôi lớn lên ở một ngôi làng nhỏ gần biển.",
+      "note": "Cụm động từ. Quá khứ là 'grew up'. Khác 'to raise' (nuôi nấng ai đó) — 'grow up' là tự mình lớn lên.",
+      "synonyms": [
+        { "term": "to be raised", "ipa": "/tə biː reɪzd/", "register": "neutral", "nuanceVi": "Bị động, nhấn 'được ai đó nuôi dạy'. Vd 'I was raised by my grandmother.' Khác với 'grow up' (tự lớn lên)." }
+      ]
+    },
+    {
+      "term": "to remember",
+      "ipa": "/rɪˈmem.bər/",
+      "vi": "nhớ, nhớ lại (động từ)",
+      "register": "neutral",
+      "example": "I still remember the smell of my mother's cooking.",
+      "exampleVi": "Tôi vẫn nhớ mùi món ăn mẹ nấu.",
+      "note": "Động từ. 'remember + V-ing' = nhớ đã từng làm gì; 'remember + to V' = nhớ phải làm gì. Ở đây thường dùng V-ing.",
+      "synonyms": [
+        { "term": "to recall", "ipa": "/rɪˈkɔːl/", "register": "formal", "nuanceVi": "Trang trọng hơn 'remember', nhấn vào việc cố gắng nhớ lại điều gì đó cụ thể." },
+        { "term": "to look back on", "ipa": "/lʊk bæk ɒn/", "register": "neutral", "nuanceVi": "Cụm động từ, nghĩa 'nhìn lại (quá khứ)'. Mang sắc thái hoài niệm, đánh giá lại. Vd 'I look back on those days fondly.'" }
+      ]
+    },
+    {
+      "term": "to miss",
+      "ipa": "/mɪs/",
+      "vi": "nhớ (ai/điều gì đã qua) (động từ)",
+      "register": "neutral",
+      "example": "I really miss playing outside with my friends.",
+      "exampleVi": "Tôi thực sự nhớ những lúc chơi ngoài trời với bạn bè.",
+      "note": "Động từ. Theo sau là danh từ hoặc V-ing (miss doing something), KHÔNG dùng 'to V'. Đừng nhầm nghĩa 'lỡ, trượt' (miss the bus).",
+      "synonyms": [
+        { "term": "to long for", "ipa": "/lɒŋ fɔːr/", "register": "formal", "nuanceVi": "Mạnh và văn vẻ hơn, nghĩa 'khao khát, mong mỏi điều đã mất'. Cảm xúc da diết hơn 'miss'." }
+      ]
+    },
+    {
+      "term": "carefree",
+      "ipa": "/ˈkeə.friː/",
+      "vi": "vô tư, vô lo (tính từ)",
+      "register": "neutral",
+      "example": "Those carefree summer days felt like they would last forever.",
+      "exampleVi": "Những ngày hè vô tư ấy tưởng như sẽ kéo dài mãi mãi.",
+      "note": "Tính từ. Mang nghĩa tích cực: không phải lo lắng gì. Hay dùng để tả tuổi thơ.",
+      "synonyms": [
+        { "term": "innocent", "ipa": "/ˈɪn.ə.sənt/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'ngây thơ, trong sáng', chưa va vấp đời. Khác 'carefree' (nhấn không lo nghĩ)." },
+        { "term": "laid-back", "ipa": "/ˌleɪdˈbæk/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'thư thái, thoải mái, không căng thẳng'. Tả tính cách/không khí hơn là tả tuổi thơ." }
+      ]
+    },
+    {
+      "term": "nostalgic",
+      "ipa": "/nɒsˈtæl.dʒɪk/",
+      "vi": "hoài niệm, bồi hồi nhớ về quá khứ (tính từ)",
+      "register": "neutral",
+      "example": "Old songs always make me feel nostalgic.",
+      "exampleVi": "Những bài hát cũ luôn khiến tôi thấy bồi hồi nhớ về xưa.",
+      "note": "Tính từ. 'feel nostalgic' = thấy hoài niệm; 'nostalgia' (danh từ) = nỗi hoài niệm. Cảm xúc vừa vui vừa man mác buồn.",
+      "synonyms": [
+        { "term": "sentimental", "ipa": "/ˌsen.tɪˈmen.təl/", "register": "neutral", "nuanceVi": "Nhấn vào 'dễ xúc động, nặng tình cảm' với kỷ niệm/đồ vật. Có thể hơi ủy mị, không hẳn về quá khứ như 'nostalgic'." }
+      ]
+    },
+    {
+      "term": "to cherish",
+      "ipa": "/ˈtʃer.ɪʃ/",
+      "vi": "trân trọng, nâng niu (động từ)",
+      "register": "formal",
+      "example": "I will always cherish the time I spent with my grandmother.",
+      "exampleVi": "Tôi sẽ luôn trân trọng khoảng thời gian bên bà.",
+      "note": "Động từ, trang trọng và giàu cảm xúc. Dùng cho kỷ niệm, người thân, khoảnh khắc quý giá.",
+      "synonyms": [
+        { "term": "to treasure", "ipa": "/ˈtreʒ.ər/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn 'xem như báu vật'. Nhẹ và phổ biến hơn 'cherish' một chút." },
+        { "term": "to value", "ipa": "/ˈvæl.juː/", "register": "neutral", "nuanceVi": "Trung tính hơn, nghĩa 'coi trọng'. Ít cảm xúc hơn 'cherish', dùng được cho cả vật/ý kiến." }
+      ]
+    },
+    {
+      "term": "vividly",
+      "ipa": "/ˈvɪv.ɪd.li/",
+      "vi": "một cách sống động, rõ mồn một (trạng từ)",
+      "register": "neutral",
+      "example": "I can vividly remember the day we moved house.",
+      "exampleVi": "Tôi nhớ rõ mồn một cái ngày nhà tôi chuyển đi.",
+      "note": "Trạng từ. Hay đi với 'remember' để nhấn ký ức rõ nét như mới hôm qua.",
+      "synonyms": [
+        { "term": "clearly", "ipa": "/ˈklɪə.li/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'rõ ràng'. Nhẹ hơn 'vividly' (vốn gợi cả hình ảnh, màu sắc, cảm giác)." }
+      ]
+    },
+    {
+      "term": "fondly",
+      "ipa": "/ˈfɒnd.li/",
+      "vi": "một cách trìu mến, đầy yêu thương (trạng từ)",
+      "register": "neutral",
+      "example": "I often think fondly of my old neighbourhood.",
+      "exampleVi": "Tôi thường nhớ về khu phố cũ với cảm giác trìu mến.",
+      "note": "Trạng từ. 'think fondly of' / 'remember fondly' = nhớ về với tình cảm ấm áp. Rất hợp khi kể kỷ niệm.",
+      "synonyms": [
+        { "term": "affectionately", "ipa": "/əˈfek.ʃən.ət.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'với sự âu yếm/trìu mến'. Hay dùng khi mô tả cách đối xử với người." }
+      ]
+    },
+    {
+      "term": "neighbourhood",
+      "ipa": "/ˈneɪ.bə.hʊd/",
+      "vi": "khu phố, xóm giềng (danh từ)",
+      "register": "neutral",
+      "example": "All the kids in the neighbourhood played together after school.",
+      "exampleVi": "Tất cả bọn trẻ trong khu phố cùng chơi với nhau sau giờ học.",
+      "note": "Danh từ. Anh-Anh viết 'neighbourhood', Anh-Mỹ viết 'neighborhood'. Chỉ khu vực dân cư quanh nơi mình ở.",
+      "synonyms": [
+        { "term": "area", "ipa": "/ˈeə.ri.ə/", "register": "neutral", "nuanceVi": "Trung tính, rộng hơn, chỉ một vùng/khu vực nói chung, không nhấn vào tình hàng xóm như 'neighbourhood'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I grew up in [nơi chốn], where I [V quá khứ].",
+      "use": "Mở đầu kể về nơi mình lớn lên kèm một chi tiết.",
+      "register": "neutral",
+      "examples": [
+        "I grew up in a small town, where I spent most of my time outdoors.",
+        "I grew up in the countryside, where life was slow and peaceful."
+      ],
+      "explanationVi": "'where' là mệnh đề quan hệ chỉ nơi chốn (= ở đó). Gộp hai ý vào một câu nghe trôi chảy hơn là nói tách rời."
+    },
+    {
+      "pattern": "When I was a child, I used to [V nguyên thể].",
+      "use": "Kể về thói quen hồi nhỏ (giờ không còn).",
+      "register": "neutral",
+      "examples": [
+        "When I was a child, I used to climb the mango tree behind our house.",
+        "When I was little, I used to spend every summer at my grandparents'."
+      ],
+      "explanationVi": "'used to + V' diễn tả thói quen/việc thường làm trong quá khứ mà nay không còn. Đây là cấu trúc xương sống để kể tuổi thơ.",
+      "altOf": "past-habit"
+    },
+    {
+      "pattern": "Every summer, we would [V nguyên thể].",
+      "use": "Kể một thói quen lặp lại trong quá khứ một cách gợi hình.",
+      "register": "neutral",
+      "examples": [
+        "Every summer, we would go fishing at the river near our house.",
+        "On weekends, my brother and I would build forts in the garden."
+      ],
+      "explanationVi": "'would + V' cũng diễn tả thói quen quá khứ, nghe văn vẻ và hoài niệm hơn 'used to'. Lưu ý: 'would' chỉ dùng cho HÀNH ĐỘNG, không dùng cho trạng thái (không nói 'I would have a dog').",
+      "altOf": "past-habit"
+    },
+    {
+      "pattern": "I still remember [V-ing / danh từ] as if it were yesterday.",
+      "use": "Nhấn mạnh một ký ức còn rất sống động.",
+      "register": "neutral",
+      "examples": [
+        "I still remember my first day at school as if it were yesterday.",
+        "I still remember playing in the rain as if it were yesterday."
+      ],
+      "explanationVi": "Sau 'remember' dùng V-ing để nói 'nhớ đã từng làm gì'. 'as if it were yesterday' là thành ngữ nghĩa 'như mới hôm qua', làm câu giàu cảm xúc."
+    },
+    {
+      "pattern": "One of my happiest memories is [V-ing / danh từ].",
+      "use": "Giới thiệu một kỷ niệm cụ thể để kể chi tiết.",
+      "register": "neutral",
+      "examples": [
+        "One of my happiest memories is celebrating Tet with my whole family.",
+        "One of my fondest memories is helping my dad in the garden."
+      ],
+      "explanationVi": "'One of my + so sánh nhất + danh từ số nhiều (memories)' rồi động từ chính số ít 'is'. Cách mở chuyện rất tự nhiên trước khi kể."
+    },
+    {
+      "pattern": "Although [mệnh đề], those days were [tính từ].",
+      "use": "Thừa nhận một mặt khó khăn nhưng vẫn nhớ về quá khứ một cách tích cực.",
+      "register": "neutral",
+      "examples": [
+        "Although we didn't have much money, those days were truly happy.",
+        "Although life was simple, those years were the best of my life."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù…). Bộ đôi 'tuy… nhưng…' cho câu chuyện chiều sâu, không một màu."
+    },
+    {
+      "pattern": "Looking back, I really miss [V-ing / danh từ].",
+      "use": "Bày tỏ nỗi nhớ, hoài niệm khi nhìn lại quá khứ.",
+      "register": "neutral",
+      "examples": [
+        "Looking back, I really miss playing with the kids in my neighbourhood.",
+        "Looking back, I miss how carefree everything used to be."
+      ],
+      "explanationVi": "'Looking back' = nhìn lại (quá khứ), mở đầu câu hoài niệm. Sau 'miss' dùng V-ing, KHÔNG dùng 'to V'."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một chia sẻ chân thành về cảm xúc.", "example": "Honestly, those were the best years of my life." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi đính chính nhẹ hoặc thêm một chi tiết bất ngờ.", "example": "Actually, my grandmother taught me how to cook." },
+    { "term": "gradually", "ipa": "/ˈɡrædʒ.u.ə.li/", "vi": "dần dần", "when": "Khi mô tả một sự thay đổi diễn ra từ từ theo thời gian.", "example": "Gradually, the old neighbourhood changed and the kids grew up." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một điều tốt đẹp giữa câu chuyện.", "example": "Fortunately, my whole family lived close together back then." },
+    { "term": "back then", "ipa": "/bæk ðen/", "vi": "hồi đó, dạo ấy", "when": "Khi muốn nhắc tới khoảng thời gian quá khứ đang kể.", "example": "Back then, we didn't have phones, so we played outside all day." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn đang ngồi xem lại một album ảnh cũ và trò chuyện về tuổi thơ của mình.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Look at this old photo! Is that you and your brother? You both look so happy. Where was it taken?",
+        "ipa": "/lʊk ət ðɪs əʊld ˈfəʊ.təʊ ɪz ðæt juː ænd jɔː ˈbrʌð.ə juː bəʊθ lʊk səʊ ˈhæp.i weə wɒz ɪt ˈteɪ.kən/",
+        "vi": "Nhìn tấm ảnh cũ này kìa! Đây là cậu và anh trai à? Trông hai người vui thật đấy. Chụp ở đâu vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh, that's us! I grew up in ____, where my brother and I spent almost every afternoon outside. Honestly, those were some of the happiest days of my childhood.",
+        "ipa": "/əʊ ðæts ʌs aɪ ɡruː ʌp ɪn ... weə maɪ ˈbrʌð.ər ænd aɪ spent ˈɔːl.məʊst ˈev.ri ˌɑːf.təˈnuːn aʊtˈsaɪd ˈɒn.ɪst.li ðəʊz wɜː sʌm əv ðə ˈhæp.i.ɪst deɪz əv maɪ ˈtʃaɪld.hʊd/",
+        "vi": "Ồ, đúng là bọn tớ đấy! Tớ lớn lên ở ____, nơi mà anh trai và tớ dành gần như mọi buổi chiều ở ngoài trời. Thành thật mà nói, đó là những ngày hạnh phúc nhất tuổi thơ tớ.",
+        "blanks": [
+          { "type": "personal", "hint": "Nơi bạn lớn lên. Ví dụ: 'a small village', 'the countryside', 'Hanoi'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That sounds lovely. What kinds of things did you two get up to back then?",
+        "ipa": "/ðæt saʊndz ˈlʌv.li wɒt kaɪndz əv θɪŋz dɪd juː tuː ɡet ʌp tə bæk ðen/",
+        "vi": "Nghe thật đáng yêu. Hồi đó hai anh em cậu hay làm những trò gì thế?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, when we were children, we ____ to climb the big mango tree behind our house and pick fruit all afternoon. Although we often got into trouble for it, those days were absolutely carefree.",
+        "ipa": "/wel wen wiː wɜː ˈtʃɪl.drən wiː ... tə klaɪm ðə bɪɡ ˈmæŋ.ɡəʊ triː bɪˈhaɪnd aʊə haʊs ænd pɪk fruːt ɔːl ˌɑːf.təˈnuːn ɔːlˈðəʊ wiː ˈɒf.ən ɡɒt ˈɪn.tə ˈtrʌb.əl fɔːr ɪt ðəʊz deɪz wɜːr ˈæb.sə.luːt.li ˈkeə.friː/",
+        "vi": "À, hồi còn nhỏ, bọn tớ ____ trèo lên cây xoài to sau nhà và hái quả suốt cả buổi chiều. Mặc dù hay bị mắng vì chuyện đó, nhưng những ngày ấy thật sự vô lo vô nghĩ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "used", "explanationVi": "Dùng 'used to + V' để kể thói quen quá khứ nay không còn. Xem mẫu câu 'When I was a child, I used to…' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I love that! It reminds me of my own summers. Did you have a favourite place that you still remember clearly?",
+        "ipa": "/aɪ lʌv ðæt ɪt rɪˈmaɪndz miː əv maɪ əʊn ˈsʌm.əz dɪd juː hæv ə ˈfeɪ.vər.ɪt pleɪs ðæt juː stɪl rɪˈmem.bə ˈklɪə.li/",
+        "vi": "Tớ thích điều đó! Nó làm tớ nhớ tới những mùa hè của mình. Cậu có nơi yêu thích nào mà vẫn nhớ rõ mồn một không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Definitely. There was a small river near our village ____ we used to swim every summer. I can still ____ remember the cool water and the sound of the cicadas, as if it were yesterday.",
+        "ipa": "/ˈdef.ɪn.ət.li ðeə wɒz ə smɔːl ˈrɪv.ər nɪər aʊə ˈvɪl.ɪdʒ ... wiː juːst tə swɪm ˈev.ri ˈsʌm.ər aɪ kæn stɪl ... rɪˈmem.bə ðə kuːl ˈwɔː.tər ænd ðə saʊnd əv ðə sɪˈkɑː.dəz əz ɪf ɪt wɜː ˈjes.tə.deɪ/",
+        "vi": "Chắc chắn rồi. Gần làng tớ có một con sông nhỏ ____ bọn tớ hay bơi mỗi mùa hè. Tớ vẫn nhớ ____ dòng nước mát và tiếng ve kêu, cứ như mới hôm qua vậy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "where", "explanationVi": "Dùng đại từ quan hệ chỉ nơi chốn 'where' (= ở đó) để nối với 'a small river'. Nếu là vật/người thì dùng which/who." },
+          { "type": "knowledge", "answer": "vividly", "explanationVi": "Cần một TRẠNG TỪ bổ nghĩa cho 'remember'. 'vividly' = một cách sống động, rõ nét — hợp hơn 'clearly' khi muốn nhấn cả hình ảnh lẫn cảm giác." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Wow, you describe it so beautifully. Do you ever wish you could go back to those times?",
+        "ipa": "/waʊ juː dɪˈskraɪb ɪt səʊ ˈbjuː.tɪ.fəl.i duː juː ˈev.ə wɪʃ juː kʊd ɡəʊ bæk tə ðəʊz taɪmz/",
+        "vi": "Ồ, cậu tả hay quá. Cậu có bao giờ ước mình quay lại được những ngày ấy không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sometimes, yes. Looking back, I really ____ those simple, carefree days with my family. Although I'm happy now, I'll always cherish those memories, and I think of them very ____ whenever I see old photos like this.",
+        "ipa": "/ˈsʌm.taɪmz jes ˈlʊk.ɪŋ bæk aɪ ˈrɪə.li ... ðəʊz ˈsɪm.pəl ˈkeə.friː deɪz wɪð maɪ ˈfæm.ɪ.li ɔːlˈðəʊ aɪm ˈhæp.i naʊ aɪl ˈɔːl.weɪz ˈtʃer.ɪʃ ðəʊz ˈmem.ər.iz ænd aɪ θɪŋk əv ðem ˈver.i ... wenˈev.ər aɪ siː əʊld ˈfəʊ.təʊz laɪk ðɪs/",
+        "vi": "Đôi khi thì có. Nhìn lại, tớ thực sự ____ những ngày giản dị, vô lo bên gia đình. Mặc dù giờ tớ hạnh phúc, tớ sẽ luôn trân trọng những kỷ niệm ấy, và tớ nhớ về chúng rất ____ mỗi khi nhìn thấy những tấm ảnh cũ như thế này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "miss", "explanationVi": "Cần động từ chỉ nỗi nhớ điều đã qua: 'miss'. Theo sau là danh từ ('those days'). Xem mẫu 'Looking back, I really miss…'." },
+          { "type": "knowledge", "answer": "fondly", "explanationVi": "Cần TRẠNG TỪ bổ nghĩa cho 'think of'. 'fondly' = một cách trìu mến, đầy yêu thương — đúng sắc thái hoài niệm ấm áp." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's so touching. Thank you for sharing — let's keep looking through the rest of the album together.",
+        "ipa": "/ðæts səʊ ˈtʌtʃ.ɪŋ θæŋk juː fɔː ˈʃeə.rɪŋ lets kiːp ˈlʊk.ɪŋ θruː ðə rest əv ðiː ˈæl.bəm təˈɡeð.ə/",
+        "vi": "Cảm động quá đi. Cảm ơn cậu đã chia sẻ nhé — mình cùng xem nốt phần còn lại của album nào."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, kể về tuổi thơ là chủ đề small-talk rất phổ biến và an toàn để làm quen, gắn kết. Người ta thích nghe chi tiết cụ thể (món ăn, trò chơi, nơi chốn) hơn là câu chung chung.",
+    "Người bản xứ thường dùng 'used to' và 'would' rất nhiều khi hồi tưởng — nắm chắc hai cấu trúc này giúp bạn kể chuyện nghe tự nhiên hơn hẳn.",
+    "Khoe ảnh cũ, kỷ vật là cách chia sẻ kỷ niệm thân mật. Khi người khác chia sẻ, hỏi lại bằng câu mở ('What did you use to do?') sẽ giúp cuộc trò chuyện kéo dài tự nhiên.",
+    "Cảm xúc 'nostalgic' (hoài niệm) vừa vui vừa man mác buồn được xem là đẹp và bình thường trong văn hóa nói tiếng Anh — đừng ngại bày tỏ."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'used to + V' (thói quen quá khứ) với 'be used to + V-ing' (đã quen với việc gì). Kể tuổi thơ thì dùng 'I used to play', không phải 'I used to playing'.",
+    "Dùng 'would' cho trạng thái: sai 'I would have a dog'. 'Would' chỉ dùng cho HÀNH ĐỘNG lặp lại; trạng thái phải dùng 'used to' (I used to have a dog).",
+    "Sau 'miss' và 'remember' (nghĩa hồi tưởng) phải dùng V-ing, không dùng 'to V': 'I miss playing', 'I remember playing'.",
+    "Quên chia thì quá khứ khi kể chuyện: nói 'I grow up' thay vì 'I grew up'. Kể kỷ niệm thì cả đoạn phải ở thì quá khứ."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kể về tuổi thơ như đang trò chuyện thật với một người bạn.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang cùng tôi xem lại album ảnh cũ và trò chuyện về tuổi thơ. Hãy hỏi tôi từng câu một (nơi tôi lớn lên, trò tôi hay chơi, một kỷ niệm đáng nhớ, điều tôi nhớ nhất bây giờ). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và tò mò như một người bạn, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt, đặc biệt nhắc tôi dùng đúng 'used to', 'would', và V-ing sau 'miss/remember', (3) khuyến khích tôi kể câu dài hơn với 'where', 'although', 'as if it were yesterday'. Cuối buổi, hãy tóm tắt 3 điểm tôi cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi kể một kỷ niệm buồn hoặc khó khăn để tập kể cả mặt tích cực lẫn tiêu cực.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy hỏi sâu thêm các câu follow-up bất ngờ để tôi tập phản xạ tự nhiên hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi kể được nơi mình lớn lên bằng một câu dài có mệnh đề 'where', không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'used to' và 'would' để kể thói quen hồi nhỏ.",
+    "Tôi bày tỏ được cảm xúc hoài niệm (miss, cherish, fondly) một cách tự nhiên."
+  ]
+}

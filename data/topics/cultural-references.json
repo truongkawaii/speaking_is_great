@@ -1,0 +1,369 @@
+{
+  "id": "cultural-references",
+  "category": "advanced",
+  "title": "Tham chiếu văn hóa",
+  "titleEn": "Cultural References",
+  "level": "C1",
+  "functions": ["small-talk", "opinions", "describing", "agreeing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Nhận diện và giải mã các tham chiếu văn hóa (phim, sách, meme, lịch sử) trong hội thoại của người bản xứ",
+    "Hỏi lại một cách tinh tế khi không nắm được một điển tích mà không làm gián đoạn dòng chảy câu chuyện",
+    "Giải thích một tham chiếu văn hóa Việt Nam cho người nước ngoài bằng câu phức nhiều tầng, có ví dụ minh họa",
+    "Bày tỏ quan điểm về sự khác biệt văn hóa với sắc thái tế nhị, tránh khái quát hóa thô thiển",
+    "Đổi register linh hoạt giữa idiom đời thường và cách diễn đạt học thuật khi bàn về văn hóa"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "allusion",
+      "ipa": "/əˈluː.ʒən/",
+      "vi": "sự ám chỉ / điển tích (danh từ)",
+      "register": "formal",
+      "example": "The novel is full of biblical allusions that many modern readers tend to miss.",
+      "exampleVi": "Cuốn tiểu thuyết đầy những điển tích Kinh Thánh mà nhiều độc giả hiện đại thường bỏ lỡ.",
+      "note": "Danh từ. Là việc nhắc gián tiếp đến một tác phẩm/nhân vật/sự kiện nổi tiếng mà không giải thích — người nghe phải tự 'nối điểm'. Đi với giới từ 'to': an allusion to something.",
+      "synonyms": [
+        { "term": "reference", "ipa": "/ˈref.ər.əns/", "register": "neutral", "nuanceVi": "Trung tính và phổ biến nhất; có thể trực tiếp hoặc gián tiếp. 'Allusion' luôn mang sắc thái tinh tế, ngầm ẩn hơn." },
+        { "term": "nod", "ipa": "/nɒd/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'cái gật đầu trân trọng' tới một tác phẩm khác (a nod to). Nghe thân mật, hay dùng khi bàn phim ảnh, nhạc." },
+        { "term": "innuendo", "ipa": "/ˌɪn.juˈen.dəʊ/", "register": "formal", "nuanceVi": "Ám chỉ NHƯNG thường mang hàm ý xấu/tế nhị (nhất là về tình dục, scandal). Đừng dùng thay cho allusion trung tính." }
+      ]
+    },
+    {
+      "term": "to resonate",
+      "ipa": "/ˈrez.ən.eɪt/",
+      "vi": "gây cộng hưởng, chạm tới cảm xúc (động từ)",
+      "register": "formal",
+      "example": "That metaphor really resonates with anyone who grew up in the eighties.",
+      "exampleVi": "Phép ẩn dụ đó thực sự chạm tới bất kỳ ai lớn lên vào thập niên 80.",
+      "note": "Động từ, đi với 'with somebody'. Nghĩa bóng: một ý tưởng/hình ảnh khơi gợi đồng cảm sâu sắc. Khác 'to be popular' (chỉ được ưa thích).",
+      "synonyms": [
+        { "term": "to strike a chord", "ipa": "/straɪk ə kɔːd/", "register": "neutral", "nuanceVi": "Thành ngữ, nghĩa 'gãi đúng chỗ ngứa cảm xúc'. Sống động và đời thường hơn 'resonate'." },
+        { "term": "to connect with", "ipa": "/kəˈnekt wɪð/", "register": "neutral", "nuanceVi": "Nhẹ nhàng, rộng nghĩa hơn: tạo được mối liên hệ. Ít hàm ý 'rung động sâu' bằng resonate." }
+      ]
+    },
+    {
+      "term": "obscure",
+      "ipa": "/əbˈskjʊər/",
+      "vi": "ít người biết, khó hiểu (tính từ)",
+      "register": "formal",
+      "example": "He kept making obscure references that only film buffs would catch.",
+      "exampleVi": "Anh ấy cứ đưa ra những tham chiếu ít người biết mà chỉ dân mê phim mới hiểu.",
+      "note": "Tính từ. Mô tả thứ mờ mịt, ít phổ biến. Cũng là động từ (to obscure = che mờ). Trái nghĩa: well-known, mainstream.",
+      "synonyms": [
+        { "term": "niche", "ipa": "/niːʃ/", "register": "neutral", "nuanceVi": "Nhấn 'kén người, dành cho nhóm nhỏ chuyên biệt', không hẳn 'khó hiểu'. Mang sắc thái trung tính/tích cực hơn obscure." },
+        { "term": "esoteric", "ipa": "/ˌes.əˈter.ɪk/", "register": "formal", "nuanceVi": "Rất học thuật, nghĩa 'chỉ giới trong cuộc hiểu được'. Nghe trí thức, dùng khi muốn tinh tế." },
+        { "term": "cryptic", "ipa": "/ˈkrɪp.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'bí ẩn, cố tình khó giải mã'. Khác obscure (vốn chỉ là ít phổ biến)." }
+      ]
+    },
+    {
+      "term": "context",
+      "ipa": "/ˈkɒn.tekst/",
+      "vi": "bối cảnh, ngữ cảnh (danh từ)",
+      "register": "neutral",
+      "example": "Without the cultural context, the joke completely falls flat.",
+      "exampleVi": "Thiếu bối cảnh văn hóa, câu đùa hoàn toàn nhạt thếch.",
+      "note": "Danh từ. Cụm hữu ích: 'lost in translation' (mất ý khi dịch) thường vì thiếu context. Tính từ: contextual.",
+      "synonyms": [
+        { "term": "backdrop", "ipa": "/ˈbæk.drɒp/", "register": "formal", "nuanceVi": "Nghĩa 'phông nền bao quát' (lịch sử, xã hội) làm nền cho sự việc. Hình ảnh hơn 'context'." },
+        { "term": "setting", "ipa": "/ˈset.ɪŋ/", "register": "neutral", "nuanceVi": "Thiên về bối cảnh không gian/thời gian cụ thể (của câu chuyện, sự kiện), hẹp hơn context." }
+      ]
+    },
+    {
+      "term": "to grasp",
+      "ipa": "/ɡrɑːsp/",
+      "vi": "nắm bắt, hiểu thấu (động từ)",
+      "register": "neutral",
+      "example": "It took me a while to grasp why everyone was laughing.",
+      "exampleVi": "Tôi mất một lúc mới hiểu được vì sao ai cũng cười.",
+      "note": "Động từ, mạnh hơn 'understand' — hàm ý 'tóm được' điều khó nắm. Cũng là danh từ: 'a good grasp of English'.",
+      "synonyms": [
+        { "term": "to catch on", "ipa": "/kætʃ ɒn/", "register": "casual", "nuanceVi": "Phrasal verb đời thường, nghĩa 'bắt nhịp được, vỡ ra'. Hàm ý quá trình hiểu dần." },
+        { "term": "to fathom", "ipa": "/ˈfæð.əm/", "register": "formal", "nuanceVi": "Trang trọng, thường ở thể phủ định: 'I can't fathom...' (không tài nào hiểu nổi). Nhấn độ sâu khó dò." },
+        { "term": "to comprehend", "ipa": "/ˌkɒm.prɪˈhend/", "register": "formal", "nuanceVi": "Học thuật, trung tính; gần 'understand' nhưng trang trọng hơn, ít sắc thái 'tóm bắt' như grasp." }
+      ]
+    },
+    {
+      "term": "stereotype",
+      "ipa": "/ˈster.i.ə.taɪp/",
+      "vi": "định kiến rập khuôn (danh từ)",
+      "register": "neutral",
+      "example": "We should be careful not to reinforce cultural stereotypes.",
+      "exampleVi": "Chúng ta nên cẩn thận để không củng cố những định kiến văn hóa.",
+      "note": "Danh từ và động từ. Hàm ý tiêu cực: hình dung quá đơn giản, vơ đũa cả nắm về một nhóm người.",
+      "synonyms": [
+        { "term": "generalization", "ipa": "/ˌdʒen.ər.əl.aɪˈzeɪ.ʃən/", "register": "neutral", "nuanceVi": "Sự khái quát hóa; trung tính hơn, không nhất thiết xấu. 'Stereotype' luôn mang định kiến cứng nhắc về một nhóm." },
+        { "term": "cliché", "ipa": "/ˈkliː.ʃeɪ/", "register": "neutral", "nuanceVi": "Nhấn 'sáo mòn, nhàm vì lặp lại quá nhiều' (ý tưởng, hình ảnh), không hẳn về con người như stereotype." }
+      ]
+    },
+    {
+      "term": "subtle",
+      "ipa": "/ˈsʌt.əl/",
+      "vi": "tinh tế, kín đáo (tính từ)",
+      "register": "formal",
+      "example": "There's a subtle difference between humour that travels well and humour that doesn't.",
+      "exampleVi": "Có một khác biệt tinh tế giữa kiểu hài hước dễ lan tỏa và kiểu thì không.",
+      "note": "Tính từ. Chú ý phát âm: chữ 'b' CÂM, đọc /ˈsʌt.əl/. Trạng từ: subtly /ˈsʌt.li/.",
+      "synonyms": [
+        { "term": "nuanced", "ipa": "/ˈnjuː.ɑːnst/", "register": "formal", "nuanceVi": "Nhấn 'có nhiều sắc thái, tầng nghĩa', dùng khen một lập luận/nhận định sâu sắc. Trí thức hơn subtle." },
+        { "term": "understated", "ipa": "/ˌʌn.dəˈsteɪ.tɪd/", "register": "formal", "nuanceVi": "Nghĩa 'kiệm lời, không phô trương' — một kiểu tinh tế cố ý giảm nhẹ. Hay khen gu thẩm mỹ, lối hài Anh." }
+      ]
+    },
+    {
+      "term": "to come across as",
+      "ipa": "/kʌm əˈkrɒs æz/",
+      "vi": "tạo cảm giác / bị cho là (động từ)",
+      "register": "neutral",
+      "example": "What's polite in one culture can come across as cold in another.",
+      "exampleVi": "Điều lịch sự ở văn hóa này có thể bị cho là lạnh lùng ở văn hóa khác.",
+      "note": "Phrasal verb, theo sau là tính từ/danh từ. Nói về ấn tượng bạn GÂY RA ở người khác, dù chủ ý có thể khác.",
+      "synonyms": [
+        { "term": "to seem", "ipa": "/siːm/", "register": "neutral", "nuanceVi": "Đơn giản hơn nhiều, chỉ 'có vẻ'. 'Come across as' nhấn vào ấn tượng để lại ở người quan sát." },
+        { "term": "to be perceived as", "ipa": "/bi pəˈsiːvd æz/", "register": "formal", "nuanceVi": "Trang trọng, bị động, nghĩa 'được/bị nhìn nhận là'. Hợp văn cảnh học thuật, phân tích xã hội." }
+      ]
+    },
+    {
+      "term": "inevitably",
+      "ipa": "/ɪnˈev.ɪ.tə.bli/",
+      "vi": "một cách tất yếu, không thể tránh khỏi (trạng từ)",
+      "register": "formal",
+      "example": "When two cultures meet, misunderstandings inevitably arise.",
+      "exampleVi": "Khi hai nền văn hóa gặp nhau, hiểu lầm tất yếu sẽ nảy sinh.",
+      "note": "Trạng từ. Dẫn vào một hệ quả logic không thể tránh. Tính từ: inevitable.",
+      "synonyms": [
+        { "term": "unavoidably", "ipa": "/ˌʌn.əˈvɔɪ.də.bli/", "register": "neutral", "nuanceVi": "Gần nghĩa, trung tính hơn; nhấn 'không thể né được' về mặt thực tế hơn là tất yếu logic." },
+        { "term": "naturally", "ipa": "/ˈnætʃ.ər.əl.i/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'một cách tự nhiên, dĩ nhiên'. Mềm mại, ít cảm giác 'định mệnh' như inevitably." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːɡ.ju.ə.bli/",
+      "vi": "có thể lập luận rằng, gần như (trạng từ)",
+      "register": "formal",
+      "example": "It's arguably the most quoted film in pop culture history.",
+      "exampleVi": "Đó có thể coi là bộ phim được trích dẫn nhiều nhất trong lịch sử văn hóa đại chúng.",
+      "note": "Trạng từ rất 'C1'. Đặt trước một nhận định mạnh để vừa khẳng định vừa chừa chỗ tranh luận — nghe khiêm tốn mà sắc sảo.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung được', thiên về khả năng giả định hơn là một lập luận có cơ sở như arguably." },
+        { "term": "by most accounts", "ipa": "/baɪ məʊst əˈkaʊnts/", "register": "neutral", "nuanceVi": "Cụm nghĩa 'theo phần lớn ý kiến'. Dựa vào số đông thay vì lập luận cá nhân." }
+      ]
+    },
+    {
+      "term": "to lose something in translation",
+      "ipa": "/luːz ˈsʌm.θɪŋ ɪn trænzˈleɪ.ʃən/",
+      "vi": "mất ý/sắc thái khi dịch sang ngôn ngữ khác (thành ngữ)",
+      "register": "neutral",
+      "example": "Puns almost always lose something in translation.",
+      "exampleVi": "Lối chơi chữ gần như luôn mất đi cái hay khi dịch.",
+      "note": "Thành ngữ thông dụng khi bàn về văn hóa và ngôn ngữ. Rất hợp để giải thích vì sao một câu đùa không thể dịch sát.",
+      "synonyms": [
+        { "term": "doesn't translate", "ipa": "/ˈdʌz.ənt trænzˈleɪt/", "register": "casual", "nuanceVi": "Ngắn gọn, đời thường: 'that joke just doesn't translate'. Cùng ý nhưng gọn hơn." }
+      ]
+    },
+    {
+      "term": "to be on the same wavelength",
+      "ipa": "/ɒn ðə seɪm ˈweɪv.leŋθ/",
+      "vi": "cùng tần số, hiểu ý nhau (thành ngữ)",
+      "register": "casual",
+      "example": "Once you get the reference, you're suddenly on the same wavelength as everyone in the room.",
+      "exampleVi": "Một khi bạn hiểu được điển tích đó, bỗng dưng bạn cùng tần số với cả phòng.",
+      "note": "Thành ngữ casual rất tự nhiên. Mô tả cảm giác 'ăn ý', nắm chung một hệ quy chiếu văn hóa.",
+      "synonyms": [
+        { "term": "to be in sync", "ipa": "/ɪn sɪŋk/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đồng điệu, khớp nhịp'. Gần nghĩa nhưng thiên về phối hợp hành động/cảm xúc hơn là chung hiểu biết." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm not sure I caught the reference — is that an allusion to [tác phẩm/sự việc]?",
+      "use": "Hỏi lại một cách tinh tế khi không nắm được một tham chiếu, mà vẫn giữ thể diện.",
+      "register": "neutral",
+      "examples": [
+        "I'm not sure I caught the reference — is that an allusion to a film?",
+        "Sorry, I'm not sure I caught that — is it a nod to some old TV show?"
+      ],
+      "explanationVi": "Cách hỏi lại lịch thiệp ở trình độ cao: thay vì 'I don't understand' (cộc), bạn thừa nhận nhẹ rằng mình 'chưa bắt được' và đoán một khả năng. Vừa khiêm tốn vừa thể hiện bạn đang theo kịp câu chuyện.",
+      "altOf": "asking-for-clarification"
+    },
+    {
+      "pattern": "Would you mind filling me in on [danh từ / what ...]?",
+      "use": "Nhờ người khác giải thích bối cảnh mình còn thiếu, lịch sự bậc cao.",
+      "register": "formal",
+      "examples": [
+        "Would you mind filling me in on the backstory there?",
+        "Would you mind filling me in on what that meme actually refers to?"
+      ],
+      "explanationVi": "'fill someone in on something' = cập nhật/giải thích cho ai đó phần họ chưa biết. Bọc trong 'Would you mind...?' thành lời nhờ rất nhã. Phù hợp khi bạn không muốn làm gián đoạn thô.",
+      "altOf": "asking-for-clarification"
+    },
+    {
+      "pattern": "It's arguably [tính từ so sánh nhất], although [mệnh đề nhượng bộ].",
+      "use": "Đưa ra nhận định mạnh về văn hóa nhưng vẫn chừa chỗ cho tranh luận.",
+      "register": "formal",
+      "examples": [
+        "It's arguably the most influential novel of the century, although some critics would strongly disagree.",
+        "It's arguably their best album, although the early fans tend to prefer the debut."
+      ],
+      "explanationVi": "'arguably' + so sánh nhất là dấu hiệu của người nói trình độ cao: khẳng định có sức nặng nhưng không võ đoán. 'although' mở mệnh đề nhượng bộ để cân bằng quan điểm — nghe chín chắn, khách quan.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "The way I see it, [mệnh đề], whereas in our culture [mệnh đề tương phản].",
+      "use": "So sánh hai nền văn hóa khi bày tỏ quan điểm cá nhân.",
+      "register": "neutral",
+      "examples": [
+        "The way I see it, directness is valued there, whereas in our culture people tend to read between the lines.",
+        "The way I see it, humour is very situational, whereas slapstick travels almost anywhere."
+      ],
+      "explanationVi": "'The way I see it' đánh dấu rõ đây là góc nhìn riêng (đỡ áp đặt). 'whereas' nối hai vế tương phản ngang hàng — chuẩn để so sánh văn hóa mà không phán xét bên nào hơn.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "To put it in context for you, [mệnh đề giải thích], which is why [hệ quả].",
+      "use": "Giải thích một tham chiếu văn hóa Việt Nam cho người nước ngoài.",
+      "register": "neutral",
+      "examples": [
+        "To put it in context for you, the áo dài is tied to formal occasions, which is why people wear it at Tết and weddings.",
+        "To put it in context for you, that phrase comes from a folk tale, which is why older people use it so naturally."
+      ],
+      "explanationVi": "'put something in context' = đặt vào bối cảnh để dễ hiểu. Mệnh đề quan hệ 'which is why' nối thẳng tới hệ quả, biến lời giải thích thành một câu mạch lạc, có nhân-quả rõ ràng.",
+      "altOf": "explaining-context"
+    },
+    {
+      "pattern": "Despite [danh từ], a lot of the humour still tends to get lost in translation.",
+      "use": "Thừa nhận rào cản văn hóa khi một thứ không 'dịch' được.",
+      "register": "neutral",
+      "examples": [
+        "Despite the excellent subtitles, a lot of the humour still gets lost in translation.",
+        "Despite my best efforts to explain it, the pun simply got lost in translation."
+      ],
+      "explanationVi": "'Despite + danh từ/V-ing' mở mệnh đề nhượng bộ gọn (không cần chủ-vị). Ghép với thành ngữ 'lost in translation' tạo một câu rất tự nhiên để nói về giới hạn của việc chuyển ngữ văn hóa."
+    },
+    {
+      "pattern": "Not only does it reference [A], but it also nods to [B], which most people don't realize.",
+      "use": "Chỉ ra nhiều tầng tham chiếu trong một tác phẩm, gây ấn tượng am hiểu.",
+      "register": "formal",
+      "examples": [
+        "Not only does it reference Greek mythology, but it also nods to a famous painting, which most people don't realize."
+      ],
+      "explanationVi": "Đảo ngữ 'Not only does it...' (đảo trợ động từ 'does' lên trước chủ ngữ) để nhấn mạnh có HAI tầng nghĩa. Mệnh đề quan hệ 'which...' bổ sung bình luận. Cấu trúc nâng cao điển hình của C1 — phải đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một thú nhận chân thành, ví dụ thừa nhận mình không hiểu một điển tích.", "example": "Honestly, that reference went completely over my head." },
+    { "term": "to be fair", "ipa": "/tə bi feər/", "vi": "công bằng mà nói", "when": "Khi muốn nhìn nhận một mặt khác, làm dịu một nhận định trước đó.", "example": "To be fair, you'd have to grow up here to get most of these jokes." },
+    { "term": "in a sense", "ipa": "/ɪn ə sens/", "vi": "ở một khía cạnh nào đó", "when": "Khi muốn khẳng định có giới hạn, tránh nói tuyệt đối.", "example": "In a sense, every joke is a little cultural code." },
+    { "term": "interestingly enough", "ipa": "/ˈɪn.trəst.ɪŋ.li ɪˈnʌf/", "vi": "điều thú vị là", "when": "Dẫn vào một chi tiết bất ngờ, đáng chú ý trong câu chuyện.", "example": "Interestingly enough, that same gesture means the opposite in Greece." },
+    { "term": "more often than not", "ipa": "/mɔːr ˈɒf.ən ðæn nɒt/", "vi": "phần lớn trường hợp", "when": "Khi nêu một xu hướng chung mà không vơ đũa cả nắm.", "example": "More often than not, the subtext matters more than the words themselves." },
+    { "term": "for what it's worth", "ipa": "/fɔːr wɒt ɪts wɜːθ/", "vi": "dù sao thì (đưa ý kiến khiêm tốn)", "when": "Khi đưa ra quan điểm cá nhân một cách nhún nhường, không áp đặt.", "example": "For what it's worth, I think context matters more than vocabulary." }
+  ],
+
+  "dialogue": {
+    "context": "Linh (người Việt, đang sống ở Mỹ) và James (đồng nghiệp người Mỹ) trò chuyện sau khi cùng xem một bộ phim hài. James liên tục nhắc tới các tham chiếu văn hóa mà Linh chưa nắm hết, và đến lượt mình, Linh giải thích một tham chiếu văn hóa Việt Nam cho James.",
+    "lines": [
+      {
+        "speaker": "James",
+        "text": "That diner scene was pure gold — it's basically a shot-for-shot homage to a classic seventies film, although I doubt anyone under thirty would catch it.",
+        "ipa": "/ðæt ˈdaɪ.nər siːn wɒz pjʊə ɡəʊld ɪts ˈbeɪ.sɪk.li ə ʃɒt fɔː ʃɒt ˈhɒm.ɪdʒ tʊ ə ˈklæs.ɪk ˈsev.ən.tiz fɪlm ɔːlˈðəʊ aɪ daʊt ˈen.i.wʌn ˈʌn.dər ˈθɜː.ti wʊd kætʃ ɪt/",
+        "vi": "Cảnh ở quán ăn đó đúng là tuyệt phẩm — về cơ bản nó là một sự tri ân từng khung hình tới một bộ phim kinh điển thập niên 70, dù tôi ngờ là chẳng ai dưới ba mươi tuổi nhận ra đâu."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Honestly, that one went completely over my head. I'm not sure I caught the reference — is that an ____ to a film I should know?",
+        "ipa": "/ˈɒn.ɪst.li ðæt wʌn went kəmˈpliːt.li ˈəʊ.vər maɪ hed aɪm nɒt ʃʊər aɪ kɔːt ðə ˈref.ər.əns ɪz ðæt ən əˈluː.ʒən tʊ ə fɪlm aɪ ʃʊd nəʊ/",
+        "vi": "Thành thật mà nói, cái đó tôi chịu, không hiểu nổi. Tôi không chắc mình nắm được tham chiếu đó — đó có phải là một ____ tới một bộ phim mà tôi nên biết không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "allusion", "explanationVi": "Dùng danh từ 'allusion' (điển tích/sự ám chỉ gián tiếp) cho khung 'an allusion to + tác phẩm'. Đây chính là từ vựng trọng tâm; xem mẫu câu 'I'm not sure I caught the reference — is that an allusion to...?'." }
+        ]
+      },
+      {
+        "speaker": "James",
+        "text": "Exactly. To put it in context for you, that film practically invented the genre, which is why directors keep nodding to it decades later, even though younger audiences rarely notice.",
+        "ipa": "/ɪɡˈzækt.li tə pʊt ɪt ɪn ˈkɒn.tekst fɔː juː ðæt fɪlm ˈpræk.tɪk.li ɪnˈven.tɪd ðə ˈʒɒn.rə wɪtʃ ɪz waɪ dɪˈrek.təz kiːp ˈnɒd.ɪŋ tʊ ɪt ˈdek.eɪdz ˈleɪ.tər ˈiː.vən ðəʊ ˈjʌŋ.ɡər ˈɔː.di.ən.sɪz ˈreə.li ˈnəʊ.tɪs/",
+        "vi": "Chính xác. Để đặt vào bối cảnh cho bạn dễ hiểu, bộ phim đó gần như đã khai sinh ra cả thể loại, đó là lý do các đạo diễn cứ tri ân nó hàng chục năm sau, dù khán giả trẻ hiếm khi để ý."
+      },
+      {
+        "speaker": "Linh",
+        "text": "That makes sense now. ____ enough, we have something similar in Vietnam — there are lines from old films that everyone quotes, but they completely lose their meaning once you translate them into English.",
+        "ipa": "/ðæt meɪks sens naʊ ˈɪn.trəst.ɪŋ.li ɪˈnʌf wiː hæv ˈsʌm.θɪŋ ˈsɪm.ɪ.lər ɪn ˌvjet.ˈnɑːm ðeər ɑː laɪnz frɒm əʊld fɪlmz ðæt ˈev.ri.wʌn kwəʊts bʌt ðeɪ kəmˈpliːt.li luːz ðeə ˈmiː.nɪŋ wʌns juː trænzˈleɪt ðəm ˈɪn.tʊ ˈɪŋ.ɡlɪʃ/",
+        "vi": "Giờ thì tôi hiểu rồi. ____, ở Việt Nam cũng có thứ tương tự — có những câu thoại từ phim cũ mà ai cũng trích dẫn, nhưng chúng mất sạch ý nghĩa một khi bạn dịch sang tiếng Anh.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Interestingly", "explanationVi": "Cụm trạng từ 'Interestingly enough' (điều thú vị là) dẫn vào một chi tiết đáng chú ý. Chỗ trống cần từ 'Interestingly' đứng trước 'enough'; xem phần Trạng từ & cụm từ." }
+        ]
+      },
+      {
+        "speaker": "James",
+        "text": "Oh, I'd love an example. Would you mind filling me in on one of those, even if the joke gets lost in translation?",
+        "ipa": "/əʊ aɪd lʌv ən ɪɡˈzɑːm.pəl wʊd juː maɪnd ˈfɪl.ɪŋ miː ɪn ɒn wʌn ɒv ðəʊz ˈiː.vən ɪf ðə dʒəʊk ɡets lɒst ɪn trænzˈleɪ.ʃən/",
+        "vi": "Ồ, tôi rất muốn nghe một ví dụ. Bạn có phiền giải thích cho tôi một câu như vậy không, kể cả khi câu đùa bị mất ý khi dịch?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "Sure. There's a famous phrase from a folk comedy that older people use ____ they want to tease someone gently. Despite how simple it sounds, the humour comes entirely from the cultural backdrop, so foreigners almost never grasp why it's funny.",
+        "ipa": "/ʃʊə ðeəz ə ˈfeɪ.məs freɪz frɒm ə ˈfəʊk ˈkɒm.ə.di ðæt ˈəʊl.dər ˈpiː.pəl juːz wen ðeɪ wɒnt tə tiːz ˈsʌm.wʌn ˈdʒent.li dɪˈspaɪt haʊ ˈsɪm.pəl ɪt saʊndz ðə ˈhjuː.mər kʌmz ɪnˈtaɪə.li frɒm ðə ˈkʌl.tʃər.əl ˈbæk.drɒp səʊ ˈfɒr.ən.əz ˈɔːl.məʊst ˈnev.ər ɡrɑːsp waɪ ɪts ˈfʌn.i/",
+        "vi": "Được chứ. Có một câu nổi tiếng từ một vở hài dân gian mà người lớn tuổi dùng ____ họ muốn trêu ai đó một cách nhẹ nhàng. Dù nghe rất đơn giản, cái hài hoàn toàn đến từ phông nền văn hóa, nên người nước ngoài gần như không bao giờ hiểu được vì sao nó buồn cười.",
+        "blanks": [
+          { "type": "knowledge", "answer": "when", "explanationVi": "Dùng liên từ thời gian 'when' (= khi) để nối: 'older people use [it] when they want to tease...'. Mệnh đề chỉ thời điểm/điều kiện thói quen; 'when' tự nhiên hơn 'if' vì đây là tình huống thường lặp lại." }
+        ]
+      },
+      {
+        "speaker": "James",
+        "text": "That's fascinating. It really shows that you'd almost have to grow up somewhere to be on the same ____ as the locals, doesn't it?",
+        "ipa": "/ðæts ˈfæs.ɪ.neɪ.tɪŋ ɪt ˈrɪə.li ʃəʊz ðæt juːd ˈɔːl.məʊst hæv tə ɡrəʊ ʌp ˈsʌm.weər tə biː ɒn ðə seɪm ˈweɪv.leŋθ æz ðə ˈləʊ.kəlz ˈdʌz.ənt ɪt/",
+        "vi": "Thật thú vị. Nó cho thấy bạn gần như phải lớn lên ở đâu đó mới có thể cùng ____ với người bản địa, đúng không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "wavelength", "explanationVi": "Hoàn thành thành ngữ 'to be on the same wavelength as somebody' (cùng tần số, hiểu ý nhau). Danh từ 'wavelength' là từ khóa của thành ngữ; xem mục từ vựng." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Exactly. For what it's worth, I think ____ is more important than vocabulary — once you understand the references behind the words, everything suddenly clicks into place.",
+        "ipa": "/ɪɡˈzækt.li fɔː wɒt ɪts wɜːθ aɪ θɪŋk ˈkɒn.tekst ɪz mɔːr ɪmˈpɔː.tənt ðæn vəˈkæb.jə.lər.i wʌns juː ˌʌn.dəˈstænd ðə ˈref.ər.ən.sɪz bɪˈhaɪnd ðə wɜːdz ˈev.ri.θɪŋ ˈsʌd.ən.li klɪks ˈɪn.tʊ pleɪs/",
+        "vi": "Đúng vậy. Dù sao thì, tôi nghĩ ____ còn quan trọng hơn cả từ vựng — một khi bạn hiểu được những tham chiếu ẩn sau con chữ, mọi thứ bỗng nhiên khớp vào đúng chỗ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "context", "explanationVi": "Dùng danh từ 'context' (bối cảnh/ngữ cảnh) — chính là chìa khóa để giải mã tham chiếu văn hóa, như cả hội thoại đã thể hiện. Xem mục từ vựng 'context' và mẫu câu 'To put it in context...'." }
+        ]
+      },
+      {
+        "speaker": "James",
+        "text": "I couldn't agree more. Maybe next time you can recommend a Vietnamese film, and I'll be the one ____ to keep up.",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː mɔː ˈmeɪ.bi nekst taɪm juː kæn ˌrek.əˈmend ə ˌvjet.nəˈmiːz fɪlm ænd aɪl biː ðə wʌn ˈstrʌɡ.lɪŋ tə kiːp ʌp/",
+        "vi": "Tôi hoàn toàn đồng ý. Có lẽ lần tới bạn giới thiệu cho tôi một bộ phim Việt Nam, và tôi sẽ là người ____ để theo kịp.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ dạng V-ing mô tả việc cố theo kịp, ví dụ: 'struggling' (vật lộn) hoặc 'trying hard'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Văn hóa đại chúng phương Tây (đặc biệt Mỹ) đầy ắp tham chiếu tới phim, chương trình truyền hình, ban nhạc và meme — không nắm được chúng không có nghĩa bạn kém tiếng Anh, mà chỉ là thiếu 'vốn văn hóa nền'. Người bản xứ đánh giá cao việc bạn hỏi lại một cách tò mò, lịch sự.",
+    "Hài hước là thứ 'khó dịch' nhất giữa các nền văn hóa: lối chơi chữ, châm biếm, hài tình huống đều phụ thuộc nặng vào bối cảnh. Thừa nhận 'it got lost in translation' là cách nói chuyên nghiệp, không phải dấu hiệu thất bại.",
+    "Khi so sánh hai nền văn hóa, người nói trình độ cao tránh khẳng định tuyệt đối ('người Mỹ luôn...', 'người Việt không bao giờ...'). Dùng các cụm làm mềm như 'tend to', 'more often than not', 'in a sense' để né định kiến rập khuôn (stereotype).",
+    "Giải thích một tham chiếu Việt Nam cho người nước ngoài là kỹ năng quý: hãy cho bối cảnh trước ('to put it in context...'), rồi mới tới ý nghĩa — đừng kỳ vọng họ tự hiểu phần nền mà người Việt coi là hiển nhiên."
+  ],
+
+  "commonMistakes": [
+    "Im lặng gật gù khi không hiểu một tham chiếu vì sợ mất mặt. Thực ra hỏi lại tinh tế ('I'm not sure I caught the reference...') khiến bạn nghe tự tin và am hiểu hơn nhiều.",
+    "Dịch nguyên xi câu đùa/thành ngữ Việt sang tiếng Anh và mong người nghe cười. Hãy giải thích bối cảnh trước, hoặc thẳng thắn nói 'this gets lost in translation'.",
+    "Sai đảo ngữ với 'Not only': phải đảo trợ động từ — 'Not only DOES it reference...', không phải 'Not only it references...'.",
+    "Lẫn lộn 'subtle' (tinh tế, chữ b câm /ˈsʌt.əl/) với cách phát âm có /b/, và lẫn 'allusion' (ám chỉ) với 'illusion' (ảo giác) — hai từ khác hẳn nghĩa."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về tham chiếu văn hóa như với một người bản xứ.",
+    "prompt": "Hãy đóng vai một người bản xứ nói tiếng Anh đang trò chuyện thân mật với tôi về phim ảnh, âm nhạc và văn hóa đại chúng. Trong lúc nói, hãy CỐ TÌNH cài vào các tham chiếu văn hóa thật (phim kinh điển, meme, câu nói nổi tiếng) mà không giải thích ngay, để tôi tập hỏi lại một cách tinh tế. Sau mỗi lượt tôi nói, hãy: (1) phản hồi tự nhiên như một người bạn, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt 'C1' hơn bằng tiếng Việt, đặc biệt khích lệ tôi dùng 'arguably', 'whereas', 'Not only... but also', 'come across as' và các thành ngữ như 'lost in translation', 'on the same wavelength', (3) thỉnh thoảng đề nghị tôi giải thích ngược lại một tham chiếu văn hóa Việt Nam cho bạn nghe, rồi nhận xét xem tôi đặt bối cảnh đã rõ chưa. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng một nhận xét có cài tham chiếu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy dùng nhiều idiom và tham chiếu khó (obscure) hơn, nói nhanh như đời thực.' khi bạn đã quen.",
+      "Thêm: 'Hãy yêu cầu tôi giải thích một thành ngữ hoặc tục ngữ Việt Nam rồi cùng bàn xem nó có dịch được sang tiếng Anh không.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi lại được một tham chiếu mình chưa hiểu bằng câu lịch sự, tinh tế thay vì im lặng gật đầu.",
+    "Tôi giải thích được một tham chiếu văn hóa Việt Nam cho người nước ngoài, có đặt bối cảnh rõ ràng trước khi nói ý nghĩa.",
+    "Tôi dùng được 'arguably', 'whereas' và ít nhất một thành ngữ ('lost in translation' hoặc 'on the same wavelength') khi nói về văn hóa."
+  ]
+}

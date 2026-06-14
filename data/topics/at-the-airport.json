@@ -1,0 +1,315 @@
+{
+  "id": "at-the-airport",
+  "category": "travel",
+  "title": "Ở sân bay",
+  "titleEn": "At the Airport",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Làm thủ tục check-in chuyến bay và gửi hành lý ký gửi",
+    "Hỏi thông tin về cửa lên máy bay, giờ bay và lối đi",
+    "Đưa ra yêu cầu đơn giản, lịch sự (chọn ghế, hành lý xách tay)",
+    "Hiểu các thông báo và biển chỉ dẫn cơ bản ở sân bay"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "boarding pass",
+      "ipa": "/ˈbɔːr.dɪŋ pæs/",
+      "vi": "thẻ lên máy bay (danh từ)",
+      "register": "neutral",
+      "example": "Please show me your boarding pass and passport.",
+      "exampleVi": "Vui lòng cho tôi xem thẻ lên máy bay và hộ chiếu.",
+      "note": "Danh từ. Là tấm thẻ (giấy hoặc điện tử) bạn nhận sau khi check-in, ghi số ghế và cửa lên máy bay."
+    },
+    {
+      "term": "luggage",
+      "ipa": "/ˈlʌɡ.ɪdʒ/",
+      "vi": "hành lý (danh từ)",
+      "register": "neutral",
+      "example": "I have one bag of luggage to check in.",
+      "exampleVi": "Tôi có một kiện hành lý cần ký gửi.",
+      "note": "Danh từ KHÔNG đếm được: không nói 'a luggage' hay 'luggages'. Muốn đếm thì nói 'a piece of luggage'.",
+      "synonyms": [
+        { "term": "baggage", "ipa": "/ˈbæɡ.ɪdʒ/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'luggage', cũng không đếm được. Người Mỹ hay dùng 'baggage' (vd 'baggage claim' = nơi nhận hành lý); người Anh nghiêng về 'luggage'." },
+        { "term": "suitcase", "ipa": "/ˈsuːt.keɪs/", "register": "neutral", "nuanceVi": "Chỉ MỘT chiếc vali cụ thể, đếm được ('two suitcases'). Hẹp hơn 'luggage' (chỉ toàn bộ đồ đạc nói chung)." }
+      ]
+    },
+    {
+      "term": "gate",
+      "ipa": "/ɡeɪt/",
+      "vi": "cửa lên máy bay (danh từ)",
+      "register": "neutral",
+      "example": "Your flight leaves from gate 12.",
+      "exampleVi": "Chuyến bay của bạn khởi hành từ cửa số 12.",
+      "note": "Danh từ. Là cửa nơi bạn lên máy bay, có đánh số. Đừng nhầm với 'gate' nghĩa 'cổng' thông thường."
+    },
+    {
+      "term": "flight",
+      "ipa": "/flaɪt/",
+      "vi": "chuyến bay (danh từ)",
+      "register": "neutral",
+      "example": "My flight to Tokyo is at 9 a.m.",
+      "exampleVi": "Chuyến bay đến Tokyo của tôi lúc 9 giờ sáng.",
+      "note": "Danh từ. Đi với giới từ 'to' cho điểm đến: 'a flight TO London'."
+    },
+    {
+      "term": "to board",
+      "ipa": "/bɔːrd/",
+      "vi": "lên máy bay (động từ)",
+      "register": "neutral",
+      "example": "We will board the plane in ten minutes.",
+      "exampleVi": "Chúng ta sẽ lên máy bay sau mười phút nữa.",
+      "note": "Động từ. 'boarding' là lúc hành khách đang lên máy bay; 'boarding time' là giờ lên máy bay (thường trước giờ bay).",
+      "synonyms": [
+        { "term": "to get on", "ipa": "/ɡet ɒn/", "register": "casual", "nuanceVi": "Đời thường, dễ hiểu: 'get on the plane'. Tự nhiên khi nói chuyện bình thường, nhưng kém trang trọng hơn 'board'." }
+      ]
+    },
+    {
+      "term": "to check in",
+      "ipa": "/tʃek ɪn/",
+      "vi": "làm thủ tục check-in (động từ)",
+      "register": "neutral",
+      "example": "You should check in two hours before your flight.",
+      "exampleVi": "Bạn nên làm thủ tục check-in hai tiếng trước giờ bay.",
+      "note": "Là cụm động từ (tách rời: 'check in'). Danh từ là 'check-in' (có gạch nối): 'the check-in desk' (quầy làm thủ tục)."
+    },
+    {
+      "term": "delayed",
+      "ipa": "/dɪˈleɪd/",
+      "vi": "bị hoãn, bị trễ giờ (tính từ)",
+      "register": "neutral",
+      "example": "Unfortunately, the flight is delayed by two hours.",
+      "exampleVi": "Thật không may, chuyến bay bị hoãn hai tiếng.",
+      "note": "Tính từ. Trái nghĩa là 'on time' (đúng giờ). Bảng thông báo hay hiện 'Delayed' hoặc 'On time'.",
+      "synonyms": [
+        { "term": "late", "ipa": "/leɪt/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'trễ'. 'Delayed' nghe chính thức hơn và hay xuất hiện trên bảng điện ở sân bay." },
+        { "term": "postponed", "ipa": "/pəˈspəʊnd/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'dời sang thời điểm khác'. Thường dùng cho sự kiện được lên kế hoạch lại, ít dùng cho việc chuyến bay trễ vài tiếng." }
+      ]
+    },
+    {
+      "term": "departure",
+      "ipa": "/dɪˈpɑːr.tʃər/",
+      "vi": "sự khởi hành, chuyến đi (danh từ)",
+      "register": "neutral",
+      "example": "The departure time is on your boarding pass.",
+      "exampleVi": "Giờ khởi hành ghi trên thẻ lên máy bay của bạn.",
+      "note": "Danh từ. Trái nghĩa là 'arrival' (sự đến nơi). Biển ở sân bay: 'Departures' (đi) và 'Arrivals' (đến)."
+    },
+    {
+      "term": "heavy",
+      "ipa": "/ˈhev.i/",
+      "vi": "nặng (tính từ)",
+      "register": "neutral",
+      "example": "My suitcase is too heavy, so I have to pay extra.",
+      "exampleVi": "Vali của tôi quá nặng nên tôi phải trả thêm phí.",
+      "note": "Tính từ. Trái nghĩa là 'light' (nhẹ). Hành lý quá cân gọi là 'overweight'.",
+      "synonyms": [
+        { "term": "overweight", "ipa": "/ˌəʊ.vəˈweɪt/", "register": "neutral", "nuanceVi": "Cụ thể hơn 'heavy': nghĩa 'vượt quá mức cân cho phép'. Dùng đúng cho hành lý quá cân ở sân bay." }
+      ]
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Please listen carefully to the announcements.",
+      "exampleVi": "Vui lòng nghe kỹ các thông báo.",
+      "note": "Trạng từ, bổ nghĩa cho động từ. Tính từ là 'careful' (cẩn thận).",
+      "synonyms": [
+        { "term": "closely", "ipa": "/ˈkləʊs.li/", "register": "neutral", "nuanceVi": "Nhấn 'chú ý sát sao': 'listen closely', 'watch closely'. Gần nghĩa nhưng thiên về theo dõi/quan sát kỹ." }
+      ]
+    },
+    {
+      "term": "aisle seat",
+      "ipa": "/ˈaɪl siːt/",
+      "vi": "ghế cạnh lối đi (danh từ)",
+      "register": "neutral",
+      "example": "Could I have an aisle seat, please?",
+      "exampleVi": "Cho tôi xin ghế cạnh lối đi được không?",
+      "note": "Bẫy phát âm: chữ 's' trong 'aisle' CÂM, đọc là /aɪl/. Đối lập là 'window seat' (ghế cạnh cửa sổ)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to [động từ nguyên thể], please.",
+      "use": "Đưa ra một yêu cầu đơn giản, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to check in for my flight, please.",
+        "I'd like to take this bag on board, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want to' (nghe hơi cộc). Đây là mẫu câu cơ bản và an toàn nhất khi yêu cầu điều gì ở sân bay.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I have [danh từ], please?",
+      "use": "Xin một thứ gì đó một cách lịch sự (ghế, nhãn hành lý...).",
+      "register": "neutral",
+      "examples": [
+        "Could I have a window seat, please?",
+        "Could I have an aisle seat near the front, please?"
+      ],
+      "explanationVi": "'Could I have...?' lịch sự hơn 'Can I have...?' và rất hợp khi nói với nhân viên. Nhớ thêm 'please' để nghe nhã nhặn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "What time does [danh từ] [động từ]?",
+      "use": "Hỏi giờ giấc của chuyến bay, việc lên máy bay...",
+      "register": "neutral",
+      "examples": [
+        "What time does the flight leave?",
+        "What time does boarding start?"
+      ],
+      "explanationVi": "Câu hỏi thì hiện tại đơn cho lịch trình cố định: với chủ ngữ số ít dùng 'does' + động từ nguyên thể. Rất thông dụng để hỏi giờ ở sân bay."
+    },
+    {
+      "pattern": "Where is [danh từ]?",
+      "use": "Hỏi vị trí, đường đi đến một nơi trong sân bay.",
+      "register": "neutral",
+      "examples": [
+        "Where is gate 12?",
+        "Where is the baggage claim?"
+      ],
+      "explanationVi": "Mẫu hỏi vị trí cơ bản nhất. Với số nhiều dùng 'Where are...?' (vd 'Where are the toilets?')."
+    },
+    {
+      "pattern": "Excuse me, can you tell me [câu hỏi gián tiếp]?",
+      "use": "Hỏi thông tin một cách lịch sự khi bắt chuyện với người lạ.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, can you tell me where gate 12 is?",
+        "Excuse me, can you tell me which gate my flight leaves from?"
+      ],
+      "explanationVi": "'Excuse me' để mở lời lịch sự. Lưu ý câu hỏi gián tiếp sau 'tell me' KHÔNG đảo ngữ: 'where gate 12 IS', không phải 'where IS gate 12'."
+    },
+    {
+      "pattern": "Is the flight on time?",
+      "use": "Hỏi xem chuyến bay có đúng giờ hay bị hoãn.",
+      "register": "neutral",
+      "examples": [
+        "Is the flight on time?",
+        "Is flight VN123 delayed?"
+      ],
+      "explanationVi": "'on time' = đúng giờ; 'delayed' = bị hoãn. Hai từ trái nghĩa rất hay dùng khi theo dõi tình trạng chuyến bay."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "excuse me", "ipa": "/ɪkˈskjuːz miː/", "vi": "xin lỗi (để bắt chuyện/nhờ vả)", "when": "Mở lời lịch sự khi muốn hỏi hoặc nhờ người lạ.", "example": "Excuse me, where is the check-in desk?" },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ... (làm câu nói nhẹ nhàng hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.", "example": "I just have one small bag." },
+    { "term": "unfortunately", "ipa": "/ʌnˈfɔː.tʃən.ət.li/", "vi": "thật không may", "when": "Dẫn vào một tin không vui (chuyến bay hoãn, hành lý quá cân).", "example": "Unfortunately, your flight is delayed." },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Vui vẻ đồng ý với một yêu cầu.", "example": "Of course, here is your boarding pass." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin mà không muốn cộc lốc.", "example": "Actually, I'd prefer a window seat." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang ở sân bay, tới quầy check-in để làm thủ tục cho chuyến bay và gửi hành lý. Nhân viên hàng không giúp bạn check-in, chọn ghế và hỏi về hành lý.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! May I see your passport and your ticket, please?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ meɪ aɪ siː jɔːr ˈpæs.pɔːrt ænd jɔːr ˈtɪk.ɪt pliːz/",
+        "vi": "Chào buổi sáng! Cho tôi xem hộ chiếu và vé của bạn được không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. Here you are. I'd like to ____ in for my flight to Singapore, please.",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ hɪər juː ɑːr aɪd laɪk tə ... ɪn fɔːr maɪ flaɪt tə ˈsɪŋ.ə.pɔːr pliːz/",
+        "vi": "Chào buổi sáng. Đây ạ. Tôi muốn ____ thủ tục cho chuyến bay đến Singapore.",
+        "blanks": [
+          { "type": "knowledge", "answer": "check", "explanationVi": "Cụm động từ 'check in' = làm thủ tục lên máy bay. Sau 'I'd like to' luôn là động từ nguyên thể. Xem mẫu câu 'I'd like to + động từ, please.'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. Do you have any luggage to check in today, or just hand luggage?",
+        "ipa": "/əv ˈkɔːrs duː juː hæv ˈen.i ˈlʌɡ.ɪdʒ tə tʃek ɪn təˈdeɪ ɔːr dʒʌst hænd ˈlʌɡ.ɪdʒ/",
+        "vi": "Tất nhiên rồi. Hôm nay bạn có hành lý ký gửi không, hay chỉ có hành lý xách tay thôi?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I have one suitcase to check in, and I'd like to take ____ small bag on board with me.",
+        "ipa": "/aɪ hæv wʌn ˈsuːt.keɪs tə tʃek ɪn ænd aɪd laɪk tə teɪk ... smɔːl bæɡ ɒn bɔːrd wɪð miː/",
+        "vi": "Tôi có một vali ký gửi, và tôi muốn mang ____ túi nhỏ lên máy bay cùng mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "one", "explanationVi": "Dùng 'one' (hoặc 'a') trước danh từ đếm được số ít 'small bag'. Ở đây 'one' nhấn vào số lượng: chỉ một túi xách tay." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me weigh your suitcase. I'm sorry, but it is a little ____, so it weighs 25 kilos. The limit is 23 kilos.",
+        "ipa": "/let miː weɪ jɔːr ˈsuːt.keɪs aɪm ˈsɒr.i bʌt ɪt ɪz ə ˈlɪt.əl ... səʊ ɪt weɪz ˈtwen.ti faɪv ˈkiː.ləʊz ðə ˈlɪm.ɪt ɪz ˈtwen.ti θriː ˈkiː.ləʊz/",
+        "vi": "Để tôi cân vali của bạn. Tôi xin lỗi, nhưng nó hơi ____ một chút, nặng 25 kí. Giới hạn là 23 kí.",
+        "blanks": [
+          { "type": "knowledge", "answer": "heavy", "explanationVi": "Tính từ 'heavy' = nặng. Sau 'a little' đi với tính từ. Hành lý quá cân còn gọi là 'overweight'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh, I'm sorry. ____ I take a few things out and put them in my hand luggage?",
+        "ipa": "/əʊ aɪm ˈsɒr.i ... aɪ teɪk ə fjuː θɪŋz aʊt ænd pʊt ðem ɪn maɪ hænd ˈlʌɡ.ɪdʒ/",
+        "vi": "Ồ, xin lỗi. Tôi ____ lấy bớt vài món ra và cho vào hành lý xách tay được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Could", "explanationVi": "Dùng 'Could I...?' để xin phép một cách lịch sự, lịch sự hơn 'Can I...?'. Sau chủ ngữ là động từ nguyên thể 'take'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course, that's a good idea. Now, would you prefer a window seat or an aisle seat?",
+        "ipa": "/əv ˈkɔːrs ðæts ə ɡʊd aɪˈdɪər naʊ wʊd juː prɪˈfɜːr ə ˈwɪn.dəʊ siːt ɔːr ən ˈaɪl siːt/",
+        "vi": "Tất nhiên rồi, đó là ý hay. Giờ thì, bạn muốn ghế cạnh cửa sổ hay ghế cạnh lối đi?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Could I have ____ aisle seat, please? Also, what time does the flight ____, and which gate do I go to?",
+        "ipa": "/kʊd aɪ hæv ... ˈaɪl siːt pliːz ˈɔːl.səʊ wɒt taɪm dʌz ðə flaɪt ... ænd wɪtʃ ɡeɪt duː aɪ ɡəʊ tuː/",
+        "vi": "Cho tôi xin ____ ghế cạnh lối đi được không? Với lại, chuyến bay ____ lúc mấy giờ, và tôi ra cửa số mấy?",
+        "blanks": [
+          { "type": "knowledge", "answer": "an", "explanationVi": "Dùng mạo từ 'an' trước 'aisle' vì 'aisle' bắt đầu bằng nguyên âm khi đọc (/aɪl/, chữ 's' câm). Quy tắc: 'a' trước phụ âm, 'an' trước nguyên âm." },
+          { "type": "knowledge", "answer": "leave", "explanationVi": "Câu hỏi 'What time does the flight leave?' dùng thì hiện tại đơn cho lịch trình. Sau 'does' là động từ nguyên thể 'leave' (khởi hành)." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Your flight leaves at 10:30 from gate 15. Here is your boarding pass — please listen ____ to the announcements. Have a good trip!",
+        "ipa": "/jɔːr flaɪt liːvz ət ten ˈθɜːr.ti frɒm ɡeɪt fɪfˈtiːn hɪər ɪz jɔːr ˈbɔːr.dɪŋ pæs pliːz ˈlɪs.ən ... tə ði əˈnaʊns.mənts hæv ə ɡʊd trɪp/",
+        "vi": "Chuyến bay của bạn khởi hành lúc 10:30 từ cửa số 15. Đây là thẻ lên máy bay của bạn — vui lòng nghe ____ các thông báo. Chúc bạn chuyến đi vui vẻ!",
+        "blanks": [
+          { "type": "knowledge", "answer": "carefully", "explanationVi": "Trạng từ 'carefully' (cẩn thận) bổ nghĩa cho động từ 'listen'. Trạng từ chỉ cách thức thường đứng sau động từ." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Bạn nên đến sân bay sớm: thường 2 tiếng trước chuyến bay nội địa và 3 tiếng trước chuyến bay quốc tế, để kịp check-in và qua an ninh.",
+    "Mỗi hãng có giới hạn cân hành lý khác nhau (thường 20-23 kí cho ký gửi). Quá cân sẽ bị tính phí, nên cân thử ở nhà trước.",
+    "Bảng điện ở sân bay hiển thị 'On time' (đúng giờ), 'Delayed' (hoãn) hoặc 'Boarding' (đang lên máy bay) — hãy theo dõi cửa và giờ của bạn.",
+    "Khi qua khu an ninh, bạn thường phải bỏ chất lỏng (trên 100ml), laptop và áo khoác ra khay riêng để soi chiếu."
+  ],
+
+  "commonMistakes": [
+    "Nói 'a luggage' hoặc 'two luggages' là SAI — 'luggage' không đếm được. Muốn đếm thì nói 'a piece of luggage' hoặc dùng 'suitcase/bag'.",
+    "Phát âm sai 'aisle': chữ 's' câm, đọc là /aɪl/ (giống 'I'll'), không đọc 'ai-sồ'.",
+    "Nói 'I want a window seat' nghe cộc. Người bản xứ dùng 'Could I have...?' hoặc 'I'd like...' cho lịch sự.",
+    "Quên dùng mạo từ 'an' trước 'aisle' và 'hour' — dù viết bằng phụ âm, chúng bắt đầu bằng âm nguyên âm khi đọc."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống ở sân bay như thật.",
+    "prompt": "Hãy đóng vai một nhân viên hàng không nói tiếng Anh ở quầy check-in sân bay. Tôi là hành khách đến làm thủ tục. Hãy bắt đầu bằng cách chào tôi và xin xem hộ chiếu, vé. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ hành lý quá cân, chuyến bay bị hoãn, hết ghế cạnh lối đi) để tôi tập xử lý. Hãy dùng câu đơn giản, nói chậm rãi và thân thiện vì trình độ của tôi là A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm về lý do chuyến đi và nơi tôi sẽ ở.' để tập nói dài hơn.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất bằng tiếng Việt.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự làm được thủ tục check-in và báo về hành lý mà không nhìn gợi ý.",
+    "Tôi hỏi được giờ bay và cửa lên máy bay bằng câu 'What time...?' và 'Where is...?'.",
+    "Tôi dùng được mẫu 'Could I have...?' để xin ghế một cách lịch sự."
+  ]
+}

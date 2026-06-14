@@ -1,0 +1,325 @@
+{
+  "id": "road-trip",
+  "category": "travel",
+  "title": "Đi phượt / road trip",
+  "titleEn": "Going on a Road Trip",
+  "level": "B1",
+  "functions": ["suggesting", "asking-info", "describing", "small-talk"],
+  "estimatedMinutes": 17,
+  "objectives": [
+    "Lên kế hoạch và bàn bạc lộ trình cho một chuyến đi phượt bằng xe",
+    "Gợi ý điểm dừng chân, chia sẻ việc lái xe và phân chia chi phí",
+    "Mô tả phong cảnh và trải nghiệm trên đường bằng câu dài, tự nhiên",
+    "Dùng các trạng từ và liên từ (such as, although, in order to) khi nói về kế hoạch"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "road trip",
+      "ipa": "/ˈrəʊd trɪp/",
+      "vi": "chuyến đi chơi xa bằng ô tô (danh từ)",
+      "register": "neutral",
+      "example": "We're planning a road trip along the coast this summer.",
+      "exampleVi": "Mùa hè này chúng tôi định làm một chuyến phượt dọc bờ biển.",
+      "note": "Danh từ. Chỉ chuyến đi dài bằng xe hơi, thường nhiều ngày và tự lái. Đi với động từ 'go on / take': 'go on a road trip'.",
+      "synonyms": [
+        { "term": "drive", "ipa": "/draɪv/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chuyến lái xe', thường ngắn hơn. Vd 'a scenic drive' = một chặng lái xe ngắm cảnh." },
+        { "term": "excursion", "ipa": "/ɪkˈskɜː.ʒən/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'chuyến tham quan ngắn'. Thiên về đi chơi có tổ chức, không nhất thiết bằng xe tự lái." }
+      ]
+    },
+    {
+      "term": "itinerary",
+      "ipa": "/aɪˈtɪn.ər.ər.i/",
+      "vi": "lịch trình, hành trình (danh từ)",
+      "register": "neutral",
+      "example": "Our itinerary includes three national parks over five days.",
+      "exampleVi": "Lịch trình của chúng tôi gồm ba vườn quốc gia trong năm ngày.",
+      "note": "Danh từ. Là kế hoạch chi tiết các điểm đến và thời gian. Phát âm bẫy: nhấn âm 'tin' — /aɪˈtɪn.ər.ər.i/.",
+      "synonyms": [
+        { "term": "route", "ipa": "/ruːt/", "register": "neutral", "nuanceVi": "Nhấn vào 'con đường/tuyến đường đi', không bao gồm lịch thời gian. 'itinerary' rộng hơn (gồm cả điểm dừng, giờ giấc)." },
+        { "term": "schedule", "ipa": "/ˈʃed.juːl/", "register": "neutral", "nuanceVi": "Nhấn vào 'thời gian biểu'. Dùng khi quan trọng là giờ giấc; itinerary thiên về nơi chốn cả chuyến đi." }
+      ]
+    },
+    {
+      "term": "scenic",
+      "ipa": "/ˈsiː.nɪk/",
+      "vi": "đẹp như tranh, nhiều cảnh đẹp (tính từ)",
+      "register": "neutral",
+      "example": "We took the scenic route even though it was longer.",
+      "exampleVi": "Chúng tôi chọn con đường nhiều cảnh đẹp dù nó dài hơn.",
+      "note": "Tính từ. Hay đi cùng 'route', 'road', 'view'. 'the scenic route' = đường vòng nhưng phong cảnh đẹp.",
+      "synonyms": [
+        { "term": "picturesque", "ipa": "/ˌpɪk.tʃəˈresk/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ, nghĩa 'đẹp như một bức tranh'. Thường dùng cho làng mạc, thị trấn nhỏ." },
+        { "term": "breathtaking", "ipa": "/ˈbreθˌteɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn nhiều, nghĩa 'đẹp đến nghẹt thở'. Dùng khi cảnh thật sự choáng ngợp." }
+      ]
+    },
+    {
+      "term": "to set off",
+      "ipa": "/tə set ɒf/",
+      "vi": "khởi hành, lên đường (cụm động từ)",
+      "register": "neutral",
+      "example": "We should set off early to avoid the traffic.",
+      "exampleVi": "Chúng ta nên khởi hành sớm để tránh kẹt xe.",
+      "note": "Cụm động từ. Nhấn vào thời điểm bắt đầu một hành trình. Tương đương 'leave' nhưng nghe tự nhiên hơn khi nói về chuyến đi.",
+      "synonyms": [
+        { "term": "to head out", "ipa": "/tə hed aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đi ra, lên đường'. Rất tự nhiên trong văn nói thân mật." },
+        { "term": "to depart", "ipa": "/tə dɪˈpɑːt/", "register": "formal", "nuanceVi": "Trang trọng, hay thấy ở sân bay/bến tàu hoặc thông báo chính thức. Nghe cứng nếu dùng giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "to pull over",
+      "ipa": "/tə pʊl ˈəʊ.vər/",
+      "vi": "tấp xe vào lề, dừng xe bên đường (cụm động từ)",
+      "register": "neutral",
+      "example": "Let's pull over at the next rest stop to stretch our legs.",
+      "exampleVi": "Mình tấp vào trạm dừng tiếp theo để duỗi chân nhé.",
+      "note": "Cụm động từ. Dừng xe sát lề đường để nghỉ/đổi tài/chụp ảnh. Khác 'park' (đỗ xe hẳn ở bãi)."
+    },
+    {
+      "term": "rest stop",
+      "ipa": "/ˈrest stɒp/",
+      "vi": "trạm dừng nghỉ ven đường (danh từ)",
+      "register": "neutral",
+      "example": "There's a rest stop with a café about ten miles ahead.",
+      "exampleVi": "Có một trạm dừng nghỉ kèm quán cà phê cách đây khoảng mười dặm.",
+      "note": "Danh từ. Nơi ven đường cao tốc để đi vệ sinh, ăn nhẹ, đổ xăng. Anh-Anh hay gọi là 'services' hoặc 'lay-by'.",
+      "synonyms": [
+        { "term": "service station", "ipa": "/ˈsɜː.vɪs ˌsteɪ.ʃən/", "register": "neutral", "nuanceVi": "Nhấn vào nơi có trạm xăng + cửa hàng tiện lợi. Phổ biến ở Anh ('services')." }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔː.stɪd/",
+      "vi": "kiệt sức, mệt lả (tính từ)",
+      "register": "neutral",
+      "example": "After driving for six hours, I was completely exhausted.",
+      "exampleVi": "Sau sáu tiếng lái xe, tôi kiệt sức hoàn toàn.",
+      "note": "Tính từ mạnh, mạnh hơn 'tired' nhiều. Là tính từ -ed nên miêu tả cảm giác của người.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mệt rã rời'. Tự nhiên trong văn nói, gần nghĩa exhausted." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn vào 'cạn kiệt năng lượng', thường cả về thể chất lẫn tinh thần." }
+      ]
+    },
+    {
+      "term": "to split the cost",
+      "ipa": "/tə splɪt ðə kɒst/",
+      "vi": "chia đều chi phí (cụm động từ)",
+      "register": "neutral",
+      "example": "Why don't we split the cost of fuel and tolls?",
+      "exampleVi": "Hay là mình chia đều tiền xăng và phí cầu đường nhé?",
+      "note": "Cụm động từ. Chia tiền theo đầu người. Đi với 'split the cost OF something'. Đồng nghĩa thân mật: 'go halves'."
+    },
+    {
+      "term": "spontaneous",
+      "ipa": "/spɒnˈteɪ.ni.əs/",
+      "vi": "tùy hứng, ngẫu hứng (tính từ)",
+      "register": "neutral",
+      "example": "I like being spontaneous and stopping wherever looks interesting.",
+      "exampleVi": "Tôi thích đi tùy hứng, thấy chỗ nào hay thì dừng lại.",
+      "note": "Tính từ. Mang sắc thái tích cực: không lên kế hoạch cứng, làm theo cảm hứng lúc đó.",
+      "synonyms": [
+        { "term": "impulsive", "ipa": "/ɪmˈpʌl.sɪv/", "register": "neutral", "nuanceVi": "Hơi tiêu cực hơn: 'bốc đồng', hành động thiếu suy nghĩ. Spontaneous nghe vui vẻ, impulsive nghe hấp tấp." }
+      ]
+    },
+    {
+      "term": "comfortably",
+      "ipa": "/ˈkʌm.fə.tə.bli/",
+      "vi": "một cách thoải mái, dễ chịu (trạng từ)",
+      "register": "neutral",
+      "example": "If we leave now, we can comfortably reach the hotel before dark.",
+      "exampleVi": "Nếu đi bây giờ, ta thừa sức tới khách sạn trước khi trời tối.",
+      "note": "Trạng từ. Ngoài nghĩa 'thoải mái', còn nghĩa 'dư dả, dễ dàng' (đủ thời gian/khả năng). Phát âm gọn: /ˈkʌm.fə.tə.bli/.",
+      "synonyms": [
+        { "term": "easily", "ipa": "/ˈiː.zəl.i/", "register": "neutral", "nuanceVi": "Nhấn vào 'dễ dàng, không tốn sức'. Gần nghĩa khi nói 'thừa sức làm được'." }
+      ]
+    },
+    {
+      "term": "to refuel",
+      "ipa": "/ˌriːˈfjuːl/",
+      "vi": "đổ thêm xăng/nhiên liệu (động từ)",
+      "register": "neutral",
+      "example": "We'd better refuel before we reach the mountains.",
+      "exampleVi": "Tốt nhất nên đổ xăng trước khi vào vùng núi.",
+      "note": "Động từ. Anh-Mỹ hay nói 'get gas / fill up'; 'refuel' trung tính, hơi trang trọng hơn một chút.",
+      "synonyms": [
+        { "term": "to fill up", "ipa": "/tə fɪl ʌp/", "register": "casual", "nuanceVi": "Đời thường, rất phổ biến: 'fill up the tank' = đổ đầy bình. Tự nhiên hơn refuel khi nói chuyện." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Why don't we + [động từ nguyên thể]?",
+      "use": "Gợi ý một ý tưởng cho cả nhóm một cách thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Why don't we take the coastal road instead of the motorway?",
+        "Why don't we stop for lunch in the next town?"
+      ],
+      "explanationVi": "Câu hỏi phủ định 'Why don't we...?' không phải để hỏi lý do, mà là cách gợi ý nhẹ nhàng (= 'Hay là mình...?'). Rất tự nhiên khi rủ rê bạn bè.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "How about + [V-ing / danh từ]?",
+      "use": "Đề xuất một phương án để mọi người cân nhắc.",
+      "register": "casual",
+      "examples": [
+        "How about setting off at six to beat the traffic?",
+        "How about a quick coffee at the next rest stop?"
+      ],
+      "explanationVi": "Sau 'How about' phải dùng V-ing hoặc danh từ, KHÔNG dùng động từ nguyên thể. Mềm và thân thiện, hợp khi bàn kế hoạch.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "We could + [động từ nguyên thể], such as + [ví dụ].",
+      "use": "Đưa ra gợi ý kèm ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "We could visit a few landmarks along the way, such as the old lighthouse and the waterfall."
+      ],
+      "explanationVi": "'could' làm gợi ý nghe nhẹ (không áp đặt). 'such as' dùng để nêu ví dụ minh họa — nêu ví dụ cụ thể giúp người nghe dễ hình dung.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I think we should + [động từ] in order to + [động từ].",
+      "use": "Đề xuất một việc kèm lý do/mục đích.",
+      "register": "neutral",
+      "examples": [
+        "I think we should set off early in order to avoid the afternoon traffic."
+      ],
+      "explanationVi": "'in order to + V' nêu mục đích (= để mà...), trang trọng và rõ ràng hơn 'to' đơn thuần. Kết hợp với 'should' để đưa lời khuyên có lý do."
+    },
+    {
+      "pattern": "Although [mệnh đề], it's worth + [V-ing].",
+      "use": "Thừa nhận một bất tiện nhưng vẫn khẳng định điều đó đáng làm.",
+      "register": "neutral",
+      "examples": [
+        "Although the scenic route takes longer, it's worth driving for the views."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù...). 'it's worth + V-ing' = đáng để làm gì. Bộ đôi này rất hợp để bảo vệ một lựa chọn."
+    },
+    {
+      "pattern": "Shall we + [động từ nguyên thể]?",
+      "use": "Rủ rê / đề nghị cùng làm gì, chờ sự đồng ý.",
+      "register": "neutral",
+      "examples": [
+        "Shall we split the cost of fuel and tolls?",
+        "Shall we pull over for a short break?"
+      ],
+      "explanationVi": "'Shall we...?' là cách rủ lịch sự, phổ biến ở Anh-Anh, hàm ý chờ người kia gật đầu. Nghe nhã hơn 'Do you want to...?'.",
+      "altOf": "making-suggestion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi trái với người kia.", "example": "Honestly, I'd rather take the longer route if the views are better." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại hoặc bổ sung thông tin một cách nhẹ nhàng.", "example": "Actually, the petrol station is on the other side of the highway." },
+    { "term": "eventually", "ipa": "/ɪˈven.tʃu.ə.li/", "vi": "cuối cùng thì (sau một quá trình)", "when": "Kể kết quả đạt được sau khi đi/cố gắng một hồi.", "example": "After a few wrong turns, we eventually found the campsite." },
+    { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "vi": "may là, may mắn thay", "when": "Dẫn vào một điều may mắn sau tình huống căng.", "example": "Luckily, there was a rest stop just before we ran out of fuel." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời thẳng thắn, hơi tế nhị.", "example": "To be honest, I'm a bit too tired to keep driving right now." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn và một người bạn (Minh) đang ngồi xem bản đồ, lên kế hoạch cho một chuyến phượt cuối tuần bằng ô tô dọc bờ biển.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "So, the weather looks perfect this weekend. Why don't we finally go on that road trip we've been talking about for months?",
+        "ipa": "/səʊ ðə ˈweð.ər lʊks ˈpɜː.fɪkt ðɪs ˌwiːkˈend waɪ dəʊnt wiː ˈfaɪ.nə.li ɡəʊ ɒn ðæt ˈrəʊd trɪp wiːv biːn ˈtɔː.kɪŋ əˈbaʊt fɔːr mʌnθs/",
+        "vi": "Này, cuối tuần này thời tiết đẹp tuyệt. Hay là mình làm chuyến phượt mà tụi mình bàn mấy tháng nay đi?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd love that! Honestly, I really need a break. How about setting off ____ on Saturday morning in order to avoid the weekend traffic?",
+        "ipa": "/aɪd lʌv ðæt ˈɒn.ɪst.li aɪ ˈrɪə.li niːd ə breɪk haʊ əˈbaʊt ˈset.ɪŋ ɒf ... ɒn ˈsæt.ə.deɪ ˈmɔː.nɪŋ ɪn ˈɔː.dər tə əˈvɔɪd ðə ˌwiːkˈend ˈtræf.ɪk/",
+        "vi": "Tôi thích lắm! Thật lòng mà nói, tôi rất cần nghỉ ngơi. Hay mình khởi hành ____ vào sáng thứ Bảy để tránh kẹt xe cuối tuần nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "early", "explanationVi": "Dùng trạng từ 'early' (sớm) để nói rõ thời điểm khởi hành: 'setting off early' là cụm rất tự nhiên. Lưu ý sau 'How about' dùng V-ing (setting off), không dùng động từ nguyên thể. Xem mẫu câu 'How about + V-ing' và 'in order to'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Good idea. Now, about the route — although the motorway is faster, I think we should take the scenic coastal road, ____ runs right along the cliffs.",
+        "ipa": "/ɡʊd aɪˈdɪə naʊ əˈbaʊt ðə ruːt ɔːlˈðəʊ ðə ˈməʊ.tə.weɪ ɪz ˈfɑːs.tər aɪ θɪŋk wiː ʃʊd teɪk ðə ˈsiː.nɪk ˈkəʊ.stəl rəʊd ... rʌnz raɪt əˈlɒŋ ðə klɪfs/",
+        "vi": "Ý hay đấy. Giờ tới chuyện lộ trình — dù đường cao tốc nhanh hơn, tôi nghĩ mình nên đi con đường ven biển nhiều cảnh đẹp, ____ chạy men theo vách đá.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'the scenic coastal road' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I completely agree. Although it takes a bit longer, it's definitely worth it for the views. We could also stop at a few places along the way, ____ as that old fishing village and the lighthouse.",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː ɔːlˈðəʊ ɪt teɪks ə bɪt ˈlɒŋ.ɡər ɪts ˈdef.ɪn.ət.li wɜːθ ɪt fɔːr ðə vjuːz wiː kʊd ˈɔːl.səʊ stɒp ət ə fjuː ˈpleɪ.sɪz əˈlɒŋ ðə weɪ ... æz ðæt əʊld ˈfɪʃ.ɪŋ ˈvɪl.ɪdʒ ænd ðə ˈlaɪt.haʊs/",
+        "vi": "Tôi hoàn toàn đồng ý. Dù lâu hơn chút, nhưng cảnh đẹp thì rất đáng. Mình cũng có thể ghé vài chỗ dọc đường, ____ như cái làng chài cũ và ngọn hải đăng kia.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "Cụm 'such as' dùng để nêu ví dụ minh họa cho 'a few places'. Nêu ví dụ cụ thể giúp người nghe hình dung rõ hơn. Xem mẫu câu 'We could..., such as...'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Perfect. One more thing — driving for hours can be exhausting, so shall we ____ the cost of fuel and take turns at the wheel?",
+        "ipa": "/ˈpɜː.fɪkt wʌn mɔːr θɪŋ ˈdraɪ.vɪŋ fɔːr ˈaʊəz kæn biː ɪɡˈzɔː.stɪŋ səʊ ʃæl wiː ... ðə kɒst ɒv ˈfjuː.əl ænd teɪk tɜːnz ət ðə wiːl/",
+        "vi": "Tuyệt. Còn một điều nữa — lái xe mấy tiếng liền dễ kiệt sức lắm, nên hay mình ____ tiền xăng và thay phiên nhau cầm lái nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "split", "explanationVi": "Dùng động từ 'split' trong cụm 'split the cost' (chia đều chi phí). Sau 'shall we' luôn là động từ nguyên thể. Xem mẫu câu 'Shall we...?'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds fair. Not only will it save money, but it also means neither of us gets too tired. By the way, where do you think we should stay on the first night, ____?",
+        "ipa": "/ðæt saʊndz feər nɒt ˈəʊn.li wɪl ɪt seɪv ˈmʌn.i bʌt ɪt ˈɔːl.səʊ miːnz ˈnaɪð.ər ɒv ʌs ɡets tuː ˈtaɪəd baɪ ðə weɪ weər duː juː θɪŋk wiː ʃʊd steɪ ɒn ðə fɜːst naɪt/",
+        "vi": "Nghe công bằng đấy. Như vậy không những tiết kiệm tiền, mà còn để không ai trong hai đứa quá mệt. Tiện thể, cậu nghĩ tối đầu tiên mình nên nghỉ ở ____?",
+        "blanks": [
+          { "type": "personal", "hint": "Một địa điểm nghỉ chân tùy bạn chọn. Ví dụ: 'a small seaside town', 'a campsite by the lake'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I was thinking of a small guesthouse by the beach, which a friend of mine recommended. It's affordable, and we can be quite ____ — if we like a place, we simply stay an extra night.",
+        "ipa": "/aɪ wɒz ˈθɪŋ.kɪŋ ɒv ə smɔːl ˈɡest.haʊs baɪ ðə biːtʃ wɪtʃ ə frend ɒv maɪn ˌrek.əˈmen.dɪd ɪts əˈfɔː.də.bəl ænd wiː kæn biː kwaɪt ... ɪf wiː laɪk ə pleɪs wiː ˈsɪm.pli steɪ ən ˈek.strə naɪt/",
+        "vi": "Tôi đang tính một nhà nghỉ nhỏ ngay cạnh biển, chỗ mà một người bạn của tôi giới thiệu. Giá phải chăng, và mình có thể khá ____ — chỗ nào thích thì cứ ở thêm một đêm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "spontaneous", "explanationVi": "Dùng tính từ 'spontaneous' (tùy hứng) sau động từ 'be'. Sắc thái tích cực: đi theo cảm hứng, không gò bó lịch trình." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I love that idea — being a little spontaneous is the best part of any road trip. Let's make a rough ____ tonight, fill up the tank tomorrow morning, and just see where the road takes us.",
+        "ipa": "/aɪ lʌv ðæt aɪˈdɪə ˈbiː.ɪŋ ə ˈlɪt.əl spɒnˈteɪ.ni.əs ɪz ðə best pɑːt ɒv ˈen.i ˈrəʊd trɪp lets meɪk ə rʌf ... təˈnaɪt fɪl ʌp ðə tæŋk təˈmɒr.əʊ ˈmɔː.nɪŋ ænd dʒʌst siː weər ðə rəʊd teɪks ʌs/",
+        "vi": "Tôi mê ý đó luôn — đi tùy hứng một chút mới là phần hay nhất của mọi chuyến phượt. Tối nay mình phác một ____ sơ sơ, sáng mai đổ đầy bình, rồi cứ thế đi tới đâu hay tới đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "itinerary", "explanationVi": "Dùng danh từ 'itinerary' (lịch trình). 'a rough itinerary' = một lịch trình sơ bộ, không quá chi tiết — hợp với tinh thần đi tùy hứng." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở Mỹ và châu Âu, đi road trip (tự lái xe nhiều ngày) là kiểu du lịch rất phổ biến, đặc biệt với người trẻ và các gia đình vào kỳ nghỉ hè.",
+    "'The scenic route' không chỉ nghĩa đen (đường nhiều cảnh đẹp) mà còn là cách nói vui khi ai đó chọn đường vòng, đi lâu hơn — 'we took the scenic route' đôi khi hàm ý 'tụi tôi đi lạc/đi vòng'.",
+    "Chia tiền xăng và phí cầu đường giữa bạn bè là chuyện rất bình thường và được mong đợi; người phương Tây thường sòng phẳng, không ngại nói thẳng chuyện tiền nong.",
+    "Đơn vị khoảng cách khác nhau: Mỹ/Anh dùng dặm (miles), phần lớn châu Âu dùng ki-lô-mét (km) — nhớ để ý khi đọc biển báo và đặt mục tiêu quãng đường."
+  ],
+
+  "commonMistakes": [
+    "Dùng động từ nguyên thể sau 'How about': sai 'How about set off early', đúng phải là 'How about SETTING off early' (V-ing).",
+    "Nhầm 'such as' và 'like': cả hai đều nêu ví dụ, nhưng 'such as' tự nhiên và rõ ràng hơn trong câu trang trọng; tránh viết 'such like'.",
+    "Nói 'I'm boring' khi muốn nói mình chán — phải là 'I'm bored'. Tương tự, người mệt là 'exhausted/tired', còn 'exhausting' mô tả việc gây mệt.",
+    "Quên đảo trợ động từ sau 'Not only' đầu câu: đúng là 'Not only WILL it save money...', không phải 'Not only it will...'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện bàn kế hoạch cho một chuyến phượt như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang cùng tôi lên kế hoạch cho một chuyến phượt (road trip) cuối tuần bằng ô tô. Hãy bắt đầu bằng cách rủ tôi đi và hỏi tôi muốn đi đâu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, đề xuất lộ trình, điểm dừng, chỗ nghỉ, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (xe gần hết xăng, trời mưa, lạc đường) để tôi tập xử lý. Khuyến khích tôi dùng câu dài với 'such as', 'although', 'in order to' và các trạng từ như 'honestly', 'eventually'. Cuối buổi hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng nhiều thành ngữ về du lịch như người bản xứ.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai một nhân viên trạm xăng / lễ tân nhà nghỉ giữa chuyến đi để tôi tập tình huống thật.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gợi ý được lộ trình và điểm dừng bằng 'Why don't we...?', 'How about...?' hoặc 'Shall we...?' mà không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'such as', 'although' và 'in order to' khi bàn kế hoạch.",
+    "Tôi mô tả được phong cảnh và đề nghị chia chi phí một cách tự nhiên."
+  ]
+}

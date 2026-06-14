@@ -1,0 +1,357 @@
+{
+  "id": "softening-bad-news",
+  "category": "advanced",
+  "title": "Báo tin xấu khéo léo",
+  "titleEn": "Softening Bad News",
+  "level": "C1",
+  "functions": ["apologizing", "refusing", "negotiating", "opinions"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Báo một tin không vui (chậm tiến độ, từ chối, sa thải, hủy hợp đồng) một cách tế nhị, giữ thể diện cho cả hai bên",
+    "Dùng ngôn ngữ giảm nhẹ (hedging, cushioning) để câu nghe bớt phũ phàng, chuyên nghiệp",
+    "Đệm trước tin xấu bằng câu dẫn (preface) rồi mới vào thẳng vấn đề, kèm lời giải thích và phương án thay thế",
+    "Chuyển register linh hoạt giữa trang trọng và cảm thông tùy mức độ nghiêm trọng của tin",
+    "Vận dụng ngữ pháp nâng cao (despite, although, mệnh đề quan hệ, câu điều kiện, not only… but also) để diễn đạt mượt mà"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "setback",
+      "ipa": "/ˈset.bæk/",
+      "vi": "trở ngại / bước lùi (danh từ)",
+      "register": "neutral",
+      "example": "We've hit an unexpected setback that will push the launch back by two weeks.",
+      "exampleVi": "Chúng tôi gặp một trở ngại bất ngờ khiến việc ra mắt phải lùi lại hai tuần.",
+      "note": "Danh từ. Nghe nhẹ và 'có thể khắc phục' hơn 'failure' hay 'disaster' — chính vì thế rất hợp khi báo tin xấu mà vẫn giữ thái độ tích cực.",
+      "synonyms": [
+        { "term": "hiccup", "ipa": "/ˈhɪk.ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'trục trặc nhỏ, tạm thời'. Giảm nhẹ tối đa, hàm ý 'không có gì to tát', hợp khi nói thân mật." },
+        { "term": "obstacle", "ipa": "/ˈɒb.stə.kəl/", "register": "neutral", "nuanceVi": "Nhấn 'chướng ngại cản đường', trung tính; thiên về điều phải vượt qua chứ chưa hẳn là bước lùi đã xảy ra." },
+        { "term": "snag", "ipa": "/snæɡ/", "register": "casual", "nuanceVi": "Nghĩa 'vướng mắc nhỏ phát sinh'. Cụm 'hit a snag' rất tự nhiên khi báo có trục trặc bất ngờ." }
+      ]
+    },
+    {
+      "term": "to regret to inform",
+      "ipa": "/rɪˈɡret tu ɪnˈfɔːm/",
+      "vi": "rất tiếc phải báo (cụm động từ)",
+      "register": "formal",
+      "example": "I regret to inform you that your application has not been successful on this occasion.",
+      "exampleVi": "Tôi rất tiếc phải báo rằng đơn của bạn lần này chưa thành công.",
+      "note": "Cụm cố định, rất trang trọng, hay mở đầu thư/email báo tin xấu. Sau 'inform' luôn có tân ngữ người + 'that'. Nói miệng có thể dùng 'I'm afraid…' cho đỡ cứng.",
+      "synonyms": [
+        { "term": "to be sorry to say", "ipa": "/biː ˈsɒr.i tu seɪ/", "register": "neutral", "nuanceVi": "Nhẹ và ấm hơn, hợp khi nói trực tiếp với người quen, đồng nghiệp; bớt khô khan so với 'regret to inform'." },
+        { "term": "to break the news", "ipa": "/breɪk ðə njuːz/", "register": "neutral", "nuanceVi": "Thành ngữ, nghĩa 'là người báo tin (thường tin xấu)'. Nhấn vào hành động truyền tin chứ không phải nội dung." }
+      ]
+    },
+    {
+      "term": "to let someone down",
+      "ipa": "/let ˈsʌm.wʌn daʊn/",
+      "vi": "làm ai đó thất vọng / phụ lòng ai (cụm động từ)",
+      "register": "neutral",
+      "example": "I know this decision may let some of you down, and I genuinely apologise for that.",
+      "exampleVi": "Tôi biết quyết định này có thể khiến vài người trong số các bạn thất vọng, và tôi thành thật xin lỗi vì điều đó.",
+      "note": "Phrasal verb tách được: 'let you down'. Thể hiện sự đồng cảm với cảm xúc của người nghe — rất đắt khi báo tin xấu.",
+      "synonyms": [
+        { "term": "to disappoint", "ipa": "/ˌdɪs.əˈpɔɪnt/", "register": "neutral", "nuanceVi": "Trung tính, dùng được mọi ngữ cảnh; 'let down' đời thường và mang sắc thái cá nhân, tình cảm hơn." },
+        { "term": "to fail someone", "ipa": "/feɪl ˈsʌm.wʌn/", "register": "neutral", "nuanceVi": "Nặng hơn nhiều, hàm ý 'không làm tròn trách nhiệm với ai'. Dùng khi muốn nhận lỗi rõ ràng, chân thành." }
+      ]
+    },
+    {
+      "term": "unfortunate",
+      "ipa": "/ʌnˈfɔː.tʃən.ət/",
+      "vi": "đáng tiếc / không may (tính từ)",
+      "register": "neutral",
+      "example": "It's an unfortunate situation, but it's entirely beyond our control.",
+      "exampleVi": "Đây là tình huống đáng tiếc, nhưng hoàn toàn nằm ngoài tầm kiểm soát của chúng tôi.",
+      "note": "Tính từ. Làm tin nghe 'do hoàn cảnh' chứ không phải lỗi cá nhân, nên giảm nhẹ trách nhiệm khá khéo. Trạng từ: 'unfortunately'.",
+      "synonyms": [
+        { "term": "regrettable", "ipa": "/rɪˈɡret.ə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'điều khiến ta phải tiếc nuối'. Hay dùng trong thông báo chính thức." },
+        { "term": "disappointing", "ipa": "/ˌdɪs.əˈpɔɪn.tɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào cảm giác hụt hẫng vì không như kỳ vọng; 'unfortunate' nhấn 'do không may' nhiều hơn." }
+      ]
+    },
+    {
+      "term": "to reassure",
+      "ipa": "/ˌriː.əˈʃɔː/",
+      "vi": "trấn an / làm ai yên tâm (động từ)",
+      "register": "neutral",
+      "example": "Let me reassure you that we'll do everything we can to put this right.",
+      "exampleVi": "Để tôi trấn an rằng chúng tôi sẽ làm mọi thứ có thể để khắc phục chuyện này.",
+      "note": "Động từ, đi với tân ngữ người: 'reassure someone (that…)'. Đừng nhầm với 'ensure' (bảo đảm chắc chắn) hay 'insure' (mua bảo hiểm).",
+      "synonyms": [
+        { "term": "to put someone's mind at ease", "ipa": "/pʊt ˈsʌm.wʌnz maɪnd ət iːz/", "register": "neutral", "nuanceVi": "Thành ngữ, nghĩa 'làm cho ai bớt lo lắng'. Ấm áp, đời thường hơn 'reassure'." },
+        { "term": "to comfort", "ipa": "/ˈkʌm.fət/", "register": "neutral", "nuanceVi": "Thiên về an ủi mặt cảm xúc khi ai đang buồn; 'reassure' thiên về xua tan nỗi lo, sự bất an." }
+      ]
+    },
+    {
+      "term": "to delay",
+      "ipa": "/dɪˈleɪ/",
+      "vi": "trì hoãn / làm chậm trễ (động từ & danh từ)",
+      "register": "neutral",
+      "example": "Regrettably, we've had to delay shipment until the end of the month.",
+      "exampleVi": "Đáng tiếc là chúng tôi buộc phải hoãn giao hàng đến cuối tháng.",
+      "note": "Vừa là động từ vừa là danh từ ('a delay'). Khi báo tin, 'we've had to delay' (buộc phải hoãn) nghe bị động, đỡ giống lỗi chủ quan hơn 'we delayed'.",
+      "synonyms": [
+        { "term": "to postpone", "ipa": "/pəʊstˈpəʊn/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'dời sang thời điểm sau đã định'; nghe có kế hoạch hơn 'delay' (vốn hàm ý bị chậm ngoài ý muốn)." },
+        { "term": "to push back", "ipa": "/pʊʃ bæk/", "register": "casual", "nuanceVi": "Đời thường, công sở hay dùng: 'push the deadline back'. Nhẹ nhàng, linh hoạt." }
+      ]
+    },
+    {
+      "term": "tactfully",
+      "ipa": "/ˈtækt.fəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "neutral",
+      "example": "She handled the redundancies tactfully, treating everyone with respect.",
+      "exampleVi": "Cô ấy xử lý việc cắt giảm nhân sự một cách tế nhị, đối xử tôn trọng với mọi người.",
+      "note": "Trạng từ. 'tact' (danh từ) = sự khéo léo trong ứng xử. Đây chính là kỹ năng trọng tâm của bài này.",
+      "synonyms": [
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Nhấn 'khéo léo để giữ hòa khí, tránh xung đột', mang màu sắc đàm phán/ngoại giao." },
+        { "term": "delicately", "ipa": "/ˈdel.ɪ.kət.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, cẩn trọng với chủ đề nhạy cảm'; thiên về sự dịu dàng hơn là khôn khéo." },
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Đơn giản, đời thường: 'break it to him gently' = báo nhẹ nhàng cho anh ấy." }
+      ]
+    },
+    {
+      "term": "reluctantly",
+      "ipa": "/rɪˈlʌk.tənt.li/",
+      "vi": "một cách miễn cưỡng, bất đắc dĩ (trạng từ)",
+      "register": "neutral",
+      "example": "We have, reluctantly, decided to cancel the partnership.",
+      "exampleVi": "Chúng tôi, một cách miễn cưỡng, đã quyết định hủy hợp tác.",
+      "note": "Trạng từ. Hàm ý 'chẳng đặng đừng mới phải làm' — cho người nghe thấy bạn không hề muốn báo tin này, làm dịu cú sốc.",
+      "synonyms": [
+        { "term": "regretfully", "ipa": "/rɪˈɡret.fəl.i/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'với sự tiếc nuối'. Thiên về cảm xúc tiếc, còn 'reluctantly' nhấn sự không muốn làm." },
+        { "term": "grudgingly", "ipa": "/ˈɡrʌdʒ.ɪŋ.li/", "register": "neutral", "nuanceVi": "Nặng hơn, hơi tiêu cực: 'miễn cưỡng kèm khó chịu, hậm hực'. Cẩn thận, không hợp khi muốn lịch sự." }
+      ]
+    },
+    {
+      "term": "alternative",
+      "ipa": "/ɔːlˈtɜː.nə.tɪv/",
+      "vi": "phương án thay thế (danh từ & tính từ)",
+      "register": "neutral",
+      "example": "While we can't offer a refund, we'd be happy to suggest a couple of alternatives.",
+      "exampleVi": "Dù không thể hoàn tiền, chúng tôi rất sẵn lòng gợi ý vài phương án thay thế.",
+      "note": "Đưa ra alternative ngay sau tin xấu là chiến lược 'mềm hóa' kinh điển: không chỉ đóng cửa mà còn mở một lối khác.",
+      "synonyms": [
+        { "term": "option", "ipa": "/ˈɒp.ʃən/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính, nghĩa 'lựa chọn'. 'alternative' nhấn 'cái thay cho phương án ban đầu (đã hỏng)'." },
+        { "term": "workaround", "ipa": "/ˈwɜːk.ə.raʊnd/", "register": "neutral", "nuanceVi": "Nghĩa 'giải pháp tình thế, lách qua vấn đề'. Hay dùng trong công nghệ/vận hành khi chưa sửa được gốc rễ." }
+      ]
+    },
+    {
+      "term": "to come to a decision",
+      "ipa": "/kʌm tu ə dɪˈsɪʒ.ən/",
+      "vi": "đi đến một quyết định (cụm động từ)",
+      "register": "formal",
+      "example": "After much deliberation, we've come to a difficult decision.",
+      "exampleVi": "Sau nhiều cân nhắc, chúng tôi đã đi đến một quyết định khó khăn.",
+      "note": "Trang trọng hơn 'to decide'. Cụm 'after much deliberation' (sau nhiều cân nhắc) phía trước cho thấy quyết định không hề hấp tấp, giúp người nghe dễ chấp nhận.",
+      "synonyms": [
+        { "term": "to reach a conclusion", "ipa": "/riːtʃ ə kənˈkluː.ʒən/", "register": "formal", "nuanceVi": "Nhấn 'đi đến kết luận sau khi xem xét'; thiên về kết quả suy luận, hơi lý trí hơn." },
+        { "term": "to make up one's mind", "ipa": "/meɪk ʌp wʌnz maɪnd/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'dứt khoát quyết định'. Hợp khi nói thân mật, không hợp thông báo trang trọng." }
+      ]
+    },
+    {
+      "term": "candid",
+      "ipa": "/ˈkæn.dɪd/",
+      "vi": "thẳng thắn, thành thật (tính từ)",
+      "register": "formal",
+      "example": "I'd like to be completely candid with you about where things stand.",
+      "exampleVi": "Tôi muốn hoàn toàn thẳng thắn với bạn về tình hình hiện tại.",
+      "note": "Tính từ. Báo trước 'I'll be candid' giúp người nghe chuẩn bị tinh thần đón tin thật, mà vẫn nghe tôn trọng. Đừng nhầm với 'candied' (tẩm đường).",
+      "synonyms": [
+        { "term": "frank", "ipa": "/fræŋk/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, phổ biến hơn: 'to be frank…'. 'candid' nghe hơi trang trọng/tinh tế hơn một chút." },
+        { "term": "upfront", "ipa": "/ˌʌpˈfrʌnt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'nói thẳng ngay từ đầu, không giấu giếm'. Hợp văn nói hơn văn viết trang trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm afraid [mệnh đề].",
+      "use": "Mở đầu báo tin xấu một cách nhẹ nhàng, chuẩn bị tinh thần cho người nghe.",
+      "register": "neutral",
+      "examples": [
+        "I'm afraid we won't be able to meet the original deadline.",
+        "I'm afraid there's been a slight change to the plan."
+      ],
+      "explanationVi": "'I'm afraid' KHÔNG có nghĩa là 'tôi sợ' ở đây, mà là 'tôi e rằng…' — câu đệm lịch sự báo điều không vui sắp tới. Đây là cách mở mềm phổ biến nhất.",
+      "altOf": "delivering-bad-news"
+    },
+    {
+      "pattern": "Unfortunately / Regrettably, [mệnh đề].",
+      "use": "Báo tin xấu trang trọng, gắn tin với 'sự không may' để giảm cảm giác đổ lỗi.",
+      "register": "formal",
+      "examples": [
+        "Unfortunately, the supplier has let us down at the last minute.",
+        "Regrettably, we are unable to proceed with your request on this occasion."
+      ],
+      "explanationVi": "Đặt 'Unfortunately' / 'Regrettably' lên đầu câu báo trước rằng nội dung sắp tới là tin buồn. 'Regrettably' trang trọng hơn, hợp thông báo chính thức.",
+      "altOf": "delivering-bad-news"
+    },
+    {
+      "pattern": "I wish I could [V], but [mệnh đề].",
+      "use": "Từ chối khéo, thể hiện rằng bạn thực sự muốn giúp nhưng không thể.",
+      "register": "neutral",
+      "examples": [
+        "I wish I could approve this, but it's simply outside my authority.",
+        "I wish I could give you better news, but the budget has been frozen."
+      ],
+      "explanationVi": "'I wish I could + V' (giả định không có thật ở hiện tại) cho thấy thiện chí, làm lời từ chối nghe ấm áp chứ không lạnh lùng. Cấu trúc rất 'C1'.",
+      "altOf": "softening-refusal"
+    },
+    {
+      "pattern": "While I completely understand [danh từ], I'm not in a position to [V].",
+      "use": "Từ chối lịch sự sau khi đã thừa nhận và đồng cảm với mong muốn của đối phương.",
+      "register": "formal",
+      "examples": [
+        "While I completely understand your frustration, I'm not in a position to offer a full refund.",
+        "While I appreciate your enthusiasm, I'm not in a position to commit to that timeline."
+      ],
+      "explanationVi": "'While + mệnh đề' = mặc dù/trong khi; thừa nhận cảm xúc đối phương TRƯỚC rồi mới từ chối. 'not in a position to' = không ở vị thế/không có quyền — đổ trách nhiệm sang hoàn cảnh, không phải sự thiếu thiện chí.",
+      "altOf": "softening-refusal"
+    },
+    {
+      "pattern": "The good news is [mệnh đề]; the less good news is [mệnh đề].",
+      "use": "Đệm tin tốt trước, tin xấu sau để cân bằng cảm xúc (sandwich technique).",
+      "register": "neutral",
+      "examples": [
+        "The good news is the design was approved; the less good news is the timeline has slipped.",
+        "The good news is the bug is fixed; the less good news is it'll cost us a day."
+      ],
+      "explanationVi": "Gọi tin xấu là 'the less good news' (tin kém vui hơn) thay vì 'the bad news' đã là một cách giảm nhẹ. Kỹ thuật 'kẹp' này giúp người nghe đón nhận dễ hơn.",
+      "altOf": "delivering-bad-news"
+    },
+    {
+      "pattern": "Having said that, [phương án / điểm tích cực].",
+      "use": "Chuyển hướng từ tin xấu sang giải pháp/điểm sáng để khép lại tích cực.",
+      "register": "neutral",
+      "examples": [
+        "Having said that, we've already lined up an alternative supplier.",
+        "Having said that, this gives us a chance to improve the design."
+      ],
+      "explanationVi": "'Having said that' (= dù vậy, tuy nhiên) dùng để nối, báo hiệu bạn sắp đưa mặt tích cực sau khi đã nói điều không vui. Luôn nên kết tin xấu bằng một bước đi tiếp theo.",
+      "altOf": "offering-solution"
+    },
+    {
+      "pattern": "What we can do, however, is [V].",
+      "use": "Đưa ra phương án thay thế khả thi ngay sau khi từ chối điều người ta muốn.",
+      "register": "neutral",
+      "examples": [
+        "What we can do, however, is offer you a voucher for your next stay.",
+        "What we can do, however, is prioritise your order as soon as stock arrives."
+      ],
+      "explanationVi": "Thay vì chỉ nói 'không', bạn chuyển sang 'điều chúng tôi CÓ THỂ làm'. 'however' chêm giữa câu tạo sự đối lập nhẹ nhàng. Đây là chìa khóa để tin xấu không thành ngõ cụt.",
+      "altOf": "offering-solution"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "to be honest with you", "ipa": "/tə biː ˈɒn.ɪst wɪð juː/", "vi": "thành thật mà nói với bạn", "when": "Mở đầu một câu nói thẳng nhưng chân thành, xin phép được nói thật.", "example": "To be honest with you, the project is further behind than we'd hoped." },
+    { "term": "with the best will in the world", "ipa": "/wɪð ðə best wɪl ɪn ðə wɜːld/", "vi": "dù có cố hết sức đến đâu", "when": "Nhấn rằng dù rất muốn, việc đó vẫn bất khả thi — giảm nhẹ lời từ chối.", "example": "With the best will in the world, we simply can't deliver this by Friday." },
+    { "term": "as it happens", "ipa": "/əz ɪt ˈhæp.ənz/", "vi": "thật trùng hợp / hóa ra là", "when": "Dẫn vào một thông tin (đôi khi là điểm sáng) một cách tự nhiên, bất ngờ nhẹ.", "example": "As it happens, we've found a workaround that should limit the damage." },
+    { "term": "if I'm being completely honest", "ipa": "/ɪf aɪm ˈbiː.ɪŋ kəmˈpliːt.li ˈɒn.ɪst/", "vi": "nếu nói hoàn toàn thật lòng", "when": "Báo trước một sự thật khó nghe, thể hiện bạn không vòng vo.", "example": "If I'm being completely honest, the original plan was never realistic." },
+    { "term": "at the end of the day", "ipa": "/ət ðə end ɒv ðə deɪ/", "vi": "suy cho cùng / nói cho cùng", "when": "Chốt lại bản chất vấn đề sau khi đã giải thích vòng vo.", "example": "At the end of the day, the client's deadline has to come first." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "không cần nói cũng biết / khỏi phải nói", "when": "Nhấn một hệ quả hiển nhiên, thường là lời xin lỗi hoặc cam kết.", "example": "Needless to say, we're doing everything we can to resolve it quickly." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là quản lý dự án (project manager) của một công ty phần mềm. Bạn phải gọi điện báo cho khách hàng (client) rằng dự án bị chậm tiến độ và không thể bàn giao đúng hạn như đã cam kết. Bạn cần báo tin khéo léo, giải thích nguyên nhân và đưa ra phương án thay thế.",
+    "lines": [
+      {
+        "speaker": "Khách hàng",
+        "text": "Hi, thanks for calling. I've been meaning to ask how things are progressing — we're all really looking forward to the launch next Monday.",
+        "ipa": "/haɪ θæŋks fɔːr ˈkɔː.lɪŋ aɪv biːn ˈmiː.nɪŋ tu ɑːsk haʊ θɪŋz ɑːr prəˈɡres.ɪŋ wɪər ɔːl ˈrɪə.li ˈlʊk.ɪŋ ˈfɔː.wəd tə ðə lɔːntʃ nekst ˈmʌn.deɪ/",
+        "vi": "Chào, cảm ơn đã gọi. Tôi vẫn đang định hỏi xem mọi thứ tiến triển ra sao — cả đội chúng tôi đều rất mong chờ buổi ra mắt thứ Hai tới."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thanks, and that's actually exactly why I'm calling. ____ I completely understand how much this launch means to your team, I'm afraid I have some less good news to share about the timeline.",
+        "ipa": "/θæŋks ænd ðæts ˈæk.tʃu.ə.li ɪɡˈzækt.li waɪ aɪm ˈkɔː.lɪŋ aɪ kəmˈpliːt.li ˌʌn.dəˈstænd haʊ mʌtʃ ðɪs lɔːntʃ miːnz tə jɔː tiːm aɪm əˈfreɪd aɪ hæv sʌm les ɡʊd njuːz tə ʃeə əˈbaʊt ðə ˈtaɪm.laɪn/",
+        "vi": "Cảm ơn, và thật ra đó đúng là lý do tôi gọi. ____ tôi hoàn toàn hiểu buổi ra mắt này có ý nghĩa thế nào với đội của anh, tôi e rằng mình có một tin kém vui hơn về tiến độ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "While", "explanationVi": "Dùng 'While' mở mệnh đề nhượng bộ (= mặc dù/trong khi), thừa nhận cảm xúc đối phương TRƯỚC rồi mới báo tin. Xem mẫu câu 'While I completely understand…, I'm not in a position to…'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "Oh... that doesn't sound good. What exactly has happened?",
+        "ipa": "/əʊ ðæt ˈdʌz.ənt saʊnd ɡʊd wɒt ɪɡˈzækt.li hæz ˈhæp.ənd/",
+        "vi": "Ồ... nghe không ổn rồi. Chính xác thì đã có chuyện gì vậy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "To be honest with you, we've hit an unexpected ____ during testing: a third-party payment service, which we have no control over, has been failing intermittently. Despite working overtime all week, the team simply hasn't been able to make it stable in time.",
+        "ipa": "/tə biː ˈɒn.ɪst wɪð juː wiːv hɪt ən ˌʌn.ɪkˈspek.tɪd ˈdjʊə.rɪŋ ˈtes.tɪŋ ə ˌθɜːd ˈpɑː.ti ˈpeɪ.mənt ˈsɜː.vɪs wɪtʃ wiː hæv nəʊ kənˈtrəʊl ˈəʊ.və hæz biːn ˈfeɪ.lɪŋ ˌɪn.təˈmɪt.ənt.li dɪsˈpaɪt ˈwɜː.kɪŋ ˌəʊ.vəˈtaɪm ɔːl wiːk ðə tiːm ˈsɪm.pli ˈhæz.ənt biːn ˈeɪ.bəl tə meɪk ɪt ˈsteɪ.bəl ɪn taɪm/",
+        "vi": "Thành thật mà nói với anh, chúng tôi gặp một ____ bất ngờ trong lúc kiểm thử: một dịch vụ thanh toán bên thứ ba, vốn nằm ngoài tầm kiểm soát của chúng tôi, cứ chập chờn lỗi liên tục. Dù đã tăng ca suốt cả tuần, đội vẫn không thể làm nó ổn định kịp lúc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "setback", "explanationVi": "'setback' (trở ngại/bước lùi) nghe nhẹ và có thể khắc phục hơn 'failure' hay 'disaster', nên rất hợp khi báo tin xấu mà vẫn giữ thái độ tích cực. Có thể thay bằng 'snag' nếu nói thân mật hơn." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "I see. But we've already announced Monday to our customers, so a delay would be genuinely embarrassing for us. Isn't there any way to launch on time?",
+        "ipa": "/aɪ siː bʌt wiːv ɔːlˈred.i əˈnaʊnst ˈmʌn.deɪ tə ˈaʊə ˈkʌs.tə.məz səʊ ə dɪˈleɪ wʊd biː ˈdʒen.ju.ɪn.li ɪmˈbær.əs.ɪŋ fɔːr ʌs ˈɪz.ənt ðeər ˈen.i weɪ tə lɔːntʃ ɒn taɪm/",
+        "vi": "Tôi hiểu. Nhưng chúng tôi đã thông báo thứ Hai với khách hàng rồi, nên việc trễ hẹn sẽ thật sự khiến chúng tôi khó xử. Chẳng lẽ không có cách nào ra mắt đúng hạn sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I really wish I ____ say yes, but rushing it now would risk a public failure on launch day, which would be far worse for your reputation. Having said that, I don't want to leave you without a plan.",
+        "ipa": "/aɪ ˈrɪə.li wɪʃ aɪ seɪ jes bʌt ˈrʌʃ.ɪŋ ɪt naʊ wʊd rɪsk ə ˈpʌb.lɪk ˈfeɪ.ljə ɒn lɔːntʃ deɪ wɪtʃ wʊd biː fɑː wɜːs fɔːr jɔː ˌrep.jʊˈteɪ.ʃən ˈhæv.ɪŋ sed ðæt aɪ dəʊnt wɒnt tə liːv juː wɪˈðaʊt ə plæn/",
+        "vi": "Tôi thật sự ước mình ____ nói đồng ý, nhưng vội vàng lúc này sẽ có nguy cơ lỗi công khai ngay ngày ra mắt, điều đó còn tệ hơn nhiều cho danh tiếng của anh. Dù vậy, tôi không muốn để anh không có phương án nào.",
+        "blanks": [
+          { "type": "knowledge", "answer": "could", "explanationVi": "'I wish I could say yes' — 'wish + could' diễn tả điều mong muốn không thể xảy ra ở hiện tại, thể hiện thiện chí khi từ chối. Xem mẫu câu 'I wish I could…, but…'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "Alright, I'm listening. What do you suggest we do instead?",
+        "ipa": "/ɔːlˈraɪt aɪm ˈlɪs.ən.ɪŋ wɒt duː juː səˈdʒest wiː duː ɪnˈsted/",
+        "vi": "Được rồi, tôi đang nghe đây. Vậy anh đề xuất chúng ta làm gì thay vào đó?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "What we can do, ____, is launch a stable core version on Monday as planned, and then roll out the payment feature in a small update by Thursday. Not only does this keep your announced date, but it also protects everyone from a risky release. I'll personally oversee it to reassure you it's handled.",
+        "ipa": "/wɒt wiː kæn duː ɪz lɔːntʃ ə ˈsteɪ.bəl kɔː ˈvɜː.ʃən ɒn ˈmʌn.deɪ əz plænd ænd ðen rəʊl aʊt ðə ˈpeɪ.mənt ˈfiː.tʃər ɪn ə smɔːl ˈʌp.deɪt baɪ ˈθɜːz.deɪ nɒt ˈəʊn.li dʌz ðɪs kiːp jɔːr əˈnaʊnst deɪt bʌt ɪt ˈɔːl.səʊ prəˈtekts ˈev.ri.wʌn frɒm ə ˈrɪs.ki rɪˈliːs aɪl ˈpɜː.sən.ə.li ˌəʊ.vəˈsiː ɪt tə ˌriː.əˈʃɔː juː ɪts ˈhænd.əld/",
+        "vi": "Điều chúng tôi có thể làm, ____, là ra mắt một phiên bản lõi ổn định vào thứ Hai như kế hoạch, rồi triển khai tính năng thanh toán trong một bản cập nhật nhỏ vào thứ Năm. Cách này không những giữ đúng ngày anh đã công bố, mà còn bảo vệ tất cả khỏi một lần phát hành rủi ro. Tôi sẽ đích thân giám sát để anh yên tâm là mọi thứ đều trong tầm tay.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "'however' chêm giữa câu (giữa hai dấu phẩy) tạo sự đối lập nhẹ nhàng: dù không làm được điều anh muốn, ĐÂY là điều chúng tôi CÓ THỂ làm. Xem mẫu câu 'What we can do, however, is…'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "You know what, that actually sounds like a sensible compromise. Honestly, I appreciate you being so ____ about the situation rather than overpromising. Let's go with that plan.",
+        "ipa": "/juː nəʊ wɒt ðæt ˈæk.tʃu.ə.li saʊndz laɪk ə ˈsen.sə.bəl ˈkɒm.prə.maɪz ˈɒn.ɪst.li aɪ əˈpriː.ʃi.eɪt juː ˈbiː.ɪŋ səʊ əˈbaʊt ðə ˌsɪtʃ.uˈeɪ.ʃən ˈrɑː.ðə ðæn ˌəʊ.vəˈprɒm.ɪs.ɪŋ lets ɡəʊ wɪð ðæt plæn/",
+        "vi": "Anh biết không, nghe thế lại hóa ra là một sự dung hòa hợp lý đấy. Thật lòng, tôi đánh giá cao việc anh ____ về tình hình thay vì hứa hẹn quá lời. Cứ làm theo kế hoạch đó đi.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ chỉ sự thẳng thắn/chân thành mà bạn muốn được khen. Ví dụ: 'candid', 'honest', 'upfront', 'transparent'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, người ta đánh giá cao sự thẳng thắn nhưng tế nhị: báo tin xấu SỚM và kèm giải pháp được coi là chuyên nghiệp, còn giấu giếm hay hứa hẹn quá lời (overpromising) thì mất uy tín nặng.",
+    "Kỹ thuật 'sandwich' (kẹp tin xấu giữa hai điều tích cực) rất phổ biến, nhưng đừng lạm dụng đến mức người nghe không nhận ra đâu mới là tin chính — sự rõ ràng vẫn quan trọng hơn.",
+    "Cụm 'I'm afraid…' và 'Unfortunately…' là tín hiệu văn hóa báo trước tin buồn; người bản xứ nghe thấy là tự động 'chuẩn bị tinh thần', nên hãy dùng đúng lúc.",
+    "Khi từ chối, người Anh-Mỹ thường đổ trách nhiệm cho hoàn cảnh hoặc quy định ('it's company policy', 'it's beyond our control') để giữ thể diện cho cả hai, thay vì nói thẳng 'no' cộc lốc."
+  ],
+
+  "commonMistakes": [
+    "Báo tin quá thẳng và cộc: 'The project is late. We can't finish.' — thiếu câu đệm ('I'm afraid…') và lời giải thích nên nghe lạnh lùng, vô cảm.",
+    "Hiểu sai 'I'm afraid' là 'tôi sợ'. Trong báo tin, nó nghĩa là 'tôi e rằng…' — một cách mở lời lịch sự.",
+    "Chỉ nói 'no' mà không đưa phương án thay thế. Người bản xứ luôn kèm 'What we can do, however, is…' để tin xấu không thành ngõ cụt.",
+    "Đảo ngữ sai với 'Not only…': phải đảo trợ động từ — 'Not only DOES this keep…', không phải 'Not only this keeps…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng báo tin xấu khéo léo như trong tình huống thật.",
+    "prompt": "Hãy đóng vai một người sắp nhận tin xấu từ tôi bằng tiếng Anh (ví dụ: khách hàng bị chậm dự án, nhân viên bị từ chối tăng lương, hoặc đối tác bị hủy hợp đồng — bạn tự chọn một vai và nói cho tôi biết). Tôi sẽ là người phải báo tin đó. Hãy phản ứng tự nhiên và có cảm xúc (thất vọng, hỏi vặn, đề nghị thương lượng) để tôi tập xử lý. Sau mỗi câu của tôi, hãy: (1) phản hồi trong vai nhân vật, (2) sửa lỗi ngữ pháp và gợi ý cách nói tế nhị hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu đệm ('I'm afraid…', 'Unfortunately…'), từ chối khéo ('I wish I could…, but…') và đưa phương án thay thế ('What we can do, however, is…'). Cuối buổi, hãy chấm mức độ khéo léo (tactfulness) của tôi trên thang 10 và nêu 3 điểm cần cải thiện. Hãy nêu tình huống và bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người phản ứng giận dữ, lớn tiếng để tôi tập giữ bình tĩnh và xoa dịu.'",
+      "Thêm: 'Hãy yêu cầu tôi báo cùng một tin xấu theo hai register khác nhau — một trang trọng với sếp, một thân mật với đồng nghiệp.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được một tin xấu bằng câu đệm ('I'm afraid…', 'While I understand…') thay vì nói thẳng cộc lốc.",
+    "Tôi từ chối được một yêu cầu một cách khéo léo bằng 'I wish I could…, but…' và giải thích lý do.",
+    "Tôi luôn kèm một phương án thay thế ('What we can do, however, is…') để khép lại tin xấu một cách tích cực."
+  ]
+}

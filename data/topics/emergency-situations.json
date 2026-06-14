@@ -1,0 +1,324 @@
+{
+  "id": "emergency-situations",
+  "category": "services",
+  "title": "Tình huống khẩn cấp",
+  "titleEn": "Emergency Situations",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gọi điện báo cấp cứu và nói rõ chuyện gì đang xảy ra, ở đâu",
+    "Mô tả triệu chứng hoặc tai nạn bằng câu vừa phải, dễ hiểu",
+    "Đề nghị giúp đỡ khẩn cấp một cách bình tĩnh, lịch sự",
+    "Dùng được 'such as', 'because', 'as soon as' để nối ý khi nói gấp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "emergency",
+      "ipa": "/ɪˈmɜː.dʒən.si/",
+      "vi": "tình huống khẩn cấp (danh từ)",
+      "register": "neutral",
+      "example": "Please stay calm; this is an emergency.",
+      "exampleVi": "Xin hãy bình tĩnh; đây là tình huống khẩn cấp.",
+      "note": "Danh từ. Tổng đài cấp cứu hay hỏi: 'What's your emergency?' (Anh đang gặp chuyện khẩn cấp gì?).",
+      "synonyms": [
+        { "term": "crisis", "ipa": "/ˈkraɪ.sɪs/", "register": "neutral", "nuanceVi": "Nhấn vào 'khủng hoảng nghiêm trọng, kéo dài'. Nặng và rộng hơn 'emergency' (thường là một sự việc gấp tức thời)." }
+      ]
+    },
+    {
+      "term": "ambulance",
+      "ipa": "/ˈæm.bjə.ləns/",
+      "vi": "xe cứu thương (danh từ)",
+      "register": "neutral",
+      "example": "We need an ambulance right away.",
+      "exampleVi": "Chúng tôi cần xe cứu thương ngay lập tức.",
+      "note": "Danh từ. Bẫy phát âm: nhấn âm đầu 'AM', không đọc là 'am-biu-lần'. Đi với động từ 'call' hoặc 'send'."
+    },
+    {
+      "term": "injured",
+      "ipa": "/ˈɪn.dʒəd/",
+      "vi": "bị thương (tính từ)",
+      "register": "neutral",
+      "example": "A man has been injured in the accident.",
+      "exampleVi": "Một người đàn ông bị thương trong vụ tai nạn.",
+      "note": "Tính từ. Dùng cho người bị thương vì tai nạn. Danh từ là 'injury' (vết thương).",
+      "synonyms": [
+        { "term": "hurt", "ipa": "/hɜːt/", "register": "casual", "nuanceVi": "Đời thường, nhẹ hơn. 'Are you hurt?' nghe tự nhiên khi hỏi ai đó vừa ngã. Dùng được cho cả đau nhẹ." },
+        { "term": "wounded", "ipa": "/ˈwuːn.dɪd/", "register": "formal", "nuanceVi": "Trang trọng, thường chỉ vết thương do vật sắc/súng đạn (chiến tranh, tấn công), không dùng cho ngã trầy xước thường." }
+      ]
+    },
+    {
+      "term": "serious",
+      "ipa": "/ˈsɪə.ri.əs/",
+      "vi": "nghiêm trọng (tính từ)",
+      "register": "neutral",
+      "example": "Her condition looks quite serious.",
+      "exampleVi": "Tình trạng của cô ấy trông khá nghiêm trọng.",
+      "note": "Tính từ. Trong cấp cứu hay nói 'Is it serious?' (Có nghiêm trọng không?). Đừng nhầm với 'severe' (nặng về mức độ).",
+      "synonyms": [
+        { "term": "severe", "ipa": "/sɪˈvɪə/", "register": "formal", "nuanceVi": "Nhấn vào MỨC ĐỘ nặng (severe pain = đau dữ dội). 'serious' thiên về 'đáng lo, hệ trọng'." },
+        { "term": "critical", "ipa": "/ˈkrɪt.ɪ.kəl/", "register": "formal", "nuanceVi": "Rất nặng, nguy hiểm tính mạng. 'in a critical condition' = nguy kịch. Mạnh hơn hẳn 'serious'." }
+      ]
+    },
+    {
+      "term": "to faint",
+      "ipa": "/feɪnt/",
+      "vi": "ngất, xỉu (động từ)",
+      "register": "neutral",
+      "example": "She suddenly fainted in the street.",
+      "exampleVi": "Cô ấy đột nhiên ngất giữa đường.",
+      "note": "Động từ. Phân biệt với 'feel faint' (thấy choáng, sắp xỉu). Quá khứ: fainted.",
+      "synonyms": [
+        { "term": "to pass out", "ipa": "/pɑːs aʊt/", "register": "casual", "nuanceVi": "Cụm động từ, đời thường, nghĩa y hệt 'faint'. Rất hay dùng khi kể lại: 'He just passed out.'" },
+        { "term": "to collapse", "ipa": "/kəˈlæps/", "register": "neutral", "nuanceVi": "Nhấn vào 'gục/đổ sụp xuống' (có thể do kiệt sức, đau tim), không nhất thiết mất ý thức như faint." }
+      ]
+    },
+    {
+      "term": "to bleed",
+      "ipa": "/bliːd/",
+      "vi": "chảy máu (động từ)",
+      "register": "neutral",
+      "example": "His arm is bleeding badly.",
+      "exampleVi": "Cánh tay anh ấy đang chảy máu nhiều.",
+      "note": "Động từ bất quy tắc: bleed - bled - bled. Danh từ là 'blood' /blʌd/ (máu)."
+    },
+    {
+      "term": "to breathe",
+      "ipa": "/briːð/",
+      "vi": "thở, hít thở (động từ)",
+      "register": "neutral",
+      "example": "He is still breathing, but very slowly.",
+      "exampleVi": "Anh ấy vẫn còn thở, nhưng rất chậm.",
+      "note": "Động từ 'breathe' /briːð/ khác danh từ 'breath' /breθ/ (hơi thở) — sai phát âm này rất phổ biến."
+    },
+    {
+      "term": "urgently",
+      "ipa": "/ˈɜː.dʒənt.li/",
+      "vi": "một cách khẩn cấp, gấp gáp (trạng từ)",
+      "register": "neutral",
+      "example": "We need help urgently.",
+      "exampleVi": "Chúng tôi cần được giúp đỡ gấp.",
+      "note": "Trạng từ. Đặt cuối câu hoặc trước động từ. Tính từ là 'urgent' (khẩn cấp).",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, không chậm trễ'. 'urgently' nhấn 'gấp vì quan trọng'; immediately nhấn về thời điểm." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'ngay bây giờ'. Dễ nói, tự nhiên trong hội thoại." }
+      ]
+    },
+    {
+      "term": "calmly",
+      "ipa": "/ˈkɑːm.li/",
+      "vi": "một cách bình tĩnh (trạng từ)",
+      "register": "neutral",
+      "example": "She spoke calmly and gave clear directions.",
+      "exampleVi": "Cô ấy nói chuyện bình tĩnh và chỉ đường rõ ràng.",
+      "note": "Trạng từ. Chữ 'l' trong calm thường KHÔNG đọc: /kɑːm/. Trái nghĩa: nervously, in a panic.",
+      "synonyms": [
+        { "term": "quietly", "ipa": "/ˈkwaɪ.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, không ồn'. Không hoàn toàn bằng calmly (vốn nhấn về tâm lý ổn định, không hoảng)." }
+      ]
+    },
+    {
+      "term": "to call for help",
+      "ipa": "/kɔːl fɔː help/",
+      "vi": "kêu cứu, gọi người giúp (cụm động từ)",
+      "register": "neutral",
+      "example": "As soon as I saw the smoke, I called for help.",
+      "exampleVi": "Ngay khi thấy khói, tôi liền kêu cứu.",
+      "note": "Cụm cố định. Khác 'call for an ambulance' (gọi xe cứu thương cụ thể)."
+    },
+    {
+      "term": "first aid",
+      "ipa": "/ˌfɜːst ˈeɪd/",
+      "vi": "sơ cứu (danh từ)",
+      "register": "neutral",
+      "example": "Do you know how to give first aid?",
+      "exampleVi": "Bạn có biết cách sơ cứu không?",
+      "note": "Danh từ không đếm. 'a first-aid kit' = hộp sơ cứu (có gạch nối khi làm tính từ)."
+    },
+    {
+      "term": "to stay calm",
+      "ipa": "/steɪ kɑːm/",
+      "vi": "giữ bình tĩnh (cụm động từ)",
+      "register": "neutral",
+      "example": "Please try to stay calm while help is on the way.",
+      "exampleVi": "Xin cố giữ bình tĩnh trong khi người cứu hộ đang tới.",
+      "note": "Cụm cố định. 'stay' + tính từ (calm, safe, still). Câu tổng đài hay nói để trấn an."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to report [danh từ / sự việc].",
+      "use": "Mở đầu khi gọi báo một sự cố khẩn cấp.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to report an accident.",
+        "I'd like to report a fire in my building."
+      ],
+      "explanationVi": "'report' = báo/trình báo. Câu mở đầu chuẩn khi gọi cấp cứu hay cảnh sát; rõ ràng và đi thẳng vào việc.",
+      "altOf": "reporting-emergency"
+    },
+    {
+      "pattern": "There has been [a/an + danh từ] at [địa điểm].",
+      "use": "Báo có sự việc gì vừa xảy ra và ở đâu.",
+      "register": "neutral",
+      "examples": [
+        "There has been a car accident on Main Street.",
+        "There has been a fall at the train station."
+      ],
+      "explanationVi": "'There has been...' (hiện tại hoàn thành) = vừa xảy ra và còn ảnh hưởng tới giờ. Đừng quên nói ĐỊA ĐIỂM ngay vì đó là thông tin tổng đài cần nhất.",
+      "altOf": "reporting-emergency"
+    },
+    {
+      "pattern": "We need [an ambulance / the police / a doctor] urgently.",
+      "use": "Yêu cầu cứu hộ một cách dứt khoát.",
+      "register": "neutral",
+      "examples": [
+        "We need an ambulance urgently.",
+        "We need the fire brigade as quickly as possible."
+      ],
+      "explanationVi": "Trong tình huống gấp, câu ngắn gọn và rõ 'We need...' tốt hơn câu vòng vo. Thêm 'urgently' để nhấn mức độ.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Could you send [danh từ] as soon as possible?",
+      "use": "Đề nghị gửi cứu hộ một cách lịch sự nhưng vẫn khẩn.",
+      "register": "neutral",
+      "examples": [
+        "Could you send an ambulance as soon as possible?",
+        "Could you send someone to help us right away?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự, 'as soon as possible' (càng sớm càng tốt) nhấn sự gấp gáp mà không cộc lốc.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "[Người/sự việc] + is/are + [tính từ mô tả tình trạng], such as [chi tiết].",
+      "use": "Mô tả tình trạng nạn nhân kèm chi tiết cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "He is showing serious symptoms, such as chest pain and difficulty breathing.",
+        "She has several injuries, such as a cut on her head."
+      ],
+      "explanationVi": "'such as' để nêu ví dụ cụ thể. Mô tả chi tiết giúp người cứu hộ chuẩn bị đúng, nhanh hơn nói chung chung."
+    },
+    {
+      "pattern": "As soon as [mệnh đề], [mệnh đề chính].",
+      "use": "Kể lại trình tự việc bạn đã làm khi sự cố xảy ra.",
+      "register": "neutral",
+      "examples": [
+        "As soon as I saw him fall, I called for help.",
+        "As soon as the smoke appeared, everyone left the building."
+      ],
+      "explanationVi": "'As soon as' = ngay khi. Nối hai hành động xảy ra nối tiếp nhanh — rất hợp để thuật lại tình huống khẩn cấp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "right now", "ipa": "/raɪt naʊ/", "vi": "ngay bây giờ", "when": "Nhấn rằng cần hành động ngay lập tức.", "example": "Please come right now; it's getting worse." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một chi tiết tích cực giữa tình huống xấu.", "example": "Fortunately, he is still conscious." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi cần đính chính hoặc bổ sung thông tin cho tổng đài.", "example": "Actually, there are two people injured, not one." },
+    { "term": "luckily", "ipa": "/ˈlʌk.ɪ.li/", "vi": "may là", "when": "Tương tự fortunately nhưng đời thường hơn.", "example": "Luckily, a doctor was nearby." },
+    { "term": "please", "ipa": "/pliːz/", "vi": "làm ơn", "when": "Chèn vào câu đề nghị để vẫn lịch sự dù đang gấp.", "example": "Please hurry, she can't breathe properly." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa chứng kiến một người đàn ông lớn tuổi ngã gục trên phố. Bạn gọi tổng đài cấp cứu để báo và yêu cầu xe cứu thương.",
+    "lines": [
+      {
+        "speaker": "Tổng đài",
+        "text": "Emergency services, which service do you need — police, fire or ambulance?",
+        "ipa": "/ɪˈmɜː.dʒən.si ˈsɜː.vɪ.sɪz wɪtʃ ˈsɜː.vɪs duː juː niːd pəˈliːs ˈfaɪə ɔːr ˈæm.bjə.ləns/",
+        "vi": "Tổng đài cấp cứu xin nghe, anh/chị cần dịch vụ nào — cảnh sát, cứu hỏa hay cứu thương?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd like to report ____ emergency. An elderly man has just collapsed in the street, and we need an ambulance urgently.",
+        "ipa": "/aɪd laɪk tə rɪˈpɔːt ən ɪˈmɜː.dʒən.si ən ˈel.də.li mæn hæz dʒʌst kəˈlæpst ɪn ðə striːt ænd wiː niːd ən ˈæm.bjə.ləns ˈɜː.dʒənt.li/",
+        "vi": "Tôi muốn báo một tình huống khẩn cấp. Một người đàn ông lớn tuổi vừa ngã gục trên phố, và chúng tôi cần xe cứu thương gấp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "an", "explanationVi": "Dùng mạo từ 'an' vì 'emergency' bắt đầu bằng nguyên âm /ɪ/. Mẫu câu: 'I'd like to report an emergency.'" }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Stay calm, help is on the way. Can you tell me exactly where you are?",
+        "ipa": "/steɪ kɑːm help ɪz ɒn ðə weɪ kæn juː tel miː ɪɡˈzækt.li weər juː ɑː/",
+        "vi": "Hãy bình tĩnh, người cứu hộ đang tới. Anh/chị cho tôi biết chính xác đang ở đâu được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "We're on ____, right in front of the central post office. There has been a sudden collapse, so please hurry.",
+        "ipa": "/wɪər ɒn raɪt ɪn frʌnt ɒv ðə ˈsen.trəl pəʊst ˈɒf.ɪs ðeər hæz biːn ə ˈsʌd.ən kəˈlæps səʊ pliːz ˈhʌr.i/",
+        "vi": "Chúng tôi đang ở ____, ngay trước bưu điện trung tâm. Có người vừa ngã gục, nên xin hãy nhanh lên.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên con phố / địa điểm bạn đang đứng. Ví dụ: 'Tran Phu Street'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Thank you. Now, is he conscious, and is he breathing normally?",
+        "ipa": "/θæŋk juː naʊ ɪz hiː ˈkɒn.ʃəs ænd ɪz hiː ˈbriː.ðɪŋ ˈnɔː.mə.li/",
+        "vi": "Cảm ơn. Bây giờ, ông ấy có tỉnh táo không, và có thở bình thường không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "He isn't fully conscious, but fortunately he is still breathing. He is showing serious symptoms, ____ chest pain and heavy sweating.",
+        "ipa": "/hiː ˈɪz.ənt ˈfʊl.i ˈkɒn.ʃəs bʌt ˈfɔː.tʃən.ət.li hiː ɪz stɪl ˈbriː.ðɪŋ hiː ɪz ˈʃəʊ.ɪŋ ˈsɪə.ri.əs ˈsɪmp.təmz tʃest peɪn ænd ˈhev.i ˈswet.ɪŋ/",
+        "vi": "Ông ấy không hoàn toàn tỉnh, nhưng may là vẫn còn thở. Ông ấy có những triệu chứng nghiêm trọng, ____ đau ngực và đổ mồ hôi nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ cụ thể cho 'serious symptoms'. Mô tả chi tiết giúp người cứu hộ chuẩn bị đúng. Xem mẫu câu 'is + tính từ, such as...'." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "All right. An ambulance is on its way and should arrive in about five minutes. Do you know how to give any first aid?",
+        "ipa": "/ɔːl raɪt ən ˈæm.bjə.ləns ɪz ɒn ɪts weɪ ænd ʃʊd əˈraɪv ɪn əˈbaʊt faɪv ˈmɪn.ɪts duː juː nəʊ haʊ tə ɡɪv ˈen.i ˌfɜːst ˈeɪd/",
+        "vi": "Được rồi. Xe cứu thương đang trên đường và sẽ tới trong khoảng năm phút. Anh/chị có biết cách sơ cứu nào không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I know a little. ____ you told me earlier, I'll keep him lying still and stay calm until the ambulance arrives. Could you stay on the line with me, please?",
+        "ipa": "/aɪ nəʊ ə ˈlɪt.əl æz juː təʊld miː ˈɜː.li.ər aɪl kiːp hɪm ˈlaɪ.ɪŋ stɪl ænd steɪ kɑːm ʌnˈtɪl ðə ˈæm.bjə.ləns əˈraɪvz kʊd juː steɪ ɒn ðə laɪn wɪð miː pliːz/",
+        "vi": "Tôi biết một chút. ____ anh/chị vừa dặn, tôi sẽ giữ ông ấy nằm yên và giữ bình tĩnh cho tới khi xe cứu thương đến. Anh/chị có thể giữ máy với tôi không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "As", "explanationVi": "Dùng 'As' (= đúng như) để mở mệnh đề chỉ cách: 'As you told me...' nghĩa là làm theo điều người kia vừa dặn. Khác 'as soon as' (ngay khi)." }
+        ]
+      },
+      {
+        "speaker": "Tổng đài",
+        "text": "Of course, I'll stay with you. You're doing very well. Just keep talking to him and let me know immediately if anything changes.",
+        "ipa": "/ɒv kɔːs aɪl steɪ wɪð juː jɔː ˈduː.ɪŋ ˈver.i wel dʒʌst kiːp ˈtɔː.kɪŋ tə hɪm ænd let miː nəʊ ɪˈmiː.di.ət.li ɪf ˈen.i.θɪŋ ˈtʃeɪn.dʒɪz/",
+        "vi": "Tất nhiên, tôi sẽ giữ máy với anh/chị. Anh/chị đang làm rất tốt. Cứ tiếp tục nói chuyện với ông ấy và báo cho tôi ngay nếu có gì thay đổi."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Số gọi cấp cứu khác nhau theo quốc gia: Mỹ/Canada là 911, Anh là 999, châu Âu là 112, Việt Nam là 115 (cấp cứu y tế), 113 (cảnh sát), 114 (cứu hỏa).",
+    "Khi gọi, hãy nói ĐỊA ĐIỂM trước tiên và rõ ràng — nếu cuộc gọi bị ngắt, tổng đài vẫn biết cử người tới đâu.",
+    "Tổng đài thường yêu cầu bạn GIỮ MÁY (stay on the line) và làm theo hướng dẫn sơ cứu; đừng vội cúp máy.",
+    "Ở nhiều nước, gọi số cấp cứu để đùa hoặc báo giả là phạm pháp và bị phạt nặng."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want ambulance' — thiếu mạo từ và nghe cộc. Hãy nói 'We need AN ambulance' hoặc 'Could you send an ambulance?'.",
+    "Nhầm 'breathe' (động từ /briːð/) với 'breath' (danh từ /breθ/): 'He can't breathe', không phải 'He can't breath'.",
+    "Quên nói địa điểm cụ thể; chỉ nói 'Come quickly!' khiến cứu hộ không biết đến đâu.",
+    "Dùng 'serious' và 'severe' lẫn lộn: 'a serious situation' (tình huống hệ trọng) nhưng 'severe pain' (đau dữ dội)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi cấp cứu như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài cấp cứu nói tiếng Anh. Tôi là người gọi đến để báo một tình huống khẩn cấp (tai nạn, có người ngất, hoặc hỏa hoạn). Hãy bắt đầu bằng câu hỏi tôi cần dịch vụ nào. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên tổng đài thật (hỏi địa điểm, tình trạng nạn nhân, trấn an tôi), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu rõ ràng với 'such as', 'because', 'as soon as'. Thỉnh thoảng tạo tình huống bất ngờ (nạn nhân ngừng thở, có thêm người bị thương) để tôi tập xử lý. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh và khẩn trương hơn để tôi tập giữ bình tĩnh khi gấp.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đổi sang tình huống hỏa hoạn trong tòa nhà cao tầng.' để luyện thêm từ vựng mới."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được cuộc gọi cấp cứu và nói rõ địa điểm mà không cần nhìn gợi ý.",
+    "Tôi mô tả được tình trạng nạn nhân bằng câu có 'such as' để nêu chi tiết.",
+    "Tôi dùng được 'Could you send... as soon as possible?' để đề nghị giúp đỡ khẩn cấp."
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": "humor-and-sarcasm",
+  "category": "advanced",
+  "title": "Hài hước & mỉa mai",
+  "titleEn": "Humor & Sarcasm",
+  "level": "C1",
+  "functions": ["small-talk", "opinions", "agreeing", "describing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Nhận ra và phản hồi sarcasm (mỉa mai) trong hội thoại tự nhiên mà không hiểu nhầm thành lời khen/chê thật",
+    "Sử dụng giọng điệu khô khan (deadpan) và lối nói cường điệu (hyperbole) để pha trò một cách tinh tế",
+    "Phân biệt sắc thái giữa irony, sarcasm, banter và wit để dùng đúng ngữ cảnh",
+    "Đùa cợt thân mật (banter) với bạn bè bằng câu phức nhiều tầng mà vẫn giữ phép lịch sự",
+    "Tránh để câu đùa bị 'flat' (nhạt) hoặc bị hiểu sai do khác biệt văn hóa"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "sarcasm",
+      "ipa": "/ˈsɑːr.kæz.əm/",
+      "vi": "sự mỉa mai (danh từ)",
+      "register": "neutral",
+      "example": "His comment about my 'brilliant' parking was pure sarcasm.",
+      "exampleVi": "Lời nhận xét về kiểu đỗ xe 'thiên tài' của tôi hoàn toàn là mỉa mai.",
+      "note": "Danh từ. Là việc nói NGƯỢC với ý thật, thường để chế giễu. Tính từ: 'sarcastic'; trạng từ: 'sarcastically'.",
+      "synonyms": [
+        { "term": "irony", "ipa": "/ˈaɪ.rə.ni/", "register": "neutral", "nuanceVi": "Rộng hơn và 'hiền' hơn sarcasm: chỉ sự trái ngược giữa điều nói/xảy ra và điều mong đợi, không nhất thiết nhắm chế giễu ai." },
+        { "term": "mockery", "ipa": "/ˈmɒk.ər.i/", "register": "formal", "nuanceVi": "Nặng và cay nghiệt hơn: chế nhạo công khai, có ý hạ thấp. Dùng khi sự giễu cợt đã vượt quá đùa vui." }
+      ]
+    },
+    {
+      "term": "wit",
+      "ipa": "/wɪt/",
+      "vi": "sự dí dỏm, óc hài hước nhanh nhạy (danh từ)",
+      "register": "neutral",
+      "example": "Her quick wit makes even boring meetings enjoyable.",
+      "exampleVi": "Sự dí dỏm nhanh nhạy của cô ấy khiến cả những cuộc họp chán cũng trở nên thú vị.",
+      "note": "Danh từ (không đếm). Nhấn vào sự THÔNG MINH, nhanh trí trong cách pha trò. Tính từ: 'witty'.",
+      "synonyms": [
+        { "term": "humour", "ipa": "/ˈhjuː.mər/", "register": "neutral", "nuanceVi": "Rộng nhất, chỉ khiếu hài hước nói chung (Anh-Anh: humour; Anh-Mỹ: humor). 'Wit' thiên về sự sắc bén, thông minh." },
+        { "term": "repartee", "ipa": "/ˌrep.ɑːrˈtiː/", "register": "formal", "nuanceVi": "Trang trọng/văn vẻ: tài đối đáp nhanh và sắc trong cuộc trò chuyện. Dùng khi muốn nghe tinh tế." }
+      ]
+    },
+    {
+      "term": "banter",
+      "ipa": "/ˈbæn.tər/",
+      "vi": "sự đùa cợt thân mật qua lại (danh từ)",
+      "register": "casual",
+      "example": "There was a lot of friendly banter between the two old friends.",
+      "exampleVi": "Hai người bạn cũ đùa qua đùa lại với nhau rất thân mật.",
+      "note": "Danh từ (và động từ). Là kiểu trêu chọc qua lại, vui vẻ, KHÔNG có ác ý. Rất phổ biến trong văn hóa Anh.",
+      "synonyms": [
+        { "term": "teasing", "ipa": "/ˈtiː.zɪŋ/", "register": "casual", "nuanceVi": "Nhấn vào việc 'chọc ghẹo một người' về điều gì đó; banter thiên về sự qua lại hai chiều." },
+        { "term": "ribbing", "ipa": "/ˈrɪb.ɪŋ/", "register": "casual", "nuanceVi": "Rất đời thường (tiếng lóng), nghĩa 'trêu chọc nhẹ nhàng cho vui'. Hợp nhóm bạn thân." }
+      ]
+    },
+    {
+      "term": "deadpan",
+      "ipa": "/ˈded.pæn/",
+      "vi": "(kiểu nói đùa) mặt tỉnh bơ, giọng vô cảm (tính từ / trạng từ)",
+      "register": "neutral",
+      "example": "He delivered the joke completely deadpan, so nobody knew he was kidding.",
+      "exampleVi": "Anh ấy tung câu đùa với vẻ mặt tỉnh bơ, nên chẳng ai biết anh đang đùa.",
+      "note": "Vừa là tính từ vừa là trạng từ. Là cách pha trò QUAN TRỌNG nhất của hài hước Anh: nói điều buồn cười với gương mặt nghiêm túc.",
+      "synonyms": [
+        { "term": "straight-faced", "ipa": "/ˌstreɪtˈfeɪst/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn vào 'giữ mặt nghiêm không cười'. Dùng được thay cho deadpan trong đa số trường hợp." }
+      ]
+    },
+    {
+      "term": "hilarious",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "vi": "cực kỳ buồn cười (tính từ)",
+      "register": "neutral",
+      "example": "The way she imitated the boss was absolutely hilarious.",
+      "exampleVi": "Cái cách cô ấy nhại sếp buồn cười không chịu nổi.",
+      "note": "Tính từ mạnh (= rất rất buồn cười), mạnh hơn nhiều so với 'funny'. Đừng nói 'very hilarious' — bản thân nó đã cực rồi.",
+      "synonyms": [
+        { "term": "side-splitting", "ipa": "/ˈsaɪdˌsplɪt.ɪŋ/", "register": "casual", "nuanceVi": "Hình ảnh 'cười vỡ bụng'. Sống động, đời thường, hơi cường điệu cho vui." },
+        { "term": "comical", "ipa": "/ˈkɒm.ɪ.kəl/", "register": "neutral", "nuanceVi": "Nhẹ hơn hilarious: buồn cười theo kiểu ngộ nghĩnh, hài hước nhìn thấy được, không nhất thiết khiến bạn cười phá lên." },
+        { "term": "amusing", "ipa": "/əˈmjuː.zɪŋ/", "register": "formal", "nuanceVi": "Nhã nhặn và nhẹ nhất: 'thú vị, vui vui'. Dùng khi điều gì làm bạn mỉm cười chứ chưa tới mức cười lớn." }
+      ]
+    },
+    {
+      "term": "dry",
+      "ipa": "/draɪ/",
+      "vi": "(hài hước) khô khan, kín đáo (tính từ)",
+      "register": "neutral",
+      "example": "I love his dry sense of humour — you have to listen carefully to catch it.",
+      "exampleVi": "Tôi thích kiểu hài hước khô khan của anh ấy — phải nghe kỹ mới bắt được.",
+      "note": "Tính từ. 'Dry humour' = hài hước tinh tế, nói tỉnh bơ, không nhấn nhá, để người nghe tự nhận ra cái buồn cười.",
+      "synonyms": [
+        { "term": "subtle", "ipa": "/ˈsʌt.əl/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'tinh tế, kín đáo, khó nhận ra ngay'. Chữ 'b' câm — đọc /ˈsʌt.əl/." },
+        { "term": "tongue-in-cheek", "ipa": "/ˌtʌŋ.ɪnˈtʃiːk/", "register": "casual", "nuanceVi": "Thành ngữ: nói đùa nhưng giả vờ nghiêm túc, ý là 'đừng tin thật nhé'. Gần với dry/ironic." }
+      ]
+    },
+    {
+      "term": "to crack a joke",
+      "ipa": "/tə kræk ə dʒəʊk/",
+      "vi": "kể/tung một câu đùa (cụm động từ)",
+      "register": "casual",
+      "example": "He always cracks a joke to break the ice in meetings.",
+      "exampleVi": "Anh ấy luôn pha trò để phá tan bầu không khí gượng gạo trong cuộc họp.",
+      "note": "Cụm động từ đời thường. Đồng nghĩa trang trọng hơn: 'to make a joke'. Lưu ý 'crack', không phải 'tell a joke' (kể chuyện cười dài).",
+      "synonyms": [
+        { "term": "to quip", "ipa": "/tə kwɪp/", "register": "formal", "nuanceVi": "Tung một câu nói dí dỏm, ngắn và sắc, ngay tại chỗ. Văn vẻ hơn 'crack a joke'." },
+        { "term": "to jest", "ipa": "/tə dʒest/", "register": "formal", "nuanceVi": "Cổ/trang trọng, nghĩa 'nói đùa'. Hay gặp trong cụm 'You jest!' (Anh đùa đấy à!)." }
+      ]
+    },
+    {
+      "term": "to take a joke",
+      "ipa": "/tə teɪk ə dʒəʊk/",
+      "vi": "biết tiếp nhận lời trêu đùa (cụm động từ)",
+      "register": "casual",
+      "example": "Don't be so serious — can't you take a joke?",
+      "exampleVi": "Đừng nghiêm trọng thế — bạn không biết đùa à?",
+      "note": "Cụm động từ. 'Can't take a joke' nghĩa là dễ tự ái khi bị trêu. Khác hẳn 'to make a joke' (chủ động pha trò)."
+    },
+    {
+      "term": "exaggeration",
+      "ipa": "/ɪɡˌzædʒ.əˈreɪ.ʃən/",
+      "vi": "sự cường điệu, nói quá (danh từ)",
+      "register": "neutral",
+      "example": "Saying he ate 'a mountain of food' was a bit of an exaggeration.",
+      "exampleVi": "Nói anh ấy ăn 'cả một núi đồ ăn' thì hơi cường điệu.",
+      "note": "Danh từ. Cường điệu là một công cụ gây cười phổ biến. Động từ: 'to exaggerate'.",
+      "synonyms": [
+        { "term": "hyperbole", "ipa": "/haɪˈpɜː.bə.li/", "register": "formal", "nuanceVi": "Thuật ngữ tu từ (4 âm tiết, đọc /haɪˈpɜː.bə.li/), chỉ sự cường điệu CÓ CHỦ ĐÍCH để gây ấn tượng/gây cười, không nhằm lừa dối." },
+        { "term": "overstatement", "ipa": "/ˌəʊ.vəˈsteɪt.mənt/", "register": "neutral", "nuanceVi": "Trung tính: nói quá mức sự thật. Trái nghĩa là 'understatement' (nói giảm), vốn rất đặc trưng cho hài Anh." }
+      ]
+    },
+    {
+      "term": "to poke fun at",
+      "ipa": "/tə pəʊk ˈfʌn ət/",
+      "vi": "lấy ai/cái gì ra đùa, châm chọc nhẹ (cụm động từ)",
+      "register": "neutral",
+      "example": "The show gently pokes fun at office life.",
+      "exampleVi": "Chương trình châm biếm nhẹ nhàng đời sống công sở.",
+      "note": "Cụm động từ, đi với 'at'. Nhẹ nhàng, có thiện chí — khác 'make fun of' đôi khi mang ý chế nhạo độc địa hơn.",
+      "synonyms": [
+        { "term": "to mock", "ipa": "/tə mɒk/", "register": "neutral", "nuanceVi": "Mạnh hơn: nhại lại, chế giễu, có thể mang ý coi thường. Cẩn thận khi dùng với người." },
+        { "term": "to satirise", "ipa": "/ˈsæt.ə.raɪz/", "register": "formal", "nuanceVi": "Trang trọng: châm biếm (thường nhắm vào xã hội, chính trị) bằng hài hước nhằm phê phán." }
+      ]
+    },
+    {
+      "term": "witty",
+      "ipa": "/ˈwɪt.i/",
+      "vi": "dí dỏm, lém lỉnh thông minh (tính từ)",
+      "register": "neutral",
+      "example": "She gave a witty reply that left everyone laughing.",
+      "exampleVi": "Cô ấy đáp lại một câu dí dỏm khiến ai nấy phá lên cười.",
+      "note": "Tính từ của 'wit'. Khen ai 'witty' là khen họ thông minh, đối đáp nhanh và hài.",
+      "synonyms": [
+        { "term": "clever", "ipa": "/ˈklev.ər/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'khôn khéo, thông minh'; có thể khen câu đùa hay nhưng không nhất thiết buồn cười." },
+        { "term": "sharp", "ipa": "/ʃɑːp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sắc sảo, nhanh trí'. 'A sharp sense of humour' = óc hài hước sắc bén." }
+      ]
+    },
+    {
+      "term": "ironically",
+      "ipa": "/aɪˈrɒn.ɪk.li/",
+      "vi": "trớ trêu thay, một cách mỉa mai (trạng từ)",
+      "register": "neutral",
+      "example": "Ironically, the fire station burned down last night.",
+      "exampleVi": "Trớ trêu thay, trạm cứu hỏa tối qua lại bị cháy rụi.",
+      "note": "Trạng từ. Dùng để chỉ ra sự trái khoáy buồn cười giữa thực tế và điều người ta tưởng.",
+      "synonyms": [
+        { "term": "sarcastically", "ipa": "/sɑːˈkæs.tɪk.li/", "register": "neutral", "nuanceVi": "Nhấn ý 'với giọng mỉa mai nhắm vào ai đó', cay hơn 'ironically' (vốn chỉ sự trớ trêu khách quan)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Oh, [tính từ tích cực phóng đại], [mệnh đề trái ngược thực tế].",
+      "use": "Tạo câu mỉa mai bằng cách khen quá lời điều rõ ràng là tệ.",
+      "register": "casual",
+      "examples": [
+        "Oh, fantastic — another three-hour meeting that could have been an email.",
+        "Oh, wonderful, it's raining again, exactly what I needed today."
+      ],
+      "explanationVi": "Sarcasm hoạt động nhờ NGỮ ĐIỆU: nói lời khen ('fantastic', 'wonderful') nhưng giọng kéo dài, hơi chán nản, để người nghe hiểu ngược lại. Không có giọng đúng thì người nghe sẽ tưởng bạn khen thật.",
+      "altOf": "expressing-sarcasm"
+    },
+    {
+      "pattern": "Well, that went [trạng từ tích cực], didn't it.",
+      "use": "Mỉa mai một kết quả thực ra rất tệ, nói tỉnh bơ (deadpan).",
+      "register": "casual",
+      "examples": [
+        "Well, that went brilliantly, didn't it.",
+        "Well, that meeting went smoothly, didn't it — half the team walked out."
+      ],
+      "explanationVi": "Câu hỏi đuôi 'didn't it' nói bằng giọng đi xuống (không lên cao) để báo hiệu mỉa mai. Đây là mẫu deadpan kinh điển của người Anh khi mọi thứ vừa hỏng bét.",
+      "altOf": "expressing-sarcasm"
+    },
+    {
+      "pattern": "I'm only joking / I'm just kidding — [làm dịu lại].",
+      "use": "Trấn an sau khi trêu, để người nghe biết bạn không có ác ý.",
+      "register": "casual",
+      "examples": [
+        "Relax, I'm only joking — your presentation was actually great.",
+        "I'm just kidding! You know I love your cooking, although the smoke alarm might disagree."
+      ],
+      "explanationVi": "Cụm 'an toàn' để gỡ ngòi sau một câu trêu. Rất quan trọng khi nói với người chưa thân hoặc khi không chắc họ 'take a joke'. Có thể nói tắt 'Just kidding!' hoặc viết 'jk'.",
+      "altOf": "softening-a-joke"
+    },
+    {
+      "pattern": "No offence, but [nhận xét trêu chọc] — I'm only pulling your leg.",
+      "use": "Trêu một người về điều gì đó nhưng rào trước để giữ hòa khí.",
+      "register": "casual",
+      "examples": [
+        "No offence, but your singing could clear a room — I'm only pulling your leg!",
+        "No offence, but that tie is a crime against fashion. Kidding, you look great."
+      ],
+      "explanationVi": "'pull someone's leg' = trêu chọc cho vui (không phải nói dối nghiêm trọng). 'No offence, but…' rào đón rằng câu sau là đùa. Dùng giữa bạn bè đã đủ thân.",
+      "altOf": "softening-a-joke"
+    },
+    {
+      "pattern": "If [mệnh đề cường điệu], I'd [hệ quả cường điệu].",
+      "use": "Gây cười bằng lối nói quá (hyperbole) trong câu điều kiện.",
+      "register": "casual",
+      "examples": [
+        "If I had a dollar for every time he said that, I'd be richer than the company.",
+        "If this queue gets any longer, I'll have grandchildren by the time I reach the counter."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 ('If… I'd…') kết hợp cường điệu lố bịch là công thức gây cười rất tự nhiên. Cái buồn cười nằm ở mức độ phi lý của hệ quả.",
+      "altOf": "using-hyperbole"
+    },
+    {
+      "pattern": "It's not exactly [danh từ lý tưởng], is it.",
+      "use": "Nói giảm (understatement) để chê khéo một cách hài hước, rất kiểu Anh.",
+      "register": "neutral",
+      "examples": [
+        "Well, it's not exactly the Ritz, is it.",
+        "The weather's not exactly tropical today, is it — it's been snowing since dawn."
+      ],
+      "explanationVi": "Understatement (nói giảm) là 'em ruột' của sarcasm trong hài Anh: chê một thứ rất tệ bằng cách nói nhẹ đi. Hiệu ứng hài đến từ khoảng cách giữa lời nói nhẹ và thực tế tệ.",
+      "altOf": "using-understatement"
+    },
+    {
+      "pattern": "You're [so / such a] [tính từ/danh từ trêu chọc], aren't you.",
+      "use": "Trêu chọc thân mật (banter) trong nhóm bạn.",
+      "register": "casual",
+      "examples": [
+        "You're such a drama queen, aren't you — it was a tiny scratch.",
+        "You're so modest, aren't you, bringing up your promotion for the tenth time."
+      ],
+      "explanationVi": "Banter dựa trên sự tin tưởng: bạn 'mắng yêu' kèm câu hỏi đuôi và một nụ cười. Câu thứ hai dùng sarcasm ('so modest' = thực ra đang khoe). Chỉ dùng với người đã thân để tránh xúc phạm."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "nghe nói là / hóa ra là (thường kèm hoài nghi)", "when": "Dẫn vào thông tin mình không chắc, đôi khi pha chút mỉa mai ngầm.", "example": "Apparently, working overtime for free is now considered a 'great opportunity'." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Mở đầu một nhận xét thẳng thắn, đôi khi hơi châm chọc.", "example": "Frankly, his so-called 'masterpiece' looked like a toddler's painting." },
+    { "term": "supposedly", "ipa": "/səˈpəʊ.zɪd.li/", "vi": "được cho là (ngầm ý nghi ngờ)", "when": "Khi muốn châm biếm điều mà người ta khẳng định nhưng bạn không tin.", "example": "This is supposedly the best restaurant in town, yet we waited an hour for cold soup." },
+    { "term": "to put it mildly", "ipa": "/tə pʊt ɪt ˈmaɪld.li/", "vi": "nói nhẹ đi thì là vậy (thực ra tệ hơn nhiều)", "when": "Cuối câu, báo hiệu bạn đang cố tình nói giảm để châm biếm.", "example": "The service was slow, to put it mildly — we nearly grew old at the table." },
+    { "term": "no pun intended", "ipa": "/nəʊ pʌn ɪnˈten.dɪd/", "vi": "không có ý chơi chữ đâu nhé", "when": "Khi câu vừa nói vô tình tạo ra một cách chơi chữ.", "example": "The bakery is on a roll lately — no pun intended." },
+    { "term": "in all seriousness", "ipa": "/ɪn ɔːl ˈsɪə.ri.əs.nəs/", "vi": "nói nghiêm túc nhé", "when": "Chuyển từ đùa sang nói thật, báo hiệu phần đùa đã hết.", "example": "Joking aside, in all seriousness, you did a fantastic job." }
+  ],
+
+  "dialogue": {
+    "context": "Hai đồng nghiệp thân thiết, Ben (người Anh, hài hước khô khan) và Bạn, vừa bước ra khỏi một cuộc họp dài lê thê và đang đùa cợt với nhau ở khu pha cà phê. Đây là kiểu banter công sở rất tự nhiên giữa bạn bè.",
+    "lines": [
+      {
+        "speaker": "Ben",
+        "text": "Well, that was a fantastic use of two hours, wasn't it — although, to be fair, I did manage to design my dream holiday in my head while he was talking.",
+        "ipa": "/wel ðæt wəz ə fænˈtæs.tɪk ˈjuːs əv tuː ˈaʊəz ˈwɒz.ənt ɪt ɔːlˈðəʊ tə biː feə aɪ dɪd ˈmæn.ɪdʒ tə dɪˈzaɪn maɪ driːm ˈhɒl.ɪ.deɪ ɪn maɪ hed waɪl hiː wəz ˈtɔː.kɪŋ/",
+        "vi": "Chà, đúng là hai tiếng đồng hồ được sử dụng 'cực kỳ hữu ích' nhỉ — mặc dù, nói công bằng, tôi cũng tranh thủ vẽ ra được kỳ nghỉ trong mơ trong đầu khi ông ấy nói."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh, ____, I learned so much — particularly that a meeting which could have been a single email can, in fact, last longer than some flights.",
+        "ipa": "/əʊ ... aɪ lɜːnd səʊ mʌtʃ pəˈtɪk.jə.lə.li ðət ə ˈmiː.tɪŋ wɪtʃ kʊd həv biːn ə ˈsɪŋ.ɡəl ˈem.eɪl kæn ɪn fækt lɑːst ˈlɒŋ.ɡə ðən sʌm flaɪts/",
+        "vi": "Ồ, ____, tôi học được nhiều ghê — đặc biệt là một cuộc họp mà lẽ ra chỉ cần một cái email lại có thể kéo dài hơn cả vài chuyến bay.",
+        "blanks": [
+          { "type": "knowledge", "answer": "absolutely", "explanationVi": "Một trạng từ nhấn mạnh như 'absolutely' (hoàn toàn) nói bằng giọng kéo dài, hơi chán, biến câu thành mỉa mai. Xem mẫu 'Oh, [tính từ tích cực phóng đại]…' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Ben",
+        "text": "Honestly, your sarcasm is improving — soon you'll be almost as good as me, which, in case you were wondering, is the highest compliment I give.",
+        "ipa": "/ˈɒn.ɪst.li jɔː ˈsɑːr.kæz.əm ɪz ɪmˈpruː.vɪŋ suːn juːl biː ˈɔːl.məʊst əz ɡʊd əz miː wɪtʃ ɪn keɪs juː wɜː ˈwʌn.dər.ɪŋ ɪz ðə ˈhaɪ.ɪst ˈkɒm.plɪ.mənt aɪ ɡɪv/",
+        "vi": "Thật lòng nhé, khả năng mỉa mai của cậu đang tiến bộ đấy — chẳng mấy mà gần giỏi bằng tôi, mà này, phòng khi cậu thắc mắc, đó là lời khen cao nhất mà tôi từng trao."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm honoured, truly. ____ I'd never reach your level — your talent for delivering insults with a straight face is, frankly, a gift few of us mortals possess.",
+        "ipa": "/aɪm ˈɒn.əd ˈtruː.li ... aɪd ˈnev.ə riːtʃ jɔː ˈlev.əl jɔː ˈtæl.ənt fə dɪˈlɪv.ər.ɪŋ ɪnˈsʌlts wɪð ə streɪt feɪs ɪz ˈfræŋk.li ə ɡɪft fjuː əv ʌs ˈmɔː.təlz pəˈzes/",
+        "vi": "Vinh hạnh quá đi mất. ____ tôi sẽ chẳng bao giờ đạt tới đẳng cấp của cậu — cái tài tung lời móc máy mà mặt vẫn tỉnh bơ thì, nói thẳng ra, là một thiên phú mà ít kẻ phàm trần như chúng tôi có được.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Naturally", "explanationVi": "'Naturally' (lẽ tất nhiên là) mở câu bằng giọng giả vờ khiêm tốn, mang sắc thái mỉa mai: 'đương nhiên tôi chẳng bao giờ giỏi bằng cậu'. Lưu ý: KHÔNG dùng 'Although' ở đây, vì mệnh đề nhượng bộ với 'Although' sẽ bị bỏ lửng, không có mệnh đề chính đi kèm." }
+        ]
+      },
+      {
+        "speaker": "Ben",
+        "text": "Steady on — keep flattering me like that and I might start to think you mean it. By the way, are you coming to ____ tonight, or are you 'busy' again, as you mysteriously always are on Fridays?",
+        "ipa": "/ˈsted.i ɒn kiːp ˈflæt.ər.ɪŋ miː laɪk ðæt ænd aɪ maɪt stɑːt tə θɪŋk juː miːn ɪt baɪ ðə weɪ ɑː juː ˈkʌm.ɪŋ tə ... təˈnaɪt ɔː ɑː juː ˈbɪz.i əˈɡen əz juː mɪˈstɪə.ri.əs.li ˈɔːl.weɪz ɑː ɒn ˈfraɪ.deɪz/",
+        "vi": "Từ từ thôi — cứ nịnh tôi kiểu đó thì tôi lại tưởng cậu nói thật mất. Nhân tiện, tối nay cậu có đến ____ không, hay lại 'bận' như cậu vẫn luôn bận một cách bí ẩn vào mỗi tối thứ Sáu?",
+        "blanks": [
+          { "type": "personal", "hint": "Một địa điểm/sự kiện gặp mặt. Ví dụ: 'the pub', 'the team dinner', 'Anna's leaving party'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'll be there, I promise — not only because I genuinely enjoy your company, ____ also because someone has to stop you from telling that same terrible joke about the chicken for the hundredth time.",
+        "ipa": "/aɪl biː ðeə aɪ ˈprɒm.ɪs nɒt ˈəʊn.li bɪˈkɒz aɪ ˈdʒen.ju.ɪn.li ɪnˈdʒɔɪ jɔː ˈkʌm.pə.ni ... ˈɔːl.səʊ bɪˈkɒz ˈsʌm.wʌn həz tə stɒp juː frəm ˈtel.ɪŋ ðæt seɪm ˈter.ə.bəl dʒəʊk əˈbaʊt ðə ˈtʃɪk.ɪn fə ðə ˈhʌn.drədθ taɪm/",
+        "vi": "Tôi sẽ đến, tôi hứa — không chỉ vì tôi thật sự thích ở cạnh cậu, ____ còn vì phải có ai đó ngăn cậu kể lại đúng cái câu đùa thảm họa về con gà tới lần thứ một trăm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only … but also …' (không những… mà còn…) cần 'but' ở vế hai. Đây là kết cấu nhấn mạnh rất hay gặp trong TOEIC." }
+        ]
+      },
+      {
+        "speaker": "Ben",
+        "text": "Excuse me, that chicken joke is a masterpiece — despite what my so-called friends claim, comedic genius is rarely appreciated in its own time.",
+        "ipa": "/ɪkˈskjuːz miː ðæt ˈtʃɪk.ɪn dʒəʊk ɪz ə ˈmɑː.stə.piːs dɪˈspaɪt wɒt maɪ ˈsəʊ kɔːld frendz kleɪm kəˈmiː.dɪk ˈdʒiː.ni.əs ɪz ˈreə.li əˈpriː.ʃi.eɪ.tɪd ɪn ɪts əʊn taɪm/",
+        "vi": "Xin lỗi nhé, câu đùa con gà đó là một kiệt tác — bất chấp những gì đám 'bạn bè' của tôi nói, thiên tài hài hước hiếm khi được trân trọng ngay trong thời đại của mình."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Joking aside, ____ all seriousness, you really are the funniest person on this team, and the office would be unbearably dull without your endless commentary, however much I pretend to groan at it.",
+        "ipa": "/ˈdʒəʊ.kɪŋ əˈsaɪd ... ɔːl ˈsɪə.ri.əs.nəs juː ˈrɪə.li ɑː ðə ˈfʌn.i.ɪst ˈpɜː.sən ɒn ðɪs tiːm ænd ði ˈɒf.ɪs wʊd biː ʌnˈbeə.rə.bli dʌl wɪˈðaʊt jɔːr ˈend.ləs ˈkɒm.ən.tri haʊˈev.ə mʌtʃ aɪ prɪˈtend tə ɡrəʊn ət ɪt/",
+        "vi": "Đùa thế thôi, ____ nghiêm túc mà nói, cậu đúng là người vui tính nhất nhóm này, và văn phòng sẽ buồn tẻ không chịu nổi nếu thiếu mấy lời bình luận bất tận của cậu, dù tôi có vờ rên rỉ tới mức nào đi nữa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in", "explanationVi": "Cụm cố định 'in all seriousness' (nói nghiêm túc nhé) dùng để chuyển từ đùa sang thật. Giới từ cố định là 'in'. Xem phần Trạng từ & cụm từ." }
+        ]
+      },
+      {
+        "speaker": "Ben",
+        "text": "Now you've gone and ruined it — I was perfectly happy being insulted. Right, see you at seven, and try ____ to be fashionably late this time.",
+        "ipa": "/naʊ juːv ɡɒn ænd ˈruː.ɪnd ɪt aɪ wəz ˈpɜː.fɪkt.li ˈhæp.i ˈbiː.ɪŋ ɪnˈsʌl.tɪd raɪt siː juː ət ˈsev.ən ænd traɪ ... tə biː ˈfæʃ.ən.ə.bli leɪt ðɪs taɪm/",
+        "vi": "Giờ thì cậu phá hỏng hết rồi — tôi đang yên vui với việc bị móc máy cơ mà. Thôi, hẹn gặp lúc bảy giờ, và lần này cố ____ đến muộn kiểu 'sang chảnh' nữa nhé.",
+        "blanks": [
+          { "type": "knowledge", "answer": "not", "explanationVi": "Cấu trúc 'try not to + V' (cố gắng đừng làm gì). Phủ định đặt 'not' giữa 'try to' → 'try not to be late'. Câu mang sắc thái trêu chọc nhẹ (banter)." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Hài hước Anh (British humour) cực kỳ chuộng sarcasm, deadpan và understatement (nói giảm). Người Anh thường khen 'It's not bad' khi thật ra rất thích, hoặc nói 'a bit of a disaster' khi mọi thứ hỏng nặng.",
+    "Banter (trêu chọc qua lại) là DẤU HIỆU của tình thân ở Anh/Úc: bạn càng thân, họ càng trêu bạn nhiều. Bị trêu thường có nghĩa là bạn đã được chấp nhận vào nhóm, chứ không phải bị ghét.",
+    "Sarcasm dựa gần như hoàn toàn vào NGỮ ĐIỆU và nét mặt, không phải từ ngữ. Cùng câu 'Great job' có thể là khen thật hoặc mỉa mai tùy giọng — người học cần luyện nghe kỹ ngữ điệu.",
+    "Khác biệt văn hóa: sarcasm dễ bị hiểu lầm khi nói với người không cùng nền văn hóa hoặc qua văn bản (chat, email). Khi nghi ngờ, hãy thêm 'just kidding' hoặc một emoji để tránh gây hiểu nhầm."
+  ],
+
+  "commonMistakes": [
+    "Nói sarcasm bằng giọng phẳng, không có ngữ điệu mỉa mai → người nghe tưởng bạn khen/chê thật. Phải kéo dài và hạ giọng ở từ khóa ('Oh, GREAT…').",
+    "Lẫn lộn 'funny' (buồn cười) với 'fun' (vui): 'He is funny' = anh ấy hài; 'He is fun' = ở cạnh anh ấy vui. Nói 'The party was funny' nghe sai — nên là 'The party was fun'.",
+    "Dùng 'very hilarious' hay 'very exhausted' — các tính từ cực cấp (hilarious, exhausted, freezing) đã mang nghĩa 'rất', chỉ cần 'absolutely/utterly', không dùng 'very'.",
+    "Trêu (banter) người chưa đủ thân hoặc trong ngữ cảnh trang trọng → dễ bị coi là thô lỗ. Sarcasm/banter cần sự tin tưởng; với người lạ hãy dùng wit nhẹ nhàng và an toàn hơn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nhận biết và đáp lại hài hước, mỉa mai như người bản xứ.",
+    "prompt": "Hãy đóng vai một đồng nghiệp người Anh có khiếu hài hước khô khan (dry, deadpan), đang trò chuyện thân mật (banter) với tôi bằng tiếng Anh trong giờ giải lao. Hãy chủ động thả vào câu chuyện những lời mỉa mai (sarcasm), nói giảm (understatement) và cường điệu (hyperbole), nhưng đừng giải thích ngay — để tôi tự phản ứng. Sau mỗi lượt của tôi, hãy: (1) đáp lại tự nhiên và tiếp tục đùa, (2) cho tôi biết bằng tiếng Việt liệu tôi có NHẬN RA câu mỉa mai và đáp lại đúng tinh thần không, (3) sửa lỗi ngữ pháp và gợi ý cách nói dí dỏm/sắc sảo hơn (witty) bằng tiếng Việt, (4) khuyến khích tôi dùng câu dài với 'although', 'not only… but also', 'which/who', 'despite'. Cuối buổi, chấm điểm khả năng 'bắt sóng' hài hước của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng một câu mỉa mai nhẹ về thời tiết nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy nói nhanh và dùng nhiều thành ngữ/tiếng lóng kiểu Anh để tôi tập bắt ý.' khi bạn đã quen.",
+      "Thêm: 'Thỉnh thoảng nói một câu mơ hồ giữa khen thật và mỉa mai, rồi hỏi xem tôi hiểu nghĩa nào.' để luyện đọc ngữ điệu.",
+      "Thêm: 'Hãy thử kiểu hài hước Mỹ (thẳng thắn hơn) rồi so sánh với hài hước Anh để tôi thấy khác biệt.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nhận ra được khi nào người đối diện đang mỉa mai (sarcasm) thay vì khen/chê thật, dựa vào ngữ điệu và ngữ cảnh.",
+    "Tôi tạo được một câu đùa theo lối deadpan hoặc understatement và biết dùng 'just kidding' để gỡ ngòi khi cần.",
+    "Tôi đáp lại được banter của bạn bè bằng một câu dài, dí dỏm, có dùng 'although' hoặc 'not only… but also'."
+  ]
+}

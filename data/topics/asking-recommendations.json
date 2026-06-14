@@ -1,0 +1,343 @@
+{
+  "id": "asking-recommendations",
+  "category": "travel",
+  "title": "Hỏi gợi ý địa điểm",
+  "titleEn": "Asking for Recommendations",
+  "level": "B1",
+  "functions": ["asking-info", "suggesting", "opinions"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi người địa phương gợi ý địa điểm tham quan, nhà hàng, hoạt động",
+    "Nói rõ sở thích và yêu cầu của bản thân để được gợi ý phù hợp",
+    "Hiểu và phản hồi lại lời gợi ý (đồng ý, hỏi thêm chi tiết)",
+    "Dùng câu vừa phải có 'such as', 'because', 'so', mệnh đề quan hệ khi hỏi và đáp"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "recommendation",
+      "ipa": "/ˌrek.ə.menˈdeɪ.ʃən/",
+      "vi": "lời gợi ý / đề xuất (danh từ)",
+      "register": "neutral",
+      "example": "Could you give me a recommendation for a good seafood restaurant?",
+      "exampleVi": "Bạn có thể gợi ý cho tôi một nhà hàng hải sản ngon không?",
+      "note": "Danh từ. Động từ là 'to recommend'. Cụm hay dùng: 'give a recommendation', 'have any recommendations'.",
+      "synonyms": [
+        { "term": "suggestion", "ipa": "/səˈdʒes.tʃən/", "register": "neutral", "nuanceVi": "Nhẹ hơn, chỉ là 'một ý đưa ra để bạn cân nhắc'. 'Recommendation' nghe có sức nặng hơn, như lời khuyên nên làm theo." },
+        { "term": "tip", "ipa": "/tɪp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mẹo, lời mách nhỏ'. Vd 'Any tips for first-time visitors?'. Thân mật hơn." }
+      ]
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "gợi ý, giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "What would you recommend for a first-time visitor?",
+      "exampleVi": "Bạn sẽ gợi ý gì cho người lần đầu đến đây?",
+      "note": "Động từ. Theo sau là danh từ hoặc V-ing: 'I recommend visiting the old town', KHÔNG dùng 'recommend to visit'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Cũng theo sau bằng V-ing ('I suggest going...'). Nhẹ nhàng hơn, ít mang tính 'nên làm' so với recommend." },
+        { "term": "to advise", "ipa": "/ədˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng hơn, mang nghĩa 'khuyên dựa trên hiểu biết'. Vd 'I'd advise you to book in advance.'" }
+      ]
+    },
+    {
+      "term": "attraction",
+      "ipa": "/əˈtræk.ʃən/",
+      "vi": "điểm tham quan, điểm thu hút (danh từ)",
+      "register": "neutral",
+      "example": "The main attraction in this city is the old temple.",
+      "exampleVi": "Điểm tham quan chính của thành phố này là ngôi đền cổ.",
+      "note": "Danh từ. 'Tourist attraction' = điểm thu hút khách du lịch. Khác 'attractive' (tính từ: hấp dẫn).",
+      "synonyms": [
+        { "term": "sight", "ipa": "/saɪt/", "register": "neutral", "nuanceVi": "Nghĩa 'cảnh/địa điểm đáng xem'. Cụm phổ biến: 'see the sights', 'go sightseeing'." },
+        { "term": "landmark", "ipa": "/ˈlænd.mɑːrk/", "register": "neutral", "nuanceVi": "Nhấn vào 'công trình/địa điểm nổi tiếng, dễ nhận ra' của một nơi (vd tháp Eiffel). Hẹp hơn 'attraction'." }
+      ]
+    },
+    {
+      "term": "local",
+      "ipa": "/ˈloʊ.kəl/",
+      "vi": "thuộc địa phương; người địa phương (tính từ / danh từ)",
+      "register": "neutral",
+      "example": "I'd love to try some local food while I'm here.",
+      "exampleVi": "Tôi rất muốn thử món ăn địa phương khi ở đây.",
+      "note": "Vừa là tính từ ('local food', 'local market') vừa là danh từ ('ask the locals' = hỏi người dân địa phương).",
+      "synonyms": [
+        { "term": "traditional", "ipa": "/trəˈdɪʃ.ən.əl/", "register": "neutral", "nuanceVi": "Tính từ, nhấn 'theo truyền thống lâu đời'. 'Local' nhấn 'thuộc vùng này', không nhất thiết lâu đời." }
+      ]
+    },
+    {
+      "term": "worth",
+      "ipa": "/wɜːrθ/",
+      "vi": "đáng (làm gì) (tính từ)",
+      "register": "neutral",
+      "example": "The museum is definitely worth visiting.",
+      "exampleVi": "Bảo tàng đó chắc chắn đáng để ghé thăm.",
+      "note": "Theo sau luôn là V-ing: 'worth visiting', 'worth seeing'. KHÔNG nói 'worth to visit'.",
+      "synonyms": [
+        { "term": "worthwhile", "ipa": "/ˌwɜːrθˈwaɪl/", "register": "neutral", "nuanceVi": "Tính từ, nghĩa 'đáng công sức/thời gian'. Vd 'a worthwhile trip'. Đứng trước danh từ tự nhiên hơn 'worth'." }
+      ]
+    },
+    {
+      "term": "crowded",
+      "ipa": "/ˈkraʊ.dɪd/",
+      "vi": "đông đúc (tính từ)",
+      "register": "neutral",
+      "example": "The beach gets really crowded on weekends.",
+      "exampleVi": "Bãi biển trở nên rất đông vào cuối tuần.",
+      "note": "Tính từ. Khác 'crowd' (danh từ: đám đông). Trái nghĩa: 'quiet', 'empty'.",
+      "synonyms": [
+        { "term": "packed", "ipa": "/pækt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'đông kín, chật như nêm'. Mạnh hơn 'crowded'." },
+        { "term": "busy", "ipa": "/ˈbɪz.i/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'nhộn nhịp, nhiều người qua lại'. Không nhất thiết quá tải như 'crowded'." }
+      ]
+    },
+    {
+      "term": "stunning",
+      "ipa": "/ˈstʌn.ɪŋ/",
+      "vi": "tuyệt đẹp, choáng ngợp (tính từ)",
+      "register": "neutral",
+      "example": "The view from the top of the hill is absolutely stunning.",
+      "exampleVi": "Cảnh từ trên đỉnh đồi đẹp đến choáng ngợp.",
+      "note": "Tính từ mạnh, dùng để khen cảnh đẹp xuất sắc. Mạnh hơn 'beautiful' nhiều.",
+      "synonyms": [
+        { "term": "breathtaking", "ipa": "/ˈbreθˌteɪ.kɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'đẹp đến nín thở'. Sắc thái gần y hệt 'stunning', hay dùng cho phong cảnh thiên nhiên." },
+        { "term": "gorgeous", "ipa": "/ˈɡɔːr.dʒəs/", "register": "casual", "nuanceVi": "Thân mật, đầy cảm xúc, nghĩa 'cực kỳ đẹp'. Dùng nhiều trong nói chuyện hằng ngày." }
+      ]
+    },
+    {
+      "term": "to explore",
+      "ipa": "/ɪkˈsplɔːr/",
+      "vi": "khám phá, đi loanh quanh tìm hiểu (động từ)",
+      "register": "neutral",
+      "example": "We spent the whole afternoon exploring the old streets.",
+      "exampleVi": "Chúng tôi dành cả buổi chiều khám phá những con phố cổ.",
+      "note": "Động từ. Mang sắc thái 'đi tìm hiểu một nơi mới một cách thoải mái, không vội'.",
+      "synonyms": [
+        { "term": "to wander", "ipa": "/ˈwɑːn.dər/", "register": "neutral", "nuanceVi": "Nhấn 'đi lang thang không theo lịch trình cố định'. Vd 'wander around the market'. Thư thả hơn 'explore'." },
+        { "term": "to discover", "ipa": "/dɪˈskʌv.ər/", "register": "neutral", "nuanceVi": "Nhấn vào 'phát hiện ra điều mới'. Thiên về kết quả tìm thấy, còn explore thiên về quá trình đi." }
+      ]
+    },
+    {
+      "term": "authentic",
+      "ipa": "/ɔːˈθen.tɪk/",
+      "vi": "đích thực, đúng kiểu nguyên bản (tính từ)",
+      "register": "neutral",
+      "example": "If you want authentic noodles, go to the small shop near the market.",
+      "exampleVi": "Nếu muốn ăn mì đúng vị, hãy đến quán nhỏ gần chợ.",
+      "note": "Tính từ. Rất hay dùng khi nói về đồ ăn/trải nghiệm 'chuẩn vị địa phương, không bị làm cho khách du lịch'.",
+      "synonyms": [
+        { "term": "genuine", "ipa": "/ˈdʒen.ju.ɪn/", "register": "neutral", "nuanceVi": "Nghĩa 'thật, không giả'. Gần nghĩa nhưng 'authentic' nhấn 'đúng nguồn gốc/truyền thống', còn 'genuine' nhấn 'không phải hàng nhái'." }
+      ]
+    },
+    {
+      "term": "conveniently",
+      "ipa": "/kənˈviː.ni.ənt.li/",
+      "vi": "một cách thuận tiện (trạng từ)",
+      "register": "neutral",
+      "example": "The hotel is conveniently located near the train station.",
+      "exampleVi": "Khách sạn nằm ở vị trí thuận tiện gần ga tàu.",
+      "note": "Trạng từ. Cụm hay gặp: 'conveniently located'. Tính từ là 'convenient'.",
+      "synonyms": [
+        { "term": "handily", "ipa": "/ˈhæn.dɪ.li/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'tiện lợi, dễ với tới'. Vd 'handily located'. Ít trang trọng hơn 'conveniently'." }
+      ]
+    },
+    {
+      "term": "ideally",
+      "ipa": "/aɪˈdiːə.li/",
+      "vi": "lý tưởng nhất là... (trạng từ)",
+      "register": "neutral",
+      "example": "Ideally, I'd like somewhere quiet and not too touristy.",
+      "exampleVi": "Lý tưởng nhất là tôi muốn một nơi yên tĩnh và không quá đông khách du lịch.",
+      "note": "Trạng từ, đặt đầu câu để nêu mong muốn 'trong trường hợp tốt nhất'. Rất hữu ích khi mô tả yêu cầu của bạn."
+    },
+    {
+      "term": "off the beaten track",
+      "ipa": "/ˌɔːf ðə ˌbiː.tən ˈtræk/",
+      "vi": "nơi ít người biết, ngoài lối mòn du lịch (thành ngữ)",
+      "register": "casual",
+      "example": "I prefer places that are off the beaten track.",
+      "exampleVi": "Tôi thích những nơi ít người tới, ngoài tuyến du lịch thường thấy.",
+      "note": "Thành ngữ rất thông dụng trong du lịch, nghĩa là 'không phải điểm du lịch đại trà, ít khách'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you recommend [danh từ] (for [mục đích])?",
+      "use": "Hỏi gợi ý một cách lịch sự, trực tiếp.",
+      "register": "neutral",
+      "examples": [
+        "Could you recommend a good restaurant for dinner?",
+        "Could you recommend somewhere quiet for a coffee?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự và phù hợp khi hỏi người lạ. Sau 'recommend' là danh từ, không thêm 'to'. Đây là cách hỏi gợi ý chuẩn nhất.",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "Do you have any recommendations for [danh từ]?",
+      "use": "Hỏi gợi ý chung chung, mở.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any recommendations for things to do at night?",
+        "Do you have any recommendations for local dishes I should try?"
+      ],
+      "explanationVi": "Cách hỏi 'mở' để người ta tự do gợi ý. 'recommendations' số nhiều vì bạn sẵn sàng nghe nhiều ý.",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "What would you suggest if [mệnh đề điều kiện]?",
+      "use": "Hỏi gợi ý gắn với hoàn cảnh cụ thể của bạn.",
+      "register": "neutral",
+      "examples": [
+        "What would you suggest if I only have one day here?",
+        "What would you suggest if I'm travelling with kids?"
+      ],
+      "explanationVi": "Dùng câu điều kiện loại 1 ('if + hiện tại') để nêu tình huống, giúp người ta gợi ý sát nhu cầu của bạn hơn.",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "I'm looking for [danh từ] that [mệnh đề quan hệ].",
+      "use": "Mô tả rõ loại địa điểm/trải nghiệm bạn muốn.",
+      "register": "neutral",
+      "examples": [
+        "I'm looking for a café that has a nice view.",
+        "I'm looking for a place that isn't too crowded."
+      ],
+      "explanationVi": "Dùng mệnh đề quan hệ với 'that' để mô tả chi tiết yêu cầu. Nói rõ mong muốn giúp người gợi ý đúng ý bạn hơn."
+    },
+    {
+      "pattern": "Is [địa điểm] worth visiting?",
+      "use": "Hỏi xem một nơi có đáng đến không.",
+      "register": "neutral",
+      "examples": [
+        "Is the night market worth visiting?",
+        "Is it worth going all the way to the waterfall?"
+      ],
+      "explanationVi": "'worth + V-ing' = đáng để làm gì. Câu rất tiện để 'lọc' xem nên ưu tiên đi đâu khi thời gian có hạn."
+    },
+    {
+      "pattern": "I'd prefer somewhere [tính từ], such as [ví dụ].",
+      "use": "Nêu sở thích kèm ví dụ minh họa.",
+      "register": "neutral",
+      "examples": [
+        "I'd prefer somewhere quiet, such as a small local café.",
+        "I'd prefer somewhere lively, such as a street-food area."
+      ],
+      "explanationVi": "'I'd prefer' (= I would prefer) nói sở thích lịch sự. 'such as' nêu ví dụ giúp người nghe hình dung đúng kiểu nơi bạn thích."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn nói rõ hơn sở thích hoặc đính chính nhẹ.", "example": "Actually, I'd rather avoid touristy places." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn (nhấn mạnh)", "when": "Khi khẳng định mạnh điều mình thích hoặc đồng ý với gợi ý.", "example": "I'll definitely check that place out." },
+    { "term": "honestly", "ipa": "/ˈɑːn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi đưa ý kiến chân thành về một nơi.", "example": "Honestly, the food court is better than most restaurants here." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, is it easy to get there by bus?" },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Khi nhấn vào một sở thích cụ thể.", "example": "I'm particularly interested in local markets." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang đi du lịch và hỏi nhân viên lễ tân khách sạn (một người địa phương) gợi ý những nơi nên đi, nơi ăn uống và hoạt động trong ngày.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good morning! I hope you slept well. Is there anything I can help you plan for today?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ aɪ hoʊp juː slept wel ɪz ðer ˈen.i.θɪŋ aɪ kæn help juː plæn fɔːr təˈdeɪ/",
+        "vi": "Chào buổi sáng! Hy vọng quý khách ngủ ngon. Tôi có thể giúp quý khách lên kế hoạch gì cho hôm nay không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. Actually, it's my first time here, so could you ____ a few things to do nearby, particularly some local attractions?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ ˈæk.tʃu.ə.li ɪts maɪ fɜːrst taɪm hɪr soʊ kʊd juː ... ə fjuː θɪŋz tə duː ˈnɪr.baɪ pəˈtɪk.jə.lə.li sʌm ˈloʊ.kəl əˈtræk.ʃənz/",
+        "vi": "Chào buổi sáng. Thật ra đây là lần đầu tôi đến đây, nên bạn có thể ____ vài thứ để làm gần đây không, đặc biệt là vài điểm tham quan địa phương?",
+        "blanks": [
+          { "type": "knowledge", "answer": "recommend", "explanationVi": "Dùng động từ 'recommend' (gợi ý) sau 'could you'. Sau 'recommend' là danh từ trực tiếp, không thêm 'to'. Xem mẫu câu 'Could you recommend...?'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course! There's a beautiful old town just ten minutes away, which is definitely worth ____. It can get a little crowded around noon, though, so I'd suggest going early.",
+        "ipa": "/ʌv kɔːrs ðerz ə ˈbjuː.tɪ.fəl oʊld taʊn dʒʌst ten ˈmɪn.ɪts əˈweɪ wɪtʃ ɪz ˈdef.ɪn.ət.li wɜːrθ ... ɪt kæn ɡet ə ˈlɪt.əl ˈkraʊ.dɪd əˈraʊnd nuːn ðoʊ soʊ aɪd səˈdʒest ˈɡoʊ.ɪŋ ˈɜːr.li/",
+        "vi": "Tất nhiên rồi! Có một phố cổ rất đẹp chỉ cách đây mười phút, chắc chắn đáng để ____. Tuy nhiên khoảng trưa nơi đó hơi đông, nên tôi khuyên quý khách nên đi sớm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "visiting", "explanationVi": "Sau 'worth' luôn dùng V-ing, nên là 'worth visiting'. KHÔNG nói 'worth to visit'. Xem mẫu câu 'Is ... worth visiting?'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds lovely. I'm looking for a place ____ serves authentic local food, ideally somewhere quiet rather than a big tourist restaurant. Do you have any suggestions?",
+        "ipa": "/ðæt saʊndz ˈlʌv.li aɪm ˈlʊk.ɪŋ fɔːr ə pleɪs ... sɜːrvz ɔːˈθen.tɪk ˈloʊ.kəl fuːd aɪˈdiːə.li ˈsʌm.wer kwaɪət ˈrɑːð.ər ðæn ə bɪɡ ˈtʊr.ɪst ˈres.trɑːnt duː juː hæv ˈen.i səˈdʒes.tʃənz/",
+        "vi": "Nghe tuyệt đấy. Tôi đang tìm một nơi ____ phục vụ món ăn địa phương đúng vị, lý tưởng nhất là một chỗ yên tĩnh thay vì nhà hàng du lịch lớn. Bạn có gợi ý nào không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "Dùng đại từ quan hệ 'that' (hoặc 'which') để nối mệnh đề mô tả 'a place'. Xem mẫu câu 'I'm looking for ... that ...'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "In that case, I'd recommend a small family-run place near the river, such as Mama Lan's. The food there is genuinely authentic, and because it's off the beaten track, it never feels too crowded.",
+        "ipa": "/ɪn ðæt keɪs aɪd ˌrek.əˈmend ə smɔːl ˈfæm.əl.i rʌn pleɪs nɪr ðə ˈrɪv.ər sʌtʃ æz ˈmɑː.mə lænz ðə fuːd ðer ɪz ˈdʒen.ju.ɪn.li ɔːˈθen.tɪk ænd bɪˈkɔːz ɪts ɔːf ðə ˌbiː.tən ˈtræk ɪt ˈnev.ər fiːlz tuː ˈkraʊ.dɪd/",
+        "vi": "Vậy thì tôi gợi ý một quán nhỏ do gia đình tự quản gần sông, chẳng hạn như quán Mama Lan. Đồ ăn ở đó đúng vị thật sự, và vì nó nằm ngoài tuyến du lịch nên không bao giờ quá đông."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect, that's exactly what I was hoping for. By the way, if I only have one afternoon free, what would you ____ I do to make the most of it?",
+        "ipa": "/ˈpɜːr.fɪkt ðæts ɪɡˈzækt.li wɒt aɪ wɒz ˈhoʊ.pɪŋ fɔːr baɪ ðə weɪ ɪf aɪ ˈoʊn.li hæv wʌn ˌɑːf.tərˈnuːn friː wɒt wʊd juː ... aɪ duː tə meɪk ðə moʊst ʌv ɪt/",
+        "vi": "Hoàn hảo, đúng thứ tôi đang mong. Tiện thể, nếu tôi chỉ rảnh một buổi chiều, bạn sẽ ____ tôi làm gì để tận dụng tối đa thời gian?",
+        "blanks": [
+          { "type": "knowledge", "answer": "suggest", "explanationVi": "Dùng 'suggest' trong câu hỏi gợi ý 'What would you suggest (that) I do...?'. 'suggest' và 'recommend' gần nghĩa; ở đây hợp với câu điều kiện. Xem mẫu 'What would you suggest if...?'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "If I were you, I'd take the cable car up the hill, ____ the view from the top is absolutely stunning. Then you could wander down through the old streets on your way back.",
+        "ipa": "/ɪf aɪ wɜːr juː aɪd teɪk ðə ˈkeɪ.bəl kɑːr ʌp ðə hɪl ... ðə vjuː frʌm ðə tɑːp ɪz ˈæb.sə.luːt.li ˈstʌn.ɪŋ ðen juː kʊd ˈwɑːn.dər daʊn θruː ði oʊld striːts ɒn jɔːr weɪ bæk/",
+        "vi": "Nếu là quý khách, tôi sẽ đi cáp treo lên đồi, ____ cảnh từ trên đỉnh đẹp đến choáng ngợp. Sau đó quý khách có thể thong thả đi bộ xuống qua các con phố cổ trên đường về.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do nên đi cáp treo (vì cảnh đẹp). Đây là liên từ nêu nguyên nhân rất thông dụng ở cấp B1." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a great plan. Is the cable car easy to get to, and ____ it conveniently located near the old town?",
+        "ipa": "/ðæts ə ɡreɪt plæn ɪz ðə ˈkeɪ.bəl kɑːr ˈiː.zi tə ɡet tuː ænd ... ɪt kənˈviː.ni.ənt.li ˈloʊ.keɪ.tɪd nɪr ði oʊld taʊn/",
+        "vi": "Kế hoạch tuyệt đấy. Cáp treo có dễ đến không, và ____ nó có nằm thuận tiện gần phố cổ không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "is", "explanationVi": "Câu hỏi Yes/No với động từ 'to be', chủ ngữ số ít 'it' ở thì hiện tại đơn nên dùng 'is': 'is it conveniently located...?'. Đây là câu hỏi đảo động từ 'be' lên trước chủ ngữ." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Yes, it's only a five-minute walk from there. Here's a map, and I've marked the spots I'd recommend, so you won't get lost. Enjoy your day!",
+        "ipa": "/jes ɪts ˈoʊn.li ə faɪv ˈmɪn.ɪt wɔːk frʌm ðer hɪrz ə mæp ænd aɪv mɑːrkt ðə spɑːts aɪd ˌrek.əˈmend soʊ juː woʊnt ɡet lɒst ɪnˈdʒɔɪ jɔːr deɪ/",
+        "vi": "Vâng, chỉ đi bộ năm phút từ đó. Đây là bản đồ, tôi đã đánh dấu những điểm tôi gợi ý nên quý khách sẽ không bị lạc. Chúc quý khách một ngày vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Hỏi người địa phương (lễ tân, chủ quán, người dân) là cách hay nhất để tìm chỗ 'authentic'; họ thường mách những nơi không có trong sách hướng dẫn.",
+    "Người phương Tây quen với việc khách hỏi gợi ý và sẵn lòng giúp; mở đầu bằng 'Could you...?' hoặc 'Do you have any recommendations?' nghe rất lịch sự.",
+    "Khi được gợi ý, hãy phản hồi tích cực ('That sounds great', 'I'll definitely check it out') — im lặng có thể bị hiểu là không quan tâm.",
+    "Ở nhiều nơi, hỏi 'where do the locals eat?' sẽ giúp bạn tránh các quán 'tourist trap' (bẫy du lịch) giá cao mà chất lượng tầm thường."
+  ],
+
+  "commonMistakes": [
+    "Sai dạng sau 'recommend' và 'suggest': phải dùng V-ing hoặc danh từ — 'I recommend visiting', KHÔNG nói 'recommend to visit'.",
+    "Quên V-ing sau 'worth': luôn là 'worth visiting / worth seeing', không phải 'worth to visit'.",
+    "Nói cộc lốc 'Where should I go?' Hãy bọc bằng 'Could you recommend...?' hoặc 'Do you have any recommendations for...?' cho lịch sự.",
+    "Nhầm 'attraction' (điểm tham quan, danh từ) với 'attractive' (hấp dẫn, tính từ)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện hỏi gợi ý địa điểm như thật.",
+    "prompt": "Hãy đóng vai một người địa phương thân thiện (ví dụ lễ tân khách sạn hoặc người dân) nói tiếng Anh ở một thành phố du lịch mà tôi sẽ nêu. Tôi là khách du lịch muốn hỏi gợi ý về điểm tham quan, chỗ ăn và hoạt động. Hãy bắt đầu bằng cách chào tôi và hỏi tôi thích kiểu gì. Sau mỗi câu của tôi, hãy: (1) gợi ý tự nhiên như người địa phương thật và hỏi lại để hiểu sở thích của tôi, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên (đặc biệt với 'recommend', 'suggest', 'worth') thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'such as', 'because', 'so' và mệnh đề quan hệ 'that/which'. Nói thân thiện, chậm rãi. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đưa ra hai gợi ý trái ngược nhau để tôi tập hỏi thêm và so sánh.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và 3 từ vựng nên dùng nhiều hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được gợi ý một cách lịch sự bằng 'Could you recommend...?' mà không nhìn gợi ý.",
+    "Tôi mô tả được sở thích của mình bằng câu có mệnh đề quan hệ 'that' và 'such as'.",
+    "Tôi dùng đúng V-ing sau 'recommend', 'suggest' và 'worth'."
+  ]
+}

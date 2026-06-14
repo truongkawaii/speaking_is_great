@@ -1,0 +1,372 @@
+{
+  "id": "ordering-restaurant",
+  "category": "daily-life",
+  "title": "Gọi món ở nhà hàng",
+  "titleEn": "Ordering at a Restaurant",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "suggesting"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Yêu cầu bàn và gọi món một cách lịch sự",
+    "Hỏi về món ăn, giá và thành phần (cay, chay, dị ứng)",
+    "Đề nghị thêm món, nước hoặc xin hóa đơn",
+    "Dùng các mẫu câu cơ bản 'I'd like…', 'Could I…?', 'Can I have…?' tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "menu",
+      "ipa": "/ˈmen.juː/",
+      "vi": "thực đơn (danh từ)",
+      "register": "neutral",
+      "example": "Could I see the menu, please?",
+      "exampleVi": "Cho tôi xem thực đơn được không?",
+      "note": "Danh từ. Phát âm là /ˈmen.juː/, không đọc thành 'mi-nu'. Số nhiều: menus."
+    },
+    {
+      "term": "to order",
+      "ipa": "/ˈɔː.dər/",
+      "vi": "gọi món, đặt món (động từ)",
+      "register": "neutral",
+      "example": "Are you ready to order?",
+      "exampleVi": "Quý khách đã sẵn sàng gọi món chưa?",
+      "note": "Vừa là động từ vừa là danh từ ('your order' = món bạn gọi). Câu của phục vụ: 'Are you ready to order?'.",
+      "synonyms": [
+        { "term": "to have", "ipa": "/həv/", "register": "casual", "nuanceVi": "Đời thường, dùng trong 'I'll have the chicken'. Nghĩa 'lấy/dùng món này', rất tự nhiên khi gọi món." },
+        { "term": "to get", "ipa": "/ɡet/", "register": "casual", "nuanceVi": "Thân mật, kiểu Mỹ: 'Can I get a coffee?'. Nghe trẻ trung, thoải mái hơn 'order'." }
+      ]
+    },
+    {
+      "term": "starter",
+      "ipa": "/ˈstɑː.tər/",
+      "vi": "món khai vị (danh từ)",
+      "register": "neutral",
+      "example": "Would you like a starter before your main course?",
+      "exampleVi": "Quý khách có muốn món khai vị trước món chính không?",
+      "note": "Anh-Anh dùng 'starter'; Anh-Mỹ thường dùng 'appetizer'.",
+      "synonyms": [
+        { "term": "appetizer", "ipa": "/ˈæp.ə.taɪ.zər/", "register": "neutral", "nuanceVi": "Cùng nghĩa 'món khai vị'. Người Mỹ dùng từ này phổ biến hơn 'starter'." }
+      ]
+    },
+    {
+      "term": "main course",
+      "ipa": "/ˌmeɪn ˈkɔːrs/",
+      "vi": "món chính (danh từ)",
+      "register": "neutral",
+      "example": "For my main course, I'll have the grilled fish.",
+      "exampleVi": "Món chính của tôi là cá nướng.",
+      "note": "Cụm danh từ. Anh-Mỹ đôi khi gọi là 'entrée'. Một bữa thường có: starter → main course → dessert."
+    },
+    {
+      "term": "dessert",
+      "ipa": "/dɪˈzɜːrt/",
+      "vi": "món tráng miệng (danh từ)",
+      "register": "neutral",
+      "example": "Would you like to see the dessert menu?",
+      "exampleVi": "Quý khách có muốn xem thực đơn tráng miệng không?",
+      "note": "Trọng âm rơi vào âm thứ hai /dɪˈzɜːrt/. Đừng nhầm với 'desert' /ˈdez.ərt/ (sa mạc)."
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "gợi ý, giới thiệu (món) (động từ)",
+      "register": "neutral",
+      "example": "What would you recommend?",
+      "exampleVi": "Anh/chị gợi ý món nào ạ?",
+      "note": "Động từ. Câu rất hữu ích khi bạn chưa biết chọn gì: 'What do you recommend?'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhẹ hơn một chút. 'recommend' nghe như lời khuyên chắc chắn hơn, hợp khi hỏi phục vụ." }
+      ]
+    },
+    {
+      "term": "spicy",
+      "ipa": "/ˈspaɪ.si/",
+      "vi": "cay (tính từ)",
+      "register": "neutral",
+      "example": "Is this dish very spicy?",
+      "exampleVi": "Món này có cay lắm không?",
+      "note": "Tính từ. Câu hỏi quan trọng nếu bạn không ăn được cay: 'Is it spicy?'.",
+      "synonyms": [
+        { "term": "hot", "ipa": "/hɒt/", "register": "casual", "nuanceVi": "Cũng nghĩa 'cay', đời thường. Nhưng 'hot' còn nghĩa 'nóng', nên dễ gây hiểu nhầm; 'spicy' rõ ràng hơn." },
+        { "term": "mild", "ipa": "/maɪld/", "register": "neutral", "nuanceVi": "Trái nghĩa: 'dịu, ít cay'. Dùng khi muốn món không cay: 'Could I have it mild?'." }
+      ]
+    },
+    {
+      "term": "vegetarian",
+      "ipa": "/ˌvedʒ.əˈteə.ri.ən/",
+      "vi": "chay / người ăn chay (tính từ & danh từ)",
+      "register": "neutral",
+      "example": "Do you have any vegetarian dishes?",
+      "exampleVi": "Nhà hàng có món chay nào không?",
+      "note": "Vừa là tính từ ('a vegetarian dish') vừa là danh từ ('I'm a vegetarian'). Người ăn thuần chay (không trứng/sữa) là 'vegan'."
+    },
+    {
+      "term": "bill",
+      "ipa": "/bɪl/",
+      "vi": "hóa đơn (danh từ)",
+      "register": "neutral",
+      "example": "Could we have the bill, please?",
+      "exampleVi": "Cho chúng tôi xin hóa đơn được không?",
+      "note": "Anh-Anh dùng 'bill'; Anh-Mỹ dùng 'check'. Câu xin tính tiền chuẩn: 'Could we have the bill, please?'.",
+      "synonyms": [
+        { "term": "check", "ipa": "/tʃek/", "register": "neutral", "nuanceVi": "Cùng nghĩa 'hóa đơn' nhưng là cách nói của người Mỹ: 'Can I get the check?'." }
+      ]
+    },
+    {
+      "term": "delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "vi": "ngon (tính từ)",
+      "register": "neutral",
+      "example": "The soup was really delicious.",
+      "exampleVi": "Món súp thật sự rất ngon.",
+      "note": "Tính từ khen món ăn ngon. Mạnh hơn 'good'. Khen đầu bếp/phục vụ rất được lòng.",
+      "synonyms": [
+        { "term": "tasty", "ipa": "/ˈteɪ.sti/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngon miệng, đậm đà'. Nhẹ nhàng hơn 'delicious'." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất thân mật, dễ thương, hay dùng với trẻ em hoặc bạn bè. Không hợp lúc trang trọng." }
+      ]
+    },
+    {
+      "term": "to be allergic to",
+      "ipa": "/əˈlɜː.dʒɪk tuː/",
+      "vi": "bị dị ứng với (tính từ + giới từ)",
+      "register": "neutral",
+      "example": "I'm allergic to peanuts.",
+      "exampleVi": "Tôi bị dị ứng với đậu phộng.",
+      "note": "Luôn đi với giới từ 'to' + danh từ. Câu rất quan trọng để báo phục vụ giữ an toàn cho sức khỏe."
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "nhanh, một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "Could the food come quickly, please? We're in a hurry.",
+      "exampleVi": "Đồ ăn ra nhanh giúp tôi nhé? Chúng tôi đang vội.",
+      "note": "Trạng từ. Dùng khi bạn cần đồ ăn ra sớm.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Cùng nghĩa nhưng vừa là tính từ vừa là trạng từ. Đời thường hơn 'quickly'." },
+        { "term": "soon", "ipa": "/suːn/", "register": "neutral", "nuanceVi": "Nhấn 'sớm, trong thời gian ngắn nữa' chứ không phải tốc độ. Vd 'Will it be ready soon?'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like [danh từ], please.",
+      "use": "Gọi món hoặc yêu cầu thứ gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like the grilled chicken, please.",
+        "I'd like a glass of water, please."
+      ],
+      "explanationVi": "'I'd like' = 'I would like', lịch sự hơn nhiều so với 'I want' (nghe hơi cộc). Đây là mẫu câu xương sống để gọi món.",
+      "altOf": "ordering-food"
+    },
+    {
+      "pattern": "Can I have [danh từ], please?",
+      "use": "Gọi món theo cách thân thiện, đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "Can I have a coffee, please?",
+        "Can I have the soup, please?"
+      ],
+      "explanationVi": "'Can I have…?' rất phổ biến và dễ dùng. Nhớ thêm 'please' cho lịch sự. Người Mỹ hay nói 'Can I get…?'.",
+      "altOf": "ordering-food"
+    },
+    {
+      "pattern": "I'll have [danh từ].",
+      "use": "Báo món bạn chọn khi phục vụ đang ghi order.",
+      "register": "casual",
+      "examples": [
+        "I'll have the beef noodles.",
+        "I'll have the same, please."
+      ],
+      "explanationVi": "'I'll have' = 'I will have', cách người bản xứ chốt món rất tự nhiên ngay tại bàn. Nghe thoải mái, không cứng nhắc.",
+      "altOf": "ordering-food"
+    },
+    {
+      "pattern": "Could I see [danh từ], please?",
+      "use": "Xin xem thực đơn, danh sách đồ uống...",
+      "register": "neutral",
+      "examples": [
+        "Could I see the menu, please?",
+        "Could I see the drinks list, please?"
+      ],
+      "explanationVi": "'Could I…?' lịch sự hơn 'Can I…?', rất hợp khi nói với người lạ (phục vụ). Dùng cho việc bạn cần họ làm."
+    },
+    {
+      "pattern": "What would you recommend?",
+      "use": "Hỏi phục vụ gợi ý món khi bạn chưa biết chọn gì.",
+      "register": "neutral",
+      "examples": [
+        "I'm not sure what to order. What would you recommend?",
+        "What would you recommend for a starter?"
+      ],
+      "explanationVi": "Câu cực hữu ích khi bạn lần đầu đến nhà hàng. 'would you recommend' nghe lịch sự và tự nhiên hơn 'what is good?'."
+    },
+    {
+      "pattern": "Does this dish have [danh từ] in it?",
+      "use": "Hỏi xem món có chứa thành phần nào đó (để tránh dị ứng/đồ không ăn được).",
+      "register": "neutral",
+      "examples": [
+        "Does this dish have peanuts in it?",
+        "Does this soup have meat in it?"
+      ],
+      "explanationVi": "Mẫu hỏi thành phần món ăn. Rất quan trọng nếu bạn ăn chay hoặc bị dị ứng. 'in it' = ở trong món đó."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi muốn đổi ý hoặc sửa lại món đã gọi mà không cộc lốc.",
+      "example": "Actually, I'll have the fish instead of the chicken."
+    },
+    {
+      "term": "maybe",
+      "ipa": "/ˈmeɪ.bi/",
+      "vi": "có lẽ, chắc là",
+      "when": "Khi bạn còn đang phân vân, chưa quyết hẳn món.",
+      "example": "Maybe I'll start with the soup."
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói nhẹ nhàng hơn)",
+      "when": "Khi muốn yêu cầu nghe khiêm tốn, không đòi hỏi.",
+      "example": "I'll just have a glass of water, thanks."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề (giá, giờ đóng cửa...).",
+      "example": "By the way, is the dessert included?"
+    },
+    {
+      "term": "please",
+      "ipa": "/pliːz/",
+      "vi": "làm ơn / vui lòng",
+      "when": "Thêm vào cuối câu yêu cầu để luôn lịch sự — rất quan trọng khi gọi món.",
+      "example": "Could we have the bill, please?"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn và một người bạn đang ở một nhà hàng. Phục vụ tới chào, đưa thực đơn và bạn gọi món, hỏi về món ăn rồi xin hóa đơn.",
+    "lines": [
+      {
+        "speaker": "Phục vụ",
+        "text": "Good evening, and welcome! Here is the menu. Would you like something to drink while you decide?",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ ænd ˈwel.kəm hɪr ɪz ðə ˈmen.juː wʊd juː laɪk ˈsʌm.θɪŋ tə drɪŋk waɪl juː dɪˈsaɪd/",
+        "vi": "Chào buổi tối, hân hạnh đón quý khách! Đây là thực đơn. Quý khách dùng gì để uống trong lúc chọn món không ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good evening. ____ I have a glass of water, please? I just need a few minutes to look at the menu.",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ aɪ hæv ə ɡlɑːs ɒv ˈwɔː.tər pliːz aɪ dʒʌst niːd ə fjuː ˈmɪn.ɪts tə lʊk ət ðə ˈmen.juː/",
+        "vi": "Chào buổi tối. ____ tôi xin một ly nước được không? Tôi chỉ cần vài phút để xem thực đơn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Can",
+            "explanationVi": "Mẫu yêu cầu lịch sự đơn giản: 'Can I have…, please?'. Xem mẫu câu 'Can I have [danh từ], please?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Phục vụ",
+        "text": "Of course. Take your time. Are you ready to order now, or would you like a starter first?",
+        "ipa": "/ɒv kɔːrs teɪk jɔːr taɪm ɑːr juː ˈred.i tə ˈɔː.dər naʊ ɔːr wʊd juː laɪk ə ˈstɑː.tər fɜːst/",
+        "vi": "Tất nhiên rồi. Quý khách cứ từ từ. Quý khách gọi món luôn chưa, hay muốn dùng món khai vị trước ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'm not sure what to choose, so what would you ____? I'd like something light but delicious.",
+        "ipa": "/aɪm nɒt ʃʊər wɒt tə tʃuːz səʊ wɒt wʊd juː ... aɪd laɪk ˈsʌm.θɪŋ laɪt bʌt dɪˈlɪʃ.əs/",
+        "vi": "Tôi chưa chắc chọn gì, nên anh/chị ____ món nào ạ? Tôi muốn món gì đó nhẹ nhàng mà ngon.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "recommend",
+            "explanationVi": "Dùng 'recommend' (gợi ý, giới thiệu món). Mẫu câu chuẩn khi chưa biết chọn gì: 'What would you recommend?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Phục vụ",
+        "text": "The grilled chicken is very popular, although the vegetable soup is also a great choice if you prefer something lighter.",
+        "ipa": "/ðə ɡrɪld ˈtʃɪk.ɪn ɪz ˈver.i ˈpɒp.jə.lər ɔːlˈðəʊ ðə ˈvedʒ.tə.bəl suːp ɪz ˈɔːl.səʊ ə ɡreɪt tʃɔɪs ɪf juː prɪˈfɜː ˈsʌm.θɪŋ ˈlaɪ.tər/",
+        "vi": "Món gà nướng rất được ưa chuộng, mặc dù món súp rau cũng là lựa chọn tuyệt vời nếu quý khách thích món nhẹ hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good. I'll have the grilled chicken, but does this dish have peanuts ____ it? Actually, I'm allergic to peanuts.",
+        "ipa": "/ðæt saʊndz ɡʊd aɪl hæv ðə ɡrɪld ˈtʃɪk.ɪn bʌt dʌz ðɪs dɪʃ hæv ˈpiː.nʌts ... ɪt ˈæk.tʃu.ə.li aɪm əˈlɜː.dʒɪk tə ˈpiː.nʌts/",
+        "vi": "Nghe hay đấy. Tôi sẽ lấy món gà nướng, nhưng món này có đậu phộng ở ____ nó không? Thật ra tôi bị dị ứng với đậu phộng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in",
+            "explanationVi": "Dùng giới từ 'in' trong cụm 'have … in it' (có … ở trong món). Xem mẫu câu 'Does this dish have [danh từ] in it?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Phục vụ",
+        "text": "Don't worry, this dish has no peanuts. I will tell the kitchen, so it will be completely safe for you.",
+        "ipa": "/dəʊnt ˈwʌr.i ðɪs dɪʃ hæz nəʊ ˈpiː.nʌts aɪ wɪl tel ðə ˈkɪtʃ.ɪn səʊ ɪt wɪl biː kəmˈpliːt.li seɪf fɔːr juː/",
+        "vi": "Quý khách đừng lo, món này không có đậu phộng. Tôi sẽ báo nhà bếp, nên món sẽ hoàn toàn an toàn cho quý khách."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. Everything was really delicious. Could we have the ____, please? We're in a bit of a hurry.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ˈev.ri.θɪŋ wɒz ˈrɪə.li dɪˈlɪʃ.əs kʊd wiː hæv ðə ... pliːz wɪər ɪn ə bɪt ɒv ə ˈhʌr.i/",
+        "vi": "Cảm ơn anh/chị nhiều. Mọi món đều thật sự rất ngon. Cho chúng tôi xin ____ được không? Chúng tôi hơi vội một chút.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "bill",
+            "explanationVi": "Dùng 'bill' (hóa đơn) để xin tính tiền. Người Mỹ nói 'check'. Mẫu câu: 'Could we have the bill, please?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Phục vụ",
+        "text": "Of course, I'll bring it right away. Thank you for coming, and I hope to see you again soon!",
+        "ipa": "/ɒv kɔːrs aɪl brɪŋ ɪt raɪt əˈweɪ θæŋk juː fɔːr ˈkʌm.ɪŋ ænd aɪ həʊp tə siː juː əˈɡen suːn/",
+        "vi": "Tất nhiên rồi, tôi sẽ mang ra ngay. Cảm ơn quý khách đã ghé, và hẹn sớm gặp lại quý khách!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, tip (tiền boa) thường khoảng 10-20% hóa đơn, đặc biệt ở Mỹ; ở nhiều nước châu Âu thì phí phục vụ đã gồm trong giá.",
+    "Phục vụ thường hỏi 'How is everything?' giữa bữa để kiểm tra. Bạn có thể đáp đơn giản: 'It's delicious, thank you.'",
+    "Anh-Anh dùng 'starter / main course / bill', còn Anh-Mỹ dùng 'appetizer / entrée / check'. Cả hai đều đúng, chọn theo nơi bạn đến.",
+    "Báo dị ứng (allergy) rất được coi trọng; nhà hàng phương Tây thường sẵn sàng đổi món hoặc kiểm tra với nhà bếp."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a coffee' nghe cộc và đòi hỏi. Người bản xứ dùng 'I'd like…' hoặc 'Can I have…?' cho lịch sự.",
+    "Quên thêm 'please' ở cuối câu yêu cầu — chỉ một từ nhưng làm câu lịch sự hơn rất nhiều.",
+    "Nhầm 'dessert' (món tráng miệng, nhấn âm sau) với 'desert' (sa mạc, nhấn âm đầu).",
+    "Quên giới từ 'to' sau 'allergic' — luôn là 'allergic TO something' (vd allergic to seafood)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống gọi món như thật.",
+    "prompt": "Hãy đóng vai một nhân viên phục vụ nhà hàng nói tiếng Anh. Tôi là khách vừa vào và sẽ gọi món. Hãy bắt đầu bằng cách chào tôi và đưa thực đơn. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người phục vụ thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ món tôi gọi đã hết, hỏi tôi có ăn cay được không) để tôi tập xử lý. Nói chậm rãi, thân thiện, dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy gợi ý cho tôi cách hỏi về thành phần món ăn và báo dị ứng.' để luyện thêm.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gọi được món bằng 'I'd like…' hoặc 'Can I have…?' mà không nhìn gợi ý.",
+    "Tôi hỏi được ít nhất một câu về món ăn (gợi ý món, có cay không, có chứa gì không).",
+    "Tôi xin được hóa đơn bằng mẫu 'Could we have the bill, please?'."
+  ]
+}

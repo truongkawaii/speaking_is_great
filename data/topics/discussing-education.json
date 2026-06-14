@@ -1,0 +1,354 @@
+{
+  "id": "discussing-education",
+  "category": "opinions",
+  "title": "Bàn về giáo dục",
+  "titleEn": "Discussing Education",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "describing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về các chủ đề giáo dục bằng câu dài, mạch lạc",
+    "Đồng tình hoặc phản biện một ý kiến một cách lịch sự, có lập luận",
+    "So sánh ưu và nhược điểm của các hình thức học (truyền thống, trực tuyến)",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, mệnh đề quan hệ) tự nhiên khi tranh luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "curriculum",
+      "ipa": "/kəˈrɪk.jə.ləm/",
+      "vi": "chương trình học / chương trình giảng dạy (danh từ)",
+      "register": "neutral",
+      "example": "The school recently updated its curriculum to include coding.",
+      "exampleVi": "Trường vừa cập nhật chương trình học để đưa lập trình vào.",
+      "note": "Danh từ. Số nhiều trang trọng là 'curricula', nhưng 'curriculums' cũng được chấp nhận.",
+      "synonyms": [
+        { "term": "syllabus", "ipa": "/ˈsɪl.ə.bəs/", "register": "neutral", "nuanceVi": "Hẹp hơn: chỉ đề cương của MỘT môn học cụ thể (nội dung, lịch học), còn 'curriculum' là toàn bộ chương trình." },
+        { "term": "course content", "ipa": "/kɔːs ˈkɒn.tent/", "register": "neutral", "nuanceVi": "Cụm trung tính, dễ dùng khi nói về nội dung một khóa học mà không cần từ học thuật." }
+      ]
+    },
+    {
+      "term": "to memorize",
+      "ipa": "/ˈmem.ə.raɪz/",
+      "vi": "học thuộc lòng / ghi nhớ (động từ)",
+      "register": "neutral",
+      "example": "Students are often forced to memorize facts instead of understanding them.",
+      "exampleVi": "Học sinh thường bị buộc học thuộc dữ kiện thay vì hiểu chúng.",
+      "note": "Động từ. Anh-Anh viết 'memorise'. Hay đi cặp đối lập với 'understand' khi bàn về cách học.",
+      "synonyms": [
+        { "term": "to learn by heart", "ipa": "/lɜːn baɪ hɑːt/", "register": "neutral", "nuanceVi": "Cụm thành ngữ, nhấn việc thuộc lòng đến mức đọc lại trơn tru; đời thường và rất tự nhiên." },
+        { "term": "to retain", "ipa": "/rɪˈteɪn/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'giữ được kiến thức lâu dài trong đầu', không chỉ là nhồi nhét tạm thời." }
+      ]
+    },
+    {
+      "term": "demanding",
+      "ipa": "/dɪˈmɑːn.dɪŋ/",
+      "vi": "đòi hỏi nhiều, vất vả (tính từ)",
+      "register": "neutral",
+      "example": "A medical degree is extremely demanding.",
+      "exampleVi": "Học ngành y cực kỳ vất vả.",
+      "note": "Tính từ, nhấn 'ngốn nhiều công sức/thời gian'. Khác 'challenging' (khó nhưng đáng làm, hơi tích cực hơn).",
+      "synonyms": [
+        { "term": "challenging", "ipa": "/ˈtʃæl.ɪn.dʒɪŋ/", "register": "neutral", "nuanceVi": "Mang sắc thái TÍCH CỰC: khó nhưng kích thích, đáng chinh phục. Dùng khi muốn nghe lạc quan hơn." },
+        { "term": "rigorous", "ipa": "/ˈrɪɡ.ər.əs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nghiêm ngặt, chặt chẽ về tiêu chuẩn'. Hay dùng cho chương trình học, kỳ thi." },
+        { "term": "tough", "ipa": "/tʌf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'gắt, khó nhằn'. Hợp lúc trò chuyện thân mật hơn là tranh luận trang trọng." }
+      ]
+    },
+    {
+      "term": "tuition fees",
+      "ipa": "/tjuˈɪʃ.ən fiːz/",
+      "vi": "học phí (danh từ)",
+      "register": "neutral",
+      "example": "Tuition fees at private universities have risen sharply.",
+      "exampleVi": "Học phí ở các trường tư đã tăng mạnh.",
+      "note": "Thường dùng số nhiều 'fees'. Ở Mỹ 'tuition' một mình đã có nghĩa là học phí.",
+      "synonyms": [
+        { "term": "school fees", "ipa": "/skuːl fiːz/", "register": "neutral", "nuanceVi": "Chung hơn, gồm cả các khoản phí trường học khác ngoài phí giảng dạy; dùng cho bậc phổ thông là chính." }
+      ]
+    },
+    {
+      "term": "well-rounded",
+      "ipa": "/ˌwel ˈraʊn.dɪd/",
+      "vi": "phát triển toàn diện (tính từ)",
+      "register": "neutral",
+      "example": "A good education should produce well-rounded individuals.",
+      "exampleVi": "Một nền giáo dục tốt nên đào tạo ra những con người toàn diện.",
+      "note": "Tính từ, khen ngợi: giỏi nhiều mặt (học vấn, kỹ năng, tính cách), không chỉ điểm số.",
+      "synonyms": [
+        { "term": "all-round", "ipa": "/ˌɔːl ˈraʊnd/", "register": "neutral", "nuanceVi": "Gần nghĩa, hay dùng ở Anh-Anh: 'an all-round student'. Nhấn giỏi đều ở nhiều lĩnh vực." }
+      ]
+    },
+    {
+      "term": "to foster",
+      "ipa": "/ˈfɒs.tər/",
+      "vi": "nuôi dưỡng, thúc đẩy (động từ)",
+      "register": "formal",
+      "example": "Good teachers foster a love of learning in their students.",
+      "exampleVi": "Giáo viên giỏi nuôi dưỡng niềm yêu thích học tập ở học trò.",
+      "note": "Động từ trang trọng, đi với danh từ trừu tượng (creativity, curiosity, independence). Tạo ấn tượng học thuật.",
+      "synonyms": [
+        { "term": "to nurture", "ipa": "/ˈnɜː.tʃər/", "register": "formal", "nuanceVi": "Rất gần nghĩa, nhấn 'chăm bẵm, vun đắp dần dần', mang hình ảnh dịu dàng như chăm cây." },
+        { "term": "to encourage", "ipa": "/ɪnˈkʌr.ɪdʒ/", "register": "neutral", "nuanceVi": "Phổ biến, trung tính: 'khuyến khích'. Nhẹ hơn 'foster', không nhấn quá trình nuôi dưỡng lâu dài." },
+        { "term": "to cultivate", "ipa": "/ˈkʌl.tɪ.veɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'gây dựng có chủ đích qua thời gian'. Hay dùng cho kỹ năng, thói quen, quan hệ." }
+      ]
+    },
+    {
+      "term": "flexible",
+      "ipa": "/ˈflek.sə.bəl/",
+      "vi": "linh hoạt (tính từ)",
+      "register": "neutral",
+      "example": "Online courses are flexible because you can study at your own pace.",
+      "exampleVi": "Khóa học trực tuyến linh hoạt vì bạn có thể học theo tốc độ riêng.",
+      "note": "Tính từ, một ưu điểm hay được nêu khi bàn về học trực tuyến. Danh từ: 'flexibility'.",
+      "synonyms": [
+        { "term": "adaptable", "ipa": "/əˈdæp.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'dễ thích nghi với hoàn cảnh mới', hợp tả con người hơn là lịch học." },
+        { "term": "versatile", "ipa": "/ˈvɜː.sə.taɪl/", "register": "formal", "nuanceVi": "Nhấn 'làm/dùng được cho nhiều mục đích khác nhau', không hẳn là dễ điều chỉnh thời gian." }
+      ]
+    },
+    {
+      "term": "to keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "vi": "theo kịp (cụm động từ)",
+      "register": "neutral",
+      "example": "Some students struggle to keep up with the workload.",
+      "exampleVi": "Một số học sinh chật vật theo kịp khối lượng bài.",
+      "note": "Cụm động từ, đi với 'with + danh từ'. Nghĩa: không bị tụt lại so với tiến độ/người khác.",
+      "synonyms": [
+        { "term": "to keep pace with", "ipa": "/kiːp peɪs wɪð/", "register": "formal", "nuanceVi": "Trang trọng hơn một chút, nhấn 'giữ cùng tốc độ', hay dùng trong văn viết và bối cảnh công việc." }
+      ]
+    },
+    {
+      "term": "drawback",
+      "ipa": "/ˈdrɔː.bæk/",
+      "vi": "nhược điểm, mặt hạn chế (danh từ)",
+      "register": "neutral",
+      "example": "The main drawback of online learning is the lack of interaction.",
+      "exampleVi": "Nhược điểm chính của học trực tuyến là thiếu tương tác.",
+      "note": "Danh từ. Rất hữu ích khi cân nhắc ưu/nhược điểm trong tranh luận. Trái nghĩa: advantage/benefit.",
+      "synonyms": [
+        { "term": "downside", "ipa": "/ˈdaʊn.saɪd/", "register": "neutral", "nuanceVi": "Đời thường hơn, hay dùng trong nói: 'The downside is…'. Gần như đồng nghĩa với drawback." },
+        { "term": "shortcoming", "ipa": "/ˈʃɔːtˌkʌm.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'điểm yếu, chỗ chưa đạt' của người/hệ thống, hơi mang tính phê phán." }
+      ]
+    },
+    {
+      "term": "thoroughly",
+      "ipa": "/ˈθʌr.ə.li/",
+      "vi": "một cách kỹ lưỡng (trạng từ)",
+      "register": "neutral",
+      "example": "You need to study the material thoroughly before the exam.",
+      "exampleVi": "Bạn cần học tài liệu thật kỹ trước kỳ thi.",
+      "note": "Trạng từ. Bẫy phát âm: /ˈθʌr.ə.li/, KHÔNG đọc như 'through'. Cũng nghĩa 'hoàn toàn' (thoroughly enjoyed).",
+      "synonyms": [
+        { "term": "in depth", "ipa": "/ɪn depθ/", "register": "neutral", "nuanceVi": "Cụm trung tính: 'học/phân tích sâu'. Nhấn chiều sâu kiến thức hơn là sự tỉ mỉ." },
+        { "term": "meticulously", "ipa": "/məˈtɪk.jə.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tỉ mỉ đến từng chi tiết', tạo ấn tượng cẩn thận, chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "một cách dần dần (trạng từ)",
+      "register": "neutral",
+      "example": "Children gradually develop critical-thinking skills.",
+      "exampleVi": "Trẻ em dần dần phát triển kỹ năng tư duy phản biện.",
+      "note": "Trạng từ chỉ tiến trình từ từ. Hay dùng khi mô tả sự tiến bộ trong học tập.",
+      "synonyms": [
+        { "term": "steadily", "ipa": "/ˈsted.ɪ.li/", "register": "neutral", "nuanceVi": "Nhấn 'đều đặn, ổn định, không gián đoạn', còn 'gradually' nhấn 'chậm rãi, từng bước'." },
+        { "term": "progressively", "ipa": "/prəˈɡres.ɪv.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tăng/giảm theo từng giai đoạn rõ rệt'. Hay dùng trong văn viết học thuật." }
+      ]
+    },
+    {
+      "term": "critical thinking",
+      "ipa": "/ˌkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ/",
+      "vi": "tư duy phản biện (danh từ)",
+      "register": "neutral",
+      "example": "Modern education should emphasize critical thinking over rote learning.",
+      "exampleVi": "Giáo dục hiện đại nên đề cao tư duy phản biện hơn là học vẹt.",
+      "note": "Danh từ ghép, một khái niệm trung tâm khi bàn về giáo dục. 'rote learning' = học vẹt, trái với nó.",
+      "synonyms": [
+        { "term": "analytical skills", "ipa": "/ˌæn.əˈlɪt.ɪ.kəl skɪlz/", "register": "formal", "nuanceVi": "Nhấn khả năng phân tích, mổ xẻ vấn đề; là một phần của tư duy phản biện chứ không hoàn toàn trùng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], particularly when [mệnh đề].",
+      "use": "Mở đầu bày tỏ quan điểm cá nhân kèm điều kiện cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, online learning works well, particularly when students are self-motivated."
+      ],
+      "explanationVi": "'In my opinion' báo hiệu đây là quan điểm riêng (đỡ áp đặt). 'particularly when' khoanh vùng khi nào điều đó đúng, làm lập luận chặt hơn.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Đưa ra quan điểm theo cách thân mật, đời thường.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, exams put far too much pressure on students."
+      ],
+      "explanationVi": "'If you ask me' = theo tôi thì. Nhẹ nhàng, thân mật hơn 'In my opinion', hợp khi trò chuyện với bạn bè, đồng nghiệp.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề].",
+      "use": "Phản biện lịch sự: thừa nhận ý kia trước rồi nêu ý mình.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I still believe practical skills matter more than grades."
+      ],
+      "explanationVi": "Công thức 'thừa nhận rồi phản biện' rất lịch sự: 'I see your point' xoa dịu, 'but' mở ý ngược lại. Tranh luận mà không gây mất lòng.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "That may be true, however [mệnh đề].",
+      "use": "Bất đồng nhẹ nhàng, nhấn mạnh ý phản bác bằng 'however'.",
+      "register": "formal",
+      "examples": [
+        "That may be true, however we should not ignore the cost of higher education."
+      ],
+      "explanationVi": "'That may be true' nhường một bước, 'however' (trang trọng hơn 'but') dẫn vào ý phản bác. Nghe điềm tĩnh, chuyên nghiệp.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], [mệnh đề chính].",
+      "use": "Nêu một điểm bất lợi nhưng kết luận vẫn nghiêng về ý mình.",
+      "register": "formal",
+      "examples": [
+        "Despite its high cost, a university degree still opens many doors."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG theo sau là cả mệnh đề). Dùng để nhượng bộ một điểm yếu rồi vẫn bảo vệ quan điểm — rất 'ăn điểm' trong tranh luận."
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh một thứ mang lại nhiều lợi ích cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does studying abroad improve your language, but it also broadens your mindset."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ ('does') lên trước chủ ngữ. Cấu trúc nâng cao, gây ấn tượng — nhớ chia 'does/did' đúng kẻo sai ngữ pháp."
+    },
+    {
+      "pattern": "There's no doubt that [mệnh đề], although [mệnh đề].",
+      "use": "Khẳng định mạnh một ý rồi nêu điều kiện hạn chế.",
+      "register": "neutral",
+      "examples": [
+        "There's no doubt that technology helps learning, although it can also be distracting."
+      ],
+      "explanationVi": "'There's no doubt that' khẳng định chắc nịch; 'although' mở mệnh đề nhượng bộ để câu cân bằng, không phiến diện. Bộ đôi này khiến lập luận trưởng thành hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi thẳng thắn.", "example": "Honestly, I think exams measure memory more than ability." },
+    { "term": "to a certain extent", "ipa": "/tə ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý một phần, không tuyệt đối — rất hữu ích khi muốn dung hòa.", "example": "I agree with you to a certain extent, but money isn't everything." },
+    { "term": "arguably", "ipa": "/ˈɑːɡ.ju.ə.bli/", "vi": "có thể cho rằng (một cách có cơ sở)", "when": "Đưa ra một nhận định mạnh nhưng vẫn để ngỏ tranh luận.", "example": "University is arguably the most important investment in one's future." },
+    { "term": "personally", "ipa": "/ˈpɜː.sən.ə.li/", "vi": "về phần cá nhân tôi", "when": "Nhấn rằng đây là cảm nhận riêng, làm dịu một ý kiến chủ quan.", "example": "Personally, I'd rather learn a practical skill than memorize theory." },
+    { "term": "in the long run", "ipa": "/ɪn ðə lɒŋ rʌn/", "vi": "về lâu về dài", "when": "Hướng lập luận tới hệ quả lâu dài thay vì trước mắt.", "example": "In the long run, soft skills often matter more than grades." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn (Lan và Minh) đang ngồi cà phê và tranh luận về giáo dục: học trực tuyến hay học truyền thống, vai trò của thi cử và tấm bằng đại học.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Honestly, I think online learning is the future, ____ it allows students to study at their own pace and save a lot of commuting time.",
+        "ipa": "/ˈɒn.ɪst.li aɪ θɪŋk ˈɒn.laɪn ˈlɜː.nɪŋ ɪz ðə ˈfjuː.tʃər bɪˈkɔːz ɪt əˈlaʊz ˈstjuː.dənts tə ˈstʌd.i ət ðeər əʊn peɪs ænd seɪv ə lɒt ɒv kəˈmjuːt.ɪŋ taɪm/",
+        "vi": "Thành thật mà nói, tớ nghĩ học trực tuyến là tương lai, ____ nó cho phép học sinh học theo tốc độ riêng và tiết kiệm rất nhiều thời gian đi lại.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho quan điểm vừa đưa ra. Sau 'because' là cả một mệnh đề (chủ ngữ + động từ), khác với 'because of' + danh từ." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I see your point, but I'm not entirely convinced. Despite its ____, online learning can feel quite isolating, since you miss the face-to-face interaction which keeps many students motivated.",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪm nɒt ɪnˈtaɪə.li kənˈvɪnst dɪsˈpaɪt ɪts ... ˈɒn.laɪn ˈlɜː.nɪŋ kæn fiːl kwaɪt ˈaɪ.sə.leɪ.tɪŋ sɪns juː mɪs ðə ˌfeɪs tə ˈfeɪs ˌɪn.təˈræk.ʃən wɪtʃ kiːps ˈmen.i ˈstjuː.dənts ˈməʊ.tɪ.veɪ.tɪd/",
+        "vi": "Tớ hiểu ý cậu, nhưng tớ chưa hoàn toàn bị thuyết phục. Dù có ____, học trực tuyến có thể khiến người ta thấy khá cô đơn, vì cậu bỏ lỡ sự tương tác trực tiếp vốn giữ cho nhiều học sinh có động lực.",
+        "blanks": [
+          { "type": "knowledge", "answer": "flexibility", "explanationVi": "Sau 'Despite its' cần một DANH TỪ. 'flexibility' (tính linh hoạt) là dạng danh từ của 'flexible', hợp với cấu trúc 'Despite + danh từ' đã học ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That may be true, however a good teacher can still ____ a sense of community online, for example through group projects and live discussions, such as weekly video debates.",
+        "ipa": "/ðæt meɪ biː truː haʊˈev.ər ə ɡʊd ˈtiː.tʃər kæn stɪl ... ə sens ɒv kəˈmjuː.nə.ti ˈɒn.laɪn fər ɪɡˈzɑːm.pəl θruː ɡruːp ˈprɒdʒ.ekts ænd laɪv dɪˈskʌʃ.ənz sʌtʃ æz ˈwiːk.li ˈvɪd.i.əʊ dɪˈbeɪts/",
+        "vi": "Điều đó có thể đúng, tuy nhiên một giáo viên giỏi vẫn có thể ____ cảm giác gắn kết khi học trực tuyến, ví dụ qua các dự án nhóm và thảo luận trực tiếp, chẳng hạn như tranh luận qua video hằng tuần.",
+        "blanks": [
+          { "type": "knowledge", "answer": "foster", "explanationVi": "Sau trợ động từ 'can' cần ĐỘNG TỪ nguyên thể. 'foster' (nuôi dưỡng, gây dựng) đi rất hợp với danh từ trừu tượng 'a sense of community'. Xem từ vựng 'to foster'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Fair enough. To be honest, what worries me more is the cost of ____. Although a degree can open many doors, the tuition fees these days are simply enormous.",
+        "ipa": "/feər ɪˈnʌf tə biː ˈɒn.ɪst wɒt ˈwʌr.iz miː mɔː ɪz ðə kɒst ɒv ... ɔːlˈðəʊ ə dɪˈɡriː kæn ˈəʊ.pən ˈmen.i dɔːz ðə tjuˈɪʃ.ən fiːz ðiːz deɪz ɑː ˈsɪm.pli ɪˈnɔː.məs/",
+        "vi": "Cũng có lý. Thành thật mà nói, điều khiến tớ lo hơn là chi phí của ____. Mặc dù tấm bằng có thể mở ra nhiều cánh cửa, học phí ngày nay đơn giản là khổng lồ.",
+        "blanks": [
+          { "type": "personal", "hint": "Một hình thức/bậc học bạn muốn bàn tới. Ví dụ: 'higher education', 'a master's degree'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I agree to a certain extent. Not only do high fees discourage talented students, but they also push many families into debt, which I find genuinely unfair.",
+        "ipa": "/aɪ əˈɡriː tə ə ˈsɜː.tən ɪkˈstent nɒt ˈəʊn.li duː haɪ fiːz dɪsˈkʌr.ɪdʒ ˈtæl.ən.tɪd ˈstjuː.dənts bʌt ðeɪ ˈɔːl.səʊ pʊʃ ˈmen.i ˈfæm.ə.liz ˈɪn.tə det wɪtʃ aɪ faɪnd ˈdʒen.ju.ɪn.li ʌnˈfeə/",
+        "vi": "Tớ đồng ý ở một mức độ nào đó. Học phí cao không những làm nản lòng những học sinh tài năng, mà còn đẩy nhiều gia đình vào cảnh nợ nần, điều mà tớ thấy thực sự bất công."
+      },
+      {
+        "speaker": "Minh",
+        "text": "Exactly. That's why, in my opinion, schools should ____ practical skills more, particularly critical thinking, rather than forcing students to memorize facts for exams.",
+        "ipa": "/ɪɡˈzækt.li ðæts waɪ ɪn maɪ əˈpɪn.jən skuːlz ʃʊd ... ˈpræk.tɪ.kəl skɪlz mɔː pəˈtɪk.jə.lə.li ˌkrɪt.ɪ.kəl ˈθɪŋ.kɪŋ ˈrɑː.ðə ðæn ˈfɔː.sɪŋ ˈstjuː.dənts tə ˈmem.ə.raɪz fækts fər ɪɡˈzæmz/",
+        "vi": "Chính xác. Đó là lý do vì sao, theo tớ, trường học nên ____ kỹ năng thực hành nhiều hơn, đặc biệt là tư duy phản biện, thay vì bắt học sinh học thuộc dữ kiện để thi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "emphasize", "explanationVi": "Sau 'should' cần động từ nguyên thể. 'emphasize' (nhấn mạnh, chú trọng) hợp ngữ cảnh đề cao kỹ năng. Lưu ý không thêm 'on': nói 'emphasize something', không phải 'emphasize on something'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Couldn't agree more. In the long run, a ____ person who can think for themselves will always do better than someone who just learned everything by heart.",
+        "ipa": "/ˈkʊd.ənt əˈɡriː mɔː ɪn ðə lɒŋ rʌn ə ... ˈpɜː.sən huː kæn θɪŋk fə ðəmˈselvz wɪl ˈɔːl.weɪz duː ˈbet.ə ðæn ˈsʌm.wʌn huː dʒʌst lɜːnd ˈev.ri.θɪŋ baɪ hɑːt/",
+        "vi": "Không thể đồng ý hơn. Về lâu dài, một người ____ biết tự suy nghĩ sẽ luôn làm tốt hơn người chỉ học thuộc lòng mọi thứ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "well-rounded", "explanationVi": "Cần một TÍNH TỪ đứng trước danh từ 'person'. 'well-rounded' (phát triển toàn diện) là lời khen mô tả người giỏi nhiều mặt. Xem từ vựng 'well-rounded'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Well said. So if you were in charge of education, what is the first thing you would ____?",
+        "ipa": "/wel sed səʊ ɪf juː wɜːr ɪn tʃɑːdʒ ɒv ˌed.jʊˈkeɪ.ʃən wɒt ɪz ðə fɜːst θɪŋ juː wʊd .../",
+        "vi": "Nói hay lắm. Vậy nếu cậu phụ trách ngành giáo dục, điều đầu tiên cậu sẽ ____ là gì?",
+        "blanks": [
+          { "type": "personal", "hint": "Một điều bạn muốn thay đổi. Ví dụ: 'change', 'reform', 'reduce tuition fees'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận phương Tây, bất đồng ý kiến là chuyện bình thường và lành mạnh. Hãy phản biện ý kiến chứ không công kích người ('I disagree with that idea', không phải 'You're wrong').",
+    "Người bản xứ thường 'nhường một bước' trước khi phản bác ('I see your point, but…', 'That may be true, however…') để giữ không khí lịch sự, xây dựng.",
+    "Ở nhiều nước nói tiếng Anh, người ta đề cao tư duy phản biện (critical thinking) và tranh luận trên lớp hơn là học thuộc lòng — khác với truyền thống thi cử nặng ở một số nước châu Á.",
+    "Chủ đề học phí (tuition fees) và nợ sinh viên (student debt) là đề tài tranh luận xã hội rất nóng, đặc biệt ở Mỹ và Anh."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'despite' và 'although': 'despite' + danh từ/V-ing ('despite the cost'), còn 'although' + cả mệnh đề ('although it is expensive'). Không nói 'despite it is expensive'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DO high fees discourage…', không phải 'Not only high fees discourage…'.",
+    "Thêm thừa giới từ sau 'emphasize' và 'discuss': nói 'emphasize critical thinking' và 'discuss education', KHÔNG 'emphasize on' hay 'discuss about'.",
+    "Trả lời quan điểm quá cụt ('I agree.' / 'I think so.'). Hãy mở rộng bằng lý do với 'because', ví dụ với 'such as' và mệnh đề nhượng bộ với 'although'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về giáo dục như đang nói chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang tranh luận với tôi về giáo dục. Hãy chọn một quan điểm (ví dụ 'thi cử là cách đánh giá tốt nhất' hoặc 'học trực tuyến tốt hơn học truyền thống') và bảo vệ nó để tôi phải phản biện. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đang tranh luận, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'not only… but also', 'such as' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng hãy đổi sang một quan điểm trái ngược để thử thách tôi. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc nêu quan điểm của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người phản biện gay gắt hơn để tôi tập giữ bình tĩnh và lập luận chặt chẽ.'",
+      "Thêm: 'Hãy yêu cầu tôi dùng ít nhất một số liệu hoặc ví dụ cụ thể trong mỗi câu trả lời.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm bằng một câu dài có lý do (because) và ví dụ (such as), không cần nhìn gợi ý.",
+    "Tôi phản biện được lịch sự bằng 'I see your point, but…' hoặc 'That may be true, however…'.",
+    "Tôi dùng đúng 'despite' + danh từ và đảo ngữ 'not only… but also' khi tranh luận."
+  ]
+}

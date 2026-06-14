@@ -1,0 +1,345 @@
+{
+  "id": "debate-moderation",
+  "category": "advanced",
+  "title": "Điều phối tranh luận",
+  "titleEn": "Moderating a Debate",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "suggesting", "negotiating", "requesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Khai mạc và đặt khung cho một buổi tranh luận một cách mạch lạc, trang trọng",
+    "Mời phát biểu, ngắt lời lịch sự và phân bổ thời gian công bằng cho các bên",
+    "Trung lập hóa căng thẳng, diễn giải lại (paraphrase) luận điểm và giữ cuộc tranh luận đi đúng hướng",
+    "Tổng kết các quan điểm đối lập và khép lại buổi tranh luận một cách tinh tế",
+    "Vận dụng câu phức nhiều tầng, idiom và đổi register linh hoạt theo đúng vai người điều phối"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "moderator",
+      "ipa": "/ˈmɒd.ə.reɪ.tər/",
+      "vi": "người điều phối / chủ tọa (danh từ)",
+      "register": "formal",
+      "example": "As the moderator, my role is to remain impartial and keep the discussion on track.",
+      "exampleVi": "Với vai trò người điều phối, nhiệm vụ của tôi là giữ thái độ trung lập và giữ cuộc thảo luận đi đúng hướng.",
+      "note": "Danh từ. Người dẫn dắt, không đứng về phe nào. Động từ tương ứng: 'to moderate' (a debate/panel).",
+      "synonyms": [
+        { "term": "facilitator", "ipa": "/fəˈsɪl.ɪ.teɪ.tər/", "register": "formal", "nuanceVi": "Nhấn vào việc 'tạo điều kiện cho mọi người cùng đóng góp', mềm hơn 'moderator'; hay dùng cho workshop, thảo luận nhóm hơn là tranh luận đối kháng." },
+        { "term": "chair", "ipa": "/tʃeər/", "register": "formal", "nuanceVi": "Nghĩa 'chủ tọa cuộc họp/phiên'. Vừa là danh từ vừa là động từ ('to chair a meeting'). Trang trọng, thiên về nghi thức họp hành." }
+      ]
+    },
+    {
+      "term": "impartial",
+      "ipa": "/ɪmˈpɑː.ʃəl/",
+      "vi": "công bằng, không thiên vị (tính từ)",
+      "register": "formal",
+      "example": "A good moderator must stay strictly impartial throughout the exchange.",
+      "exampleVi": "Một người điều phối giỏi phải giữ thái độ hoàn toàn trung lập trong suốt buổi trao đổi.",
+      "note": "Tính từ. Trái nghĩa: 'biased' (thiên vị). Phẩm chất cốt lõi của người điều phối.",
+      "synonyms": [
+        { "term": "neutral", "ipa": "/ˈnjuː.trəl/", "register": "neutral", "nuanceVi": "Phổ biến và trung tính, nghĩa 'trung lập, không nghiêng bên nào'. An toàn để dùng trong mọi ngữ cảnh." },
+        { "term": "unbiased", "ipa": "/ʌnˈbaɪ.əst/", "register": "neutral", "nuanceVi": "Nhấn 'không có định kiến/thành kiến từ trước'. Thường mô tả phán xét hoặc cách đánh giá." },
+        { "term": "even-handed", "ipa": "/ˌiː.vənˈhæn.dɪd/", "register": "formal", "nuanceVi": "Văn vẻ, nhấn 'đối xử công bằng như nhau với hai bên'. Tạo ấn tượng tinh tế, chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "to interject",
+      "ipa": "/ˌɪn.təˈdʒekt/",
+      "vi": "chen lời, xen vào (động từ)",
+      "register": "formal",
+      "example": "If I may interject, I think we are drifting away from the original question.",
+      "exampleVi": "Nếu cho phép tôi xen vào, tôi nghĩ chúng ta đang lạc khỏi câu hỏi ban đầu.",
+      "note": "Động từ trang trọng, dùng khi người điều phối cần chen vào lịch sự để giành lại quyền dẫn dắt.",
+      "synonyms": [
+        { "term": "to interrupt", "ipa": "/ˌɪn.təˈrʌpt/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa chung 'ngắt lời'. Có thể mang sắc thái hơi tiêu cực (cắt ngang) nếu không bọc bằng lời xin phép." },
+        { "term": "to chime in", "ipa": "/tʃaɪm ɪn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'góp lời, xen vào' một cách thân thiện. Hợp thảo luận thoải mái hơn là tranh luận trang trọng." },
+        { "term": "to cut in", "ipa": "/kʌt ɪn/", "register": "casual", "nuanceVi": "Suồng sã hơn, nghĩa 'cắt ngang'. Có thể nghe hơi thô nếu dùng với người không thân." }
+      ]
+    },
+    {
+      "term": "to elaborate",
+      "ipa": "/ɪˈlæb.ə.reɪt/",
+      "vi": "trình bày chi tiết hơn (động từ)",
+      "register": "formal",
+      "example": "Could you elaborate on that point so the audience can follow your reasoning?",
+      "exampleVi": "Anh/chị có thể trình bày rõ hơn điểm đó để khán giả theo kịp lập luận không?",
+      "note": "Động từ, đi với giới từ 'on something'. Câu mời người nói khai triển sâu hơn.",
+      "synonyms": [
+        { "term": "to expand", "ipa": "/ɪkˈspænd/", "register": "neutral", "nuanceVi": "Đi với 'on something', nghĩa gần như 'elaborate' nhưng phổ thông hơn một chút." },
+        { "term": "to flesh out", "ipa": "/fleʃ aʊt/", "register": "casual", "nuanceVi": "Cụm động từ hình tượng, nghĩa 'bổ sung chi tiết cho đầy đặn'. Sinh động nhưng kém trang trọng hơn." }
+      ]
+    },
+    {
+      "term": "rebuttal",
+      "ipa": "/rɪˈbʌt.əl/",
+      "vi": "lời phản bác, lập luận đáp trả (danh từ)",
+      "register": "formal",
+      "example": "We will now give the opposing side a chance to offer a rebuttal.",
+      "exampleVi": "Bây giờ chúng ta sẽ dành cho phe phản đối cơ hội đưa ra lời phản bác.",
+      "note": "Danh từ. Thuật ngữ kinh điển trong tranh luận: phần đáp trả lại luận điểm đối phương. Động từ: 'to rebut'.",
+      "synonyms": [
+        { "term": "counterargument", "ipa": "/ˈkaʊn.tər.ɑːɡ.ju.mənt/", "register": "formal", "nuanceVi": "Nhấn 'luận điểm ngược lại'. Rộng hơn 'rebuttal' (vốn là sự đáp trả trực tiếp một luận điểm vừa nêu)." },
+        { "term": "comeback", "ipa": "/ˈkʌm.bæk/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'câu đáp trả sắc bén'. Mang sắc thái hơi đối đầu/giải trí, không hợp văn cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "to digress",
+      "ipa": "/daɪˈɡres/",
+      "vi": "lạc đề (động từ)",
+      "register": "formal",
+      "example": "I'm afraid we are beginning to digress, so let's return to the central issue.",
+      "exampleVi": "E rằng chúng ta đang bắt đầu lạc đề, vậy hãy quay lại vấn đề trọng tâm.",
+      "note": "Động từ trang trọng. Người điều phối dùng để khéo léo kéo cuộc tranh luận về đúng chủ đề.",
+      "synonyms": [
+        { "term": "to stray", "ipa": "/streɪ/", "register": "neutral", "nuanceVi": "Nghĩa 'đi chệch khỏi', đi với 'from the topic'. Hình ảnh 'đi lạc', mềm hơn 'digress' một chút." },
+        { "term": "to go off on a tangent", "ipa": "/ɡəʊ ɒf ɒn ə ˈtæn.dʒənt/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'nói lan man sang chuyện khác'. Sinh động, thân mật; hợp lời nhận xét nhẹ nhàng." }
+      ]
+    },
+    {
+      "term": "contentious",
+      "ipa": "/kənˈten.ʃəs/",
+      "vi": "gây tranh cãi (tính từ)",
+      "register": "formal",
+      "example": "This is admittedly a contentious topic on which reasonable people disagree.",
+      "exampleVi": "Phải thừa nhận đây là một chủ đề gây tranh cãi mà những người hiểu biết vẫn bất đồng.",
+      "note": "Tính từ trang trọng, mô tả vấn đề dễ làm nảy sinh bất đồng gay gắt.",
+      "synonyms": [
+        { "term": "controversial", "ipa": "/ˌkɒn.trəˈvɜː.ʃəl/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nghĩa 'gây tranh cãi trong dư luận'. An toàn và dễ dùng hơn 'contentious'." },
+        { "term": "divisive", "ipa": "/dɪˈvaɪ.sɪv/", "register": "formal", "nuanceVi": "Nhấn 'gây chia rẽ, khiến người ta đứng về hai phe đối lập'. Mạnh hơn, hàm ý chia phe rõ rệt." }
+      ]
+    },
+    {
+      "term": "concise",
+      "ipa": "/kənˈsaɪs/",
+      "vi": "ngắn gọn, súc tích (tính từ)",
+      "register": "formal",
+      "example": "I'd ask both speakers to keep their closing remarks concise.",
+      "exampleVi": "Tôi xin đề nghị cả hai diễn giả giữ phần phát biểu kết ngắn gọn.",
+      "note": "Tính từ. Nói ít mà đủ ý. Trạng từ: 'concisely'. Hữu ích khi nhắc người nói tiết chế thời gian.",
+      "synonyms": [
+        { "term": "succinct", "ipa": "/səkˈsɪŋkt/", "register": "formal", "nuanceVi": "Trang trọng và tinh tế hơn, nhấn 'cô đọng, không thừa một chữ'. Tạo ấn tượng văn vẻ." },
+        { "term": "brief", "ipa": "/briːf/", "register": "neutral", "nuanceVi": "Đơn giản, nhấn vào 'ngắn về thời lượng/độ dài'. Không nhất thiết hàm ý súc tích về nội dung." }
+      ]
+    },
+    {
+      "term": "diplomatically",
+      "ipa": "/ˌdɪp.ləˈmæt.ɪ.kəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "formal",
+      "example": "She diplomatically reminded the panellists that everyone deserved equal speaking time.",
+      "exampleVi": "Cô ấy đã khéo léo nhắc các diễn giả rằng ai cũng xứng đáng có thời lượng phát biểu ngang nhau.",
+      "note": "Trạng từ. Diễn đạt điều nhạy cảm mà không làm mất lòng — kỹ năng cốt lõi của người điều phối.",
+      "synonyms": [
+        { "term": "tactfully", "ipa": "/ˈtækt.fəl.i/", "register": "formal", "nuanceVi": "Gần nghĩa, nhấn 'biết ý, tránh chạm tự ái'. Thiên về sự nhạy cảm cá nhân hơn là sự khéo léo mang tính ngoại giao." },
+        { "term": "delicately", "ipa": "/ˈdel.ɪ.kət.li/", "register": "formal", "nuanceVi": "Nhấn 'nhẹ nhàng, thận trọng' khi xử lý vấn đề mong manh. Hình ảnh 'nâng như nâng trứng'." }
+      ]
+    },
+    {
+      "term": "to wrap up",
+      "ipa": "/ræp ʌp/",
+      "vi": "kết thúc, gói lại (cụm động từ)",
+      "register": "neutral",
+      "example": "Before we wrap up, I'd like each side to summarise their strongest point.",
+      "exampleVi": "Trước khi khép lại, tôi muốn mỗi bên tóm tắt luận điểm mạnh nhất của mình.",
+      "note": "Cụm động từ thông dụng để báo hiệu sắp kết thúc. Trang trọng hơn có thể nói 'to conclude' / 'to bring to a close'.",
+      "synonyms": [
+        { "term": "to conclude", "ipa": "/kənˈkluːd/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'kết luận, đi đến hồi kết'. Dùng trong văn cảnh nghi thức." },
+        { "term": "to round off", "ipa": "/raʊnd ɒf/", "register": "neutral", "nuanceVi": "Nhấn 'khép lại một cách trọn vẹn, có hậu'. Mang sắc thái hoàn tất đẹp đẽ." }
+      ]
+    },
+    {
+      "term": "to reconcile",
+      "ipa": "/ˈrek.ən.saɪl/",
+      "vi": "dung hòa, điều hòa (động từ)",
+      "register": "formal",
+      "example": "It may be difficult to reconcile two such opposing views, but there is common ground.",
+      "exampleVi": "Có thể khó dung hòa hai quan điểm đối lập đến vậy, nhưng vẫn có điểm chung.",
+      "note": "Động từ. 'reconcile A with B' = làm cho hai điều trái ngược tương thích với nhau. Hữu ích khi tổng kết.",
+      "synonyms": [
+        { "term": "to bridge", "ipa": "/brɪdʒ/", "register": "neutral", "nuanceVi": "Hình tượng 'bắc cầu', nghĩa 'thu hẹp khoảng cách'. Hay đi với 'bridge the gap/divide'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Welcome, everyone. Today we are here to debate [chủ đề], and I'll be moderating the discussion.",
+      "use": "Khai mạc buổi tranh luận và xác lập vai trò của người điều phối.",
+      "register": "formal",
+      "examples": [
+        "Welcome, everyone. Today we are here to debate whether remote work should become the norm, and I'll be moderating the discussion."
+      ],
+      "explanationVi": "Câu mở màn chuẩn mực: nêu chủ đề và tự giới thiệu vai trò. Giọng điệu trang trọng, ấm áp, tạo không khí chuyên nghiệp ngay từ đầu."
+    },
+    {
+      "pattern": "Let's begin with [bên A]. You have [số] minutes to present your opening argument.",
+      "use": "Mời bên thứ nhất phát biểu và ấn định thời gian.",
+      "register": "formal",
+      "examples": [
+        "Let's begin with the team in favour. You have two minutes to present your opening argument."
+      ],
+      "explanationVi": "Ấn định thời lượng ngay từ lời mời giúp giữ công bằng và kiểm soát nhịp. Đây là cách điều phối chuyên nghiệp, tránh để một bên lấn lướt.",
+      "altOf": "inviting-to-speak"
+    },
+    {
+      "pattern": "I'd now like to turn to [bên B] for their response to that point.",
+      "use": "Chuyển lượt sang bên còn lại một cách trang trọng.",
+      "register": "formal",
+      "examples": [
+        "I'd now like to turn to the opposing side for their response to that point."
+      ],
+      "explanationVi": "'turn to somebody' = hướng sự chú ý/lượt nói sang ai đó. Cách chuyển lượt nhã nhặn, thể hiện sự cân bằng giữa hai bên.",
+      "altOf": "inviting-to-speak"
+    },
+    {
+      "pattern": "If I may interject, [nội dung] — let's keep our remarks [concise/on topic].",
+      "use": "Chen lời lịch sự để giành lại quyền dẫn dắt hoặc nhắc nhở.",
+      "register": "formal",
+      "examples": [
+        "If I may interject, we are running short on time — let's keep our remarks concise."
+      ],
+      "explanationVi": "'If I may interject' là lời rào đón cực kỳ lịch sự trước khi ngắt lời. Bọc lời nhắc trong câu nhượng bộ khiến việc cắt ngang không bị xem là thô lỗ.",
+      "altOf": "interrupting-politely"
+    },
+    {
+      "pattern": "Sorry to interrupt, but I'm afraid we need to [hành động] in order to [mục đích].",
+      "use": "Ngắt lời để điều chỉnh hướng đi hoặc thời gian.",
+      "register": "neutral",
+      "examples": [
+        "Sorry to interrupt, but I'm afraid we need to move on in order to give the other side a fair chance."
+      ],
+      "explanationVi": "'I'm afraid' làm mềm tin không vui; 'in order to' nêu mục đích chính đáng cho việc ngắt lời. Khi có lý do công bằng, việc cắt ngang dễ được chấp nhận.",
+      "altOf": "interrupting-politely"
+    },
+    {
+      "pattern": "So, if I understand you correctly, your central point is that [diễn giải lại].",
+      "use": "Diễn giải lại (paraphrase) luận điểm để làm rõ và trung lập hóa.",
+      "register": "formal",
+      "examples": [
+        "So, if I understand you correctly, your central point is that flexibility ultimately boosts productivity."
+      ],
+      "explanationVi": "Diễn giải lại luận điểm vừa cho thấy bạn lắng nghe, vừa làm rõ vấn đề cho khán giả mà không tỏ ra đứng về phe nào — kỹ năng vàng của người điều phối."
+    },
+    {
+      "pattern": "Despite the differences between the two sides, it seems both of you agree that [điểm chung].",
+      "use": "Tổng kết và tìm điểm chung khi khép lại tranh luận.",
+      "register": "formal",
+      "examples": [
+        "Despite the differences between the two sides, it seems both of you agree that employee wellbeing matters."
+      ],
+      "explanationVi": "'Despite + danh từ' mở đầu mệnh đề nhượng bộ, làm nổi bật điểm chung bất chấp bất đồng. Cách kết thúc tinh tế, hàn gắn, đúng tinh thần trung lập."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Thừa nhận một điểm hợp lý của một bên mà vẫn giữ trung lập.", "example": "Admittedly, both arguments carry a certain weight." },
+    { "term": "with all due respect", "ipa": "/wɪð ɔːl djuː rɪˈspekt/", "vi": "với tất cả sự tôn trọng (nhưng...)", "when": "Rào đón trước khi không đồng tình hoặc điều chỉnh ai đó.", "example": "With all due respect, that wasn't quite the question on the table." },
+    { "term": "for the sake of [argument/time]", "ipa": "/fɔːr ðə seɪk əv/", "vi": "để cho rõ / để tiết kiệm thời gian", "when": "Nêu lý do thực dụng cho một đề nghị (rút gọn, giả định).", "example": "For the sake of time, let's hear one final point from each side." },
+    { "term": "if I may", "ipa": "/ɪf aɪ meɪ/", "vi": "nếu cho phép tôi", "when": "Xin phép lịch sự trước khi chen lời hoặc đưa nhận xét.", "example": "If I may, I'd like to bring us back to the main issue." },
+    { "term": "let me play devil's advocate", "ipa": "/let miː pleɪ ˈdev.əlz ˈæd.və.kət/", "vi": "để tôi đóng vai phản biện (nêu quan điểm ngược cho cân bằng)", "when": "Đưa ra một góc nhìn đối lập để thử thách lập luận, không phải vì tin vào nó.", "example": "Let me play devil's advocate here: what if the cost outweighs the benefit?" },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Cân bằng lại nhận định, ghi nhận điểm đúng của bên kia.", "example": "To be fair, the opposing side raised a valid concern earlier." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là người điều phối (moderator) một buổi tranh luận giữa hai diễn giả về chủ đề 'Liệu làm việc từ xa có nên trở thành tiêu chuẩn mới?'. Speaker A ủng hộ, Speaker B phản đối. Nhiệm vụ của bạn là khai mạc, phân lượt, ngắt lời lịch sự, giữ cuộc tranh luận đi đúng hướng và tổng kết.",
+    "lines": [
+      {
+        "speaker": "Bạn (Điều phối)",
+        "text": "Good afternoon, everyone, and welcome. Today we are here to debate ____ remote work should become the new norm, a topic which, admittedly, remains rather contentious. As the moderator, I'll do my best to stay impartial and ensure both sides receive equal time.",
+        "ipa": "/ɡʊd ˌɑːf.təˈnuːn ˈev.ri.wʌn ænd ˈwel.kəm təˈdeɪ wiː ɑːr hɪər tə dɪˈbeɪt ... rɪˈməʊt wɜːk ʃʊd bɪˈkʌm ðə njuː nɔːm ə ˈtɒp.ɪk wɪtʃ ədˈmɪt.ɪd.li rɪˈmeɪnz ˈrɑː.ðə kənˈten.ʃəs æz ðə ˈmɒd.ə.reɪ.tər aɪl duː maɪ best tə steɪ ɪmˈpɑː.ʃəl ænd ɪnˈʃʊər bəʊθ saɪdz rɪˈsiːv ˈiː.kwəl taɪm/",
+        "vi": "Chào buổi chiều mọi người, và xin chào mừng. Hôm nay chúng ta có mặt ở đây để tranh luận ____ làm việc từ xa có nên trở thành tiêu chuẩn mới hay không, một chủ đề mà phải thừa nhận là vẫn còn khá gây tranh cãi. Với vai trò người điều phối, tôi sẽ cố hết sức giữ thái độ trung lập và đảm bảo cả hai bên có thời lượng ngang nhau.",
+        "blanks": [
+          { "type": "knowledge", "answer": "whether", "explanationVi": "Dùng 'whether' để dẫn một mệnh đề danh ngữ kiểu câu hỏi gián tiếp ('liệu... hay không') sau 'debate'. Không dùng 'if' ở vị trí trang trọng này; 'whether' chuẩn hơn trong văn nói nghi thức." }
+        ]
+      },
+      {
+        "speaker": "Speaker A",
+        "text": "Thank you. My core argument is straightforward: remote work not only boosts productivity but also improves work-life balance, which is exactly what modern employees are demanding.",
+        "ipa": "/θæŋk juː maɪ kɔːr ˈɑːɡ.jʊ.mənt ɪz ˈstreɪt.fɔː.wəd rɪˈməʊt wɜːk nɒt ˈəʊn.li buːsts ˌprɒd.ʌkˈtɪv.ə.ti bʌt ˈɔːl.səʊ ɪmˈpruːvz ˈwɜːk laɪf ˈbæl.əns wɪtʃ ɪz ɪɡˈzækt.li wɒt ˈmɒd.ən ɪmˈplɔɪ.iːz ɑːr dɪˈmɑːn.dɪŋ/",
+        "vi": "Cảm ơn. Luận điểm cốt lõi của tôi rất rõ ràng: làm việc từ xa không những tăng năng suất mà còn cải thiện cân bằng công việc - cuộc sống, vốn chính là điều mà nhân viên hiện đại đang đòi hỏi."
+      },
+      {
+        "speaker": "Bạn (Điều phối)",
+        "text": "Thank you, that's a strong opening. So, if I understand you correctly, your central point is that flexibility ultimately benefits both staff and the company. I'd now like to ____ to Speaker B for a response to that claim.",
+        "ipa": "/θæŋk juː ðæts ə strɒŋ ˈəʊ.pən.ɪŋ səʊ ɪf aɪ ˌʌn.dəˈstænd juː kəˈrekt.li jɔː ˈsen.trəl pɔɪnt ɪz ðæt ˈflek.sə.bɪl.ə.ti ˈʌl.tɪ.mət.li ˈben.ɪ.fɪts bəʊθ stɑːf ænd ðə ˈkʌm.pə.ni aɪd naʊ laɪk tə ... tə ˈspiː.kər biː fɔːr ə rɪˈspɒns tə ðæt kleɪm/",
+        "vi": "Cảm ơn anh/chị, một phần mở đầu thuyết phục. Vậy, nếu tôi hiểu đúng, luận điểm trung tâm của anh/chị là sự linh hoạt rốt cuộc có lợi cho cả nhân viên lẫn công ty. Bây giờ tôi muốn ____ sang Speaker B để nghe phản hồi cho khẳng định đó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "turn", "explanationVi": "Cụm 'turn to somebody' nghĩa là hướng lượt nói/sự chú ý sang ai đó. Xem mẫu câu 'I'd now like to turn to...' ở phần Cấu trúc — cách chuyển lượt trang trọng, cân bằng." }
+        ]
+      },
+      {
+        "speaker": "Speaker B",
+        "text": "With all due respect, those benefits are often exaggerated. Despite the convenience, remote work tends to erode team cohesion, and many employees struggle to switch off, which can lead to burnout in the long run.",
+        "ipa": "/wɪð ɔːl djuː rɪˈspekt ðəʊz ˈben.ɪ.fɪts ɑːr ˈɒf.ən ɪɡˈzæd.ʒə.reɪ.tɪd dɪˈspaɪt ðə kənˈviː.ni.əns rɪˈməʊt wɜːk tendz tə ɪˈrəʊd tiːm kəʊˈhiː.ʒən ænd ˈmen.i ɪmˈplɔɪ.iːz ˈstrʌɡ.əl tə swɪtʃ ɒf wɪtʃ kæn liːd tə ˈbɜːn.aʊt ɪn ðə lɒŋ rʌn/",
+        "vi": "Với tất cả sự tôn trọng, những lợi ích đó thường bị thổi phồng. Bất chấp sự tiện lợi, làm việc từ xa có xu hướng làm xói mòn sự gắn kết của đội nhóm, và nhiều nhân viên khó 'tắt' công việc, điều mà về lâu dài có thể dẫn đến kiệt sức."
+      },
+      {
+        "speaker": "Bạn (Điều phối)",
+        "text": "If I may ____, Speaker B, that's a compelling concern, although I'd ask you to hold that thought for a moment. Speaker A, you seem eager to respond, but for the sake of time, please keep your rebuttal concise.",
+        "ipa": "/ɪf aɪ meɪ ... ˈspiː.kər biː ðæts ə kəmˈpel.ɪŋ kənˈsɜːn ɔːlˈðəʊ aɪd ɑːsk juː tə həʊld ðæt θɔːt fɔːr ə ˈməʊ.mənt ˈspiː.kər eɪ juː siːm ˈiː.ɡər tə rɪˈspɒnd bʌt fɔːr ðə seɪk əv taɪm pliːz kiːp jɔː rɪˈbʌt.əl kənˈsaɪs/",
+        "vi": "Nếu cho phép tôi ____, Speaker B, đó là một mối lo đáng chú ý, mặc dù tôi xin anh/chị giữ ý đó lại một lát. Speaker A, có vẻ anh/chị nóng lòng đáp lại, nhưng để tiết kiệm thời gian, xin giữ lời phản bác ngắn gọn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "interject", "explanationVi": "'If I may interject' là lời rào đón trang trọng để chen lời. Xem mục Từ vựng ('to interject') và mẫu câu 'If I may interject...' — cách giành lại quyền dẫn dắt mà không thô lỗ." }
+        ]
+      },
+      {
+        "speaker": "Speaker A",
+        "text": "Briefly: cohesion can be maintained through tools ____ video calls and virtual team-building, so the problem lies in poor management, not in remote work itself.",
+        "ipa": "/ˈbriːf.li kəʊˈhiː.ʒən kæn biː meɪnˈteɪnd θruː tuːlz ... ˈvɪd.i.əʊ kɔːlz ænd ˈvɜː.tʃu.əl tiːm ˈbɪl.dɪŋ səʊ ðə ˈprɒb.ləm laɪz ɪn pɔː ˈmæn.ɪdʒ.mənt nɒt ɪn rɪˈməʊt wɜːk ɪtˈself/",
+        "vi": "Ngắn gọn thôi: sự gắn kết vẫn có thể duy trì qua các công cụ ____ gọi video và gắn kết đội nhóm trực tuyến, nên vấn đề nằm ở quản lý yếu kém, chứ không phải ở bản thân làm việc từ xa.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'tools'. Nêu ví dụ cụ thể làm lập luận thuyết phục hơn — một thủ pháp TOEIC quen thuộc." }
+        ]
+      },
+      {
+        "speaker": "Bạn (Điều phối)",
+        "text": "I'm afraid we are beginning to ____ into management theory, so let's steer back to the central question. Before we wrap up, I'd like each of you to give one final, ____ point.",
+        "ipa": "/aɪm əˈfreɪd wiː ɑːr bɪˈɡɪn.ɪŋ tə ... ˈɪn.tə ˈmæn.ɪdʒ.mənt ˈθɪə.ri səʊ lets stɪər bæk tə ðə ˈsen.trəl ˈkwes.tʃən bɪˈfɔː wiː ræp ʌp aɪd laɪk iːtʃ əv juː tə ɡɪv wʌn ˈfaɪ.nəl ... pɔɪnt/",
+        "vi": "E rằng chúng ta đang bắt đầu ____ sang lý thuyết quản lý, vậy hãy lái trở lại câu hỏi trọng tâm. Trước khi khép lại, tôi muốn mỗi người đưa ra một luận điểm cuối cùng, ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "digress", "explanationVi": "'to digress' = lạc đề. Xem mục Từ vựng. Người điều phối dùng từ này để khéo léo kéo cuộc tranh luận về đúng chủ đề." },
+          { "type": "knowledge", "answer": "concise", "explanationVi": "Tính từ 'concise' (ngắn gọn, súc tích) bổ nghĩa cho 'point'. Xem mục Từ vựng — hữu ích khi nhắc người nói tiết chế thời lượng." }
+        ]
+      },
+      {
+        "speaker": "Bạn (Điều phối)",
+        "text": "Thank you both. Despite the clear differences between the two sides, it seems you ultimately agree that ____ wellbeing should sit at the heart of any workplace policy. On that note of common ground, I'll bring today's debate to a close.",
+        "ipa": "/θæŋk juː bəʊθ dɪˈspaɪt ðə klɪər ˈdɪf.ər.ən.sɪz bɪˈtwiːn ðə tuː saɪdz ɪt siːmz juː ˈʌl.tɪ.mət.li əˈɡriː ðæt ... ˈwel.biː.ɪŋ ʃʊd sɪt ət ðə hɑːt əv ˈen.i ˈwɜːk.pleɪs ˈpɒl.ə.si ɒn ðæt nəʊt əv ˈkɒm.ən ɡraʊnd aɪl brɪŋ təˈdeɪz dɪˈbeɪt tə ə kləʊz/",
+        "vi": "Cảm ơn cả hai. Bất chấp những khác biệt rõ ràng giữa hai bên, có vẻ rốt cuộc các vị đều nhất trí rằng ____ của nhân viên nên là trung tâm của mọi chính sách nơi làm việc. Trên tinh thần điểm chung đó, tôi xin khép lại buổi tranh luận hôm nay.",
+        "blanks": [
+          { "type": "personal", "hint": "Một danh từ chỉ điều cả hai bên cùng coi trọng. Ví dụ: 'employee' (cùng với wellbeing thành 'employee wellbeing'), hoặc 'staff'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận phương Tây, người điều phối tuyệt đối không được để lộ quan điểm cá nhân; sự trung lập (impartiality) là uy tín lớn nhất của vai trò này.",
+    "Ngắt lời được chấp nhận nếu có lý do công bằng (hết giờ, lạc đề, một bên lấn lướt) và được bọc bằng lời rào đón như 'If I may...' hay 'Sorry to interrupt, but...'.",
+    "Diễn giải lại (paraphrase) luận điểm của người nói rồi mới chuyển lượt là chuẩn mực chuyên nghiệp: nó cho thấy bạn lắng nghe và giúp khán giả theo kịp.",
+    "Kết thúc bằng việc nêu 'common ground' (điểm chung) giữa hai bên được đánh giá cao — nó hạ nhiệt và để lại ấn tượng xây dựng, văn minh."
+  ],
+
+  "commonMistakes": [
+    "Để lộ quan điểm cá nhân khi điều phối (vd 'I agree with Speaker A'). Người điều phối phải giữ trung lập tuyệt đối.",
+    "Ngắt lời cộc lốc, không rào đón ('Stop, your time is up'). Hãy dùng 'I'm afraid we need to move on...' hoặc 'If I may interject...'.",
+    "Dùng 'if' thay cho 'whether' trong câu trang trọng kiểu 'to debate whether...'. Trong văn nói nghi thức, 'whether' chuẩn và sang hơn.",
+    "Nhầm 'contentious' (gây tranh cãi) với 'content' (nội dung / hài lòng) — khác hẳn nghĩa và trọng âm."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện vai người điều phối tranh luận như thật.",
+    "prompt": "Hãy mô phỏng một buổi tranh luận bằng tiếng Anh trong đó BẠN đóng đồng thời hai diễn giả đối lập (Speaker A ủng hộ, Speaker B phản đối) về một chủ đề gây tranh cãi mà tôi sẽ nêu, còn TÔI đóng vai người điều phối (moderator). Hãy để tôi khai mạc, mời từng bên phát biểu, ngắt lời và tổng kết. Sau mỗi lượt của tôi, hãy: (1) phản hồi tự nhiên trong vai hai diễn giả, đôi khi cố tình lạc đề hoặc nói lấn giờ để tôi tập xử lý; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt trang trọng, trung lập hơn bằng tiếng Việt; (3) khuyến khích tôi dùng câu phức và cụm điều phối như 'If I may interject', 'turn to', 'such as', 'despite', 'whether'. Cuối buổi, hãy chấm mức độ trung lập, khả năng kiểm soát thời gian và độ trôi chảy của tôi, kèm 3 điểm cần cải thiện. Bắt đầu bằng việc đưa tôi một chủ đề tranh luận nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy để hai diễn giả ngắt lời nhau và lớn tiếng để tôi tập trung lập hóa căng thẳng (de-escalate).'",
+      "Thêm: 'Hãy thỉnh thoảng đặt một câu hỏi khó từ khán giả để tôi tập xử lý phần hỏi-đáp.'",
+      "Thêm: 'Hãy yêu cầu tôi đóng vai phản biện (devil's advocate) để cân bằng cuộc tranh luận.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi khai mạc và đặt khung buổi tranh luận được bằng một câu dài, trang trọng mà không nhìn gợi ý.",
+    "Tôi ngắt lời và chuyển lượt lịch sự được bằng 'If I may interject...' và 'I'd now like to turn to...'.",
+    "Tôi diễn giải lại luận điểm của hai bên và tổng kết được điểm chung mà vẫn giữ thái độ trung lập."
+  ]
+}

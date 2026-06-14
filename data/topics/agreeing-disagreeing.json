@@ -1,0 +1,349 @@
+{
+  "id": "agreeing-disagreeing",
+  "category": "opinions",
+  "title": "Đồng tình & phản bác",
+  "titleEn": "Agreeing & Disagreeing",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ sự đồng tình ở nhiều mức độ (hoàn toàn, một phần) một cách tự nhiên",
+    "Phản bác lịch sự mà không làm mất lòng người đối diện",
+    "Đưa lý lẽ và dẫn chứng bằng câu dài, mạch lạc (although, such as, in order to)",
+    "Dùng đảo ngữ 'not only… but also' và mệnh đề quan hệ which/who khi tranh luận",
+    "Chuyển hướng từ phản bác sang tìm điểm chung để cuộc trao đổi mang tính xây dựng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to agree",
+      "ipa": "/əˈɡriː/",
+      "vi": "đồng ý, đồng tình (động từ)",
+      "register": "neutral",
+      "example": "I completely agree with you on that point.",
+      "exampleVi": "Tôi hoàn toàn đồng ý với bạn ở điểm đó.",
+      "note": "Động từ. Đi với 'with somebody' (đồng ý với ai) và 'on/about something' (về việc gì). KHÔNG nói 'I am agree'.",
+      "synonyms": [
+        { "term": "to concur", "ipa": "/kənˈkɜːr/", "register": "formal", "nuanceVi": "Rất trang trọng, hay gặp trong họp hành/văn viết: 'I concur with the report.' Nghe học thuật, đời thường ít dùng." },
+        { "term": "to go along with", "ipa": "/ɡəʊ əˈlɒŋ wɪð/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'xuôi theo, chấp nhận ý kiến của ai' — đôi khi ngầm ý đồng ý cho qua chứ chưa hẳn tâm phục." }
+      ]
+    },
+    {
+      "term": "to disagree",
+      "ipa": "/ˌdɪs.əˈɡriː/",
+      "vi": "không đồng ý, phản đối (động từ)",
+      "register": "neutral",
+      "example": "I'm afraid I have to disagree with that idea.",
+      "exampleVi": "Tôi e rằng tôi phải phản đối ý kiến đó.",
+      "note": "Động từ. Để phản bác lịch sự, hãy mở đầu bằng 'I'm afraid…' hoặc 'I'm not sure I agree…' thay vì 'You're wrong.'",
+      "synonyms": [
+        { "term": "to object", "ipa": "/əbˈdʒekt/", "register": "formal", "nuanceVi": "Nhấn 'phản đối chính thức/dứt khoát', đi với 'to something'. Nghe nặng và trang trọng hơn disagree." },
+        { "term": "to beg to differ", "ipa": "/beɡ tə ˈdɪf.ər/", "register": "formal", "nuanceVi": "Thành ngữ lịch sự: 'I beg to differ' = xin phép có ý kiến khác. Nhã nhặn nhưng hơi cứng/hơi kiểu cách." }
+      ]
+    },
+    {
+      "term": "point of view",
+      "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+      "vi": "quan điểm, góc nhìn (danh từ)",
+      "register": "neutral",
+      "example": "I understand your point of view, but I see it differently.",
+      "exampleVi": "Tôi hiểu quan điểm của bạn, nhưng tôi nhìn nhận khác.",
+      "note": "Cụm danh từ. Đi với 'from my point of view' (theo góc nhìn của tôi). Công nhận quan điểm người khác trước khi phản bác là phép lịch sự.",
+      "synonyms": [
+        { "term": "perspective", "ipa": "/pəˈspek.tɪv/", "register": "neutral", "nuanceVi": "Nhấn 'cách nhìn tổng thể từ một vị trí riêng'. Nghe trí tuệ và rộng hơn 'point of view' một chút." },
+        { "term": "standpoint", "ipa": "/ˈstænd.pɔɪnt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'lập trường' dựa trên một cơ sở nhất định (from a legal standpoint)." },
+        { "term": "stance", "ipa": "/stɑːns/", "register": "formal", "nuanceVi": "Nhấn 'thái độ/lập trường công khai' về một vấn đề, thường mang tính dứt khoát (her stance on the issue)." }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "xác đáng, có cơ sở (tính từ)",
+      "register": "neutral",
+      "example": "That's a valid point, although I'd add one thing.",
+      "exampleVi": "Đó là một ý xác đáng, mặc dù tôi muốn bổ sung một điều.",
+      "note": "Tính từ. 'a valid point/argument' = một luận điểm có lý. Khen ý người khác là 'valid' giúp phản bác sau đó nghe nhẹ nhàng hơn.",
+      "synonyms": [
+        { "term": "sound", "ipa": "/saʊnd/", "register": "neutral", "nuanceVi": "Nhấn 'vững chắc, đáng tin cậy' (a sound argument). Gần nghĩa nhưng thiên về tính chắc chắn của lập luận." },
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'hợp lý, chấp nhận được'. Nhẹ hơn 'valid', thiên về sự phải chăng." },
+        { "term": "compelling", "ipa": "/kəmˈpel.ɪŋ/", "register": "formal", "nuanceVi": "Mạnh hơn hẳn: 'thuyết phục đến mức khó phản bác'. Dùng khi lý lẽ thật sự cuốn hút." }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "vi": "thừa nhận, công nhận (động từ)",
+      "register": "formal",
+      "example": "I acknowledge that the costs are high, but the benefits outweigh them.",
+      "exampleVi": "Tôi thừa nhận chi phí cao, nhưng lợi ích vẫn lớn hơn.",
+      "note": "Động từ trang trọng. Dùng để công nhận một phần ý đối phương trước khi nêu ý ngược lại — chiến thuật tranh luận lịch sự.",
+      "synonyms": [
+        { "term": "to admit", "ipa": "/ədˈmɪt/", "register": "neutral", "nuanceVi": "Phổ biến, đời thường hơn. Nhấn 'thừa nhận điều mình hơi miễn cưỡng nói ra' (admit a mistake)." },
+        { "term": "to concede", "ipa": "/kənˈsiːd/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nhượng bộ, chịu thừa nhận đối phương đúng ở điểm đó' trong tranh luận." }
+      ]
+    },
+    {
+      "term": "to exaggerate",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "vi": "phóng đại, nói quá (động từ)",
+      "register": "neutral",
+      "example": "I think the report exaggerates the risks.",
+      "exampleVi": "Tôi cho rằng bản báo cáo phóng đại các rủi ro.",
+      "note": "Động từ. Hữu ích khi phản bác nhẹ: cho rằng đối phương 'nói quá' chứ không sai hoàn toàn.",
+      "synonyms": [
+        { "term": "to overstate", "ipa": "/ˌəʊ.vəˈsteɪt/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'trình bày quá mức tầm quan trọng của vấn đề' (overstate the case)." },
+        { "term": "to blow out of proportion", "ipa": "/bləʊ aʊt əv prəˈpɔː.ʃən/", "register": "casual", "nuanceVi": "Thành ngữ đời thường: 'thổi phồng quá mức'. Nghe sinh động nhưng hơi suồng sã cho ngữ cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "controversial",
+      "ipa": "/ˌkɒn.trəˈvɜː.ʃəl/",
+      "vi": "gây tranh cãi (tính từ)",
+      "register": "neutral",
+      "example": "Working from home is still a controversial topic.",
+      "exampleVi": "Làm việc tại nhà vẫn là chủ đề gây tranh cãi.",
+      "note": "Tính từ. Mô tả vấn đề có nhiều luồng ý kiến trái chiều. Trọng âm rơi vào âm thứ ba: con-tro-VER-sial.",
+      "synonyms": [
+        { "term": "debatable", "ipa": "/dɪˈbeɪ.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'còn phải bàn cãi, chưa ngã ngũ'. Nhẹ hơn 'controversial' (vốn ngụ ý gây xôn xao, dễ nổi nóng)." },
+        { "term": "divisive", "ipa": "/dɪˈvaɪ.sɪv/", "register": "formal", "nuanceVi": "Nhấn 'gây chia rẽ, làm người ta đứng về hai phe'. Mạnh và tiêu cực hơn." }
+      ]
+    },
+    {
+      "term": "frankly",
+      "ipa": "/ˈfræŋk.li/",
+      "vi": "thành thật mà nói, thẳng thắn (trạng từ)",
+      "register": "neutral",
+      "example": "Frankly, I don't think that approach will work.",
+      "exampleVi": "Thành thật mà nói, tôi không nghĩ cách đó sẽ hiệu quả.",
+      "note": "Trạng từ mở đầu câu, báo hiệu một ý kiến thẳng thắn (đôi khi hơi trái ý). Làm câu phản bác nghe chân thành chứ không gây gổ.",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, phổ biến hơn. Nhấn 'thật lòng', nhẹ và dễ dùng trong mọi tình huống." },
+        { "term": "candidly", "ipa": "/ˈkæn.dɪd.li/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ, nhấn 'cởi mở thẳng thắn không che giấu'. Nghe trí thức." }
+      ]
+    },
+    {
+      "term": "absolutely",
+      "ipa": "/ˌæb.səˈluːt.li/",
+      "vi": "hoàn toàn, chắc chắn rồi (trạng từ)",
+      "register": "neutral",
+      "example": "Absolutely! That's exactly what I was thinking.",
+      "exampleVi": "Chắc chắn rồi! Đó đúng là điều tôi đang nghĩ.",
+      "note": "Trạng từ. Cách đồng tình mạnh, nhiệt tình. Có thể đứng một mình như câu trả lời ('Absolutely!').",
+      "synonyms": [
+        { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'chắc chắn không nghi ngờ'. Gần nghĩa, nhưng 'absolutely' nghe nhiệt tình/đồng cảm hơn một chút." },
+        { "term": "no doubt about it", "ipa": "/nəʊ daʊt əˈbaʊt ɪt/", "register": "casual", "nuanceVi": "Cụm đời thường: 'khỏi phải bàn'. Khẳng định mạnh, thân mật." }
+      ]
+    },
+    {
+      "term": "to compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "thỏa hiệp, nhượng bộ để gặp nhau (động từ/danh từ)",
+      "register": "neutral",
+      "example": "Perhaps we can compromise and try both ideas.",
+      "exampleVi": "Có lẽ chúng ta có thể thỏa hiệp và thử cả hai ý tưởng.",
+      "note": "Vừa là động từ vừa là danh từ ('reach a compromise'). Dùng để kết thúc tranh luận theo hướng xây dựng, tìm điểm chung.",
+      "synonyms": [
+        { "term": "to meet halfway", "ipa": "/miːt ˌhɑːfˈweɪ/", "register": "casual", "nuanceVi": "Thành ngữ thân thiện: 'gặp nhau ở giữa, mỗi bên nhường một chút'. Nghe gần gũi, thiện chí." },
+        { "term": "common ground", "ipa": "/ˌkɒm.ən ˈɡraʊnd/", "register": "neutral", "nuanceVi": "Danh từ: 'điểm chung'. Dùng 'find common ground' (tìm điểm đồng thuận) — không hẳn là nhượng bộ mà là điểm cả hai cùng nhất trí." }
+      ]
+    },
+    {
+      "term": "persuasive",
+      "ipa": "/pəˈsweɪ.sɪv/",
+      "vi": "có sức thuyết phục (tính từ)",
+      "register": "neutral",
+      "example": "Your argument is persuasive, but I still have some doubts.",
+      "exampleVi": "Lập luận của bạn rất thuyết phục, nhưng tôi vẫn còn vài nghi ngại.",
+      "note": "Tính từ. Mô tả lập luận/người có khả năng làm người khác tin theo. Khen 'persuasive' trước khi nêu nghi ngại là cách phản bác mềm.",
+      "synonyms": [
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, phổ biến hơn. Nhấn 'làm người ta tin là đúng'. 'persuasive' thiên về 'làm người ta hành động/đổi ý'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I couldn't agree more — [lý do].",
+      "use": "Đồng tình ở mức cao nhất, rất nhiệt tình.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't agree more — remote work has genuinely improved our productivity."
+      ],
+      "explanationVi": "'I couldn't agree more' nghĩa là 'không thể đồng ý hơn được nữa' (= đồng ý 100%), KHÔNG phải phủ định. Đây là cách đồng tình mạnh và tự nhiên nhất của người bản xứ.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "That's a good point, and I'd add that [ý bổ sung].",
+      "use": "Đồng tình rồi bổ sung thêm ý của mình.",
+      "register": "neutral",
+      "examples": [
+        "That's a good point, and I'd add that flexible hours help parents in particular."
+      ],
+      "explanationVi": "Công nhận ý người kia ('a good point') rồi 'I'd add that…' để mở rộng. Cách này vừa lịch sự vừa cho thấy bạn đóng góp chứ không chỉ gật đầu.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but I'm not entirely convinced that [mệnh đề].",
+      "use": "Phản bác lịch sự sau khi đã công nhận đối phương.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I'm not entirely convinced that it works for every team."
+      ],
+      "explanationVi": "'I see your point, but…' là khung phản bác mềm kinh điển: công nhận trước, rồi nêu ý ngược. 'not entirely convinced' nhẹ hơn nhiều so với 'You're wrong'.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "I'm afraid I have to disagree, although I understand why you'd think that.",
+      "use": "Phản bác rõ ràng nhưng vẫn giữ thể diện cho người kia.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid I have to disagree, although I understand why you'd think that."
+      ],
+      "explanationVi": "'I'm afraid…' làm lời phản đối nghe tiếc nuối, lịch sự. Mệnh đề 'although I understand…' nhượng bộ một phần để không nghe gay gắt. Rất hợp môi trường công sở.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "I agree with you up to a point, but [ý ngược].",
+      "use": "Đồng ý một phần (không hoàn toàn).",
+      "register": "neutral",
+      "examples": [
+        "I agree with you up to a point, but I think we're overlooking the cost."
+      ],
+      "explanationVi": "'up to a point' = 'đến một mức độ nào đó thôi'. Cách diễn đạt tinh tế cho thấy bạn không hoàn toàn đồng tình mà cũng không phản bác thẳng thừng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "Wouldn't it be better to [V] in order to [mục đích]?",
+      "use": "Đưa ra đề xuất thay thế dưới dạng câu hỏi, nghe khiêm tốn.",
+      "register": "neutral",
+      "examples": [
+        "Wouldn't it be better to run a trial first in order to test the idea?"
+      ],
+      "explanationVi": "Gói đề xuất vào câu hỏi 'Wouldn't it be better to…?' nghe nhã hơn là ra lệnh. 'in order to' nêu mục đích rõ ràng, đậm chất TOEIC."
+    },
+    {
+      "pattern": "Perhaps we can find some common ground and [V].",
+      "use": "Hướng cuộc tranh luận về thỏa hiệp, kết thúc xây dựng.",
+      "register": "neutral",
+      "examples": [
+        "Perhaps we can find some common ground and combine both approaches."
+      ],
+      "explanationVi": "Sau khi đôi bên đã nêu ý trái chiều, câu này 'hạ nhiệt' và đề nghị tìm điểm chung. Thể hiện thiện chí, rất được đánh giá cao trong làm việc nhóm."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "absolutely", "ipa": "/ˌæb.səˈluːt.li/", "vi": "chắc chắn rồi (đồng tình mạnh)", "when": "Khi muốn đồng ý nhiệt tình, dứt khoát.", "example": "Absolutely, that's exactly what I had in mind." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì… (đính chính nhẹ)", "when": "Khi muốn nêu ý hơi trái ngược mà không cộc lốc.", "example": "Actually, I see it slightly differently." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Khi muốn công nhận một điểm đúng của phía đối lập trước khi phản bác.", "example": "To be fair, the plan does have some advantages." },
+    { "term": "on the other hand", "ipa": "/ɒn ði ˈʌð.ər hænd/", "vi": "mặt khác, ngược lại", "when": "Khi giới thiệu một góc nhìn đối lập để cân bằng.", "example": "On the other hand, it could increase our costs significantly." },
+    { "term": "to a certain extent", "ipa": "/tə ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Khi đồng ý một phần, dè dặt.", "example": "I agree with that to a certain extent, but not completely." },
+    { "term": "having said that", "ipa": "/ˈhæv.ɪŋ sed ðæt/", "vi": "tuy nói vậy nhưng…", "when": "Khi muốn lật lại ý vừa thừa nhận để nêu điểm ngược.", "example": "It's expensive. Having said that, the long-term savings are real." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một buổi họp nhóm, đồng nghiệp của bạn đề xuất chuyển hẳn sang làm việc tại nhà (remote work). Bạn và đồng nghiệp trao đổi quan điểm: có chỗ đồng tình, có chỗ phản bác, rồi cùng tìm hướng thỏa hiệp.",
+    "lines": [
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "I genuinely believe we should switch to fully remote work, because not only would it cut our office costs, but it would also give everyone a much better work-life balance.",
+        "ipa": "/aɪ ˈdʒen.ju.ɪn.li bɪˈliːv wiː ʃʊd swɪtʃ tə ˈfʊl.i rɪˈməʊt wɜːk bɪˈkɒz nɒt ˈəʊn.li wʊd ɪt kʌt ˈaʊə ˈɒf.ɪs kɒsts bʌt ɪt wʊd ˈɔːl.səʊ ɡɪv ˈev.ri.wʌn ə mʌtʃ ˈbet.ər wɜːk laɪf ˈbæl.əns/",
+        "vi": "Tôi thật sự tin chúng ta nên chuyển hẳn sang làm việc từ xa, vì nó không những cắt giảm chi phí văn phòng, mà còn mang lại cho mọi người sự cân bằng công việc - cuộc sống tốt hơn nhiều."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I couldn't agree more about the work-life balance, ____ honestly, the savings on rent alone would be significant. Remote work has clearly worked well for our developers this year.",
+        "ipa": "/aɪ ˈkʊd.ənt əˈɡriː mɔːr əˈbaʊt ðə wɜːk laɪf ˈbæl.əns ... ˈɒn.ɪst.li ðə ˈseɪ.vɪŋz ɒn rent əˈləʊn wʊd biː sɪɡˈnɪf.ɪ.kənt rɪˈməʊt wɜːk hæz ˈklɪə.li wɜːkt wel fɔːr ˈaʊə dɪˈvel.əp.əz ðɪs jɪər/",
+        "vi": "Tôi hoàn toàn đồng ý về chuyện cân bằng công việc - cuộc sống, ____ thành thật mà nói, riêng tiền tiết kiệm thuê văn phòng cũng đã đáng kể rồi. Làm từ xa rõ ràng đã hiệu quả với đội lập trình của chúng ta năm nay.",
+        "blanks": [
+          { "type": "knowledge", "answer": "and", "explanationVi": "Dùng liên từ 'and' để nối thêm một lý do đồng tình cùng chiều. Vì hai vế đều ủng hộ ý kiến nên dùng 'and', không dùng 'but'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Exactly. And teams which communicate mostly online, such as ours, often find that they actually collaborate more, not less.",
+        "ipa": "/ɪɡˈzækt.li ænd tiːmz wɪtʃ kəˈmjuː.nɪ.keɪt ˈməʊst.li ˌɒnˈlaɪn sʌtʃ æz ˈaʊəz ˈɒf.ən faɪnd ðæt ðeɪ ˈæk.tʃu.ə.li kəˈlæb.ə.reɪt mɔː nɒt les/",
+        "vi": "Chính xác. Và những nhóm chủ yếu giao tiếp trực tuyến, chẳng hạn như nhóm mình, thường nhận ra rằng họ thật ra phối hợp nhiều hơn chứ không phải ít hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see your point, ____ I'm not entirely convinced it suits everyone. New hires, ____ join without ever meeting the team, can feel quite isolated, although experienced staff probably thrive.",
+        "ipa": "/aɪ siː jɔː pɔɪnt ... aɪm nɒt ɪnˈtaɪə.li kənˈvɪnst ɪt sjuːts ˈev.ri.wʌn njuː ˈhaɪəz ... dʒɔɪn wɪðˈaʊt ˈev.ər ˈmiː.tɪŋ ðə tiːm kæn fiːl kwaɪt ˈaɪ.sə.leɪ.tɪd ɔːlˈðəʊ ɪkˈspɪə.ri.ənst stɑːf ˈprɒb.ə.bli θraɪv/",
+        "vi": "Tôi hiểu ý bạn, ____ tôi không hoàn toàn tin rằng nó phù hợp với tất cả mọi người. Những nhân viên mới, ____ gia nhập mà chưa từng gặp mặt cả nhóm, có thể thấy khá lạc lõng, mặc dù nhân viên có kinh nghiệm thì hẳn là làm tốt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' để mở ý phản bác sau khi đã công nhận ('I see your point'). Đây là khung phản bác lịch sự: công nhận trước, nêu ý ngược sau. Xem mẫu 'I see your point, but…'." },
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì danh từ đứng trước là người ('new hires'). Nếu là vật thì dùng 'which/that'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "To be fair, that's a valid concern. But couldn't we solve it with a proper onboarding programme rather than keeping the whole office open?",
+        "ipa": "/tə biː feər ðæts ə ˈvæl.ɪd kənˈsɜːn bʌt ˈkʊd.ənt wiː sɒlv ɪt wɪð ə ˈprɒp.ər ˈɒn.bɔːd.ɪŋ ˈprəʊ.ɡræm ˈrɑː.ðər ðæn ˈkiː.pɪŋ ðə həʊl ˈɒf.ɪs ˈəʊ.pən/",
+        "vi": "Công bằng mà nói, đó là một lo ngại xác đáng. Nhưng chẳng phải chúng ta có thể giải quyết bằng một chương trình hội nhập tử tế thay vì giữ cả văn phòng mở sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a fair point, and I'd agree with it ____ a certain extent. Frankly, though, despite all the benefits, some clients still expect face-to-face meetings, ____ could affect a few important accounts.",
+        "ipa": "/ðæts ə feər pɔɪnt ænd aɪd əˈɡriː wɪð ɪt ... ə ˈsɜː.tən ɪkˈstent ˈfræŋk.li ðəʊ dɪˈspaɪt ɔːl ðə ˈben.ɪ.fɪts sʌm ˈklaɪ.ənts stɪl ɪkˈspekt ˌfeɪs tə ˈfeɪs ˈmiː.tɪŋz ... kʊd əˈfekt ə fjuː ɪmˈpɔː.tənt əˈkaʊnts/",
+        "vi": "Đó là một ý hợp lý, và tôi đồng ý với nó ____ một mức độ nào đó. Tuy nhiên, thành thật mà nói, dù có mọi lợi ích, một số khách hàng vẫn mong gặp trực tiếp, ____ có thể ảnh hưởng tới vài khách hàng quan trọng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Cụm cố định 'to a certain extent' = 'ở một mức độ nào đó', dùng khi đồng ý một phần. Giới từ luôn là 'to'. Xem phần Trạng từ & cụm từ." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng 'which' để mở mệnh đề quan hệ không xác định, nói thêm về cả ý vừa nêu (việc khách muốn gặp trực tiếp). 'which' dùng cho vật/sự việc." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Honestly, I hadn't fully considered the client side. So what would you suggest as a middle ground?",
+        "ipa": "/ˈɒn.ɪst.li aɪ ˈhæd.ənt ˈfʊl.i kənˈsɪd.əd ðə ˈklaɪ.ənt saɪd səʊ wɒt wʊd juː səˈdʒest æz ə ˈmɪd.əl ɡraʊnd/",
+        "vi": "Thành thật mà nói, tôi chưa cân nhắc kỹ phía khách hàng. Vậy bạn đề xuất một phương án trung gian thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Wouldn't it be better to adopt a hybrid model in order to keep the savings while still meeting clients in person? Perhaps we can find some common ground and let each team choose ____ best suits its needs.",
+        "ipa": "/ˈwʊd.ənt ɪt biː ˈbet.ər tə əˈdɒpt ə ˈhaɪ.brɪd ˈmɒd.əl ɪn ˈɔː.də tə kiːp ðə ˈseɪ.vɪŋz waɪl stɪl ˈmiː.tɪŋ ˈklaɪ.ənts ɪn ˈpɜː.sən pəˈhæps wiː kæn faɪnd sʌm ˈkɒm.ən ɡraʊnd ænd let iːtʃ tiːm tʃuːz ... best sjuːts ɪts niːdz/",
+        "vi": "Chẳng phải sẽ tốt hơn nếu ta áp dụng mô hình kết hợp để vừa giữ được khoản tiết kiệm vừa vẫn gặp khách trực tiếp sao? Có lẽ chúng ta có thể tìm điểm chung và để mỗi nhóm tự chọn ____ phù hợp nhất với nhu cầu của họ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "what", "explanationVi": "Dùng 'what' (= the thing that / điều gì) làm tân ngữ cho 'choose': 'choose what best suits its needs' = chọn điều phù hợp nhất. 'what' đã bao hàm cả danh từ lẫn mệnh đề quan hệ." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "That sounds like a sensible compromise. Let's draft a hybrid proposal together and present it ____ the team next week.",
+        "ipa": "/ðæt saʊndz laɪk ə ˈsen.sɪ.bəl ˈkɒm.prə.maɪz lets drɑːft ə ˈhaɪ.brɪd prəˈpəʊ.zəl təˈɡeð.ər ænd prɪˈzent ɪt ... ðə tiːm nekst wiːk/",
+        "vi": "Nghe có vẻ là một thỏa hiệp hợp lý. Hãy cùng soạn một đề xuất mô hình kết hợp và trình bày nó ____ cả nhóm vào tuần sau.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Động từ 'present' đi với giới từ 'to' khi nói trình bày cho ai đó: 'present something to somebody'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, phản bác trực diện ('You're wrong') bị coi là thô lỗ. Người ta luôn 'đệm' bằng cách công nhận ý đối phương trước: 'That's a good point, but…'.",
+    "Đồng ý quá mức hoặc gật đầu liên tục mà không đóng góp ý kiến có thể bị xem là thụ động. Họ đề cao việc bạn nêu quan điểm riêng, kể cả khi khác biệt.",
+    "Tranh luận về ý tưởng (debate the idea) khác với công kích cá nhân (attack the person). Giữ giọng điềm tĩnh, tập trung vào lập luận, không vào con người.",
+    "Kết thúc bằng việc tìm 'common ground' hoặc đề xuất 'compromise' được đánh giá rất cao, cho thấy bạn hợp tác và có tư duy giải quyết vấn đề."
+  ],
+
+  "commonMistakes": [
+    "Hiểu sai 'I couldn't agree more' thành phủ định. Thực ra đây là cách đồng ý MẠNH NHẤT (không thể đồng ý hơn được nữa).",
+    "Nói 'I am agree' — sai. 'agree' là động từ, phải nói 'I agree' (không có 'am').",
+    "Phản bác cộc lốc 'No, you're wrong'. Hãy dùng 'I'm afraid I disagree' hoặc 'I see your point, but…' cho lịch sự.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only WOULD it cut costs…', không phải 'Not only it would cut…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận và bày tỏ quan điểm như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp nói tiếng Anh đang tranh luận với tôi về một chủ đề gây tranh cãi (ví dụ: làm việc tại nhà, AI thay thế con người, mạng xã hội). Hãy nêu một quan điểm rõ ràng, rồi tranh luận qua lại với tôi. Sau mỗi lượt trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người đang tranh luận thật, đôi khi đồng tình đôi khi phản bác, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt lịch sự, tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu như 'I couldn't agree more', 'I see your point, but…', 'to a certain extent', và đảo ngữ 'not only… but also'. Cuối buổi, hãy chấm điểm cách tôi bày tỏ đồng tình/phản bác và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách nêu quan điểm của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản bác gay gắt hơn để tôi tập giữ bình tĩnh và vẫn lịch sự.' khi bạn đã quen.",
+      "Thêm: 'Cuối buổi, hãy yêu cầu tôi tóm tắt cả hai quan điểm rồi đề xuất một thỏa hiệp (compromise).' để luyện kỹ năng tìm điểm chung."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi bày tỏ được sự đồng tình ở ít nhất hai mức độ (hoàn toàn và một phần) mà không nhìn gợi ý.",
+    "Tôi phản bác được một ý kiến mà vẫn lịch sự, dùng mẫu 'I see your point, but…' hoặc 'I'm afraid I disagree'.",
+    "Tôi đề xuất được một hướng thỏa hiệp bằng câu dài có 'in order to' hoặc 'find common ground'."
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "id": "booking-accommodation",
+  "category": "travel",
+  "title": "Đặt chỗ ở",
+  "titleEn": "Booking Accommodation",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "negotiating", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi tình trạng phòng trống và giá cho ngày bạn muốn ở",
+    "Đặt phòng và cung cấp thông tin (số người, số đêm, loại phòng)",
+    "Hỏi về chính sách hủy phòng, đặt cọc và những gì đã bao gồm",
+    "Thương lượng nhẹ về giá hoặc yêu cầu thêm, rồi xác nhận đặt phòng",
+    "Dùng câu dài tự nhiên với 'such as', 'although', 'in order to' khi trao đổi"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "accommodation",
+      "ipa": "/əˌkɒm.əˈdeɪ.ʃən/",
+      "vi": "chỗ ở, nơi lưu trú (danh từ)",
+      "register": "neutral",
+      "example": "We're still looking for accommodation for our trip next month.",
+      "exampleVi": "Chúng tôi vẫn đang tìm chỗ ở cho chuyến đi tháng sau.",
+      "note": "Danh từ. Trong tiếng Anh-Anh thường dùng số ít không đếm được ('accommodation'); tiếng Anh-Mỹ đôi khi dùng 'accommodations' số nhiều.",
+      "synonyms": [
+        { "term": "lodging", "ipa": "/ˈlɒdʒ.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng/hơi cũ, chỉ nơi ở tạm. Hay gặp trong văn bản du lịch như 'food and lodging'." },
+        { "term": "a place to stay", "ipa": "/ə pleɪs tə steɪ/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng khi nói chuyện: 'We need a place to stay.' Nghe tự nhiên hơn 'accommodation' trong hội thoại bình thường." }
+      ]
+    },
+    {
+      "term": "to book",
+      "ipa": "/buːk/",
+      "vi": "đặt trước (động từ)",
+      "register": "neutral",
+      "example": "I'd like to book a double room for three nights.",
+      "exampleVi": "Tôi muốn đặt một phòng đôi trong ba đêm.",
+      "note": "Động từ rất thông dụng cho việc đặt phòng/vé/bàn. Danh từ là 'booking' (việc đặt chỗ).",
+      "synonyms": [
+        { "term": "to reserve", "ipa": "/rɪˈzɜːv/", "register": "formal", "nuanceVi": "Trang trọng hơn một chút, nghĩa gần như y hệt. 'reserve a room/table' nghe lịch sự, thường thấy trong văn bản." },
+        { "term": "to make a reservation", "ipa": "/meɪk ə ˌrez.əˈveɪ.ʃən/", "register": "neutral", "nuanceVi": "Cụm danh từ hóa, trung tính và rất an toàn khi nói với lễ tân: 'I'd like to make a reservation.'" }
+      ]
+    },
+    {
+      "term": "vacancy",
+      "ipa": "/ˈveɪ.kən.si/",
+      "vi": "phòng trống còn sẵn (danh từ)",
+      "register": "neutral",
+      "example": "Do you have any vacancies for the weekend?",
+      "exampleVi": "Cuối tuần khách sạn còn phòng trống không?",
+      "note": "Thường dùng số nhiều khi hỏi 'any vacancies'. Biển 'No vacancy' nghĩa là đã hết phòng.",
+      "synonyms": [
+        { "term": "availability", "ipa": "/əˌveɪ.ləˈbɪl.ə.ti/", "register": "neutral", "nuanceVi": "Nhấn vào 'tình trạng còn sẵn nói chung': 'Could you check availability for May 5th?' Trừu tượng hơn 'vacancy' (vốn chỉ phòng cụ thể)." }
+      ]
+    },
+    {
+      "term": "rate",
+      "ipa": "/reɪt/",
+      "vi": "giá phòng (theo đêm) (danh từ)",
+      "register": "neutral",
+      "example": "What's the nightly rate for a sea-view room?",
+      "exampleVi": "Giá mỗi đêm của phòng hướng biển là bao nhiêu?",
+      "note": "Danh từ, chỉ mức giá tính theo đơn vị (đêm/người). 'nightly rate' = giá theo đêm. Khác 'price' (giá nói chung).",
+      "synonyms": [
+        { "term": "price", "ipa": "/praɪs/", "register": "neutral", "nuanceVi": "Chung chung, ai cũng hiểu. 'rate' nghe chuyên ngành khách sạn hơn vì nhấn 'tính theo đơn vị thời gian'." },
+        { "term": "fee", "ipa": "/fiː/", "register": "neutral", "nuanceVi": "Nghiêng về 'khoản phí' cho một dịch vụ cụ thể (phí dọn phòng, phí hủy), không phải giá phòng tổng thể." }
+      ]
+    },
+    {
+      "term": "to confirm",
+      "ipa": "/kənˈfɜːm/",
+      "vi": "xác nhận (động từ)",
+      "register": "neutral",
+      "example": "Could you confirm my booking by email, please?",
+      "exampleVi": "Anh/chị xác nhận đặt phòng giúp tôi qua email được không?",
+      "note": "Động từ. Danh từ là 'confirmation' (xác nhận). 'a confirmation email/number' = email/mã xác nhận.",
+      "synonyms": [
+        { "term": "to verify", "ipa": "/ˈver.ɪ.faɪ/", "register": "formal", "nuanceVi": "Nhấn 'kiểm chứng cho chắc đúng'. Trang trọng hơn, thường dùng cho thông tin/danh tính chứ không hẳn cho việc chốt đặt phòng." }
+      ]
+    },
+    {
+      "term": "to cancel",
+      "ipa": "/ˈkæn.səl/",
+      "vi": "hủy (đặt phòng) (động từ)",
+      "register": "neutral",
+      "example": "I'm afraid I need to cancel my reservation for next week.",
+      "exampleVi": "Tôi e là tôi cần hủy đặt phòng cho tuần sau.",
+      "note": "Động từ. Danh từ là 'cancellation' (với hai chữ 'l'). 'cancellation policy' = chính sách hủy phòng.",
+      "synonyms": [
+        { "term": "to call off", "ipa": "/kɔːl ɒf/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'hủy bỏ một kế hoạch/sự kiện'. Nghe thân mật; ít dùng trang trọng với lễ tân." }
+      ]
+    },
+    {
+      "term": "refundable",
+      "ipa": "/rɪˈfʌn.də.bəl/",
+      "vi": "có thể hoàn tiền (tính từ)",
+      "register": "neutral",
+      "example": "Is this rate refundable if I cancel later?",
+      "exampleVi": "Mức giá này có hoàn tiền không nếu sau này tôi hủy?",
+      "note": "Tính từ. Trái nghĩa 'non-refundable' (không hoàn tiền) — loại này thường rẻ hơn nhưng rủi ro hơn.",
+      "synonyms": [
+        { "term": "reimbursable", "ipa": "/ˌriː.ɪmˈbɜː.sə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, thiên về 'được hoàn lại khoản đã chi' (hay dùng trong công tác phí). Nghe nặng nề hơn 'refundable' trong ngữ cảnh khách sạn." }
+      ]
+    },
+    {
+      "term": "spacious",
+      "ipa": "/ˈspeɪ.ʃəs/",
+      "vi": "rộng rãi (tính từ)",
+      "register": "neutral",
+      "example": "The suite is very spacious and has a lovely balcony.",
+      "exampleVi": "Phòng suite rất rộng rãi và có ban công đẹp.",
+      "note": "Tính từ tích cực để mô tả không gian. Hay xuất hiện trong mô tả khách sạn.",
+      "synonyms": [
+        { "term": "roomy", "ipa": "/ˈruː.mi/", "register": "casual", "nuanceVi": "Đời thường, thân mật hơn. Nghĩa giống 'spacious' nhưng nghe bình dân hơn." },
+        { "term": "generous", "ipa": "/ˈdʒen.ər.əs/", "register": "formal", "nuanceVi": "Khi nói 'a generous room/space' nghĩa là 'rộng đến mức hào phóng'. Tinh tế, thường thấy trong văn quảng cáo." }
+      ]
+    },
+    {
+      "term": "conveniently",
+      "ipa": "/kənˈviː.ni.ənt.li/",
+      "vi": "một cách thuận tiện (trạng từ)",
+      "register": "neutral",
+      "example": "The hotel is conveniently located near the train station.",
+      "exampleVi": "Khách sạn nằm thuận tiện gần ga tàu.",
+      "note": "Trạng từ. Cụm rất hay dùng: 'conveniently located' (có vị trí thuận tiện).",
+      "synonyms": [
+        { "term": "handily", "ipa": "/ˈhæn.dɪ.li/", "register": "casual", "nuanceVi": "Thân mật, kiểu Anh-Anh: 'handily placed near the centre'. Nghĩa tương tự nhưng ít trang trọng." },
+        { "term": "centrally", "ipa": "/ˈsen.trə.li/", "register": "neutral", "nuanceVi": "Cụ thể hơn: 'centrally located' = nằm ở trung tâm. Hẹp nghĩa hơn 'conveniently' (vốn chỉ sự tiện lợi nói chung)." }
+      ]
+    },
+    {
+      "term": "in advance",
+      "ipa": "/ɪn ədˈvɑːns/",
+      "vi": "trước (về thời gian) (cụm trạng ngữ)",
+      "register": "neutral",
+      "example": "If you book in advance, you'll usually get a better rate.",
+      "exampleVi": "Nếu bạn đặt trước, thường sẽ được giá tốt hơn.",
+      "note": "Cụm trạng ngữ chỉ thời gian. 'pay in advance' = trả trước; 'two weeks in advance' = trước hai tuần.",
+      "synonyms": [
+        { "term": "ahead of time", "ipa": "/əˈhed əv taɪm/", "register": "casual", "nuanceVi": "Đời thường, nghĩa y hệt 'in advance'. Hợp khi nói chuyện thân mật: 'Book ahead of time.'" },
+        { "term": "beforehand", "ipa": "/bɪˈfɔː.hænd/", "register": "neutral", "nuanceVi": "Một từ, đứng cuối câu: 'Please let us know beforehand.' Trung tính, gọn." }
+      ]
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɒz.ɪt/",
+      "vi": "tiền đặt cọc (danh từ)",
+      "register": "neutral",
+      "example": "We ask for a small deposit to secure the booking.",
+      "exampleVi": "Chúng tôi yêu cầu một khoản cọc nhỏ để giữ chỗ.",
+      "note": "Danh từ. 'to pay/leave a deposit' = đặt cọc. Khoản này thường được trừ vào tiền phòng hoặc hoàn lại sau."
+    },
+    {
+      "term": "double room",
+      "ipa": "/ˈdʌb.əl ruːm/",
+      "vi": "phòng đôi (một giường lớn cho 2 người) (danh từ)",
+      "register": "neutral",
+      "example": "We'd prefer a double room rather than two singles.",
+      "exampleVi": "Chúng tôi muốn một phòng đôi hơn là hai phòng đơn.",
+      "note": "Phân biệt: 'double room' = 1 giường đôi; 'twin room' = 2 giường đơn; 'single room' = phòng 1 người."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Do you have any [loại phòng] available for [thời gian]?",
+      "use": "Hỏi xem khách sạn còn phòng trống cho khoảng thời gian bạn muốn.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any double rooms available for next weekend?",
+        "Do you have any rooms available from the 5th to the 8th of May?"
+      ],
+      "explanationVi": "'available' = còn sẵn. Đây là câu mở đầu chuẩn nhất khi hỏi đặt phòng. Nói rõ loại phòng và thời gian giúp lễ tân trả lời nhanh.",
+      "altOf": "asking-availability"
+    },
+    {
+      "pattern": "I was wondering if you had any [danh từ] for [thời gian].",
+      "use": "Hỏi tình trạng phòng một cách lịch sự, tế nhị hơn.",
+      "register": "formal",
+      "examples": [
+        "I was wondering if you had any rooms for the night of the 10th.",
+        "I was wondering if you had any availability around Christmas."
+      ],
+      "explanationVi": "'I was wondering if...' là cách hỏi rất nhã nhặn (dùng quá khứ 'was/had' để nghe lịch sự, không phải nói về quá khứ). Hợp khi gọi điện hoặc viết email.",
+      "altOf": "asking-availability"
+    },
+    {
+      "pattern": "I'd like to book a [loại phòng] for [số] nights, please.",
+      "use": "Đặt phòng và nêu loại phòng cùng số đêm.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to book a twin room for two nights, please.",
+        "I'd like to book a double room for the weekend, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want to'. Đây là mẫu câu xương sống để chốt việc đặt phòng.",
+      "altOf": "making-booking"
+    },
+    {
+      "pattern": "Could you tell me what the rate is for [loại phòng]?",
+      "use": "Hỏi giá phòng một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me what the rate is for a sea-view room?",
+        "Could you tell me what the nightly rate includes?"
+      ],
+      "explanationVi": "Đây là câu hỏi gián tiếp (mệnh đề 'what the rate is' KHÔNG đảo trợ động từ). Hỏi gián tiếp nghe lịch sự hơn 'How much is it?'.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "Is the rate refundable in case I need to [V]?",
+      "use": "Hỏi về chính sách hủy/hoàn tiền trước khi chốt.",
+      "register": "neutral",
+      "examples": [
+        "Is the rate refundable in case I need to change my plans?",
+        "Is the deposit refundable if I cancel a week in advance?"
+      ],
+      "explanationVi": "'in case' = phòng khi/đề phòng. Nên hỏi rõ chính sách hủy TRƯỚC khi trả tiền để tránh mất cọc oan."
+    },
+    {
+      "pattern": "Would it be possible to [V] ... ?",
+      "use": "Đề nghị tế nhị một việc người ta có quyền từ chối (giảm giá, thêm giường, đổi phòng).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to get a small discount for a longer stay?",
+        "Would it be possible to add an extra bed to the room?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao, rất hợp khi thương lượng hoặc xin đặc ân. Nghe nhã nhặn nên dễ được giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I + [V] ... ?",
+      "use": "Xin phép hoặc yêu cầu điều gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I pay the deposit by card?",
+        "Could I get a confirmation email, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?' và rất hợp khi nói với người lạ. Dùng cho việc bạn cần họ cho phép hoặc làm giúp.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không muốn cộc lốc.",
+      "example": "Actually, we'll be arriving a day later than I first said."
+    },
+    {
+      "term": "ideally",
+      "ipa": "/aɪˈdiː.ə.li/",
+      "vi": "lý tưởng nhất là...",
+      "when": "Khi nêu mong muốn của bạn nhưng vẫn để ngỏ phương án khác.",
+      "example": "Ideally, we'd like a room with a view, but anything quiet would be fine."
+    },
+    {
+      "term": "by any chance",
+      "ipa": "/baɪ ˈen.i tʃɑːns/",
+      "vi": "liệu có... không (hỏi dò một cách lịch sự)",
+      "when": "Chèn vào câu hỏi để nghe khiêm tốn, không gây áp lực.",
+      "example": "Do you have a cheaper room by any chance?"
+    },
+    {
+      "term": "preferably",
+      "ipa": "/ˈpref.ər.ə.bli/",
+      "vi": "tốt hơn là... / ưu tiên là...",
+      "when": "Khi nêu ưu tiên kèm theo một yêu cầu chính.",
+      "example": "We'd like two rooms, preferably on the same floor."
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói",
+      "when": "Mở đầu một ý kiến chân thành, hơi cá nhân.",
+      "example": "Honestly, that's a bit more than we wanted to spend."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gọi điện (hoặc nhắn) đến một khách sạn để hỏi phòng trống và đặt phòng cho kỳ nghỉ sắp tới. Nhân viên đặt phòng tư vấn cho bạn.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning, Seaside Hotel, this is Mai speaking. How may I help you today?",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ ˈsiːˌsaɪd həʊˈtel ðɪs ɪz maɪ ˈspiː.kɪŋ haʊ meɪ aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, khách sạn Seaside, Mai xin nghe. Tôi có thể giúp gì cho quý khách hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm planning a short holiday, and I was wondering if you had any rooms ____ for two nights, starting on the ____ of next month.",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ aɪm ˈplæn.ɪŋ ə ʃɔːt ˈhɒl.ə.deɪ ænd aɪ wəz ˈwʌn.dər.ɪŋ ɪf juː hæd ˈen.i ruːmz əˈveɪ.lə.bəl fɔːr tuː naɪts ˈstɑːt.ɪŋ ɒn ðə ... əv nekst mʌnθ/",
+        "vi": "Chào buổi sáng. Tôi đang lên kế hoạch cho một kỳ nghỉ ngắn, và không biết khách sạn còn phòng ____ cho hai đêm, bắt đầu từ ngày ____ tháng sau không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "available",
+            "explanationVi": "Dùng 'available' (= còn sẵn) sau 'any rooms'. Xem mẫu câu 'Do you have any rooms available...?' / 'I was wondering if you had any rooms available...'."
+          },
+          {
+            "type": "personal",
+            "hint": "Ngày bạn muốn nhận phòng. Ví dụ: 'the 12th', 'the 20th'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me check for you... Yes, we do have a few rooms left, although our sea-view rooms are almost fully booked. We have a standard double and a more spacious suite available.",
+        "ipa": "/let miː tʃek fɔːr juː jes wiː duː hæv ə fjuː ruːmz left ɔːlˈðəʊ aʊə ˈsiːˌvjuː ruːmz ɑːr ˈɔːl.məʊst ˈfʊl.i bʊkt wiː hæv ə ˈstæn.dəd ˈdʌb.əl ænd ə mɔːr ˈspeɪ.ʃəs swiːt əˈveɪ.lə.bəl/",
+        "vi": "Để tôi kiểm tra giúp quý khách... Vâng, chúng tôi còn vài phòng, mặc dù các phòng hướng biển gần như đã kín. Chúng tôi còn một phòng đôi tiêu chuẩn và một phòng suite rộng rãi hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good. Could you tell me what the nightly rate is for each one, and whether breakfast is ____ in the price?",
+        "ipa": "/ðæt saʊndz ɡʊd kʊd juː tel miː wɒt ðə ˈnaɪt.li reɪt ɪz fɔːr iːtʃ wʌn ænd ˈweð.ər ˈbrek.fəst ɪz ɪnˈkluː.dɪd ɪn ðə praɪs/",
+        "vi": "Nghe hay đấy. Anh/chị cho tôi biết giá mỗi đêm của từng loại, và liệu bữa sáng có ____ trong giá không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "included",
+            "explanationVi": "Dùng 'included' (= đã bao gồm trong giá). Hỏi rõ để tránh bị tính thêm. Liên hệ mẫu hỏi thông tin lịch sự 'Could you tell me...?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. The standard double is 80 dollars a night, while the suite is 120, and breakfast is complimentary for both. The suite is also conveniently located near the lift, which many guests prefer.",
+        "ipa": "/əv kɔːs ðə ˈstæn.dəd ˈdʌb.əl ɪz ˈeɪ.ti ˈdɒl.əz ə naɪt waɪl ðə swiːt ɪz ˈwʌn ˈhʌn.drəd ən ˈtwen.ti ænd ˈbrek.fəst ɪz ˌkɒm.pləˈmen.tər.i fɔːr bəʊθ ðə swiːt ɪz ˈɔːl.səʊ kənˈviː.ni.ənt.li ləʊˈkeɪ.tɪd nɪər ðə lɪft wɪtʃ ˈmen.i ɡests prɪˈfɜː/",
+        "vi": "Tất nhiên rồi. Phòng đôi tiêu chuẩn là 80 đô một đêm, còn phòng suite là 120, và bữa sáng miễn phí cho cả hai. Phòng suite cũng nằm thuận tiện gần thang máy, điều mà nhiều khách rất thích."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see. Honestly, the suite is a little over our budget, so ____ it be possible to get a small discount if we stay both nights and pay in advance?",
+        "ipa": "/aɪ siː ˈɒn.ɪst.li ðə swiːt ɪz ə ˈlɪt.əl ˈəʊ.vər aʊə ˈbʌdʒ.ɪt səʊ ... ɪt biː ˈpɒs.ə.bəl tə ɡet ə smɔːl ˈdɪs.kaʊnt ɪf wiː steɪ bəʊθ naɪts ænd peɪ ɪn ədˈvɑːns/",
+        "vi": "Tôi hiểu rồi. Thành thật mà nói, phòng suite hơi quá ngân sách của chúng tôi một chút, vậy ____ có thể giảm giá đôi chút nếu chúng tôi ở cả hai đêm và trả trước không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "would",
+            "explanationVi": "Mẫu đề nghị lịch sự bậc cao: 'would it be possible to...?'. Dùng khi thương lượng/xin đặc ân mà người ta có quyền từ chối. Ở đây 'would' đứng giữa câu (sau 'so,') nên viết thường; chỉ viết hoa 'Would' khi nó mở đầu câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Let me see what I can do. Since you're paying in advance, I can offer the suite at 105 dollars a night in order to make it fit your budget. However, please note that this special rate is non-refundable.",
+        "ipa": "/let miː siː wɒt aɪ kæn duː sɪns jɔː ˈpeɪ.ɪŋ ɪn ədˈvɑːns aɪ kæn ˈɒf.ər ðə swiːt ət ˈwʌn ˈhʌn.drəd ən faɪv ˈdɒl.əz ə naɪt ɪn ˈɔː.də tə meɪk ɪt fɪt jɔː ˈbʌdʒ.ɪt haʊˈev.ər pliːz nəʊt ðæt ðɪs ˈspeʃ.əl reɪt ɪz nɒn.rɪˈfʌn.də.bəl/",
+        "vi": "Để tôi xem có thể làm gì. Vì quý khách trả trước, tôi có thể để phòng suite ở mức 105 đô một đêm để vừa với ngân sách của quý khách. Tuy nhiên, xin lưu ý mức giá ưu đãi này không hoàn tiền."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That works for us, thank you. We'll take the suite for both nights. Could you ____ the booking by email, and let me know if you need a deposit?",
+        "ipa": "/ðæt wɜːks fɔːr ʌs θæŋk juː wiːl teɪk ðə swiːt fɔːr bəʊθ naɪts kʊd juː kənˈfɜːm ðə ˈbʊk.ɪŋ baɪ ˈiː.meɪl ænd let miː nəʊ ɪf juː niːd ə dɪˈpɒz.ɪt/",
+        "vi": "Vậy là hợp với chúng tôi, cảm ơn. Chúng tôi sẽ lấy phòng suite cho cả hai đêm. Anh/chị ____ đặt phòng giúp tôi qua email, và cho tôi biết có cần đặt cọc không nhé?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "confirm",
+            "explanationVi": "Dùng động từ 'confirm' (= xác nhận) sau 'Could you'. Sau modal 'could' luôn là động từ nguyên thể không 'to'. Liên hệ từ vựng 'to confirm'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Certainly. I'll send you a confirmation email with your booking number right away. We only need a small deposit, which will be deducted from your final bill when you check out. Thank you for choosing us, and we look forward to welcoming you!",
+        "ipa": "/ˈsɜː.tən.li aɪl send juː ə ˌkɒn.fəˈmeɪ.ʃən ˈiː.meɪl wɪð jɔː ˈbʊk.ɪŋ ˈnʌm.bər raɪt əˈweɪ wiː ˈəʊn.li niːd ə smɔːl dɪˈpɒz.ɪt wɪtʃ wɪl biː dɪˈdʌk.tɪd frɒm jɔː ˈfaɪ.nəl bɪl wen juː tʃek aʊt θæŋk juː fɔːr ˈtʃuː.zɪŋ ʌs ænd wiː lʊk ˈfɔː.wəd tə ˈwel.kəm.ɪŋ juː/",
+        "vi": "Chắc chắn rồi. Tôi sẽ gửi ngay cho quý khách email xác nhận kèm mã đặt phòng. Chúng tôi chỉ cần một khoản cọc nhỏ, khoản này sẽ được trừ vào hóa đơn cuối khi quý khách trả phòng. Cảm ơn quý khách đã chọn chúng tôi, rất mong được đón tiếp!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Đặt phòng trước (in advance), nhất là qua trang chính thức của khách sạn, thường được giá tốt hơn và linh hoạt hơn so với đặt sát ngày.",
+    "Luôn đọc kỹ chính sách hủy phòng: giá 'non-refundable' (không hoàn tiền) thường rẻ hơn nhưng bạn mất tiền nếu phải đổi kế hoạch.",
+    "Thương lượng giá là chấp nhận được ở nhà nghỉ nhỏ, homestay hay khi ở dài ngày/trả trước; nhưng ở khách sạn lớn theo chuỗi thì giá thường cố định.",
+    "Giữ lại email xác nhận và mã đặt phòng (confirmation number) — đây là bằng chứng quan trọng khi đến nhận phòng nếu có trục trặc."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want to book a room' nghe hơi cộc; người bản xứ dùng 'I'd like to book...' hoặc 'I was wondering if...' cho lịch sự.",
+    "Nhầm các loại phòng: 'double room' (1 giường đôi) khác 'twin room' (2 giường đơn). Nói sai dễ bị xếp nhầm phòng.",
+    "Quên hỏi về chính sách hủy và đặt cọc TRƯỚC khi trả tiền, dẫn đến mất tiền oan với giá non-refundable.",
+    "Dùng câu hỏi trực tiếp trong câu gián tiếp, vd 'Could you tell me what is the rate?' — đúng phải là 'what the rate is' (không đảo)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đặt phòng như thật.",
+    "prompt": "Hãy đóng vai một nhân viên đặt phòng của khách sạn nói tiếng Anh. Tôi là khách đang gọi điện để hỏi phòng trống và đặt phòng cho một kỳ nghỉ. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (báo giá, loại phòng, chính sách hủy), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ loại phòng tôi muốn đã hết, hoặc yêu cầu đặt cọc cao) để tôi tập xử lý và thương lượng. Hãy khuyến khích tôi dùng câu dài với 'such as', 'although', 'in order to'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai khó tính hơn và từ chối yêu cầu giảm giá đầu tiên của tôi, để tôi luyện thương lượng tiếp.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý 3 mẫu câu hữu ích.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự hỏi được tình trạng phòng trống và giá phòng mà không nhìn gợi ý.",
+    "Tôi đặt được phòng với loại phòng và số đêm rõ ràng, rồi xác nhận lại.",
+    "Tôi dùng được 'Would it be possible to...?' để thương lượng hoặc đề nghị lịch sự."
+  ]
+}

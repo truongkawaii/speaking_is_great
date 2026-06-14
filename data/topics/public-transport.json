@@ -1,0 +1,361 @@
+{
+  "id": "public-transport",
+  "category": "travel",
+  "title": "Phương tiện công cộng",
+  "titleEn": "Public Transport",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "suggesting"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi đường và hỏi cách đi đến một địa điểm bằng phương tiện công cộng",
+    "Mua vé và hỏi giá vé một cách lịch sự",
+    "Hỏi giờ tàu/xe buýt và bến cần xuống",
+    "Dùng vài cấu trúc cơ bản (such as, because) để nói câu dài hơn một chút"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "bus stop",
+      "ipa": "/ˈbʌs stɒp/",
+      "vi": "trạm xe buýt (danh từ)",
+      "register": "neutral",
+      "example": "The bus stop is just around the corner.",
+      "exampleVi": "Trạm xe buýt ở ngay góc đường.",
+      "note": "Danh từ ghép. Là nơi xe buýt dừng để đón/trả khách. Với tàu thì dùng 'station' (ga).",
+      "synonyms": [
+        { "term": "bus stand", "ipa": "/ˈbʌs stænd/", "register": "neutral", "nuanceVi": "Gần nghĩa, hay dùng ở Anh/Ấn Độ cho điểm xe buýt lớn hơn. Người Mỹ thường nói 'bus stop'." }
+      ]
+    },
+    {
+      "term": "ticket",
+      "ipa": "/ˈtɪk.ɪt/",
+      "vi": "vé (danh từ)",
+      "register": "neutral",
+      "example": "Can I buy a ticket here?",
+      "exampleVi": "Tôi mua vé ở đây được không?",
+      "note": "Danh từ. Vé một chiều là 'single' (Anh) / 'one-way' (Mỹ); vé khứ hồi là 'return' (Anh) / 'round-trip' (Mỹ).",
+      "synonyms": [
+        { "term": "fare", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Nghĩa là 'giá vé / tiền vé' chứ không phải tấm vé. Vd 'How much is the fare?' = giá vé bao nhiêu." },
+        { "term": "pass", "ipa": "/pɑːs/", "register": "neutral", "nuanceVi": "Là vé dùng nhiều lần trong một khoảng thời gian (vé ngày, vé tháng). Vd 'a day pass'." }
+      ]
+    },
+    {
+      "term": "platform",
+      "ipa": "/ˈplæt.fɔːm/",
+      "vi": "sân ga / ke ga (danh từ)",
+      "register": "neutral",
+      "example": "The train leaves from platform 3.",
+      "exampleVi": "Tàu khởi hành từ sân ga số 3.",
+      "note": "Danh từ. Là chỗ bạn đứng đợi tàu trong ga. Mỗi tuyến tàu thường có số sân ga riêng."
+    },
+    {
+      "term": "to transfer",
+      "ipa": "/trænsˈfɜːr/",
+      "vi": "đổi tuyến / chuyển xe (động từ)",
+      "register": "neutral",
+      "example": "You need to transfer to line 2 at the next station.",
+      "exampleVi": "Bạn cần đổi sang tuyến số 2 ở ga tiếp theo.",
+      "note": "Động từ. Nghĩa là xuống một xe/tàu rồi lên một xe/tàu khác để đi tiếp. Danh từ cũng là 'a transfer'.",
+      "synonyms": [
+        { "term": "to change", "ipa": "/tʃeɪndʒ/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng hơn: 'change to line 2', 'change buses'. Người Anh hay nói 'change' hơn 'transfer'." }
+      ]
+    },
+    {
+      "term": "to get off",
+      "ipa": "/ɡet ɒf/",
+      "vi": "xuống xe (động từ)",
+      "register": "neutral",
+      "example": "Where should I get off for the museum?",
+      "exampleVi": "Tôi nên xuống ở đâu để đến bảo tàng?",
+      "note": "Cụm động từ. Ngược lại là 'get on' (lên xe). Dùng cho xe buýt, tàu, máy bay. Với xe hơi/taxi thì dùng 'get out'."
+    },
+    {
+      "term": "fast",
+      "ipa": "/fɑːst/",
+      "vi": "nhanh (tính từ)",
+      "register": "neutral",
+      "example": "The subway is faster than the bus.",
+      "exampleVi": "Tàu điện ngầm nhanh hơn xe buýt.",
+      "note": "Tính từ. 'fast' vừa là tính từ vừa là trạng từ (đi nhanh = go fast). So sánh hơn: faster.",
+      "synonyms": [
+        { "term": "quick", "ipa": "/kwɪk/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhưng 'quick' nhấn vào khoảng thời gian ngắn (a quick trip), còn 'fast' nhấn vào tốc độ cao." },
+        { "term": "rapid", "ipa": "/ˈræp.ɪd/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay gặp trong tên dịch vụ như 'rapid transit', 'rapid bus'. Ít dùng trong nói chuyện thường ngày." }
+      ]
+    },
+    {
+      "term": "crowded",
+      "ipa": "/ˈkraʊ.dɪd/",
+      "vi": "đông đúc (tính từ)",
+      "register": "neutral",
+      "example": "The bus is very crowded in the morning.",
+      "exampleVi": "Xe buýt rất đông vào buổi sáng.",
+      "note": "Tính từ. Mô tả nơi có quá nhiều người. Giờ cao điểm = 'rush hour'.",
+      "synonyms": [
+        { "term": "packed", "ipa": "/pækt/", "register": "casual", "nuanceVi": "Đời thường, mạnh hơn 'crowded' — nghĩa là chật cứng, đầy ắp người. Vd 'The train was packed.'" },
+        { "term": "busy", "ipa": "/ˈbɪz.i/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa là nhộn nhịp/nhiều người qua lại, chưa hẳn chật cứng. Vd 'a busy station'." }
+      ]
+    },
+    {
+      "term": "nearby",
+      "ipa": "/ˌnɪəˈbaɪ/",
+      "vi": "gần đó (trạng từ / tính từ)",
+      "register": "neutral",
+      "example": "Is there a bus stop nearby?",
+      "exampleVi": "Có trạm xe buýt nào gần đây không?",
+      "note": "Vừa là trạng từ (đứng cuối câu: 'a station nearby') vừa là tính từ (đứng trước danh từ: 'a nearby station').",
+      "synonyms": [
+        { "term": "close by", "ipa": "/kləʊs baɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa y hệt 'nearby'. Vd 'There's a stop close by.'" },
+        { "term": "around here", "ipa": "/əˈraʊnd hɪər/", "register": "casual", "nuanceVi": "Nghĩa 'quanh đây / ở khu này', dùng khi hỏi chung về khu vực. Vd 'Is there a station around here?'" }
+      ]
+    },
+    {
+      "term": "directly",
+      "ipa": "/dɪˈrekt.li/",
+      "vi": "thẳng / trực tiếp (trạng từ)",
+      "register": "neutral",
+      "example": "This bus goes directly to the airport.",
+      "exampleVi": "Xe buýt này đi thẳng đến sân bay.",
+      "note": "Trạng từ. Nghĩa là đi thẳng, không phải đổi xe. Tính từ là 'direct' (a direct bus = xe đi thẳng).",
+      "synonyms": [
+        { "term": "straight", "ipa": "/streɪt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'thẳng một mạch'. Vd 'It goes straight there.' Nghe thân mật hơn 'directly'." }
+      ]
+    },
+    {
+      "term": "single ticket",
+      "ipa": "/ˈsɪŋ.ɡəl ˈtɪk.ɪt/",
+      "vi": "vé một chiều (danh từ)",
+      "register": "neutral",
+      "example": "Two single tickets to the city centre, please.",
+      "exampleVi": "Cho tôi hai vé một chiều đến trung tâm thành phố.",
+      "note": "Cụm danh từ (Anh-Anh). Người Mỹ nói 'one-way ticket'. Vé khứ hồi là 'return' (Anh) / 'round-trip' (Mỹ)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "How do I get to [địa điểm]?",
+      "use": "Hỏi cách đi đến một nơi nào đó.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, how do I get to the train station?",
+        "How do I get to the city centre from here?"
+      ],
+      "explanationVi": "Câu hỏi đường cơ bản và thông dụng nhất. 'get to' nghĩa là 'đến được'. Nên mở đầu bằng 'Excuse me' cho lịch sự.",
+      "altOf": "asking-directions"
+    },
+    {
+      "pattern": "Which [bus/train/line] goes to [địa điểm]?",
+      "use": "Hỏi xe/tàu nào đi đến nơi mình cần.",
+      "register": "neutral",
+      "examples": [
+        "Which bus goes to the airport?",
+        "Which line goes to the old town?"
+      ],
+      "explanationVi": "Dùng khi có nhiều tuyến và bạn muốn biết tuyến nào đúng. 'Which' = cái nào (trong số có sẵn).",
+      "altOf": "asking-directions"
+    },
+    {
+      "pattern": "Can I have [số] ticket(s) to [địa điểm], please?",
+      "use": "Mua vé tại quầy hoặc trên xe.",
+      "register": "neutral",
+      "examples": [
+        "Can I have one ticket to the centre, please?",
+        "Can I have two single tickets to the airport, please?"
+      ],
+      "explanationVi": "'Can I have...?' là cách mua/yêu cầu lịch sự, đơn giản. Thêm 'please' ở cuối luôn nghe nhã nhặn hơn.",
+      "altOf": "buying-ticket"
+    },
+    {
+      "pattern": "How much is [a ticket / the fare] to [địa điểm]?",
+      "use": "Hỏi giá vé.",
+      "register": "neutral",
+      "examples": [
+        "How much is a ticket to the city centre?",
+        "How much is the fare to the airport?"
+      ],
+      "explanationVi": "'How much is...?' để hỏi giá. 'fare' nghĩa là tiền vé. Đây là câu cần thiết trước khi trả tiền.",
+      "altOf": "buying-ticket"
+    },
+    {
+      "pattern": "What time does the [bus/train] leave?",
+      "use": "Hỏi giờ khởi hành.",
+      "register": "neutral",
+      "examples": [
+        "What time does the next bus leave?",
+        "What time does the train to Hanoi leave?"
+      ],
+      "explanationVi": "'leave' = khởi hành/rời đi. Nhớ chia động từ 'does ... leave' vì chủ ngữ là 'the bus' (số ít)."
+    },
+    {
+      "pattern": "Could you tell me where to get off?",
+      "use": "Nhờ tài xế/người khác báo khi đến điểm mình cần xuống.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me where to get off for the museum?",
+        "Could you tell me when we get to the central station?"
+      ],
+      "explanationVi": "'Could you tell me...?' lịch sự hơn 'Tell me...'. 'get off' là xuống xe. Rất hữu ích khi bạn không quen đường."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "excuse me",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "vi": "xin lỗi (để bắt chuyện/hỏi đường)",
+      "when": "Mở đầu khi muốn hỏi người lạ điều gì đó.",
+      "example": "Excuse me, is this the bus to the airport?"
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại hoặc nói thêm thông tin mà không muốn cộc lốc.",
+      "example": "Actually, I want a return ticket, not a single."
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm hơn)",
+      "when": "Khi muốn hỏi nhẹ nhàng, không quá đòi hỏi.",
+      "example": "I just want to know which bus goes downtown."
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thì",
+      "when": "Nói về thói quen hoặc điều hay xảy ra (vd giờ cao điểm).",
+      "example": "The bus is usually crowded in the morning."
+    },
+    {
+      "term": "right there",
+      "ipa": "/raɪt ðeər/",
+      "vi": "ngay chỗ đó / ngay đằng kia",
+      "when": "Chỉ một nơi rất gần khi hướng dẫn người khác.",
+      "example": "The stop is right there, next to the bank."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là khách du lịch, đứng trên phố và muốn đi đến trung tâm thành phố bằng phương tiện công cộng. Bạn hỏi một người đi đường, sau đó mua vé từ tài xế xe buýt.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Excuse me, how do I ____ to the city centre from here?",
+        "ipa": "/ɪkˈskjuːz miː haʊ duː aɪ ɡet tə ðə ˈsɪt.i ˈsen.tər frɒm hɪər/",
+        "vi": "Xin lỗi, làm sao để đi đến trung tâm thành phố từ đây?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "get",
+            "explanationVi": "Cụm 'get to' nghĩa là 'đến được (một nơi)'. Mẫu câu hỏi đường cơ bản 'How do I get to...?' ở phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "The easiest way is by bus. There's a bus stop right there, and the number 7 goes directly to the centre.",
+        "ipa": "/ðə ˈiː.zi.əst weɪ ɪz baɪ bʌs ðeəz ə ˈbʌs stɒp raɪt ðeər ænd ðə ˈnʌm.bər ˈsev.ən ɡəʊz dɪˈrekt.li tə ðə ˈsen.tər/",
+        "vi": "Cách dễ nhất là đi xe buýt. Có một trạm xe buýt ngay đằng kia, và xe số 7 đi thẳng đến trung tâm."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds easy. Which bus is faster, the number 7 ____ the number 12?",
+        "ipa": "/ðæt saʊndz ˈiː.zi wɪtʃ bʌs ɪz ˈfɑː.stər ðə ˈnʌm.bər ˈsev.ən ɔːr ðə ˈnʌm.bər twelv/",
+        "vi": "Nghe có vẻ dễ. Xe nào nhanh hơn, xe số 7 ____ xe số 12?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "or",
+            "explanationVi": "Dùng 'or' (hoặc) để đưa ra hai lựa chọn trong cùng một câu hỏi: số 7 hay số 12. Đây là câu hỏi lựa chọn cơ bản."
+          }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "The number 7 is faster because it doesn't stop very often. The number 12 is usually slower and more crowded.",
+        "ipa": "/ðə ˈnʌm.bər ˈsev.ən ɪz ˈfɑː.stər bɪˈkɒz ɪt ˈdʌz.ənt stɒp ˈver.i ˈɒf.ən ðə ˈnʌm.bər twelv ɪz ˈjuː.ʒu.ə.li ˈsləʊ.ər ænd mɔːr ˈkraʊ.dɪd/",
+        "vi": "Xe số 7 nhanh hơn vì nó không dừng thường xuyên. Xe số 12 thường chậm hơn và đông hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Great, thank you! I'll take the number 7 then. By the way, where can I buy a ____?",
+        "ipa": "/ɡreɪt θæŋk juː aɪl teɪk ðə ˈnʌm.bər ˈsev.ən ðen baɪ ðə weɪ weər kæn aɪ baɪ ə ˈtɪk.ɪt/",
+        "vi": "Tuyệt, cảm ơn! Vậy tôi sẽ đi xe số 7. Tiện thể, tôi mua ____ ở đâu được?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "ticket",
+            "explanationVi": "'ticket' nghĩa là vé. Sau mạo từ 'a' phải có danh từ. Mua vé thì hỏi 'where can I buy a ticket?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "You can buy one from the driver, but you'll need coins because some buses don't take cards.",
+        "ipa": "/juː kæn baɪ wʌn frɒm ðə ˈdraɪ.vər bʌt juːl niːd kɔɪnz bɪˈkɒz sʌm ˈbʌs.ɪz dəʊnt teɪk kɑːdz/",
+        "vi": "Bạn có thể mua từ tài xế, nhưng nhớ mang tiền xu vì một số xe buýt không nhận thẻ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good to know. One more thing — could you tell me where to ____ off for the centre?",
+        "ipa": "/ɡʊd tə nəʊ wʌn mɔːr θɪŋ kʊd juː tel miː weər tə ɡet ɒf fɔːr ðə ˈsen.tər/",
+        "vi": "May mà biết. Còn một điều nữa — bạn có thể cho tôi biết nên xuống ____ ở đâu để đến trung tâm không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "get",
+            "explanationVi": "Cụm động từ 'get off' nghĩa là 'xuống xe'. Mẫu câu lịch sự 'Could you tell me where to get off?' ở phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Người đi đường",
+        "text": "Just ask the driver to tell you, or get off at the big square, such as the one near the market. It's about ____ stops from here.",
+        "ipa": "/dʒʌst ɑːsk ðə ˈdraɪ.vər tə tel juː ɔːr ɡet ɒf ət ðə bɪɡ skweər sʌtʃ æz ðə wʌn nɪər ðə ˈmɑː.kɪt ɪts əˈbaʊt stɒps frɒm hɪər/",
+        "vi": "Cứ nhờ tài xế báo cho bạn, hoặc xuống ở quảng trường lớn, chẳng hạn cái gần khu chợ. Cách đây khoảng ____ trạm.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Số trạm bạn tưởng tượng cho tình huống. Ví dụ: 'five'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. Thank you so much for your help — that's really kind of you!",
+        "ipa": "/ˈpɜː.fɪkt θæŋk juː səʊ mʌtʃ fɔːr jɔːr help ðæts ˈrɪə.li kaɪnd ɒv juː/",
+        "vi": "Tuyệt vời. Cảm ơn bạn rất nhiều vì đã giúp — bạn thật tốt bụng!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, bạn nên xếp hàng (queue) trật tự khi chờ xe buýt và để người xuống xe trước rồi mới lên.",
+    "Một số thành phố dùng thẻ trả trước (vd Oyster ở London, Suica ở Tokyo) tiện hơn mua vé giấy từng lần; nên hỏi 'Is there a travel card?'.",
+    "Trên xe buýt/tàu, người bản xứ thường nói nhỏ và nhường ghế cho người già, phụ nữ mang thai. Giữ trật tự được xem là lịch sự.",
+    "Người Anh nói 'single/return' và 'underground/tube', người Mỹ nói 'one-way/round-trip' và 'subway' — nghĩa giống nhau, chỉ khác cách gọi."
+  ],
+
+  "commonMistakes": [
+    "Nói 'How I can go to...?' sai trật tự. Câu đúng là 'How do I get to...?' hoặc 'How can I get to...?'.",
+    "Dùng 'go down' thay cho 'get off'. Xuống xe buýt/tàu là 'get off', không phải 'go down'.",
+    "Quên mạo từ 'a': phải nói 'a ticket', 'a bus stop', không nói 'I buy ticket'.",
+    "Nhầm 'How much' với 'How many': giá tiền dùng 'How much is the ticket?', số lượng dùng 'How many stops?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi phương tiện công cộng như thật.",
+    "prompt": "Hãy đóng vai một người địa phương nói tiếng Anh đơn giản, chậm rãi (trình độ A2). Tôi là khách du lịch đang hỏi đường để đi đến trung tâm thành phố bằng xe buýt hoặc tàu. Hãy bắt đầu bằng cách hỏi tôi muốn đi đâu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và ngắn gọn như người địa phương thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói đúng bằng tiếng Việt, (3) thỉnh thoảng đặt một tình huống nhỏ bất ngờ (ví dụ xe buýt vừa đi mất, phải đổi tuyến, không nhận thẻ) để tôi tập xử lý. Dùng câu ngắn, từ vựng đơn giản. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi mua vé và hỏi giá vé bằng tiếng Anh.' để luyện phần mua vé.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được đường đến một nơi bằng câu 'How do I get to...?' mà không cần nhìn gợi ý.",
+    "Tôi mua được vé và hỏi được giá vé một cách lịch sự.",
+    "Tôi hỏi được nên xuống xe ở đâu bằng 'Could you tell me where to get off?'."
+  ]
+}

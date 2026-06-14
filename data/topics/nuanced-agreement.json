@@ -1,0 +1,492 @@
+{
+  "id": "nuanced-agreement",
+  "category": "advanced",
+  "title": "Đồng tình có điều kiện",
+  "titleEn": "Nuanced Agreement",
+  "level": "C1",
+  "functions": [
+    "agreeing",
+    "opinions",
+    "negotiating",
+    "suggesting"
+  ],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Bày tỏ sự đồng tình nhưng có dè dặt, kèm điều kiện hoặc bảo lưu (không đồng ý vô điều kiện)",
+    "Phân biệt sắc thái giữa đồng ý hoàn toàn, đồng ý một phần và đồng ý miễn cưỡng",
+    "Dùng các cấu trúc nhượng bộ tinh tế (while, granted that, that said, up to a point) một cách tự nhiên",
+    "Đưa ra điều kiện và cảnh báo lịch sự mà không làm hỏng không khí hợp tác",
+    "Chuyển register linh hoạt giữa trang trọng và thân mật trong một cuộc thảo luận công việc"
+  ],
+  "vocabulary": [
+    {
+      "term": "reservation",
+      "ipa": "/ˌrez.ɚˈveɪ.ʃən/",
+      "vi": "sự dè dặt / điều bảo lưu (danh từ)",
+      "register": "neutral",
+      "example": "I'm broadly in favour of the plan, although I do have a few reservations about the timeline.",
+      "exampleVi": "Về cơ bản tôi ủng hộ kế hoạch, dù tôi có vài điều dè dặt về tiến độ.",
+      "note": "Danh từ. Ở đây KHÔNG phải nghĩa 'đặt phòng' mà là 'điểm còn băn khoăn, chưa hoàn toàn yên tâm'. Hay đi với 'have reservations about'.",
+      "synonyms": [
+        {
+          "term": "misgiving",
+          "ipa": "/ˌmɪsˈɡɪv.ɪŋ/",
+          "register": "formal",
+          "nuanceVi": "Nhấn cảm giác lo lắng/linh cảm xấu về một quyết định. Nặng và cảm tính hơn 'reservation' (vốn thiên về lý trí). Thường số nhiều: 'misgivings'."
+        },
+        {
+          "term": "qualm",
+          "ipa": "/kwɑːm/",
+          "register": "formal",
+          "nuanceVi": "Nghĩa 'sự e ngại về mặt đạo đức/lương tâm'. Hẹp hơn, hay dùng phủ định: 'I have no qualms about it.'"
+        },
+        {
+          "term": "doubt",
+          "ipa": "/daʊt/",
+          "register": "neutral",
+          "nuanceVi": "Phổ thông, trung tính, nghĩa 'sự nghi ngờ liệu có đúng/khả thi'. Nhẹ và dễ dùng hơn ba từ trên."
+        }
+      ]
+    },
+    {
+      "term": "caveat",
+      "ipa": "/ˈkæv.i.æt/",
+      "vi": "điều kiện kèm theo / lời lưu ý cảnh báo (danh từ)",
+      "register": "formal",
+      "example": "I'm happy to go ahead, with one important caveat: we must agree on the budget first.",
+      "exampleVi": "Tôi sẵn sàng tiến hành, với một điều kiện quan trọng: chúng ta phải thống nhất ngân sách trước.",
+      "note": "Danh từ trang trọng, gốc Latin. Là 'điều ràng buộc/lưu ý' bạn gắn vào lời đồng ý để giới hạn nó. Cụm hay gặp: 'with one caveat', 'the only caveat is…'.",
+      "synonyms": [
+        {
+          "term": "proviso",
+          "ipa": "/prəˈvaɪ.zəʊ/",
+          "register": "formal",
+          "nuanceVi": "Rất trang trọng, gần như pháp lý, nghĩa 'điều khoản kèm theo'. Cụm: 'with the proviso that…'."
+        },
+        {
+          "term": "condition",
+          "ipa": "/kənˈdɪʃ.ən/",
+          "register": "neutral",
+          "nuanceVi": "Phổ thông nhất, trung tính: 'on one condition'. Dễ dùng, ít trang trọng hơn 'caveat'."
+        },
+        {
+          "term": "string attached",
+          "ipa": "/strɪŋ əˈtætʃt/",
+          "register": "casual",
+          "nuanceVi": "Thành ngữ đời thường, thường số nhiều 'strings attached' = điều kiện ràng buộc ngầm. Hơi mang sắc thái cảnh giác."
+        }
+      ]
+    },
+    {
+      "term": "to concede",
+      "ipa": "/kənˈsiːd/",
+      "vi": "thừa nhận (điều người khác nói có lý) (động từ)",
+      "register": "formal",
+      "example": "I'll concede that your approach is faster, even if I still worry about the quality.",
+      "exampleVi": "Tôi thừa nhận cách của anh nhanh hơn, dù tôi vẫn lo về chất lượng.",
+      "note": "Động từ trang trọng. Nhượng bộ một điểm trong tranh luận; ngụ ý 'tôi từng phản đối nhưng giờ chấp nhận điểm này'. Khác 'admit' (thú nhận lỗi).",
+      "synonyms": [
+        {
+          "term": "to grant",
+          "ipa": "/ɡrɑːnt/",
+          "register": "neutral",
+          "nuanceVi": "Nhẹ hơn, hay ở dạng 'I'll grant you that…' = công nhận anh nói đúng chỗ đó. Mềm và lịch thiệp."
+        },
+        {
+          "term": "to acknowledge",
+          "ipa": "/əkˈnɒl.ɪdʒ/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'công nhận sự tồn tại/giá trị của một điểm', trung lập hơn, không nhất thiết hàm ý mình từng phản đối."
+        }
+      ]
+    },
+    {
+      "term": "to be on board",
+      "ipa": "/tə biː ɒn bɔːd/",
+      "vi": "đồng thuận, ủng hộ tham gia (cụm động từ)",
+      "register": "casual",
+      "example": "Honestly, I'm on board with the idea, provided we don't rush the rollout.",
+      "exampleVi": "Thật lòng thì tôi ủng hộ ý tưởng này, miễn là ta không vội triển khai.",
+      "note": "Cụm động từ thân mật, rất thông dụng trong công sở. 'be on board with something' = đồng tình, sẵn sàng theo. Nghe gần gũi hơn 'agree'.",
+      "synonyms": [
+        {
+          "term": "to be in favour of",
+          "ipa": "/tə biː ɪn ˈfeɪ.vər ɒv/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, nghĩa 'ủng hộ về mặt quan điểm'. Hợp văn cảnh họp hành, nói chính thức."
+        },
+        {
+          "term": "to back something",
+          "ipa": "/tə bæk ˈsʌm.θɪŋ/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'hậu thuẫn, đứng sau ủng hộ chủ động', thường kèm nguồn lực/uy tín, không chỉ là đồng ý suông."
+        }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "xác đáng, có lý (tính từ)",
+      "register": "neutral",
+      "example": "That's a perfectly valid concern, and I think we should address it.",
+      "exampleVi": "Đó là một mối lo hoàn toàn xác đáng, và tôi nghĩ ta nên xử lý nó.",
+      "note": "Tính từ. 'a valid point/concern' = một luận điểm/mối lo có cơ sở. Cách công nhận đối phương trước khi nêu bảo lưu của mình.",
+      "synonyms": [
+        {
+          "term": "legitimate",
+          "ipa": "/lɪˈdʒɪt.ɪ.mət/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, nhấn 'chính đáng, có cơ sở để được coi trọng'. Hơi nặng ký hơn 'valid'."
+        },
+        {
+          "term": "fair",
+          "ipa": "/feər/",
+          "register": "casual",
+          "nuanceVi": "Đời thường: 'that's a fair point'. Nhẹ nhàng, thân thiện, hợp khi muốn công nhận nhanh trong trò chuyện."
+        },
+        {
+          "term": "sound",
+          "ipa": "/saʊnd/",
+          "register": "formal",
+          "nuanceVi": "Tính từ nghĩa 'vững, đáng tin về lập luận': 'a sound argument'. Nhấn tính chắc chắn của lý lẽ hơn là sự chính đáng."
+        }
+      ]
+    },
+    {
+      "term": "to hedge",
+      "ipa": "/tə hedʒ/",
+      "vi": "nói nước đôi, giữ thế thận trọng (động từ)",
+      "register": "neutral",
+      "example": "I don't want to hedge too much, but I'd rather wait for the data before committing fully.",
+      "exampleVi": "Tôi không muốn nói nước đôi quá, nhưng tôi muốn chờ dữ liệu trước khi cam kết hẳn.",
+      "note": "Động từ. 'hedge' = tránh nói dứt khoát để khỏi bị ràng buộc/sai. Trong giao tiếp tinh tế, 'hedging language' (ngôn ngữ rào đón) chính là chìa khóa của đồng tình có điều kiện.",
+      "synonyms": [
+        {
+          "term": "to qualify",
+          "ipa": "/tə ˈkwɒl.ɪ.faɪ/",
+          "register": "formal",
+          "nuanceVi": "Nghĩa 'thêm điều kiện/giới hạn cho một phát biểu' để nó bớt tuyệt đối: 'Let me qualify that.' Chính xác và trang trọng."
+        },
+        {
+          "term": "to waffle",
+          "ipa": "/tə ˈwɒf.əl/",
+          "register": "casual",
+          "nuanceVi": "Đời thường và hơi tiêu cực: nói vòng vo, ậm ừ không vào trọng tâm. Khác 'hedge' (thận trọng có chủ đích)."
+        }
+      ]
+    },
+    {
+      "term": "tentatively",
+      "ipa": "/ˈten.tə.tɪv.li/",
+      "vi": "một cách dè dặt / tạm thời (trạng từ)",
+      "register": "formal",
+      "example": "We've tentatively agreed on the direction, but nothing is set in stone yet.",
+      "exampleVi": "Chúng tôi đã tạm đồng ý về hướng đi, nhưng chưa có gì là chắc chắn cả.",
+      "note": "Trạng từ. Báo hiệu sự đồng ý 'có thể thay đổi', chưa chốt hẳn — rất hợp tinh thần đồng tình có điều kiện.",
+      "synonyms": [
+        {
+          "term": "provisionally",
+          "ipa": "/prəˈvɪʒ.ən.əl.i/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'mang tính tạm thời chờ xác nhận chính thức'. Hay dùng trong văn cảnh thủ tục/hành chính."
+        },
+        {
+          "term": "cautiously",
+          "ipa": "/ˈkɔː.ʃəs.li/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'một cách thận trọng' (cẩn thận, dè chừng rủi ro), không nhất thiết là 'chưa chốt'. Vd 'cautiously optimistic'."
+        }
+      ]
+    },
+    {
+      "term": "wholeheartedly",
+      "ipa": "/ˌhəʊlˈhɑː.tɪd.li/",
+      "vi": "một cách hết lòng, không chút dè dặt (trạng từ)",
+      "register": "neutral",
+      "example": "I wouldn't say I agree wholeheartedly, but I'm willing to give it a try.",
+      "exampleVi": "Tôi không dám nói là đồng ý hết lòng, nhưng tôi sẵn lòng thử.",
+      "note": "Trạng từ. Dùng để CHỈ RA mức đồng ý cao nhất — và trong bài này thường được phủ định ('not wholeheartedly') để diễn tả sự đồng ý có giới hạn.",
+      "synonyms": [
+        {
+          "term": "unreservedly",
+          "ipa": "/ˌʌn.rɪˈzɜːv.ɪd.li/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nghĩa 'không một chút bảo lưu nào'. Trái nghĩa trực tiếp của 'with reservations'."
+        },
+        {
+          "term": "fully",
+          "ipa": "/ˈfʊl.i/",
+          "register": "neutral",
+          "nuanceVi": "Đơn giản, trung tính: 'I fully agree.' Dễ dùng, ít màu sắc cảm xúc hơn hai từ trên."
+        }
+      ]
+    },
+    {
+      "term": "common ground",
+      "ipa": "/ˌkɒm.ən ˈɡraʊnd/",
+      "vi": "điểm chung (để hai bên cùng đồng thuận) (danh từ)",
+      "register": "neutral",
+      "example": "Despite our differences, I think we can find some common ground here.",
+      "exampleVi": "Dù còn khác biệt, tôi nghĩ ta vẫn tìm được điểm chung ở đây.",
+      "note": "Cụm danh từ. 'find/reach common ground' = tìm được điểm hai bên cùng nhất trí — đích đến của mọi cuộc thương lượng tinh tế.",
+      "synonyms": [
+        {
+          "term": "middle ground",
+          "ipa": "/ˌmɪd.əl ˈɡraʊnd/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'điểm dung hòa, mỗi bên nhượng một chút' (thiên về thỏa hiệp), trong khi 'common ground' là 'điểm vốn đã cùng nghĩ'."
+        }
+      ]
+    },
+    {
+      "term": "compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "sự thỏa hiệp / thỏa hiệp (danh từ & động từ)",
+      "register": "neutral",
+      "example": "I'd be willing to compromise on the deadline if you can be flexible on the scope.",
+      "exampleVi": "Tôi sẵn sàng thỏa hiệp về hạn chót nếu anh linh hoạt được về phạm vi công việc.",
+      "note": "Vừa là danh từ ('reach a compromise') vừa là động từ ('compromise on something'). Cẩn thận: 'compromise' còn nghĩa khác là 'làm tổn hại' (compromise security).",
+      "synonyms": [
+        {
+          "term": "to meet halfway",
+          "ipa": "/tə miːt ˌhɑːfˈweɪ/",
+          "register": "casual",
+          "nuanceVi": "Thành ngữ đời thường, hình ảnh 'gặp nhau ở giữa đường'. Thân thiện, hợp khi đề nghị nhượng bộ qua lại."
+        },
+        {
+          "term": "trade-off",
+          "ipa": "/ˈtreɪd.ɒf/",
+          "register": "neutral",
+          "nuanceVi": "Danh từ, nhấn 'được cái này thì mất cái kia' — bản chất sự đánh đổi, không hẳn là hành động thỏa hiệp giữa người với người."
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "pattern": "I see where you're coming from, but [mệnh đề bảo lưu].",
+      "use": "Công nhận quan điểm đối phương trước, rồi mới nêu điểm chưa đồng tình.",
+      "register": "neutral",
+      "examples": [
+        "I see where you're coming from, but I'm not sure we have the budget for it just yet."
+      ],
+      "explanationVi": "'I see where you're coming from' = tôi hiểu vì sao anh nghĩ vậy. Câu đệm này làm sự phản biện sau đó nghe tôn trọng, không đối đầu. Mô-típ kinh điển của đồng tình có điều kiện.",
+      "altOf": "agree-then-qualify"
+    },
+    {
+      "pattern": "I agree in principle, but [mệnh đề điều kiện/bảo lưu].",
+      "use": "Đồng ý về mặt nguyên tắc/chủ trương nhưng giữ lại điều kiện thực thi.",
+      "register": "formal",
+      "examples": [
+        "I agree in principle, but the details of how we'd fund it still need ironing out."
+      ],
+      "explanationVi": "'in principle' = về mặt nguyên tắc/đại thể. Đây là cách nói tinh tế: gật đầu với ý tưởng lớn nhưng chưa cam kết với cách làm cụ thể. Rất 'C1'.",
+      "altOf": "agree-then-qualify"
+    },
+    {
+      "pattern": "Up to a point, yes — although [mệnh đề giới hạn].",
+      "use": "Đồng ý CÓ GIỚI HẠN, không đồng ý hoàn toàn.",
+      "register": "neutral",
+      "examples": [
+        "Up to a point, yes — although I wouldn't go quite as far as you do."
+      ],
+      "explanationVi": "'up to a point' = đến một mức độ nào đó thôi. Báo cho người nghe biết bạn đồng tình một phần, phần còn lại thì không. Sắc thái cực kỳ tinh tế của C1.",
+      "altOf": "partial-agreement"
+    },
+    {
+      "pattern": "That's a fair point; that said, [mệnh đề phản biện nhẹ].",
+      "use": "Công nhận lý lẽ đối phương rồi xoay sang bảo lưu của mình một cách mượt.",
+      "register": "neutral",
+      "examples": [
+        "That's a fair point; that said, we shouldn't underestimate how long testing will take."
+      ],
+      "explanationVi": "'that said' (= having said that) là cụm chuyển ý trang nhã, nghĩa 'tuy vậy / dẫu thế'. Nối lời khen với điểm dè dặt mà không nghe mâu thuẫn.",
+      "altOf": "agree-then-qualify"
+    },
+    {
+      "pattern": "I'm happy to [V], provided (that) [mệnh đề điều kiện].",
+      "use": "Đồng ý kèm một điều kiện rõ ràng phải được đáp ứng.",
+      "register": "formal",
+      "examples": [
+        "I'm happy to take the lead, provided that the rest of the team supports the timeline."
+      ],
+      "explanationVi": "'provided (that)' = miễn là / với điều kiện là, trang trọng hơn 'if' và nhấn mạnh điều kiện. Đây là 'caveat' biến thành câu — trái tim của bài này.",
+      "altOf": "conditional-agreement"
+    },
+    {
+      "pattern": "I'll go along with it as long as [mệnh đề điều kiện].",
+      "use": "Đồng ý đi theo phương án, với điều kiện duy trì suốt quá trình.",
+      "register": "casual",
+      "examples": [
+        "I'll go along with it as long as we review the results after the first month."
+      ],
+      "explanationVi": "'go along with' = chấp nhận đi theo (hơi thụ động, ngụ ý không phải lựa chọn đầu của mình). 'as long as' đặt điều kiện kéo dài. Thân mật hơn 'provided that'.",
+      "altOf": "conditional-agreement"
+    },
+    {
+      "pattern": "Granted, [điểm nhượng bộ]; nonetheless, [bảo lưu chính].",
+      "use": "Nhượng bộ trang trọng một điểm rồi giữ vững quan điểm chính.",
+      "register": "formal",
+      "examples": [
+        "Granted, the new tool is more expensive; nonetheless, it would save us hours every week."
+      ],
+      "explanationVi": "'Granted' mở câu = 'phải công nhận là…'. 'nonetheless' (= tuy nhiên) nối sang ý đối lập. Cặp này tạo lập luận hai vế cân bằng, nghe rất chững chạc, học thuật.",
+      "altOf": "partial-agreement"
+    }
+  ],
+  "adverbsAndPhrases": [
+    {
+      "term": "broadly speaking",
+      "ipa": "/ˈbrɔːd.li ˈspiː.kɪŋ/",
+      "vi": "nói một cách đại thể",
+      "when": "Mở đầu sự đồng ý ở mức tổng quát trước khi nêu ngoại lệ.",
+      "example": "Broadly speaking, I'm with you, though there are a couple of details to sort out."
+    },
+    {
+      "term": "to a certain extent",
+      "ipa": "/tu ə ˈsɜː.tən ɪkˈstent/",
+      "vi": "ở một mức độ nhất định",
+      "when": "Thừa nhận đối phương đúng một phần, ngầm báo có giới hạn.",
+      "example": "To a certain extent I agree, but I think the risk is higher than you suggest."
+    },
+    {
+      "term": "in fairness",
+      "ipa": "/ɪn ˈfeə.nəs/",
+      "vi": "nói cho công bằng thì",
+      "when": "Chèn để công nhận một điểm có lợi cho phía đối diện, thể hiện sự khách quan.",
+      "example": "In fairness, your plan does solve the main problem we've been struggling with."
+    },
+    {
+      "term": "by and large",
+      "ipa": "/baɪ ænd lɑːdʒ/",
+      "vi": "nhìn chung",
+      "when": "Tổng kết sự đồng tình chung trước khi đính kèm điều kiện nhỏ.",
+      "example": "By and large it's a solid proposal; the only sticking point is the cost."
+    },
+    {
+      "term": "for what it's worth",
+      "ipa": "/fɔː wɒt ɪts wɜːθ/",
+      "vi": "tùy anh đánh giá, nhưng ý tôi là",
+      "when": "Đưa ý kiến một cách khiêm tốn, không áp đặt.",
+      "example": "For what it's worth, I'd suggest we pilot it on a small scale first."
+    },
+    {
+      "term": "with that in mind",
+      "ipa": "/wɪð ðæt ɪn maɪnd/",
+      "vi": "với điều đó trong đầu / xét điều ấy",
+      "when": "Chuyển từ một bảo lưu sang đề xuất giải pháp dựa trên nó.",
+      "example": "With that in mind, why don't we set a clear review date before we commit fully?"
+    }
+  ],
+  "dialogue": {
+    "context": "Trong một cuộc họp nhóm, đồng nghiệp Daniel đề xuất chuyển toàn bộ dự án sang một công cụ quản lý mới. Bạn về cơ bản ủng hộ, nhưng có vài điều dè dặt và muốn đồng ý theo kiểu có điều kiện thay vì gật đầu vô điều kiện.",
+    "lines": [
+      {
+        "speaker": "Daniel",
+        "text": "So, my proposal is that we migrate the whole project to the new platform next month. It's faster, cleaner, and honestly I think everyone will love it. What's your take?",
+        "ipa": "/səʊ maɪ prəˈpəʊ.zəl ɪz ðæt wiː ˈmaɪ.ɡreɪt ðə həʊl ˈprɒdʒ.ekt tə ðə njuː ˈplæt.fɔːm nekst mʌnθ ɪts ˈfɑːs.tər ˈkliː.nər ænd ˈɒn.ɪst.li aɪ θɪŋk ˈev.ri.wʌn wɪl lʌv ɪt wɒts jɔː teɪk/",
+        "vi": "Vậy, đề xuất của tôi là tháng tới ta chuyển toàn bộ dự án sang nền tảng mới. Nó nhanh hơn, gọn hơn, và thật lòng tôi nghĩ ai cũng sẽ thích. Ý bạn thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see where you're coming from, and broadly speaking I'm ____ board with the idea. That said, migrating everything at once does worry me a little, particularly because we're already stretched this quarter.",
+        "ipa": "/aɪ siː weər jɔː ˈkʌm.ɪŋ frɒm ænd ˈbrɔːd.li ˈspiː.kɪŋ aɪm ɒn bɔːd wɪð ðə aɪˈdɪə ðæt sed ˈmaɪ.ɡreɪ.tɪŋ ˈev.ri.θɪŋ ət wʌns dʌz ˈwʌr.i miː ə ˈlɪt.əl pəˈtɪk.jə.lə.li bɪˈkɒz wɪər ˈɔːl.red.i stretʃt ðɪs ˈkwɔː.tər/",
+        "vi": "Tôi hiểu vì sao anh nghĩ vậy, và nói đại thể thì tôi ____ ý tưởng này. Tuy vậy, việc chuyển hết mọi thứ cùng một lúc khiến tôi hơi lo, đặc biệt là vì quý này chúng ta đã quá tải rồi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "on",
+            "explanationVi": "Cụm 'be on board with something' = đồng tình, ủng hộ. Giới từ cố định là 'on'. Xem mục Từ vựng 'to be on board'."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That's a fair concern. But if we do it gradually, won't we end up maintaining two systems at the same time, which could get messy?",
+        "ipa": "/ðæts ə feə kənˈsɜːn bʌt ɪf wiː duː ɪt ˈɡrædʒ.u.ə.li wəʊnt wiː end ʌp meɪnˈteɪ.nɪŋ tuː ˈsɪs.təmz ət ðə seɪm taɪm wɪtʃ kʊd ɡet ˈmes.i/",
+        "vi": "Đó là một mối lo xác đáng. Nhưng nếu làm từ từ, chẳng phải ta sẽ phải duy trì hai hệ thống cùng lúc, mà điều đó có thể rất lộn xộn sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Up to a point, yes — although I'd argue a short overlap is far less risky than a sudden switch ____ could break things we don't expect. I agree in principle with moving over; I'm just more comfortable doing it in phases.",
+        "ipa": "/ʌp tə ə pɔɪnt jes ɔːlˈðəʊ aɪd ˈɑː.ɡjuː ə ʃɔːt ˌəʊ.vəˈlæp ɪz fɑː les ˈrɪs.ki ðæn ə ˈsʌd.ən swɪtʃ wɪtʃ kʊd breɪk θɪŋz wiː dəʊnt ɪkˈspekt aɪ əˈɡriː ɪn ˈprɪn.sə.pəl wɪð ˈmuː.vɪŋ ˈəʊ.vər aɪm dʒʌst mɔː ˈkʌm.fə.tə.bəl ˈduː.ɪŋ ɪt ɪn ˈfeɪ.zɪz/",
+        "vi": "Đúng đến một mức nào đó thôi — dù tôi cho rằng một giai đoạn gối đầu ngắn ít rủi ro hơn nhiều so với một cú chuyển đột ngột ____ có thể làm hỏng những thứ ta không lường trước. Tôi đồng ý về mặt nguyên tắc với việc chuyển sang; chỉ là tôi thấy yên tâm hơn khi làm theo từng giai đoạn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "which",
+            "explanationVi": "Đại từ quan hệ 'which' thay cho 'a sudden switch' (vật) để nối mệnh đề mô tả hậu quả. Nếu là người thì dùng 'who'."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Okay, I can live with a phased approach. So what would it take for you to feel fully comfortable signing off on it?",
+        "ipa": "/ˌəʊˈkeɪ aɪ kæn lɪv wɪð ə feɪzd əˈprəʊtʃ səʊ wɒt wʊd ɪt teɪk fɔː juː tə fiːl ˈfʊl.i ˈkʌm.fə.tə.bəl ˈsaɪ.nɪŋ ɒf ɒn ɪt/",
+        "vi": "Được, tôi chấp nhận được phương án chia giai đoạn. Vậy cần điều kiện gì để bạn thấy hoàn toàn yên tâm mà gật đầu với nó?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I'd be happy to give it the green light, ____ that we run a pilot with one team first and review the results before rolling it out to everyone. In fairness, your plan does solve our reporting headache — I just want a safety net.",
+        "ipa": "/ˈɒn.ɪst.li aɪd biː ˈhæp.i tə ɡɪv ɪt ðə ɡriːn laɪt prəˈvaɪ.dɪd ðæt wiː rʌn ə ˈpaɪ.lət wɪð wʌn tiːm fɜːst ænd rɪˈvjuː ðə rɪˈzʌlts bɪˈfɔː ˈrəʊ.lɪŋ ɪt aʊt tə ˈev.ri.wʌn ɪn ˈfeə.nəs jɔː plæn dʌz sɒlv ˈaʊə rɪˈpɔː.tɪŋ ˈhed.eɪk aɪ dʒʌst wɒnt ə ˈseɪf.ti net/",
+        "vi": "Thật lòng, tôi sẵn sàng bật đèn xanh, ____ là ta chạy thử nghiệm với một nhóm trước và xem xét kết quả trước khi triển khai cho tất cả. Nói cho công bằng, kế hoạch của anh đúng là giải quyết được cơn đau đầu về báo cáo của chúng ta — tôi chỉ muốn có một tấm lưới an toàn thôi.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "provided",
+            "explanationVi": "'provided (that)' = miễn là / với điều kiện là, trang trọng và nhấn điều kiện hơn 'if'. Xem mẫu câu 'I'm happy to…, provided that…' trong phần Cấu trúc."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That sounds reasonable. A two-week pilot, then a proper review meeting. Does that work for your team's schedule?",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl ə ˈtuː wiːk ˈpaɪ.lət ðen ə ˈprɒp.ər rɪˈvjuː ˈmiː.tɪŋ dʌz ðæt wɜːk fɔː jɔː tiːmz ˈʃed.juːl/",
+        "vi": "Nghe hợp lý đấy. Một đợt thử nghiệm hai tuần, rồi một buổi họp đánh giá đàng hoàng. Vậy có khớp với lịch của nhóm bạn không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It should do, as long as we lock in the review date ____. With that in mind, I think we've actually found some common ground here — I came in worried, but I'm leaving tentatively optimistic.",
+        "ipa": "/ɪt ʃʊd duː əz lɒŋ əz wiː lɒk ɪn ðə rɪˈvjuː deɪt naʊ wɪð ðæt ɪn maɪnd aɪ θɪŋk wiːv ˈæk.tʃu.ə.li faʊnd sʌm ˈkɒm.ən ɡraʊnd hɪər aɪ keɪm ɪn ˈwʌr.id bʌt aɪm ˈliː.vɪŋ ˈten.tə.tɪv.li ˈɒp.tɪ.mɪs.tɪk/",
+        "vi": "Chắc là khớp, ____ là ta chốt luôn ngày đánh giá ____. Xét điều đó, tôi nghĩ thật ra ta đã tìm được điểm chung ở đây rồi — lúc vào tôi còn lo, nhưng giờ ra về thì lạc quan một cách dè dặt.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Mốc thời gian bạn muốn chốt ngày đánh giá. Ví dụ: 'today', 'before we leave this meeting', 'by Friday'."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Deal. I appreciate you not just rubber-stamping the idea — pushing back a bit has actually made it a stronger plan.",
+        "ipa": "/diːl aɪ əˈpriː.ʃi.eɪt juː nɒt dʒʌst ˈrʌb.ə ˌstæm.pɪŋ ðiː aɪˈdɪə ˈpʊʃ.ɪŋ bæk ə bɪt hæz ˈæk.tʃu.ə.li meɪd ɪt ə ˈstrɒŋ.ɡə plæn/",
+        "vi": "Chốt vậy nhé. Tôi quý việc bạn không gật đầu cho có — việc phản biện đôi chút thật ra đã làm cho kế hoạch chắc chắn hơn."
+      }
+    ]
+  },
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, đồng ý ngay tắp lự ('Yes, sounds great!') đôi khi bị coi là chưa suy nghĩ thấu đáo. Nêu một bảo lưu hợp lý lại cho thấy bạn nghiêm túc và có chính kiến.",
+    "Mẫu 'công nhận trước, bảo lưu sau' (acknowledge then qualify) được đánh giá rất cao: nó giữ thể diện cho đối phương trong khi vẫn bảo vệ quan điểm của bạn — đúng tinh thần lịch sự kiểu Anh-Mỹ.",
+    "Người Việt đôi khi ngại nói 'nhưng' vì sợ mất lòng, dẫn đến gật đầu rồi trong bụng không đồng ý. Ở môi trường quốc tế, nêu điều kiện một cách lịch thiệp (provided that, as long as) lại được trân trọng hơn là im lặng.",
+    "'Disagreeing agreeably' (bất đồng mà vẫn hòa nhã) là một kỹ năng C1 quan trọng: dùng giọng điệu, trạng từ rào đón và nụ cười để câu phản biện không nghe như công kích."
+  ],
+  "commonMistakes": [
+    "Dùng 'Yes, but…' cụt lủn liên tục khiến nghe như cãi. Hãy đệm bằng 'I see where you're coming from, but…' hoặc 'That's a fair point; that said,…'.",
+    "Nhầm 'provided that' với 'as long as' về register: cả hai đều đặt điều kiện, nhưng 'provided that' trang trọng hơn; đừng dùng lẫn lộn tùy tiện trong cùng một câu trang trọng.",
+    "Quên rằng 'in principle' nghĩa là 'về mặt nguyên tắc' (đồng ý ý tưởng, chưa đồng ý cách làm) — nhiều người dịch nhầm thành 'về nguyên tắc thì bắt buộc'.",
+    "Lạm dụng 'I think' ở đầu mọi câu. Đa dạng hóa bằng 'For what it's worth', 'Broadly speaking', 'To a certain extent' để nghe tự nhiên và tinh tế hơn."
+  ],
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng đồng tình có điều kiện trong một cuộc thảo luận như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp nói tiếng Anh đang nhiệt tình đề xuất một ý tưởng ở công ty (ví dụ: đổi công cụ làm việc, thay đổi quy trình, hay một chiến lược mới). Nhiệm vụ của tôi là LUYỆN cách đồng tình có điều kiện ở trình độ C1: tôi sẽ đồng ý một phần, nêu bảo lưu, đặt điều kiện và đề xuất giải pháp thay vì chỉ nói 'yes' hoặc 'no'. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật, thỉnh thoảng phản biện lại để tôi phải bảo vệ điều kiện của mình; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế hơn bằng tiếng Việt; (3) khuyến khích tôi dùng các cấu trúc như 'I see where you're coming from, but…', 'I agree in principle, but…', 'provided that…', 'up to a point' và các trạng từ rào đón (broadly speaking, to a certain extent). Cuối buổi, hãy chấm điểm mức độ tinh tế trong cách đồng tình của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách trình bày đề xuất của bạn nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn và ép tôi phải thỏa hiệp, để tôi tập giữ vững điều kiện mà vẫn lịch sự.'",
+      "Thêm: 'Hãy yêu cầu tôi diễn đạt lại cùng một ý ở ba register khác nhau (trang trọng, trung tính, thân mật).' khi bạn đã quen."
+    ]
+  },
+  "selfCheck": [
+    "Tôi biết công nhận quan điểm đối phương trước rồi mới nêu bảo lưu, thay vì phản đối thẳng thừng.",
+    "Tôi dùng được ít nhất hai cấu trúc điều kiện ('provided that…', 'as long as…') để gắn điều kiện vào lời đồng ý.",
+    "Tôi phân biệt được và nói được sự khác nhau giữa đồng ý hoàn toàn, đồng ý một phần (up to a point) và đồng ý dè dặt (tentatively)."
+  ]
+}

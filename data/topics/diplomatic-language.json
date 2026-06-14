@@ -1,0 +1,494 @@
+{
+  "id": "diplomatic-language",
+  "category": "advanced",
+  "title": "Nói khéo & ngoại giao",
+  "titleEn": "Diplomatic Language",
+  "level": "C1",
+  "functions": [
+    "opinions",
+    "agreeing",
+    "refusing",
+    "negotiating",
+    "suggesting"
+  ],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Bất đồng quan điểm một cách nhã nhặn mà không làm mất lòng đối phương",
+    "Làm mềm tin xấu, lời từ chối và phê bình bằng ngôn ngữ ngoại giao tinh tế",
+    "Dùng cấu trúc giả định, mệnh đề điều kiện và động từ khiếm khuyết để giữ thể diện cho cả hai bên",
+    "Đổi register linh hoạt giữa thẳng thắn và tế nhị tùy mức độ nhạy cảm của tình huống",
+    "Vận dụng idiom và thành ngữ công sở (meet halfway, take on board) một cách tự nhiên"
+  ],
+  "vocabulary": [
+    {
+      "term": "diplomatic",
+      "ipa": "/ˌdɪp.ləˈmæt.ɪk/",
+      "vi": "khéo léo, tế nhị (tính từ)",
+      "register": "neutral",
+      "example": "She was diplomatic enough to point out the flaw without offending anyone.",
+      "exampleVi": "Cô ấy đủ khéo léo để chỉ ra lỗ hổng mà không làm phật lòng ai.",
+      "note": "Tính từ. Ngoài nghĩa 'thuộc ngoại giao', còn nghĩa 'biết nói khéo, giữ thể diện cho người khác' — đây là nghĩa trọng tâm của bài.",
+      "synonyms": [
+        {
+          "term": "tactful",
+          "ipa": "/ˈtækt.fəl/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn vào sự nhạy bén, biết nói điều khó nói đúng lúc đúng cách để không làm tổn thương. Gần như đồng nghĩa, rất hay dùng trong công sở."
+        },
+        {
+          "term": "discreet",
+          "ipa": "/dɪˈskriːt/",
+          "register": "formal",
+          "nuanceVi": "Nhấn vào 'kín đáo, biết giữ mồm giữ miệng', không phô trương. Thiên về sự thận trọng hơn là cách nói khéo."
+        },
+        {
+          "term": "delicate",
+          "ipa": "/ˈdel.ɪ.kət/",
+          "register": "neutral",
+          "nuanceVi": "Khi mô tả tình huống (a delicate matter) nghĩa là 'nhạy cảm, dễ vỡ', cần xử lý nhẹ tay."
+        }
+      ]
+    },
+    {
+      "term": "to reconsider",
+      "ipa": "/ˌriː.kənˈsɪd.ər/",
+      "vi": "xem xét lại (động từ)",
+      "register": "formal",
+      "example": "I'd be grateful if you would reconsider your decision.",
+      "exampleVi": "Tôi sẽ rất biết ơn nếu anh chịu xem xét lại quyết định của mình.",
+      "note": "Động từ. Cách lịch sự để đề nghị ai đó đổi ý mà không nói thẳng 'anh sai rồi'.",
+      "synonyms": [
+        {
+          "term": "to revisit",
+          "ipa": "/ˌriːˈvɪz.ɪt/",
+          "register": "formal",
+          "nuanceVi": "Nhẹ nhàng hơn, gợi ý 'cùng nhau xem lại' chứ không quy trách nhiệm. Rất hợp trong họp hành: 'Shall we revisit this point?'"
+        },
+        {
+          "term": "to rethink",
+          "ipa": "/ˌriːˈθɪŋk/",
+          "register": "neutral",
+          "nuanceVi": "Đời thường hơn, nghĩa 'nghĩ lại từ đầu'. Có thể hơi thẳng hơn 'reconsider' khi dùng với người khác."
+        }
+      ]
+    },
+    {
+      "term": "concern",
+      "ipa": "/kənˈsɜːn/",
+      "vi": "mối lo ngại, băn khoăn (danh từ)",
+      "register": "neutral",
+      "example": "I do have a few concerns about the timeline, if I may raise them.",
+      "exampleVi": "Tôi có vài băn khoăn về tiến độ, nếu tôi được phép nêu ra.",
+      "note": "Danh từ. Nói 'I have a concern' nghe nhẹ và mang tính xây dựng hơn nhiều so với 'I disagree' hay 'That's wrong'.",
+      "synonyms": [
+        {
+          "term": "reservation",
+          "ipa": "/ˌrez.əˈveɪ.ʃən/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'sự dè dặt, chưa hoàn toàn đồng tình'. Trang trọng: 'I have some reservations about this approach.'"
+        },
+        {
+          "term": "misgiving",
+          "ipa": "/ˌmɪsˈɡɪv.ɪŋ/",
+          "register": "formal",
+          "nuanceVi": "Nhấn cảm giác 'linh tính e ngại điều chẳng lành', mạnh hơn concern. Thường dùng số nhiều."
+        }
+      ]
+    },
+    {
+      "term": "to compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "thỏa hiệp, nhân nhượng (động từ/danh từ)",
+      "register": "neutral",
+      "example": "If we're both willing to compromise, I'm sure we can reach an agreement.",
+      "exampleVi": "Nếu cả hai cùng sẵn lòng thỏa hiệp, tôi tin chúng ta sẽ đạt được thỏa thuận.",
+      "note": "Vừa là động từ vừa là danh từ ('reach a compromise'). Cốt lõi của ngôn ngữ thương lượng ngoại giao.",
+      "synonyms": [
+        {
+          "term": "to meet halfway",
+          "ipa": "/miːt ˌhɑːfˈweɪ/",
+          "register": "casual",
+          "nuanceVi": "Thành ngữ thân thiện, hình ảnh 'mỗi bên đi nửa đường'. Nghe gần gũi, đỡ trịnh trọng hơn compromise."
+        },
+        {
+          "term": "to make concessions",
+          "ipa": "/meɪk kənˈseʃ.ənz/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nhấn 'nhường một phần yêu cầu của mình'. Hay dùng trong đàm phán chính thức."
+        }
+      ]
+    },
+    {
+      "term": "to come across as",
+      "ipa": "/kʌm əˈkrɒs æz/",
+      "vi": "gây ấn tượng/bị hiểu là (cụm động từ)",
+      "register": "neutral",
+      "example": "I don't want to come across as dismissive, but I see things slightly differently.",
+      "exampleVi": "Tôi không muốn bị hiểu là gạt phăng ý kiến, nhưng tôi nhìn nhận hơi khác một chút.",
+      "note": "Cụm động từ. Cực kỳ hữu ích để 'rào trước' cảm nhận của người nghe trước khi nói điều nhạy cảm.",
+      "synonyms": [
+        {
+          "term": "to seem",
+          "ipa": "/siːm/",
+          "register": "neutral",
+          "nuanceVi": "Đơn giản, trung tính. 'Come across as' nhấn vào ấn tượng mình tạo ra trong mắt người khác, tinh tế hơn 'seem'."
+        }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "xác đáng, có cơ sở (tính từ)",
+      "register": "neutral",
+      "example": "You raise a valid point, and I think it deserves serious consideration.",
+      "exampleVi": "Anh nêu một ý xác đáng, và tôi nghĩ nó đáng được cân nhắc nghiêm túc.",
+      "note": "Tính từ. Công nhận ý của đối phương là 'valid' trước khi phản biện là chiến thuật ngoại giao kinh điển (đệm trước khi đẩy).",
+      "synonyms": [
+        {
+          "term": "legitimate",
+          "ipa": "/lɪˈdʒɪt.ɪ.mət/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, nhấn 'chính đáng, hợp lẽ'. Vd 'a legitimate concern'."
+        },
+        {
+          "term": "fair",
+          "ipa": "/feər/",
+          "register": "casual",
+          "nuanceVi": "Đời thường: 'That's a fair point.' Nghe gần gũi, công nhận nhanh trong hội thoại thân mật."
+        }
+      ]
+    },
+    {
+      "term": "candidly",
+      "ipa": "/ˈkæn.dɪd.li/",
+      "vi": "một cách thẳng thắn, thật lòng (trạng từ)",
+      "register": "formal",
+      "example": "Candidly, I think the budget is rather optimistic.",
+      "exampleVi": "Thật lòng mà nói, tôi nghĩ ngân sách hơi lạc quan quá.",
+      "note": "Trạng từ. Báo hiệu mình sắp nói thẳng nhưng vẫn tôn trọng — nghe chững chạc hơn 'honestly'.",
+      "synonyms": [
+        {
+          "term": "frankly",
+          "ipa": "/ˈfræŋk.li/",
+          "register": "neutral",
+          "nuanceVi": "Phổ biến nhất, 'nói thẳng ra'. Hơi mạnh hơn candidly một chút, có thể báo hiệu một nhận xét không mấy dễ nghe."
+        },
+        {
+          "term": "in all honesty",
+          "ipa": "/ɪn ɔːl ˈɒn.ə.sti/",
+          "register": "neutral",
+          "nuanceVi": "Cụm dài, nhấn sự chân thành tha thiết. Dùng khi muốn người nghe tin rằng mình đang rất thật lòng."
+        }
+      ]
+    },
+    {
+      "term": "tentatively",
+      "ipa": "/ˈten.tə.tɪv.li/",
+      "vi": "một cách dè dặt, thăm dò (trạng từ)",
+      "register": "formal",
+      "example": "We've tentatively agreed on the figure, pending final approval.",
+      "exampleVi": "Chúng tôi đã tạm đồng ý về con số đó, chờ phê duyệt cuối cùng.",
+      "note": "Trạng từ. Báo hiệu 'mới tạm thời, chưa chắc chắn' — giữ đường lui cho cả hai bên, rất ngoại giao.",
+      "synonyms": [
+        {
+          "term": "provisionally",
+          "ipa": "/prəˈvɪʒ.ən.əl.i/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nhấn 'tạm thời cho đến khi có quyết định chính thức'. Hay dùng trong văn bản, hợp đồng."
+        }
+      ]
+    },
+    {
+      "term": "to take on board",
+      "ipa": "/teɪk ɒn bɔːd/",
+      "vi": "tiếp thu, ghi nhận ý kiến (cụm động từ)",
+      "register": "neutral",
+      "example": "I'll take your feedback on board and get back to you next week.",
+      "exampleVi": "Tôi sẽ tiếp thu góp ý của anh và phản hồi lại vào tuần sau.",
+      "note": "Thành ngữ công sở (Anh-Anh). Cách lịch sự để thừa nhận ý kiến người khác mà chưa cam kết làm theo ngay.",
+      "synonyms": [
+        {
+          "term": "to factor in",
+          "ipa": "/ˈfæk.tər ɪn/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'tính cả yếu tố đó vào khi cân nhắc'. Thiên về đưa vào tính toán hơn là chỉ lắng nghe."
+        }
+      ]
+    },
+    {
+      "term": "to be inclined to",
+      "ipa": "/biː ɪnˈklaɪnd tə/",
+      "vi": "thiên về, có xu hướng (cụm động từ)",
+      "register": "formal",
+      "example": "I'm inclined to agree, although I'd like to see the figures first.",
+      "exampleVi": "Tôi thiên về đồng ý, dù tôi muốn xem số liệu trước đã.",
+      "note": "Cụm này làm câu khẳng định nghe mềm, dè dặt — 'nghiêng về' chứ không quả quyết, để giữ đường lui.",
+      "synonyms": [
+        {
+          "term": "to lean towards",
+          "ipa": "/liːn təˈwɔːdz/",
+          "register": "neutral",
+          "nuanceVi": "Đời thường hơn, cùng nghĩa 'nghiêng về phía'. Vd 'I'm leaning towards option B.'"
+        }
+      ]
+    },
+    {
+      "term": "feasible",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "vi": "khả thi (tính từ)",
+      "register": "formal",
+      "example": "I'm not entirely sure that approach is feasible within our budget.",
+      "exampleVi": "Tôi không chắc lắm cách làm đó có khả thi trong ngân sách của chúng ta không.",
+      "note": "Tính từ. Nói 'isn't feasible' nghe khách quan, mang tính kỹ thuật, nhẹ hơn nhiều so với 'won't work' hay 'no'.",
+      "synonyms": [
+        {
+          "term": "viable",
+          "ipa": "/ˈvaɪ.ə.bəl/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'có thể tồn tại/thành công lâu dài'. 'feasible' nhấn 'làm được về mặt thực hiện'; tinh tế khác nhau."
+        },
+        {
+          "term": "doable",
+          "ipa": "/ˈduː.ə.bəl/",
+          "register": "casual",
+          "nuanceVi": "Đời thường, thân mật: 'Yeah, that's doable.' Nghe nhẹ nhõm, hợp trao đổi nội bộ."
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "pattern": "I see where you're coming from, but I can't help feeling that [mệnh đề].",
+      "use": "Công nhận quan điểm đối phương trước khi nêu bất đồng của mình.",
+      "register": "neutral",
+      "examples": [
+        "I see where you're coming from, but I can't help feeling that we're underestimating the risks."
+      ],
+      "explanationVi": "'I see where you're coming from' = tôi hiểu vì sao anh nghĩ vậy. Đệm câu này trước khi phản biện giúp đối phương không cảm thấy bị bác bỏ. 'I can't help feeling' làm bất đồng nghe như cảm nhận chủ quan, đỡ đối đầu.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "You make a valid point; that said, I do wonder whether [mệnh đề].",
+      "use": "Thừa nhận ý đúng của đối phương rồi nhẹ nhàng đẩy hướng khác.",
+      "register": "formal",
+      "examples": [
+        "You make a valid point; that said, I do wonder whether the timeline is realistic."
+      ],
+      "explanationVi": "'That said' (= dù vậy) là cách nối trang trọng để chuyển sang ý ngược. 'I do wonder whether' dùng trợ động từ 'do' nhấn mạnh + đặt vấn đề dưới dạng băn khoăn thay vì khẳng định — cực kỳ ngoại giao.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "I'm afraid [mệnh đề], although I completely understand why you'd want that.",
+      "use": "Từ chối hoặc báo tin không hay mà vẫn thể hiện sự cảm thông.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid that won't be possible this quarter, although I completely understand why you'd want that."
+      ],
+      "explanationVi": "'I'm afraid' báo hiệu tin không vui một cách lịch sự (không liên quan đến 'sợ'). Mệnh đề 'although…' nhượng bộ phía sau cho thấy mình đứng về phía họ, làm lời từ chối mềm hẳn đi.",
+      "altOf": "softening-refusal"
+    },
+    {
+      "pattern": "Would it perhaps be possible to [V], rather than [V]?",
+      "use": "Đề xuất phương án thay thế một cách gợi ý chứ không áp đặt.",
+      "register": "formal",
+      "examples": [
+        "Would it perhaps be possible to push the launch to May, rather than rushing it in April?"
+      ],
+      "explanationVi": "'Would it perhaps be possible to…?' là đề nghị lịch sự bậc cao; 'perhaps' nới lỏng thêm. 'rather than' nêu lựa chọn thay thế nhẹ nhàng, để người nghe cảm thấy vẫn được quyền quyết định.",
+      "altOf": "softening-refusal"
+    },
+    {
+      "pattern": "If I were in your position, I might be tempted to [V] — but that's just my view.",
+      "use": "Đưa lời khuyên/gợi ý mà không tỏ ra dạy đời.",
+      "register": "neutral",
+      "examples": [
+        "If I were in your position, I might be tempted to wait for more data — but that's just my view."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 ('If I were…, I might…') đặt mình vào vị trí người kia, biến lời khuyên thành giả định nhẹ nhàng. Đuôi 'that's just my view' hạ thấp cái tôi, tránh áp đặt."
+    },
+    {
+      "pattern": "Could we possibly find a middle ground, whereby [mệnh đề]?",
+      "use": "Đề xuất một giải pháp dung hòa trong thương lượng.",
+      "register": "formal",
+      "examples": [
+        "Could we possibly find a middle ground, whereby we split the cost and share the risk?"
+      ],
+      "explanationVi": "'find a middle ground' = tìm điểm chung dung hòa. 'whereby' là mệnh đề quan hệ trang trọng (= theo đó/bằng cách đó), thường dùng trong văn cảnh đàm phán. 'possibly' tăng độ khiêm tốn."
+    },
+    {
+      "pattern": "With all due respect, I'm not entirely convinced that [mệnh đề].",
+      "use": "Phản đối mạnh hơn nhưng vẫn giữ phép lịch sự trang trọng.",
+      "register": "formal",
+      "examples": [
+        "With all due respect, I'm not entirely convinced that cutting the budget is the right move."
+      ],
+      "explanationVi": "'With all due respect' báo trước 'tôi tôn trọng anh, nhưng…' — dùng khi sắp phản đối thẳng. 'not entirely convinced' là cách nói giảm (litotes): thay vì 'I disagree', mình nói 'chưa hoàn toàn bị thuyết phục', nghe nhã hơn nhiều.",
+      "altOf": "polite-disagreement"
+    }
+  ],
+  "adverbsAndPhrases": [
+    {
+      "term": "to be fair",
+      "ipa": "/tə biː feər/",
+      "vi": "nói cho công bằng thì",
+      "when": "Khi muốn công nhận một điểm có lợi cho phía bên kia trước khi phản biện.",
+      "example": "To be fair, your team did warn us about this in advance."
+    },
+    {
+      "term": "if I may",
+      "ipa": "/ɪf aɪ meɪ/",
+      "vi": "nếu tôi được phép",
+      "when": "Xin phép một cách trang trọng trước khi nêu ý kiến hay xen vào.",
+      "example": "If I may, I'd like to add one small point here."
+    },
+    {
+      "term": "having said that",
+      "ipa": "/ˈhæv.ɪŋ sed ðæt/",
+      "vi": "tuy nói vậy nhưng",
+      "when": "Chuyển sang ý ngược lại sau khi đã thừa nhận điều gì đó.",
+      "example": "It's a solid plan. Having said that, the cost worries me."
+    },
+    {
+      "term": "by and large",
+      "ipa": "/baɪ ænd lɑːdʒ/",
+      "vi": "nhìn chung thì",
+      "when": "Đưa ra nhận định tổng quát, chừa chỗ cho ngoại lệ.",
+      "example": "By and large, the feedback has been positive."
+    },
+    {
+      "term": "as it stands",
+      "ipa": "/æz ɪt stændz/",
+      "vi": "ở tình hình hiện tại",
+      "when": "Nêu hiện trạng nhưng ngụ ý nó có thể thay đổi — giữ đường lui.",
+      "example": "As it stands, I can't commit to that deadline."
+    },
+    {
+      "term": "to put it mildly",
+      "ipa": "/tə pʊt ɪt ˈmaɪld.li/",
+      "vi": "nói nhẹ đi thì là vậy",
+      "when": "Báo hiệu mình đang cố tình nói giảm một điều khá nghiêm trọng.",
+      "example": "The launch didn't go smoothly, to put it mildly."
+    }
+  ],
+  "dialogue": {
+    "context": "Bạn đang họp với một quản lý đối tác (Daniel) để rà soát kế hoạch ra mắt sản phẩm chung. Bạn không đồng ý với mốc thời gian và ngân sách họ đề xuất, nhưng cần phản đối thật khéo để giữ quan hệ.",
+    "lines": [
+      {
+        "speaker": "Daniel",
+        "text": "Thanks for joining today. As you've probably seen in the deck, we're proposing to launch in April, which gives us a tight but, in my view, achievable window.",
+        "ipa": "/θæŋks fɔːr ˈdʒɔɪn.ɪŋ təˈdeɪ æz juːv ˈprɒb.ə.bli siːn ɪn ðə dek wɪər prəˈpəʊz.ɪŋ tə lɔːntʃ ɪn ˈeɪ.prəl wɪtʃ ɡɪvz ʌs ə taɪt bʌt ɪn maɪ vjuː əˈtʃiː.və.bəl ˈwɪn.dəʊ/",
+        "vi": "Cảm ơn anh đã tham gia hôm nay. Như anh chắc đã thấy trong slide, chúng tôi đề xuất ra mắt vào tháng Tư, một khung thời gian gấp nhưng theo tôi là khả thi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thanks, Daniel. I see where you're coming from, and to be fair, the team has clearly put a lot of thought into this. That said, I'm not entirely ____ that April is realistic, particularly given how much testing still remains.",
+        "ipa": "/θæŋks ˈdæn.jəl aɪ siː weər jɔːr ˈkʌm.ɪŋ frɒm ænd tə biː feər ðə tiːm hæz ˈklɪə.li pʊt ə lɒt əv θɔːt ˈɪn.tə ðɪs ðæt sed aɪm nɒt ɪnˈtaɪə.li ... ðæt ˈeɪ.prəl ɪz ˌriːəˈlɪs.tɪk pəˈtɪk.jə.lə.li ˈɡɪv.ən haʊ mʌtʃ ˈtest.ɪŋ stɪl rɪˈmeɪnz/",
+        "vi": "Cảm ơn Daniel. Tôi hiểu vì sao anh nghĩ vậy, và nói cho công bằng thì đội ngũ rõ ràng đã suy nghĩ rất kỹ. Tuy vậy, tôi không hoàn toàn ____ rằng tháng Tư là thực tế, nhất là khi vẫn còn khá nhiều khâu kiểm thử.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "convinced",
+            "explanationVi": "Cụm 'not entirely convinced' là cách nói giảm (litotes) thay cho 'I disagree' — nghe nhã hơn nhiều. Xem mẫu câu 'With all due respect, I'm not entirely convinced that…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "That's a fair concern. However, our marketing team has already booked the slots, so pushing the date back could be costly. What would you suggest instead?",
+        "ipa": "/ðæts ə feər kənˈsɜːn haʊˈev.ər ˈaʊə ˈmɑː.kɪt.ɪŋ tiːm hæz ɔːlˈred.i bʊkt ðə slɒts səʊ ˈpʊʃ.ɪŋ ðə deɪt bæk kʊd biː ˈkɒst.li wɒt wʊd juː səˈdʒest ɪnˈsted/",
+        "vi": "Đó là một lo ngại xác đáng. Tuy nhiên, đội marketing của chúng tôi đã đặt sẵn các khung quảng cáo rồi, nên lùi ngày lại có thể tốn kém. Vậy anh đề xuất gì thay thế?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, ____ I were in your position, I might be tempted to keep April for a soft launch and save the full rollout for May. Would it perhaps be possible to phase it, rather than risk shipping something half-tested?",
+        "ipa": "/wel ... aɪ wɜː ɪn jɔːr pəˈzɪʃ.ən aɪ maɪt biː ˈtemp.tɪd tə kiːp ˈeɪ.prəl fɔːr ə sɒft lɔːntʃ ænd seɪv ðə fʊl ˈrəʊl.aʊt fɔːr meɪ wʊd pəˈhæps biː ˈpɒs.ə.bəl tə feɪz ɪt ˈrɑːð.ər ðæn rɪsk ˈʃɪp.ɪŋ ˈsʌm.θɪŋ hɑːfˈtest.ɪd/",
+        "vi": "À, ____ tôi ở vị trí của anh, có lẽ tôi sẽ giữ tháng Tư cho một đợt ra mắt thử và để dành đợt phát hành đầy đủ sang tháng Năm. Liệu có thể chia thành các giai đoạn không, thay vì mạo hiểm tung ra thứ mới kiểm thử nửa vời?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "if",
+            "explanationVi": "Câu điều kiện loại 2 'If I were in your position, I might…' đặt mình vào vị trí người kia để khuyên nhẹ nhàng. Lưu ý dùng 'were' cho mọi ngôi trong câu giả định. Xem mẫu câu cùng tên."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "I hadn't thought of phasing it, actually. ____ I'll need to run it past my director, that does sound like a sensible compromise.",
+        "ipa": "/aɪ ˈhæd.ənt θɔːt əv ˈfeɪz.ɪŋ ɪt ˈæk.tʃu.ə.li ... aɪl niːd tə rʌn ɪt pɑːst maɪ daɪˈrek.tər ðæt dʌz saʊnd laɪk ə ˈsen.sə.bəl ˈkɒm.prə.maɪz/",
+        "vi": "Thật ra tôi chưa nghĩ đến việc chia giai đoạn. ____ tôi sẽ phải hỏi ý giám đốc của mình, thì điều đó nghe có vẻ là một thỏa hiệp hợp lý.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Although",
+            "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù phải xin ý cấp trên, nhưng vẫn thấy hợp lý). Đầu câu nên viết hoa. Có thể thay bằng 'Even though'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate your openness. Candidly, my main ____ is the budget too — as it stands, the figures look rather optimistic, and I'd hate for either of us to overcommit.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt jɔːr ˈəʊ.pən.nəs ˈkæn.dɪd.li maɪ meɪn ... ɪz ðə ˈbʌdʒ.ɪt tuː æz ɪt stændz ðə ˈfɪɡ.əz lʊk ˈrɑːð.ər ˌɒp.tɪˈmɪs.tɪk ænd aɪd heɪt fɔːr ˈaɪð.ər əv ʌs tə ˌəʊ.və.kəˈmɪt/",
+        "vi": "Tôi trân trọng sự cởi mở của anh. Thật lòng mà nói, băn khoăn chính của tôi cũng là ngân sách — ở tình hình hiện tại, các con số trông hơi lạc quan, và tôi không muốn bên nào trong hai ta cam kết quá tay.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "concern",
+            "explanationVi": "Danh từ 'concern' (băn khoăn) nghe nhẹ và mang tính xây dựng hơn 'problem' hay 'complaint'. Nói 'my main concern is…' là cách nêu phản đối kiểu ngoại giao."
+          }
+        ]
+      },
+      {
+        "speaker": "Daniel",
+        "text": "Point taken. Why don't we both go away, crunch the numbers, and meet ____ on a figure we can both live with?",
+        "ipa": "/pɔɪnt ˈteɪ.kən waɪ dəʊnt wiː bəʊθ ɡəʊ əˈweɪ krʌntʃ ðə ˈnʌm.bəz ænd miːt ... ɒn ə ˈfɪɡ.ər wiː kæn bəʊθ lɪv wɪð/",
+        "vi": "Tôi ghi nhận điều đó. Hay là cả hai ta về tính toán lại con số, rồi gặp nhau ____ trên một mức mà cả hai đều chấp nhận được?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "halfway",
+            "explanationVi": "Thành ngữ 'meet halfway' = mỗi bên nhân nhượng một nửa để dung hòa. Đây là biến thể thân thiện của 'compromise'. Xem từ vựng 'to meet halfway'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds eminently reasonable. I'll take everything you've said today on ____, and I'm confident that, despite the constraints, we'll find an arrangement which works for both sides.",
+        "ipa": "/ðæt saʊndz ˈem.ɪ.nənt.li ˈriː.zən.ə.bəl aɪl teɪk ˈev.ri.θɪŋ juːv sed təˈdeɪ ɒn ... ænd aɪm ˈkɒn.fɪ.dənt ðæt dɪˈspaɪt ðə kənˈstreɪnts wiːl faɪnd ən əˈreɪndʒ.mənt wɪtʃ wɜːks fɔːr bəʊθ saɪdz/",
+        "vi": "Nghe rất hợp lý. Tôi sẽ ____ mọi điều anh nói hôm nay, và tôi tin rằng, dù có những ràng buộc, chúng ta sẽ tìm được một phương án ổn cho cả hai bên.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "board",
+            "explanationVi": "Thành ngữ 'take something on board' = tiếp thu, ghi nhận ý kiến. 'on board' là phần cố định của idiom. Xem từ vựng 'to take on board'."
+          }
+        ]
+      }
+    ]
+  },
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây (đặc biệt Anh), người ta hiếm khi nói thẳng 'No' hay 'You're wrong'. Họ bọc bằng 'I'm afraid…', 'I'm not sure…', 'I'm not entirely convinced…'. Người Việt nói thẳng quá dễ bị coi là thô.",
+    "Cách nói giảm (understatement) rất được ưa chuộng ở Anh: 'a slight problem' có thể nghĩa là 'một vấn đề lớn'; 'not bad' là 'khá tốt'. Hiểu sai sắc thái này dễ đánh giá nhầm mức độ nghiêm trọng.",
+    "Công nhận ý đối phương trước khi phản biện ('You make a valid point, but…') là chuẩn mực. Phản đối thẳng mà không đệm dễ bị xem là hiếu chiến.",
+    "'With all due respect' nghe lịch sự nhưng thực chất báo hiệu một lời phản đối khá mạnh sắp tới — đừng dùng tùy tiện, hãy để dành cho lúc thật sự cần phản đối rõ ràng."
+  ],
+  "commonMistakes": [
+    "Nói thẳng 'I disagree' hoặc 'That's wrong' trong họp — nghe đối đầu. Hãy dùng 'I see your point, but…' hoặc 'I'm not entirely convinced that…'.",
+    "Hiểu nhầm 'I'm afraid' là 'tôi sợ'. Trong ngữ cảnh này nó chỉ là lời rào lịch sự khi báo tin không vui.",
+    "Câu điều kiện loại 2 dùng sai động từ to be: phải là 'If I WERE in your position' (giả định), không phải 'If I WAS'.",
+    "Quên rằng 'take on board' và 'meet halfway' là idiom cố định — không đổi thành 'take on the board' hay 'meet at half way'."
+  ],
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói khéo và thương lượng trong các tình huống nhạy cảm.",
+    "prompt": "Hãy đóng vai một đồng nghiệp/đối tác nói tiếng Anh trong một cuộc họp công việc, và cố tình đưa ra những đề xuất mà tôi sẽ phải phản đối hoặc từ chối (ví dụ: mốc thời gian quá gấp, ngân sách bị cắt, một yêu cầu khó). Nhiệm vụ của tôi là bất đồng, từ chối hoặc thương lượng một cách thật ngoại giao. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bản xứ trong môi trường công sở, (2) đánh giá mức độ 'khéo' của câu tôi nói và chỉ ra chỗ nào nghe còn thẳng/cộc, rồi gợi ý phiên bản tế nhị hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu như 'I see where you're coming from, but…', 'I'm afraid…', 'Would it perhaps be possible to…?', câu điều kiện loại 2 và idiom (meet halfway, take on board). Thỉnh thoảng hãy tỏ ra hơi cứng rắn để tôi tập giữ bình tĩnh. Bắt đầu bằng đề xuất đầu tiên của anh/chị nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một đối tác khó tính, đôi lúc hơi gắt, để tôi tập làm dịu căng thẳng.'",
+      "Thêm: 'Cuối buổi, hãy chấm điểm độ ngoại giao của tôi trên thang 10 và liệt kê 3 cụm từ làm mềm câu mà tôi nên dùng nhiều hơn.'",
+      "Thêm: 'Hãy thử ép tôi vào tình huống phải từ chối sếp cấp cao để luyện đổi register sang trang trọng hơn.'"
+    ]
+  },
+  "selfCheck": [
+    "Tôi bất đồng được với người khác mà vẫn công nhận ý của họ trước (You make a valid point, but…).",
+    "Tôi từ chối/báo tin xấu một cách lịch sự bằng 'I'm afraid…' kèm mệnh đề cảm thông.",
+    "Tôi dùng được câu điều kiện loại 2 và ít nhất một idiom (meet halfway / take on board) khi thương lượng."
+  ]
+}

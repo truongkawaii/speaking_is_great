@@ -1,0 +1,331 @@
+{
+  "id": "taking-taxi",
+  "category": "daily-life",
+  "title": "Đi taxi / xe công nghệ",
+  "titleEn": "Taking a Taxi",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gọi taxi hoặc xe công nghệ và nói địa điểm bạn muốn đến",
+    "Hỏi giá tiền và thời gian đi mất bao lâu",
+    "Đề nghị lịch sự cho tài xế (rẽ, dừng, đi nhanh hơn)",
+    "Xử lý tình huống đơn giản như kẹt xe hoặc trả tiền"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "fare",
+      "ipa": "/feər/",
+      "vi": "tiền cước, giá đi xe (danh từ)",
+      "register": "neutral",
+      "example": "How much is the fare to the airport?",
+      "exampleVi": "Tiền cước đến sân bay là bao nhiêu?",
+      "note": "Danh từ. 'fare' là số tiền bạn trả cho chuyến đi (taxi, xe buýt, tàu). Đừng nhầm với 'fee' (lệ phí).",
+      "synonyms": [
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Nghĩa chung là 'chi phí'. Dùng được nhưng không riêng cho đi xe; 'fare' chuyên dùng cho cước đi lại." },
+        { "term": "charge", "ipa": "/tʃɑːrdʒ/", "register": "neutral", "nuanceVi": "Nhấn vào 'khoản tiền bị tính'. Vd 'an extra charge' (phụ phí). Thiên về phí phát sinh hơn là giá cả chung." }
+      ]
+    },
+    {
+      "term": "destination",
+      "ipa": "/ˌdes.tɪˈneɪ.ʃən/",
+      "vi": "điểm đến (danh từ)",
+      "register": "neutral",
+      "example": "Please type your destination into the app.",
+      "exampleVi": "Vui lòng nhập điểm đến vào ứng dụng.",
+      "note": "Danh từ. Nơi bạn muốn xe đưa đến. Trong app xe công nghệ thường ghi là 'destination' hoặc 'drop-off'.",
+      "synonyms": [
+        { "term": "drop-off", "ipa": "/ˈdrɒp.ɒf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'điểm xuống xe'. App gọi xe hay dùng 'drop-off point'. Ngược lại là 'pick-up' (điểm đón)." }
+      ]
+    },
+    {
+      "term": "driver",
+      "ipa": "/ˈdraɪ.vər/",
+      "vi": "tài xế (danh từ)",
+      "register": "neutral",
+      "example": "The driver was very friendly and polite.",
+      "exampleVi": "Tài xế rất thân thiện và lịch sự.",
+      "note": "Danh từ chỉ người lái xe. Trong app, bạn sẽ thấy tên và biển số của 'the driver'."
+    },
+    {
+      "term": "to drop off",
+      "ipa": "/tə drɒp ɒf/",
+      "vi": "thả khách xuống (động từ)",
+      "register": "neutral",
+      "example": "Could you drop me off at the corner, please?",
+      "exampleVi": "Anh thả tôi ở góc đường được không ạ?",
+      "note": "Cụm động từ. 'drop somebody off' = cho ai đó xuống xe. Ngược lại là 'pick somebody up' (đón ai đó).",
+      "synonyms": [
+        { "term": "to let off", "ipa": "/tə let ɒf/", "register": "casual", "nuanceVi": "Đời thường, nghĩa gần giống 'drop off'. Vd 'Just let me off here.' Nghe thân mật hơn." }
+      ]
+    },
+    {
+      "term": "to pick up",
+      "ipa": "/tə pɪk ʌp/",
+      "vi": "đón khách (động từ)",
+      "register": "neutral",
+      "example": "The driver will pick you up in five minutes.",
+      "exampleVi": "Tài xế sẽ đón bạn sau năm phút.",
+      "note": "Cụm động từ. 'pick somebody up' = đón ai đó. Danh từ là 'pick-up' (điểm/giờ đón)."
+    },
+    {
+      "term": "traffic",
+      "ipa": "/ˈtræf.ɪk/",
+      "vi": "giao thông, xe cộ trên đường (danh từ)",
+      "register": "neutral",
+      "example": "There is a lot of traffic this morning.",
+      "exampleVi": "Sáng nay có rất nhiều xe cộ.",
+      "note": "Danh từ không đếm được (KHÔNG nói 'a traffic' hay 'traffics'). 'heavy traffic' = đông xe, 'a traffic jam' = vụ kẹt xe.",
+      "synonyms": [
+        { "term": "traffic jam", "ipa": "/ˈtræf.ɪk dʒæm/", "register": "neutral", "nuanceVi": "Cụm danh từ ĐẾM ĐƯỢC, chỉ một vụ kẹt xe cụ thể: 'We're stuck in a traffic jam.'" },
+        { "term": "congestion", "ipa": "/kənˈdʒes.tʃən/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay gặp trên bản tin/biển báo: 'traffic congestion'. Nói chuyện thường ngày thì dùng 'traffic'." }
+      ]
+    },
+    {
+      "term": "to be in a hurry",
+      "ipa": "/tə biː ɪn ə ˈhʌr.i/",
+      "vi": "đang vội (cụm động từ)",
+      "register": "neutral",
+      "example": "I'm in a hurry, so please take the fastest route.",
+      "exampleVi": "Tôi đang vội, nên làm ơn đi đường nhanh nhất.",
+      "note": "Cụm cố định 'in a hurry'. Đừng quên mạo từ 'a'. Hữu ích khi muốn tài xế đi nhanh."
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "còn trống, sẵn sàng nhận khách (tính từ)",
+      "register": "neutral",
+      "example": "Is this taxi available?",
+      "exampleVi": "Taxi này có chở khách không ạ?",
+      "note": "Tính từ. Taxi 'available' = đang trống, có thể đón bạn. Biển 'For Hire' sáng đèn cũng nghĩa là còn trống.",
+      "synonyms": [
+        { "term": "free", "ipa": "/friː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'đang rảnh/trống'. Vd 'Are you free?' khi vẫy taxi. Đơn giản, dễ dùng." },
+        { "term": "vacant", "ipa": "/ˈveɪ.kənt/", "register": "formal", "nuanceVi": "Trang trọng, thường thấy trên biển hiệu chỗ trống. Ít dùng khi nói chuyện trực tiếp với tài xế." }
+      ]
+    },
+    {
+      "term": "nearby",
+      "ipa": "/ˌnɪəˈbaɪ/",
+      "vi": "ở gần đây (tính từ / trạng từ)",
+      "register": "neutral",
+      "example": "Is there a taxi stand nearby?",
+      "exampleVi": "Có bãi đậu taxi nào gần đây không?",
+      "note": "Vừa là tính từ ('a nearby station') vừa là trạng từ ('a station nearby'). Tiện khi hỏi đường/địa điểm.",
+      "synonyms": [
+        { "term": "close by", "ipa": "/kləʊs baɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa gần giống 'nearby'. Vd 'It's close by.' Nghe tự nhiên trong hội thoại." },
+        { "term": "around here", "ipa": "/əˈraʊnd hɪər/", "register": "casual", "nuanceVi": "Cụm rất thông dụng khi nói 'ở quanh đây': 'Is there a taxi around here?'" }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "Could we get there quickly? I'm a bit late.",
+      "exampleVi": "Mình tới đó nhanh được không? Tôi hơi trễ rồi.",
+      "note": "Trạng từ, đứng cuối câu hoặc sau động từ. Đừng nói 'go quick' (sai) — phải 'go quickly'.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "neutral", "nuanceVi": "Vừa là tính từ vừa là trạng từ ('drive fast'). Nhấn vào tốc độ cao. Gần nghĩa 'quickly'." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "casual", "nuanceVi": "Nghĩa 'ngay lập tức', nhấn vào việc bắt đầu liền chứ không phải tốc độ. Vd 'Let's go right away.'" }
+      ]
+    },
+    {
+      "term": "to turn",
+      "ipa": "/tə tɜːn/",
+      "vi": "rẽ, quẹo (động từ)",
+      "register": "neutral",
+      "example": "Please turn left at the next traffic light.",
+      "exampleVi": "Làm ơn rẽ trái ở đèn giao thông kế tiếp.",
+      "note": "Động từ. Đi với 'left' (trái) / 'right' (phải). Câu chỉ đường rất hay dùng khi ngồi taxi."
+    },
+    {
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vi": "hóa đơn, biên lai (danh từ)",
+      "register": "neutral",
+      "example": "Can I have a receipt, please?",
+      "exampleVi": "Cho tôi xin hóa đơn được không ạ?",
+      "note": "Danh từ. Lưu ý phát âm: chữ 'p' CÂM, đọc là /rɪˈsiːt/. Cần khi muốn giấy chứng từ chuyến đi."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could you take me to [địa điểm], please?",
+      "use": "Nói cho tài xế biết bạn muốn đến đâu một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you take me to the airport, please?",
+        "Could you take me to this address, please?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Đây là câu cơ bản nhất để báo điểm đến. Đừng quên 'please' cho thân thiện.",
+      "altOf": "telling-destination"
+    },
+    {
+      "pattern": "I'd like to go to [địa điểm].",
+      "use": "Nói điểm đến một cách đơn giản, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to go to the train station.",
+        "I'd like to go to City Center, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', nghe lịch sự hơn 'I want to' (hơi cộc). Mẫu rất an toàn để nói nơi muốn đến.",
+      "altOf": "telling-destination"
+    },
+    {
+      "pattern": "How much is the fare to [địa điểm]?",
+      "use": "Hỏi giá tiền của chuyến đi.",
+      "register": "neutral",
+      "examples": [
+        "How much is the fare to the city center?",
+        "How much is it to the airport?"
+      ],
+      "explanationVi": "'How much...?' để hỏi giá. Có thể nói gọn 'How much is it to...?'. Nên hỏi giá trước khi đi với taxi truyền thống."
+    },
+    {
+      "pattern": "How long does it take to get to [địa điểm]?",
+      "use": "Hỏi đi mất bao lâu thời gian.",
+      "register": "neutral",
+      "examples": [
+        "How long does it take to get to the hotel?",
+        "How long will it take if the traffic is heavy?"
+      ],
+      "explanationVi": "'How long does it take...?' = mất bao lâu. 'get to' = đến nơi. Câu chuẩn để hỏi thời gian di chuyển."
+    },
+    {
+      "pattern": "Could you [động từ], please?",
+      "use": "Đề nghị tài xế làm một việc gì đó (rẽ, dừng, đi nhanh hơn).",
+      "register": "neutral",
+      "examples": [
+        "Could you turn left here, please?",
+        "Could you stop at the next corner, please?"
+      ],
+      "explanationVi": "Mẫu yêu cầu lịch sự cho mọi tình huống trên xe. Thêm 'please' để nghe nhã nhặn hơn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Can you drop me off at [địa điểm]?",
+      "use": "Yêu cầu tài xế thả bạn xuống ở một chỗ cụ thể.",
+      "register": "casual",
+      "examples": [
+        "Can you drop me off at the corner?",
+        "Can you drop me off right here, please?"
+      ],
+      "explanationVi": "'drop me off' = thả tôi xuống. Đời thường, thân thiện. Dùng khi muốn xuống ở điểm chính xác.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi muốn sửa lại địa điểm hoặc đổi ý mà không cộc lốc.", "example": "Actually, could you take me to the other entrance?" },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you accept card payment?" },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nói mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.", "example": "Just drop me off here, please." },
+    { "term": "around", "ipa": "/əˈraʊnd/", "vi": "khoảng, tầm (con số)", "when": "Khi nói giá hoặc thời gian ước chừng.", "example": "It will cost around ten dollars." },
+    { "term": "right here", "ipa": "/raɪt hɪər/", "vi": "ngay đây, đúng chỗ này", "when": "Khi muốn xuống xe đúng vị trí mình đang chỉ.", "example": "You can stop right here, thank you." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa đặt một chuyến xe công nghệ và tài xế vừa tới đón. Bạn lên xe, nói điểm đến, hỏi giá và thời gian, rồi xử lý một chút kẹt xe trước khi xuống.",
+    "lines": [
+      {
+        "speaker": "Tài xế",
+        "text": "Hello! Are you the passenger who booked a ride to the city center?",
+        "ipa": "/həˈləʊ ɑːr juː ðə ˈpæs.ɪn.dʒər huː bʊkt ə raɪd tə ðə ˈsɪt.i ˈsen.tər/",
+        "vi": "Xin chào! Anh/chị có phải là hành khách đã đặt chuyến đi tới trung tâm thành phố không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, that's me. Could you take me to ____, please? I'm in a hurry because I have a meeting soon.",
+        "ipa": "/jes ðæts miː kʊd juː teɪk miː tuː pliːz aɪm ɪn ə ˈhʌr.i bɪˈkɔːz aɪ hæv ə ˈmiː.tɪŋ suːn/",
+        "vi": "Vâng, là tôi đây. Anh đưa tôi tới ____ được không ạ? Tôi đang vội vì sắp có một cuộc họp.",
+        "blanks": [
+          { "type": "personal", "hint": "Điểm đến của bạn. Ví dụ: 'the train station', 'this address'." }
+        ]
+      },
+      {
+        "speaker": "Tài xế",
+        "text": "No problem. The traffic is quite heavy now, but I know a shortcut ____ is usually much faster.",
+        "ipa": "/nəʊ ˈprɒb.ləm ðə ˈtræf.ɪk ɪz kwaɪt ˈhev.i naʊ bʌt aɪ nəʊ ə ˈʃɔːt.kʌt wɪtʃ ɪz ˈjuː.ʒu.ə.li mʌtʃ ˈfɑːs.tər/",
+        "vi": "Không vấn đề gì. Giờ xe cộ khá đông, nhưng tôi biết một đường tắt ____ thường nhanh hơn nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'a shortcut' (vật) để nối mệnh đề mô tả. Nếu là người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great, thank you. By the way, how much ____ the fare to the city center?",
+        "ipa": "/ðæt saʊndz ɡreɪt θæŋk juː baɪ ðə weɪ haʊ mʌtʃ ɪz ðə feər tə ðə ˈsɪt.i ˈsen.tər/",
+        "vi": "Nghe hay đấy, cảm ơn anh. Tiện thể, tiền cước đến trung tâm thành phố ____ bao nhiêu ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "is", "explanationVi": "'How much IS the fare?' — dùng 'is' vì 'the fare' (tiền cước) là số ít. Mẫu câu hỏi giá: 'How much is the fare to...?'." }
+        ]
+      },
+      {
+        "speaker": "Tài xế",
+        "text": "It's around twelve dollars, although it may be a little more if the traffic gets worse.",
+        "ipa": "/ɪts əˈraʊnd twelv ˈdɒl.əz ɔːlˈðəʊ ɪt meɪ biː ə ˈlɪt.əl mɔːr ɪf ðə ˈtræf.ɪk ɡets wɜːs/",
+        "vi": "Khoảng mười hai đô, mặc dù có thể nhỉnh hơn một chút nếu xe cộ đông hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's fine. Could you ____ left at the next traffic light? My office is just around the corner.",
+        "ipa": "/ðæts faɪn kʊd juː tɜːn left ət ðə nekst ˈtræf.ɪk laɪt maɪ ˈɒf.ɪs ɪz dʒʌst əˈraʊnd ðə ˈkɔː.nər/",
+        "vi": "Vậy ổn rồi. Anh ____ trái ở đèn giao thông kế tiếp được không? Văn phòng tôi ngay góc đường thôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "turn", "explanationVi": "Dùng động từ 'turn' (rẽ) sau 'Could you'. Sau 'Could you' luôn là động từ nguyên thể: 'Could you turn left?'." }
+        ]
+      },
+      {
+        "speaker": "Tài xế",
+        "text": "Sure. Here we are. Despite the heavy traffic, we arrived quite quickly, didn't we?",
+        "ipa": "/ʃʊər hɪər wiː ɑːr dɪˈspaɪt ðə ˈhev.i ˈtræf.ɪk wiː əˈraɪvd kwaɪt ˈkwɪk.li ˈdɪd.ənt wiː/",
+        "vi": "Chắc chắn rồi. Tới nơi rồi đây. Dù xe cộ đông, chúng ta đến khá nhanh đấy chứ nhỉ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, much faster than I expected! Can you drop me off ____ here? And can I have a receipt, please?",
+        "ipa": "/jes mʌtʃ ˈfɑːs.tər ðæn aɪ ɪkˈspek.tɪd kæn juː drɒp miː ɒf raɪt hɪər ænd kæn aɪ hæv ə rɪˈsiːt pliːz/",
+        "vi": "Vâng, nhanh hơn tôi tưởng nhiều! Anh thả tôi xuống ____ đây được không? Và cho tôi xin hóa đơn nữa nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "right", "explanationVi": "'right here' = ngay đây, đúng chỗ này. 'right' đứng trước 'here' để nhấn mạnh vị trí chính xác bạn muốn xuống." }
+        ]
+      },
+      {
+        "speaker": "Tài xế",
+        "text": "Of course. Here is your receipt. Have a great day, and good luck with your meeting!",
+        "ipa": "/ɒv kɔːs hɪər ɪz jɔːr rɪˈsiːt hæv ə ɡreɪt deɪ ænd ɡʊd lʌk wɪð jɔːr ˈmiː.tɪŋ/",
+        "vi": "Tất nhiên rồi. Hóa đơn của anh/chị đây. Chúc một ngày tốt lành, và may mắn với cuộc họp nhé!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Với xe công nghệ (Grab, Uber, Bolt...), giá đã hiện sẵn trong app nên thường không cần mặc cả; còn taxi truyền thống thì nên hỏi giá hoặc yêu cầu bật đồng hồ (meter).",
+    "Ở nhiều nước phương Tây, tip cho tài xế taxi khoảng 10-15% là thông lệ lịch sự, dù không bắt buộc với xe công nghệ đã trả qua app.",
+    "Nói rõ điểm đón (pick-up) và điểm trả (drop-off) giúp chuyến đi suôn sẻ; nếu chỗ khó tìm, hãy gọi điện hoặc nhắn cho tài xế trong app.",
+    "Ở Anh và một số nước, khách thường ngồi ghế sau taxi; còn xe công nghệ thì ngồi đâu cũng được tùy ý."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want go to...' (sai). Phải có 'to': 'I want TO go to...' hoặc lịch sự hơn là 'I'd like to go to...'.",
+    "Dùng 'traffic' như danh từ đếm được: KHÔNG nói 'a traffic' hay 'many traffics'. Nói 'a lot of traffic' hoặc 'a traffic jam'.",
+    "Phát âm sai 'receipt': chữ 'p' CÂM, đọc là /rɪˈsiːt/, không đọc thành 'rì-xép'.",
+    "Đề nghị trống không kiểu 'Turn left!'. Nên bọc bằng 'Could you turn left, please?' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi taxi như thật.",
+    "prompt": "Hãy đóng vai một tài xế taxi hoặc xe công nghệ nói tiếng Anh. Tôi là hành khách vừa lên xe. Hãy bắt đầu bằng cách chào tôi và hỏi tôi muốn đi đâu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một tài xế thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ kẹt xe, đi nhầm đường, hỏi cách thanh toán) để tôi tập xử lý. Nói chậm rãi, thân thiện, dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi giá tiền và thời gian đi, rồi yêu cầu tôi chỉ đường bằng tiếng Anh.' để luyện thêm.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được điểm đến bằng 'Could you take me to...?' mà không nhìn gợi ý.",
+    "Tôi hỏi được giá tiền và thời gian đi của chuyến xe.",
+    "Tôi đề nghị lịch sự được cho tài xế (rẽ, dừng, thả xuống) bằng 'Could you...?'."
+  ]
+}

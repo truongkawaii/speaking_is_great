@@ -1,0 +1,533 @@
+{
+  "id": "discussing-news",
+  "category": "opinions",
+  "title": "Bàn về tin tức",
+  "titleEn": "Discussing the News",
+  "level": "B2",
+  "functions": [
+    "opinions",
+    "agreeing",
+    "small-talk",
+    "describing"
+  ],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về một tin tức bằng câu dài, có lập luận",
+    "Đồng ý hoặc phản đối lịch sự, có dẫn chứng",
+    "Tóm tắt nội dung một bản tin một cách mạch lạc",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, mệnh đề quan hệ) khi tranh luận",
+    "Nhận xét về độ tin cậy của nguồn tin và tránh tin giả"
+  ],
+  "vocabulary": [
+    {
+      "term": "headline",
+      "ipa": "/ˈhed.laɪn/",
+      "vi": "tiêu đề tin (danh từ)",
+      "register": "neutral",
+      "example": "The headline caught my attention as soon as I opened the app.",
+      "exampleVi": "Cái tiêu đề đập ngay vào mắt tôi khi vừa mở ứng dụng.",
+      "note": "Danh từ. Là dòng tít lớn của một bản tin. 'Make the headlines' = trở thành tin nổi bật.",
+      "synonyms": [
+        {
+          "term": "title",
+          "ipa": "/ˈtaɪ.təl/",
+          "register": "neutral",
+          "nuanceVi": "Chung chung hơn, dùng cho sách/phim/bài viết. 'Headline' đặc trưng cho báo chí, tin tức."
+        },
+        {
+          "term": "caption",
+          "ipa": "/ˈkæp.ʃən/",
+          "register": "neutral",
+          "nuanceVi": "Là dòng chú thích dưới ảnh, không phải tít chính của bài. Đừng nhầm với headline."
+        }
+      ]
+    },
+    {
+      "term": "coverage",
+      "ipa": "/ˈkʌv.ər.ɪdʒ/",
+      "vi": "việc đưa tin / sự phủ sóng của báo chí (danh từ)",
+      "register": "neutral",
+      "example": "The election received extensive coverage across every channel.",
+      "exampleVi": "Cuộc bầu cử được đưa tin rầm rộ trên mọi kênh.",
+      "note": "Danh từ không đếm được. 'Media coverage' = mức độ báo chí đưa tin về một sự kiện.",
+      "synonyms": [
+        {
+          "term": "reporting",
+          "ipa": "/rɪˈpɔː.tɪŋ/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn vào hành động tường thuật của phóng viên. 'Coverage' nhấn vào tổng thể mức độ đưa tin."
+        }
+      ]
+    },
+    {
+      "term": "source",
+      "ipa": "/sɔːs/",
+      "vi": "nguồn tin (danh từ)",
+      "register": "neutral",
+      "example": "You should always check whether the source is reliable.",
+      "exampleVi": "Bạn nên luôn kiểm tra xem nguồn tin có đáng tin không.",
+      "note": "Danh từ. 'A reliable source' = nguồn đáng tin; 'an anonymous source' = nguồn giấu tên.",
+      "synonyms": [
+        {
+          "term": "outlet",
+          "ipa": "/ˈaʊt.let/",
+          "register": "neutral",
+          "nuanceVi": "Chỉ một cơ quan/kênh truyền thông (báo, đài). 'Source' rộng hơn, gồm cả người cung cấp tin."
+        }
+      ]
+    },
+    {
+      "term": "biased",
+      "ipa": "/ˈbaɪ.əst/",
+      "vi": "thiên vị, một chiều (tính từ)",
+      "register": "neutral",
+      "example": "Honestly, that article felt rather biased against small businesses.",
+      "exampleVi": "Thành thật mà nói, bài báo đó nghe có vẻ khá thiên vị, chống lại doanh nghiệp nhỏ.",
+      "note": "Tính từ. 'Biased towards/against' = thiên về / chống lại. Trái nghĩa: unbiased, objective.",
+      "synonyms": [
+        {
+          "term": "one-sided",
+          "ipa": "/ˌwʌnˈsaɪ.dɪd/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'chỉ trình bày một phía của câu chuyện'. Gần nghĩa, dễ hình dung hơn 'biased'."
+        },
+        {
+          "term": "partial",
+          "ipa": "/ˈpɑː.ʃəl/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nghĩa 'thiên vị một bên'. Trái nghĩa 'impartial'. Hay gặp trong văn viết."
+        },
+        {
+          "term": "slanted",
+          "ipa": "/ˈslɑːn.tɪd/",
+          "register": "casual",
+          "nuanceVi": "Đời thường hơn, hàm ý tin được 'bẻ lái' theo hướng có lợi cho ai đó."
+        }
+      ]
+    },
+    {
+      "term": "reliable",
+      "ipa": "/rɪˈlaɪ.ə.bəl/",
+      "vi": "đáng tin cậy (tính từ)",
+      "register": "neutral",
+      "example": "I only follow a few reliable news outlets these days.",
+      "exampleVi": "Dạo này tôi chỉ theo dõi vài kênh tin đáng tin cậy thôi.",
+      "note": "Tính từ. Dùng cho nguồn tin, người, thiết bị. Trái nghĩa: unreliable.",
+      "synonyms": [
+        {
+          "term": "credible",
+          "ipa": "/ˈkred.ə.bəl/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'đáng tin vì có cơ sở, có bằng chứng'. Trang trọng hơn, hay đi với 'source/evidence'."
+        },
+        {
+          "term": "trustworthy",
+          "ipa": "/ˈtrʌstˌwɜː.ði/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn 'xứng đáng để mình đặt niềm tin'. Thiên về cảm nhận con người hơn một chút."
+        }
+      ]
+    },
+    {
+      "term": "controversial",
+      "ipa": "/ˌkɒn.trəˈvɜː.ʃəl/",
+      "vi": "gây tranh cãi (tính từ)",
+      "register": "neutral",
+      "example": "It's a controversial topic which always divides opinion.",
+      "exampleVi": "Đó là một chủ đề gây tranh cãi, luôn chia rẽ ý kiến.",
+      "note": "Tính từ. Bẫy phát âm: trọng âm rơi vào âm thứ ba 'ver'. Hay đi với topic/issue/decision.",
+      "synonyms": [
+        {
+          "term": "divisive",
+          "ipa": "/dɪˈvaɪ.sɪv/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'gây chia rẽ giữa các nhóm người'. Hơi nặng hơn 'controversial'."
+        }
+      ]
+    },
+    {
+      "term": "to exaggerate",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "vi": "phóng đại, thổi phồng (động từ)",
+      "register": "neutral",
+      "example": "Some tabloids tend to exaggerate every minor incident.",
+      "exampleVi": "Một số báo lá cải có xu hướng thổi phồng mọi sự cố nhỏ.",
+      "note": "Động từ. Bẫy phát âm: có /ɡz/ ở giữa. Danh từ: exaggeration.",
+      "synonyms": [
+        {
+          "term": "to overstate",
+          "ipa": "/ˌəʊ.vəˈsteɪt/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nghĩa 'nói quá mức thực tế'. Thường dùng cho con số/mức độ nghiêm trọng."
+        },
+        {
+          "term": "to blow out of proportion",
+          "ipa": "/bləʊ aʊt əv prəˈpɔː.ʃən/",
+          "register": "casual",
+          "nuanceVi": "Thành ngữ đời thường: 'làm to chuyện'. Rất tự nhiên khi nói chuyện thân mật."
+        }
+      ]
+    },
+    {
+      "term": "to spread",
+      "ipa": "/spred/",
+      "vi": "lan truyền, phát tán (động từ)",
+      "register": "neutral",
+      "example": "Fake news can spread incredibly fast on social media.",
+      "exampleVi": "Tin giả có thể lan truyền nhanh đến mức khó tin trên mạng xã hội.",
+      "note": "Động từ bất quy tắc: spread - spread - spread (giữ nguyên). Đi với rumours/news/information.",
+      "synonyms": [
+        {
+          "term": "to circulate",
+          "ipa": "/ˈsɜː.kjə.leɪt/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, nhấn 'lưu hành rộng rãi trong một cộng đồng'. Hay dùng cho tin đồn, tài liệu."
+        },
+        {
+          "term": "to go viral",
+          "ipa": "/ɡəʊ ˈvaɪə.rəl/",
+          "register": "casual",
+          "nuanceVi": "Đời thường: 'lan truyền chóng mặt trên mạng'. Chỉ dùng cho nội dung mạng xã hội."
+        }
+      ]
+    },
+    {
+      "term": "to keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "vi": "theo dõi, cập nhật kịp (cụm động từ)",
+      "register": "neutral",
+      "example": "It's hard to keep up with the news when you're this busy.",
+      "exampleVi": "Khó mà theo kịp tin tức khi bận đến thế này.",
+      "note": "Cụm động từ, luôn đi với 'with'. Nghĩa 'không bị tụt lại, cập nhật kịp thời'.",
+      "synonyms": [
+        {
+          "term": "to stay informed",
+          "ipa": "/steɪ ɪnˈfɔːmd/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng hơn, nhấn 'giữ cho mình luôn nắm thông tin'. Hay dùng trong văn cảnh nghiêm túc."
+        },
+        {
+          "term": "to follow",
+          "ipa": "/ˈfɒl.əʊ/",
+          "register": "neutral",
+          "nuanceVi": "Đơn giản, nghĩa 'theo dõi một chủ đề/kênh'. Nhẹ nhàng, dễ dùng nhất."
+        }
+      ]
+    },
+    {
+      "term": "frankly",
+      "ipa": "/ˈfræŋk.li/",
+      "vi": "thẳng thắn mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Frankly, I think the media overreacted to the whole thing.",
+      "exampleVi": "Thẳng thắn mà nói, tôi nghĩ truyền thông đã phản ứng thái quá với cả vụ việc.",
+      "note": "Trạng từ, đặt đầu câu để dẫn vào một ý kiến thẳng thắn, đôi khi hơi gay gắt.",
+      "synonyms": [
+        {
+          "term": "honestly",
+          "ipa": "/ˈɒn.ɪst.li/",
+          "register": "neutral",
+          "nuanceVi": "Gần như y hệt, nhẹ nhàng và phổ biến hơn một chút trong hội thoại đời thường."
+        },
+        {
+          "term": "to be fair",
+          "ipa": "/tə biː feə/",
+          "register": "casual",
+          "nuanceVi": "Dẫn vào ý kiến công bằng, thừa nhận một mặt nào đó của vấn đề. Sắc thái khác: cân bằng chứ không phải thẳng thắn."
+        }
+      ]
+    },
+    {
+      "term": "supposedly",
+      "ipa": "/səˈpəʊ.zɪd.li/",
+      "vi": "nghe đâu là, được cho là (trạng từ)",
+      "register": "neutral",
+      "example": "The factory is supposedly closing down, but nothing has been confirmed.",
+      "exampleVi": "Nghe đâu nhà máy sắp đóng cửa, nhưng chưa có gì được xác nhận.",
+      "note": "Trạng từ, dùng khi thông tin chưa chắc chắn, chỉ là điều người ta nói. Hàm ý hoài nghi nhẹ.",
+      "synonyms": [
+        {
+          "term": "allegedly",
+          "ipa": "/əˈledʒ.ɪd.li/",
+          "register": "formal",
+          "nuanceVi": "Trang trọng, hay dùng trong tin pháp lý cho cáo buộc CHƯA được chứng minh. Báo chí dùng rất nhiều."
+        },
+        {
+          "term": "reportedly",
+          "ipa": "/rɪˈpɔː.tɪd.li/",
+          "register": "formal",
+          "nuanceVi": "Nhấn 'theo như báo chí đưa tin'. Trung tính hơn 'allegedly', không hàm ý cáo buộc."
+        }
+      ]
+    },
+    {
+      "term": "current affairs",
+      "ipa": "/ˌkʌr.ənt əˈfeəz/",
+      "vi": "thời sự, các vấn đề thời sự (danh từ)",
+      "register": "formal",
+      "example": "She's very well informed about current affairs.",
+      "exampleVi": "Cô ấy nắm thời sự rất chắc.",
+      "note": "Danh từ số nhiều, chỉ các sự kiện chính trị - xã hội đang diễn ra. Trang trọng hơn 'the news'.",
+      "synonyms": [
+        {
+          "term": "current events",
+          "ipa": "/ˌkʌr.ənt ɪˈvents/",
+          "register": "neutral",
+          "nuanceVi": "Gần như đồng nghĩa, phổ biến trong tiếng Anh-Mỹ. 'Current affairs' nghiêng Anh-Anh và trang trọng hơn."
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "pattern": "Have you heard about [tin tức] ?",
+      "use": "Mở đầu cuộc trò chuyện bằng cách nêu một tin tức.",
+      "register": "neutral",
+      "examples": [
+        "Have you heard about the new policy on remote work?",
+        "Have you heard about what happened downtown last night?"
+      ],
+      "explanationVi": "Câu mở thoại tự nhiên nhất để dẫn vào một tin. 'heard about' nhấn vào việc nghe nói tới sự việc đó.",
+      "altOf": "raising-a-topic"
+    },
+    {
+      "pattern": "Did you see the news about [chủ đề] ?",
+      "use": "Mở đầu, hỏi xem người kia đã biết tin chưa.",
+      "register": "casual",
+      "examples": [
+        "Did you see the news about the floods in the south?",
+        "Did you catch the news about the interest rate cut?"
+      ],
+      "explanationVi": "Thân mật hơn 'Have you heard…?'. 'catch the news' (= kịp xem tin) là cách nói rất tự nhiên của người bản xứ.",
+      "altOf": "raising-a-topic"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề nêu quan điểm].",
+      "use": "Bày tỏ quan điểm cá nhân một cách thẳng thắn.",
+      "register": "neutral",
+      "examples": [
+        "If you ask me, the media blew the whole thing out of proportion.",
+        "If you ask me, both sides have a point."
+      ],
+      "explanationVi": "'If you ask me' (= theo tôi thì) dẫn vào ý kiến chủ quan, nghe tự nhiên và đỡ áp đặt hơn 'I think' lặp đi lặp lại.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "From my point of view, [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Nêu quan điểm có lập luận hai chiều, cân nhắc.",
+      "register": "formal",
+      "examples": [
+        "From my point of view, the coverage was exaggerated, although the issue itself is genuinely serious.",
+        "From my point of view, the decision was fair, although it wasn't popular."
+      ],
+      "explanationVi": "'From my point of view' trang trọng, hợp khi tranh luận nghiêm túc. 'although' thêm mệnh đề nhượng bộ cho thấy bạn nhìn vấn đề nhiều mặt — rất 'ăn điểm'.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I completely agree, especially because [lý do].",
+      "use": "Đồng tình và củng cố bằng lý do.",
+      "register": "neutral",
+      "examples": [
+        "I completely agree, especially because the source was so unreliable.",
+        "I couldn't agree more, especially given how fast it spread."
+      ],
+      "explanationVi": "Đồng ý mạnh kèm lý do nghe thuyết phục hơn chỉ gật đầu. 'I couldn't agree more' là cách nhấn mạnh đồng tình tối đa.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề phản biện].",
+      "use": "Phản đối lịch sự sau khi thừa nhận ý người kia.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I'm not entirely convinced the reporting was fair.",
+        "I see where you're coming from, but the numbers tell a different story."
+      ],
+      "explanationVi": "Công thức phản biện văn minh: thừa nhận trước ('I see your point'), rồi mới 'but…'. Tránh đối đầu thẳng, giữ cuộc trò chuyện nhã nhặn.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "You can't always believe what you read, especially when [mệnh đề].",
+      "use": "Bày tỏ thái độ hoài nghi với độ tin cậy của tin tức.",
+      "register": "neutral",
+      "examples": [
+        "You can't always believe what you read, especially when the source is anonymous.",
+        "You can't always trust headlines, especially when they're designed to shock."
+      ],
+      "explanationVi": "Mẫu rất hữu ích để nói về tin giả và độ tin cậy. 'especially when' nêu rõ trường hợp cần cảnh giác."
+    }
+  ],
+  "adverbsAndPhrases": [
+    {
+      "term": "apparently",
+      "ipa": "/əˈpær.ənt.li/",
+      "vi": "nghe nói là, hình như",
+      "when": "Dẫn lại thông tin nghe được nhưng chưa tự kiểm chứng.",
+      "example": "Apparently, the company is planning to lay off hundreds of staff."
+    },
+    {
+      "term": "to be honest",
+      "ipa": "/tə biː ˈɒn.ɪst/",
+      "vi": "thành thật mà nói",
+      "when": "Mở đầu một ý kiến chân thành, hơi cá nhân.",
+      "example": "To be honest, I stopped following that channel ages ago."
+    },
+    {
+      "term": "on the whole",
+      "ipa": "/ɒn ðə həʊl/",
+      "vi": "nhìn chung",
+      "when": "Đưa ra nhận định tổng quát sau khi cân nhắc.",
+      "example": "On the whole, I'd say the reporting this year has been more balanced."
+    },
+    {
+      "term": "in fact",
+      "ipa": "/ɪn fækt/",
+      "vi": "thực ra là",
+      "when": "Bổ sung hoặc đính chính bằng một sự thật mạnh hơn.",
+      "example": "In fact, several outlets later retracted the story."
+    },
+    {
+      "term": "more or less",
+      "ipa": "/mɔːr ɔː les/",
+      "vi": "ít nhiều, đại khái",
+      "when": "Diễn đạt sự đồng ý hoặc ước lượng không tuyệt đối.",
+      "example": "I more or less agree with the editorial, but not every point."
+    },
+    {
+      "term": "in my opinion",
+      "ipa": "/ɪn maɪ əˈpɪn.jən/",
+      "vi": "theo ý tôi",
+      "when": "Đánh dấu rõ đây là quan điểm cá nhân, an toàn và lịch sự.",
+      "example": "In my opinion, the headline was far too sensational."
+    }
+  ],
+  "dialogue": {
+    "context": "Hai đồng nghiệp, Mai và bạn, đang uống cà phê giờ nghỉ và bàn về một bản tin gây tranh cãi vừa xuất hiện sáng nay.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Have you heard about the story that's been all over the news this morning? Apparently, a major tech company is planning to cut thousands of jobs.",
+        "ipa": "/hæv juː hɜːd əˈbaʊt ðə ˈstɔː.ri ðæts biːn ɔːl ˈəʊ.vər ðə njuːz ðɪs ˈmɔː.nɪŋ əˈpær.ənt.li ə ˈmeɪ.dʒər tek ˈkʌm.pə.ni ɪz ˈplæn.ɪŋ tə kʌt ˈθaʊ.zəndz əv dʒɒbz/",
+        "vi": "Cậu nghe tin sáng nay tràn ngập khắp mặt báo chưa? Nghe đâu một hãng công nghệ lớn đang định cắt giảm hàng nghìn việc làm."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, I did, although I read about it on ____ that I don't fully trust. Honestly, I'd rather wait for confirmation before I believe ____ I see online.",
+        "ipa": "/jes aɪ dɪd ɔːlˈðəʊ aɪ red əˈbaʊt ɪt ɒn ... ðæt aɪ dəʊnt ˈfʊl.i trʌst ˈɒn.ɪst.li aɪd ˈrɑː.ðə weɪt fɔːr ˌkɒn.fəˈmeɪ.ʃən bɪˈfɔːr aɪ bɪˈliːv ... aɪ siː ɒnˈlaɪn/",
+        "vi": "Có chứ, dù tôi đọc nó trên ____ mà tôi không hoàn toàn tin tưởng. Thành thật mà nói, tôi thà chờ xác nhận rồi mới tin ____ mình thấy trên mạng.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một nguồn/kênh tin bạn hay đọc. Ví dụ: 'a website', 'a Facebook page', 'an app'."
+          },
+          {
+            "type": "knowledge",
+            "answer": "what",
+            "explanationVi": "Dùng đại từ quan hệ 'what' (= điều mà / những gì) khi không có danh từ đứng trước để bổ nghĩa: 'believe what I see' = tin những gì tôi thấy."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That's a fair point. The coverage does feel rather exaggerated, ____ the company itself has only confirmed a small restructuring so far.",
+        "ipa": "/ðæts ə feə pɔɪnt ðə ˈkʌv.ər.ɪdʒ dʌz fiːl ˈrɑː.ðər ɪɡˈzædʒ.ə.reɪ.tɪd ... ðə ˈkʌm.pə.ni ɪtˈself həz ˈəʊn.li kənˈfɜːmd ə smɔːl ˌriːˈstrʌk.tʃər.ɪŋ səʊ fɑː/",
+        "vi": "Ý hay đấy. Cách đưa tin quả thật nghe khá thổi phồng, ____ bản thân công ty mới chỉ xác nhận một đợt tái cơ cấu nhỏ cho tới giờ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "even though",
+            "explanationVi": "Dùng 'even though' (= mặc dù) để mở mệnh đề nhượng bộ, tương phản giữa 'tin thổi phồng' và 'thực tế công ty xác nhận'. Có thể thay bằng 'although'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. If you ask me, some outlets exaggerate every story ____ to attract more clicks, which is why I've become much more careful about what I share.",
+        "ipa": "/ɪɡˈzækt.li ɪf juː ɑːsk miː sʌm ˈaʊt.lets ɪɡˈzædʒ.ə.reɪt ˈev.ri ˈstɔː.ri ... tʊ əˈtrækt mɔː klɪks wɪtʃ ɪz waɪ aɪv bɪˈkʌm mʌtʃ mɔː ˈkeə.fəl əˈbaʊt wɒt aɪ ʃeə/",
+        "vi": "Chính xác. Theo tôi thì, vài kênh tin phóng đại mọi câu chuyện ____ để câu thêm lượt nhấp, đó là lý do tôi giờ cẩn thận hơn nhiều về những gì mình chia sẻ.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "in order",
+            "explanationVi": "Cụm 'in order to + V' (= nhằm để) diễn tả mục đích: phóng đại tin nhằm câu click. Trang trọng và rõ ràng hơn 'to' đơn lẻ."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I see your point, but I'm not entirely convinced that all media is unreliable. Some outlets, ____ the public broadcasters, still do genuinely thorough reporting.",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪm nɒt ɪnˈtaɪə.li kənˈvɪnst ðæt ɔːl ˈmiː.di.ə ɪz ˌʌn.rɪˈlaɪ.ə.bəl sʌm ˈaʊt.lets ... ðə ˈpʌb.lɪk ˈbrɔːd.kɑːs.təz stɪl duː ˈdʒen.ju.ɪn.li ˈθʌr.ə rɪˈpɔː.tɪŋ/",
+        "vi": "Tôi hiểu ý cậu, nhưng tôi không hoàn toàn tin rằng mọi cơ quan truyền thông đều không đáng tin. Một số kênh, ____ các đài công, vẫn thực sự đưa tin rất kỹ lưỡng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "such as",
+            "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'some outlets'. Nêu ví dụ cụ thể làm lập luận thuyết phục hơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I completely agree, especially because reliable reporting takes time and resources. Despite all the criticism, I'd say good journalism is ____ important than ever in an age of fake news.",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː ɪˈspeʃ.ə.li bɪˈkɒz rɪˈlaɪ.ə.bəl rɪˈpɔː.tɪŋ teɪks taɪm ænd rɪˈzɔːs.ɪz dɪˈspaɪt ɔːl ðə ˌkrɪt.ɪˈsɪz.əm aɪd seɪ ɡʊd ˈdʒɜː.nə.lɪz.əm ɪz ... ɪmˈpɔː.tənt ðæn ˈev.ər ɪn ən eɪdʒ əv feɪk njuːz/",
+        "vi": "Tôi hoàn toàn đồng ý, nhất là vì đưa tin đáng tin cậy thì tốn thời gian và nguồn lực. Bất chấp mọi lời chỉ trích, tôi cho rằng báo chí tử tế còn ____ quan trọng hơn bao giờ hết trong thời đại tin giả.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "more",
+            "explanationVi": "So sánh hơn với tính từ dài 'important' dùng 'more … than': 'more important than ever' = quan trọng hơn bao giờ hết. Không thêm '-er' vào tính từ dài."
+          }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Well put. By the way, how do you usually ____ up with the news yourself, given how busy you always are?",
+        "ipa": "/wel pʊt baɪ ðə weɪ haʊ duː juː ˈjuː.ʒu.ə.li ... ʌp wɪð ðə njuːz jɔːˈself ˈɡɪv.ən haʊ ˈbɪz.i juː ˈɔːl.weɪz ɑː/",
+        "vi": "Nói hay lắm. Mà tiện thể, bản thân cậu thường ____ tin tức bằng cách nào, khi mà lúc nào cũng bận thế?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "keep",
+            "explanationVi": "Cụm động từ 'keep up with' (= theo kịp, cập nhật kịp). Ở đây dạng nguyên thể sau 'do you usually'. Luôn đi với 'with'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I subscribe to ____, which sends me a short summary every morning. Not only does it save time, but it also helps me avoid the sensational headlines that I really can't stand.",
+        "ipa": "/aɪ səbˈskraɪb tʊ ... wɪtʃ sendz miː ə ʃɔːt ˈsʌm.ər.i ˈev.ri ˈmɔː.nɪŋ nɒt ˈəʊn.li dʌz ɪt seɪv taɪm bʌt ɪt ˈɔːl.səʊ helps miː əˈvɔɪd ðə senˈseɪ.ʃən.əl ˈhed.laɪnz ðæt aɪ ˈrɪə.li kɑːnt stænd/",
+        "vi": "Tôi đăng ký ____, nó gửi cho tôi một bản tóm tắt ngắn mỗi sáng. Nó không những tiết kiệm thời gian mà còn giúp tôi tránh được mấy cái tít giật gân mà tôi thực sự không chịu nổi.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một bản tin/dịch vụ bạn dùng. Ví dụ: 'a daily newsletter', 'a news app', 'a podcast'."
+          }
+        ]
+      }
+    ]
+  },
+  "culturalNotes": [
+    "Bàn về tin tức là kiểu trò chuyện (small talk) phổ biến ở nơi làm việc phương Tây, nhưng các chủ đề nhạy cảm như chính trị, tôn giáo nên tiếp cận thận trọng, đặc biệt với người mới quen.",
+    "Người bản xứ thường mở đầu bằng 'Did you see…?' hoặc 'Have you heard…?' rồi mới nêu quan điểm, thay vì lao ngay vào kết luận.",
+    "Khi không đồng ý, văn hóa giao tiếp lịch sự đề cao việc thừa nhận ý người kia trước ('I see your point, but…') thay vì phản bác thẳng thừng.",
+    "Tin giả (fake news) và thông tin sai lệch (misinformation) là chủ đề rất thời sự; thể hiện thái độ kiểm chứng nguồn tin được đánh giá là chín chắn, có hiểu biết."
+  ],
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it save…', không phải 'Not only it saves…'.",
+    "Nói 'a news' hoặc 'newses'. 'News' là danh từ KHÔNG đếm được, luôn dùng số ít: 'the news is…', 'a piece of news'.",
+    "Nhầm 'sensible' (biết điều, hợp lý) với 'sensational' (giật gân). Tít báo giật gân là 'sensational headlines'.",
+    "Lạm dụng 'I think' ở mọi câu. Hãy đổi sang 'If you ask me', 'From my point of view', 'In my opinion' cho phong phú."
+  ],
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về tin tức như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện với tôi về tin tức thời sự. Hãy bắt đầu bằng cách nêu một bản tin gần đây và hỏi quan điểm của tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên, đôi khi đồng ý đôi khi phản biện lịch sự để tôi tập bảo vệ ý kiến; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt; (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also', 'in order to' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng đưa ra một quan điểm trái chiều bất ngờ để tôi luyện phản biện. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng tin tức đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy chọn một chủ đề gây tranh cãi và liên tục phản biện mạnh để tôi tập giữ lập luận.'",
+      "Thêm: 'Hãy yêu cầu tôi tóm tắt một bản tin trong 30 giây rồi nhận xét độ mạch lạc.' khi bạn đã quen."
+    ]
+  },
+  "selfCheck": [
+    "Tôi mở thoại được về một tin tức và nêu quan điểm bằng câu dài có mệnh đề phụ.",
+    "Tôi đồng ý và phản đối lịch sự được, có kèm lý do hoặc ví dụ ('such as').",
+    "Tôi dùng đúng đảo ngữ 'Not only… but also' và mệnh đề quan hệ 'which/what' khi nói."
+  ]
+}

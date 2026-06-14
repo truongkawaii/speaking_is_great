@@ -1,0 +1,323 @@
+{
+  "id": "ordering-coffee",
+  "category": "daily-life",
+  "title": "Gọi cà phê / quán nước",
+  "titleEn": "Ordering Coffee",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "small-talk"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gọi đồ uống một cách lịch sự tại quầy",
+    "Chọn cỡ ly, loại sữa và độ ngọt theo ý mình",
+    "Hỏi giá, hỏi wifi và trả lời 'mang đi hay uống tại quán'",
+    "Dùng mẫu câu 'Could I...?' và 'I'd like...' tự nhiên khi gọi đồ"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to order",
+      "ipa": "/ˈɔːr.dər/",
+      "vi": "gọi món / đặt món (động từ)",
+      "register": "neutral",
+      "example": "I'd like to order a coffee, please.",
+      "exampleVi": "Tôi muốn gọi một ly cà phê.",
+      "note": "Động từ. Danh từ cũng là 'order' (đơn gọi món): 'Can I take your order?' = Tôi xin phép ghi món nhé?",
+      "synonyms": [
+        { "term": "to get", "ipa": "/ɡet/", "register": "casual", "nuanceVi": "Đời thường, rất phổ biến ở quán: 'Can I get a latte?'. Nhẹ và thân mật hơn 'order'." },
+        { "term": "to have", "ipa": "/hæv/", "register": "neutral", "nuanceVi": "Lịch sự, an toàn: 'I'll have a tea.'. Hợp khi gọi món ở quán hay nhà hàng." }
+      ]
+    },
+    {
+      "term": "beverage",
+      "ipa": "/ˈbev.ər.ɪdʒ/",
+      "vi": "đồ uống / thức uống (danh từ)",
+      "register": "formal",
+      "example": "They serve hot and cold beverages here.",
+      "exampleVi": "Ở đây họ phục vụ đồ uống nóng và lạnh.",
+      "note": "Danh từ, hơi trang trọng, hay thấy trên menu. Khi nói chuyện thường mọi người dùng 'drink'.",
+      "synonyms": [
+        { "term": "drink", "ipa": "/drɪŋk/", "register": "neutral", "nuanceVi": "Từ đời thường, ai cũng dùng: 'What drink would you like?'. Tự nhiên hơn 'beverage' khi nói chuyện." }
+      ]
+    },
+    {
+      "term": "size",
+      "ipa": "/saɪz/",
+      "vi": "cỡ (nhỏ, vừa, lớn) (danh từ)",
+      "register": "neutral",
+      "example": "What size would you like — small, medium, or large?",
+      "exampleVi": "Bạn muốn cỡ nào — nhỏ, vừa hay lớn?",
+      "note": "Danh từ. Một số quán dùng tên riêng (tall, grande...), nhưng 'small / medium / large' luôn hiểu được."
+    },
+    {
+      "term": "to add",
+      "ipa": "/æd/",
+      "vi": "thêm vào (động từ)",
+      "register": "neutral",
+      "example": "Could you add some milk, please?",
+      "exampleVi": "Bạn thêm chút sữa giúp mình nhé?",
+      "note": "Động từ: 'add something' (thêm gì đó), hoặc 'add something to something' (thêm X vào Y). Muốn 'không có' thì dùng 'without': 'a coffee without sugar'.",
+      "synonyms": [
+        { "term": "to put in", "ipa": "/pʊt ɪn/", "register": "casual", "nuanceVi": "Đời thường: 'Can you put in some ice?'. Nhẹ và thân mật hơn 'add'." }
+      ]
+    },
+    {
+      "term": "to take away",
+      "ipa": "/teɪk əˈweɪ/",
+      "vi": "mang đi (động từ)",
+      "register": "neutral",
+      "example": "I'd like a cappuccino to take away.",
+      "exampleVi": "Cho tôi một ly cappuccino mang đi.",
+      "note": "Cụm động từ (Anh-Anh). Người Mỹ thường nói 'to go'. Ngược lại là uống tại quán: 'for here' / 'eat in'.",
+      "synonyms": [
+        { "term": "to go", "ipa": "/tə ɡəʊ/", "register": "neutral", "nuanceVi": "Cách nói của người Mỹ: 'A latte to go, please.'. Cùng nghĩa với 'to take away' của người Anh." }
+      ]
+    },
+    {
+      "term": "refill",
+      "ipa": "/ˈriː.fɪl/",
+      "vi": "lần rót thêm (thường miễn phí) (danh từ)",
+      "register": "neutral",
+      "example": "Coffee refills are free here.",
+      "exampleVi": "Ở đây rót thêm cà phê miễn phí.",
+      "note": "Danh từ. Nhiều quán cho rót thêm cà phê lọc miễn phí. Động từ: 'to refill' (rót đầy lại)."
+    },
+    {
+      "term": "decaf",
+      "ipa": "/ˈdiː.kæf/",
+      "vi": "cà phê đã khử caffeine (danh từ / tính từ)",
+      "register": "casual",
+      "example": "Can I have a decaf, please? I don't want to stay up late.",
+      "exampleVi": "Cho tôi một ly khử caffeine nhé? Mình không muốn thức khuya.",
+      "note": "Viết tắt đời thường của 'decaffeinated'. Hợp cho buổi tối hoặc người nhạy với caffeine."
+    },
+    {
+      "term": "tasty",
+      "ipa": "/ˈteɪ.sti/",
+      "vi": "ngon (tính từ)",
+      "register": "casual",
+      "example": "This cake is really tasty!",
+      "exampleVi": "Cái bánh này ngon thật đấy!",
+      "note": "Tính từ, đời thường. Dùng khen đồ ăn/thức uống.",
+      "synonyms": [
+        { "term": "delicious", "ipa": "/dɪˈlɪʃ.əs/", "register": "neutral", "nuanceVi": "Khen mạnh hơn 'tasty', dùng được cả trong tình huống lịch sự: 'The coffee is delicious.'" },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất đời thường, đáng yêu, hay dùng nói chuyện thân mật hoặc với trẻ con." }
+      ]
+    },
+    {
+      "term": "strong",
+      "ipa": "/strɒŋ/",
+      "vi": "đậm (đối với cà phê/trà) (tính từ)",
+      "register": "neutral",
+      "example": "I like my coffee strong, with no sugar.",
+      "exampleVi": "Tôi thích cà phê đậm, không đường.",
+      "note": "Tính từ. Ngược lại là 'weak' (nhạt, loãng). Đừng nhầm 'strong coffee' (đậm) với 'big coffee'.",
+      "synonyms": [
+        { "term": "bold", "ipa": "/bəʊld/", "register": "neutral", "nuanceVi": "Hay thấy trên menu để tả cà phê đậm đà, nhiều hương vị; nghe 'sành' hơn 'strong' một chút." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "Could you make it quickly? I'm a bit late for work.",
+      "exampleVi": "Bạn làm nhanh giúp mình nhé? Mình hơi trễ giờ làm.",
+      "note": "Trạng từ. Lịch sự thì thêm 'please' hoặc 'a bit', tránh nghe như ra lệnh.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ, đời thường: 'Can you make it fast?'. Hơi cộc, nên thêm 'please'." },
+        { "term": "right away", "ipa": "/raɪt əˈweɪ/", "register": "neutral", "nuanceVi": "Nghĩa 'ngay lập tức'. Thường người phục vụ nói: 'I'll bring it right away.'" }
+      ]
+    },
+    {
+      "term": "please",
+      "ipa": "/pliːz/",
+      "vi": "làm ơn / vui lòng (trạng từ lịch sự)",
+      "register": "neutral",
+      "example": "A cup of tea, please.",
+      "exampleVi": "Cho tôi một tách trà nhé.",
+      "note": "Từ nhỏ nhưng cực quan trọng. Thêm 'please' vào cuối câu làm yêu cầu lịch sự hẳn lên."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Could I have [đồ uống], please?",
+      "use": "Gọi đồ uống một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I have a cappuccino, please?",
+        "Could I have a glass of orange juice, please?"
+      ],
+      "explanationVi": "'Could I have...?' là cách gọi món lịch sự và an toàn nhất. Đừng quên 'please' ở cuối câu cho nhã nhặn.",
+      "altOf": "ordering-drink"
+    },
+    {
+      "pattern": "I'd like [đồ uống], please.",
+      "use": "Nói rõ thứ mình muốn gọi, lịch sự và trung tính.",
+      "register": "neutral",
+      "examples": [
+        "I'd like a latte, please.",
+        "I'd like a hot chocolate, please."
+      ],
+      "explanationVi": "'I'd like' = 'I would like', lịch sự hơn hẳn 'I want' (nghe hơi cộc). Đây là mẫu câu xương sống khi gọi món.",
+      "altOf": "ordering-drink"
+    },
+    {
+      "pattern": "Can I get [đồ uống]?",
+      "use": "Gọi đồ uống theo kiểu thân mật, đời thường.",
+      "register": "casual",
+      "examples": [
+        "Can I get an iced coffee?",
+        "Can I get a small green tea?"
+      ],
+      "explanationVi": "'Can I get...?' rất phổ biến ở quán cà phê, nghe thoải mái. Hơi đời thường hơn 'Could I have...?'.",
+      "altOf": "ordering-drink"
+    },
+    {
+      "pattern": "Is it for here or to take away?",
+      "use": "Hỏi (hoặc trả lời) uống tại quán hay mang đi.",
+      "register": "neutral",
+      "examples": [
+        "Is it for here or to take away?",
+        "It's to take away, please."
+      ],
+      "explanationVi": "Câu nhân viên rất hay hỏi. 'for here' = uống tại quán, 'to take away' (Anh) / 'to go' (Mỹ) = mang đi."
+    },
+    {
+      "pattern": "How much is [danh từ]?",
+      "use": "Hỏi giá tiền.",
+      "register": "neutral",
+      "examples": [
+        "How much is a large latte?",
+        "How much is it altogether?"
+      ],
+      "explanationVi": "'How much is...?' để hỏi giá một món. Khi tính tổng nhiều món thì hỏi 'How much is it altogether?' (tất cả là bao nhiêu)."
+    },
+    {
+      "pattern": "Could you add [danh từ], please?",
+      "use": "Yêu cầu thêm sữa, đường, đá... lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you add some milk, please?",
+        "Could you add an extra shot, please?"
+      ],
+      "explanationVi": "Dùng để yêu cầu thêm gì đó. Muốn 'không có' thì nói 'without': 'a coffee without sugar' (cà phê không đường)."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi muốn sửa lại lựa chọn mà không cộc lốc.", "example": "Actually, can I have a large instead of a medium?" },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không đòi hỏi.", "example": "I'll just have a small black coffee, please." },
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ / hay là", "when": "Khi còn đang phân vân, chưa chắc chọn gì.", "example": "Maybe I'll try the iced tea today." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you have wifi here?" },
+    { "term": "thanks a lot", "ipa": "/θæŋks ə ˈlɒt/", "vi": "cảm ơn nhiều", "when": "Cảm ơn thân thiện sau khi được phục vụ.", "example": "Thanks a lot, have a nice day!" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vào một quán cà phê vào buổi sáng. Nhân viên pha chế (barista) chào và ghi món cho bạn.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning! Welcome. What can I get for you today?",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ ˈwel.kəm wɒt kæn aɪ ɡet fɔːr juː təˈdeɪ/",
+        "vi": "Chào buổi sáng! Hân hạnh đón bạn. Hôm nay bạn muốn dùng gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. Could I ____ a latte, please? It's a cold day, so I'd like something warm.",
+        "ipa": "/ɡʊd ˈmɔːr.nɪŋ kʊd aɪ ... ə ˈlɑː.teɪ pliːz ɪts ə kəʊld deɪ səʊ aɪd laɪk ˈsʌm.θɪŋ wɔːm/",
+        "vi": "Chào buổi sáng. Cho tôi một ly latte nhé? Hôm nay trời lạnh, nên tôi muốn món gì đó ấm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "have", "explanationVi": "Mẫu gọi món lịch sự: 'Could I HAVE...?'. Sau 'Could I' luôn là động từ nguyên thể không 'to'. Xem mẫu câu 'Could I have..., please?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Sure! What size would you like — small, medium, or ____? And is it for here or to take away?",
+        "ipa": "/ʃʊər wɒt saɪz wʊd juː laɪk smɔːl ˈmiː.di.əm ɔːr ... ænd ɪz ɪt fɔːr hɪər ɔːr tə teɪk əˈweɪ/",
+        "vi": "Được chứ! Bạn muốn cỡ nào — nhỏ, vừa hay ____? Và bạn uống tại quán hay mang đi ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "large", "explanationVi": "Ba cỡ cơ bản là 'small / medium / large' (nhỏ / vừa / lớn). 'large' là cỡ lớn nhất trong bộ này." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "A medium, please, and it's to ____ away. Could you add a little extra milk? I don't like it too strong.",
+        "ipa": "/ə ˈmiː.di.əm pliːz ænd ɪts tə ... əˈweɪ kʊd juː æd ə ˈlɪt.əl ˈek.strə mɪlk aɪ dəʊnt laɪk ɪt tuː strɒŋ/",
+        "vi": "Cho tôi cỡ vừa nhé, và tôi mang ____. Bạn thêm chút sữa giúp mình được không? Tôi không thích nó quá đậm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "take", "explanationVi": "Cụm 'to take away' nghĩa là 'mang đi' (Anh-Anh). Người Mỹ nói 'to go'. Đây là cách trả lời câu hỏi 'for here or to take away?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "No problem. Would you like anything to eat as well, such as a croissant or a slice of cake?",
+        "ipa": "/nəʊ ˈprɒb.ləm wʊd juː laɪk ˈen.i.θɪŋ tə iːt æz wel sʌtʃ æz ə ˈkwæs.ɒ̃ ɔːr ə slaɪs ɒv keɪk/",
+        "vi": "Không vấn đề gì. Bạn có muốn ăn gì kèm không, chẳng hạn như bánh sừng bò hay một miếng bánh ngọt?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. I'll have a croissant ____ it looks really tasty. By the way, how much is it ____?",
+        "ipa": "/jes pliːz aɪl hæv ə ˈkwæs.ɒ̃ ... ɪt lʊks ˈrɪə.li ˈteɪ.sti baɪ ðə weɪ haʊ mʌtʃ ɪz ɪt .../",
+        "vi": "Vâng. Cho tôi một cái bánh sừng bò ____ nó trông ngon thật. Tiện thể, tất cả ____ bao nhiêu tiền ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' (= bởi vì) để nêu lý do chọn món. Đây là liên từ chỉ nguyên nhân rất cơ bản ở cấp A2." },
+          { "type": "knowledge", "answer": "altogether", "explanationVi": "'altogether' = tất cả cộng lại. Hỏi 'How much is it altogether?' nghĩa là tổng tất cả các món là bao nhiêu." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "That's six dollars altogether. Although the cafe is busy this morning, your order will be ready quickly.",
+        "ipa": "/ðæts sɪks ˈdɒl.əz ˌɔːl.təˈɡeð.ər ɔːlˈðəʊ ðə ˈkæf.eɪ ɪz ˈbɪz.i ðɪs ˈmɔːr.nɪŋ jɔːr ˈɔːr.dər wɪl biː ˈred.i ˈkwɪk.li/",
+        "vi": "Tất cả là sáu đô. Mặc dù sáng nay quán đông, đơn của bạn sẽ sẵn sàng nhanh thôi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. Here's ten dollars. ____, do you have wifi here? I'd like to check my email while I wait.",
+        "ipa": "/ˈpɜː.fɪkt hɪəz ten ˈdɒl.əz ... duː juː hæv ˈwaɪ.faɪ hɪər aɪd laɪk tə tʃek maɪ ˈiː.meɪl waɪl aɪ weɪt/",
+        "vi": "Tuyệt. Đây là mười đô. ____, ở đây có wifi không ạ? Tôi muốn kiểm tra email trong lúc chờ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "By the way", "explanationVi": "'By the way' = tiện thể / nhân tiện, dùng để hỏi thêm một câu ngoài lề. Xem phần Trạng từ và cụm từ." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course! The wifi password is on your receipt. Here's your change, and enjoy your ____!",
+        "ipa": "/ɒv kɔːs ðə ˈwaɪ.faɪ ˈpɑːs.wɜːd ɪz ɒn jɔːr rɪˈsiːt hɪəz jɔːr tʃeɪndʒ ænd ɪnˈdʒɔɪ jɔːr .../",
+        "vi": "Tất nhiên rồi! Mật khẩu wifi nằm trên hóa đơn của bạn. Đây là tiền thối, và chúc bạn ngon miệng với ____ nhé!",
+        "blanks": [
+          { "type": "personal", "hint": "Món bạn vừa gọi. Ví dụ: 'latte', 'coffee'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, nhân viên thường hỏi 'for here or to take away?' (uống tại quán hay mang đi) — hãy chuẩn bị câu trả lời sẵn.",
+    "Nhiều quán dùng tên cỡ riêng (ví dụ tall / grande / venti ở Starbucks), nhưng nói 'small / medium / large' thì ở đâu cũng hiểu.",
+    "Tip (tiền boa) cho barista không bắt buộc, nhưng ở Mỹ nhiều người bỏ một ít tiền lẻ vào hũ tip để cảm ơn.",
+    "Nói 'please' và 'thank you' khi gọi đồ là rất quan trọng; thiếu chúng dễ bị xem là thô lỗ."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a coffee' nghe cộc. Người bản xứ dùng 'I'd like...' hoặc 'Could I have...?' cho lịch sự.",
+    "Quên 'please' ở cuối câu khi gọi món — chỉ một từ nhỏ nhưng làm câu lịch sự hẳn lên.",
+    "Nhầm 'strong coffee' (cà phê đậm) với 'big coffee'. Đậm/nhạt dùng strong/weak; to/nhỏ dùng large/small.",
+    "Quên mạo từ 'a': phải nói 'a latte', 'a croissant', không phải 'latte', 'croissant'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi đồ uống như thật.",
+    "prompt": "Hãy đóng vai một nhân viên pha chế (barista) nói tiếng Anh ở quán cà phê. Tôi là khách đến gọi đồ. Hãy bắt đầu bằng cách chào và hỏi tôi muốn dùng gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một barista thật (hỏi cỡ ly, uống tại quán hay mang đi, có ăn gì kèm không), (2) nếu tôi mắc lỗi ngữ pháp hoặc nói chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo một tình huống bất ngờ (ví dụ hết món tôi gọi, hoặc máy thẻ bị lỗi) để tôi tập xử lý. Hãy nói chậm rãi, thân thiện và dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm về loại sữa (sữa thường, sữa hạnh nhân, sữa yến mạch) để tôi tập chọn.'",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gọi được một đồ uống bằng 'Could I have...?' hoặc 'I'd like...' mà không nhìn gợi ý.",
+    "Tôi trả lời được câu 'for here or to take away?' và chọn được cỡ ly.",
+    "Tôi hỏi được giá tiền và hỏi wifi một cách lịch sự."
+  ]
+}

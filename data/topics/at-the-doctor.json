@@ -1,0 +1,328 @@
+{
+  "id": "at-the-doctor",
+  "category": "services",
+  "title": "Đi khám bệnh",
+  "titleEn": "At the Doctor",
+  "level": "B1",
+  "functions": ["describing", "asking-info", "requesting"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Mô tả triệu chứng của mình bằng câu rõ ràng, tự nhiên",
+    "Trả lời các câu hỏi của bác sĩ về thời gian, mức độ và tiền sử bệnh",
+    "Hỏi về cách dùng thuốc, đơn thuốc và lời khuyên chăm sóc",
+    "Dùng cấu trúc lịch sự để hỏi thêm và xin lời khuyên (such as, because, although)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "symptom",
+      "ipa": "/ˈsɪmp.təm/",
+      "vi": "triệu chứng (danh từ)",
+      "register": "neutral",
+      "example": "My main symptom is a sore throat that won't go away.",
+      "exampleVi": "Triệu chứng chính của tôi là đau họng mãi không khỏi.",
+      "note": "Danh từ. Là dấu hiệu cho thấy bạn bị bệnh (ho, sốt, đau...). Phát âm 'p' câm: /ˈsɪmp.təm/.",
+      "synonyms": [
+        { "term": "sign", "ipa": "/saɪn/", "register": "neutral", "nuanceVi": "Nhấn vào 'dấu hiệu bác sĩ quan sát thấy' (vd phát ban, sưng), trong khi 'symptom' là điều người bệnh tự cảm nhận. Trong y khoa hai từ hơi khác nhau." }
+      ]
+    },
+    {
+      "term": "to ache",
+      "ipa": "/eɪk/",
+      "vi": "đau âm ỉ, nhức (động từ)",
+      "register": "neutral",
+      "example": "My whole body aches and I feel weak.",
+      "exampleVi": "Toàn thân tôi nhức mỏi và thấy yếu.",
+      "note": "Động từ chỉ cơn đau âm ỉ kéo dài. Cũng là danh từ trong các từ ghép: headache, stomachache, toothache, backache.",
+      "synonyms": [
+        { "term": "to hurt", "ipa": "/hɜːrt/", "register": "neutral", "nuanceVi": "Phổ biến và đời thường hơn: 'My arm hurts.' Có thể chỉ đau nhói hoặc đau khi chạm, không chỉ đau âm ỉ như 'ache'." },
+        { "term": "to be sore", "ipa": "/sɔːr/", "register": "neutral", "nuanceVi": "Tính từ 'sore' chỉ chỗ đau rát/ê ẩm khi chạm hoặc cử động, vd 'a sore throat', 'sore muscles'." }
+      ]
+    },
+    {
+      "term": "dizzy",
+      "ipa": "/ˈdɪz.i/",
+      "vi": "chóng mặt, choáng váng (tính từ)",
+      "register": "neutral",
+      "example": "I feel dizzy whenever I stand up too quickly.",
+      "exampleVi": "Tôi thấy chóng mặt mỗi khi đứng dậy quá nhanh.",
+      "note": "Tính từ, đi với 'feel': 'I feel dizzy'. Đừng nói 'I am dizziness' (dizziness là danh từ).",
+      "synonyms": [
+        { "term": "lightheaded", "ipa": "/ˌlaɪtˈhed.ɪd/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'lâng lâng, nhẹ đầu như sắp ngất', nhẹ hơn 'dizzy' (xoay tròn). Thường do đói hoặc đứng dậy nhanh." },
+        { "term": "faint", "ipa": "/feɪnt/", "register": "neutral", "nuanceVi": "Tính từ chỉ cảm giác 'muốn xỉu, sắp ngất đến nơi'. Mạnh hơn dizzy; cũng là động từ 'to faint' = ngất xỉu." }
+      ]
+    },
+    {
+      "term": "prescription",
+      "ipa": "/prɪˈskrɪp.ʃən/",
+      "vi": "đơn thuốc (danh từ)",
+      "register": "neutral",
+      "example": "The doctor gave me a prescription for some antibiotics.",
+      "exampleVi": "Bác sĩ kê cho tôi đơn thuốc kháng sinh.",
+      "note": "Danh từ. Tờ giấy bác sĩ kê thuốc, mang ra hiệu thuốc (pharmacy) để mua. Động từ là 'to prescribe' (kê đơn).",
+      "synonyms": [
+        { "term": "medication", "ipa": "/ˌmed.ɪˈkeɪ.ʃən/", "register": "formal", "nuanceVi": "Chỉ bản thân THUỐC chữa bệnh, không phải tờ đơn. Trang trọng hơn 'medicine'. Đừng nhầm với 'prescription' (tờ đơn)." }
+      ]
+    },
+    {
+      "term": "to recover",
+      "ipa": "/rɪˈkʌv.ər/",
+      "vi": "hồi phục, khỏi bệnh (động từ)",
+      "register": "neutral",
+      "example": "It usually takes a week to recover from the flu.",
+      "exampleVi": "Thường mất một tuần để hồi phục sau khi bị cúm.",
+      "note": "Động từ, đi với 'from': 'recover from an illness'. Danh từ: recovery.",
+      "synonyms": [
+        { "term": "to get better", "ipa": "/ɡet ˈbet.ər/", "register": "casual", "nuanceVi": "Đời thường, dễ nói nhất: 'I hope you get better soon.' Nhẹ nhàng, thân mật hơn 'recover'." },
+        { "term": "to heal", "ipa": "/hiːl/", "register": "neutral", "nuanceVi": "Thiên về 'lành lại' của vết thương, vết mổ, xương gãy hơn là khỏi cảm cúm. Vd 'The wound is healing well.'" }
+      ]
+    },
+    {
+      "term": "appointment",
+      "ipa": "/əˈpɔɪnt.mənt/",
+      "vi": "cuộc hẹn (với bác sĩ) (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to make an appointment with Doctor Lee.",
+      "exampleVi": "Tôi muốn đặt lịch hẹn với bác sĩ Lee.",
+      "note": "Danh từ. Đi với 'make an appointment' (đặt hẹn). Khác 'a date' (cuộc hẹn hò) hay 'a meeting' (họp)."
+    },
+    {
+      "term": "to feel",
+      "ipa": "/fiːl/",
+      "vi": "cảm thấy (động từ)",
+      "register": "neutral",
+      "example": "I've been feeling really tired for the past few days.",
+      "exampleVi": "Mấy ngày qua tôi thấy rất mệt.",
+      "note": "Động từ cốt lõi để mô tả tình trạng: 'I feel + tính từ' (dizzy, sick, tired). Lưu ý 'feel sick' = thấy buồn nôn/khó chịu trong người.",
+      "synonyms": [
+        { "term": "to experience", "ipa": "/ɪkˈspɪə.ri.əns/", "register": "formal", "nuanceVi": "Trang trọng, dùng khi mô tả triệu chứng với bác sĩ: 'I've been experiencing chest pain.' Nghe chuyên nghiệp hơn 'feel'." }
+      ]
+    },
+    {
+      "term": "painkiller",
+      "ipa": "/ˈpeɪnˌkɪl.ər/",
+      "vi": "thuốc giảm đau (danh từ)",
+      "register": "neutral",
+      "example": "You can take a painkiller if the headache gets worse.",
+      "exampleVi": "Bạn có thể uống thuốc giảm đau nếu cơn đau đầu nặng hơn.",
+      "note": "Danh từ ghép. Loại thuốc thông dụng như paracetamol, ibuprofen.",
+      "synonyms": [
+        { "term": "pain reliever", "ipa": "/ˈpeɪn rɪˌliː.vər/", "register": "neutral", "nuanceVi": "Nghĩa y hệt 'painkiller', nghe trung tính/y khoa hơn một chút. Hay thấy trên bao bì thuốc của Mỹ." }
+      ]
+    },
+    {
+      "term": "severe",
+      "ipa": "/sɪˈvɪər/",
+      "vi": "nghiêm trọng, dữ dội (tính từ)",
+      "register": "formal",
+      "example": "The pain is quite severe, especially at night.",
+      "exampleVi": "Cơn đau khá dữ dội, nhất là vào ban đêm.",
+      "note": "Tính từ mô tả mức độ nặng của triệu chứng/cơn đau. Trái nghĩa: mild (nhẹ).",
+      "synonyms": [
+        { "term": "intense", "ipa": "/ɪnˈtens/", "register": "neutral", "nuanceVi": "Nhấn vào 'cường độ mạnh, gắt' của cơn đau ngay lúc đó. Gần nghĩa nhưng thiên về độ mạnh hơn là độ nguy hiểm." },
+        { "term": "serious", "ipa": "/ˈsɪə.ri.əs/", "register": "neutral", "nuanceVi": "Nhấn 'đáng lo ngại, có thể nguy hiểm' (mức độ bệnh), trong khi 'severe' thiên về cường độ triệu chứng. 'a serious illness' = bệnh nặng đáng lo." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "một cách từ từ, dần dần (trạng từ)",
+      "register": "neutral",
+      "example": "The pain started gradually and got worse over two days.",
+      "exampleVi": "Cơn đau bắt đầu từ từ rồi nặng dần trong hai ngày.",
+      "note": "Trạng từ, mô tả triệu chứng diễn tiến chậm. Trái nghĩa: suddenly (đột ngột).",
+      "synonyms": [
+        { "term": "slowly", "ipa": "/ˈsləʊ.li/", "register": "neutral", "nuanceVi": "Đơn giản hơn, chỉ 'chậm'. 'gradually' nhấn thêm ý 'theo từng bước, tăng/giảm dần', tinh tế hơn khi kể diễn tiến bệnh." },
+        { "term": "steadily", "ipa": "/ˈsted.ɪ.li/", "register": "neutral", "nuanceVi": "Nhấn 'đều đặn, ổn định không ngắt quãng'. Vd 'The fever rose steadily.'" }
+      ]
+    },
+    {
+      "term": "to take (medicine)",
+      "ipa": "/teɪk/",
+      "vi": "uống / dùng (thuốc) (động từ)",
+      "register": "neutral",
+      "example": "Take this medicine twice a day after meals.",
+      "exampleVi": "Uống thuốc này ngày hai lần sau bữa ăn.",
+      "note": "Lưu ý: với thuốc dùng 'take', KHÔNG dùng 'drink' hay 'eat'. 'drink medicine' là lỗi người Việt rất hay mắc."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I've been [V-ing] for [khoảng thời gian].",
+      "use": "Mô tả triệu chứng đã kéo dài bao lâu (thì hiện tại hoàn thành tiếp diễn).",
+      "register": "neutral",
+      "examples": [
+        "I've been having headaches for about a week.",
+        "I've been feeling dizzy since yesterday morning."
+      ],
+      "explanationVi": "Thì hiện tại hoàn thành tiếp diễn diễn tả việc bắt đầu trong quá khứ và còn kéo dài đến hiện tại — rất hợp để kể triệu chứng. Dùng 'for' + khoảng thời gian, 'since' + mốc thời gian."
+    },
+    {
+      "pattern": "I think I might have [tên bệnh / triệu chứng].",
+      "use": "Phỏng đoán bệnh của mình một cách dè dặt, không khẳng định chắc chắn.",
+      "register": "neutral",
+      "examples": [
+        "I think I might have the flu.",
+        "I think I might have caught a cold."
+      ],
+      "explanationVi": "'might' làm câu nghe khiêm tốn, không tự chẩn đoán chắc nịch (việc đó để bác sĩ). Nghe lịch sự và đúng mực hơn 'I have the flu'.",
+      "altOf": "describing-illness"
+    },
+    {
+      "pattern": "I keep [V-ing] / I can't stop [V-ing].",
+      "use": "Mô tả triệu chứng lặp đi lặp lại, không kiểm soát được.",
+      "register": "neutral",
+      "examples": [
+        "I keep coughing, especially at night.",
+        "I can't stop sneezing."
+      ],
+      "explanationVi": "'keep + V-ing' = cứ liên tục làm gì; 'can't stop + V-ing' = không ngừng được. Cả hai diễn tả triệu chứng dai dẳng, lặp lại.",
+      "altOf": "describing-illness"
+    },
+    {
+      "pattern": "Could you tell me how to [V]?",
+      "use": "Hỏi cách làm điều gì đó (cách dùng thuốc, cách chăm sóc) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you tell me how to take this medicine?",
+        "Could you tell me how often I should take it?"
+      ],
+      "explanationVi": "'Could you tell me + how/when/where...' là cách hỏi gián tiếp, lịch sự hơn hỏi trực tiếp. Lưu ý trật tự từ: sau 'how to' là động từ nguyên thể.",
+      "altOf": "asking-advice"
+    },
+    {
+      "pattern": "Is there anything I should [V / avoid]?",
+      "use": "Xin lời khuyên về việc nên/không nên làm khi đang bệnh.",
+      "register": "neutral",
+      "examples": [
+        "Is there anything I should avoid eating?",
+        "Is there anything I should be careful about?"
+      ],
+      "explanationVi": "Mẫu câu xin lời khuyên rộng, để bác sĩ tự bổ sung điều cần lưu ý. 'should' = nên; 'avoid + V-ing' = tránh làm gì.",
+      "altOf": "asking-advice"
+    },
+    {
+      "pattern": "How long will it take to [V]?",
+      "use": "Hỏi thời gian cần để khỏi bệnh hoặc để thuốc có tác dụng.",
+      "register": "neutral",
+      "examples": [
+        "How long will it take to recover?",
+        "How long will it take for the medicine to work?"
+      ],
+      "explanationVi": "'How long will it take to + V' là mẫu hỏi thời lượng chuẩn. Đáp lại thường là 'It'll take about a week.'"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính hoặc bổ sung một chi tiết quan trọng về triệu chứng.", "example": "Actually, the pain is worse in the morning than at night." },
+    { "term": "especially", "ipa": "/ɪˈspeʃ.əl.i/", "vi": "đặc biệt là, nhất là", "when": "Khi muốn nhấn vào một trường hợp/thời điểm cụ thể triệu chứng nặng hơn.", "example": "My throat hurts, especially when I swallow." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn nói thẳng về cảm giác hoặc thói quen của mình.", "example": "Honestly, I haven't been sleeping well lately." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Khi dẫn vào một chi tiết tích cực (không bị nặng, đã đỡ hơn).", "example": "Fortunately, I don't have a fever anymore." },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Khi muốn nhấn sự gấp gáp, mong được khám/khỏi sớm.", "example": "I'd like to see the doctor as soon as possible." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn cảm thấy không khỏe nên đến phòng khám. Bác sĩ hỏi về triệu chứng, thời gian và tiền sử, rồi tư vấn cách điều trị.",
+    "lines": [
+      {
+        "speaker": "Bác sĩ",
+        "text": "Good morning. Please have a seat and tell me what seems to be the problem today.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ pliːz hæv ə siːt ænd tel miː wɒt siːmz tə biː ðə ˈprɒb.ləm təˈdeɪ/",
+        "vi": "Chào buổi sáng. Mời bạn ngồi và cho tôi biết hôm nay bạn gặp vấn đề gì nào."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Doctor. I haven't been feeling well lately. I've been having a bad headache and a sore throat for about ____ days, especially in the morning.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈdɒk.tər aɪ ˈhæv.ənt biːn ˈfiː.lɪŋ wel ˈleɪt.li aɪv biːn ˈhæv.ɪŋ ə bæd ˈhed.eɪk ænd ə sɔːr θrəʊt fɔːr əˈbaʊt ... deɪz ɪˈspeʃ.əl.i ɪn ðə ˈmɔː.nɪŋ/",
+        "vi": "Chào buổi sáng, bác sĩ. Dạo này tôi thấy không khỏe. Tôi bị đau đầu nặng và đau họng khoảng ____ ngày nay, nhất là vào buổi sáng.",
+        "blanks": [
+          { "type": "personal", "hint": "Số ngày bạn có triệu chứng. Ví dụ: 'three'." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "I see. Have you had any other symptoms, such as a fever, a cough, or perhaps difficulty sleeping?",
+        "ipa": "/aɪ siː hæv juː hæd ˈen.i ˈʌð.ər ˈsɪmp.təmz sʌtʃ æz ə ˈfiː.vər ə kɒf ɔːr pəˈhæps ˈdɪf.ɪ.kəl.ti ˈsliː.pɪŋ/",
+        "vi": "Tôi hiểu rồi. Bạn có triệu chứng nào khác không, chẳng hạn như sốt, ho, hoặc có lẽ là khó ngủ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, I keep coughing at night, and ____ I don't have a high fever, I do feel dizzy and tired most of the time. Honestly, I think I might have caught a cold.",
+        "ipa": "/jes aɪ kiːp ˈkɒf.ɪŋ ət naɪt ænd ... aɪ dəʊnt hæv ə haɪ ˈfiː.vər aɪ duː fiːl ˈdɪz.i ænd ˈtaɪəd məʊst ɒv ðə taɪm ˈɒn.ɪst.li aɪ θɪŋk aɪ maɪt hæv kɔːt ə kəʊld/",
+        "vi": "Vâng, ban đêm tôi cứ ho mãi, và ____ tôi không sốt cao, tôi vẫn thấy chóng mặt và mệt gần như cả ngày. Thành thật mà nói, tôi nghĩ có lẽ mình bị cảm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) để mở mệnh đề nhượng bộ: tuy không sốt cao nhưng vẫn mệt và chóng mặt. Có thể thay bằng 'even though'." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "Thank you for explaining that. Did the symptoms appear suddenly, or did they develop ____ over the past few days?",
+        "ipa": "/θæŋk juː fɔːr ɪkˈspleɪ.nɪŋ ðæt dɪd ðə ˈsɪmp.təmz əˈpɪər ˈsʌd.ən.li ɔːr dɪd ðeɪ dɪˈvel.əp ... ˈəʊ.vər ðə pɑːst fjuː deɪz/",
+        "vi": "Cảm ơn bạn đã giải thích. Các triệu chứng xuất hiện đột ngột, hay diễn tiến ____ trong vài ngày qua?",
+        "blanks": [
+          { "type": "knowledge", "answer": "gradually", "explanationVi": "Dùng trạng từ 'gradually' (= từ từ, dần dần) đối lập với 'suddenly' (đột ngột) ở vế trước. Mô tả bệnh diễn tiến chậm." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "They developed gradually. The headache wasn't too bad at first, but it has become more ____ over time, which is why I decided to come in today.",
+        "ipa": "/ðeɪ dɪˈvel.əpt ˈɡrædʒ.u.ə.li ðə ˈhed.eɪk ˈwɒz.ənt tuː bæd æt fɜːst bʌt ɪt hæz bɪˈkʌm mɔːr ... ˈəʊ.vər taɪm wɪtʃ ɪz waɪ aɪ dɪˈsaɪ.dɪd tə kʌm ɪn təˈdeɪ/",
+        "vi": "Chúng diễn tiến từ từ. Lúc đầu cơn đau đầu không tệ lắm, nhưng theo thời gian nó trở nên ____ hơn, đó là lý do hôm nay tôi đến khám.",
+        "blanks": [
+          { "type": "knowledge", "answer": "severe", "explanationVi": "Dùng tính từ 'severe' (= nghiêm trọng, dữ dội) để mô tả mức độ đau tăng lên. 'become more severe' = trở nên nặng hơn. Lưu ý 'which is why' là mệnh đề quan hệ nối cả ý đứng trước." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "It sounds like a common viral infection. I'll write you a prescription, and you should rest and drink plenty of water in order to recover faster.",
+        "ipa": "/ɪt saʊndz laɪk ə ˈkɒm.ən ˈvaɪ.rəl ɪnˈfek.ʃən aɪl raɪt juː ə prɪˈskrɪp.ʃən ænd juː ʃʊd rest ænd drɪŋk ˈplen.ti ɒv ˈwɔː.tər ɪn ˈɔː.dər tə rɪˈkʌv.ər ˈfɑːs.tər/",
+        "vi": "Nghe có vẻ là một nhiễm virus thông thường. Tôi sẽ kê đơn cho bạn, và bạn nên nghỉ ngơi cùng uống nhiều nước để hồi phục nhanh hơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you, Doctor. Could you tell me how to ____ this medicine? And is there anything I should avoid while I'm recovering?",
+        "ipa": "/θæŋk juː ˈdɒk.tər kʊd juː tel miː haʊ tə ... ðɪs ˈmed.ɪ.sən ænd ɪz ðeər ˈen.i.θɪŋ aɪ ʃʊd əˈvɔɪd waɪl aɪm rɪˈkʌv.ə.rɪŋ/",
+        "vi": "Cảm ơn bác sĩ. Bác sĩ có thể cho tôi biết cách ____ thuốc này không? Và có điều gì tôi nên tránh trong lúc hồi phục không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "take", "explanationVi": "Với thuốc dùng động từ 'take' (uống/dùng thuốc), KHÔNG dùng 'drink' hay 'eat'. Đây là lỗi người Việt rất hay mắc. Xem mẫu câu 'Could you tell me how to + V?'." }
+        ]
+      },
+      {
+        "speaker": "Bác sĩ",
+        "text": "Of course. Take one tablet twice a day after meals, and avoid cold drinks. If you don't feel better within a week, please come back and see me again.",
+        "ipa": "/ɒv kɔːs teɪk wʌn ˈtæb.lət twaɪs ə deɪ ˈɑːf.tər miːlz ænd əˈvɔɪd kəʊld drɪŋks ɪf juː dəʊnt fiːl ˈbet.ər wɪˈðɪn ə wiːk pliːz kʌm bæk ænd siː miː əˈɡen/",
+        "vi": "Tất nhiên rồi. Uống một viên ngày hai lần sau bữa ăn, và tránh đồ uống lạnh. Nếu trong vòng một tuần bạn chưa thấy đỡ, hãy quay lại gặp tôi nhé."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, bạn thường phải đặt lịch hẹn (make an appointment) trước khi gặp bác sĩ gia đình (GP); chỉ trường hợp khẩn cấp mới đến thẳng phòng cấp cứu (A&E / ER).",
+    "Bác sĩ thường hỏi rất kỹ về thời gian, mức độ và tiền sử bệnh. Trả lời cụ thể (bao nhiêu ngày, đau lúc nào, mức độ 1-10) giúp họ chẩn đoán chính xác hơn.",
+    "Nhiều loại thuốc cần đơn (prescription) mới mua được ở hiệu thuốc (pharmacy / chemist's). Thuốc không cần đơn gọi là 'over-the-counter' (OTC).",
+    "Nói 'I feel sick' ở Anh thường có nghĩa là 'buồn nôn', không phải 'ốm chung chung'. Muốn nói ốm hãy dùng 'I feel ill' hoặc 'I'm not feeling well'."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'drink medicine' hoặc 'eat medicine' — sai. Đúng là 'TAKE medicine' (uống/dùng thuốc).",
+    "Nói 'I am dizziness' — sai từ loại. Phải là 'I feel dizzy' (dizzy là tính từ).",
+    "Lẫn 'sick' và 'ill': ở Anh 'sick' thường nghĩa là buồn nôn. Để nói chung chung là 'không khỏe' dùng 'I'm not feeling well'.",
+    "Quên mạo từ và giới từ trong các cụm cố định: 'recover FROM the flu', 'a prescription FOR antibiotics', 'a headache' (có mạo từ 'a')."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi khám bệnh như thật.",
+    "prompt": "Hãy đóng vai một bác sĩ nói tiếng Anh. Tôi là bệnh nhân đến khám vì thấy không khỏe. Hãy bắt đầu bằng cách chào và hỏi tôi có vấn đề gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một bác sĩ thật và hỏi tiếp về thời gian, mức độ, tiền sử bệnh, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên (ví dụ 'drink medicine') thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi mô tả triệu chứng bằng câu dài có 'such as', 'because', 'although'. Cuối buổi, hãy đưa ra chẩn đoán giả định, lời khuyên, và tổng kết 3 lỗi tôi hay mắc. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi những câu khó hơn về tiền sử bệnh gia đình và dị ứng thuốc.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai một tình huống cấp cứu để tôi tập mô tả triệu chứng thật nhanh và rõ.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được triệu chứng và thời gian bị bệnh bằng câu dài, không nhìn gợi ý.",
+    "Tôi dùng đúng 'take medicine' và 'feel dizzy/sick' khi nói.",
+    "Tôi hỏi được cách dùng thuốc và xin lời khuyên bằng mẫu 'Could you tell me how to...?' hoặc 'Is there anything I should...?'."
+  ]
+}

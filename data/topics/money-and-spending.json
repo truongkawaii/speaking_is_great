@@ -1,0 +1,361 @@
+{
+  "id": "money-and-spending",
+  "category": "opinions",
+  "title": "Tiền bạc & chi tiêu",
+  "titleEn": "Money and Spending",
+  "level": "B2",
+  "functions": ["opinions", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về tiền bạc, tiết kiệm và chi tiêu bằng câu dài, mạch lạc",
+    "Đồng tình hoặc phản biện ý kiến của người khác một cách lịch sự, có lập luận",
+    "So sánh thói quen chi tiêu và đưa ra lời khuyên tài chính",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, in order to, mệnh đề quan hệ) tự nhiên khi tranh luận",
+    "Sử dụng từ vựng tài chính chính xác về sắc thái (thrifty vs stingy, save vs invest)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "budget",
+      "ipa": "/ˈbʌdʒ.ɪt/",
+      "vi": "ngân sách / kế hoạch chi tiêu (danh từ); lập ngân sách (động từ)",
+      "register": "neutral",
+      "example": "I set a monthly budget so that I don't overspend.",
+      "exampleVi": "Tôi đặt ngân sách hàng tháng để không tiêu quá tay.",
+      "note": "Vừa là danh từ vừa là động từ. Cụm hay dùng: 'on a tight budget' (eo hẹp tiền), 'stick to a budget' (bám sát ngân sách).",
+      "synonyms": [
+        { "term": "spending plan", "ipa": "/ˈspen.dɪŋ plæn/", "register": "neutral", "nuanceVi": "Cách diễn đạt mộc mạc, dễ hiểu hơn 'budget'; nhấn vào việc lên kế hoạch tiêu tiền." },
+        { "term": "allowance", "ipa": "/əˈlaʊ.əns/", "register": "neutral", "nuanceVi": "Nhấn vào khoản tiền được cấp/cho phép tiêu trong một giai đoạn (vd tiền tiêu vặt cho con cái)." }
+      ]
+    },
+    {
+      "term": "expense",
+      "ipa": "/ɪkˈspens/",
+      "vi": "khoản chi, chi phí (danh từ)",
+      "register": "neutral",
+      "example": "Rent is by far my biggest monthly expense.",
+      "exampleVi": "Tiền thuê nhà cho đến nay là khoản chi lớn nhất hằng tháng của tôi.",
+      "note": "Danh từ, thường dùng số nhiều 'expenses' khi nói tổng các khoản chi. Trái nghĩa: income (thu nhập).",
+      "synonyms": [
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính; nhấn 'cái giá phải trả cho một thứ cụ thể' (the cost of living)." },
+        { "term": "outgoings", "ipa": "/ˈaʊtˌɡəʊ.ɪŋz/", "register": "formal", "nuanceVi": "Anh-Anh, trang trọng; chỉ toàn bộ tiền chi ra đều đặn (đối lập với income). Luôn dùng số nhiều." },
+        { "term": "expenditure", "ipa": "/ɪkˈspen.dɪ.tʃər/", "register": "formal", "nuanceVi": "Rất trang trọng/học thuật, hay gặp trong báo cáo tài chính; chỉ tổng số tiền đã chi." }
+      ]
+    },
+    {
+      "term": "to afford",
+      "ipa": "/əˈfɔːd/",
+      "vi": "đủ khả năng chi trả (động từ)",
+      "register": "neutral",
+      "example": "I can't really afford to eat out every day.",
+      "exampleVi": "Tôi thật sự không đủ tiền để ăn ngoài mỗi ngày.",
+      "note": "Động từ, gần như luôn đi với 'can/could/be able to'. Theo sau là danh từ hoặc 'to + V'. Hiếm khi dùng ở câu khẳng định trơn.",
+      "synonyms": [
+        { "term": "to manage", "ipa": "/ˈmæn.ɪdʒ/", "register": "neutral", "nuanceVi": "Nhấn 'xoay xở được dù khó', không chỉ riêng về tiền: 'We can just about manage.'" }
+      ]
+    },
+    {
+      "term": "to save up",
+      "ipa": "/seɪv ʌp/",
+      "vi": "để dành, tích cóp tiền (động từ)",
+      "register": "neutral",
+      "example": "I'm saving up for a deposit on a flat.",
+      "exampleVi": "Tôi đang để dành tiền để đặt cọc một căn hộ.",
+      "note": "Cụm động từ, đi với 'for + mục tiêu'. 'save' không có 'up' cũng được nhưng 'save up' nhấn quá trình tích cóp dần.",
+      "synonyms": [
+        { "term": "to put aside", "ipa": "/pʊt əˈsaɪd/", "register": "neutral", "nuanceVi": "Nhấn 'để riêng một khoản ra', đều đặn trích lại tiền: 'I put aside $200 each month.'" },
+        { "term": "to set aside", "ipa": "/set əˈsaɪd/", "register": "neutral", "nuanceVi": "Gần như y hệt 'put aside', hơi trang trọng hơn một chút." },
+        { "term": "to stash away", "ipa": "/stæʃ əˈweɪ/", "register": "casual", "nuanceVi": "Đời thường, hơi vui; nhấn 'giấu/cất tiền đi để dành', có chút sắc thái kín đáo." }
+      ]
+    },
+    {
+      "term": "to invest",
+      "ipa": "/ɪnˈvest/",
+      "vi": "đầu tư (động từ)",
+      "register": "neutral",
+      "example": "Instead of leaving money in the bank, some people prefer to invest in stocks.",
+      "exampleVi": "Thay vì để tiền trong ngân hàng, một số người thích đầu tư vào cổ phiếu.",
+      "note": "Động từ, đi với 'in + something'. Khác 'save' (giữ an toàn) ở chỗ 'invest' chấp nhận rủi ro để sinh lời.",
+      "synonyms": [
+        { "term": "to put money into", "ipa": "/pʊt ˈmʌn.i ˈɪn.tuː/", "register": "neutral", "nuanceVi": "Cách nói đời thường, dễ hiểu cho 'invest in': 'He put a lot of money into property.'" }
+      ]
+    },
+    {
+      "term": "thrifty",
+      "ipa": "/ˈθrɪf.ti/",
+      "vi": "tằn tiện, biết tiết kiệm (tính từ, NGHĨA TÍCH CỰC)",
+      "register": "neutral",
+      "example": "She's very thrifty and always looks for the best deals.",
+      "exampleVi": "Cô ấy rất biết tiết kiệm và luôn tìm ưu đãi tốt nhất.",
+      "note": "Tính từ mang nghĩa KHEN: tiêu tiền khôn ngoan, không lãng phí. Đừng nhầm với 'stingy' (keo kiệt, chê bai).",
+      "synonyms": [
+        { "term": "frugal", "ipa": "/ˈfruː.ɡəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'sống giản dị, chi tiêu tối thiểu'; vẫn là lời khen." },
+        { "term": "economical", "ipa": "/ˌiː.kəˈnɒm.ɪ.kəl/", "register": "neutral", "nuanceVi": "Thường tả đồ vật/cách làm 'tiết kiệm chi phí' (an economical car), cũng tả người dùng tiền khéo." },
+        { "term": "stingy", "ipa": "/ˈstɪn.dʒi/", "register": "casual", "nuanceVi": "CHÊ BAI: keo kiệt, bủn xỉn quá mức. Tuyệt đối không khen ai bằng từ này." }
+      ]
+    },
+    {
+      "term": "extravagant",
+      "ipa": "/ɪkˈstræv.ə.ɡənt/",
+      "vi": "hoang phí, xa xỉ (tính từ)",
+      "register": "neutral",
+      "example": "Buying a sports car was an extravagant decision.",
+      "exampleVi": "Mua một chiếc xe thể thao là một quyết định xa xỉ.",
+      "note": "Tính từ, nhấn 'tiêu nhiều hơn mức cần thiết một cách phô trương'. Hơi tiêu cực.",
+      "synonyms": [
+        { "term": "wasteful", "ipa": "/ˈweɪst.fəl/", "register": "neutral", "nuanceVi": "Nhấn 'lãng phí, vứt tiền/đồ qua cửa sổ'; tiêu cực rõ, không kèm sắc thái phô trương như extravagant." },
+        { "term": "lavish", "ipa": "/ˈlæv.ɪʃ/", "register": "formal", "nuanceVi": "Nhấn 'xa hoa, hào phóng, sang trọng'; đôi khi mang nghĩa tích cực (a lavish party)." }
+      ]
+    },
+    {
+      "term": "worthwhile",
+      "ipa": "/ˌwɜːθˈwaɪl/",
+      "vi": "đáng giá, xứng đáng công sức/tiền bạc (tính từ)",
+      "register": "neutral",
+      "example": "Spending more on a good mattress is worthwhile in the long run.",
+      "exampleVi": "Chi nhiều hơn cho một tấm nệm tốt là xứng đáng về lâu dài.",
+      "note": "Tính từ. Nhấn 'bỏ tiền/công ra mà thu lại giá trị tương xứng'. Hay đi với 'in the long run'.",
+      "synonyms": [
+        { "term": "value for money", "ipa": "/ˈvæl.juː fɔː ˈmʌn.i/", "register": "neutral", "nuanceVi": "Cụm cố định, nghĩa 'đáng đồng tiền bát gạo': 'This phone is great value for money.'" },
+        { "term": "rewarding", "ipa": "/rɪˈwɔː.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'mang lại sự thỏa mãn/lợi ích', không chỉ về tiền mà cả tinh thần." }
+      ]
+    },
+    {
+      "term": "to overspend",
+      "ipa": "/ˌəʊ.vəˈspend/",
+      "vi": "tiêu quá mức, vung tay quá trán (động từ)",
+      "register": "neutral",
+      "example": "It's easy to overspend when you shop online.",
+      "exampleVi": "Rất dễ tiêu quá tay khi mua sắm trực tuyến.",
+      "note": "Động từ, tiền tố 'over-' nghĩa 'quá mức'. Trái nghĩa: to cut back (cắt giảm chi tiêu).",
+      "synonyms": [
+        { "term": "to splash out", "ipa": "/splæʃ aʊt/", "register": "casual", "nuanceVi": "Anh-Anh, đời thường; nhấn 'mạnh tay chi cho thứ xa xỉ', thường vui vẻ không tiêu cực: 'We splashed out on a holiday.'" },
+        { "term": "to blow money", "ipa": "/bləʊ ˈmʌn.i/", "register": "casual", "nuanceVi": "Rất đời thường; nhấn 'nướng/đốt sạch tiền một cách phí phạm': 'He blew his bonus in a week.'" }
+      ]
+    },
+    {
+      "term": "impulsively",
+      "ipa": "/ɪmˈpʌl.sɪv.li/",
+      "vi": "một cách bốc đồng, không suy nghĩ (trạng từ)",
+      "register": "neutral",
+      "example": "I tend to buy things impulsively when I'm stressed.",
+      "exampleVi": "Tôi hay mua đồ bốc đồng khi căng thẳng.",
+      "note": "Trạng từ. Tính từ là 'impulsive'. Danh từ liên quan: 'an impulse buy' (món mua bốc đồng).",
+      "synonyms": [
+        { "term": "rashly", "ipa": "/ˈræʃ.li/", "register": "neutral", "nuanceVi": "Nhấn 'vội vàng, thiếu cân nhắc hậu quả'; hơi tiêu cực hơn impulsively." },
+        { "term": "on a whim", "ipa": "/ɒn ə wɪm/", "register": "casual", "nuanceVi": "Cụm cố định, nghĩa 'theo ý thích nhất thời': 'I bought it on a whim.'" }
+      ]
+    },
+    {
+      "term": "financially",
+      "ipa": "/faɪˈnæn.ʃəl.i/",
+      "vi": "về mặt tài chính (trạng từ)",
+      "register": "neutral",
+      "example": "Owning a home makes me feel financially secure.",
+      "exampleVi": "Sở hữu nhà khiến tôi cảm thấy an toàn về tài chính.",
+      "note": "Trạng từ. Hay đi với 'financially secure / stable / independent'. Tính từ là 'financial'.",
+      "synonyms": [
+        { "term": "monetarily", "ipa": "/ˈmʌn.ɪ.tər.əl.i/", "register": "formal", "nuanceVi": "Rất trang trọng/học thuật, ít dùng trong nói thường; nhấn riêng khía cạnh tiền tệ." }
+      ]
+    },
+    {
+      "term": "to be worth it",
+      "ipa": "/tə biː wɜːθ ɪt/",
+      "vi": "đáng (số tiền/công sức bỏ ra) (cụm động từ)",
+      "register": "casual",
+      "example": "The tickets were expensive, but honestly the concert was worth it.",
+      "exampleVi": "Vé khá đắt, nhưng thành thật mà nói buổi hòa nhạc rất đáng.",
+      "note": "Cụm rất thông dụng khi đánh giá một khoản chi. 'worth' đi với danh từ hoặc V-ing: 'It's worth buying.'",
+      "synonyms": [
+        { "term": "to pay off", "ipa": "/peɪ ɒf/", "register": "neutral", "nuanceVi": "Nhấn 'một quyết định/khoản đầu tư cuối cùng mang lại kết quả tốt': 'The investment really paid off.'" }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Bày tỏ quan điểm cá nhân kèm một sự thừa nhận, nghe cân nhắc và thuyết phục.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, saving is essential, although I admit that you also need to enjoy life."
+      ],
+      "explanationVi": "'In my opinion' mở đầu quan điểm; 'although' thêm vế nhượng bộ khiến lập luận nghe khách quan, không cực đoan. Rất hợp khi tranh luận ở trình độ B2.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "Personally, I'd argue that [mệnh đề].",
+      "use": "Nêu quan điểm cá nhân một cách mềm mỏng nhưng có lập luận.",
+      "register": "neutral",
+      "examples": [
+        "Personally, I'd argue that experiences are a better use of money than possessions."
+      ],
+      "explanationVi": "'I'd argue that' (= I would argue) nghe có chính kiến nhưng vẫn nhã, để ngỏ cho người khác phản biện. Lịch sự hơn 'I think' đơn thuần.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I see your point, but [mệnh đề phản biện].",
+      "use": "Phản biện lịch sự sau khi thừa nhận ý đúng của đối phương.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I still believe that buying a home is worthwhile in the long run."
+      ],
+      "explanationVi": "Công thức 'thừa nhận trước, phản biện sau' rất được ưa chuộng trong văn hóa tranh luận phương Tây — vừa giữ hòa khí vừa giữ lập trường.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "That's a fair point, however [mệnh đề].",
+      "use": "Đồng tình một phần rồi đưa góc nhìn khác.",
+      "register": "neutral",
+      "examples": [
+        "That's a fair point, however not everyone can afford to invest in the stock market."
+      ],
+      "explanationVi": "'however' là liên từ chuyển ý trang trọng (= tuy nhiên). Nhớ dùng dấu phẩy/chấm phẩy trước nó. Nghe chững chạc hơn 'but'.",
+      "altOf": "polite-disagreement"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], I always try to [V].",
+      "use": "Nhấn mạnh việc duy trì thói quen tốt bất chấp khó khăn.",
+      "register": "neutral",
+      "examples": [
+        "Despite having a low income, I always try to put aside a little each month."
+      ],
+      "explanationVi": "'Despite' theo sau là DANH TỪ hoặc V-ing (không phải mệnh đề) — đây là bẫy ngữ pháp TOEIC kinh điển. Dùng để khoe sự kiên trì."
+    },
+    {
+      "pattern": "I'd recommend [V-ing] in order to [V].",
+      "use": "Đưa lời khuyên tài chính kèm mục đích.",
+      "register": "neutral",
+      "examples": [
+        "I'd recommend tracking your expenses in order to avoid overspending."
+      ],
+      "explanationVi": "'recommend + V-ing' (không phải 'to V'); 'in order to + V' nêu mục đích rõ ràng. Bộ đôi này giúp lời khuyên nghe chuyên nghiệp."
+    },
+    {
+      "pattern": "Not only does it save money, but it also [V].",
+      "use": "Nhấn mạnh một lựa chọn có nhiều hơn một lợi ích.",
+      "register": "formal",
+      "examples": [
+        "Not only does cooking at home save money, but it also keeps you healthier."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì đảo trợ động từ ('does it') lên trước chủ ngữ. Cấu trúc nâng cao, gây ấn tượng — nhưng phải đảo đúng kẻo sai.",
+      "altOf": "giving-opinion"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thật, đôi khi hơi thẳng thắn về tiền bạc.", "example": "Honestly, I think I waste too much money on coffee." },
+    { "term": "generally speaking", "ipa": "/ˈdʒen.ər.əl.i ˈspiː.kɪŋ/", "vi": "nói chung thì", "when": "Đưa ra nhận định mang tính khái quát, tránh nói tuyệt đối.", "example": "Generally speaking, younger people spend more on experiences." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "công bằng mà nói", "when": "Thừa nhận một khía cạnh hợp lý của ý kiến đối phương.", "example": "To be fair, saving is much harder when prices keep rising." },
+    { "term": "at the end of the day", "ipa": "/ət ði end əv ðə deɪ/", "vi": "suy cho cùng thì", "when": "Chốt lại một quan điểm sau khi cân nhắc các mặt.", "example": "At the end of the day, money is just a tool for living well." },
+    { "term": "to some extent", "ipa": "/tə sʌm ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý một phần, không đồng ý hoàn toàn.", "example": "I agree with you to some extent, but it depends on your priorities." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Minh và Lan, đang ngồi cà phê và tranh luận về quan điểm tiền bạc: nên tiết kiệm để mua nhà hay tiêu tiền cho trải nghiệm. Đây là cuộc trò chuyện bày tỏ quan điểm, đồng tình và phản biện lịch sự.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "I've been thinking a lot about money lately. Honestly, do you believe it's smarter to ____ up for a house, or to spend on experiences while we're still young?",
+        "ipa": "/aɪv biːn ˈθɪŋ.kɪŋ ə lɒt əˈbaʊt ˈmʌn.i ˈleɪt.li ˈɒn.ɪst.li duː juː bɪˈliːv ɪts ˈsmɑː.tə tə seɪv ʌp fɔːr ə haʊs ɔː tə spend ɒn ɪkˈspɪə.ri.ən.sɪz waɪl wɪər stɪl jʌŋ/",
+        "vi": "Dạo này tớ suy nghĩ nhiều về tiền bạc. Thành thật mà nói, cậu thấy để dành ____ mua nhà thì khôn ngoan hơn, hay là tiêu tiền cho trải nghiệm khi mình còn trẻ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "save", "explanationVi": "Cụm động từ 'save up for' = tích cóp tiền cho một mục tiêu. Xem từ vựng 'to save up' và đồng nghĩa 'put aside'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Personally, I'd argue that saving comes first. ____ I love travelling, I think feeling financially secure matters more, especially when prices keep rising every year.",
+        "ipa": "/ˈpɜː.sən.əl.i aɪd ˈɑː.ɡjuː ðæt ˈseɪ.vɪŋ kʌmz fɜːst ... aɪ lʌv ˈtræv.əl.ɪŋ aɪ θɪŋk ˈfiː.lɪŋ faɪˈnæn.ʃəl.i sɪˈkjʊə ˈmæt.əz mɔː ɪˈspeʃ.əl.i wen ˈpraɪ.sɪz kiːp ˈraɪ.zɪŋ ˈev.ri jɪər/",
+        "vi": "Cá nhân tớ cho rằng tiết kiệm phải đặt lên trước. ____ tớ mê du lịch, tớ vẫn nghĩ cảm giác an toàn về tài chính quan trọng hơn, nhất là khi giá cả cứ tăng mỗi năm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "'Although' mở mệnh đề nhượng bộ (mặc dù tớ mê du lịch nhưng…). Khác 'Despite' vì sau 'Although' là cả MỆNH ĐỀ. Xem mẫu 'In my opinion…, although…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I see your point, but I'd say experiences, ____ travelling and learning new skills, often bring more lasting happiness than a bank balance does.",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪd seɪ ɪkˈspɪə.ri.ən.sɪz ... ˈtræv.əl.ɪŋ ænd ˈlɜː.nɪŋ njuː skɪlz ˈɒf.ən brɪŋ mɔː ˈlɑːs.tɪŋ ˈhæp.i.nəs ðæn ə bæŋk ˈbæl.əns dʌz/",
+        "vi": "Tớ hiểu ý cậu, nhưng tớ cho rằng những trải nghiệm, ____ du lịch và học kỹ năng mới, thường mang lại hạnh phúc lâu bền hơn là một con số trong tài khoản.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "'such as' dùng để nêu ví dụ minh họa cho 'experiences'. Nêu ví dụ cụ thể nghe thuyết phục hơn. Xem mẫu câu dùng 'such as'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's a fair point. To be fair, ____ having a tight budget last year, I still managed to take one trip that was completely worth it.",
+        "ipa": "/ðæts ə feə pɔɪnt tə biː feə ... ˈhæv.ɪŋ ə taɪt ˈbʌdʒ.ɪt lɑːst jɪər aɪ stɪl ˈmæn.ɪdʒd tə teɪk wʌn trɪp ðæt wɒz kəmˈpliːt.li wɜːθ ɪt/",
+        "vi": "Đúng là một ý hay. Công bằng mà nói, ____ năm ngoái ngân sách eo hẹp, tớ vẫn xoay xở đi được một chuyến hoàn toàn xứng đáng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "despite", "explanationVi": "'Despite' theo sau là DANH TỪ/V-ing ('having a tight budget'), KHÔNG phải mệnh đề. Đây là bẫy TOEIC: despite + V-ing nhưng although + mệnh đề. Xem mẫu 'Despite…, I always try to…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Exactly! So how do you actually manage your money? I tend to buy things ____ when I'm stressed, which honestly wrecks my budget.",
+        "ipa": "/ɪɡˈzækt.li səʊ haʊ duː juː ˈæk.tʃu.ə.li ˈmæn.ɪdʒ jɔː ˈmʌn.i aɪ tend tə baɪ θɪŋz ... wen aɪm strest wɪtʃ ˈɒn.ɪst.li reks maɪ ˈbʌdʒ.ɪt/",
+        "vi": "Chính xác! Vậy thật ra cậu quản lý tiền thế nào? Tớ hay mua đồ ____ khi căng thẳng, mà điều đó thành thật là phá nát ngân sách của tớ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "impulsively", "explanationVi": "Trạng từ 'impulsively' (một cách bốc đồng) bổ nghĩa cho động từ 'buy'. Lưu ý 'which' phía sau là mệnh đề quan hệ nối với cả ý trước. Xem từ vựng 'impulsively'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I'd recommend tracking every expense ____ avoid overspending. Not only does it make you more aware, but it also helps you ____ for the things you really care about.",
+        "ipa": "/aɪd ˌrek.əˈmend ˈtræk.ɪŋ ˈev.ri ɪkˈspens ... əˈvɔɪd ˌəʊ.vəˈspend.ɪŋ nɒt ˈəʊn.li dʌz ɪt meɪk juː mɔːr əˈweə bʌt ɪt ˈɔːl.səʊ helps juː ... fɔː ðə θɪŋz juː ˈrɪə.li keər əˈbaʊt/",
+        "vi": "Tớ khuyên cậu nên ghi lại mọi khoản chi ____ tránh tiêu quá tay. Việc đó không những giúp cậu ý thức hơn, mà còn giúp cậu ____ cho những thứ cậu thật sự quan tâm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order to", "explanationVi": "'in order to + V' nêu mục đích (để tránh tiêu quá tay). Xem mẫu 'I'd recommend V-ing in order to V'." },
+          { "type": "knowledge", "answer": "save up", "explanationVi": "Cụm động từ 'save up (for)' = để dành cho. Hợp với 'for the things you care about' ngay sau đó." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That makes a lot of sense. I think I'm too ____ with shopping, whereas you're clearly more thrifty than I am.",
+        "ipa": "/ðæt meɪks ə lɒt əv sens aɪ θɪŋk aɪm tuː ... wɪð ˈʃɒp.ɪŋ weər.æz jɔː ˈklɪə.li mɔː ˈθrɪf.ti ðæn aɪ æm/",
+        "vi": "Nghe rất hợp lý. Tớ nghĩ mình quá ____ trong chuyện mua sắm, trong khi cậu rõ ràng biết tiết kiệm hơn tớ.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ mô tả thói tiêu tiền của bạn. Ví dụ: 'extravagant' (hoang phí), 'careless' (bất cẩn)." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Don't be too hard on yourself. At the end of the day, money is just a tool, and the key is to spend it on whatever genuinely makes you ____.",
+        "ipa": "/dəʊnt biː tuː hɑːd ɒn jɔːˈself ət ði end əv ðə deɪ ˈmʌn.i ɪz dʒʌst ə tuːl ænd ðə kiː ɪz tə spend ɪt ɒn wɒtˈev.ə ˈdʒen.ju.ɪn.li meɪks juː .../",
+        "vi": "Đừng tự trách mình quá. Suy cho cùng, tiền chỉ là một công cụ, và điều quan trọng là tiêu nó cho bất cứ thứ gì thật sự khiến cậu ____.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ/danh từ nói về điều tiền mang lại cho bạn. Ví dụ: 'happy', 'comfortable', 'feel secure'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, hỏi thẳng thu nhập/lương của người khác bị coi là bất lịch sự. Hãy tranh luận về quan điểm chi tiêu chung thay vì hỏi con số cụ thể.",
+    "'Splitting the bill' (chia hóa đơn đều) hoặc 'going Dutch' rất phổ biến khi đi ăn với bạn bè, khác với văn hóa một người bao trọn ở nhiều nước châu Á.",
+    "Người bản xứ thường khen 'thrifty / frugal' (tiết kiệm khôn ngoan) là đức tính tốt, nhưng 'stingy' (keo kiệt) lại là lời chê — chọn từ cẩn thận khi nói về người khác.",
+    "Trong tranh luận, văn hóa Anh-Mỹ chuộng cách 'thừa nhận ý đúng của đối phương rồi mới phản biện' ('I see your point, but…') để giữ hòa khí."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'Despite' với 'Although': 'Despite' + danh từ/V-ing ('despite having…'), còn 'Although' + mệnh đề ('although I have…'). Không nói 'Despite I have…'.",
+    "Dùng 'stingy' để khen người tiết kiệm. 'Stingy' là chê (keo kiệt); muốn khen phải dùng 'thrifty' hoặc 'frugal'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it save money…', không phải 'Not only it saves…'.",
+    "Quên giới từ: 'save up FOR something', 'invest IN something', 'spend money ON something' — sai giới từ là lỗi rất hay gặp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về tiền bạc như một cuộc trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang tranh luận với tôi về chủ đề tiền bạc và chi tiêu (ví dụ: nên tiết kiệm mua nhà hay tiêu cho trải nghiệm, có nên đầu tư không, tiêu sao cho khôn ngoan). Hãy nêu quan điểm của bạn và phản biện lại tôi một cách lịch sự để tôi phải bảo vệ ý kiến. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đang trò chuyện, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'such as', 'in order to' và mệnh đề quan hệ 'which/who'. Thỉnh thoảng đưa ra một tình huống bất ngờ (ví dụ: 'Nếu cậu bất ngờ trúng một khoản tiền lớn thì sao?'). Cuối buổi, hãy chấm điểm khả năng bày tỏ và bảo vệ quan điểm của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách hỏi quan điểm của tôi nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn để tôi tập giữ lập trường và lập luận chặt chẽ.' khi bạn đã quen.",
+      "Thêm: 'Hãy yêu cầu tôi dùng ít nhất 3 từ vựng tài chính nâng cao trong mỗi câu trả lời.' để mở rộng vốn từ."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi bày tỏ được quan điểm về tiền bạc bằng câu dài có mệnh đề phụ, không cần nhìn gợi ý.",
+    "Tôi dùng đúng 'although', 'despite', 'such as' và đảo ngữ 'not only… but also' khi tranh luận.",
+    "Tôi phản biện và đồng tình một cách lịch sự bằng 'I see your point, but…' / 'That's a fair point, however…'."
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "id": "storytelling",
+  "category": "advanced",
+  "title": "Kể chuyện hấp dẫn",
+  "titleEn": "Storytelling",
+  "level": "C1",
+  "functions": ["describing", "opinions", "small-talk"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Dẫn dắt một câu chuyện cá nhân theo trình tự mở đầu - cao trào - kết, bằng câu phức nhiều tầng",
+    "Tạo kịch tính và giữ người nghe chú ý bằng nhịp kể, tạm dừng và trạng từ gợi hình",
+    "Vận dụng idiom và thành ngữ kể chuyện (out of the blue, the last straw, long story short) một cách tự nhiên",
+    "Chuyển đổi register linh hoạt giữa kể trang trọng và kể đời thường tùy người nghe",
+    "Dùng thì quá khứ nâng cao (quá khứ tiếp diễn, quá khứ hoàn thành) để dựng bối cảnh và hồi tưởng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "anecdote",
+      "ipa": "/ˈæn.ɪk.dəʊt/",
+      "vi": "giai thoại, mẩu chuyện ngắn có thật (danh từ)",
+      "register": "neutral",
+      "example": "She opened her speech with a hilarious anecdote about her first day at work.",
+      "exampleVi": "Cô ấy mở đầu bài phát biểu bằng một mẩu chuyện hài hước về ngày đầu đi làm.",
+      "note": "Danh từ. Là mẩu chuyện NGẮN, thường có thật và có điểm nhấn thú vị; khác 'story' chung chung và dài hơn.",
+      "synonyms": [
+        { "term": "tale", "ipa": "/teɪl/", "register": "neutral", "nuanceVi": "Mang màu sắc văn chương/cổ tích hơn, có thể là chuyện kể truyền miệng dài; nghe 'kịch tính' hơn anecdote." },
+        { "term": "yarn", "ipa": "/jɑːn/", "register": "casual", "nuanceVi": "Rất đời thường, chỉ câu chuyện dài dòng, có thể thêm mắm muối. 'Spin a yarn' = kể một câu chuyện lê thê li kỳ." }
+      ]
+    },
+    {
+      "term": "plot",
+      "ipa": "/plɒt/",
+      "vi": "cốt truyện, mạch diễn biến (danh từ)",
+      "register": "neutral",
+      "example": "The plot took an unexpected turn halfway through the trip.",
+      "exampleVi": "Mạch chuyện rẽ sang một hướng bất ngờ vào giữa chuyến đi.",
+      "note": "Danh từ. 'A plot twist' = một cú lật bất ngờ trong truyện — cụm cực kỳ hữu ích khi kể chuyện gây bất ngờ.",
+      "synonyms": [
+        { "term": "storyline", "ipa": "/ˈstɔː.ri.laɪn/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn vào 'tuyến truyện' tổng thể; thường dùng cho phim/tiểu thuyết." },
+        { "term": "narrative", "ipa": "/ˈnær.ə.tɪv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn vào 'cách câu chuyện được kể và sắp xếp', không chỉ là sự kiện. Hay dùng trong văn nói học thuật/báo chí." }
+      ]
+    },
+    {
+      "term": "to unfold",
+      "ipa": "/ʌnˈfəʊld/",
+      "vi": "diễn ra, dần hé lộ (động từ)",
+      "register": "neutral",
+      "example": "I had no idea how dramatically the evening would unfold.",
+      "exampleVi": "Tôi không hề ngờ buổi tối hôm đó lại diễn biến kịch tính đến vậy.",
+      "note": "Động từ, mang nghĩa 'từ từ diễn ra/lộ ra theo thời gian'. Gợi cảm giác câu chuyện đang mở dần như tấm vải — rất 'kể chuyện'.",
+      "synonyms": [
+        { "term": "to develop", "ipa": "/dɪˈvel.əp/", "register": "neutral", "nuanceVi": "Trung tính, chỉ 'tiến triển'. Không gợi sự hé lộ kịch tính như unfold." },
+        { "term": "to play out", "ipa": "/pleɪ aʊt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'mọi chuyện cuối cùng diễn ra thế nào'. Vd 'Let's see how it plays out.'" }
+      ]
+    },
+    {
+      "term": "gripping",
+      "ipa": "/ˈɡrɪp.ɪŋ/",
+      "vi": "cuốn hút, hút hồn (tính từ)",
+      "register": "neutral",
+      "example": "It was such a gripping story that nobody dared to interrupt.",
+      "exampleVi": "Câu chuyện cuốn hút đến mức không ai dám ngắt lời.",
+      "note": "Tính từ. Bắt nguồn từ 'grip' (nắm chặt) — nghĩa là 'nắm lấy sự chú ý của bạn'. Khen một câu chuyện hay.",
+      "synonyms": [
+        { "term": "captivating", "ipa": "/ˈkæp.tɪ.veɪ.tɪŋ/", "register": "formal", "nuanceVi": "Trang nhã hơn, nhấn 'mê hoặc, làm say đắm'; thường khen vẻ đẹp/giọng kể, không chỉ kịch tính." },
+        { "term": "riveting", "ipa": "/ˈrɪv.ɪ.tɪŋ/", "register": "formal", "nuanceVi": "Rất mạnh, nghĩa 'dán mắt không rời'. Cường độ cao hơn gripping; hay dùng trong phê bình văn học/phim." },
+        { "term": "thrilling", "ipa": "/ˈθrɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'hồi hộp, phấn khích'; hợp với chuyện phiêu lưu, hành động hơn là chuyện cảm động." }
+      ]
+    },
+    {
+      "term": "suspense",
+      "ipa": "/səˈspens/",
+      "vi": "sự hồi hộp, kịch tính nín thở (danh từ)",
+      "register": "neutral",
+      "example": "He paused on purpose to build a bit of suspense before the punchline.",
+      "exampleVi": "Anh ấy cố tình dừng lại để tạo chút hồi hộp trước câu chốt.",
+      "note": "Danh từ không đếm được. 'Build suspense' = tạo kịch tính bằng cách trì hoãn tiết lộ. Kỹ thuật cốt lõi khi kể chuyện hay.",
+      "synonyms": [
+        { "term": "tension", "ipa": "/ˈten.ʃən/", "register": "neutral", "nuanceVi": "Nhấn 'sự căng thẳng' giữa các nhân vật/tình huống, rộng hơn; suspense thiên về 'chờ đợi xem điều gì xảy ra'." },
+        { "term": "anticipation", "ipa": "/ænˌtɪs.ɪˈpeɪ.ʃən/", "register": "formal", "nuanceVi": "Nhấn 'sự mong chờ', thường mang sắc thái tích cực hơn; suspense có thể kèm lo lắng." }
+      ]
+    },
+    {
+      "term": "vivid",
+      "ipa": "/ˈvɪv.ɪd/",
+      "vi": "sống động, sắc nét (tính từ)",
+      "register": "neutral",
+      "example": "She gave such a vivid description that I could almost smell the rain.",
+      "exampleVi": "Cô ấy mô tả sống động đến mức tôi gần như ngửi thấy mùi mưa.",
+      "note": "Tính từ. Một câu chuyện 'vivid' giàu chi tiết hình ảnh, làm người nghe như thấy tận mắt. Đi với description/memory/image.",
+      "synonyms": [
+        { "term": "graphic", "ipa": "/ˈɡræf.ɪk/", "register": "neutral", "nuanceVi": "Cũng là 'sống động, chi tiết' nhưng thường ám chỉ chi tiết mạnh/ghê rợn (graphic violence). Cẩn trọng sắc thái." },
+        { "term": "evocative", "ipa": "/ɪˈvɒk.ə.tɪv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'gợi lên cảm xúc/ký ức', tinh tế hơn vivid (vốn thiên về hình ảnh rõ nét)." }
+      ]
+    },
+    {
+      "term": "to recall",
+      "ipa": "/rɪˈkɔːl/",
+      "vi": "nhớ lại, hồi tưởng (động từ)",
+      "register": "formal",
+      "example": "I vividly recall the moment everything went wrong.",
+      "exampleVi": "Tôi nhớ rõ mồn một cái khoảnh khắc mọi thứ đổ bể.",
+      "note": "Động từ, trang trọng hơn 'remember'. Hợp khi mở đầu hồi tưởng: 'I still recall...'.",
+      "synonyms": [
+        { "term": "to recollect", "ipa": "/ˌrek.əˈlekt/", "register": "formal", "nuanceVi": "Rất trang trọng/văn vẻ, nhấn nỗ lực 'cố lục lại trí nhớ'. Ít dùng trong nói thường ngày." },
+        { "term": "to look back on", "ipa": "/lʊk bæk ɒn/", "register": "neutral", "nuanceVi": "Cụm động từ thân thiện, nhấn 'nhìn lại cả một quãng đã qua' kèm cảm xúc/đánh giá." }
+      ]
+    },
+    {
+      "term": "abruptly",
+      "ipa": "/əˈbrʌpt.li/",
+      "vi": "một cách đột ngột (trạng từ)",
+      "register": "neutral",
+      "example": "The music stopped abruptly and the whole room fell silent.",
+      "exampleVi": "Tiếng nhạc tắt phụt đột ngột và cả căn phòng lặng đi.",
+      "note": "Trạng từ. Dùng để đánh dấu bước ngoặt bất ngờ trong chuyện — tạo cú giật cho người nghe.",
+      "synonyms": [
+        { "term": "suddenly", "ipa": "/ˈsʌd.ən.li/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính. 'abruptly' thêm sắc thái 'thô, hơi khó chịu vì quá gấp'." },
+        { "term": "out of nowhere", "ipa": "/aʊt əv ˈnəʊ.weər/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'chẳng có dấu hiệu báo trước'. Rất hợp để kể chuyện bất ngờ." }
+      ]
+    },
+    {
+      "term": "eventually",
+      "ipa": "/ɪˈven.tʃu.ə.li/",
+      "vi": "cuối cùng thì (sau một quá trình) (trạng từ)",
+      "register": "neutral",
+      "example": "After hours of searching, we eventually found our way back to the hotel.",
+      "exampleVi": "Sau nhiều giờ tìm kiếm, cuối cùng chúng tôi cũng lần ra đường về khách sạn.",
+      "note": "Trạng từ. Dẫn vào kết cục sau một quá trình dài — khác 'finally' (thường chỉ điểm cuối trong danh sách hoặc sự nhẹ nhõm).",
+      "synonyms": [
+        { "term": "in the end", "ipa": "/ɪn ðə ˈend/", "register": "neutral", "nuanceVi": "Cụm trung tính, nhấn 'kết cục chung cuộc'. Dễ dùng đầu hoặc cuối câu." },
+        { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'xét đến cùng/về bản chất cuối cùng'. Thường mở câu kết luận hơn là kể trình tự." }
+      ]
+    },
+    {
+      "term": "to exaggerate",
+      "ipa": "/ɪɡˈzædʒ.ə.reɪt/",
+      "vi": "phóng đại, thổi phồng (động từ)",
+      "register": "neutral",
+      "example": "I might be exaggerating slightly, but it really felt like the longest night of my life.",
+      "exampleVi": "Tôi có thể hơi phóng đại một chút, nhưng đúng là nó như cái đêm dài nhất đời tôi.",
+      "note": "Động từ. Khi kể chuyện vui, người bản xứ thường phóng đại có chủ đích để tăng hiệu ứng — và thừa nhận nhẹ ('I'm exaggerating, but...').",
+      "synonyms": [
+        { "term": "to overstate", "ipa": "/ˌəʊ.vəˈsteɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nói quá mức thực tế', thường trong tranh luận/đánh giá hơn là kể chuyện vui." },
+        { "term": "to blow out of proportion", "ipa": "/bləʊ aʊt əv prəˈpɔː.ʃən/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nhấn 'làm to chuyện quá đáng'. Thường mang ý chê người khác làm quá." }
+      ]
+    },
+    {
+      "term": "hilarious",
+      "ipa": "/hɪˈleə.ri.əs/",
+      "vi": "cười bể bụng, cực kỳ buồn cười (tính từ)",
+      "register": "neutral",
+      "example": "Looking back, the whole mix-up was absolutely hilarious.",
+      "exampleVi": "Ngẫm lại thì cả cái vụ nhầm lẫn đó buồn cười không chịu nổi.",
+      "note": "Tính từ cường độ mạnh (= rất rất buồn cười), đã hàm ý 'very', nên KHÔNG nói 'very hilarious'. Dùng 'absolutely/truly hilarious'.",
+      "synonyms": [
+        { "term": "side-splitting", "ipa": "/ˈsaɪdˌsplɪt.ɪŋ/", "register": "casual", "nuanceVi": "Rất đời thường và hình tượng (cười 'rách bụng'). Hơi cường điệu, hợp kể chuyện vui." },
+        { "term": "amusing", "ipa": "/əˈmjuː.zɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn nhiều, chỉ 'vui vui, thú vị', chưa tới mức cười ngặt nghẽo. Đừng nhầm cường độ." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "So, this happened [thời điểm]; I was [V-ing] when, all of a sudden, [sự kiện bất ngờ].",
+      "use": "Mở đầu một câu chuyện và lập tức tạo bối cảnh + kéo người nghe vào.",
+      "register": "casual",
+      "examples": [
+        "So, this happened last summer; I was queuing for coffee when, all of a sudden, a complete stranger called my name."
+      ],
+      "explanationVi": "Quá khứ tiếp diễn ('was queuing') dựng nền cho hành động xen vào. Cụm 'all of a sudden' báo hiệu khúc ngoặt — kích thích sự tò mò ngay từ câu đầu.",
+      "altOf": "opening-a-story"
+    },
+    {
+      "pattern": "You'll never guess what happened to me when [mệnh đề].",
+      "use": "Mở chuyện theo kiểu khơi gợi, thách người nghe đoán.",
+      "register": "casual",
+      "examples": [
+        "You'll never guess what happened to me when I tried to surprise my best friend at the airport."
+      ],
+      "explanationVi": "Câu 'mồi' kinh điển: hứa hẹn điều bất ngờ khiến người nghe phải hỏi tiếp. Rất tự nhiên trong trò chuyện thân mật.",
+      "altOf": "opening-a-story"
+    },
+    {
+      "pattern": "I'll never forget the time when [mệnh đề], during which [mệnh đề quan hệ].",
+      "use": "Mở một câu chuyện hồi tưởng đáng nhớ, trang trọng và giàu cảm xúc hơn.",
+      "register": "neutral",
+      "examples": [
+        "I'll never forget the time when I got completely lost in Tokyo, during which I had to rely entirely on the kindness of strangers."
+      ],
+      "explanationVi": "'during which' là mệnh đề quan hệ trang nhã (= và trong lúc đó). Mẫu này gộp bối cảnh và một chi tiết đắt vào một câu mượt, gây ấn tượng người kể có gu.",
+      "altOf": "opening-a-story"
+    },
+    {
+      "pattern": "By the time [mệnh đề quá khứ], [chủ ngữ] had already [V quá khứ phân từ].",
+      "use": "Dựng quan hệ thời gian: việc B đã xong trước khi việc A xảy ra.",
+      "register": "neutral",
+      "examples": [
+        "By the time I realized my mistake, the train had already left the platform."
+      ],
+      "explanationVi": "Quá khứ hoàn thành ('had left') diễn tả việc xảy ra TRƯỚC một mốc quá khứ khác. Đây là dấu hiệu C1: kiểm soát tốt trật tự thời gian trong chuyện.",
+      "altOf": "sequencing-events"
+    },
+    {
+      "pattern": "Just as [mệnh đề], [sự kiện bất ngờ] — and that's when everything changed.",
+      "use": "Đẩy câu chuyện tới cao trào, đánh dấu bước ngoặt.",
+      "register": "neutral",
+      "examples": [
+        "Just as I was about to give up, my phone buzzed — and that's when everything changed."
+      ],
+      "explanationVi": "'Just as' (= đúng lúc) tạo cảm giác hai việc trùng khít, rất kịch tính. Mệnh đề 'that's when...' chốt lại bước ngoặt cho người nghe nắm được tầm quan trọng.",
+      "altOf": "sequencing-events"
+    },
+    {
+      "pattern": "Long story short, [kết cục] — although, looking back, [bài học / cảm nhận].",
+      "use": "Tóm gọn để kết chuyện, kèm một suy ngẫm.",
+      "register": "casual",
+      "examples": [
+        "Long story short, we missed the flight — although, looking back, that delay turned out to be the best thing that could have happened."
+      ],
+      "explanationVi": "'Long story short' = tóm lại cho nhanh, báo hiệu sắp kết. 'although + looking back' thêm tầng suy ngẫm — cách kết chuyện trưởng thành, có chiều sâu.",
+      "altOf": "closing-a-story"
+    },
+    {
+      "pattern": "And the moral of the story is that [bài học], which is something I've carried with me ever since.",
+      "use": "Rút ra bài học, đóng lại câu chuyện một cách ý nghĩa.",
+      "register": "neutral",
+      "examples": [
+        "And the moral of the story is that you should never judge too quickly, which is something I've carried with me ever since."
+      ],
+      "explanationVi": "Mệnh đề quan hệ 'which' nối cả ý phía trước. Kết bằng bài học giúp câu chuyện 'đọng lại'; phù hợp khi kể có mục đích truyền cảm hứng.",
+      "altOf": "closing-a-story"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "out of the blue", "ipa": "/aʊt əv ðə ˈbluː/", "vi": "bất thình lình, từ trên trời rơi xuống", "when": "Báo một sự kiện đến hoàn toàn không báo trước, tạo bất ngờ.", "example": "Out of the blue, my old roommate called me after ten years of silence." },
+    { "term": "to cut a long story short", "ipa": "/tə kʌt ə lɒŋ ˈstɔː.ri ˈʃɔːt/", "vi": "nói tóm lại cho nhanh", "when": "Khi muốn lướt nhanh tới kết cục, bỏ qua chi tiết rườm rà.", "example": "To cut a long story short, we ended up sleeping at the airport." },
+    { "term": "believe it or not", "ipa": "/bɪˈliːv ɪt ɔː nɒt/", "vi": "tin hay không thì tùy", "when": "Trước một chi tiết khó tin để tăng sức nặng kịch tính.", "example": "And believe it or not, the dog had been hiding under the bed the whole time." },
+    { "term": "to my surprise", "ipa": "/tə maɪ səˈpraɪz/", "vi": "trước sự ngạc nhiên của tôi", "when": "Dẫn vào một diễn biến đi ngược kỳ vọng của người kể.", "example": "To my surprise, the grumpy old man burst out laughing." },
+    { "term": "the last straw", "ipa": "/ðə lɑːst ˈstrɔː/", "vi": "giọt nước tràn ly", "when": "Đánh dấu sự việc cuối cùng khiến mọi thứ vỡ òa/bùng nổ.", "example": "When the waiter spilled coffee on my laptop, that was the last straw." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Chèn vào để nhấn sự chân thành hoặc thú nhận cảm xúc thật.", "example": "Honestly, I had never been so embarrassed in my entire life." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang trò chuyện thân mật với một người bạn nước ngoài (Liam) trong một buổi cà phê. Liam đề nghị bạn kể lại một kỷ niệm du lịch đáng nhớ, và hai người cùng nhau dẫn dắt câu chuyện.",
+    "lines": [
+      {
+        "speaker": "Liam",
+        "text": "You mentioned you had a crazy trip to Da Lat last year. Come on, I've got time — tell me the whole thing from the start.",
+        "ipa": "/juː ˈmen.ʃənd juː hæd ə ˈkreɪ.zi trɪp tə ˌdɑːˈlæt lɑːst jɪə kʌm ɒn aɪv ɡɒt taɪm tel miː ðə həʊl θɪŋ frɒm ðə stɑːt/",
+        "vi": "Cậu có nhắc là năm ngoái đi Đà Lạt một chuyến điên rồ. Nào, tớ rảnh đây — kể tớ nghe từ đầu đi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Alright, you asked for it. So, this happened back in ____; I was hiking up a hill at dawn when, all of a sudden, a thick fog rolled in and I completely lost sight of my friends.",
+        "ipa": "/ɔːlˈraɪt juː ɑːskt fɔːr ɪt səʊ ðɪs ˈhæp.ənd bæk ɪn ... aɪ wɒz ˈhaɪ.kɪŋ ʌp ə hɪl ət dɔːn wen ɔːl əv ə ˈsʌd.ən ə θɪk fɒɡ rəʊld ɪn ænd aɪ kəmˈpliːt.li lɒst saɪt əv maɪ frendz/",
+        "vi": "Được, cậu tự đòi nghe đấy nhé. Chuyện là hồi ____; tớ đang leo lên một quả đồi lúc bình minh thì bỗng nhiên sương mù dày đặc kéo tới và tớ hoàn toàn lạc mất nhóm bạn.",
+        "blanks": [
+          { "type": "personal", "hint": "Mốc thời gian câu chuyện xảy ra. Ví dụ: 'early 2024', 'last April'." }
+        ]
+      },
+      {
+        "speaker": "Liam",
+        "text": "Oh no — so there you were, all alone in the fog. What on earth did you do then?",
+        "ipa": "/əʊ nəʊ səʊ ðeə juː wɜː ɔːl əˈləʊn ɪn ðə fɒɡ wɒt ɒn ɜːθ dɪd juː duː ðen/",
+        "vi": "Ôi không — thế là cậu một mình giữa màn sương. Lúc đó cậu làm cái quái gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, ____ I was genuinely terrified, I forced myself to stay calm. By the time I reached the top, the others had already ____ down the other side, so we'd been wandering in completely opposite directions for nearly an hour.",
+        "ipa": "/wel ... aɪ wɒz ˈdʒen.ju.ɪn.li ˈter.ɪ.faɪd aɪ fɔːst maɪˈself tə steɪ kɑːm baɪ ðə taɪm aɪ riːtʃt ðə tɒp ði ˈʌð.əz hæd ɔːlˈred.i ... daʊn ði ˈʌð.ə saɪd səʊ wiːd biːn ˈwɒn.də.rɪŋ ɪn kəmˈpliːt.li ˈɒp.ə.zɪt dɪˈrek.ʃənz fɔːr ˈnɪə.li ən ˈaʊə/",
+        "vi": "À, ____ tớ sợ thật sự, tớ vẫn ép mình giữ bình tĩnh. Đến lúc tớ lên tới đỉnh thì những người kia đã ____ xuống sườn bên kia mất rồi, thế là cả hội đã đi lạc theo hai hướng hoàn toàn ngược nhau gần cả tiếng đồng hồ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (= mặc dù) mở mệnh đề nhượng bộ: dù sợ nhưng vẫn giữ bình tĩnh. So sánh hai ý trái chiều làm câu chuyện kịch tính hơn." },
+          { "type": "knowledge", "answer": "headed", "explanationVi": "Quá khứ phân từ 'headed' (head down = đi xuống) sau 'had already' tạo thì quá khứ hoàn thành — việc xảy ra TRƯỚC lúc tớ lên đỉnh. Xem mẫu 'By the time…, had already…'." }
+        ]
+      },
+      {
+        "speaker": "Liam",
+        "text": "That's terrifying! Although, knowing you, I bet there's a twist coming. Don't keep me in suspense.",
+        "ipa": "/ðæts ˈter.ɪ.faɪ.ɪŋ ɔːlˈðəʊ ˈnəʊ.ɪŋ juː aɪ bet ðeəz ə twɪst ˈkʌm.ɪŋ dəʊnt kiːp miː ɪn səˈspens/",
+        "vi": "Nghe rợn thật! Mà biết tính cậu rồi, tớ cá là sắp có một cú lật đây. Đừng bắt tớ hồi hộp nữa."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "You know me too well. Just as I was about to panic, an old local farmer ____ happened to be picking coffee cherries appeared out of nowhere and, despite speaking almost no English, guided me back down using nothing but hand gestures and a warm smile.",
+        "ipa": "/juː nəʊ miː tuː wel dʒʌst æz aɪ wɒz əˈbaʊt tə ˈpæn.ɪk ən əʊld ˈləʊ.kəl ˈfɑː.mə ... ˈhæp.ənd tə biː ˈpɪk.ɪŋ ˈkɒf.i ˈtʃer.iz əˈpɪəd aʊt əv ˈnəʊ.weə ænd dɪˈspaɪt ˈspiː.kɪŋ ˈɔːl.məʊst nəʊ ˈɪŋ.ɡlɪʃ ˈɡaɪ.dɪd miː bæk daʊn ˈjuː.zɪŋ ˈnʌθ.ɪŋ bʌt hænd ˈdʒes.tʃəz ænd ə wɔːm smaɪl/",
+        "vi": "Cậu hiểu tớ quá mà. Đúng lúc tớ sắp hoảng loạn thì một bác nông dân địa phương ____ tình cờ đang hái cà phê hiện ra từ đâu chẳng rõ, và dù gần như không nói được tiếng Anh, bác ấy đã dẫn tớ xuống chỉ bằng cử chỉ tay và một nụ cười ấm áp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì danh từ đứng trước là người ('an old local farmer'). Nếu là vật/sự việc thì dùng 'which/that'." }
+        ]
+      },
+      {
+        "speaker": "Liam",
+        "text": "No way! So a total stranger basically saved your trip. Honestly, that's the kind of moment you remember forever.",
+        "ipa": "/nəʊ weɪ səʊ ə ˈtəʊ.təl ˈstreɪn.dʒə ˈbeɪ.sɪk.li seɪvd jɔː trɪp ˈɒn.ɪst.li ðæts ðə kaɪnd əv ˈməʊ.mənt juː rɪˈmem.bə fəˈrev.ə/",
+        "vi": "Không thể tin nổi! Thế là một người hoàn toàn xa lạ về cơ bản đã cứu cả chuyến đi của cậu. Thật lòng mà nói, đó là kiểu khoảnh khắc nhớ cả đời."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. Long story short, we all reunited at the bottom an hour later, ____ I treated everyone to coffee from that very farm. And the moral of the story is that a little kindness goes further than any guidebook, which is something I've carried with me ever since.",
+        "ipa": "/ɪɡˈzækt.li lɒŋ ˈstɔː.ri ʃɔːt wiː ɔːl ˌriːjuːˈnaɪ.tɪd ət ðə ˈbɒt.əm ən ˈaʊə ˈleɪ.tə ... aɪ ˈtriː.tɪd ˈev.ri.wʌn tə ˈkɒf.i frɒm ðæt ˈver.i fɑːm ænd ðə ˈmɒr.əl əv ðə ˈstɔː.ri ɪz ðæt ə ˈlɪt.əl ˈkaɪnd.nəs ɡəʊz ˈfɜː.ðə ðæn ˈen.i ˈɡaɪd.bʊk wɪtʃ ɪz ˈsʌm.θɪŋ aɪv ˈkær.id wɪð miː ˈev.ə sɪns/",
+        "vi": "Chính xác. Tóm lại, một tiếng sau cả nhóm đoàn tụ ở chân đồi, ____ tớ chiêu đãi mọi người cà phê hái từ chính cái nông trại đó. Và bài học rút ra là một chút tử tế còn đi xa hơn bất kỳ cuốn cẩm nang nào, điều mà tớ luôn ghi nhớ từ đó đến giờ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "and", "explanationVi": "Dùng liên từ 'and' để nối hai mệnh đề độc lập cùng chiều (đoàn tụ → tớ chiêu đãi). Đơn giản nhưng đúng nhịp kể; tránh dùng 'but' vì hai ý không trái chiều." }
+        ]
+      },
+      {
+        "speaker": "Liam",
+        "text": "That's a brilliant story — vivid, suspenseful and with a heart-warming ending. You really should tell it more often.",
+        "ipa": "/ðæts ə ˈbrɪl.jənt ˈstɔː.ri ˈvɪv.ɪd səˈspens.fəl ænd wɪð ə ˈhɑːtˌwɔː.mɪŋ ˈen.dɪŋ juː ˈrɪə.li ʃʊd tel ɪt mɔːr ˈɒf.ən/",
+        "vi": "Một câu chuyện tuyệt vời — sống động, hồi hộp và có cái kết ấm lòng. Cậu thật sự nên kể nó thường xuyên hơn."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa nói tiếng Anh, kể chuyện hay là một kỹ năng xã giao được đánh giá cao: một câu chuyện duyên dáng giúp bạn hòa nhập nhanh ở tiệc tùng, phỏng vấn hay thuyết trình.",
+    "Người bản xứ thường phóng đại có chủ đích và thừa nhận điều đó ('I might be exaggerating, but...') để gây cười — đây là quy ước chứ không bị coi là nói dối.",
+    "Người nghe chủ động phản hồi liên tục ('No way!', 'You're kidding!', 'And then?') để khích lệ người kể. Im lặng hoàn toàn có thể bị hiểu là bạn thấy chán.",
+    "Cách kết thúc bằng một bài học hoặc câu chốt hài hước (punchline) rất được ưa chuộng; câu chuyện 'lửng lơ' không có điểm nhấn dễ khiến người nghe hụt hẫng."
+  ],
+
+  "commonMistakes": [
+    "Kể toàn bộ bằng thì hiện tại đơn ('I go..., I see...'). Chuyện đã xảy ra cần quá khứ; dùng quá khứ tiếp diễn và quá khứ hoàn thành để phân tầng thời gian cho mượt.",
+    "Nói 'very hilarious' hoặc 'very terrified'. Các tính từ cực mạnh (hilarious, terrified, exhausted) đã hàm ý 'rất', nên dùng 'absolutely/genuinely' thay cho 'very'.",
+    "Liệt kê sự kiện đều đều, không tạo cao trào. Hãy chèn 'all of a sudden', 'just as...', và tạm dừng trước câu chốt để build suspense.",
+    "Lẫn 'although' với 'despite': 'although' đi với MỆNH ĐỀ (although I was scared), còn 'despite/in spite of' đi với DANH TỪ hoặc V-ing (despite being scared)."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng kể chuyện hấp dẫn ở trình độ C1.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh bản xứ đang nghe tôi kể chuyện. Tôi sẽ kể cho bạn một kỷ niệm có thật của tôi bằng tiếng Anh. Trong lúc tôi kể, hãy: (1) phản hồi tự nhiên và đầy hứng thú như người nghe thật ('No way!', 'And then what happened?'), (2) sau khi tôi kể xong, sửa lỗi ngữ pháp và cách dùng từ của tôi bằng tiếng Việt, đặc biệt là thì quá khứ (quá khứ tiếp diễn, quá khứ hoàn thành) và tính từ cường độ mạnh, (3) gợi ý cho tôi cách thêm kịch tính bằng idiom kể chuyện như 'out of the blue', 'just as...', 'long story short' và cách tạo suspense. Cuối cùng, hãy chấm câu chuyện của tôi theo 3 tiêu chí: bố cục (mở-thân-kết), độ sống động, và sức cuốn hút, kèm 3 gợi ý cải thiện. Hãy bắt đầu bằng cách mời tôi kể.",
+    "advancedTips": [
+      "Thêm: 'Hãy yêu cầu tôi kể lại đúng câu chuyện đó nhưng theo register trang trọng hơn, như đang phát biểu trước đám đông.'",
+      "Thêm: 'Hãy đưa cho tôi một mở đầu bất ngờ và bắt tôi ứng tác (improvise) phần còn lại trong 60 giây.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở được một câu chuyện bằng câu dẫn dắt tạo tò mò, không kể lể dài dòng từ đầu.",
+    "Tôi dùng đúng quá khứ tiếp diễn và quá khứ hoàn thành để dựng bối cảnh và sắp xếp trình tự thời gian.",
+    "Tôi tạo được cao trào và kết chuyện bằng một bài học hoặc câu chốt, dùng ít nhất hai idiom kể chuyện."
+  ]
+}

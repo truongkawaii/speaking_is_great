@@ -1,0 +1,352 @@
+{
+  "id": "expressing-frustration",
+  "category": "advanced",
+  "title": "Bày tỏ bực bội khéo léo",
+  "titleEn": "Expressing Frustration Politely",
+  "level": "C1",
+  "functions": ["complaining", "opinions", "negotiating", "handling-problems"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Bày tỏ sự bực bội, thất vọng một cách kiềm chế và chuyên nghiệp, không làm đối phương mất mặt",
+    "Dùng cách nói giảm nhẹ (hedging, understatement) và bị động để hạ nhiệt căng thẳng",
+    "Phàn nàn có dẫn chứng cụ thể rồi chuyển sang đề xuất giải pháp thay vì chỉ trách móc",
+    "Vận dụng ngữ pháp phức nhiều tầng (despite, although, mệnh đề quan hệ, đảo ngữ) và idiom văn phòng một cách tự nhiên",
+    "Linh hoạt đổi register giữa lịch sự trang trọng và thẳng thắn vừa phải tùy đối tượng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "frustration",
+      "ipa": "/frʌsˈtreɪ.ʃən/",
+      "vi": "sự bực bội, nản lòng (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to express my frustration about the repeated delays, although I understand it isn't entirely your fault.",
+      "exampleVi": "Tôi muốn bày tỏ sự bực bội về việc trì hoãn liên tục, dù tôi hiểu đó không hoàn toàn là lỗi của anh.",
+      "note": "Danh từ. Mạnh hơn 'annoyance' nhưng vẫn nhã hơn 'anger'. Đi với 'express / voice / vent one's frustration'.",
+      "synonyms": [
+        { "term": "annoyance", "ipa": "/əˈnɔɪ.əns/", "register": "neutral", "nuanceVi": "Nhẹ hơn frustration, chỉ sự khó chịu thoáng qua chứ chưa đến mức nản. Hợp khi muốn giảm nhẹ mức độ." },
+        { "term": "exasperation", "ipa": "/ɪɡˌzæs.pəˈreɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng và mạnh hơn, hàm ý đã chịu đựng lâu đến mức gần mất kiên nhẫn. Dùng trong văn viết hoặc lời than có tính nhấn mạnh." },
+        { "term": "dismay", "ipa": "/dɪsˈmeɪ/", "register": "formal", "nuanceVi": "Nhấn vào nỗi thất vọng pha hụt hẫng, ít mang tính cáu giận. Hay gặp trong thư khiếu nại trang trọng: 'much to my dismay'." }
+      ]
+    },
+    {
+      "term": "to escalate",
+      "ipa": "/ˈes.kə.leɪt/",
+      "vi": "đẩy lên cấp cao hơn; leo thang (động từ)",
+      "register": "formal",
+      "example": "I'd rather not escalate this to senior management unless we truly run out of options.",
+      "exampleVi": "Tôi không muốn phải đẩy việc này lên cấp quản lý cao hơn trừ khi chúng ta thật sự hết cách.",
+      "note": "Động từ. Hai nghĩa: (1) đưa vấn đề lên cấp trên xử lý; (2) làm căng thẳng/xung đột tăng lên. Văn phòng dùng rất nhiều.",
+      "synonyms": [
+        { "term": "to raise (an issue)", "ipa": "/reɪz/", "register": "neutral", "nuanceVi": "Trung tính, chỉ việc 'nêu vấn đề lên' mà không nhất thiết hàm ý gay gắt. An toàn hơn 'escalate' khi chưa muốn làm to chuyện." },
+        { "term": "to take it further", "ipa": "/teɪk ɪt ˈfɜː.ðər/", "register": "neutral", "nuanceVi": "Cách nói ngầm, hơi đe dọa nhẹ: 'sẽ làm tới cùng / đưa lên cao hơn'. Lịch sự nhưng đối phương hiểu là bạn nghiêm túc." }
+      ]
+    },
+    {
+      "term": "unacceptable",
+      "ipa": "/ˌʌn.əkˈsep.tə.bəl/",
+      "vi": "không thể chấp nhận được (tính từ)",
+      "register": "formal",
+      "example": "Honestly, a three-week delay with no notice is simply unacceptable.",
+      "exampleVi": "Thành thật mà nói, trễ ba tuần mà không hề báo trước thì thật sự không thể chấp nhận được.",
+      "note": "Tính từ mạnh, dùng khi muốn vạch ranh giới rõ ràng. Thêm 'simply / frankly' để nhấn mà vẫn giữ vẻ điềm tĩnh.",
+      "synonyms": [
+        { "term": "unsatisfactory", "ipa": "/ˌʌn.sæt.ɪsˈfæk.tər.i/", "register": "formal", "nuanceVi": "Nhẹ và lịch sự hơn, mang giọng đánh giá khách quan ('chưa đạt yêu cầu') thay vì lên án. Hợp thư từ trang trọng." },
+        { "term": "not good enough", "ipa": "/nɒt ɡʊd ɪˈnʌf/", "register": "casual", "nuanceVi": "Đời thường, thẳng thắn. Cùng ý nhưng nghe trực diện, hợp lúc nói với người ngang hàng hơn là khách hàng/cấp trên." }
+      ]
+    },
+    {
+      "term": "to address (an issue)",
+      "ipa": "/əˈdres/",
+      "vi": "giải quyết, xử lý (vấn đề) (động từ)",
+      "register": "formal",
+      "example": "What matters now is how quickly we can address the underlying problem.",
+      "exampleVi": "Điều quan trọng lúc này là chúng ta xử lý được vấn đề gốc rễ nhanh đến đâu.",
+      "note": "Động từ trang trọng, nghĩa 'tập trung giải quyết'. Khác 'to address' = ngỏ lời với ai. Hướng câu chuyện sang giải pháp.",
+      "synonyms": [
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Nhấn vào việc 'giải quyết dứt điểm', cho ra kết quả cuối. Mạnh hơn 'address' (mới chỉ là bắt tay xử lý)." },
+        { "term": "to sort out", "ipa": "/sɔːt aʊt/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'lo liệu cho xong'. Hợp văn nói thường ngày, kém trang trọng hơn 'address/resolve'." },
+        { "term": "to tackle", "ipa": "/ˈtæk.əl/", "register": "neutral", "nuanceVi": "Nhấn sắc thái chủ động 'bắt tay vào xử lý' một việc khó, mang năng lượng tích cực, quyết tâm." }
+      ]
+    },
+    {
+      "term": "letdown",
+      "ipa": "/ˈlet.daʊn/",
+      "vi": "điều/việc gây thất vọng (danh từ)",
+      "register": "casual",
+      "example": "After all the promises, the final result was a real letdown.",
+      "exampleVi": "Sau bao lời hứa, kết quả cuối cùng thật sự là một sự thất vọng.",
+      "note": "Danh từ, hơi thân mật. Động từ cụm là 'to let someone down' (làm ai thất vọng). Nhẹ nhàng hơn là chỉ trích thẳng.",
+      "synonyms": [
+        { "term": "disappointment", "ipa": "/ˌdɪs.əˈpɔɪnt.mənt/", "register": "neutral", "nuanceVi": "Trung tính và trang trọng hơn 'letdown'. Hợp mọi ngữ cảnh: 'It was a disappointment.'" },
+        { "term": "anticlimax", "ipa": "/ˌæn.tiˈklaɪ.mæks/", "register": "formal", "nuanceVi": "Nhấn ý 'mong đợi nhiều mà kết cục nhạt nhẽo, hụt hơi'. Văn vẻ, dùng khi muốn nghe tinh tế." }
+      ]
+    },
+    {
+      "term": "reasonable",
+      "ipa": "/ˈriː.zən.ə.bəl/",
+      "vi": "hợp lý, biết điều (tính từ)",
+      "register": "neutral",
+      "example": "I think it's only reasonable to ask for a partial refund given the circumstances.",
+      "exampleVi": "Tôi nghĩ yêu cầu hoàn lại một phần là hoàn toàn hợp lý trong hoàn cảnh này.",
+      "note": "Tính từ. Tự gọi yêu cầu của mình là 'reasonable' giúp bạn nghe điềm đạm, có lý lẽ chứ không phải đang làm khó.",
+      "synonyms": [
+        { "term": "fair", "ipa": "/feər/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'công bằng', xét tới lợi ích cả hai bên. Gần nghĩa nhưng thiên về đạo lý hơn là logic." },
+        { "term": "justified", "ipa": "/ˈdʒʌs.tɪ.faɪd/", "register": "formal", "nuanceVi": "Nhấn 'có căn cứ chính đáng để làm vậy'. Dùng khi muốn khẳng định phản ứng của mình là có cơ sở." }
+      ]
+    },
+    {
+      "term": "to apologize",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "vi": "xin lỗi (động từ)",
+      "register": "neutral",
+      "example": "I do apologize for the inconvenience this has caused you.",
+      "exampleVi": "Tôi thành thật xin lỗi vì sự bất tiện mà điều này đã gây ra cho anh/chị.",
+      "note": "Động từ (Anh-Anh 'apologise'). Đi với 'apologize for + danh từ/V-ing'. Thêm trợ động từ 'do' để nhấn sự chân thành.",
+      "synonyms": [
+        { "term": "to express regret", "ipa": "/ɪkˈspres rɪˈɡret/", "register": "formal", "nuanceVi": "Rất trang trọng, hơi giữ khoảng cách. Hay gặp trong thông cáo/thư chính thức: 'We express our sincere regret.'" }
+      ]
+    },
+    {
+      "term": "patient",
+      "ipa": "/ˈpeɪ.ʃənt/",
+      "vi": "kiên nhẫn (tính từ)",
+      "register": "neutral",
+      "example": "I've tried to be patient, but my patience is honestly wearing thin.",
+      "exampleVi": "Tôi đã cố kiên nhẫn, nhưng thành thật mà nói sự kiên nhẫn của tôi đang cạn dần.",
+      "note": "Tính từ. Danh từ là 'patience'. Đừng nhầm với 'patient' (bệnh nhân) cùng mặt chữ. Idiom hay: 'patience is wearing thin'.",
+      "synonyms": [
+        { "term": "tolerant", "ipa": "/ˈtɒl.ər.ənt/", "register": "formal", "nuanceVi": "Nhấn vào 'chịu đựng, bao dung với điều khó chịu'. Thiên về thái độ rộng lượng hơn là chờ đợi." },
+        { "term": "understanding", "ipa": "/ˌʌn.dəˈstæn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'thông cảm, đặt mình vào hoàn cảnh người khác'. Hay dùng để vừa trách vừa tỏ ra thiện chí." }
+      ]
+    },
+    {
+      "term": "reluctantly",
+      "ipa": "/rɪˈlʌk.tənt.li/",
+      "vi": "một cách miễn cưỡng (trạng từ)",
+      "register": "formal",
+      "example": "Reluctantly, I have to say I'm no longer comfortable continuing under these terms.",
+      "exampleVi": "Một cách miễn cưỡng, tôi phải nói rằng tôi không còn thoải mái tiếp tục với những điều khoản này nữa.",
+      "note": "Trạng từ. Báo hiệu bạn không muốn căng nhưng buộc phải lên tiếng — tạo cảm giác bạn đã rất kiềm chế.",
+      "synonyms": [
+        { "term": "grudgingly", "ipa": "/ˈɡrʌdʒ.ɪŋ.li/", "register": "neutral", "nuanceVi": "Mạnh hơn, hàm ý 'làm trong bực dọc, không cam tâm'. Có chút thái độ, kém nhã hơn 'reluctantly'." },
+        { "term": "with some hesitation", "ipa": "/wɪð sʌm ˌhez.ɪˈteɪ.ʃən/", "register": "formal", "nuanceVi": "Cụm trang trọng, mềm mỏng: 'với chút do dự'. Nghe lịch sự, thận trọng hơn cả 'reluctantly'." }
+      ]
+    },
+    {
+      "term": "candidly",
+      "ipa": "/ˈkæn.dɪd.li/",
+      "vi": "một cách thẳng thắn, thành thật (trạng từ)",
+      "register": "formal",
+      "example": "Candidly, this is not the level of service I was led to expect.",
+      "exampleVi": "Nói thẳng ra, đây không phải là chất lượng dịch vụ mà tôi được kỳ vọng.",
+      "note": "Trạng từ, báo hiệu bạn sắp nói thật lòng, hơi khó nghe nhưng vẫn lịch sự. Đồng nghĩa thân mật: 'to be honest'.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính: 'nói thẳng thì...'. Dùng được hầu hết ngữ cảnh." },
+        { "term": "to put it bluntly", "ipa": "/tə pʊt ɪt ˈblʌnt.li/", "register": "casual", "nuanceVi": "Báo trước rằng câu sau sẽ rất thẳng, có thể hơi phũ. Dùng cẩn thận, hợp người thân quen." }
+      ]
+    },
+    {
+      "term": "inconvenience",
+      "ipa": "/ˌɪn.kənˈviː.ni.əns/",
+      "vi": "sự bất tiện, phiền toái (danh từ)",
+      "register": "formal",
+      "example": "The repeated rescheduling has caused me a great deal of inconvenience.",
+      "exampleVi": "Việc dời lịch liên tục đã gây cho tôi rất nhiều phiền toái.",
+      "note": "Danh từ trang trọng. Là từ 'an toàn' để mô tả thiệt hại mà không cáu gắt. Cụm cố định: 'sorry for the inconvenience'.",
+      "synonyms": [
+        { "term": "hassle", "ipa": "/ˈhæs.əl/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'sự rắc rối, lằng nhằng mệt mỏi'. Hợp văn nói thân mật, kém trang trọng hơn hẳn." },
+        { "term": "disruption", "ipa": "/dɪsˈrʌp.ʃən/", "register": "formal", "nuanceVi": "Nhấn vào việc 'làm gián đoạn công việc/kế hoạch'. Mạnh hơn, dùng khi hậu quả thực sự nghiêm trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I don't mean to complain, but [mệnh đề nêu vấn đề].",
+      "use": "Mở lời phàn nàn một cách rào trước, làm dịu sự khó chịu sắp nói ra.",
+      "register": "neutral",
+      "examples": [
+        "I don't mean to complain, but this is the third time the order has arrived damaged.",
+        "I don't want to make a fuss, but I really did expect things to be handled differently."
+      ],
+      "explanationVi": "Đây là kỹ thuật 'rào đón' (hedging). Phủ nhận ý định gây sự ('I don't mean to...') trước khi vào thẳng vấn đề giúp đối phương bớt phòng thủ. Rất đặc trưng cho lối nói lịch sự của người bản xứ.",
+      "altOf": "softening-complaint"
+    },
+    {
+      "pattern": "I have to be honest with you — [mệnh đề thẳng thắn].",
+      "use": "Báo trước rằng bạn sắp nói điều thật lòng, hơi khó nghe nhưng chân thành.",
+      "register": "neutral",
+      "examples": [
+        "I have to be honest with you — I'm starting to lose confidence in the whole process.",
+        "Candidly, I have to say this falls well short of what was promised."
+      ],
+      "explanationVi": "Dùng để chuyển sang giọng thẳng thắn mà vẫn giữ thiện chí. Cụm 'I have to be honest' báo hiệu sự chân thành, khiến lời chê nghe có trách nhiệm chứ không phải công kích.",
+      "altOf": "softening-complaint"
+    },
+    {
+      "pattern": "I appreciate that [mệnh đề thông cảm], but [mệnh đề nêu yêu cầu/bất bình].",
+      "use": "Vừa thừa nhận góc nhìn của đối phương, vừa giữ vững quan điểm của mình.",
+      "register": "formal",
+      "examples": [
+        "I appreciate that you're short-staffed, but a two-hour wait is still hard to justify.",
+        "I understand these things happen, but I'd expect to be informed in advance."
+      ],
+      "explanationVi": "Cấu trúc 'nhượng bộ rồi phản biện' (concede-then-assert). Vế đầu 'I appreciate that...' xoa dịu cái tôi của đối phương; 'but' sau đó mới đưa ra điều bạn không hài lòng. Đây là xương sống của phàn nàn lịch sự ở C1.",
+      "altOf": "softening-complaint"
+    },
+    {
+      "pattern": "Rather than placing blame, I'd prefer to focus on how we can [V].",
+      "use": "Chuyển hướng từ trách móc sang tìm giải pháp, giữ không khí xây dựng.",
+      "register": "formal",
+      "examples": [
+        "Rather than placing blame, I'd prefer to focus on how we can put this right.",
+        "Instead of dwelling on what went wrong, let's look at what can be done now."
+      ],
+      "explanationVi": "Câu này giúp bạn nghe trưởng thành và chuyên nghiệp. 'Rather than + V-ing' đặt lựa chọn bị loại ('đổ lỗi') tương phản với lựa chọn bạn chọn ('tìm cách khắc phục'), hướng cuộc đối thoại về phía trước."
+    },
+    {
+      "pattern": "Could you possibly [V] so that [mệnh đề kết quả mong muốn]?",
+      "use": "Đề nghị một giải pháp cụ thể một cách hết sức nhã nhặn.",
+      "register": "formal",
+      "examples": [
+        "Could you possibly expedite the replacement so that we can stay on schedule?",
+        "Would it be at all possible to offer some form of compensation for the trouble?"
+      ],
+      "explanationVi": "'Could you possibly...?' và 'Would it be at all possible to...?' là mức đề nghị lịch sự bậc cao. 'so that' nêu rõ lý do/kết quả, giúp yêu cầu nghe hợp lý chứ không phải vòi vĩnh.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "Not only [trợ động từ đảo] ..., but it has also [V/mệnh đề].",
+      "use": "Liệt kê nhiều hệ quả tiêu cực để nhấn mức độ nghiêm trọng mà vẫn trang trọng.",
+      "register": "formal",
+      "examples": [
+        "Not only did the delay cost us a client, but it has also damaged our reputation.",
+        "Not only was I not informed, but no one even bothered to apologize."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu, phải đảo trợ động từ lên trước chủ ngữ ('did the delay', 'was I'). Cấu trúc nâng cao này nhấn mạnh chồng chất hậu quả, rất ăn điểm ở C1 — nhưng phải đảo đúng kẻo sai ngữ pháp."
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], the situation has [V].",
+      "use": "Nêu sự bất bình rằng dù đã có nỗ lực/cam kết, kết quả vẫn không đổi.",
+      "register": "formal",
+      "examples": [
+        "Despite repeated assurances, the situation has not improved in the slightest.",
+        "Despite having raised this twice already, I've yet to receive a proper response."
+      ],
+      "explanationVi": "'Despite + danh từ / V-ing' (KHÔNG đi với mệnh đề có chủ ngữ-động từ như 'although'). Cấu trúc này làm nổi bật khoảng cách giữa lời hứa và thực tế — một cách phàn nàn sắc bén mà vẫn lịch sự."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng thì", "when": "Mở đầu một nhận xét thật lòng, hơi khó nghe nhưng chân thành.", "example": "Frankly, I expected far better given how much we're paying." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng thì", "when": "Chèn vào để thừa nhận một điểm hợp lý của đối phương, làm giọng phàn nàn cân bằng hơn.", "example": "To be fair, the staff did try to help, but the system simply let them down." },
+    { "term": "with all due respect", "ipa": "/wɪð ɔːl djuː rɪˈspekt/", "vi": "nói với tất cả sự tôn trọng", "when": "Báo trước rằng bạn sắp phản đối điều ai đó vừa nói, dù vẫn giữ phép lịch sự.", "example": "With all due respect, that explanation doesn't quite add up." },
+    { "term": "to put it mildly", "ipa": "/tə pʊt ɪt ˈmaɪld.li/", "vi": "nói giảm đi thì là vậy (ngụ ý thực tế còn tệ hơn)", "when": "Cuối câu, để mỉa nhẹ rằng tình hình còn tệ hơn lời bạn vừa nói.", "example": "The service was disappointing, to put it mildly." },
+    { "term": "quite frankly", "ipa": "/kwaɪt ˈfræŋk.li/", "vi": "thật sự mà nói", "when": "Nhấn mạnh sự thẳng thắn, thường trước một nhận định khá kiên quyết.", "example": "Quite frankly, I'm not prepared to wait any longer." },
+    { "term": "at the end of the day", "ipa": "/ət ðiː end ɒv ðə deɪ/", "vi": "suy cho cùng thì", "when": "Dẫn vào kết luận, điều quan trọng nhất sau khi đã phàn nàn.", "example": "At the end of the day, all I'm asking for is what I was promised." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là khách hàng doanh nghiệp đã thuê một công ty cung cấp dịch vụ phần mềm. Dự án bị trễ hạn nhiều lần và lỗi vẫn chưa được sửa. Bạn gặp người quản lý dự án (Account Manager) để bày tỏ sự bực bội nhưng vẫn muốn giữ quan hệ và hướng tới giải pháp.",
+    "lines": [
+      {
+        "speaker": "Quản lý dự án",
+        "text": "Thanks for making the time today. I gather there are a few things you'd like to go over, so please, feel free to be open with me.",
+        "ipa": "/θæŋks fɔːr ˈmeɪ.kɪŋ ðə taɪm təˈdeɪ aɪ ˈɡæð.ər ðeər ɑːr ə fjuː θɪŋz juːd laɪk tə ɡəʊ ˈəʊ.vər səʊ pliːz fiːl friː tə biː ˈəʊ.pən wɪð miː/",
+        "vi": "Cảm ơn anh đã dành thời gian hôm nay. Tôi đoán có vài điều anh muốn trao đổi, nên cứ thoải mái nói thẳng với tôi nhé."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate you seeing me. I don't mean to complain, but I have to be ____ with you: despite the assurances we were given last month, the project has slipped yet again, which has caused us a great deal of inconvenience.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt juː ˈsiː.ɪŋ miː aɪ dəʊnt miːn tə kəmˈpleɪn bʌt aɪ hæv tə biː ... wɪð juː dɪˈspaɪt ðiː əˈʃʊə.rən.sɪz wiː wɜː ˈɡɪv.ən lɑːst mʌnθ ðə ˈprɒdʒ.ekt hæz slɪpt jet əˈɡen wɪtʃ hæz kɔːzd ʌs ə ɡreɪt diːl ɒv ˌɪn.kənˈviː.ni.əns/",
+        "vi": "Cảm ơn chị đã gặp tôi. Tôi không có ý phàn nàn, nhưng tôi phải nói ____ với chị: bất chấp những cam kết chúng tôi nhận được tháng trước, dự án lại trễ thêm lần nữa, điều này đã gây cho chúng tôi rất nhiều phiền toái.",
+        "blanks": [
+          { "type": "knowledge", "answer": "honest", "explanationVi": "Cụm cố định 'to be honest with you' (thật lòng với anh/chị) báo hiệu bạn sắp nói thẳng. Xem mẫu câu 'I have to be honest with you — ...'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý dự án",
+        "text": "I completely understand your frustration, and I'm genuinely sorry. We've been short-staffed this quarter, although I realize that's no excuse from your point of view.",
+        "ipa": "/aɪ kəmˈpliːt.li ˌʌn.dəˈstænd jɔːr frʌsˈtreɪ.ʃən ænd aɪm ˈdʒen.ju.ɪn.li ˈsɒr.i wiːv biːn ʃɔːtˈstɑːft ðɪs ˈkwɔː.tər ɔːlˈðəʊ aɪ ˈrɪə.laɪz ðæts nəʊ ɪkˈskjuːs frɒm jɔːr pɔɪnt ɒv vjuː/",
+        "vi": "Tôi hoàn toàn hiểu sự bực bội của anh, và tôi thành thật xin lỗi. Quý này chúng tôi thiếu nhân sự, dù tôi biết đó không phải là cái cớ chấp nhận được dưới góc nhìn của anh."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate that you're under pressure, ____ a delay of nearly ____ weeks with no proactive update is, quite frankly, unacceptable. Not only did it cost us a key client, but it has also put my own credibility on the line.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt juːr ˈʌn.dər ˈpreʃ.ər ... ə dɪˈleɪ ɒv ˈnɪə.li ... wiːks wɪð nəʊ prəʊˈæk.tɪv ˈʌp.deɪt ɪz kwaɪt ˈfræŋk.li ʌn.əkˈsep.tə.bəl nɒt ˈəʊn.li dɪd ɪt kɒst ʌs ə kiː ˈklaɪ.ənt bʌt ɪt hæz ˈɔːl.səʊ pʊt maɪ əʊn ˌkred.ɪˈbɪl.ə.ti ɒn ðə laɪn/",
+        "vi": "Tôi thông cảm rằng chị đang chịu áp lực, ____ việc trễ gần ____ tuần mà không hề chủ động cập nhật thì, thật sự mà nói, không thể chấp nhận được. Nó không những khiến chúng tôi mất một khách hàng quan trọng, mà còn đẩy uy tín của chính tôi vào thế khó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Mẫu 'I appreciate that..., but...' (nhượng bộ rồi phản biện): vế đầu thừa nhận hoàn cảnh đối phương, 'but' mới đưa ra điều không chấp nhận được. Xem mẫu câu cùng tên." },
+          { "type": "personal", "hint": "Số tuần bị trễ theo tình huống của bạn. Ví dụ: 'three', 'four'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý dự án",
+        "text": "That's a fair point, and you're absolutely right to raise it. May I ask what outcome would feel reasonable to you at this stage?",
+        "ipa": "/ðæts ə feər pɔɪnt ænd jɔːr ˈæb.sə.luːt.li raɪt tə reɪz ɪt meɪ aɪ ɑːsk wɒt ˈaʊt.kʌm wʊd fiːl ˈriː.zən.ə.bəl tə juː ət ðɪs steɪdʒ/",
+        "vi": "Đó là một ý kiến xác đáng, và anh hoàn toàn có lý khi nêu ra. Tôi có thể hỏi kết quả thế nào thì anh thấy hợp lý ở giai đoạn này không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Rather than placing blame, I'd prefer to focus on how we can put this right. Could you ____ assign a dedicated developer to our account so that the outstanding bugs are fixed by Friday?",
+        "ipa": "/ˈrɑː.ðər ðæn ˈpleɪ.sɪŋ bleɪm aɪd prɪˈfɜː tə ˈfəʊ.kəs ɒn haʊ wiː kæn pʊt ðɪs raɪt kʊd juː ... əˈsaɪn ə ˈded.ɪ.keɪ.tɪd dɪˈvel.ə.pər tə ˈaʊər əˈkaʊnt səʊ ðæt ðiː aʊtˈstæn.dɪŋ bʌɡz ɑːr fɪkst baɪ ˈfraɪ.deɪ/",
+        "vi": "Thay vì đổ lỗi, tôi muốn tập trung vào việc chúng ta khắc phục chuyện này thế nào. Chị có thể ____ phân một lập trình viên chuyên trách cho dự án của chúng tôi để các lỗi còn tồn đọng được sửa xong trước thứ Sáu không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "possibly", "explanationVi": "'Could you possibly + V...?' là mức đề nghị lịch sự bậc cao. 'possibly' làm yêu cầu nghe khiêm tốn, đỡ áp đặt. Xem mẫu câu 'Could you possibly... so that...?'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý dự án",
+        "text": "That's more than fair. I'll reassign our senior developer today, and I'll personally send you a progress report every evening until everything is resolved.",
+        "ipa": "/ðæts mɔːr ðæn feər aɪl ˌriːəˈsaɪn ˈaʊər ˈsiː.ni.ər dɪˈvel.ə.pər təˈdeɪ ænd aɪl ˈpɜː.sən.ə.li send juː ə ˈprəʊ.ɡres rɪˈpɔːt ˈev.ri ˈiːv.nɪŋ ʌnˈtɪl ˈev.ri.θɪŋ ɪz rɪˈzɒlvd/",
+        "vi": "Như thế là quá hợp lý. Hôm nay tôi sẽ phân lại lập trình viên cấp cao của chúng tôi, và tôi sẽ đích thân gửi anh báo cáo tiến độ mỗi tối cho đến khi mọi thứ được giải quyết xong."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I genuinely appreciate that. Reluctantly, I'd been considering whether to ____ this to your director, but if you follow through as you've described, I'd much rather we sort it out between us.",
+        "ipa": "/aɪ ˈdʒen.ju.ɪn.li əˈpriː.ʃi.eɪt ðæt rɪˈlʌk.tənt.li aɪd biːn kənˈsɪd.ər.ɪŋ ˈweð.ər tə ... ðɪs tə jɔːr daɪˈrek.tər bʌt ɪf juː ˈfɒl.əʊ θruː æz juːv dɪˈskraɪbd aɪd mʌtʃ ˈrɑː.ðər wiː sɔːt ɪt aʊt bɪˈtwiːn ʌs/",
+        "vi": "Tôi thật sự cảm kích điều đó. Thú thật, tôi đã cân nhắc có nên ____ chuyện này lên giám đốc của chị hay không, nhưng nếu chị làm đúng như đã nói, tôi muốn hai bên tự giải quyết với nhau hơn nhiều.",
+        "blanks": [
+          { "type": "knowledge", "answer": "escalate", "explanationVi": "Động từ 'escalate' = đẩy vấn đề lên cấp cao hơn. Nói ra ý này một cách nhẹ nhàng (kèm 'reluctantly') vừa cảnh báo vừa giữ thiện chí. Xem mục từ vựng 'to escalate'." }
+        ]
+      },
+      {
+        "speaker": "Quản lý dự án",
+        "text": "Understood, and thank you for giving us the chance to make it right. You have my word that you'll see real progress by the end of the week.",
+        "ipa": "/ˌʌn.dəˈstʊd ænd θæŋk juː fɔːr ˈɡɪv.ɪŋ ʌs ðə tʃɑːns tə meɪk ɪt raɪt juː hæv maɪ wɜːd ðæt juːl siː rɪəl ˈprəʊ.ɡres baɪ ðiː end ɒv ðə wiːk/",
+        "vi": "Tôi hiểu rồi, và cảm ơn anh đã cho chúng tôi cơ hội sửa sai. Tôi cam đoan với anh rằng anh sẽ thấy tiến triển thực sự trước cuối tuần này."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, người ta đánh giá cao việc 'phàn nàn mà vẫn xây dựng' (constructive complaining): nêu vấn đề kèm dẫn chứng rồi chuyển ngay sang đề xuất giải pháp, thay vì chỉ trút giận.",
+    "Nói giảm (understatement) và rào đón (hedging) như 'I don't mean to complain, but...' hay 'to put it mildly' rất phổ biến — người Anh đặc biệt hay dùng. Phàn nàn quá trực diện dễ bị coi là thô lỗ.",
+    "Giữ giọng điềm tĩnh và tập trung vào hành vi/sự việc ('the delay', 'the service') thay vì công kích cá nhân ('you are lazy') giúp giữ thể diện cho cả hai bên và dễ đạt được điều mình muốn.",
+    "Cụm 'with all due respect' tuy nghe lịch sự nhưng người bản xứ hiểu đó là tín hiệu bạn sắp phản đối khá mạnh — hãy dùng có chủ đích, không lạm dụng."
+  ],
+
+  "commonMistakes": [
+    "Dịch thẳng 'tôi rất tức giận' thành 'I am very angry' nghe quá gay gắt trong môi trường chuyên nghiệp — nên dùng 'frustrated', 'disappointed' hoặc cách nói giảm để giữ chừng mực.",
+    "Sai đảo ngữ với 'Not only...': phải đảo trợ động từ lên trước chủ ngữ — 'Not only DID it cost us...', không phải 'Not only it cost us...'.",
+    "Nhầm 'despite' với 'although': 'despite' + danh từ/V-ing ('despite the delay'), còn 'although' + mệnh đề đầy đủ ('although it was delayed'). Không nói 'despite it was delayed'.",
+    "Yêu cầu trống không kiểu 'Fix it now'. Hãy bọc bằng 'Could you possibly...?' hoặc 'Would it be possible to...?' và thêm 'so that...' để nêu lý do."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện bày tỏ bực bội một cách khéo léo như trong tình huống thật.",
+    "prompt": "Hãy đóng vai một người quản lý dịch vụ khách hàng (hoặc quản lý dự án) nói tiếng Anh. Tôi là khách hàng đang bực bội vì dịch vụ bị trễ hạn và lỗi chưa được sửa, nhưng tôi muốn phàn nàn một cách lịch sự, chuyên nghiệp và hướng tới giải pháp. Hãy bắt đầu bằng cách mời tôi trình bày vấn đề. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người quản lý thật, đôi khi đưa ra lý do biện minh để tôi tập phản biện khéo léo; (2) sửa lỗi ngữ pháp và chỉ ra chỗ nào tôi nói nghe quá gay gắt hoặc quá yếu, rồi gợi ý cách diễn đạt vừa phải hơn bằng tiếng Việt; (3) khuyến khích tôi dùng cách nói giảm nhẹ và các cấu trúc như 'I appreciate that..., but...', 'despite...', 'not only... but also', 'Could you possibly...?'. Thỉnh thoảng tạo tình huống bất ngờ (ví dụ từ chối yêu cầu của tôi) để tôi tập giữ bình tĩnh. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người khó tính, ban đầu phủ nhận trách nhiệm, để tôi tập kiên trì mà vẫn lịch sự.'",
+      "Thêm: 'Hãy yêu cầu tôi diễn đạt lại cùng một lời phàn nàn ở ba mức register khác nhau: với đồng nghiệp, với khách hàng, và trong email trang trọng.'",
+      "Thêm: 'Hãy đẩy tình huống lên: tôi cần thương lượng một khoản bồi thường mà không làm hỏng quan hệ.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời phàn nàn được bằng cách rào đón ('I don't mean to complain, but...') thay vì nói thẳng gay gắt.",
+    "Tôi dùng được mẫu 'I appreciate that..., but...' để vừa thông cảm vừa giữ vững quan điểm.",
+    "Tôi chuyển được từ trách móc sang đề xuất giải pháp cụ thể bằng 'Could you possibly... so that...?'."
+  ]
+}

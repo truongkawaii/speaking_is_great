@@ -1,0 +1,315 @@
+{
+  "id": "weekend-with-family",
+  "category": "family",
+  "title": "Cuối tuần cùng gia đình",
+  "titleEn": "Weekend with Family",
+  "level": "A2",
+  "functions": ["small-talk", "suggesting", "describing", "opinions"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi và kể về kế hoạch cuối tuần của gia đình bằng câu đơn giản",
+    "Đề xuất một hoạt động chung (đi công viên, nấu ăn, xem phim)",
+    "Bày tỏ thích / không thích một cách lịch sự",
+    "Dùng được 'because', 'such as' để nối câu cho tự nhiên hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "weekend",
+      "ipa": "/ˈwiːk.end/",
+      "vi": "cuối tuần (danh từ)",
+      "register": "neutral",
+      "example": "We always relax at the weekend.",
+      "exampleVi": "Chúng tôi luôn thư giãn vào cuối tuần.",
+      "note": "Danh từ. Anh-Anh nói 'at the weekend', Anh-Mỹ nói 'on the weekend' — cả hai đều đúng."
+    },
+    {
+      "term": "to relax",
+      "ipa": "/rɪˈlæks/",
+      "vi": "thư giãn, nghỉ ngơi (động từ)",
+      "register": "neutral",
+      "example": "On Sunday I like to relax at home.",
+      "exampleVi": "Chủ nhật tôi thích thư giãn ở nhà.",
+      "note": "Động từ. Tính từ là 'relaxed' (cảm thấy thư giãn) và 'relaxing' (khiến ta thư giãn).",
+      "synonyms": [
+        { "term": "to rest", "ipa": "/rest/", "register": "neutral", "nuanceVi": "Nhấn vào 'nghỉ cho lại sức' (thường khi mệt). 'relax' rộng hơn, là thả lỏng đầu óc nói chung." },
+        { "term": "to chill", "ipa": "/tʃɪl/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'thư giãn, chơi cho thoải mái'. Hợp khi nói chuyện thân mật với bạn bè, gia đình." }
+      ]
+    },
+    {
+      "term": "plan",
+      "ipa": "/plæn/",
+      "vi": "kế hoạch (danh từ); lên kế hoạch (động từ)",
+      "register": "neutral",
+      "example": "Do you have any plans for the weekend?",
+      "exampleVi": "Bạn có kế hoạch gì cho cuối tuần không?",
+      "note": "Vừa là danh từ vừa là động từ. Hỏi kế hoạch hay dùng số nhiều: 'any plans?'.",
+      "synonyms": [
+        { "term": "idea", "ipa": "/aɪˈdɪə/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'plan'. 'idea' chỉ là một ý nghĩ chợt đến, chưa chắc chắn; 'plan' đã rõ ràng hơn." }
+      ]
+    },
+    {
+      "term": "to visit",
+      "ipa": "/ˈvɪz.ɪt/",
+      "vi": "đi thăm (ai/nơi nào đó) (động từ)",
+      "register": "neutral",
+      "example": "We often visit my grandparents on Sunday.",
+      "exampleVi": "Chúng tôi hay đến thăm ông bà vào chủ nhật.",
+      "note": "Động từ. Đi thẳng với tân ngữ, KHÔNG cần giới từ: 'visit my grandparents' (không nói 'visit to')."
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ər/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "Let's cook dinner together tonight.",
+      "exampleVi": "Tối nay mình cùng nhau nấu bữa tối nhé.",
+      "note": "Trạng từ, thường đứng cuối câu. Phát âm trọng âm ở 'geth': /təˈɡeð.ər/."
+    },
+    {
+      "term": "delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "vi": "ngon (tính từ)",
+      "register": "neutral",
+      "example": "My mom makes a delicious soup.",
+      "exampleVi": "Mẹ tôi nấu món súp rất ngon.",
+      "note": "Tính từ. Khen đồ ăn rất tự nhiên. Mạnh hơn 'good' khi nói về món ăn.",
+      "synonyms": [
+        { "term": "tasty", "ipa": "/ˈteɪ.sti/", "register": "casual", "nuanceVi": "Đời thường, dễ dùng hằng ngày, nghĩa 'ngon miệng'. Nhẹ hơn 'delicious' một chút." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất thân mật, hơi trẻ con/dễ thương. Hay dùng trong gia đình, với trẻ nhỏ." }
+      ]
+    },
+    {
+      "term": "tired",
+      "ipa": "/taɪərd/",
+      "vi": "mệt, mệt mỏi (tính từ)",
+      "register": "neutral",
+      "example": "I'm a bit tired, so I want to stay home.",
+      "exampleVi": "Tôi hơi mệt nên muốn ở nhà.",
+      "note": "Tính từ. 'tired' là mệt bình thường; mức độ nặng hơn xem các từ đồng nghĩa.",
+      "synonyms": [
+        { "term": "exhausted", "ipa": "/ɪɡˈzɔːs.tɪd/", "register": "neutral", "nuanceVi": "Mạnh hơn nhiều: 'kiệt sức, mệt lử'. Dùng khi rất mệt, không còn sức." },
+        { "term": "sleepy", "ipa": "/ˈsliː.pi/", "register": "casual", "nuanceVi": "Nhấn vào 'buồn ngủ', không hẳn là mệt. Khác sắc thái với 'tired'." }
+      ]
+    },
+    {
+      "term": "fun",
+      "ipa": "/fʌn/",
+      "vi": "vui, thú vị (tính từ / danh từ)",
+      "register": "neutral",
+      "example": "Going to the park is always fun.",
+      "exampleVi": "Đi công viên lúc nào cũng vui.",
+      "note": "Là tính từ ('It's fun') và danh từ ('have fun'). Đừng nhầm với 'funny' (buồn cười, hài hước).",
+      "synonyms": [
+        { "term": "enjoyable", "ipa": "/ɪnˈdʒɔɪ.ə.bəl/", "register": "neutral", "nuanceVi": "Trang trọng hơn 'fun' một chút, nghĩa 'dễ chịu, thú vị'. Hợp khi nói lịch sự." },
+        { "term": "great", "ipa": "/ɡreɪt/", "register": "casual", "nuanceVi": "Nghĩa 'tuyệt'. Khen chung chung, không chỉ riêng sự vui vẻ." }
+      ]
+    },
+    {
+      "term": "to suggest",
+      "ipa": "/səˈdʒest/",
+      "vi": "đề nghị, gợi ý (động từ)",
+      "register": "neutral",
+      "example": "I suggest going to the cinema.",
+      "exampleVi": "Tôi đề nghị đi xem phim.",
+      "note": "Động từ. Sau 'suggest' dùng V-ing ('suggest going'), KHÔNG dùng 'to go'.",
+      "synonyms": [
+        { "term": "to recommend", "ipa": "/ˌrek.əˈmend/", "register": "neutral", "nuanceVi": "Nhấn 'khuyên nên làm vì nó tốt'. 'suggest' nhẹ hơn, chỉ là đưa một ý cho mọi người cân nhắc." }
+      ]
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thường (trạng từ tần suất)",
+      "register": "neutral",
+      "example": "We usually have lunch together on Saturday.",
+      "exampleVi": "Chúng tôi thường ăn trưa cùng nhau vào thứ Bảy.",
+      "note": "Trạng từ tần suất, đứng TRƯỚC động từ thường ('we usually go') nhưng SAU động từ 'to be' ('she is usually busy').",
+      "synonyms": [
+        { "term": "often", "ipa": "/ˈɒf.ən/", "register": "neutral", "nuanceVi": "Nghĩa 'hay, thường xuyên' nhưng tần suất thấp hơn 'usually' một chút." },
+        { "term": "normally", "ipa": "/ˈnɔː.mə.li/", "register": "neutral", "nuanceVi": "Gần như 'usually', nhấn ý 'theo lệ thường'. Dùng thay nhau được." }
+      ]
+    },
+    {
+      "term": "free time",
+      "ipa": "/ˈfriː taɪm/",
+      "vi": "thời gian rảnh (danh từ)",
+      "register": "neutral",
+      "example": "What do you do in your free time?",
+      "exampleVi": "Bạn làm gì vào thời gian rảnh?",
+      "note": "Cụm danh từ. Luôn đi với giới từ 'in': 'in my free time'.",
+      "synonyms": [
+        { "term": "spare time", "ipa": "/ˈspeər taɪm/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'free time'. Dùng thay nhau thoải mái." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Do you have any plans for [thời gian]?",
+      "use": "Hỏi kế hoạch của người khác.",
+      "register": "neutral",
+      "examples": [
+        "Do you have any plans for the weekend?",
+        "Do you have any plans for Sunday?"
+      ],
+      "explanationVi": "Câu mở đầu rất tự nhiên để bắt chuyện về cuối tuần. 'any plans' luôn dùng số nhiều khi hỏi.",
+      "altOf": "asking-plans"
+    },
+    {
+      "pattern": "What are you going to do [thời gian]?",
+      "use": "Hỏi người khác sẽ làm gì (tương lai gần).",
+      "register": "neutral",
+      "examples": [
+        "What are you going to do this weekend?",
+        "What are you going to do tomorrow?"
+      ],
+      "explanationVi": "'be going to + V' diễn tả kế hoạch tương lai gần. Đây là cách hỏi khác cho cùng mục đích với 'Do you have any plans...?'.",
+      "altOf": "asking-plans"
+    },
+    {
+      "pattern": "Let's [động từ nguyên thể] together.",
+      "use": "Rủ ai đó cùng làm một việc.",
+      "register": "casual",
+      "examples": [
+        "Let's cook dinner together.",
+        "Let's watch a movie together tonight."
+      ],
+      "explanationVi": "'Let's' = 'Let us', dùng để rủ rê thân mật. Sau 'Let's' luôn là động từ nguyên thể (không 'to').",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Gợi ý một hoạt động chung một cách nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "Why don't we visit grandma this Sunday?",
+        "Why don't we go to the park?"
+      ],
+      "explanationVi": "Tuy có chữ 'Why' nhưng đây KHÔNG phải câu hỏi lý do — nó là một lời gợi ý ('Hay là mình...?'). Sau đó dùng động từ nguyên thể.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I'd like to [động từ nguyên thể] because [lý do].",
+      "use": "Nói mong muốn của mình kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to stay home because I'm a bit tired.",
+        "I'd like to go out because the weather is nice."
+      ],
+      "explanationVi": "'I'd like to' lịch sự hơn 'I want to'. Thêm 'because + lý do' giúp câu dài và tự nhiên hơn, đúng tinh thần A2 nâng cao.",
+      "altOf": "stating-preference"
+    },
+    {
+      "pattern": "I love [danh từ / V-ing], such as [ví dụ].",
+      "use": "Nói sở thích và cho ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "I love family activities, such as cooking and going to the park."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ. Cho ví dụ cụ thể giúp câu nói rõ ràng và sinh động hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "vi": "có lẽ, có thể", "when": "Khi đưa ra gợi ý mà chưa chắc chắn, nghe nhẹ nhàng.", "example": "Maybe we can go to the park in the afternoon." },
+    { "term": "sounds good", "ipa": "/saʊndz ɡʊd/", "vi": "nghe hay đấy (đồng ý)", "when": "Khi muốn đồng ý nhanh và vui vẻ với một gợi ý.", "example": "Going to the park? Sounds good!" },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi muốn nói một ý hơi khác mà không cộc lốc.", "example": "Actually, I'd prefer to stay home today." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi đồng ý một cách sẵn lòng, nhiệt tình.", "example": "Of course! I'd love to come with you." },
+    { "term": "a bit", "ipa": "/ə bɪt/", "vi": "hơi, một chút", "when": "Làm tính từ nhẹ đi, đỡ tuyệt đối (a bit tired, a bit busy).", "example": "I'm a bit tired, so let's stay home." }
+  ],
+
+  "dialogue": {
+    "context": "Sáng thứ Bảy, hai mẹ con (hoặc hai thành viên trong nhà) đang nói chuyện về kế hoạch cho cuối tuần này.",
+    "lines": [
+      {
+        "speaker": "Mẹ",
+        "text": "Good morning! It's a beautiful day. Do you have any plans for the weekend, or would you like to do something together?",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ ɪts ə ˈbjuː.tɪ.fəl deɪ duː juː hæv ˈen.i plænz fɔːr ðə ˈwiːk.end ɔːr wʊd juː laɪk tə duː ˈsʌm.θɪŋ təˈɡeð.ər/",
+        "vi": "Chào buổi sáng! Hôm nay trời đẹp quá. Con có kế hoạch gì cho cuối tuần chưa, hay mình cùng làm gì đó nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Mom! I don't have any plans yet. I'd like to do something fun together, ____ I'm a little tired from work this week.",
+        "ipa": "/ɡʊd ˈmɔːn.ɪŋ mɒm aɪ dəʊnt hæv ˈen.i plænz jet aɪd laɪk tə duː ˈsʌm.θɪŋ fʌn təˈɡeð.ər ... aɪm ə ˈlɪt.əl taɪərd frɒm wɜːk ðɪs wiːk/",
+        "vi": "Chào mẹ! Con chưa có kế hoạch gì cả. Con muốn cùng làm gì đó vui vui, ____ con hơi mệt vì công việc tuần này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' (= nhưng) để nối hai ý hơi trái nhau: muốn vui nhưng lại hơi mệt. Ở cấp A2, 'but' là từ nối cơ bản và rất tự nhiên." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "That's fine. We don't have to go far. Why don't we visit your grandparents in the morning, and then relax at home in the afternoon?",
+        "ipa": "/ðæts faɪn wiː dəʊnt hæv tə ɡəʊ fɑːr waɪ dəʊnt wiː ˈvɪz.ɪt jɔːr ˈɡræn.peə.rənts ɪn ðə ˈmɔːn.ɪŋ ænd ðen rɪˈlæks ət həʊm ɪn ðə ˌɑːf.təˈnuːn/",
+        "vi": "Không sao đâu con. Mình không cần đi xa. Hay là sáng mình đến thăm ông bà, rồi chiều về nhà nghỉ ngơi nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good! I really love visiting them. ____ we are there, maybe we can have lunch together, because Grandma always cooks delicious food.",
+        "ipa": "/ðæt saʊndz ɡʊd aɪ ˈrɪə.li lʌv ˈvɪz.ɪt.ɪŋ ðem ... wiː ɑːr ðeə ˈmeɪ.bi wiː kæn hæv lʌntʃ təˈɡeð.ər bɪˈkɒz ˈɡræn.mɑː ˈɔːl.weɪz kʊks dɪˈlɪʃ.əs fuːd/",
+        "vi": "Nghe hay đấy ạ! Con rất thích đến thăm ông bà. ____ mình ở đó, có lẽ mình ăn trưa cùng luôn, vì bà lúc nào cũng nấu đồ ăn rất ngon.",
+        "blanks": [
+          { "type": "knowledge", "answer": "While", "explanationVi": "Dùng 'While' (= trong khi) để chỉ hai việc xảy ra cùng lúc: trong khi mình ở đó thì ăn trưa luôn. Đây là từ nối thời gian thường gặp." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Great idea! And in the afternoon, what would you like to do? We could watch a movie or play some board games.",
+        "ipa": "/ɡreɪt aɪˈdɪə ænd ɪn ðə ˌɑːf.təˈnuːn wɒt wʊd juː laɪk tə duː wiː kʊd wɒtʃ ə ˈmuː.vi ɔːr pleɪ sʌm ˈbɔːd ɡeɪmz/",
+        "vi": "Ý hay đấy! Còn buổi chiều con muốn làm gì? Mình có thể xem phim hoặc chơi vài ván cờ bàn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "In the afternoon, I'd like to stay home and try some new activities, ____ baking a cake or watching a movie. I think a quiet afternoon is the best way to relax.",
+        "ipa": "/ɪn ðə ˌɑːf.təˈnuːn aɪd laɪk tə steɪ həʊm ænd traɪ sʌm njuː ækˈtɪv.ə.tiz ... ˈbeɪ.kɪŋ ə keɪk ɔːr ˈwɒtʃ.ɪŋ ə ˈmuː.vi aɪ θɪŋk ə ˈkwaɪ.ət ˌɑːf.təˈnuːn ɪz ðə best weɪ tə rɪˈlæks/",
+        "vi": "Buổi chiều con muốn ở nhà và thử vài hoạt động mới, ____ làm bánh hay xem phim. Con nghĩ một buổi chiều yên tĩnh là cách thư giãn tốt nhất.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ cho 'new activities'. Xem mẫu câu 'I love..., such as...' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Perfect. So let's visit your grandparents in the morning, and then we can bake a cake together at home. What kind of cake would you like to make?",
+        "ipa": "/ˈpɜː.fɪkt səʊ lets ˈvɪz.ɪt jɔːr ˈɡræn.peə.rənts ɪn ðə ˈmɔːn.ɪŋ ænd ðen wiː kæn beɪk ə keɪk təˈɡeð.ər ət həʊm wɒt kaɪnd ɒv keɪk wʊd juː laɪk tə meɪk/",
+        "vi": "Tuyệt vời. Vậy sáng mình đến thăm ông bà, rồi sau đó về nhà cùng làm bánh nhé. Con muốn làm loại bánh gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I'd love to make a ____ cake, because everyone in our family enjoys it. Thank you, Mom — this is going to be a really nice weekend together!",
+        "ipa": "/aɪd lʌv tə meɪk ə ... keɪk bɪˈkɒz ˈev.ri.wʌn ɪn ˈaʊə ˈfæm.əl.i ɪnˈdʒɔɪz ɪt θæŋk juː mɒm ðɪs ɪz ˈɡəʊ.ɪŋ tə biː ə ˈrɪə.li naɪs ˈwiːk.end təˈɡeð.ər/",
+        "vi": "Con muốn làm bánh ____, vì cả nhà mình ai cũng thích. Cảm ơn mẹ — đây sẽ là một cuối tuần thật tuyệt khi ở bên nhau!",
+        "blanks": [
+          { "type": "personal", "hint": "Loại bánh bạn thích. Ví dụ: 'chocolate', 'banana', 'cheese'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, bữa tối Chủ nhật cùng gia đình (Sunday dinner) là một thói quen ấm cúng được coi trọng.",
+    "Người bản xứ rất hay bắt chuyện bằng câu 'Do you have any plans for the weekend?' vào thứ Sáu — đây là một câu small-talk lịch sự.",
+    "Khi được rủ làm gì đó, từ chối thẳng ('No') nghe hơi phũ. Nên nói mềm hơn: 'Maybe next time' hoặc nêu lý do nhẹ nhàng."
+  ],
+
+  "commonMistakes": [
+    "Sau 'suggest' dùng V-ing chứ không phải 'to V': 'I suggest GOING', không nói 'I suggest to go'.",
+    "Thêm giới từ thừa sau 'visit': nói 'visit my grandparents', KHÔNG nói 'visit to my grandparents'.",
+    "Nhầm 'fun' (vui) với 'funny' (buồn cười). 'The park is fun', không phải 'The park is funny'.",
+    "Đặt sai vị trí trạng từ tần suất: phải nói 'We usually go', không nói 'We go usually'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về cuối tuần gia đình như thật.",
+    "prompt": "Hãy đóng vai một thành viên trong gia đình tôi (mẹ, bố, hoặc anh/chị) nói tiếng Anh đơn giản ở trình độ A2. Chúng ta đang nói chuyện về kế hoạch cuối tuần. Hãy bắt đầu bằng cách hỏi tôi có kế hoạch gì chưa. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thân mật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) gợi ý tôi dùng 'Let's...', 'Why don't we...?' và 'because' để câu dài hơn. Thỉnh thoảng hãy đưa một tình huống bất ngờ (ví dụ trời mưa, ông bà bận) để tôi tập xử lý. Nói chậm rãi, dùng câu ngắn. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm về lý do tại sao tôi thích hoạt động đó.' để tập nói dài hơn.",
+      "Thêm câu: 'Cuối buổi, hãy nêu 3 từ hoặc câu tôi nên học thuộc.' để ghi nhớ."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được về kế hoạch cuối tuần bằng câu 'Do you have any plans...?'.",
+    "Tôi đề xuất được một hoạt động bằng 'Let's...' hoặc 'Why don't we...?'.",
+    "Tôi nói được mong muốn của mình kèm lý do với 'because'."
+  ]
+}

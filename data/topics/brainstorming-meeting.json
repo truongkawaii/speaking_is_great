@@ -1,0 +1,346 @@
+{
+  "id": "brainstorming-meeting",
+  "category": "work",
+  "title": "Họp brainstorm",
+  "titleEn": "Brainstorming Meeting",
+  "level": "B2",
+  "functions": ["suggesting", "opinions", "agreeing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Đề xuất và phát triển ý tưởng bằng câu dài, mạch lạc trong cuộc họp",
+    "Bày tỏ đồng tình hoặc bất đồng một cách lịch sự, chuyên nghiệp",
+    "Xây dựng tiếp ý tưởng của người khác và đặt câu hỏi làm rõ",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, in order to) khi thảo luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "brainstorm",
+      "ipa": "/ˈbreɪn.stɔːrm/",
+      "vi": "động não, nghĩ ý tưởng tự do (động từ / danh từ)",
+      "register": "neutral",
+      "example": "Let's brainstorm a few ideas before we narrow them down.",
+      "exampleVi": "Hãy động não vài ý tưởng trước khi chọn lọc lại.",
+      "note": "Vừa là động từ ('to brainstorm ideas') vừa là danh từ ('a brainstorm / a brainstorming session'). Nhấn mạnh việc đưa ra thật nhiều ý mà chưa phán xét.",
+      "synonyms": [
+        { "term": "to ideate", "ipa": "/ˈaɪ.di.eɪt/", "register": "formal", "nuanceVi": "Trang trọng, hơi 'sách vở', hay gặp trong môi trường thiết kế/khởi nghiệp. Nghĩa: tạo ra và phát triển ý tưởng." },
+        { "term": "to bounce ideas around", "ipa": "/baʊns aɪˈdɪəz əˈraʊnd/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tung qua tung lại các ý tưởng để cùng bàn'. Hợp lúc trao đổi thân mật trong nhóm nhỏ." }
+      ]
+    },
+    {
+      "term": "feasible",
+      "ipa": "/ˈfiː.zə.bəl/",
+      "vi": "khả thi, có thể thực hiện được (tính từ)",
+      "register": "neutral",
+      "example": "The idea sounds exciting, but is it actually feasible within our budget?",
+      "exampleVi": "Ý tưởng nghe hấp dẫn đấy, nhưng nó có thực sự khả thi trong ngân sách của ta không?",
+      "note": "Tính từ. Dùng để cân nhắc một ý tưởng có thực hiện được trên thực tế hay không (thời gian, tiền, nguồn lực).",
+      "synonyms": [
+        { "term": "viable", "ipa": "/ˈvaɪ.ə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'có thể sống sót/thành công lâu dài', không chỉ làm được mà còn đáng làm. Hay đi với 'commercially viable'." },
+        { "term": "realistic", "ipa": "/ˌrɪə.ˈlɪs.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'thực tế, không viển vông'. Gần nghĩa nhưng thiên về sự hợp lý của kỳ vọng hơn là kỹ thuật thực hiện." },
+        { "term": "doable", "ipa": "/ˈduː.ə.bəl/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'làm được'. Nghe nhẹ nhàng, hợp họp nội bộ thân mật hơn là báo cáo trang trọng." }
+      ]
+    },
+    {
+      "term": "to come up with",
+      "ipa": "/kʌm ʌp wɪð/",
+      "vi": "nghĩ ra, đưa ra (cụm động từ)",
+      "register": "neutral",
+      "example": "We need to come up with a solution before Friday.",
+      "exampleVi": "Chúng ta cần nghĩ ra giải pháp trước thứ Sáu.",
+      "note": "Cụm động từ rất thông dụng, đi với ý tưởng/giải pháp/kế hoạch. Tự nhiên hơn 'create' khi nói về việc nảy ra ý.",
+      "synonyms": [
+        { "term": "to devise", "ipa": "/dɪˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'nghĩ ra một cách có tính toán, có hệ thống' (devise a strategy/plan)." },
+        { "term": "to generate", "ipa": "/ˈdʒen.ə.reɪt/", "register": "neutral", "nuanceVi": "Nhấn 'tạo ra số lượng nhiều' (generate ideas/leads). Hợp giai đoạn động não cần nhiều ý." }
+      ]
+    },
+    {
+      "term": "innovative",
+      "ipa": "/ˈɪn.ə.veɪ.tɪv/",
+      "vi": "đổi mới, sáng tạo (tính từ)",
+      "register": "neutral",
+      "example": "The team is known for its innovative approach to problem-solving.",
+      "exampleVi": "Nhóm này nổi tiếng với cách tiếp cận đổi mới khi giải quyết vấn đề.",
+      "note": "Tính từ mang sắc thái tích cực, chỉ cái mới mẻ và hiệu quả. Trọng âm rơi vào âm đầu: IN-no-va-tive.",
+      "synonyms": [
+        { "term": "groundbreaking", "ipa": "/ˈɡraʊndˌbreɪ.kɪŋ/", "register": "formal", "nuanceVi": "Mạnh hơn, nghĩa 'mang tính đột phá, mở ra cái chưa từng có'. Dùng cho thứ thực sự lớn lao." },
+        { "term": "creative", "ipa": "/kriˈeɪ.tɪv/", "register": "neutral", "nuanceVi": "Nhấn 'giàu ý tưởng, có óc sáng tạo'. Rộng và an toàn hơn 'innovative' (vốn nhấn cái mới + hữu dụng)." },
+        { "term": "cutting-edge", "ipa": "/ˌkʌt.ɪŋ ˈedʒ/", "register": "neutral", "nuanceVi": "Nghĩa 'tân tiến nhất, dẫn đầu công nghệ'. Hay dùng cho sản phẩm/công nghệ hơn là cho con người." }
+      ]
+    },
+    {
+      "term": "to prioritize",
+      "ipa": "/praɪˈɒr.ɪ.taɪz/",
+      "vi": "ưu tiên, sắp xếp thứ tự quan trọng (động từ)",
+      "register": "neutral",
+      "example": "Once we have all the ideas, we should prioritize the most promising ones.",
+      "exampleVi": "Khi đã có hết ý tưởng, ta nên ưu tiên những ý hứa hẹn nhất.",
+      "note": "Động từ. Sau giai đoạn nghĩ ra nhiều ý, đây là bước chọn ý nào làm trước. Anh-Anh viết 'prioritise'.",
+      "synonyms": [
+        { "term": "to rank", "ipa": "/ræŋk/", "register": "neutral", "nuanceVi": "Nhấn 'xếp hạng theo thứ tự cụ thể'. Cụ thể hơn 'prioritize' (vốn chỉ chung là coi trọng cái gì trước)." }
+      ]
+    },
+    {
+      "term": "drawback",
+      "ipa": "/ˈdrɔː.bæk/",
+      "vi": "nhược điểm, mặt hạn chế (danh từ)",
+      "register": "neutral",
+      "example": "The main drawback of this plan is the high cost.",
+      "exampleVi": "Nhược điểm chính của kế hoạch này là chi phí cao.",
+      "note": "Danh từ. Dùng để chỉ ra điểm bất lợi của một ý tưởng một cách trung lập, không gay gắt.",
+      "synonyms": [
+        { "term": "downside", "ipa": "/ˈdaʊn.saɪd/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, đời thường hơn một chút. Hay đi cặp 'the upside and the downside'." },
+        { "term": "limitation", "ipa": "/ˌlɪm.ɪˈteɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'giới hạn về khả năng/phạm vi', nghe khách quan và nhẹ hơn 'drawback'." }
+      ]
+    },
+    {
+      "term": "to build on",
+      "ipa": "/bɪld ɒn/",
+      "vi": "phát triển dựa trên (ý tưởng của ai đó) (cụm động từ)",
+      "register": "neutral",
+      "example": "I'd like to build on what Mai just said about the mobile app.",
+      "exampleVi": "Tôi muốn phát triển thêm từ điều Mai vừa nói về ứng dụng di động.",
+      "note": "Cụm động từ rất 'ăn điểm' trong họp brainstorm: thể hiện bạn lắng nghe và nối tiếp ý người khác.",
+      "synonyms": [
+        { "term": "to expand on", "ipa": "/ɪkˈspænd ɒn/", "register": "neutral", "nuanceVi": "Nhấn 'nói thêm cho rộng/chi tiết hơn' một ý đã có. Gần nghĩa nhưng thiên về làm rõ hơn là tạo cái mới." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "neutral",
+      "example": "Please keep your feedback constructive rather than just critical.",
+      "exampleVi": "Hãy góp ý mang tính xây dựng thay vì chỉ phê bình.",
+      "note": "Tính từ. Hay đi với 'criticism / feedback'. Sắc thái tích cực: chê nhưng để giúp tốt lên.",
+      "synonyms": [
+        { "term": "helpful", "ipa": "/ˈhelp.fəl/", "register": "neutral", "nuanceVi": "Đơn giản, rộng nghĩa 'có ích'. 'Constructive' cụ thể hơn: góp ý có ích để cải thiện." }
+      ]
+    },
+    {
+      "term": "realistically",
+      "ipa": "/ˌrɪə.ˈlɪs.tɪk.li/",
+      "vi": "một cách thực tế (trạng từ)",
+      "register": "neutral",
+      "example": "Realistically, we can't finish all of this in one week.",
+      "exampleVi": "Nói thực tế thì ta không thể làm xong hết trong một tuần.",
+      "note": "Trạng từ. Hay đặt đầu câu để dẫn vào một đánh giá tỉnh táo, kéo cuộc họp về thực tế.",
+      "synonyms": [
+        { "term": "practically", "ipa": "/ˈpræk.tɪk.li/", "register": "neutral", "nuanceVi": "Nhấn 'xét về mặt thực hành/thực dụng'. Lưu ý 'practically' còn có nghĩa 'gần như', dễ gây nhầm tùy ngữ cảnh." }
+      ]
+    },
+    {
+      "term": "to flesh out",
+      "ipa": "/fleʃ aʊt/",
+      "vi": "làm cụ thể/chi tiết hơn (cụm động từ)",
+      "register": "neutral",
+      "example": "It's a promising idea, but we need to flesh out the details.",
+      "exampleVi": "Đó là một ý tưởng hứa hẹn, nhưng ta cần làm chi tiết hơn.",
+      "note": "Cụm động từ, nghĩa 'thêm thịt vào bộ xương' — biến ý sơ khai thành kế hoạch đầy đủ.",
+      "synonyms": [
+        { "term": "to elaborate", "ipa": "/ɪˈlæb.ə.reɪt/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'nói/trình bày kỹ hơn'. Hay dùng dạng yêu cầu lịch sự: 'Could you elaborate?'" }
+      ]
+    },
+    {
+      "term": "consensus",
+      "ipa": "/kənˈsen.səs/",
+      "vi": "sự đồng thuận chung (danh từ)",
+      "register": "formal",
+      "example": "It seems we've reached a consensus on the first two ideas.",
+      "exampleVi": "Có vẻ chúng ta đã đạt được sự đồng thuận về hai ý tưởng đầu.",
+      "note": "Danh từ. Hay đi với 'reach / come to a consensus'. Chỉ tình trạng cả nhóm cùng nhất trí.",
+      "synonyms": [
+        { "term": "agreement", "ipa": "/əˈɡriː.mənt/", "register": "neutral", "nuanceVi": "Rộng và đời thường hơn. 'Consensus' nhấn 'cả nhóm đều đồng ý', còn 'agreement' có thể chỉ giữa hai bên." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What if we [V nguyên thể]? It could [V].",
+      "use": "Tung ra một ý tưởng mới một cách nhẹ nhàng, mời mọi người cùng cân nhắc.",
+      "register": "neutral",
+      "examples": [
+        "What if we launched a referral program? It could bring in new customers quickly."
+      ],
+      "explanationVi": "'What if we…?' là cách gợi ý không áp đặt, để ngỏ cho người khác phản hồi. Rất hợp giai đoạn động não cần nhiều ý.",
+      "altOf": "proposing-idea"
+    },
+    {
+      "pattern": "I'd suggest [V-ing], not only because [mệnh đề], but also because [mệnh đề].",
+      "use": "Đề xuất một ý tưởng kèm hai lý do thuyết phục.",
+      "register": "formal",
+      "examples": [
+        "I'd suggest focusing on the app, not only because it's cheaper, but also because our users prefer mobile."
+      ],
+      "explanationVi": "'I'd suggest + V-ing' lịch sự, đỡ áp đặt. Cấu trúc 'not only… but also…' gộp hai lý do, nghe chặt chẽ và có sức nặng hơn.",
+      "altOf": "proposing-idea"
+    },
+    {
+      "pattern": "I see your point; however, [mệnh đề].",
+      "use": "Bất đồng lịch sự — ghi nhận ý người kia trước rồi mới nêu quan điểm khác.",
+      "register": "neutral",
+      "examples": [
+        "I see your point; however, I'm not sure we have the budget for that this quarter."
+      ],
+      "explanationVi": "'I see your point' công nhận ý đối phương để không gây mất lòng, rồi 'however' dẫn vào ý ngược lại. Đây là nghệ thuật phản biện văn minh.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "That's a fair point, but [mệnh đề].",
+      "use": "Một cách khác để bất đồng nhẹ nhàng, thừa nhận trước khi phản biện.",
+      "register": "neutral",
+      "examples": [
+        "That's a fair point, but we should also think about how the customers will react."
+      ],
+      "explanationVi": "'That's a fair point' nghe thân thiện hơn 'however'. Cùng chức năng phản biện lịch sự nên gom chung nhóm với mẫu trên.",
+      "altOf": "disagreeing"
+    },
+    {
+      "pattern": "I'd like to build on what [tên] said about [danh từ].",
+      "use": "Nối tiếp và phát triển ý tưởng của người khác.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to build on what Mai said about the loyalty program."
+      ],
+      "explanationVi": "Câu này cho thấy bạn lắng nghe và hợp tác — rất được đánh giá cao trong họp nhóm. 'build on' = phát triển dựa trên ý có sẵn."
+    },
+    {
+      "pattern": "Although [mệnh đề], I still think we should [V] in order to [mục đích].",
+      "use": "Bảo vệ một đề xuất dù có điểm bất lợi, kèm mục đích rõ ràng.",
+      "register": "formal",
+      "examples": [
+        "Although it's a bit risky, I still think we should test it in order to learn from real users."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…), 'in order to' nêu mục đích. Bộ ba này tạo một lập luận dài, mạch lạc kiểu B2/TOEIC."
+    },
+    {
+      "pattern": "Could you elaborate on [danh từ]? I'm not quite sure I follow.",
+      "use": "Yêu cầu người nói giải thích rõ hơn một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you elaborate on the pricing idea? I'm not quite sure I follow."
+      ],
+      "explanationVi": "'Could you elaborate on…?' là cách hỏi làm rõ chuyên nghiệp. 'I'm not quite sure I follow' nói khéo rằng bạn chưa hiểu mà không tỏ ra kém."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Dẫn vào một ý kiến thẳng thắn, đôi khi hơi trái chiều.", "example": "Honestly, I think the second idea is far more practical." },
+    { "term": "personally", "ipa": "/ˈpɜːs.ən.ə.li/", "vi": "cá nhân tôi thì", "when": "Nhấn đây là quan điểm riêng, để ngỏ cho người khác nghĩ khác.", "example": "Personally, I'd rather start small and scale up later." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Khi muốn nhìn nhận một mặt tích cực/khách quan của ý đối phương.", "example": "To be fair, that approach has worked for other teams." },
+    { "term": "essentially", "ipa": "/ɪˈsen.ʃəl.i/", "vi": "về cơ bản, nói gọn lại", "when": "Tóm tắt hoặc đơn giản hóa một ý phức tạp.", "example": "Essentially, we're trying to reach younger customers." },
+    { "term": "ideally", "ipa": "/aɪˈdɪə.li/", "vi": "lý tưởng nhất thì", "when": "Nêu phương án mong muốn nhất trước khi tính đến thực tế.", "example": "Ideally, we'd launch before the holiday season." }
+  ],
+
+  "dialogue": {
+    "context": "Một nhóm nhỏ trong công ty đang họp brainstorm để tìm ý tưởng thu hút thêm khách hàng mới. Người chủ trì (Trưởng nhóm) khơi gợi và điều phối, bạn là một thành viên đóng góp ý tưởng.",
+    "lines": [
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Thanks everyone for joining. The goal today is to come up with fresh ideas for attracting new customers, so please feel free to share anything, even if it sounds a bit unusual at first.",
+        "ipa": "/θæŋks ˈev.ri.wʌn fɔːr ˈdʒɔɪ.nɪŋ ðə ɡəʊl təˈdeɪ ɪz tə kʌm ʌp wɪð freʃ aɪˈdɪəz fɔːr əˈtræk.tɪŋ njuː ˈkʌs.tə.məz səʊ pliːz fiːl friː tə ʃeər ˈen.i.θɪŋ ˈiː.vən ɪf ɪt saʊndz ə bɪt ʌnˈjuː.ʒu.əl ət fɜːst/",
+        "vi": "Cảm ơn mọi người đã tham gia. Mục tiêu hôm nay là nghĩ ra những ý tưởng mới để thu hút khách hàng mới, nên cứ thoải mái chia sẻ bất cứ điều gì, kể cả khi ban đầu nó nghe hơi lạ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thanks. ____ we partnered with a few local influencers? It could help us reach younger audiences, ____ those on platforms like TikTok and Instagram, without spending too much on traditional ads.",
+        "ipa": "/θæŋks wiː ˈpɑːt.nəd wɪð ə fjuː ˈləʊ.kəl ˈɪn.flu.ən.səz ɪt kʊd help ʌs riːtʃ ˈjʌŋ.ɡər ˈɔː.di.ən.səz ðəʊz ɒn ˈplæt.fɔːmz laɪk ˈtɪk.tɒk ænd ˈɪn.stə.ɡræm wɪðˈaʊt ˈspen.dɪŋ tuː mʌtʃ ɒn trəˈdɪʃ.ən.əl ædz/",
+        "vi": "Cảm ơn. ____ chúng ta hợp tác với vài người có ảnh hưởng ở địa phương thì sao? Nó có thể giúp ta tiếp cận nhóm khách trẻ hơn, ____ những người trên các nền tảng như TikTok và Instagram, mà không tốn quá nhiều cho quảng cáo truyền thống.",
+        "blanks": [
+          { "type": "knowledge", "answer": "What if", "explanationVi": "Mẫu tung ý tưởng nhẹ nhàng: 'What if we + V?'. Để ngỏ cho mọi người cân nhắc thay vì áp đặt. Xem mẫu câu 'What if we…?'." },
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'platforms'. Nêu ví dụ cụ thể nghe thuyết phục và rõ ràng hơn." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "That's an interesting angle. Although influencer marketing can be powerful, I'm a little worried about the cost. Realistically, how much do you think we'd need to make it work?",
+        "ipa": "/ðæts ən ˈɪn.trəs.tɪŋ ˈæŋ.ɡəl ɔːlˈðəʊ ˈɪn.flu.ən.sər ˈmɑː.kɪ.tɪŋ kæn biː ˈpaʊ.ə.fəl aɪm ə ˈlɪt.əl ˈwʌr.id əˈbaʊt ðə kɒst ˈrɪə.lɪs.tɪk.li haʊ mʌtʃ duː juː θɪŋk wiːd niːd tə meɪk ɪt wɜːk/",
+        "vi": "Đó là một góc nhìn thú vị. Mặc dù marketing qua người ảnh hưởng có thể rất mạnh, tôi hơi lo về chi phí. Nói thực tế thì bạn nghĩ ta cần bao nhiêu để nó hiệu quả?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a fair point about the budget. Honestly, we could start small ____ working with micro-influencers, who usually charge much less but still have very engaged followers, and then scale up if the results look promising.",
+        "ipa": "/ðæts ə feər pɔɪnt əˈbaʊt ðə ˈbʌdʒ.ɪt ˈɒn.ɪst.li wiː kʊd stɑːt smɔːl ˈwɜː.kɪŋ wɪð ˈmaɪ.krəʊ ˈɪn.flu.ən.səz huː ˈjuː.ʒu.ə.li tʃɑːdʒ mʌtʃ les bʌt stɪl hæv ˈver.i ɪnˈɡeɪdʒd ˈfɒl.əʊ.əz ænd ðen skeɪl ʌp ɪf ðə rɪˈzʌlts lʊk ˈprɒm.ɪ.sɪŋ/",
+        "vi": "Đó là một ý đúng về ngân sách. Thành thật mà nói, ta có thể bắt đầu nhỏ ____ hợp tác với các micro-influencer, những người thường lấy phí thấp hơn nhiều nhưng vẫn có lượng người theo dõi rất gắn kết, rồi mở rộng dần nếu kết quả khả quan.",
+        "blanks": [
+          { "type": "knowledge", "answer": "by", "explanationVi": "Dùng giới từ 'by + V-ing' để diễn đạt phương thức (bằng cách…). 'start small by working with…' = bắt đầu nhỏ bằng cách hợp tác với…" }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I'd like to build on what you just said. Not only could micro-influencers lower our costs, but they could also make the brand feel more authentic, ____ many young customers distrust polished, corporate-looking ads.",
+        "ipa": "/aɪd laɪk tə bɪld ɒn wɒt juː dʒʌst sed nɒt ˈəʊn.li kʊd ˈmaɪ.krəʊ ˈɪn.flu.ən.səz ˈləʊ.ər aʊə kɒsts bʌt ðeɪ kʊd ˈɔːl.səʊ meɪk ðə brænd fiːl mɔːr ɔːˈθen.tɪk ˈmen.i jʌŋ ˈkʌs.tə.məz dɪsˈtrʌst ˈpɒl.ɪʃt ˈkɔː.pər.ət ˈlʊk.ɪŋ ædz/",
+        "vi": "Tôi muốn phát triển thêm từ điều bạn vừa nói. Các micro-influencer không những giúp giảm chi phí, mà còn khiến thương hiệu trông chân thật hơn, ____ nhiều khách trẻ vốn không tin các quảng cáo bóng bẩy, kiểu doanh nghiệp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "since", "explanationVi": "Dùng 'since' (= bởi vì) để nêu lý do, đồng nghĩa 'because' nhưng nghe trang trọng và mượt hơn ở giữa câu dài." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "I see where you're both coming from, and I think that's a really constructive direction. ____, the main drawback is that results can be hard to measure. Could you elaborate on how we'd track whether it's actually working?",
+        "ipa": "/aɪ siː weər jɔː bəʊθ ˈkʌm.ɪŋ frɒm ænd aɪ θɪŋk ðæts ə ˈrɪə.li kənˈstrʌk.tɪv dɪˈrek.ʃən haʊˈev.ər ðə meɪn ˈdrɔː.bæk ɪz ðæt rɪˈzʌlts kæn biː hɑːd tə ˈmeʒ.ər kʊd juː ɪˈlæb.ə.reɪt ɒn haʊ wiːd træk ˈweð.ər ɪts ˈæk.tʃu.ə.li ˈwɜː.kɪŋ/",
+        "vi": "Tôi hiểu ý của cả hai bạn, và tôi nghĩ đó là một hướng đi rất mang tính xây dựng. ____, nhược điểm chính là kết quả có thể khó đo lường. Bạn có thể giải thích rõ hơn cách ta theo dõi xem nó có thực sự hiệu quả không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "However", "explanationVi": "Dùng 'However' đầu câu (theo sau là dấu phẩy) để chuyển sang một ý ngược/bổ sung: thừa nhận hướng đi tốt nhưng nêu nhược điểm. Trang trọng và mượt trong họp công việc." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure. We could give each influencer a unique discount code in order to track sales directly. Despite the measurement challenge, I still think it's worth testing on a small scale first before we ____ the most promising ideas for the next quarter.",
+        "ipa": "/ʃʊər wiː kʊd ɡɪv iːtʃ ˈɪn.flu.ən.sər ə juːˈniːk ˈdɪs.kaʊnt kəʊd ɪn ˈɔː.də tə træk seɪlz dəˈrekt.li dɪˈspaɪt ðə ˈmeʒ.ə.mənt ˈtʃæl.ɪndʒ aɪ stɪl θɪŋk ɪts wɜːθ ˈtes.tɪŋ ɒn ə smɔːl skeɪl fɜːst bɪˈfɔː wiː ðə məʊst ˈprɒm.ɪ.sɪŋ aɪˈdɪəz fɔː ðə nekst ˈkwɔː.tər/",
+        "vi": "Chắc chắn rồi. Ta có thể đưa mỗi influencer một mã giảm giá riêng để theo dõi doanh số trực tiếp. Dù có thách thức về đo lường, tôi vẫn nghĩ nên thử ở quy mô nhỏ trước khi ta ____ những ý tưởng hứa hẹn nhất cho quý tới.",
+        "blanks": [
+          { "type": "knowledge", "answer": "prioritize", "explanationVi": "Dùng động từ 'prioritize' (ưu tiên, chọn lọc cái quan trọng nhất). Sau 'before we' cần một động từ nguyên thể mô tả bước tiếp theo của nhóm." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Personally, I love that idea. ____ I was skeptical at the beginning, the discount-code approach makes it much more measurable, so I think we should flesh out the details and present it to management next week.",
+        "ipa": "/ˈpɜːs.ən.ə.li aɪ lʌv ðæt aɪˈdɪə aɪ wɒz ˈskep.tɪk.əl ət ðə bɪˈɡɪn.ɪŋ ðə ˈdɪs.kaʊnt kəʊd əˈprəʊtʃ meɪks ɪt mʌtʃ mɔː ˈmeʒ.ər.ə.bəl səʊ aɪ θɪŋk wiː ʃʊd fleʃ aʊt ðə ˈdiː.teɪlz ænd prɪˈzent ɪt tə ˈmæn.ɪdʒ.mənt nekst wiːk/",
+        "vi": "Cá nhân tôi rất thích ý đó. ____ ban đầu tôi còn hoài nghi, cách dùng mã giảm giá khiến nó dễ đo lường hơn nhiều, nên tôi nghĩ ta nên làm chi tiết hơn và trình bày với ban quản lý vào tuần tới.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' đầu câu để mở mệnh đề nhượng bộ (mặc dù ban đầu hoài nghi, nhưng giờ đã thích). Xem mẫu câu 'Although…, I still think…'." }
+        ]
+      },
+      {
+        "speaker": "Trưởng nhóm",
+        "text": "Excellent. It sounds like we've reached a consensus, then. Let's flesh out the plan together, and ____ everyone for such a productive session.",
+        "ipa": "/ˈek.sə.lənt ɪt saʊndz laɪk wiːv riːtʃt ə kənˈsen.səs ðen lets fleʃ aʊt ðə plæn təˈɡeð.ər ænd ˈev.ri.wʌn fɔː sʌtʃ ə prəˈdʌk.tɪv ˈseʃ.ən/",
+        "vi": "Tuyệt vời. Vậy có vẻ chúng ta đã đạt được sự đồng thuận rồi. Hãy cùng làm chi tiết kế hoạch, và ____ mọi người vì một buổi họp hiệu quả như vậy.",
+        "blanks": [
+          { "type": "personal", "hint": "Một động từ cảm ơn/khen ngợi để kết thúc. Ví dụ: 'thank' hoặc 'well done to'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong họp brainstorm kiểu phương Tây, giai đoạn đầu thường 'không phán xét' (no bad ideas): cứ tung ra thật nhiều ý, đánh giá tính khả thi để sau. Vội chê ý người khác có thể bị xem là cản trở.",
+    "Bất đồng là chuyện bình thường và được khuyến khích, nhưng phải lịch sự: thừa nhận ý đối phương trước ('I see your point, but…') rồi mới phản biện.",
+    "Xây dựng tiếp ý của người khác ('build on', 'expand on') được đánh giá rất cao — thể hiện tinh thần hợp tác hơn là chỉ bảo vệ ý của riêng mình.",
+    "Người phương Tây thường thoải mái khi sếp/cấp dưới tranh luận ngang hàng trong họp ý tưởng; ý kiến hay quan trọng hơn chức vụ."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': khi 'Not only' đứng đầu câu phải đảo trợ động từ — 'Not only COULD they lower costs', không phải 'Not only they could lower'.",
+    "Bất đồng quá thẳng kiểu 'No, you're wrong' nghe thô lỗ. Hãy dùng 'I see your point, but…' hoặc 'That's a fair point, but…'.",
+    "Nhầm 'feasible' (khả thi về mặt thực hiện) với 'viable' (có thể thành công/duy trì lâu dài) — hai sắc thái khác nhau.",
+    "Quên giới từ sau cụm động từ: 'build ON', 'elaborate ON', 'come up WITH' — thiếu giới từ là sai."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện họp brainstorm như thật.",
+    "prompt": "Hãy đóng vai người chủ trì một cuộc họp brainstorm bằng tiếng Anh trong công ty. Hãy nêu một vấn đề cần tìm ý tưởng (ví dụ: tăng khách hàng mới, cải thiện sản phẩm) và mời tôi đề xuất. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp/trưởng nhóm (đồng tình, đặt câu hỏi làm rõ, hoặc bất đồng lịch sự), (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'What if we…', 'I'd suggest…', 'not only… but also', 'although', 'in order to'. Thỉnh thoảng hãy phản biện để tôi tập bảo vệ ý tưởng. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu bằng việc giới thiệu vấn đề nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện mạnh hơn và yêu cầu tôi đưa số liệu để chứng minh tính khả thi.'",
+      "Thêm: 'Hãy đóng vai nhiều đồng nghiệp có quan điểm trái ngược nhau để tôi tập điều phối và tìm đồng thuận.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đề xuất được một ý tưởng bằng câu dài có lý do, không cần nhìn gợi ý.",
+    "Tôi bất đồng được một cách lịch sự bằng 'I see your point, but…' hoặc 'That's a fair point, but…'.",
+    "Tôi dùng được 'build on', 'not only… but also' và 'although' khi phát triển ý tưởng của người khác."
+  ]
+}

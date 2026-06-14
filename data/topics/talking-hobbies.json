@@ -1,0 +1,318 @@
+{
+  "id": "talking-hobbies",
+  "category": "daily-life",
+  "title": "Nói về sở thích",
+  "titleEn": "Talking About Hobbies",
+  "level": "A2",
+  "functions": ["small-talk", "describing", "opinions"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Nói được sở thích của mình bằng câu đơn giản, rõ ràng",
+    "Hỏi người khác về sở thích của họ",
+    "Nói mình thích hoặc không thích làm gì, kèm lý do ngắn",
+    "Dùng vài trạng từ cơ bản (usually, sometimes, often) để nói tần suất"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "hobby",
+      "ipa": "/ˈhɒb.i/",
+      "vi": "sở thích (danh từ)",
+      "register": "neutral",
+      "example": "My favourite hobby is reading.",
+      "exampleVi": "Sở thích yêu thích của tôi là đọc sách.",
+      "note": "Danh từ. Số nhiều bỏ 'y' thêm 'ies': hobbies. Là việc bạn làm để giải trí lúc rảnh.",
+      "synonyms": [
+        { "term": "pastime", "ipa": "/ˈpɑːs.taɪm/", "register": "neutral", "nuanceVi": "Nghĩa 'thú tiêu khiển'. Hơi trang trọng hơn 'hobby' một chút, chỉ việc làm cho vui qua thời gian." },
+        { "term": "interest", "ipa": "/ˈɪn.trəst/", "register": "neutral", "nuanceVi": "Nghĩa rộng hơn: 'điều mình quan tâm/thích'. Không nhất thiết là việc làm bằng tay, có thể chỉ là sự yêu thích." }
+      ]
+    },
+    {
+      "term": "free time",
+      "ipa": "/friː taɪm/",
+      "vi": "thời gian rảnh (danh từ)",
+      "register": "neutral",
+      "example": "I play football in my free time.",
+      "exampleVi": "Tôi chơi bóng đá lúc rảnh.",
+      "note": "Cụm danh từ. Hay nói 'in my free time' = lúc rảnh rỗi.",
+      "synonyms": [
+        { "term": "spare time", "ipa": "/speər taɪm/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'free time'. Cả hai đều rất thông dụng; dùng cái nào cũng được." }
+      ]
+    },
+    {
+      "term": "to enjoy",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "vi": "thích, tận hưởng (động từ)",
+      "register": "neutral",
+      "example": "I enjoy listening to music.",
+      "exampleVi": "Tôi thích nghe nhạc.",
+      "note": "Động từ. Sau 'enjoy' luôn là V-ing, KHÔNG dùng 'to V': enjoy doing, không phải enjoy to do.",
+      "synonyms": [
+        { "term": "to love", "ipa": "/lʌv/", "register": "neutral", "nuanceVi": "Mạnh hơn 'enjoy', nghĩa 'rất thích'. Sau 'love' có thể dùng V-ing hoặc to V." },
+        { "term": "to be into", "ipa": "/biː ˈɪn.tuː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'mê, khoái'. Vd 'I'm into photography.' Nghe trẻ trung, thân mật." }
+      ]
+    },
+    {
+      "term": "favourite",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "vi": "yêu thích nhất (tính từ)",
+      "register": "neutral",
+      "example": "Football is my favourite sport.",
+      "exampleVi": "Bóng đá là môn thể thao yêu thích nhất của tôi.",
+      "note": "Tính từ. Anh-Anh viết 'favourite', Anh-Mỹ viết 'favorite'. Tự thân đã có nghĩa 'nhất', không nói 'most favourite'.",
+      "synonyms": [
+        { "term": "preferred", "ipa": "/prɪˈfɜːd/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'được ưa chuộng/chọn hơn'. Hợp văn viết hoặc nói lịch sự." }
+      ]
+    },
+    {
+      "term": "relaxing",
+      "ipa": "/rɪˈlæk.sɪŋ/",
+      "vi": "thư giãn, giúp thoải mái (tính từ)",
+      "register": "neutral",
+      "example": "Painting is very relaxing for me.",
+      "exampleVi": "Vẽ tranh rất thư giãn đối với tôi.",
+      "note": "Tính từ mô tả 'thứ làm ta thấy thư giãn'. Khác 'relaxed' = bản thân người cảm thấy thư giãn.",
+      "synonyms": [
+        { "term": "calming", "ipa": "/ˈkɑː.mɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào 'làm dịu, lắng xuống'. Gần nghĩa 'relaxing' nhưng thiên về làm tâm trí yên tĩnh." },
+        { "term": "soothing", "ipa": "/ˈsuː.ðɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'êm dịu, xoa dịu'. Thường dùng cho âm thanh/âm nhạc nhẹ nhàng." }
+      ]
+    },
+    {
+      "term": "boring",
+      "ipa": "/ˈbɔː.rɪŋ/",
+      "vi": "nhàm chán (tính từ)",
+      "register": "neutral",
+      "example": "I think fishing is a bit boring.",
+      "exampleVi": "Tôi thấy câu cá hơi nhàm chán.",
+      "note": "Tính từ mô tả 'thứ gây chán'. Khác 'bored' = người cảm thấy chán. Đừng nói 'I am boring' khi ý là bạn đang chán.",
+      "synonyms": [
+        { "term": "dull", "ipa": "/dʌl/", "register": "neutral", "nuanceVi": "Nghĩa 'tẻ nhạt, buồn tẻ'. Gần nghĩa 'boring', nghe hơi nhẹ và lịch sự hơn một chút." }
+      ]
+    },
+    {
+      "term": "to collect",
+      "ipa": "/kəˈlekt/",
+      "vi": "sưu tầm, thu thập (động từ)",
+      "register": "neutral",
+      "example": "My brother collects old coins.",
+      "exampleVi": "Anh trai tôi sưu tầm tiền xu cũ.",
+      "note": "Động từ. Một sở thích phổ biến: collect stamps (tem), coins (tiền xu), figures (mô hình)."
+    },
+    {
+      "term": "outdoor",
+      "ipa": "/ˌaʊtˈdɔːr/",
+      "vi": "ngoài trời (tính từ)",
+      "register": "neutral",
+      "example": "Hiking is a popular outdoor activity.",
+      "exampleVi": "Đi bộ đường dài là một hoạt động ngoài trời phổ biến.",
+      "note": "Tính từ, đứng trước danh từ: outdoor activity. Trái nghĩa: indoor (trong nhà)."
+    },
+    {
+      "term": "usually",
+      "ipa": "/ˈjuː.ʒu.ə.li/",
+      "vi": "thường thường (trạng từ tần suất)",
+      "register": "neutral",
+      "example": "I usually go cycling on Sundays.",
+      "exampleVi": "Tôi thường đi đạp xe vào Chủ nhật.",
+      "note": "Trạng từ tần suất, đứng TRƯỚC động từ thường: 'I usually play', không phải 'I play usually'.",
+      "synonyms": [
+        { "term": "normally", "ipa": "/ˈnɔː.mə.li/", "register": "neutral", "nuanceVi": "Nghĩa gần như 'usually' = 'thường thì'. Nhấn vào điều bình thường hay xảy ra." },
+        { "term": "generally", "ipa": "/ˈdʒen.ər.ə.li/", "register": "neutral", "nuanceVi": "Nghĩa 'nhìn chung, đại khái là'. Hơi rộng hơn 'usually', dùng khi nói về xu hướng chung." }
+      ]
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ər/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "My friends and I often play games together.",
+      "exampleVi": "Tôi và bạn bè thường chơi game cùng nhau.",
+      "note": "Trạng từ, thường đứng cuối câu. Hợp khi nói về sở thích làm chung với người khác."
+    },
+    {
+      "term": "to be good at",
+      "ipa": "/biː ɡʊd ət/",
+      "vi": "giỏi về việc gì (cụm tính từ + giới từ)",
+      "register": "neutral",
+      "example": "She is good at drawing.",
+      "exampleVi": "Cô ấy giỏi vẽ.",
+      "note": "Luôn đi với 'at' + danh từ/V-ing: good at swimming. Đừng quên giới từ 'at'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "My favourite hobby is [V-ing / danh từ].",
+      "use": "Giới thiệu sở thích mình thích nhất.",
+      "register": "neutral",
+      "examples": [
+        "My favourite hobby is playing the guitar.",
+        "My favourite hobby is photography."
+      ],
+      "explanationVi": "Câu mở đầu đơn giản và an toàn nhất để nói về sở thích. Sau 'is' dùng V-ing (playing) hoặc một danh từ (photography)."
+    },
+    {
+      "pattern": "In my free time, I usually [V].",
+      "use": "Nói bạn hay làm gì lúc rảnh.",
+      "register": "neutral",
+      "examples": [
+        "In my free time, I usually read books.",
+        "In my free time, I usually go for a walk."
+      ],
+      "explanationVi": "'In my free time' (lúc rảnh) đặt đầu câu cho tự nhiên. 'usually' (thường) đứng trước động từ chính."
+    },
+    {
+      "pattern": "I enjoy [V-ing] because [lý do].",
+      "use": "Nói mình thích làm gì và vì sao.",
+      "register": "neutral",
+      "examples": [
+        "I enjoy swimming because it is relaxing.",
+        "I enjoy cooking because I like trying new food."
+      ],
+      "explanationVi": "Sau 'enjoy' phải dùng V-ing (swimming), KHÔNG dùng 'to swim'. 'because' thêm một lý do ngắn cho câu phong phú hơn.",
+      "altOf": "saying-i-like"
+    },
+    {
+      "pattern": "I really like [V-ing], such as [ví dụ].",
+      "use": "Nói mình thích loại hoạt động nào kèm ví dụ.",
+      "register": "neutral",
+      "examples": [
+        "I really like outdoor activities, such as hiking and cycling.",
+        "I really like quiet hobbies, such as reading and drawing."
+      ],
+      "explanationVi": "'such as' dùng để nêu ví dụ minh họa. Đây là cấu trúc kiểu TOEIC giúp câu rõ ràng và cụ thể hơn.",
+      "altOf": "saying-i-like"
+    },
+    {
+      "pattern": "What do you like to do in your [free time]?",
+      "use": "Hỏi người khác về sở thích của họ.",
+      "register": "neutral",
+      "examples": [
+        "What do you like to do in your free time?",
+        "What do you usually do at the weekend?"
+      ],
+      "explanationVi": "Câu hỏi chuẩn để bắt chuyện về sở thích. Sau 'like to' dùng động từ nguyên thể (do)."
+    },
+    {
+      "pattern": "I'm not really into [danh từ / V-ing].",
+      "use": "Nói lịch sự rằng bạn không thích điều gì lắm.",
+      "register": "casual",
+      "examples": [
+        "I'm not really into video games.",
+        "I'm not really into watching sports."
+      ],
+      "explanationVi": "'not really into' nghĩa 'không mê lắm' — nhẹ nhàng, lịch sự hơn nói thẳng 'I hate it'. Đời thường, thân thiện."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "usually", "ipa": "/ˈjuː.ʒu.ə.li/", "vi": "thường thường", "when": "Nói việc bạn hay làm phần lớn thời gian.", "example": "I usually relax at home on Sundays." },
+    { "term": "sometimes", "ipa": "/ˈsʌm.taɪmz/", "vi": "thỉnh thoảng", "when": "Nói việc bạn làm không thường xuyên.", "example": "Sometimes I go fishing with my dad." },
+    { "term": "often", "ipa": "/ˈɒf.ən/", "vi": "thường xuyên", "when": "Nói việc xảy ra nhiều lần.", "example": "I often listen to music while I study." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi nói một điều hơi bất ngờ hoặc đính chính nhẹ.", "example": "Actually, I prefer indoor hobbies." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Đồng ý nhanh hoặc trả lời tự nhiên một câu hỏi.", "example": "Of course, I'd love to join you!" }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn mới quen, Lan và Tom, đang trò chuyện làm quen với nhau về sở thích trong lúc giải lao.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "Hi Lan! We have some free time now, so I'd love to know more about you. What do you like to do in your ____ time?",
+        "ipa": "/haɪ læn wiː hæv sʌm friː taɪm naʊ səʊ aɪd lʌv tə nəʊ mɔː əˈbaʊt juː wɒt duː juː laɪk tə duː ɪn jɔː taɪm/",
+        "vi": "Chào Lan! Giờ tụi mình có chút thời gian rảnh, nên mình rất muốn hiểu thêm về bạn. Bạn thích làm gì vào thời gian ____ của mình?",
+        "blanks": [
+          { "type": "knowledge", "answer": "free", "explanationVi": "Cụm 'free time' nghĩa là 'thời gian rảnh'. Xem mẫu câu 'What do you like to do in your free time?'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Hi Tom! Well, my favourite hobby is reading, but I also enjoy ____ to music because it is very relaxing after a long day.",
+        "ipa": "/haɪ tɒm wel maɪ ˈfeɪ.vər.ɪt ˈhɒb.i ɪz ˈriː.dɪŋ bʌt aɪ ˈɔːl.səʊ ɪnˈdʒɔɪ tə ˈmjuː.zɪk bɪˈkɒz ɪt ɪz ˈver.i rɪˈlæk.sɪŋ ˈɑːf.tər ə lɒŋ deɪ/",
+        "vi": "Chào Tom! À, sở thích yêu thích nhất của mình là đọc sách, nhưng mình cũng thích ____ nhạc vì nó rất thư giãn sau một ngày dài.",
+        "blanks": [
+          { "type": "knowledge", "answer": "listening", "explanationVi": "Sau 'enjoy' luôn dùng V-ing, nên là 'enjoy listening'. Cụm đúng là 'listen to music'. Xem mẫu câu 'I enjoy V-ing because...'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That sounds lovely. I'm not really a big reader, although I do read sometimes. I usually prefer outdoor activities, such as ____ and cycling, because I like being active.",
+        "ipa": "/ðæt saʊndz ˈlʌv.li aɪm nɒt ˈrɪə.li ə bɪɡ ˈriː.dər ɔːlˈðəʊ aɪ duː riːd ˈsʌm.taɪmz aɪ ˈjuː.ʒu.ə.li prɪˈfɜː ˌaʊtˈdɔːr ækˈtɪv.ə.tiz sʌtʃ æz ænd ˈsaɪ.klɪŋ bɪˈkɒz aɪ laɪk ˈbiː.ɪŋ ˈæk.tɪv/",
+        "vi": "Nghe thích thật. Mình không hẳn là người mê đọc sách, mặc dù thỉnh thoảng mình cũng đọc. Mình thường thích các hoạt động ngoài trời hơn, chẳng hạn như ____ và đạp xe, vì mình thích vận động.",
+        "blanks": [
+          { "type": "personal", "hint": "Một hoạt động ngoài trời bạn thích. Ví dụ: 'hiking' (đi bộ đường dài), 'running' (chạy bộ)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Wow, you are really active! Honestly, I'm ____ really into sports, but I sometimes go swimming with my sister at the weekend.",
+        "ipa": "/waʊ juː ɑː ˈrɪə.li ˈæk.tɪv ˈɒn.ɪst.li aɪm ˈrɪə.li ˈɪn.tuː spɔːts bʌt aɪ ˈsʌm.taɪmz ɡəʊ ˈswɪm.ɪŋ wɪð maɪ ˈsɪs.tər ət ðə ˈwiːk.end/",
+        "vi": "Ồ, bạn năng động thật đấy! Thành thật mà nói, mình ____ thật sự mê thể thao, nhưng thỉnh thoảng mình có đi bơi với chị gái vào cuối tuần.",
+        "blanks": [
+          { "type": "knowledge", "answer": "not", "explanationVi": "Cụm 'not really into something' nghĩa 'không mê lắm' — cách nói nhẹ nhàng, lịch sự. Xem mẫu câu 'I'm not really into...'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Swimming is great! By the way, my brother ____ old coins, which I find quite interesting. Do you collect anything?",
+        "ipa": "/ˈswɪm.ɪŋ ɪz ɡreɪt baɪ ðə weɪ maɪ ˈbrʌð.ər əʊld kɔɪnz wɪtʃ aɪ faɪnd kwaɪt ˈɪn.trəst.ɪŋ duː juː kəˈlekt ˈen.i.θɪŋ/",
+        "vi": "Bơi lội tuyệt mà! Tiện thể, anh trai mình ____ tiền xu cũ, điều mà mình thấy khá thú vị. Bạn có sưu tầm thứ gì không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "collects", "explanationVi": "Chủ ngữ 'my brother' là ngôi thứ ba số ít ở thì hiện tại đơn, nên động từ thêm 's': 'collects'. 'which' là đại từ quan hệ thay cho cả vế trước." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Not really, but I love drawing in my ____ time. My friends say I'm quite good at it, although I just do it for fun.",
+        "ipa": "/nɒt ˈrɪə.li bʌt aɪ lʌv ˈdrɔː.ɪŋ ɪn maɪ taɪm maɪ frendz seɪ aɪm kwaɪt ɡʊd æt ɪt ɔːlˈðəʊ aɪ dʒʌst duː ɪt fɔː fʌn/",
+        "vi": "Không hẳn, nhưng mình thích vẽ vào thời gian ____ của mình. Bạn bè bảo mình khá giỏi vẽ, mặc dù mình chỉ vẽ cho vui thôi.",
+        "blanks": [
+          { "type": "personal", "hint": "Loại thời gian rảnh. Ví dụ: 'free' hoặc 'spare'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That's a wonderful hobby! Drawing is not only relaxing but also good for the mind. Maybe you ____ teach me a little someday?",
+        "ipa": "/ðæts ə ˈwʌn.də.fəl ˈhɒb.i ˈdrɔː.ɪŋ ɪz nɒt ˈəʊn.li rɪˈlæk.sɪŋ bʌt ˈɔːl.səʊ ɡʊd fɔː ðə maɪnd ˈmeɪ.bi juː tiːtʃ miː ə ˈlɪt.əl ˈsʌm.deɪ/",
+        "vi": "Đó là một sở thích tuyệt vời! Vẽ tranh không những thư giãn mà còn tốt cho trí óc. Có lẽ một ngày nào đó bạn ____ dạy mình một chút nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "could", "explanationVi": "Dùng 'could' để đề nghị/gợi ý lịch sự ('có thể... không nhé?'). Nghe nhã nhặn hơn 'can'. 'not only... but also' nhấn mạnh hai ý." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Of course, I'd love to! It would be fun to do something creative together. Let's plan it for next weekend!",
+        "ipa": "/əv ˈkɔːs aɪd lʌv tuː ɪt wʊd biː fʌn tə duː ˈsʌm.θɪŋ kriˈeɪ.tɪv təˈɡeð.ər lets plæn ɪt fɔː nekst ˈwiːk.end/",
+        "vi": "Tất nhiên rồi, mình rất sẵn lòng! Cùng nhau làm điều gì đó sáng tạo chắc sẽ vui lắm. Hẹn cuối tuần tới nhé!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Hỏi 'What do you like to do in your free time?' là cách bắt chuyện làm quen rất phổ biến và an toàn trong văn hóa nói tiếng Anh.",
+    "Người bản xứ thường trả lời kèm một lý do ngắn ('because it's relaxing') thay vì chỉ nói cụt một từ — nghe thân thiện và dễ trò chuyện tiếp hơn.",
+    "Nói 'I'm not really into...' để từ chối hoặc nói mình không thích, nghe lịch sự và nhẹ nhàng hơn là 'I hate it'."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I enjoy to read' là SAI. Sau 'enjoy' phải dùng V-ing: 'I enjoy reading'.",
+    "Nhầm 'boring' và 'bored': 'The film is boring' (phim chán) khác 'I am bored' (tôi thấy chán). Đừng nói 'I am boring' khi muốn nói bạn đang chán.",
+    "Quên giới từ 'at' sau 'good': phải nói 'good AT drawing', không phải 'good drawing'.",
+    "Đặt sai vị trí trạng từ tần suất: nói 'I usually play', không phải 'I play usually'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về sở thích như đang trò chuyện thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang làm quen với tôi. Hãy hỏi tôi về sở thích của tôi bằng những câu đơn giản, mỗi lần một câu (ví dụ: tôi thích làm gì lúc rảnh, sở thích yêu thích nhất, tôi có giỏi việc đó không, có thích hoạt động ngoài trời không). Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên và thân thiện như một người bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và giải thích bằng tiếng Việt, (3) khuyến khích tôi trả lời dài hơn một chút bằng cách thêm lý do với 'because' hoặc ví dụ với 'such as'. Hãy nói chậm rãi và dùng từ vựng đơn giản phù hợp trình độ A2. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi thêm câu hỏi vì sao (Why?) để tôi tập giải thích lý do.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy liệt kê 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được sở thích yêu thích nhất của mình bằng một câu hoàn chỉnh.",
+    "Tôi hỏi được người khác về sở thích của họ.",
+    "Tôi dùng được 'because' để thêm một lý do ngắn cho câu trả lời."
+  ]
+}

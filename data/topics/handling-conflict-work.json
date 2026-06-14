@@ -1,0 +1,389 @@
+{
+  "id": "handling-conflict-work",
+  "category": "work",
+  "title": "Xử lý mâu thuẫn nơi làm việc",
+  "titleEn": "Handling Conflict at Work",
+  "level": "C1",
+  "functions": ["opinions", "negotiating", "handling-problems", "agreeing", "apologizing"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Nêu bất đồng một cách thẳng thắn nhưng vẫn giữ thể diện cho đối phương (diplomatic disagreement)",
+    "Thừa nhận một phần trách nhiệm và xoa dịu căng thẳng bằng ngôn ngữ tinh tế",
+    "Đề xuất hướng giải quyết trung hòa, hướng tới đôi bên cùng có lợi (win-win)",
+    "Vận dụng idiom công sở và câu phức nhiều tầng (despite, whereas, not only… but also) một cách tự nhiên",
+    "Điều chỉnh register linh hoạt giữa thẳng thắn và mềm mỏng tùy diễn biến cuộc nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "friction",
+      "ipa": "/ˈfrɪk.ʃən/",
+      "vi": "sự cọ xát, căng thẳng ngầm (danh từ)",
+      "register": "neutral",
+      "example": "There has been some friction between the two departments over budget allocation.",
+      "exampleVi": "Đã có chút căng thẳng ngầm giữa hai phòng ban về việc phân bổ ngân sách.",
+      "note": "Danh từ không đếm được. Nhẹ và tinh tế hơn 'conflict'; ám chỉ mâu thuẫn âm ỉ chưa bùng nổ.",
+      "synonyms": [
+        { "term": "tension", "ipa": "/ˈten.ʃən/", "register": "neutral", "nuanceVi": "Nhấn vào bầu không khí căng như dây đàn, có thể vẫn chưa ai nói ra. Rất hợp khi mô tả không khí phòng họp." },
+        { "term": "discord", "ipa": "/ˈdɪs.kɔːrd/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ; chỉ sự bất hòa kéo dài, mất đoàn kết. Nghe nặng hơn 'friction'." },
+        { "term": "clash", "ipa": "/klæʃ/", "register": "neutral", "nuanceVi": "Nhấn vào sự va chạm gay gắt, công khai (a clash of opinions). Mạnh và lộ liễu hơn 'friction'." }
+      ]
+    },
+    {
+      "term": "to address",
+      "ipa": "/əˈdres/",
+      "vi": "giải quyết, xử lý (một vấn đề) (động từ)",
+      "register": "formal",
+      "example": "We need to address this issue head-on before it escalates further.",
+      "exampleVi": "Chúng ta cần giải quyết thẳng vấn đề này trước khi nó leo thang.",
+      "note": "Động từ trang trọng, mang nghĩa 'đối diện và xử lý có chủ đích', khác 'solve' (giải xong hẳn). Đừng nhầm với 'address' = địa chỉ.",
+      "synonyms": [
+        { "term": "to tackle", "ipa": "/ˈtæk.əl/", "register": "neutral", "nuanceVi": "Nhấn vào việc bắt tay xử lý một việc khó, có phần quyết liệt. Đời thường hơn 'address'." },
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Nhấn vào việc giải quyết DỨT ĐIỂM, đi đến hồi kết (resolve a dispute). Mạnh hơn 'address' vốn chỉ là bắt đầu xử lý." }
+      ]
+    },
+    {
+      "term": "to escalate",
+      "ipa": "/ˈes.kə.leɪt/",
+      "vi": "leo thang, trở nên nghiêm trọng hơn (động từ)",
+      "register": "neutral",
+      "example": "If we don't talk now, this misunderstanding could easily escalate.",
+      "exampleVi": "Nếu giờ không nói chuyện, hiểu lầm này có thể dễ dàng leo thang.",
+      "note": "Động từ có thể nội động (tự leo thang) hoặc ngoại động (escalate sth = đẩy việc lên cấp trên). Trong công sở: 'escalate to the manager'.",
+      "synonyms": [
+        { "term": "to intensify", "ipa": "/ɪnˈten.sɪ.faɪ/", "register": "formal", "nuanceVi": "Nhấn vào mức độ mạnh dần lên, không nhất thiết theo nghĩa xấu. Trung tính, học thuật hơn." },
+        { "term": "to spiral", "ipa": "/ˈspaɪ.rəl/", "register": "neutral", "nuanceVi": "Hình tượng 'xoáy trôn ốc mất kiểm soát' (spiral out of control). Nhấn việc tệ đi rất nhanh và khó cứu vãn." }
+      ]
+    },
+    {
+      "term": "to acknowledge",
+      "ipa": "/əkˈnɒl.ɪdʒ/",
+      "vi": "thừa nhận, ghi nhận (động từ)",
+      "register": "formal",
+      "example": "I'd like to acknowledge that I could have communicated my concerns more clearly.",
+      "exampleVi": "Tôi muốn thừa nhận rằng đáng lẽ tôi nên trình bày những lo ngại của mình rõ ràng hơn.",
+      "note": "Động từ trang trọng. Phát âm bẫy: âm 'ck' câm phần 'l' nhẹ — /əkˈnɒl.ɪdʒ/. Thừa nhận có chừng mực, không phải nhận lỗi hoàn toàn.",
+      "synonyms": [
+        { "term": "to admit", "ipa": "/ədˈmɪt/", "register": "neutral", "nuanceVi": "Thẳng thắn hơn, thường gắn với nhận có lỗi/sai. 'Acknowledge' nhẹ và giữ thể diện hơn." },
+        { "term": "to concede", "ipa": "/kənˈsiːd/", "register": "formal", "nuanceVi": "Nhấn vào việc 'nhượng bộ, chịu thua một luận điểm' sau tranh luận. Mang màu sắc thừa nhận đối phương có lý." }
+      ]
+    },
+    {
+      "term": "compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "sự thỏa hiệp, giải pháp dung hòa (danh từ)",
+      "register": "neutral",
+      "example": "I'm confident we can reach a compromise that works for both teams.",
+      "exampleVi": "Tôi tin chúng ta có thể đạt được một thỏa hiệp ổn thỏa cho cả hai nhóm.",
+      "note": "Vừa là danh từ vừa là động từ. Cụm hay dùng: 'reach/find a compromise'. Mang nghĩa TÍCH CỰC trong đàm phán (đôi bên nhường nhau).",
+      "synonyms": [
+        { "term": "middle ground", "ipa": "/ˌmɪd.əl ˈɡraʊnd/", "register": "neutral", "nuanceVi": "Hình tượng 'điểm chung ở giữa'. Cụm thành ngữ, nghe mềm và thiện chí: 'find middle ground'." },
+        { "term": "trade-off", "ipa": "/ˈtreɪd.ɒf/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'đánh đổi' — được cái này phải mất cái kia. Thiên về cân nhắc lợi-hại hơn là hòa giải con người." }
+      ]
+    },
+    {
+      "term": "defensive",
+      "ipa": "/dɪˈfen.sɪv/",
+      "vi": "phòng thủ, dễ tự ái (tính từ)",
+      "register": "neutral",
+      "example": "I don't want to sound defensive, but I genuinely believe my approach was justified.",
+      "exampleVi": "Tôi không muốn nghe có vẻ phòng thủ, nhưng tôi thực sự tin cách làm của mình là có lý.",
+      "note": "Tính từ. Cụm: 'get/become defensive' = phản ứng tự vệ thái quá khi bị chê. Một bẫy cảm xúc cần tránh khi xử lý mâu thuẫn.",
+      "synonyms": [
+        { "term": "guarded", "ipa": "/ˈɡɑː.dɪd/", "register": "formal", "nuanceVi": "Nhấn vào sự dè dặt, kín kẽ, không bộc lộ hết. Nhẹ và bình tĩnh hơn 'defensive' (vốn hơi tiêu cực)." },
+        { "term": "touchy", "ipa": "/ˈtʌtʃ.i/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'dễ chạm nọc, dễ nổi cáu'. Hợp lúc nói thân mật, không hợp văn cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "constructive",
+      "ipa": "/kənˈstrʌk.tɪv/",
+      "vi": "mang tính xây dựng (tính từ)",
+      "register": "formal",
+      "example": "Let's keep this conversation constructive rather than dwelling on who was at fault.",
+      "exampleVi": "Hãy giữ cuộc trao đổi này mang tính xây dựng thay vì cứ bám vào ai sai.",
+      "note": "Tính từ. Cụm kinh điển: 'constructive feedback / criticism' (góp ý xây dựng). Tín hiệu thiện chí khi xử lý mâu thuẫn.",
+      "synonyms": [
+        { "term": "productive", "ipa": "/prəˈdʌk.tɪv/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'có kết quả, đáng giá thời gian'. Gần nghĩa nhưng thiên về hiệu quả hơn là tinh thần thiện chí." }
+      ]
+    },
+    {
+      "term": "diplomatically",
+      "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "formal",
+      "example": "She handled the disagreement diplomatically, without ever raising her voice.",
+      "exampleVi": "Cô ấy xử lý bất đồng một cách khéo léo, không hề lớn tiếng.",
+      "note": "Trạng từ. Gốc từ 'diplomat' (nhà ngoại giao) — chỉ cách nói vừa giữ được lập trường vừa không làm mất lòng.",
+      "synonyms": [
+        { "term": "tactfully", "ipa": "/ˈtækt.fəl.i/", "register": "neutral", "nuanceVi": "Nhấn vào sự ý tứ, biết chọn lời để không chạm tự ái người khác. Gần nghĩa, dùng hằng ngày dễ hơn." },
+        { "term": "delicately", "ipa": "/ˈdel.ɪ.kət.li/", "register": "formal", "nuanceVi": "Nhấn vào sự nhẹ nhàng, thận trọng với vấn đề nhạy cảm. Thiên về 'cẩn trọng' hơn là 'khéo ngoại giao'." }
+      ]
+    },
+    {
+      "term": "calmly",
+      "ipa": "/ˈkɑːm.li/",
+      "vi": "một cách bình tĩnh (trạng từ)",
+      "register": "neutral",
+      "example": "He responded calmly even though the criticism was unfair.",
+      "exampleVi": "Anh ấy đáp lại một cách bình tĩnh dù lời chỉ trích là không công bằng.",
+      "note": "Trạng từ. Phát âm bẫy: chữ 'l' câm — /ˈkɑːm.li/, không đọc 'kalm-li'.",
+      "synonyms": [
+        { "term": "coolly", "ipa": "/ˈkuː.li/", "register": "neutral", "nuanceVi": "Nhấn vào sự lạnh lùng, không để cảm xúc xen vào (react coolly). Nghe có phần xa cách, làm chủ tình huống hơn 'calmly'." },
+        { "term": "level-headedly", "ipa": "/ˌlev.əlˈhed.ɪd.li/", "register": "neutral", "nuanceVi": "Hiếm gặp ở dạng trạng từ; thường dùng tính từ 'level-headed'. Nhấn vào việc 'tỉnh táo, sáng suốt' khi xử lý, không chỉ là không cáu." }
+      ]
+    },
+    {
+      "term": "misunderstanding",
+      "ipa": "/ˌmɪs.ʌn.dəˈstæn.dɪŋ/",
+      "vi": "sự hiểu lầm (danh từ)",
+      "register": "neutral",
+      "example": "I think this whole situation stems from a simple misunderstanding.",
+      "exampleVi": "Tôi nghĩ toàn bộ chuyện này bắt nguồn từ một hiểu lầm đơn giản.",
+      "note": "Danh từ. Gọi mâu thuẫn là 'a misunderstanding' là cách hạ nhiệt khéo: ngụ ý không ai cố ý sai.",
+      "synonyms": [
+        { "term": "mix-up", "ipa": "/ˈmɪks.ʌp/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng, nghĩa 'sự nhầm lẫn, lộn xộn'. Hợp khi muốn nói chuyện cho nhẹ đi." },
+        { "term": "miscommunication", "ipa": "/ˌmɪs.kə.mjuː.nɪˈkeɪ.ʃən/", "register": "formal", "nuanceVi": "Nhấn vào việc 'truyền đạt sai/thiếu thông tin'. Trang trọng, hay dùng trong báo cáo, họp." }
+      ]
+    },
+    {
+      "term": "to overlook",
+      "ipa": "/ˌəʊ.vəˈlʊk/",
+      "vi": "bỏ sót, không để ý đến (động từ)",
+      "register": "neutral",
+      "example": "I'll admit I may have overlooked your input during the planning stage.",
+      "exampleVi": "Tôi xin nhận là có thể tôi đã bỏ sót ý kiến của bạn ở giai đoạn lên kế hoạch.",
+      "note": "Động từ. Hai nghĩa: (1) bỏ sót, không lưu tâm; (2) bỏ qua, lượng thứ ('overlook a mistake'). Ngữ cảnh quyết định nghĩa."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I see where you're coming from, but [quan điểm của bạn].",
+      "use": "Công nhận góc nhìn đối phương trước, rồi mới nêu ý mình — giảm đối đầu.",
+      "register": "neutral",
+      "examples": [
+        "I see where you're coming from, but I'm not entirely convinced that rushing the launch is wise.",
+        "I see where you're coming from, but from my perspective the data tells a slightly different story."
+      ],
+      "explanationVi": "'I see where you're coming from' là idiom = 'tôi hiểu lý do anh nghĩ vậy'. Đặt trước 'but' giúp bất đồng nghe có thiện chí, không phủ nhận thẳng thừng.",
+      "altOf": "diplomatic-disagreement"
+    },
+    {
+      "pattern": "With respect, I have to disagree with [danh từ], primarily because [lý do].",
+      "use": "Phản đối thẳng nhưng vẫn lịch sự, có dẫn chứng.",
+      "register": "formal",
+      "examples": [
+        "With respect, I have to disagree with that assessment, primarily because it overlooks the client's feedback.",
+        "With all due respect, I have to disagree with the timeline, primarily because it leaves no margin for testing."
+      ],
+      "explanationVi": "'With respect / With all due respect' là cụm mở đầu trang trọng báo hiệu 'tôi sắp phản đối nhưng vẫn tôn trọng anh'. Rất hợp họp công ty cấp cao.",
+      "altOf": "diplomatic-disagreement"
+    },
+    {
+      "pattern": "I take full responsibility for [danh từ / V-ing], and I should have [V quá khứ phân từ].",
+      "use": "Nhận trách nhiệm một cách chững chạc để hạ nhiệt.",
+      "register": "formal",
+      "examples": [
+        "I take full responsibility for the delay, and I should have flagged the risk much earlier.",
+        "I take full responsibility for the confusion, and I should have double-checked the figures before sending them."
+      ],
+      "explanationVi": "'should have + V3' = lẽ ra nên (nhưng đã không). Câu này thể hiện sự trưởng thành; nhận lỗi cụ thể bao giờ cũng đáng tin hơn xin lỗi chung chung.",
+      "altOf": "taking-responsibility"
+    },
+    {
+      "pattern": "Perhaps we could meet halfway by [V-ing].",
+      "use": "Đề xuất giải pháp dung hòa, mời đối phương cùng nhượng bộ.",
+      "register": "neutral",
+      "examples": [
+        "Perhaps we could meet halfway by splitting the workload between the two teams.",
+        "Perhaps we could meet halfway by piloting your idea on a smaller scale first."
+      ],
+      "explanationVi": "'meet halfway' là idiom = 'gặp nhau ở điểm giữa, mỗi bên nhường một nửa'. 'Perhaps we could…' làm đề xuất nghe nhẹ, không áp đặt.",
+      "altOf": "proposing-solution"
+    },
+    {
+      "pattern": "What if we [V nguyên thể] so that [mục đích]?",
+      "use": "Gợi ý hướng đi mới một cách mở, mời cùng cân nhắc.",
+      "register": "neutral",
+      "examples": [
+        "What if we set up a quick weekly sync so that nothing slips through the cracks again?",
+        "What if we agree on the priorities first so that we don't end up duplicating effort?"
+      ],
+      "explanationVi": "'What if we…?' đưa ra phương án dưới dạng câu hỏi mở, nghe ít áp đặt hơn 'We should…'. 'so that' nêu mục đích, làm đề xuất thuyết phục hơn.",
+      "altOf": "proposing-solution"
+    },
+    {
+      "pattern": "Let's not lose sight of [danh từ], despite [danh từ / V-ing].",
+      "use": "Kéo cuộc nói trở lại mục tiêu chung, hạ nhiệt cái tôi.",
+      "register": "formal",
+      "examples": [
+        "Let's not lose sight of the bigger picture, despite our differences on this particular point.",
+        "Let's not lose sight of the deadline, despite how frustrating this discussion has become."
+      ],
+      "explanationVi": "'lose sight of' là idiom = 'quên mất, lạc khỏi (mục tiêu)'. 'despite + danh từ/V-ing' (≠ despite + mệnh đề). Câu này khéo léo nhắc cả hai cùng nhìn về lợi ích chung."
+    },
+    {
+      "pattern": "I'd really appreciate it if you could [V nguyên thể].",
+      "use": "Nhờ đối phương điều chỉnh hành vi một cách nhã nhặn.",
+      "register": "formal",
+      "examples": [
+        "I'd really appreciate it if you could loop me in before making changes to the schedule.",
+        "I'd really appreciate it if you could share your concerns with me directly next time."
+      ],
+      "explanationVi": "'I'd appreciate it if you could…' là cách yêu cầu lịch sự bậc cao, dùng khi muốn người khác thay đổi cách làm mà không nghe như ra lệnh hay trách móc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một lời chia sẻ chân thành, hơi tế nhị, báo hiệu bạn nói thật lòng.", "example": "Honestly, I felt a little blindsided by the decision." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Khi muốn thừa nhận đối phương cũng có cái lý của họ, cho cân bằng.", "example": "To be fair, you did warn me about the tight timeline." },
+    { "term": "in hindsight", "ipa": "/ɪn ˈhaɪnd.saɪt/", "vi": "nhìn lại thì (giờ mới thấy)", "when": "Khi tự nhận giá như đã làm khác đi — thể hiện sự cầu thị.", "example": "In hindsight, I should have raised my concerns much sooner." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "xét cho cùng / rốt cuộc", "when": "Dẫn về kết luận hoặc mục tiêu chung sau khi đã tranh luận.", "example": "Ultimately, we both want this project to succeed." },
+    { "term": "if I'm being honest", "ipa": "/ɪf aɪm ˈbiː.ɪŋ ˈɒn.ɪst/", "vi": "nói thật lòng thì", "when": "Làm mềm một lời góp ý thẳng, báo trước điều sắp nói hơi nhạy cảm.", "example": "If I'm being honest, the way it was communicated caught me off guard." },
+    { "term": "going forward", "ipa": "/ˌɡəʊ.ɪŋ ˈfɔː.wəd/", "vi": "từ nay về sau", "when": "Hướng cuộc nói về tương lai, chốt cách làm việc tốt hơn.", "example": "Going forward, let's agree to flag any blockers as soon as they come up." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn và một đồng nghiệp cùng cấp (Minh) vừa hoàn thành một dự án chung không suôn sẻ. Có hiểu lầm về việc ai phụ trách phần báo cáo cho khách hàng, khiến bản báo cáo bị nộp trễ. Cả hai ngồi lại trao đổi riêng để gỡ căng thẳng và thống nhất cách phối hợp tốt hơn.",
+    "lines": [
+      {
+        "speaker": "Đồng nghiệp (Minh)",
+        "text": "Thanks for making time for this. Honestly, I've sensed some friction between us since the client report went out late, and I'd rather we cleared the air now than let it ____ over the coming weeks.",
+        "ipa": "/θæŋks fɔːr ˈmeɪk.ɪŋ taɪm fɔːr ðɪs ˈɒn.ɪst.li aɪv senst sʌm ˈfrɪk.ʃən bɪˈtwiːn ʌs sɪns ðə ˈklaɪ.ənt rɪˈpɔːt went aʊt leɪt ænd aɪd ˈrɑː.ðər wiː klɪəd ði eər naʊ ðæn let ɪt ... ˈəʊ.vər ðə ˈkəʊ.mɪŋ wiːks/",
+        "vi": "Cảm ơn bạn đã dành thời gian cho việc này. Thành thật mà nói, tôi cảm thấy có chút căng thẳng giữa hai ta kể từ khi báo cáo cho khách bị nộp trễ, và tôi muốn mình làm rõ ngay bây giờ hơn là để nó ____ trong những tuần tới.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "escalate",
+            "explanationVi": "Dùng 'escalate' (leo thang) — để mâu thuẫn âm ỉ trở nên nghiêm trọng hơn theo thời gian. Đây là từ vựng trọng tâm của bài; xem mục Từ vựng."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I appreciate you raising it directly. ____ I was frustrated about the missed deadline, I think the whole thing came down to a simple misunderstanding rather than anyone deliberately dropping the ball.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt juː ˈreɪz.ɪŋ ɪt dɪˈrekt.li ... aɪ wɒz frʌsˈtreɪ.tɪd əˈbaʊt ðə mɪst ˈded.laɪn aɪ θɪŋk ðə həʊl θɪŋ keɪm daʊn tə ə ˈsɪm.pəl ˌmɪs.ʌn.dəˈstæn.dɪŋ ˈrɑː.ðər ðæn ˈen.i.wʌn dɪˈlɪb.ər.ət.li ˈdrɒp.ɪŋ ðə bɔːl/",
+        "vi": "Tôi quý việc bạn nói thẳng. ____ tôi có bực vì lỡ hạn chót, tôi nghĩ toàn bộ chuyện này quy về một hiểu lầm đơn giản chứ không phải ai đó cố tình làm hỏng việc.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Although",
+            "explanationVi": "Dùng 'Although' (mặc dù) mở mệnh đề nhượng bộ: tuy bực nhưng vẫn nhìn nhận đó chỉ là hiểu lầm. 'drop the ball' là idiom = làm hỏng/bỏ lỡ phần việc của mình."
+          }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp (Minh)",
+        "text": "That's fair. To be honest, I assumed you were handling the final draft, ____ you assumed I was — so neither of us actually finished it on time. With respect, though, I did mention it in passing during the Monday stand-up.",
+        "ipa": "/ðæts feər tə biː ˈɒn.ɪst aɪ əˈsjuːmd juː wɜː ˈhænd.lɪŋ ðə ˈfaɪ.nəl drɑːft ... juː əˈsjuːmd aɪ wɒz səʊ ˈnaɪ.ðər ɒv ʌs ˈæk.tʃu.ə.li ˈfɪn.ɪʃt ɪt ɒn taɪm wɪð rɪˈspekt ðəʊ aɪ dɪd ˈmen.ʃən ɪt ɪn ˈpɑːs.ɪŋ ˈdjʊə.rɪŋ ðə ˈmʌn.deɪ stænd ʌp/",
+        "vi": "Hợp lý. Thành thật mà nói, tôi cứ tưởng bạn lo bản thảo cuối, ____ bạn lại tưởng tôi lo — nên rốt cuộc chẳng ai hoàn thành đúng hạn. Tuy vậy, xin phép nói thẳng, tôi có nhắc qua chuyện đó trong buổi họp nhanh sáng thứ Hai.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "whereas",
+            "explanationVi": "Dùng 'whereas' (trong khi đó) để đối chiếu hai giả định ngược nhau của hai người. Trang trọng và rõ tương phản hơn 'but'; rất TOEIC."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "In hindsight, I should have ____ that up at the time instead of nodding along. I take full responsibility for not confirming who owned the report, and I should have double-checked before we split up the work.",
+        "ipa": "/ɪn ˈhaɪnd.saɪt aɪ ʃʊd hæv ... ðæt ʌp ət ðə taɪm ɪnˈsted ɒv ˈnɒd.ɪŋ əˈlɒŋ aɪ teɪk fʊl rɪˈspɒn.sə.bɪl.ə.ti fɔːr nɒt kənˈfɜːm.ɪŋ huː əʊnd ðə rɪˈpɔːt ænd aɪ ʃʊd hæv ˈdʌb.əl tʃekt bɪˈfɔːr wiː splɪt ʌp ðə wɜːk/",
+        "vi": "Nhìn lại thì, lẽ ra tôi nên ____ chuyện đó lên ngay lúc ấy thay vì gật cho qua. Tôi xin nhận hoàn toàn trách nhiệm vì đã không xác nhận ai phụ trách báo cáo, và đáng lẽ tôi nên kiểm tra kỹ lại trước khi chia việc.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "brought",
+            "explanationVi": "Cụm 'bring sth up' = nêu/đề cập một vấn đề. Sau 'should have' cần V3, nên 'bring' → 'brought'. Xem mẫu 'I take full responsibility for…, and I should have…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp (Minh)",
+        "text": "I appreciate you saying that, and I don't want to sound ____ either — I could have been clearer rather than just mentioning it offhand. Not only did the deadline slip, but the client also noticed, which is what worries me most.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt juː ˈseɪ.ɪŋ ðæt ænd aɪ dəʊnt wɒnt tə saʊnd ... ˈaɪ.ðər aɪ kʊd hæv biːn ˈklɪə.rər ˈrɑː.ðər ðæn dʒʌst ˈmen.ʃən.ɪŋ ɪt ˈɒf.hænd nɒt ˈəʊn.li dɪd ðə ˈded.laɪn slɪp bʌt ðə ˈklaɪ.ənt ˈɔːl.səʊ ˈnəʊ.tɪst wɪtʃ ɪz wɒt ˈwʌr.iz miː məʊst/",
+        "vi": "Tôi quý việc bạn nói vậy, và tôi cũng không muốn nghe có vẻ ____ — đáng lẽ tôi nên nói rõ ràng hơn thay vì chỉ nhắc qua loa. Không những hạn chót bị lỡ, mà khách hàng cũng để ý, đó mới là điều khiến tôi lo nhất.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "defensive",
+            "explanationVi": "Dùng tính từ 'defensive' (phòng thủ, dễ tự ái). 'don't want to sound defensive' là cách rào trước khi sắp nói điều bênh mình; từ vựng trọng tâm của bài."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Ultimately, we both want the same outcome — a happy client. So perhaps we could meet ____ by setting up a short weekly check-in, in order to make sure responsibilities are crystal clear from the start.",
+        "ipa": "/ˈʌl.tɪ.mət.li wiː bəʊθ wɒnt ðə seɪm ˈaʊt.kʌm ə ˈhæp.i ˈklaɪ.ənt səʊ pəˈhæps wiː kʊd miːt ... baɪ ˈset.ɪŋ ʌp ə ʃɔːt ˈwiːk.li tʃek ɪn ɪn ˈɔː.dər tə meɪk ʃʊər rɪˌspɒn.sə.bɪl.ə.tiz ɑːr ˈkrɪs.təl klɪər frɒm ðə stɑːt/",
+        "vi": "Xét cho cùng, cả hai ta đều muốn cùng một kết quả — một khách hàng hài lòng. Vậy có lẽ ta có thể gặp nhau ở ____ bằng cách lập một buổi họp nhanh hằng tuần, để đảm bảo trách nhiệm của mỗi người rõ ràng ngay từ đầu.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "halfway",
+            "explanationVi": "'meet halfway' là idiom = mỗi bên nhường một nửa để đi đến thỏa hiệp. 'in order to' nêu mục đích. Xem mẫu 'Perhaps we could meet halfway by…'."
+          }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp (Minh)",
+        "text": "That sounds genuinely constructive. Despite the rocky start, I think this conversation has cleared things up nicely. I'd really appreciate it if you could ____ me in early whenever the scope changes, and I'll do exactly the same for you.",
+        "ipa": "/ðæt saʊndz ˈdʒen.ju.ɪn.li kənˈstrʌk.tɪv dɪsˈpaɪt ðə ˈrɒk.i stɑːt aɪ θɪŋk ðɪs ˌkɒn.vəˈseɪ.ʃən hæz klɪəd θɪŋz ʌp ˈnaɪs.li aɪd ˈrɪə.li əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd ... miː ɪn ˈɜː.li wenˈev.ər ðə skəʊp ˈtʃeɪn.dʒɪz ænd aɪl duː ɪɡˈzækt.li ðə seɪm fɔːr juː/",
+        "vi": "Nghe thật sự có tính xây dựng đấy. Dù khởi đầu có hơi trục trặc, tôi nghĩ cuộc nói chuyện này đã làm mọi thứ sáng tỏ hẳn ra. Tôi sẽ rất cảm kích nếu bạn có thể ____ tôi vào sớm mỗi khi phạm vi công việc thay đổi, và tôi cũng sẽ làm y như vậy với bạn.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "loop",
+            "explanationVi": "Cụm 'loop someone in' là idiom công sở = thông báo/cho ai đó tham gia vào luồng thông tin. 'I'd appreciate it if you could…' là mẫu yêu cầu lịch sự bậc cao."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Agreed. Going forward, let's promise to ____ any blockers as soon as they come up, rather than assuming the other person already knows. I'm glad we talked this through ____ than letting it fester.",
+        "ipa": "/əˈɡriːd ˌɡəʊ.ɪŋ ˈfɔː.wəd lets ˈprɒm.ɪs tə ... ˈen.i ˈblɒk.əz əz suːn əz ðeɪ kʌm ʌp ˈrɑː.ðər ðæn əˈsjuːm.ɪŋ ði ˈʌð.ə ˈpɜː.sən ɔːlˈred.i nəʊz aɪm ɡlæd wiː tɔːkt ðɪs θruː ... ðæn ˈlet.ɪŋ ɪt ˈfes.tər/",
+        "vi": "Nhất trí. Từ nay về sau, hãy hứa sẽ ____ mọi vướng mắc ngay khi chúng phát sinh, thay vì cứ cho rằng người kia đã biết. Tôi mừng vì chúng ta đã nói cho ra nhẽ ____ là để nó âm ỉ.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một động từ nguyên thể chỉ hành động bạn cam kết, ví dụ: 'flag', 'raise', 'report'."
+          },
+          {
+            "type": "knowledge",
+            "answer": "rather",
+            "explanationVi": "Cụm 'rather than' = thay vì. Ở đây nối hai lựa chọn đối lập (nói ra cho rõ vs. để âm ỉ). 'fester' = (mâu thuẫn) mưng mủ, âm ỉ tệ dần."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Văn hóa công sở phương Tây đề cao 'addressing conflict directly' — nói thẳng vào vấn đề một cách bình tĩnh được xem là trưởng thành, không phải mất lịch sự. Im lặng cho qua đôi khi bị hiểu là né tránh.",
+    "Người bản xứ rất hay dùng kỹ thuật 'cushioning': công nhận ý đối phương ('I see your point', 'To be fair…') TRƯỚC khi phản đối. Đi thẳng vào 'You're wrong' bị coi là thô.",
+    "Tách bạch con người và vấn đề: phê bình cách làm chứ không công kích cá nhân ('the report was late' thay vì 'you're unreliable'). Đây là nguyên tắc 'hard on the problem, soft on the person'.",
+    "Nhận một phần trách nhiệm ('I should have…') không bị xem là yếu thế mà là dấu hiệu của sự tự tin và chuyên nghiệp — nó thường khiến đối phương cũng hạ giọng theo."
+  ],
+
+  "commonMistakes": [
+    "Dịch thẳng 'I'm not agree' từ tiếng Việt. Đúng là 'I don't agree' hoặc 'I disagree' (disagree là động từ, không cần 'be').",
+    "Dùng 'You always…' / 'You never…' khi trách. Cách này nghe quy kết, dễ làm đối phương phòng thủ — hãy chuyển sang 'I felt…' hoặc mô tả sự việc cụ thể.",
+    "Nhầm 'sensitive' (nhạy cảm) với 'sensible' (biết điều, hợp lý) — hai từ rất khác nghĩa, dễ gây hiểu lầm khi nói về cảm xúc.",
+    "Dùng 'despite' + mệnh đề ('despite it was late'). Sau 'despite/in spite of' phải là danh từ/V-ing ('despite the delay') hoặc đổi sang 'although it was late'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện một cuộc đối thoại xử lý mâu thuẫn ở mức C1 như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp cùng cấp nói tiếng Anh, người đang có chút bất đồng với tôi về một dự án chung vừa bị trễ hạn. Hãy bắt đầu bằng cách chủ động mở lời muốn nói chuyện cho rõ. Trong suốt cuộc trao đổi, hãy giữ thái độ chuyên nghiệp nhưng đôi lúc hơi phòng thủ để tôi tập xoa dịu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật, (2) sửa lỗi ngữ pháp và chỉ ra chỗ nào tôi nói nghe đối đầu hay kém tế nhị, đưa cách diễn đạt khéo hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu phức với 'although', 'whereas', 'despite', 'not only… but also' và các idiom như 'meet halfway', 'clear the air', 'loop someone in'. Cuối buổi, hãy chấm điểm khả năng giữ bình tĩnh và sự khéo léo của tôi, kèm 3 gợi ý cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một đồng nghiệp khó tính, hay ngắt lời và nóng tính hơn, để tôi tập giữ bình tĩnh dưới áp lực.'",
+      "Thêm: 'Hãy đổi tình huống: lần này tôi phải xử lý mâu thuẫn với CẤP TRÊN chứ không phải đồng nghiệp ngang hàng, nên cần register trang trọng hơn.'",
+      "Thêm: 'Cuối buổi, hãy gợi ý cho tôi 5 idiom công sở khác về xử lý xung đột mà tôi chưa dùng tới.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được bất đồng của mình mà vẫn công nhận quan điểm đối phương trước (dùng 'I see where you're coming from, but…').",
+    "Tôi nhận được một phần trách nhiệm bằng cấu trúc 'I should have + V3' một cách tự nhiên.",
+    "Tôi đề xuất được hướng dung hòa bằng idiom 'meet halfway' hoặc mẫu 'What if we…?' và chốt cách phối hợp 'going forward'."
+  ]
+}

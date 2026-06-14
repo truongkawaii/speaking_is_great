@@ -1,0 +1,335 @@
+{
+  "id": "hotel-check-in",
+  "category": "travel",
+  "title": "Nhận phòng khách sạn",
+  "titleEn": "Hotel Check-in",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Báo và xác nhận thông tin đặt phòng tại quầy lễ tân",
+    "Hỏi về tiện nghi, bữa sáng, giờ check-out, wifi",
+    "Đề nghị lịch sự (đổi phòng, gọi báo thức, gửi hành lý)",
+    "Xử lý tình huống trục trặc khi không tìm thấy đặt phòng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "reservation",
+      "ipa": "/ˌrez.ɚˈveɪ.ʃən/",
+      "vi": "việc đặt phòng (đã đặt trước)",
+      "register": "neutral",
+      "example": "I have a reservation under the name Nam.",
+      "exampleVi": "Tôi có đặt phòng dưới tên Nam.",
+      "note": "Dùng cho việc đã đặt TRƯỚC. Nếu đến mà chưa đặt thì gọi là 'walk-in'. Động từ: 'to make a reservation' (đặt phòng).",
+      "synonyms": [
+        {
+          "term": "booking",
+          "ipa": "/ˈbʊk.ɪŋ/",
+          "register": "neutral",
+          "nuanceVi": "Nghĩa gần như y hệt 'reservation'. Người Anh (Anh-Anh) dùng 'booking' nhiều hơn; người Mỹ nghiêng về 'reservation'. Dùng cái nào cũng được."
+        }
+      ]
+    },
+    {
+      "term": "to check in",
+      "ipa": "/tʃek ɪn/",
+      "vi": "làm thủ tục nhận phòng",
+      "register": "neutral",
+      "example": "I'd like to check in, please.",
+      "exampleVi": "Tôi muốn nhận phòng.",
+      "note": "Là cụm động từ. Danh từ là 'check-in' (có gạch nối): 'What time is check-in?'. Ngược lại là 'check out' (trả phòng)."
+    },
+    {
+      "term": "amenities",
+      "ipa": "/əˈmen.ə.tiz/",
+      "vi": "các tiện nghi (hồ bơi, gym, spa...)",
+      "register": "neutral",
+      "example": "Does the room have any amenities like a minibar?",
+      "exampleVi": "Phòng có tiện nghi nào như minibar không?",
+      "note": "Thường dùng số nhiều. Phát âm dễ sai ở trọng âm: nhấn âm thứ hai 'men'.",
+      "synonyms": [
+        {
+          "term": "facilities",
+          "ipa": "/fəˈsɪl.ə.tiz/",
+          "register": "neutral",
+          "nuanceVi": "Nghiêng về tiện ích lớn, dùng chung (hồ bơi, phòng gym, bãi đỗ xe). 'amenities' thiên về tiện nghi nhỏ phục vụ sự thoải mái (dầu gội, minibar, áo choàng tắm)."
+        }
+      ]
+    },
+    {
+      "term": "complimentary",
+      "ipa": "/ˌkɑːm.pləˈmen.tɚ.i/",
+      "vi": "miễn phí (do khách sạn tặng kèm)",
+      "register": "formal",
+      "example": "Breakfast is complimentary for all guests.",
+      "exampleVi": "Bữa sáng miễn phí cho tất cả khách.",
+      "note": "Trang trọng hơn 'free'. Khách sạn rất hay dùng từ này. Đừng nhầm với 'complementary' (bổ sung) — khác chữ.",
+      "synonyms": [
+        {
+          "term": "free",
+          "ipa": "/friː/",
+          "register": "casual",
+          "nuanceVi": "Đơn giản, đời thường, ai cũng hiểu. Nói chuyện bình thường thì dùng thoải mái, nhưng nghe kém sang hơn 'complimentary' trong ngữ cảnh khách sạn."
+        },
+        {
+          "term": "on the house",
+          "ipa": "/ɒn ðə ˈhaʊs/",
+          "register": "casual",
+          "nuanceVi": "Thành ngữ, nghĩa là 'nhà hàng/quán bao, không tính tiền'. Thường dùng cho đồ ăn/thức uống được tặng, không dùng cho dịch vụ chung."
+        },
+        {
+          "term": "included",
+          "ipa": "/ɪnˈkluː.dɪd/",
+          "register": "neutral",
+          "nuanceVi": "Nhấn ý 'đã nằm trong giá đã trả' (không phát sinh thêm), hơi khác 'complimentary' (mang nghĩa được tặng kèm). Cả hai đều rất hay dùng ở khách sạn."
+        }
+      ]
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɑː.zɪt/",
+      "vi": "tiền đặt cọc / tiền tạm giữ",
+      "register": "neutral",
+      "example": "We require a deposit of $50 at check-in.",
+      "exampleVi": "Chúng tôi cần đặt cọc 50 đô khi nhận phòng.",
+      "note": "Khách sạn thường 'hold' (tạm giữ) một khoản trên thẻ tín dụng, sẽ hoàn lại khi trả phòng nếu không phát sinh."
+    },
+    {
+      "term": "to upgrade",
+      "ipa": "/ˈʌp.ɡreɪd/",
+      "vi": "nâng hạng phòng",
+      "register": "neutral",
+      "example": "Would it be possible to upgrade to a room with a view?",
+      "exampleVi": "Có thể nâng hạng lên phòng có view không?",
+      "note": "Danh từ và động từ viết giống nhau nhưng trọng âm khác: danh từ nhấn 'UP-grade', động từ nhấn 'up-GRADE'."
+    },
+    {
+      "term": "key card",
+      "ipa": "/ˈkiː kɑːrd/",
+      "vi": "thẻ từ mở cửa phòng",
+      "register": "neutral",
+      "example": "Here are your two key cards.",
+      "exampleVi": "Đây là hai thẻ phòng của quý khách.",
+      "note": "Loại thẻ nhựa quẹt để mở cửa, phổ biến ở khách sạn hiện đại."
+    },
+    {
+      "term": "late check-out",
+      "ipa": "/leɪt ˈtʃek.aʊt/",
+      "vi": "trả phòng trễ (muộn hơn giờ quy định)",
+      "register": "neutral",
+      "example": "Is late check-out available tomorrow?",
+      "exampleVi": "Ngày mai có thể trả phòng trễ không?",
+      "note": "Giờ check-out tiêu chuẩn thường là 11h-12h trưa. Xin trễ hơn có thể mất phí hoặc miễn phí tùy khách sạn."
+    },
+    {
+      "term": "vacancy",
+      "ipa": "/ˈveɪ.kən.si/",
+      "vi": "phòng trống còn sẵn",
+      "register": "neutral",
+      "example": "Do you have any vacancies for tonight?",
+      "exampleVi": "Tối nay còn phòng trống không?",
+      "note": "Biển 'No vacancy' nghĩa là hết phòng. Hữu ích khi bạn đến mà chưa đặt trước (walk-in)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I have a reservation under [tên].",
+      "use": "Báo cho lễ tân biết bạn đã đặt phòng và tên dùng để đặt.",
+      "register": "neutral",
+      "examples": [
+        "I have a reservation under Tran Van Nam.",
+        "Hi, I have a booking under the name Nam."
+      ],
+      "explanationVi": "'under' ở đây nghĩa là 'dưới tên'. Có thể thay 'reservation' bằng 'booking' (Anh-Anh hay dùng 'booking' hơn). Đây là câu mở đầu chuẩn nhất khi tới quầy."
+    },
+    {
+      "pattern": "I'd like to + [động từ nguyên thể], please.",
+      "use": "Đưa ra yêu cầu một cách lịch sự, trung tính.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to check in, please.",
+        "I'd like to extend my stay by one night."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự và an toàn hơn nhiều so với 'I want to' (nghe hơi cộc). Đây là mẫu câu xương sống cho mọi yêu cầu trong du lịch.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Is/Are + [danh từ] + included?",
+      "use": "Hỏi xem một dịch vụ đã nằm trong giá phòng chưa.",
+      "register": "neutral",
+      "examples": [
+        "Is breakfast included?",
+        "Are taxes included in the price?"
+      ],
+      "explanationVi": "'included' = đã bao gồm (không tính thêm tiền). Câu cực kỳ thông dụng để tránh bị tính phí bất ngờ."
+    },
+    {
+      "pattern": "Could I + [động từ nguyên thể] ... ?",
+      "use": "Xin phép / yêu cầu điều gì đó một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I get a wake-up call at 7 a.m.?",
+        "Could I leave my luggage here until check-in?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?' và rất hợp khi nói chuyện với người lạ (lễ tân). Dùng cho việc bạn cần họ làm/cho phép.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Would it be possible to + [động từ nguyên thể] ... ?",
+      "use": "Đề nghị một việc khó hơn, tế nhị hơn (đổi phòng, nâng hạng, ưu đãi).",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to upgrade to a room with a view?",
+        "Would it be possible to have a late check-out?"
+      ],
+      "explanationVi": "Đây là cách đề nghị lịch sự bậc cao. Dùng khi bạn xin một đặc ân mà người ta có quyền từ chối — nghe rất nhã nhặn, dễ được giúp.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Do you have any [danh từ] available?",
+      "use": "Hỏi về tình trạng còn/hết (phòng, dịch vụ).",
+      "register": "neutral",
+      "examples": [
+        "Do you have any rooms available for tonight?",
+        "Do you have any non-smoking rooms available?"
+      ],
+      "explanationVi": "Dùng khi bạn đến mà chưa đặt (walk-in), hoặc muốn đổi loại phòng. 'available' = còn sẵn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không muốn cộc lốc.",
+      "example": "Actually, I booked a double room, not a single."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề, chuyển nhẹ chủ đề.",
+      "example": "By the way, what time does breakfast start?"
+    },
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nói mềm, bớt nặng nề)",
+      "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.",
+      "example": "I just have a quick question about the wifi."
+    },
+    {
+      "term": "possibly",
+      "ipa": "/ˈpɑː.sə.bli/",
+      "vi": "liệu có thể... (tăng độ lịch sự)",
+      "when": "Chèn vào yêu cầu để nghe khiêm tốn hơn.",
+      "example": "Could I possibly get an extra pillow?"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa đến khách sạn vào buổi tối và tới quầy lễ tân để nhận phòng đã đặt trước.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good evening, and welcome! How can I help you?",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ ænd ˈwel.kəm haʊ kæn aɪ help juː/",
+        "vi": "Chào buổi tối, hân hạnh đón quý khách! Tôi có thể giúp gì ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good evening. I have a reservation under ____.",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ aɪ hæv ə ˌrez.ɚˈveɪ.ʃən ˈʌn.dɚ/",
+        "vi": "Chào buổi tối. Tôi có đặt phòng dưới tên ____.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tên dùng để đặt phòng của bạn. Ví dụ: 'Nam' hoặc 'Tran Van Nam'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Let me check... Yes, a deluxe room for ____ nights, is that correct?",
+        "ipa": "/let miː tʃek jes ə dɪˈlʌks ruːm fɔːr naɪts ɪz ðæt kəˈrekt/",
+        "vi": "Để tôi kiểm tra... Vâng, một phòng deluxe trong ____ đêm, đúng không ạ?",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Số đêm bạn ở. Ví dụ: 'three' (3 đêm)."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's right. By the way, is breakfast ____?",
+        "ipa": "/ðæts raɪt baɪ ðə weɪ ɪz ˈbrek.fəst/",
+        "vi": "Đúng rồi. Tiện thể, bữa sáng có ____ không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "included",
+            "explanationVi": "Dùng 'included' (đã bao gồm trong giá). Cấu trúc: 'Is + danh từ + included?'. Đây là mẫu câu hỏi thông tin ở phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Yes, breakfast is complimentary, served from 6:30 to 10 a.m.",
+        "ipa": "/jes ˈbrek.fəst ɪz ˌkɑːm.pləˈmen.tɚ.i sɜːrvd frɒm ... tə ten eɪ em/",
+        "vi": "Vâng, bữa sáng miễn phí, phục vụ từ 6h30 đến 10h sáng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Great. ____ it be possible to have a late check-out tomorrow?",
+        "ipa": "/ɡreɪt ɪt biː ˈpɑː.sə.bəl tə hæv ə leɪt ˈtʃek.aʊt təˈmɑːr.oʊ/",
+        "vi": "Tuyệt. ____ thể trả phòng trễ vào ngày mai không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Would",
+            "explanationVi": "Mẫu đề nghị lịch sự bậc cao: 'Would it be possible to...?'. Dùng khi xin một đặc ân (trả phòng trễ) mà lễ tân có quyền từ chối."
+          }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "I'll note that down. Here are your key cards — room 504, on the fifth floor. Enjoy your stay!",
+        "ipa": "/aɪl noʊt ðæt daʊn hɪr ɑːr jɔːr ˈkiː kɑːrdz ruːm faɪv oʊ fɔːr ɑːn ðə fɪfθ flɔːr ɪnˈdʒɔɪ jɔːr steɪ/",
+        "vi": "Tôi sẽ ghi chú lại. Đây là thẻ phòng của quý khách — phòng 504, tầng 5. Chúc quý khách có kỳ nghỉ vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Giờ nhận phòng (check-in) tiêu chuẩn thường là 14h-15h, trả phòng (check-out) khoảng 11h-12h. Đến sớm có thể phải chờ phòng dọn xong.",
+    "Khách sạn thường yêu cầu hộ chiếu/CMND và 'hold' (tạm giữ) một khoản trên thẻ tín dụng làm cọc — số tiền này được hoàn lại khi trả phòng nếu không phát sinh.",
+    "Ở các nước phương Tây, đưa nhân viên mang hành lý (bellboy) tip 1-2 đô/kiện là thông lệ lịch sự, dù không bắt buộc.",
+    "'Complimentary' nghe sang và đúng ngữ cảnh khách sạn hơn 'free' — bạn sẽ thấy từ này trên bảng hiệu và menu rất nhiều."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a room' nghe cộc và đòi hỏi. Người bản xứ dùng 'I'd like...' hoặc 'Could I...?' cho lịch sự.",
+    "Quên mạo từ 'a': phải nói 'I have A reservation', không phải 'I have reservation'.",
+    "Lạm dụng 'free' trong mọi tình huống. Ở khách sạn, 'complimentary' (tặng kèm) và 'included' (đã trong giá) tự nhiên và đúng sắc thái hơn.",
+    "Đề nghị trống không kiểu 'Give me a late check-out'. Luôn bọc bằng 'Could I...?' hoặc 'Would it be possible to...?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống này như thật.",
+    "prompt": "Hãy đóng vai một nhân viên lễ tân khách sạn nói tiếng Anh. Tôi là khách vừa đến để nhận phòng đã đặt trước. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một lễ tân thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra một tình huống bất ngờ (ví dụ không tìm thấy đặt phòng, hết phòng đã đặt) để tôi tập xử lý. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự báo được thông tin đặt phòng mà không nhìn gợi ý.",
+    "Tôi hỏi được ít nhất 2 câu về tiện nghi/bữa sáng/check-out.",
+    "Tôi dùng được mẫu 'Would it be possible to...?' để đề nghị lịch sự."
+  ]
+}

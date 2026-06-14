@@ -1,0 +1,407 @@
+{
+  "id": "family-plans",
+  "category": "family",
+  "title": "Lên kế hoạch gia đình",
+  "titleEn": "Family Plans",
+  "level": "B1",
+  "functions": ["suggesting", "opinions", "agreeing", "small-talk"],
+  "estimatedMinutes": 16,
+  "objectives": [
+    "Bàn bạc và đề xuất kế hoạch chung cho cả gia đình bằng câu vừa phải, tự nhiên",
+    "Đưa ra ý kiến, đồng ý hoặc nhẹ nhàng không đồng ý với đề xuất của người thân",
+    "Phân chia công việc, sắp xếp lịch và thống nhất quyết định cuối cùng",
+    "Dùng các cấu trúc such as, although, in order to và một số trạng từ tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "gathering",
+      "ipa": "/ˈɡæð.ər.ɪŋ/",
+      "vi": "buổi tụ họp, sum họp (danh từ)",
+      "register": "neutral",
+      "example": "We're planning a small family gathering this weekend.",
+      "exampleVi": "Chúng tôi đang lên kế hoạch cho một buổi sum họp gia đình nhỏ vào cuối tuần này.",
+      "note": "Danh từ. Chỉ dịp mọi người tụ tập, thường ấm cúng. Đi với 'family/social gathering'.",
+      "synonyms": [
+        { "term": "reunion", "ipa": "/riːˈjuː.ni.ən/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'gặp lại sau thời gian xa cách', thường quy mô lớn hơn (họ hàng từ xa về). Dùng 'family reunion'." },
+        { "term": "get-together", "ipa": "/ˈɡet.tə.ɡeð.ər/", "register": "casual", "nuanceVi": "Đời thường, thân mật, chỉ một buổi gặp gỡ nhỏ không trang trọng. Hợp khi nói chuyện bạn bè, người thân." }
+      ]
+    },
+    {
+      "term": "schedule",
+      "ipa": "/ˈskedʒ.uːl/",
+      "vi": "lịch trình, thời gian biểu (danh từ); lên lịch (động từ)",
+      "register": "neutral",
+      "example": "Let's check everyone's schedule before we decide on a date.",
+      "exampleVi": "Hãy xem lịch của mọi người trước khi chốt ngày nhé.",
+      "note": "Vừa là danh từ vừa là động từ. Anh-Mỹ đọc /ˈskedʒ.uːl/, Anh-Anh đọc /ˈʃedʒ.uːl/.",
+      "synonyms": [
+        { "term": "timetable", "ipa": "/ˈtaɪm.teɪ.bəl/", "register": "neutral", "nuanceVi": "Nghiêng về bảng giờ giấc cố định (tàu, lớp học). Trong gia đình ít dùng hơn 'schedule'." },
+        { "term": "agenda", "ipa": "/əˈdʒen.də/", "register": "formal", "nuanceVi": "Nhấn vào danh sách việc/chủ đề cần bàn trong một buổi, không phải giờ giấc. Hơi trang trọng." }
+      ]
+    },
+    {
+      "term": "to arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "vi": "sắp xếp, thu xếp (động từ)",
+      "register": "neutral",
+      "example": "I'll arrange the transport so everyone can travel together.",
+      "exampleVi": "Tôi sẽ thu xếp phương tiện để mọi người cùng đi.",
+      "note": "Động từ. Đi với 'arrange something' hoặc 'arrange to do something'. Mang nghĩa lo liệu, dàn xếp cho ổn thỏa.",
+      "synonyms": [
+        { "term": "to organize", "ipa": "/ˈɔː.ɡən.aɪz/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nhấn vào việc tổ chức tổng thể (sắp xếp nhiều thứ thành hệ thống). 'arrange' thiên về thu xếp từng việc cụ thể." },
+        { "term": "to set up", "ipa": "/set ʌp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'chuẩn bị, dựng nên'. Hợp khi nói thân mật: 'set up a video call'." }
+      ]
+    },
+    {
+      "term": "to suggest",
+      "ipa": "/səˈdʒest/",
+      "vi": "đề xuất, gợi ý (động từ)",
+      "register": "neutral",
+      "example": "I'd suggest going somewhere quiet rather than a crowded place.",
+      "exampleVi": "Tôi gợi ý đi đâu đó yên tĩnh thay vì chỗ đông người.",
+      "note": "Động từ. Sau 'suggest' dùng V-ing hoặc 'that + S + (should) V', KHÔNG dùng 'suggest to do'.",
+      "synonyms": [
+        { "term": "to propose", "ipa": "/prəˈpəʊz/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'đề nghị chính thức một phương án'. Nghe nghiêm túc hơn 'suggest'." },
+        { "term": "to recommend", "ipa": "/ˌrek.əˈmend/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'khuyên nên chọn' dựa trên kinh nghiệm. Mạnh hơn gợi ý thoáng qua một chút." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "thuận tiện, hợp lý (về thời gian/địa điểm) (tính từ)",
+      "register": "neutral",
+      "example": "Saturday afternoon would be the most convenient time for all of us.",
+      "exampleVi": "Chiều thứ Bảy sẽ là thời điểm thuận tiện nhất cho tất cả chúng ta.",
+      "note": "Tính từ. Nói về thứ phù hợp, đỡ phiền cho ai đó. Trái nghĩa: inconvenient. Danh từ: convenience.",
+      "synonyms": [
+        { "term": "suitable", "ipa": "/ˈsuː.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào 'phù hợp, thích hợp' với mục đích, không nhất thiết là tiện lợi. 'a suitable date for everyone'." },
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện, dễ dùng/dễ tới'. Hợp lúc nói chuyện thân mật trong nhà." }
+      ]
+    },
+    {
+      "term": "budget",
+      "ipa": "/ˈbʌdʒ.ɪt/",
+      "vi": "ngân sách, khoản tiền dự chi (danh từ)",
+      "register": "neutral",
+      "example": "We should set a budget so the trip doesn't get too expensive.",
+      "exampleVi": "Chúng ta nên đặt ra ngân sách để chuyến đi không quá tốn kém.",
+      "note": "Danh từ. Đi với 'set/stick to a budget' (đặt ra / bám sát ngân sách). Cũng dùng làm tính từ: 'a budget hotel' (khách sạn giá rẻ).",
+      "synonyms": [
+        { "term": "spending limit", "ipa": "/ˈspen.dɪŋ ˈlɪm.ɪt/", "register": "neutral", "nuanceVi": "Cụm cụ thể, nhấn vào 'mức tối đa được chi'. Rõ ràng nhưng dài hơn 'budget'." }
+      ]
+    },
+    {
+      "term": "responsibility",
+      "ipa": "/rɪˌspɒn.sɪˈbɪl.ə.ti/",
+      "vi": "trách nhiệm, phần việc được giao (danh từ)",
+      "register": "neutral",
+      "example": "Cooking will be my responsibility, and Dad will handle the shopping.",
+      "exampleVi": "Nấu ăn sẽ là phần việc của tôi, còn bố sẽ lo việc mua sắm.",
+      "note": "Danh từ. 'take responsibility for' = nhận trách nhiệm về. Tính từ liên quan: responsible.",
+      "synonyms": [
+        { "term": "task", "ipa": "/tɑːsk/", "register": "neutral", "nuanceVi": "Nhấn vào 'một việc cụ thể phải làm', nhỏ và rõ ràng hơn 'responsibility' (vốn rộng và mang tính bổn phận)." },
+        { "term": "duty", "ipa": "/ˈdjuː.ti/", "register": "formal", "nuanceVi": "Trang trọng, nhấn vào 'bổn phận đạo lý, nghĩa vụ'. Nghe nặng nề hơn responsibility." }
+      ]
+    },
+    {
+      "term": "flexible",
+      "ipa": "/ˈflek.sə.bəl/",
+      "vi": "linh hoạt, dễ điều chỉnh (tính từ)",
+      "register": "neutral",
+      "example": "I'm pretty flexible, so any day next week works for me.",
+      "exampleVi": "Tôi khá linh hoạt, nên ngày nào tuần sau cũng được với tôi.",
+      "note": "Tính từ. Nói về người dễ điều chỉnh hoặc kế hoạch có thể thay đổi. Trái nghĩa: rigid (cứng nhắc).",
+      "synonyms": [
+        { "term": "easy-going", "ipa": "/ˌiː.ziˈɡəʊ.ɪŋ/", "register": "casual", "nuanceVi": "Chỉ tính cách 'dễ tính, thoải mái, không khó chịu'. Nói về con người chứ không nói về kế hoạch." },
+        { "term": "adaptable", "ipa": "/əˈdæp.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào khả năng 'thích nghi khi hoàn cảnh thay đổi'. Hơi trang trọng hơn flexible." }
+      ]
+    },
+    {
+      "term": "to look forward to",
+      "ipa": "/lʊk ˈfɔː.wəd tuː/",
+      "vi": "mong chờ, háo hức chờ đợi (cụm động từ)",
+      "register": "neutral",
+      "example": "The kids are really looking forward to seeing their grandparents.",
+      "exampleVi": "Bọn trẻ đang rất mong được gặp ông bà.",
+      "note": "Cụm động từ. Sau 'to' phải dùng danh từ hoặc V-ing, KHÔNG dùng động từ nguyên thể.",
+      "synonyms": [
+        { "term": "to be excited about", "ipa": "/biː ɪkˈsaɪ.tɪd əˈbaʊt/", "register": "casual", "nuanceVi": "Đời thường, nhấn cảm xúc 'phấn khích'. Trực tiếp và sôi nổi hơn 'look forward to'." },
+        { "term": "to anticipate", "ipa": "/ænˈtɪs.ɪ.peɪt/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'dự đoán/chờ đón'. Nghe sách vở, ít dùng trong trò chuyện gia đình." }
+      ]
+    },
+    {
+      "term": "definitely",
+      "ipa": "/ˈdef.ɪn.ət.li/",
+      "vi": "chắc chắn, nhất định rồi (trạng từ)",
+      "register": "neutral",
+      "example": "We should definitely invite Grandma to the dinner.",
+      "exampleVi": "Chúng ta nhất định nên mời bà đến bữa tối.",
+      "note": "Trạng từ. Dùng để khẳng định mạnh điều mình tin. Bẫy chính tả: 'defiNITEly', không phải 'definately'.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˈæb.sə.luːt.li/", "register": "neutral", "nuanceVi": "Mạnh hơn, mang sắc thái 'hoàn toàn, không bàn cãi'. Hay dùng để đồng ý dứt khoát: 'Absolutely!'." },
+        { "term": "for sure", "ipa": "/fɔː ʃʊə/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'chắc chắn rồi'. Hợp khi nói chuyện thoải mái trong nhà." }
+      ]
+    },
+    {
+      "term": "to compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "nhượng bộ, thỏa hiệp (mỗi bên nhường một chút) (động từ)",
+      "register": "neutral",
+      "example": "Let's compromise: we'll visit the museum in the morning and the park later.",
+      "exampleVi": "Hãy thỏa hiệp nhé: buổi sáng đi bảo tàng, lát nữa ra công viên.",
+      "note": "Động từ và danh từ giống nhau. Đi với 'compromise on something'. Sắc thái tích cực: cùng nhường để cả hai vui.",
+      "synonyms": [
+        { "term": "to meet halfway", "ipa": "/miːt ˌhɑːfˈweɪ/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'gặp nhau ở giữa, mỗi bên nhường một nửa'. Sinh động, thân mật." }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách suôn sẻ, trơn tru (trạng từ)",
+      "register": "neutral",
+      "example": "If we plan ahead, everything will go smoothly on the day.",
+      "exampleVi": "Nếu lên kế hoạch trước, mọi thứ sẽ diễn ra suôn sẻ vào hôm đó.",
+      "note": "Trạng từ. Hay đi với 'go/run smoothly' (diễn ra trơn tru). Tính từ: smooth.",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'không một chút trục trặc, liền mạch'. Nghe chuyên nghiệp hơn 'smoothly'." },
+        { "term": "without a hitch", "ipa": "/wɪˈðaʊt ə hɪtʃ/", "register": "casual", "nuanceVi": "Thành ngữ, nghĩa 'không gặp trục trặc gì'. Đời thường, sinh động." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Đề xuất một ý tưởng chung một cách nhẹ nhàng, thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Why don't we have the party at home this year?",
+        "Why don't we ask the kids what they want to do?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách rủ rê, gợi ý rất tự nhiên trong gia đình. Tuy hình thức là câu hỏi nhưng thực chất là một đề xuất.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "How about [V-ing / danh từ]?",
+      "use": "Tung ra một phương án để mọi người cân nhắc.",
+      "register": "casual",
+      "examples": [
+        "How about visiting Grandma on Sunday instead?",
+        "How about a picnic if the weather is nice?"
+      ],
+      "explanationVi": "Sau 'How about' luôn dùng V-ing hoặc danh từ, KHÔNG dùng động từ nguyên thể. Cách gợi ý ngắn gọn, thoải mái.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I think we should [động từ nguyên thể] in order to [động từ].",
+      "use": "Đưa ra ý kiến kèm lý do/mục đích cho thuyết phục.",
+      "register": "neutral",
+      "examples": [
+        "I think we should book early in order to get a better price.",
+        "I think we should leave by eight in order to avoid the traffic."
+      ],
+      "explanationVi": "'in order to + V' nêu mục đích (để mà...), nghe rõ ràng và thuyết phục hơn chỉ nói 'to'. Mẫu câu hay 'ăn điểm' kiểu TOEIC.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I'm not sure about [danh từ / V-ing]; maybe we could [động từ] instead.",
+      "use": "Không đồng ý nhẹ nhàng rồi đề xuất phương án thay thế.",
+      "register": "neutral",
+      "examples": [
+        "I'm not sure about Saturday; maybe we could meet on Sunday instead.",
+        "I'm not sure about eating out; maybe we could cook at home instead."
+      ],
+      "explanationVi": "'I'm not sure about...' là cách phản đối lịch sự, giữ thể diện cho người đề xuất. Thêm 'instead' để đưa lựa chọn khác, tránh chỉ nói 'không'.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "That sounds [tính từ]. Let's [động từ nguyên thể].",
+      "use": "Đồng ý hào hứng với một đề xuất và chốt lại hành động.",
+      "register": "casual",
+      "examples": [
+        "That sounds great. Let's do it!",
+        "That sounds perfect. Let's tell the others tonight."
+      ],
+      "explanationVi": "'That sounds + tính từ' (great/perfect/lovely) là cách hưởng ứng tự nhiên. 'Let's...' rủ cả nhóm cùng làm, chốt quyết định.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "Shall I [động từ nguyên thể], or would you rather [động từ]?",
+      "use": "Đề nghị nhận một phần việc và hỏi ý người kia.",
+      "register": "neutral",
+      "examples": [
+        "Shall I book the restaurant, or would you rather do it yourself?",
+        "Shall I bring dessert, or would you rather I make a salad?"
+      ],
+      "explanationVi": "'Shall I...?' để ngỏ ý làm giúp; 'would you rather...?' hỏi xem người kia có thích phương án khác hơn không. Lịch sự và biết điều khi chia việc."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thật lòng mà nói",
+      "when": "Khi mở đầu một ý kiến chân thành, đôi khi hơi trái với số đông.",
+      "example": "Honestly, I'd prefer a quiet weekend at home this time."
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.",
+      "example": "Actually, Mum is free on Sunday, not Saturday."
+    },
+    {
+      "term": "personally",
+      "ipa": "/ˈpɜː.sən.əl.i/",
+      "vi": "cá nhân tôi thì...",
+      "when": "Khi muốn nhấn rằng đây là quan điểm riêng, tôn trọng ý người khác.",
+      "example": "Personally, I think a homemade dinner feels warmer than a restaurant."
+    },
+    {
+      "term": "ideally",
+      "ipa": "/aɪˈdiː.ə.li/",
+      "vi": "lý tưởng nhất thì...",
+      "when": "Khi nêu phương án mong muốn nhất, dù biết có thể phải điều chỉnh.",
+      "example": "Ideally, we'd all travel together, but we can take two cars if needed."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể / nhân tiện",
+      "when": "Khi muốn xen thêm một ý ngoài lề, chuyển nhẹ chủ đề.",
+      "example": "By the way, should we invite Uncle Tom as well?"
+    }
+  ],
+
+  "dialogue": {
+    "context": "Hai chị em (Lan và Minh) đang ngồi với nhau để lên kế hoạch cho dịp sum họp gia đình cuối tuần: chọn ngày, chia việc và thống nhất ngân sách.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "So, since Mum's birthday is coming up, I think we should plan a small family gathering, although I'm not sure yet which day would work best for everyone.",
+        "ipa": "/səʊ sɪns mʌmz ˈbɜːθ.deɪ ɪz ˈkʌm.ɪŋ ʌp aɪ θɪŋk wiː ʃʊd plæn ə smɔːl ˈfæm.əl.i ˈɡæð.ər.ɪŋ ɔːlˈðəʊ aɪm nɒt ʃʊə jet wɪtʃ deɪ wʊd wɜːk best fɔːr ˈev.ri.wʌn/",
+        "vi": "Này, vì sắp đến sinh nhật mẹ rồi, chị nghĩ tụi mình nên lên kế hoạch cho một buổi sum họp gia đình nhỏ, mặc dù chị chưa chắc ngày nào hợp nhất với mọi người."
+      },
+      {
+        "speaker": "Minh",
+        "text": "That sounds lovely. Personally, I'd suggest ____ it on Saturday afternoon, because most of us are free then and the kids don't have school the next day.",
+        "ipa": "/ðæt saʊndz ˈlʌv.li ˈpɜː.sən.əl.i aɪd səˈdʒest ... ɪt ɒn ˈsæt.ə.deɪ ˌɑːf.təˈnuːn bɪˈkɒz məʊst ɒv ʌs ɑːr friː ðen ænd ðə kɪdz dəʊnt hæv skuːl ðə nekst deɪ/",
+        "vi": "Nghe hay đấy. Cá nhân em thì gợi ý ____ nó vào chiều thứ Bảy, vì lúc đó hầu hết tụi mình rảnh và bọn trẻ hôm sau không phải đi học.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "having",
+            "explanationVi": "Sau động từ 'suggest' phải dùng V-ing ('having'), KHÔNG dùng 'to have'. Xem phần Lỗi thường gặp và mẫu câu với 'suggest'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Good idea. We could do a few different things, such as a homemade dinner and some games, in order to keep both the grown-ups and the children happy.",
+        "ipa": "/ɡʊd aɪˈdɪə wiː kʊd duː ə fjuː ˈdɪf.ər.ənt θɪŋz sʌtʃ æz ə ˌhəʊmˈmeɪd ˈdɪn.ər ænd sʌm ɡeɪmz ɪn ˈɔː.də tə kiːp bəʊθ ðə ˈɡrəʊn.ʌps ænd ðə ˈtʃɪl.drən ˈhæp.i/",
+        "vi": "Ý hay đấy. Tụi mình có thể làm vài thứ khác nhau, chẳng hạn như một bữa tối tự nấu và vài trò chơi, để cả người lớn lẫn bọn trẻ đều vui."
+      },
+      {
+        "speaker": "Minh",
+        "text": "I love that. By the way, who should be ____ for the food? I'm happy to do the shopping if you take care of the cooking.",
+        "ipa": "/aɪ lʌv ðæt baɪ ðə weɪ huː ʃʊd biː ... fɔːr ðə fuːd aɪm ˈhæp.i tə duː ðə ˈʃɒp.ɪŋ ɪf juː teɪk keər ɒv ðə ˈkʊk.ɪŋ/",
+        "vi": "Em thích lắm. Tiện thể, ai nên ____ chuyện đồ ăn nhỉ? Em sẵn lòng đi mua sắm nếu chị lo phần nấu nướng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "responsible",
+            "explanationVi": "Cụm cố định 'be responsible FOR something' = chịu trách nhiệm về việc gì. Luôn đi kèm giới từ 'for'. Đây là từ vựng trọng tâm của bài."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That works for me. Honestly, I'm quite ____ about the date, so if Saturday turns out to be difficult, I can easily switch things around.",
+        "ipa": "/ðæt wɜːks fɔːr miː ˈɒn.ɪst.li aɪm kwaɪt ... əˈbaʊt ðə deɪt səʊ ɪf ˈsæt.ə.deɪ tɜːnz aʊt tə biː ˈdɪf.ɪ.kəlt aɪ kæn ˈiː.zɪ.li swɪtʃ θɪŋz əˈraʊnd/",
+        "vi": "Vậy hợp với chị. Thật lòng mà nói, chị khá ____ về ngày giờ, nên nếu thứ Bảy hóa ra bất tiện thì chị đổi lại dễ dàng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "flexible",
+            "explanationVi": "'flexible' (linh hoạt, dễ điều chỉnh) là tính từ phù hợp ở đây, hợp với vế sau 'I can easily switch things around'. Xem từ vựng 'flexible'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Great. One more thing: we should probably set a ____ of around ____ so the celebration doesn't get too expensive, even though we want it to feel special.",
+        "ipa": "/ɡreɪt wʌn mɔː θɪŋ wiː ʃʊd ˈprɒb.ə.bli set ə ... ɒv əˈraʊnd ... səʊ ðə ˌsel.ɪˈbreɪ.ʃən ˈdʌz.ənt ɡet tuː ɪkˈspen.sɪv ˈiː.vən ðəʊ wiː wɒnt ɪt tə fiːl ˈspeʃ.əl/",
+        "vi": "Tuyệt. Còn một điều nữa: tụi mình có lẽ nên đặt một ____ khoảng ____ để buổi tiệc không quá tốn kém, dù tụi mình vẫn muốn nó thật đặc biệt.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "budget",
+            "explanationVi": "'budget' (ngân sách) là danh từ đúng ở đây, đi với 'set a budget'. Vế 'doesn't get too expensive' là gợi ý rõ. Xem từ vựng 'budget'."
+          },
+          {
+            "type": "personal",
+            "hint": "Số tiền bạn muốn giới hạn. Ví dụ: 'two million dong' hoặc 'a hundred dollars'."
+          }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Perfect. Let's confirm everything tonight, then. If we plan ahead like this, I'm sure the whole day will go ____ and everyone will enjoy it.",
+        "ipa": "/ˈpɜː.fekt lets kənˈfɜːm ˈev.ri.θɪŋ təˈnaɪt ðen ɪf wiː plæn əˈhed laɪk ðɪs aɪm ʃʊə ðə həʊl deɪ wɪl ɡəʊ ... ænd ˈev.ri.wʌn wɪl ɪnˈdʒɔɪ ɪt/",
+        "vi": "Hoàn hảo. Vậy tối nay tụi mình chốt hết nhé. Nếu lên kế hoạch trước như vầy, chị chắc là cả ngày hôm đó sẽ diễn ra ____ và ai cũng thấy vui.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "smoothly",
+            "explanationVi": "Cần một trạng từ bổ nghĩa cho động từ 'go'. 'go smoothly' = diễn ra suôn sẻ. Xem từ vựng 'smoothly'."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I can't wait! The kids are already ____ to seeing their grandparents, so let's make this gathering one to remember.",
+        "ipa": "/aɪ kɑːnt weɪt ðə kɪdz ɑːr ɔːlˈred.i ... tə ˈsiː.ɪŋ ðeə ˈɡræn.peə.rənts səʊ lets meɪk ðɪs ˈɡæð.ər.ɪŋ wʌn tə rɪˈmem.bə/",
+        "vi": "Em nóng lòng quá! Bọn trẻ đã ____ được gặp ông bà rồi, nên hãy biến buổi sum họp này thành một dịp đáng nhớ nhé.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "looking forward",
+            "explanationVi": "Cụm 'be looking forward TO + V-ing' = đang mong chờ làm gì. Vì sau 'to' là 'seeing' (V-ing) nên đáp án là 'looking forward'. Xem từ vựng 'to look forward to'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong nhiều gia đình phương Tây, các quyết định chung (đi đâu, ăn gì) thường được bàn bạc cởi mở; trẻ em cũng được hỏi ý kiến chứ không chỉ người lớn quyết.",
+    "Khi tổ chức tụ họp, việc 'chia việc' rất phổ biến: mỗi người mang một món (potluck) hoặc nhận một phần việc, thể hiện tinh thần cùng đóng góp.",
+    "Nói thẳng ý mình một cách lịch sự (dùng 'I'm not sure about...', 'Personally...') được xem là bình thường và lành mạnh, không bị coi là cãi lại.",
+    "Đặt ra ngân sách (budget) cho dịp lễ là chuyện rất tự nhiên và không hề kém sang; mọi người trao đổi tiền nong khá thoải mái khi lên kế hoạch chung."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai sau 'suggest': phải nói 'suggest having dinner' hoặc 'suggest that we have dinner', KHÔNG nói 'suggest to have'.",
+    "Quên giới từ 'to' sau 'look forward', hoặc dùng động từ nguyên thể: phải là 'looking forward TO seeing', không phải 'looking forward to see'.",
+    "Quên giới từ 'for' sau 'responsible' — luôn là 'responsible FOR something'.",
+    "Dùng 'How about to go...' — sau 'How about' phải là V-ing hoặc danh từ: 'How about going...?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống lên kế hoạch gia đình như thật.",
+    "prompt": "Hãy đóng vai một thành viên trong gia đình tôi (anh/chị/em hoặc bố/mẹ) nói tiếng Anh. Chúng ta đang cùng nhau lên kế hoạch cho một dịp gia đình (sinh nhật, chuyến đi cuối tuần, hoặc bữa tối sum họp) mà tôi sẽ nêu. Hãy bắt đầu bằng cách đề xuất một ý tưởng rồi hỏi ý tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người thân thật, có lúc đồng ý, có lúc đưa phương án khác; (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt; (3) khuyến khích tôi dùng các mẫu câu gợi ý và nêu ý kiến như 'Why don't we...?', 'How about...?', 'I think we should... in order to...', 'I'm not sure about..., maybe we could... instead'. Thỉnh thoảng tạo một tình huống bất ngờ (ví dụ ai đó bận đúng ngày đã chọn, hoặc vượt ngân sách) để tôi tập thương lượng. Cuối buổi, hãy chấm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy giả vờ không đồng ý với một vài đề xuất của tôi để tôi tập thuyết phục và thỏa hiệp.'",
+      "Thêm câu: 'Hãy nói nhanh và dùng nhiều thành ngữ đời thường hơn như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đưa ra được ít nhất 2 đề xuất bằng các mẫu 'Why don't we...?' hoặc 'How about...?' mà không nhìn gợi ý.",
+    "Tôi không đồng ý được một cách lịch sự rồi đưa phương án thay thế bằng 'I'm not sure about..., maybe we could... instead'.",
+    "Tôi dùng đúng 'suggest + V-ing', 'responsible for' và 'look forward to + V-ing' khi nói."
+  ]
+}

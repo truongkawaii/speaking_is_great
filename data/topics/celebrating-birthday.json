@@ -1,0 +1,318 @@
+{
+  "id": "celebrating-birthday",
+  "category": "family",
+  "title": "Mừng sinh nhật",
+  "titleEn": "Celebrating a Birthday",
+  "level": "A2",
+  "functions": ["greetings", "small-talk", "suggesting", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Chúc mừng sinh nhật và đáp lại lời chúc một cách tự nhiên",
+    "Nói về bữa tiệc, món quà và bánh kem bằng câu đơn giản",
+    "Gợi ý và mời người khác cùng ăn mừng",
+    "Dùng từ vựng cơ bản về tiệc sinh nhật khi nói chuyện với gia đình, bạn bè"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "birthday",
+      "ipa": "/ˈbɜːθ.deɪ/",
+      "vi": "sinh nhật (danh từ)",
+      "register": "neutral",
+      "example": "Today is my sister's birthday.",
+      "exampleVi": "Hôm nay là sinh nhật em gái tôi.",
+      "note": "Danh từ. Lời chúc cố định: 'Happy birthday!'. Lưu ý phát âm 'th' /θ/, không đọc thành /t/."
+    },
+    {
+      "term": "party",
+      "ipa": "/ˈpɑːr.ti/",
+      "vi": "bữa tiệc (danh từ)",
+      "register": "neutral",
+      "example": "We are having a birthday party tonight.",
+      "exampleVi": "Tối nay chúng tôi tổ chức tiệc sinh nhật.",
+      "note": "Danh từ. Cụm hay dùng: 'to have/throw a party' (tổ chức tiệc).",
+      "synonyms": [
+        { "term": "celebration", "ipa": "/ˌsel.əˈbreɪ.ʃən/", "register": "neutral", "nuanceVi": "Trang trọng hơn 'party', nhấn vào dịp ăn mừng nói chung (không nhất thiết có nhạc, đồ ăn). Vd 'a small family celebration'." },
+        { "term": "get-together", "ipa": "/ˈɡet.tə.ɡeð.ər/", "register": "casual", "nuanceVi": "Thân mật, nghĩa 'buổi tụ họp nhỏ'. Hợp khi chỉ vài người thân quây quần, không khí gần gũi." }
+      ]
+    },
+    {
+      "term": "gift",
+      "ipa": "/ɡɪft/",
+      "vi": "món quà (danh từ)",
+      "register": "neutral",
+      "example": "I bought a small gift for him.",
+      "exampleVi": "Tôi đã mua một món quà nhỏ cho anh ấy.",
+      "note": "Danh từ. Động từ tặng quà: 'to give someone a gift'.",
+      "synonyms": [
+        { "term": "present", "ipa": "/ˈprez.ənt/", "register": "neutral", "nuanceVi": "Đời thường và phổ biến nhất khi nói chuyện hằng ngày, nhất là với quà sinh nhật. 'gift' nghe hơi trang trọng hơn một chút." }
+      ]
+    },
+    {
+      "term": "cake",
+      "ipa": "/keɪk/",
+      "vi": "bánh kem (danh từ)",
+      "register": "neutral",
+      "example": "My mom made a chocolate cake.",
+      "exampleVi": "Mẹ tôi làm một chiếc bánh sô-cô-la.",
+      "note": "Danh từ. 'birthday cake' = bánh sinh nhật. Phát âm /keɪk/, không đọc thành /kek/."
+    },
+    {
+      "term": "candle",
+      "ipa": "/ˈkæn.dəl/",
+      "vi": "ngọn nến (danh từ)",
+      "register": "neutral",
+      "example": "She blew out all the candles.",
+      "exampleVi": "Cô ấy thổi tắt hết các ngọn nến.",
+      "note": "Danh từ. Cụm cố định: 'to blow out the candles' (thổi nến)."
+    },
+    {
+      "term": "to celebrate",
+      "ipa": "/ˈsel.ə.breɪt/",
+      "vi": "ăn mừng, kỷ niệm (động từ)",
+      "register": "neutral",
+      "example": "How do you want to celebrate your birthday?",
+      "exampleVi": "Bạn muốn ăn mừng sinh nhật thế nào?",
+      "note": "Động từ. Đi với danh từ dịp lễ: celebrate a birthday/wedding/win.",
+      "synonyms": [
+        { "term": "to mark", "ipa": "/mɑːrk/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'ghi dấu một dịp'. Vd 'to mark the occasion'. Ít dùng trong nói chuyện thân mật." },
+        { "term": "to have fun", "ipa": "/hæv fʌn/", "register": "casual", "nuanceVi": "Đời thường, nhấn vào 'vui chơi'. Không trang trọng nhưng rất tự nhiên với bạn bè." }
+      ]
+    },
+    {
+      "term": "to invite",
+      "ipa": "/ɪnˈvaɪt/",
+      "vi": "mời (động từ)",
+      "register": "neutral",
+      "example": "I want to invite all my friends.",
+      "exampleVi": "Tôi muốn mời tất cả bạn bè.",
+      "note": "Động từ. Cấu trúc: 'invite someone to something' (mời ai đến đâu). Danh từ: 'invitation' (lời mời)."
+    },
+    {
+      "term": "happy",
+      "ipa": "/ˈhæp.i/",
+      "vi": "vui, hạnh phúc (tính từ)",
+      "register": "neutral",
+      "example": "Everyone looked very happy at the party.",
+      "exampleVi": "Mọi người trông rất vui ở bữa tiệc.",
+      "note": "Tính từ. Là từ trong lời chúc 'Happy birthday!'.",
+      "synonyms": [
+        { "term": "glad", "ipa": "/ɡlæd/", "register": "neutral", "nuanceVi": "Nhấn 'vui vì một việc cụ thể vừa xảy ra'. Vd 'I'm glad you came.' Thường không đứng trước danh từ." },
+        { "term": "delighted", "ipa": "/dɪˈlaɪ.tɪd/", "register": "formal", "nuanceVi": "Trang trọng và mạnh hơn, nghĩa 'rất vui mừng'. Vd 'I'm delighted to be here.'" },
+        { "term": "thrilled", "ipa": "/θrɪld/", "register": "casual", "nuanceVi": "Đời thường, rất mạnh, nghĩa 'vui sướng tột độ'. Vd 'I was thrilled with my gift!'" }
+      ]
+    },
+    {
+      "term": "excited",
+      "ipa": "/ɪkˈsaɪ.tɪd/",
+      "vi": "háo hức, phấn khích (tính từ)",
+      "register": "neutral",
+      "example": "The kids are excited about the party.",
+      "exampleVi": "Bọn trẻ háo hức về bữa tiệc.",
+      "note": "Tính từ chỉ cảm xúc người. Đi với giới từ 'about'. Đừng nhầm 'excited' (người háo hức) với 'exciting' (việc gây háo hức)."
+    },
+    {
+      "term": "delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "vi": "ngon (tính từ)",
+      "register": "neutral",
+      "example": "The cake was really delicious.",
+      "exampleVi": "Chiếc bánh thật sự rất ngon.",
+      "note": "Tính từ, mạnh hơn 'good'. Khen đồ ăn ngon thì nói 'delicious' nghe tự nhiên hơn 'very good'.",
+      "synonyms": [
+        { "term": "tasty", "ipa": "/ˈteɪ.sti/", "register": "casual", "nuanceVi": "Đời thường, nhẹ hơn 'delicious'. Hợp khi khen món ăn bình thường, không quá long trọng." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất thân mật, hay dùng với trẻ con hoặc trong nói chuyện thoải mái. Tránh dùng nơi trang trọng." }
+      ]
+    },
+    {
+      "term": "together",
+      "ipa": "/təˈɡeð.ər/",
+      "vi": "cùng nhau (trạng từ)",
+      "register": "neutral",
+      "example": "Let's sing the birthday song together.",
+      "exampleVi": "Cùng hát bài chúc mừng sinh nhật nào.",
+      "note": "Trạng từ. Đứng cuối câu hoặc sau động từ: 'work together', 'eat together'."
+    },
+    {
+      "term": "surprise",
+      "ipa": "/sərˈpraɪz/",
+      "vi": "điều bất ngờ (danh từ)",
+      "register": "neutral",
+      "example": "We are planning a surprise for her.",
+      "exampleVi": "Chúng tôi đang lên kế hoạch một bất ngờ cho cô ấy.",
+      "note": "Danh từ và động từ. 'a surprise party' = tiệc bất ngờ. Lưu ý có chữ 'r': sur-PRISE."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Happy birthday! I hope you have a great [danh từ].",
+      "use": "Chúc mừng sinh nhật và thêm một lời chúc tốt đẹp.",
+      "register": "neutral",
+      "examples": [
+        "Happy birthday! I hope you have a great day.",
+        "Happy birthday! I hope you have a wonderful year."
+      ],
+      "explanationVi": "'Happy birthday!' là lời chúc cố định. Thêm 'I hope you have a great...' để câu chúc đầy đặn và ấm áp hơn thay vì chỉ nói hai chữ.",
+      "altOf": "wishing-happy-birthday"
+    },
+    {
+      "pattern": "Wishing you a happy birthday and [lời chúc thêm].",
+      "use": "Một cách chúc mừng sinh nhật khác, hơi trang trọng.",
+      "register": "formal",
+      "examples": [
+        "Wishing you a happy birthday and all the best.",
+        "Wishing you a happy birthday and lots of happiness."
+      ],
+      "explanationVi": "Cách chúc nhẹ nhàng, lịch sự, hợp khi viết thiệp hoặc chúc người lớn tuổi. 'all the best' = mọi điều tốt đẹp nhất.",
+      "altOf": "wishing-happy-birthday"
+    },
+    {
+      "pattern": "Thank you so much! I'm so [tính từ cảm xúc].",
+      "use": "Đáp lại lời chúc mừng một cách vui vẻ.",
+      "register": "neutral",
+      "examples": [
+        "Thank you so much! I'm so happy today.",
+        "Thank you so much! I'm so excited about the party."
+      ],
+      "explanationVi": "'Thank you so much' nồng nhiệt hơn 'thank you'. Thêm cảm xúc ('I'm so happy/excited') để câu trả lời nghe tự nhiên, không cụt lủn."
+    },
+    {
+      "pattern": "Let's [động từ nguyên thể] together!",
+      "use": "Gợi ý cùng làm gì đó để ăn mừng.",
+      "register": "casual",
+      "examples": [
+        "Let's cut the cake together!",
+        "Let's sing the birthday song together!"
+      ],
+      "explanationVi": "'Let's + động từ' = lời rủ rê thân mật (hãy cùng...). Thêm 'together' nhấn mạnh sự sum vầy. Rất hợp không khí tiệc tùng.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Gợi ý một ý tưởng một cách nhẹ nhàng.",
+      "register": "neutral",
+      "examples": [
+        "Why don't we order some pizza?",
+        "Why don't we take a photo now?"
+      ],
+      "explanationVi": "'Why don't we...?' là câu hỏi nhưng dùng để GỢI Ý (không phải hỏi lý do). Nghe lịch sự và mời gọi hơn câu mệnh lệnh.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "I got you a [danh từ] because [lý do].",
+      "use": "Tặng quà và nói lý do chọn món quà đó.",
+      "register": "neutral",
+      "examples": [
+        "I got you a book because I know you love reading.",
+        "I got you a scarf because the weather is cold now."
+      ],
+      "explanationVi": "'I got you...' = tôi mua/chuẩn bị cho bạn... 'because' nối thêm lý do, giúp câu dài hơn và ấm áp hơn ở cấp độ A2."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "really", "ipa": "/ˈrɪə.li/", "vi": "thật sự, rất", "when": "Nhấn mạnh cảm xúc hoặc lời khen.", "example": "This cake is really delicious!" },
+    { "term": "so much", "ipa": "/səʊ mʌtʃ/", "vi": "rất nhiều", "when": "Nhấn mạnh lời cảm ơn hoặc tình cảm.", "example": "Thank you so much for coming!" },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Đồng ý nhiệt tình với lời mời hoặc gợi ý.", "example": "Of course I will come to your party!" },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Đính chính nhẹ nhàng hoặc nói thêm một thông tin.", "example": "Actually, the party starts at seven, not six." },
+    { "term": "finally", "ipa": "/ˈfaɪ.nə.li/", "vi": "cuối cùng thì", "when": "Diễn tả điều mong chờ đã đến.", "example": "Finally, it's time to cut the cake!" }
+  ],
+
+  "dialogue": {
+    "context": "Hôm nay là sinh nhật của Linh. Bạn của cô ấy là Mai đến nhà để chúc mừng và cùng ăn mừng. Họ nói về bữa tiệc, món quà và chiếc bánh.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "Happy birthday, Linh! I hope you have a wonderful day. I know you are very busy with the party today.",
+        "ipa": "/ˈhæp.i ˈbɜːθ.deɪ lɪŋ aɪ həʊp juː hæv ə ˈwʌn.də.fəl deɪ aɪ nəʊ juː ɑːr ˈver.i ˈbɪz.i wɪð ðə ˈpɑːr.ti təˈdeɪ/",
+        "vi": "Chúc mừng sinh nhật, Linh! Mình mong cậu có một ngày tuyệt vời. Mình biết hôm nay cậu đang rất bận với bữa tiệc."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Thank you so much, Mai! I'm so ____ that you came today. Please come in and join us.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ maɪ aɪm səʊ ... ðæt juː keɪm təˈdeɪ pliːz kʌm ɪn ænd dʒɔɪn ʌs/",
+        "vi": "Cảm ơn cậu nhiều lắm, Mai! Mình rất ____ vì hôm nay cậu đến. Vào nhà và tham gia cùng chúng mình nhé.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ cảm xúc tích cực. Ví dụ: 'happy', 'glad'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Of course! I brought you a small ____ because I know you love music. I hope you like it.",
+        "ipa": "/əv ˈkɔːrs aɪ brɔːt juː ə smɔːl ... bɪˈkɒz aɪ nəʊ juː lʌv ˈmjuː.zɪk aɪ həʊp juː laɪk ɪt/",
+        "vi": "Tất nhiên rồi! Mình mang cho cậu một món ____ nhỏ vì mình biết cậu thích âm nhạc. Mong là cậu sẽ thích.",
+        "blanks": [
+          { "type": "knowledge", "answer": "gift", "explanationVi": "Dùng danh từ 'gift' (món quà). Có thể thay bằng 'present' khi nói thân mật. Xem từ vựng 'gift' và mẫu câu 'I got you a... because...'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That's so sweet of you! I'm really excited to open it. By the way, my mom made a chocolate cake, and it looks ____.",
+        "ipa": "/ðæts səʊ swiːt əv juː aɪm ˈrɪə.li ɪkˈsaɪ.tɪd tə ˈəʊ.pən ɪt baɪ ðə weɪ maɪ mɒm meɪd ə ˈtʃɒk.lət keɪk ænd ɪt lʊks .../",
+        "vi": "Cậu thật là dễ thương! Mình rất háo hức muốn mở ra xem. À tiện thể, mẹ mình làm một chiếc bánh sô-cô-la, và trông nó ____ lắm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "delicious", "explanationVi": "Dùng tính từ 'delicious' (ngon) để khen đồ ăn. Sau động từ 'looks' (trông) thì dùng tính từ, không dùng trạng từ. Xem từ vựng 'delicious'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "It smells amazing! Why ____ we light the candles now, so everyone can sing the birthday song together?",
+        "ipa": "/ɪt smelz əˈmeɪz.ɪŋ waɪ ... wiː laɪt ðə ˈkæn.dəlz naʊ səʊ ˈev.ri.wʌn kæn sɪŋ ðə ˈbɜːθ.deɪ sɒŋ təˈɡeð.ər/",
+        "vi": "Nó thơm tuyệt vời! Sao chúng ta ____ thắp nến luôn bây giờ, để mọi người cùng hát bài chúc mừng sinh nhật nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "don't", "explanationVi": "Mẫu gợi ý 'Why don't we...?' (Sao chúng ta không...?) dùng để rủ rê nhẹ nhàng, không phải hỏi lý do. Xem mẫu câu 'Why don't we...?'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Great idea! Mom, could you help us? I want to invite ____ to come closer and watch me blow out the candles.",
+        "ipa": "/ɡreɪt aɪˈdɪə mɒm kʊd juː help ʌs aɪ wɒnt tə ɪnˈvaɪt ... tə kʌm ˈkləʊ.sər ænd wɒtʃ miː bləʊ aʊt ðə ˈkæn.dəlz/",
+        "vi": "Ý hay đấy! Mẹ ơi, mẹ giúp chúng con nhé? Con muốn mời ____ lại gần và xem con thổi nến.",
+        "blanks": [
+          { "type": "personal", "hint": "Người bạn muốn mời lại gần. Ví dụ: 'everyone', 'my family'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Finally, it's time! Make a wish first, and then blow out all the candles. It will bring you good luck.",
+        "ipa": "/ˈfaɪ.nə.li ɪts taɪm meɪk ə wɪʃ fɜːst ænd ðen bləʊ aʊt ɔːl ðə ˈkæn.dəlz ɪt wɪl brɪŋ juː ɡʊd lʌk/",
+        "vi": "Cuối cùng cũng đến giờ rồi! Ước một điều trước đã, rồi thổi tắt hết các ngọn nến. Điều đó sẽ mang lại may mắn cho cậu."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Thank you, everyone! This is a very happy day. It is the best birthday party I have ever had.",
+        "ipa": "/θæŋk juː ˈev.ri.wʌn ðɪs ɪz ə ˈver.i ˈhæp.i deɪ ɪt ɪz ðə best ˈbɜːθ.deɪ ˈpɑːr.ti aɪ hæv ˈev.ər hæd/",
+        "vi": "Cảm ơn mọi người! Đây là một ngày rất vui. Đây là bữa tiệc sinh nhật tuyệt nhất mình từng có."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước phương Tây, người ta thường hát bài 'Happy Birthday to You' khi mang bánh có nến ra, rồi người được mừng sẽ ước một điều thầm trong lòng (make a wish) trước khi thổi nến.",
+    "Mở quà ngay trước mặt người tặng được coi là lịch sự và vui vẻ ở phương Tây, khác với một số nước châu Á thường để dành mở sau.",
+    "Câu 'Happy birthday!' dùng được cho mọi lứa tuổi và mọi mức thân sơ. Với người lớn tuổi hoặc trong thiệp, có thể dùng 'Wishing you a happy birthday' cho lịch sự hơn."
+  ],
+
+  "commonMistakes": [
+    "Nói 'Happy birthday to you day' hoặc 'Congratulation birthday'. Lời chúc đúng và cố định là 'Happy birthday!'.",
+    "Nhầm 'excited' (người háo hức) với 'exciting' (việc gây háo hức): phải nói 'I am excited', không phải 'I am exciting'.",
+    "Dùng trạng từ sau 'look/smell': sai 'It looks deliciously'. Sau các động từ giác quan (look, smell, taste) phải dùng TÍNH TỪ: 'It looks delicious'.",
+    "Quên mạo từ 'a': phải nói 'I have A party' hoặc 'a birthday party', không phải 'I have party'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mừng sinh nhật như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang đến dự sinh nhật của tôi. Hãy bắt đầu bằng cách chúc mừng sinh nhật tôi. Dùng câu đơn giản, ngắn gọn ở trình độ A2. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đưa ra một tình huống nhỏ bất ngờ (ví dụ rủ tôi cắt bánh, hỏi tôi đã ước gì, tặng tôi một món quà). Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi kể về bữa tiệc sinh nhật đáng nhớ nhất của tôi.' để tập nói dài hơn.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi chúc mừng sinh nhật và đáp lại lời chúc được mà không nhìn gợi ý.",
+    "Tôi dùng được mẫu 'Let's...' hoặc 'Why don't we...?' để gợi ý cùng ăn mừng.",
+    "Tôi khen được bánh/quà bằng tính từ đúng như 'delicious' hoặc 'happy'."
+  ]
+}

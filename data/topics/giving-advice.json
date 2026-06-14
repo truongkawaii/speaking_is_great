@@ -1,0 +1,347 @@
+{
+  "id": "giving-advice",
+  "category": "friends",
+  "title": "Cho lời khuyên",
+  "titleEn": "Giving Advice",
+  "level": "B1",
+  "functions": ["suggesting", "opinions", "agreeing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Đưa ra lời khuyên cho bạn bè một cách tự nhiên, không áp đặt",
+    "Dùng các mẫu câu khuyên nhủ ('If I were you...', 'You should...', 'Why don't you...?') đúng sắc thái",
+    "Lắng nghe vấn đề của bạn và phản hồi cảm thông trước khi khuyên",
+    "Dùng câu điều kiện loại 2 và mệnh đề quan hệ khi nói chuyện thân mật"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "advice",
+      "ipa": "/ədˈvaɪs/",
+      "vi": "lời khuyên (danh từ không đếm được)",
+      "register": "neutral",
+      "example": "Can I give you a piece of advice?",
+      "exampleVi": "Tớ cho cậu một lời khuyên nhé?",
+      "note": "Danh từ KHÔNG đếm được — không có 'advices'. Muốn đếm thì nói 'a piece of advice'. Động từ là 'advise' /ədˈvaɪz/ (phát âm /z/).",
+      "synonyms": [
+        { "term": "tip", "ipa": "/tɪp/", "register": "casual", "nuanceVi": "Lời khuyên nhỏ, thực dụng, dễ áp dụng ngay. Đếm được: 'a few tips'. Nhẹ nhàng, đời thường hơn 'advice'." },
+        { "term": "recommendation", "ipa": "/ˌrek.ə.menˈdeɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'gợi ý có cân nhắc, đáng tin'. Hay dùng khi giới thiệu sản phẩm, nơi chốn, người." },
+        { "term": "guidance", "ipa": "/ˈɡaɪ.dəns/", "register": "formal", "nuanceVi": "Nhấn 'sự dẫn dắt, định hướng' lâu dài, thường từ người có kinh nghiệm/cấp trên. Không đếm được như 'advice'." }
+      ]
+    },
+    {
+      "term": "to suggest",
+      "ipa": "/səˈdʒest/",
+      "vi": "gợi ý, đề xuất (động từ)",
+      "register": "neutral",
+      "example": "I suggest taking a short break before you decide.",
+      "exampleVi": "Tớ gợi ý cậu nghỉ một chút trước khi quyết định.",
+      "note": "Theo sau là V-ing ('suggest doing') hoặc mệnh đề 'that' ('suggest that you do'), KHÔNG dùng 'suggest to do'.",
+      "synonyms": [
+        { "term": "to recommend", "ipa": "/ˌrek.əˈmend/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn 'khuyên nên chọn vì tốt'. Cũng đi với V-ing hoặc 'that': 'I recommend trying it.'" },
+        { "term": "to propose", "ipa": "/prəˈpəʊz/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đưa ra một phương án để mọi người cân nhắc'. Hợp ngữ cảnh công việc, họp hành hơn." }
+      ]
+    },
+    {
+      "term": "to figure out",
+      "ipa": "/ˈfɪɡ.ər aʊt/",
+      "vi": "nghĩ ra, tìm ra cách (cụm động từ)",
+      "register": "casual",
+      "example": "Don't worry, we'll figure something out together.",
+      "exampleVi": "Đừng lo, hai đứa mình sẽ cùng nghĩ ra cách thôi.",
+      "note": "Cụm động từ đời thường, nghĩa 'hiểu ra / tìm được lời giải sau khi suy nghĩ'. Tân ngữ có thể chèn giữa: 'figure it out'.",
+      "synonyms": [
+        { "term": "to work out", "ipa": "/wɜːk aʊt/", "register": "casual", "nuanceVi": "Gần như y hệt 'figure out', Anh-Anh hay dùng hơn. 'We'll work it out.'" },
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'giải quyết dứt điểm một vấn đề/mâu thuẫn'. Nghe nghiêm túc hơn." }
+      ]
+    },
+    {
+      "term": "stressed",
+      "ipa": "/strest/",
+      "vi": "căng thẳng, áp lực (tính từ)",
+      "register": "neutral",
+      "example": "You look really stressed lately. Is everything okay?",
+      "exampleVi": "Dạo này trông cậu căng thẳng quá. Mọi thứ ổn chứ?",
+      "note": "Tính từ chỉ trạng thái người. Dạng đầy đủ 'stressed out' (đời thường hơn). Đừng nhầm với danh từ 'stress'.",
+      "synonyms": [
+        { "term": "overwhelmed", "ipa": "/ˌəʊ.vəˈwelmd/", "register": "neutral", "nuanceVi": "Nhấn 'bị ngợp, quá tải vì có quá nhiều thứ phải lo'. Mạnh hơn 'stressed' một chút." },
+        { "term": "anxious", "ipa": "/ˈæŋk.ʃəs/", "register": "neutral", "nuanceVi": "Nhấn 'lo lắng, bất an về điều sắp tới', thiên về cảm xúc lo sợ hơn là áp lực công việc." },
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'kiệt sức, mệt rã rời' về thể chất lẫn tinh thần. Khác sắc thái 'stressed' (căng thẳng)." }
+      ]
+    },
+    {
+      "term": "to deal with",
+      "ipa": "/diːl wɪð/",
+      "vi": "xử lý, đối phó với (cụm động từ)",
+      "register": "neutral",
+      "example": "I'm not sure how to deal with my new manager.",
+      "exampleVi": "Tớ không chắc nên đối phó với sếp mới thế nào.",
+      "note": "Cụm động từ, đi với tân ngữ chỉ vấn đề/người khó. Quá khứ bất quy tắc: 'dealt' /delt/.",
+      "synonyms": [
+        { "term": "to handle", "ipa": "/ˈhæn.dəl/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn 'điều khiển/quản lý được tình huống'. Nghe chủ động, tự tin hơn 'deal with' một chút." },
+        { "term": "to cope with", "ipa": "/kəʊp wɪð/", "register": "neutral", "nuanceVi": "Nhấn 'chịu đựng, gắng gượng vượt qua' điều khó khăn về cảm xúc. Hợp khi nói về stress, mất mát." }
+      ]
+    },
+    {
+      "term": "worried",
+      "ipa": "/ˈwʌr.id/",
+      "vi": "lo lắng (tính từ)",
+      "register": "neutral",
+      "example": "I'm really worried about the exam next week.",
+      "exampleVi": "Tớ lo lắm về kỳ thi tuần sau.",
+      "note": "Tính từ, đi với 'about + danh từ/V-ing'. Động từ là 'to worry'.",
+      "synonyms": [
+        { "term": "concerned", "ipa": "/kənˈsɜːnd/", "register": "formal", "nuanceVi": "Trang trọng, điềm tĩnh hơn 'worried'. Nhấn 'quan tâm và hơi bận lòng', không hoảng hốt." },
+        { "term": "nervous", "ipa": "/ˈnɜː.vəs/", "register": "neutral", "nuanceVi": "Nhấn 'hồi hộp, bồn chồn' trước một sự kiện cụ thể (phỏng vấn, thi). Khác 'worried' (lo về kết quả lâu dài)." }
+      ]
+    },
+    {
+      "term": "sensible",
+      "ipa": "/ˈsen.sə.bəl/",
+      "vi": "hợp lý, khôn ngoan (tính từ)",
+      "register": "neutral",
+      "example": "That sounds like a really sensible decision.",
+      "exampleVi": "Nghe có vẻ là một quyết định rất hợp lý đấy.",
+      "note": "Tính từ. BẪY: 'sensible' = khôn ngoan/thiết thực, KHÁC 'sensitive' /ˈsen.sə.tɪv/ = nhạy cảm. Đừng nhầm hai từ này.",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'có lý, công bằng, chấp nhận được'. Hay dùng cho giá cả, yêu cầu, quyết định." },
+        { "term": "wise", "ipa": "/waɪz/", "register": "neutral", "nuanceVi": "Nhấn 'khôn ngoan, sâu sắc' nhờ kinh nghiệm. Nghe có chiều sâu hơn 'sensible' (vốn thiên về thực tế)." }
+      ]
+    },
+    {
+      "term": "to calm down",
+      "ipa": "/kɑːm daʊn/",
+      "vi": "bình tĩnh lại (cụm động từ)",
+      "register": "casual",
+      "example": "Take a deep breath and try to calm down.",
+      "exampleVi": "Hít một hơi thật sâu và cố bình tĩnh lại nào.",
+      "note": "Cụm động từ. Lưu ý chữ 'l' trong 'calm' KHÔNG phát âm: /kɑːm/.",
+      "synonyms": [
+        { "term": "to relax", "ipa": "/rɪˈlæks/", "register": "neutral", "nuanceVi": "Nhấn 'thư giãn, thả lỏng', nhẹ nhàng hơn. 'calm down' thiên về dịu cơn lo/giận đang dâng." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I think you're being too hard on yourself.",
+      "exampleVi": "Thành thật mà nói, tớ thấy cậu đang quá khắt khe với bản thân.",
+      "note": "Trạng từ mở đầu câu, dẫn vào ý kiến chân thành. Lưu ý chữ 'h' câm: /ˈɒn.ɪst.li/.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Nhấn 'nói thẳng', đôi khi dẫn vào điều khó nghe. Thẳng thắn hơn 'honestly' một chút." },
+        { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "register": "casual", "nuanceVi": "Cụm đời thường, mềm mại, hay viết tắt 'tbh'. Dẫn vào ý kiến thật lòng, đôi khi tế nhị." }
+      ]
+    },
+    {
+      "term": "probably",
+      "ipa": "/ˈprɒb.ə.bli/",
+      "vi": "có lẽ, chắc là (trạng từ)",
+      "register": "neutral",
+      "example": "You should probably talk to her before it gets worse.",
+      "exampleVi": "Cậu chắc nên nói chuyện với cô ấy trước khi mọi thứ tệ hơn.",
+      "note": "Trạng từ làm lời khuyên mềm hơn, đỡ áp đặt. Thường đứng trước động từ chính hoặc sau 'should'.",
+      "synonyms": [
+        { "term": "maybe", "ipa": "/ˈmeɪ.bi/", "register": "casual", "nuanceVi": "Đời thường, độ chắc chắn thấp hơn 'probably'. Đứng đầu câu: 'Maybe you should...'." },
+        { "term": "perhaps", "ipa": "/pəˈhæps/", "register": "formal", "nuanceVi": "Trang trọng, lịch sự hơn 'maybe'. Làm lời gợi ý nghe nhã nhặn, dè dặt." }
+      ]
+    },
+    {
+      "term": "to make up one's mind",
+      "ipa": "/meɪk ʌp wʌnz maɪnd/",
+      "vi": "quyết định dứt khoát (thành ngữ)",
+      "register": "casual",
+      "example": "Take your time, but you'll have to make up your mind soon.",
+      "exampleVi": "Cứ từ từ, nhưng cậu sẽ phải quyết định dứt khoát sớm thôi.",
+      "note": "Thành ngữ đời thường, nghĩa 'đi đến quyết định cuối cùng'. Thay 'one's' bằng my/your/his...",
+      "synonyms": [
+        { "term": "to decide", "ipa": "/dɪˈsaɪd/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản, dùng được mọi nơi. 'make up your mind' nhấn quá trình do dự rồi mới chốt." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "If I were you, I'd [động từ nguyên thể].",
+      "use": "Đưa lời khuyên bằng cách đặt mình vào vị trí của bạn.",
+      "register": "neutral",
+      "examples": [
+        "If I were you, I'd talk to your boss directly.",
+        "If I were you, I'd take a few days off to rest."
+      ],
+      "explanationVi": "Đây là câu điều kiện loại 2 (giả định). Luôn dùng 'were' cho mọi ngôi ('if I WERE you', không phải 'was'). 'I'd' = 'I would'. Đây là cách khuyên nhẹ nhàng, được lòng nhất.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "You should [động từ nguyên thể].",
+      "use": "Khuyên trực tiếp điều nên làm.",
+      "register": "neutral",
+      "examples": [
+        "You should get some rest before the exam.",
+        "You should probably apologize to her."
+      ],
+      "explanationVi": "'should' là cách khuyên phổ biến nhất. Thêm 'probably' hoặc 'maybe' để bớt áp đặt. Phủ định 'You shouldn't...' để khuyên đừng làm gì.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Why don't you [động từ nguyên thể]?",
+      "use": "Gợi ý một giải pháp dưới dạng câu hỏi cho nhẹ nhàng.",
+      "register": "casual",
+      "examples": [
+        "Why don't you talk to someone you trust about it?",
+        "Why don't you take a short break first?"
+      ],
+      "explanationVi": "Dạng câu hỏi nhưng thực chất là gợi ý. Nghe thân thiện, không ra lệnh. Theo sau luôn là động từ nguyên thể, KHÔNG có 'to'.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Have you thought about [V-ing]?",
+      "use": "Khơi gợi một lựa chọn mà bạn có thể chưa nghĩ tới.",
+      "register": "neutral",
+      "examples": [
+        "Have you thought about asking for help?",
+        "Have you thought about changing jobs?"
+      ],
+      "explanationVi": "Cách gợi ý rất tế nhị, tôn trọng — bạn chỉ 'mở ra một hướng' chứ không áp đặt. Theo sau 'about' luôn là V-ing.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "It might be a good idea to [động từ nguyên thể].",
+      "use": "Gợi ý dè dặt, lịch sự, hạ thấp mức áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "It might be a good idea to write down your options.",
+        "It might be a good idea to sleep on it before deciding."
+      ],
+      "explanationVi": "'might' làm lời khuyên nghe khiêm tốn, để ngỏ cho người nghe tự quyết. Hợp khi bạn không muốn tỏ ra biết hết.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "I know how you feel, but [mệnh đề].",
+      "use": "Cảm thông trước, rồi mới nhẹ nhàng đưa góc nhìn khác.",
+      "register": "neutral",
+      "examples": [
+        "I know how you feel, but it's not entirely your fault.",
+        "I know how you feel, but things will get better soon."
+      ],
+      "explanationVi": "Mẫu câu thể hiện sự đồng cảm trước khi khuyên — rất quan trọng để bạn cảm thấy được lắng nghe chứ không bị phán xét.",
+      "altOf": "showing-empathy"
+    },
+    {
+      "pattern": "That sounds [tính từ]. Don't worry, [mệnh đề trấn an].",
+      "use": "Phản hồi cảm thông và trấn an bạn.",
+      "register": "casual",
+      "examples": [
+        "That sounds really tough. Don't worry, we'll figure it out together.",
+        "That sounds stressful. Don't worry, you've handled worse before."
+      ],
+      "explanationVi": "'That sounds + tính từ' là cách phản hồi cảm xúc tự nhiên (tough/stressful/exciting...). Theo sau 'sounds' là TÍNH TỪ, không phải trạng từ.",
+      "altOf": "showing-empathy"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Dẫn vào một ý kiến chân thành, đôi khi hơi khó nghe.", "example": "Honestly, I think you should let it go." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đưa ra một góc nhìn hơi khác điều bạn nghĩ.", "example": "Actually, that might not be such a big deal." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh một lời khuyên bạn rất tin.", "example": "You should definitely take that opportunity." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thật lòng mà nói", "when": "Mở đầu một lời khuyên thẳng thắn nhưng thân tình.", "example": "To be honest, I'd quit that job if I were you." },
+    { "term": "for what it's worth", "ipa": "/fɔːr wɒt ɪts wɜːθ/", "vi": "dù sao thì (lời khuyên khiêm tốn)", "when": "Đưa lời khuyên một cách khiêm tốn, không ép người nghe nghe theo.", "example": "For what it's worth, I think you made the right choice." }
+  ],
+
+  "dialogue": {
+    "context": "Linh trông rất căng thẳng vì áp lực công việc. Người bạn thân (Bạn) ngồi lại lắng nghe và đưa ra vài lời khuyên.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Honestly, I've been feeling completely overwhelmed lately, although I keep telling myself that everything is fine.",
+        "ipa": "/ˈɒn.ɪst.li aɪv biːn ˈfiː.lɪŋ kəmˈpliːt.li ˌəʊ.vəˈwelmd ˈleɪt.li ɔːlˈðəʊ aɪ kiːp ˈtel.ɪŋ maɪˈself ðæt ˈev.ri.θɪŋ ɪz faɪn/",
+        "vi": "Thành thật mà nói, dạo này tớ thấy quá tải hoàn toàn luôn, mặc dù tớ cứ tự nhủ là mọi thứ vẫn ổn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds really tough, and I'm glad you told me. ____ you thought about taking a few days off in order to recharge?",
+        "ipa": "/ðæt saʊndz ˈrɪə.li tʌf ænd aɪm ɡlæd juː təʊld miː hæv juː θɔːt əˈbaʊt ˈteɪ.kɪŋ ə fjuː deɪz ɒf ɪn ˈɔː.də tə riːˈtʃɑːdʒ/",
+        "vi": "Nghe vất vả thật, và tớ mừng vì cậu đã kể với tớ. Cậu đã ____ nghĩ đến việc xin nghỉ vài ngày để nạp lại năng lượng chưa?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Have", "explanationVi": "Mẫu gợi ý 'Have you thought about + V-ing?'. Dùng thì hiện tại hoàn thành 'Have you thought...' để hỏi xem bạn đã từng cân nhắc chưa. Xem mẫu câu 'Have you thought about...?'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "I wish I could, but my manager, ____ has been under a lot of pressure too, keeps giving me extra projects every week.",
+        "ipa": "/aɪ wɪʃ aɪ kʊd bʌt maɪ ˈmæn.ɪ.dʒə huː hæz biːn ˈʌn.də ə lɒt ɒv ˈpreʃ.ə tuː kiːps ˈɡɪv.ɪŋ miː ˈek.strə ˈprɒdʒ.ekts ˈev.ri wiːk/",
+        "vi": "Tớ ước là tớ có thể, nhưng sếp tớ, ____ cũng đang chịu rất nhiều áp lực, cứ giao thêm dự án cho tớ mỗi tuần.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì 'manager' là NGƯỜI. Mệnh đề 'who has been under a lot of pressure too' bổ nghĩa cho 'manager'. Nếu là vật thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I know how you feel, but you can't keep carrying everything by yourself. If I ____ you, I'd talk to him honestly about how heavy your workload has become.",
+        "ipa": "/aɪ nəʊ haʊ juː fiːl bʌt juː kɑːnt kiːp ˈkær.i.ɪŋ ˈev.ri.θɪŋ baɪ jɔːˈself ɪf aɪ wɜː juː aɪd tɔːk tə hɪm ˈɒn.ɪst.li əˈbaʊt haʊ ˈhev.i jɔː ˈwɜːk.ləʊd hæz bɪˈkʌm/",
+        "vi": "Tớ hiểu cảm giác của cậu, nhưng cậu không thể cứ một mình gánh hết mọi thứ được. Nếu tớ ____ cậu, tớ sẽ nói thẳng với anh ấy về việc khối lượng công việc của cậu đã nặng đến mức nào.",
+        "blanks": [
+          { "type": "knowledge", "answer": "were", "explanationVi": "Câu điều kiện loại 2 dùng 'were' cho mọi ngôi: 'If I WERE you, I'd...'. Đây là mẫu khuyên kinh điển, nhẹ nhàng nhất. Xem mẫu câu 'If I were you, I'd...'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Maybe you're right. The problem is I get so ____ before talking to him that I forget everything I planned to say.",
+        "ipa": "/ˈmeɪ.bi jɔː raɪt ðə ˈprɒb.ləm ɪz aɪ ɡet səʊ ˈnɜː.vəs bɪˈfɔː ˈtɔː.kɪŋ tə hɪm ðæt aɪ fəˈɡet ˈev.ri.θɪŋ aɪ plænd tə seɪ/",
+        "vi": "Có lẽ cậu nói đúng. Vấn đề là tớ cứ ____ trước khi nói chuyện với anh ấy đến mức quên sạch những gì tớ định nói.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ chỉ cảm xúc lo lắng. Ví dụ: 'nervous', 'anxious'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's completely normal. It might be a good idea to write down your main points beforehand, such as your current tasks and the deadlines that worry you most.",
+        "ipa": "/ðæts kəmˈpliːt.li ˈnɔː.məl ɪt maɪt biː ə ɡʊd aɪˈdɪə tə raɪt daʊn jɔː meɪn pɔɪnts bɪˈfɔːˈhænd sʌtʃ æz jɔː ˈkʌr.ənt tɑːsks ænd ðə ˈded.laɪnz ðæt ˈwʌr.i juː məʊst/",
+        "vi": "Chuyện đó hoàn toàn bình thường mà. Có lẽ là một ý hay nếu cậu viết ra trước các điểm chính, chẳng hạn như những việc cậu đang làm và những hạn chót khiến cậu lo nhất."
+      },
+      {
+        "speaker": "Linh",
+        "text": "That actually sounds really sensible. Despite feeling nervous, I think I ____ at least try, because nothing will change if I stay silent.",
+        "ipa": "/ðæt ˈæk.tʃu.ə.li saʊndz ˈrɪə.li ˈsen.sə.bəl dɪsˈpaɪt ˈfiː.lɪŋ ˈnɜː.vəs aɪ θɪŋk aɪ ʃʊd ət liːst traɪ bɪˈkɒz ˈnʌθ.ɪŋ wɪl tʃeɪndʒ ɪf aɪ steɪ ˈsaɪ.lənt/",
+        "vi": "Cái đó nghe thật sự hợp lý đấy. Mặc dù thấy lo, tớ nghĩ ít nhất tớ ____ thử, vì sẽ chẳng có gì thay đổi nếu tớ cứ im lặng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "should", "explanationVi": "Dùng 'should' để nói điều nên làm: 'I should at least try'. Đây chính là động từ khuyên nhủ trọng tâm của bài. Xem mẫu câu 'You should...'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Exactly. And remember, whatever happens, you won't be alone — we'll figure it out together. For what it's worth, I'm really proud of you for facing it.",
+        "ipa": "/ɪɡˈzækt.li ænd rɪˈmem.bə wɒtˈev.ə ˈhæp.ənz juː wəʊnt biː əˈləʊn wiːl ˈfɪɡ.ər ɪt aʊt təˈɡeð.ə fɔː wɒt ɪts wɜːθ aɪm ˈrɪə.li praʊd ɒv juː fɔː ˈfeɪ.sɪŋ ɪt/",
+        "vi": "Chính xác. Và nhớ là, dù chuyện gì xảy ra, cậu sẽ không đơn độc đâu — hai đứa mình sẽ cùng nghĩ cách. Dù sao thì, tớ thật sự tự hào về cậu vì đã dám đối mặt."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa nói tiếng Anh, người ta thường LẮNG NGHE và cảm thông ('That sounds tough', 'I know how you feel') trước khi đưa lời khuyên, thay vì khuyên ngay lập tức.",
+    "Lời khuyên thường được làm mềm bằng 'maybe', 'probably', 'might' hoặc đặt dưới dạng câu hỏi ('Why don't you...?') để tránh nghe áp đặt, ra lệnh.",
+    "'If I were you, I'd...' rất được ưa dùng vì nó đặt người khuyên vào vị trí của người nghe, nghe khiêm tốn và tôn trọng quyền tự quyết.",
+    "Người bản xứ thường tránh khuyên thẳng thừng về chuyện riêng tư (tiền bạc, tình cảm) trừ khi được hỏi — hỏi 'Do you want my advice?' trước là lịch sự."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'advices' — SAI. 'Advice' không đếm được, phải nói 'some advice' hoặc 'a piece of advice'.",
+    "Nói 'If I was you' — nên dùng 'If I WERE you' trong câu điều kiện loại 2 giả định.",
+    "Dùng 'suggest to do' — SAI. Phải là 'suggest doing' hoặc 'suggest that you do'.",
+    "Khuyên quá thẳng kiểu 'You must...' / 'You have to...' nghe như ra lệnh. Với bạn bè nên dùng 'should', 'why don't you', 'maybe' cho nhẹ nhàng."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện đưa lời khuyên cho bạn bè như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang gặp một vấn đề (ví dụ: căng thẳng vì công việc, mâu thuẫn với bạn cùng phòng, phân vân chuyện học hành). Hãy kể vấn đề của cậu cho tôi nghe, rồi để tôi đưa ra lời khuyên. Sau mỗi câu tôi nói, hãy: (1) phản hồi tự nhiên như một người bạn thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu khuyên như 'If I were you, I'd...', 'Why don't you...?', 'You should...' và thể hiện sự cảm thông trước khi khuyên. Cuối buổi hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu bằng cách kể vấn đề của cậu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy phản bác lời khuyên của tôi vài lần để tôi tập thuyết phục lại.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đổi sang một vấn đề tế nhị hơn (chuyện tình cảm, tiền bạc) để tôi tập khuyên khéo léo.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi cảm thông được với bạn ('That sounds tough', 'I know how you feel') trước khi đưa lời khuyên.",
+    "Tôi dùng đúng 'If I were you, I'd...' và 'Why don't you...?' khi khuyên bạn.",
+    "Tôi làm lời khuyên nghe nhẹ nhàng bằng 'maybe', 'probably' hoặc đặt dưới dạng câu hỏi, không áp đặt."
+  ]
+}

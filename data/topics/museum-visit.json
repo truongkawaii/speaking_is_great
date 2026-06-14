@@ -1,0 +1,336 @@
+{
+  "id": "museum-visit",
+  "category": "travel",
+  "title": "Tham quan bảo tàng",
+  "titleEn": "Visiting a Museum",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "describing"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mua vé và hỏi giá vé ở bảo tàng bằng câu đơn giản",
+    "Hỏi thông tin cơ bản: giờ mở cửa, lối đi, nơi chụp ảnh",
+    "Đề nghị lịch sự khi cần giúp đỡ (mượn bản đồ, thuê audio guide)",
+    "Mô tả cảm nhận về một tác phẩm hay khu trưng bày bằng tính từ đơn giản"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "ticket",
+      "ipa": "/ˈtɪk.ɪt/",
+      "vi": "vé (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to buy two tickets, please.",
+      "exampleVi": "Tôi muốn mua hai vé.",
+      "note": "Danh từ. 'a ticket' (số ít), 'two tickets' (số nhiều). Quầy bán vé gọi là 'ticket counter'.",
+      "synonyms": [
+        { "term": "pass", "ipa": "/pɑːs/", "register": "neutral", "nuanceVi": "Nhấn vào tấm vé/thẻ cho phép vào nhiều lần hoặc nhiều khu (vd 'a day pass'). 'ticket' thường là vé một lần." },
+        { "term": "admission", "ipa": "/ədˈmɪʃ.ən/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'quyền/phí vào cửa'. Hay thấy trên biển: 'Admission: $10'. Không đếm được như 'ticket'." }
+      ]
+    },
+    {
+      "term": "exhibition",
+      "ipa": "/ˌek.sɪˈbɪʃ.ən/",
+      "vi": "cuộc triển lãm / khu trưng bày (danh từ)",
+      "register": "neutral",
+      "example": "There is a new exhibition about ancient Egypt.",
+      "exampleVi": "Có một triển lãm mới về Ai Cập cổ đại.",
+      "note": "Danh từ. Dạng rút gọn đời thường là 'exhibit' (Anh-Mỹ, chỉ một khu/vật trưng bày).",
+      "synonyms": [
+        { "term": "display", "ipa": "/dɪˈspleɪ/", "register": "neutral", "nuanceVi": "Nhấn vào cách bày các vật ra để xem. 'on display' = đang được trưng bày. Nhỏ và cụ thể hơn 'exhibition'." }
+      ]
+    },
+    {
+      "term": "painting",
+      "ipa": "/ˈpeɪn.tɪŋ/",
+      "vi": "bức tranh (danh từ)",
+      "register": "neutral",
+      "example": "This painting is very famous.",
+      "exampleVi": "Bức tranh này rất nổi tiếng.",
+      "note": "Danh từ. 'painting' là tranh vẽ; 'statue' là tượng; 'sculpture' là tác phẩm điêu khắc nói chung."
+    },
+    {
+      "term": "guide",
+      "ipa": "/ɡaɪd/",
+      "vi": "người hướng dẫn / sách hướng dẫn (danh từ)",
+      "register": "neutral",
+      "example": "The guide showed us the most famous paintings.",
+      "exampleVi": "Người hướng dẫn chỉ cho chúng tôi những bức tranh nổi tiếng nhất.",
+      "note": "Có thể là người (tour guide) hoặc thiết bị/sách (audio guide, guidebook). Tùy ngữ cảnh.",
+      "synonyms": [
+        { "term": "tour guide", "ipa": "/ˈtʊə ɡaɪd/", "register": "neutral", "nuanceVi": "Chỉ rõ là người dẫn đoàn đi tham quan. Cụ thể hơn 'guide' khi muốn nói tới con người." }
+      ]
+    },
+    {
+      "term": "to visit",
+      "ipa": "/ˈvɪz.ɪt/",
+      "vi": "tham quan, ghé thăm (động từ)",
+      "register": "neutral",
+      "example": "We want to visit the museum tomorrow.",
+      "exampleVi": "Chúng tôi muốn tham quan bảo tàng vào ngày mai.",
+      "note": "Động từ. Sau 'visit' đi thẳng danh từ, KHÔNG có giới từ: 'visit the museum' (không nói 'visit to the museum' khi là động từ).",
+      "synonyms": [
+        { "term": "to explore", "ipa": "/ɪkˈsplɔː/", "register": "neutral", "nuanceVi": "Nhấn vào việc đi loanh quanh khám phá, xem kỹ từng chỗ. Sống động hơn 'visit'." },
+        { "term": "to tour", "ipa": "/tʊə/", "register": "neutral", "nuanceVi": "Nhấn vào việc đi vòng quanh theo lộ trình tham quan. Vd 'tour the gallery'." }
+      ]
+    },
+    {
+      "term": "to take photos",
+      "ipa": "/teɪk ˈfəʊ.təʊz/",
+      "vi": "chụp ảnh (cụm động từ)",
+      "register": "neutral",
+      "example": "Can I take photos inside the museum?",
+      "exampleVi": "Tôi có thể chụp ảnh bên trong bảo tàng không?",
+      "note": "Cụm động từ. 'take A photo' (số ít) / 'take photos' (số nhiều). Bảo tàng hay cấm 'flash' (đèn flash)."
+    },
+    {
+      "term": "famous",
+      "ipa": "/ˈfeɪ.məs/",
+      "vi": "nổi tiếng (tính từ)",
+      "register": "neutral",
+      "example": "The Mona Lisa is a very famous painting.",
+      "exampleVi": "Mona Lisa là một bức tranh rất nổi tiếng.",
+      "note": "Tính từ. Đi với 'for' khi nói nổi tiếng về điều gì: 'famous for its art'.",
+      "synonyms": [
+        { "term": "well-known", "ipa": "/ˌwel ˈnəʊn/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'famous', nghĩa 'nhiều người biết'. An toàn, trung tính." },
+        { "term": "popular", "ipa": "/ˈpɒp.jə.lə/", "register": "neutral", "nuanceVi": "Nhấn vào 'được nhiều người yêu thích/ưa chuộng', không hẳn là nổi tiếng khắp nơi." }
+      ]
+    },
+    {
+      "term": "beautiful",
+      "ipa": "/ˈbjuː.tɪ.fəl/",
+      "vi": "đẹp (tính từ)",
+      "register": "neutral",
+      "example": "The garden behind the museum is really beautiful.",
+      "exampleVi": "Khu vườn phía sau bảo tàng rất đẹp.",
+      "note": "Tính từ. Từ rất hữu ích để khen tác phẩm hoặc cảnh đẹp.",
+      "synonyms": [
+        { "term": "amazing", "ipa": "/əˈmeɪ.zɪŋ/", "register": "casual", "nuanceVi": "Nhấn cảm xúc 'tuyệt vời, làm mình kinh ngạc'. Mạnh và đời thường hơn 'beautiful'." },
+        { "term": "stunning", "ipa": "/ˈstʌn.ɪŋ/", "register": "neutral", "nuanceVi": "Nghĩa 'đẹp đến sững sờ'. Mạnh hơn 'beautiful', dùng khi thật sự ấn tượng." },
+        { "term": "lovely", "ipa": "/ˈlʌv.li/", "register": "casual", "nuanceVi": "Nghĩa 'đẹp, dễ thương, dễ chịu'. Nhẹ nhàng, ấm áp; người Anh hay dùng." }
+      ]
+    },
+    {
+      "term": "interesting",
+      "ipa": "/ˈɪn.trəs.tɪŋ/",
+      "vi": "thú vị (tính từ)",
+      "register": "neutral",
+      "example": "The history exhibition was very interesting.",
+      "exampleVi": "Triển lãm lịch sử rất thú vị.",
+      "note": "Tính từ. Đừng nhầm: 'interesting' (thú vị, tả vật) khác 'interested' (thấy hứng thú, tả người). 'I am interested in art.'",
+      "synonyms": [
+        { "term": "fascinating", "ipa": "/ˈfæs.ɪ.neɪ.tɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn 'interesting' nhiều: 'cuốn hút, mê mẩn'. Dùng khi thật sự bị thu hút." }
+      ]
+    },
+    {
+      "term": "quietly",
+      "ipa": "/ˈkwaɪ.ət.li/",
+      "vi": "một cách nhẹ nhàng, khẽ khàng (trạng từ)",
+      "register": "neutral",
+      "example": "Please walk quietly in the museum.",
+      "exampleVi": "Xin hãy đi lại nhẹ nhàng trong bảo tàng.",
+      "note": "Trạng từ (tính từ là 'quiet'). Trong bảo tàng người ta thường nói khẽ và đi nhẹ.",
+      "synonyms": [
+        { "term": "softly", "ipa": "/ˈsɒft.li/", "register": "neutral", "nuanceVi": "Thường dùng cho âm thanh/giọng nói nhẹ ('speak softly'). 'quietly' rộng hơn, dùng cho cả hành động yên lặng." }
+      ]
+    },
+    {
+      "term": "slowly",
+      "ipa": "/ˈsləʊ.li/",
+      "vi": "một cách chậm rãi (trạng từ)",
+      "register": "neutral",
+      "example": "We walked slowly to look at every painting.",
+      "exampleVi": "Chúng tôi đi chậm rãi để ngắm từng bức tranh.",
+      "note": "Trạng từ (tính từ là 'slow'). Hữu ích khi tả cách tham quan thong thả.",
+      "synonyms": [
+        { "term": "gradually", "ipa": "/ˈɡræd.ʒu.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'từ từ theo từng bước', về quá trình thay đổi dần. Khác 'slowly' (về tốc độ chậm)." }
+      ]
+    },
+    {
+      "term": "entrance",
+      "ipa": "/ˈen.trəns/",
+      "vi": "lối vào (danh từ)",
+      "register": "neutral",
+      "example": "The main entrance is on your left.",
+      "exampleVi": "Lối vào chính ở bên trái bạn.",
+      "note": "Danh từ. Trái nghĩa là 'exit' (lối ra). Trọng âm rơi vào âm đầu: EN-trance."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to buy [số] tickets, please.",
+      "use": "Mua vé ở quầy một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to buy two tickets, please.",
+        "I'd like to buy one ticket for the special exhibition, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want'. Thêm 'please' ở cuối cho nhã nhặn. Mẫu câu cốt lõi khi mua vé.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "How much is [danh từ]?",
+      "use": "Hỏi giá vé hoặc giá một thứ gì đó.",
+      "register": "neutral",
+      "examples": [
+        "How much is a ticket?",
+        "How much is the audio guide?"
+      ],
+      "explanationVi": "'How much is...?' dùng hỏi giá của thứ số ít/không đếm được. Số nhiều dùng 'How much are the tickets?'. Câu hỏi giá cơ bản nhất."
+    },
+    {
+      "pattern": "What time does the museum [open / close]?",
+      "use": "Hỏi giờ mở cửa hoặc đóng cửa.",
+      "register": "neutral",
+      "examples": [
+        "What time does the museum open?",
+        "What time does the museum close today?"
+      ],
+      "explanationVi": "Dùng thì hiện tại đơn cho giờ giấc cố định. Vì chủ ngữ số ít ('the museum') nên có trợ động từ 'does' và động từ ở dạng nguyên thể (open, không phải opens)."
+    },
+    {
+      "pattern": "Can I [động từ nguyên thể] ... ?",
+      "use": "Xin phép làm gì đó một cách đơn giản, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Can I take photos here?",
+        "Can I bring my bag inside?"
+      ],
+      "explanationVi": "'Can I...?' là cách xin phép đơn giản và phổ biến, hợp với cấp độ A2. Lịch sự hơn nữa thì dùng 'Could I...?'.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Could I [động từ nguyên thể] ... , please?",
+      "use": "Xin phép / đề nghị lịch sự hơn một chút.",
+      "register": "neutral",
+      "examples": [
+        "Could I have a map, please?",
+        "Could I rent an audio guide, please?"
+      ],
+      "explanationVi": "'Could I...?' lịch sự hơn 'Can I...?', hợp khi nói với nhân viên. Cả hai cùng dùng để xin phép/đề nghị nên xếp chung một nhóm.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Where is the [danh từ]?",
+      "use": "Hỏi đường tới một nơi trong bảo tàng.",
+      "register": "neutral",
+      "examples": [
+        "Where is the entrance?",
+        "Where is the modern art section?"
+      ],
+      "explanationVi": "'Where is...?' hỏi vị trí một nơi/vật số ít. Rất hữu ích để tìm lối vào, nhà vệ sinh, hay một khu trưng bày."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "excuse me", "ipa": "/ɪkˈskjuːz miː/", "vi": "xin lỗi (để bắt chuyện/hỏi)", "when": "Dùng để mở lời lịch sự khi muốn hỏi nhân viên hay người lạ.", "example": "Excuse me, where is the entrance?" },
+    { "term": "really", "ipa": "/ˈrɪə.li/", "vi": "thật sự / rất", "when": "Nhấn mạnh cảm nhận khi khen một thứ gì đó.", "example": "This painting is really beautiful." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Đáp lại lịch sự, đồng ý ngay với một yêu cầu.", "example": "Of course, here is your ticket." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Đính chính nhẹ nhàng hoặc nói thêm một thông tin.", "example": "Actually, photos are only allowed without flash." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "nhân tiện", "when": "Hỏi thêm một câu ngoài lề, chuyển nhẹ chủ đề.", "example": "By the way, what time does the museum close?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến một bảo tàng nghệ thuật và tới quầy vé để mua vé, hỏi vài thông tin rồi bắt đầu tham quan.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good morning, and welcome to the City Art Museum! How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd ˈwel.kəm tə ðə ˈsɪt.i ɑːt mjuˈziː.əm haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, hân hạnh đón bạn đến Bảo tàng Nghệ thuật Thành phố! Hôm nay tôi có thể giúp gì cho bạn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'd like to buy ____ tickets, please. How much is one ticket?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪd laɪk tə baɪ ... ˈtɪk.ɪts pliːz haʊ mʌtʃ ɪz wʌn ˈtɪk.ɪt/",
+        "vi": "Chào buổi sáng. Tôi muốn mua ____ vé. Một vé giá bao nhiêu ạ?",
+        "blanks": [
+          { "type": "personal", "hint": "Số vé bạn muốn mua. Ví dụ: 'two' (2 vé)." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Each ticket is ten dollars, and it includes a free map. We also have a special painting exhibition, which is very popular this month.",
+        "ipa": "/iːtʃ ˈtɪk.ɪt ɪz ten ˈdɒl.əz ænd ɪt ɪnˈkluːdz ə friː mæp wiː ˈɔːl.səʊ hæv ə ˈspeʃ.əl ˈpeɪn.tɪŋ ˌek.sɪˈbɪʃ.ən wɪtʃ ɪz ˈver.i ˈpɒp.jə.lə ðɪs mʌnθ/",
+        "vi": "Mỗi vé mười đô la, và đã kèm một bản đồ miễn phí. Chúng tôi cũng có một triển lãm tranh đặc biệt, rất được yêu thích trong tháng này."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great. Could I rent an audio guide too, ____ I can learn more about the paintings?",
+        "ipa": "/ðæt saʊndz ɡreɪt kʊd aɪ rent ən ˈɔː.di.əʊ ɡaɪd tuː ... aɪ kæn lɜːn mɔːr əˈbaʊt ðə ˈpeɪn.tɪŋz/",
+        "vi": "Nghe hay đấy. Tôi cũng có thể thuê một máy thuyết minh ____ tôi có thể hiểu thêm về các bức tranh không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "so that", "explanationVi": "Dùng 'so that' để chỉ mục đích (= để mà). Sau 'so that' là một mệnh đề có chủ ngữ ('I can...'). Đây là cách nối câu đơn giản nhưng tự nhiên ở mức A2." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. The audio guide is five dollars. By the way, you can take photos, ____ please don't use a flash near the old paintings.",
+        "ipa": "/əv ˈkɔːs ðə ˈɔː.di.əʊ ɡaɪd ɪz faɪv ˈdɒl.əz baɪ ðə weɪ juː kæn teɪk ˈfəʊ.təʊz ... pliːz dəʊnt juːz ə flæʃ nɪə ðə əʊld ˈpeɪn.tɪŋz/",
+        "vi": "Tất nhiên rồi. Máy thuyết minh giá năm đô la. Nhân tiện, bạn được chụp ảnh, ____ xin đừng dùng đèn flash gần các bức tranh cũ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' (nhưng) để nối hai ý trái ngược nhẹ: được chụp ảnh, NHƯNG không dùng flash. Liên từ cơ bản và rất hữu ích ở cấp độ A2." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I understand. Excuse me, where ____ the special exhibition? And what time does the museum close today?",
+        "ipa": "/aɪ ˌʌn.dəˈstænd ɪkˈskjuːz miː weər ... ðə ˈspeʃ.əl ˌek.sɪˈbɪʃ.ən ænd wɒt taɪm dʌz ðə mjuˈziː.əm kləʊz təˈdeɪ/",
+        "vi": "Tôi hiểu rồi. Xin lỗi, triển lãm đặc biệt ____ ở đâu ạ? Và hôm nay bảo tàng đóng cửa lúc mấy giờ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "is", "explanationVi": "Chủ ngữ là 'the special exhibition' (số ít) nên dùng 'is'. Mẫu câu hỏi vị trí: 'Where is + danh từ số ít?'. Xem cấu trúc 'Where is the...?'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "The exhibition is on the second floor, near the main entrance. The museum is open until six o'clock, so you have plenty of time.",
+        "ipa": "/ðə ˌek.sɪˈbɪʃ.ən ɪz ɒn ðə ˈsek.ənd flɔː nɪə ðə meɪn ˈen.trəns ðə mjuˈziː.əm ɪz ˈəʊ.pən ənˈtɪl sɪks əˈklɒk səʊ juː hæv ˈplen.ti əv taɪm/",
+        "vi": "Triển lãm ở tầng hai, gần lối vào chính. Bảo tàng mở cửa đến sáu giờ, nên bạn còn nhiều thời gian."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. The building is ____ beautiful, and I'm really excited to see the famous paintings.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ðə ˈbɪl.dɪŋ ɪz ... ˈbjuː.tɪ.fəl ænd aɪm ˈrɪə.li ɪkˈsaɪ.tɪd tə siː ðə ˈfeɪ.məs ˈpeɪn.tɪŋz/",
+        "vi": "Cảm ơn bạn rất nhiều. Tòa nhà này ____ đẹp, và tôi thật sự háo hức được xem những bức tranh nổi tiếng.",
+        "blanks": [
+          { "type": "knowledge", "answer": "really", "explanationVi": "Dùng trạng từ 'really' (rất/thật sự) đứng trước tính từ 'beautiful' để nhấn mạnh cảm nhận. Có thể thay bằng 'very'. Xem mục Trạng từ & cụm từ." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Enjoy your visit! Please remember to walk quietly and have a wonderful time at the museum.",
+        "ipa": "/ɪnˈdʒɔɪ jɔː ˈvɪz.ɪt pliːz rɪˈmem.bə tə wɔːk ˈkwaɪ.ət.li ænd hæv ə ˈwʌn.də.fəl taɪm ət ðə mjuˈziː.əm/",
+        "vi": "Chúc bạn tham quan vui vẻ! Nhớ đi lại nhẹ nhàng và có một khoảng thời gian tuyệt vời tại bảo tàng nhé."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Nhiều bảo tàng lớn có ngày hoặc giờ vào cửa miễn phí (free admission) trong tuần — nên kiểm tra website trước khi đi.",
+    "Trong bảo tàng cần nói khẽ, đi nhẹ và không chạm vào hiện vật. Nhiều nơi cấm chụp ảnh có đèn flash vì hại tranh cũ.",
+    "Thường phải gửi balô, túi lớn và ô ở quầy giữ đồ (cloakroom) trước khi vào xem.",
+    "Ở nhiều nước phương Tây, học sinh, sinh viên và người cao tuổi được giảm giá vé (concession) khi xuất trình thẻ."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want a ticket' nghe hơi cộc. Dùng 'I'd like...' hoặc 'Could I...?' cho lịch sự.",
+    "Thêm thừa giới từ sau 'visit' khi là động từ: nói 'visit the museum', KHÔNG nói 'visit to the museum'.",
+    "Nhầm 'interesting' (thú vị, tả vật) với 'interested' (thấy hứng thú, tả người): 'The museum is interesting' và 'I am interested'.",
+    "Quên 'a' với danh từ đếm được số ít: phải nói 'How much is A ticket?', không phải 'How much is ticket?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mua vé và tham quan bảo tàng như thật.",
+    "prompt": "Hãy đóng vai một nhân viên bán vé ở bảo tàng nói tiếng Anh. Tôi là khách du lịch đến mua vé và tham quan. Hãy bắt đầu bằng cách chào tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra một tình huống bất ngờ (ví dụ triển lãm đặc biệt đã hết vé, hoặc khu trưng bày đang đóng để sửa) để tôi tập xử lý. Hãy dùng câu đơn giản, nói chậm rãi và thân thiện vì trình độ của tôi là A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi mô tả một bức tranh mà tôi thích bằng vài câu đơn giản.' để tập tả.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mua được vé và hỏi giá vé mà không nhìn gợi ý.",
+    "Tôi hỏi được giờ đóng cửa và đường tới một khu trưng bày.",
+    "Tôi khen được một tác phẩm bằng câu đơn giản với 'really beautiful' hoặc 'very interesting'."
+  ]
+}

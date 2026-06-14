@@ -1,0 +1,345 @@
+{
+  "id": "apologizing-to-friend",
+  "category": "friends",
+  "title": "Xin lỗi bạn",
+  "titleEn": "Apologizing to a Friend",
+  "level": "B1",
+  "functions": ["apologizing", "small-talk", "agreeing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Nói lời xin lỗi chân thành với bạn bằng nhiều cách khác nhau",
+    "Giải thích lý do và thừa nhận lỗi của mình một cách rõ ràng",
+    "Đề nghị bù đắp và hứa sẽ thay đổi",
+    "Chấp nhận lời xin lỗi của người khác một cách rộng lượng",
+    "Dùng các trạng từ và cấu trúc B1 (because, so, such as, although) để câu nói tự nhiên hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to apologize",
+      "ipa": "/əˈpɒl.ə.dʒaɪz/",
+      "vi": "xin lỗi (động từ)",
+      "register": "neutral",
+      "example": "I want to apologize for being so late yesterday.",
+      "exampleVi": "Mình muốn xin lỗi vì hôm qua đến trễ quá.",
+      "note": "Động từ. Đi với 'apologize TO somebody FOR something'. Lưu ý: Anh-Anh viết 'apologise', Anh-Mỹ viết 'apologize'.",
+      "synonyms": [
+        { "term": "to say sorry", "ipa": "/seɪ ˈsɒr.i/", "register": "casual", "nuanceVi": "Đời thường, thân mật nhất. Nói với bạn bè thì 'say sorry' nghe gần gũi hơn 'apologize' (vốn hơi trang trọng)." },
+        { "term": "to make amends", "ipa": "/meɪk əˈmendz/", "register": "formal", "nuanceVi": "Nhấn vào việc 'sửa sai, bù đắp bằng hành động' chứ không chỉ nói lời xin lỗi suông. Trang trọng hơn." }
+      ]
+    },
+    {
+      "term": "apology",
+      "ipa": "/əˈpɒl.ə.dʒi/",
+      "vi": "lời xin lỗi (danh từ)",
+      "register": "neutral",
+      "example": "Please accept my apology for the mix-up.",
+      "exampleVi": "Mong cậu nhận lời xin lỗi của mình vì sự nhầm lẫn này.",
+      "note": "Danh từ. Đừng nhầm với động từ 'apologize'. Số nhiều 'apologies' hay dùng: 'My apologies!' (Xin lỗi nhé!).",
+      "synonyms": [
+        { "term": "regret", "ipa": "/rɪˈɡret/", "register": "formal", "nuanceVi": "Nghĩa 'sự hối tiếc'. Trang trọng, thiên về cảm xúc tiếc nuối bên trong hơn là một câu nói xin lỗi cụ thể." }
+      ]
+    },
+    {
+      "term": "to forgive",
+      "ipa": "/fəˈɡɪv/",
+      "vi": "tha thứ (động từ)",
+      "register": "neutral",
+      "example": "Don't worry, I forgive you completely.",
+      "exampleVi": "Đừng lo, mình hoàn toàn tha thứ cho cậu.",
+      "note": "Động từ bất quy tắc: forgive - forgave - forgiven. Đi với 'forgive somebody FOR something'.",
+      "synonyms": [
+        { "term": "to let it go", "ipa": "/let ɪt ɡəʊ/", "register": "casual", "nuanceVi": "Thành ngữ đời thường, nghĩa 'bỏ qua, không để bụng nữa'. Nhẹ nhàng, thân mật giữa bạn bè." },
+        { "term": "to pardon", "ipa": "/ˈpɑː.dən/", "register": "formal", "nuanceVi": "Trang trọng/cổ điển. Hay dùng dạng 'Pardon me' (xin thứ lỗi). Ít dùng với bạn thân trong đời thường." }
+      ]
+    },
+    {
+      "term": "misunderstanding",
+      "ipa": "/ˌmɪs.ʌn.dəˈstæn.dɪŋ/",
+      "vi": "sự hiểu lầm (danh từ)",
+      "register": "neutral",
+      "example": "It was just a misunderstanding, not a real fight.",
+      "exampleVi": "Đó chỉ là một sự hiểu lầm thôi, không phải cãi nhau thật đâu.",
+      "note": "Danh từ. Từ rất hữu ích khi muốn 'hạ nhiệt' và giải thích rằng không ai cố ý làm sai.",
+      "synonyms": [
+        { "term": "mix-up", "ipa": "/ˈmɪks.ʌp/", "register": "casual", "nuanceVi": "Đời thường, nhẹ nhàng, nghĩa 'sự nhầm lẫn, lộn xộn'. Nghe ít nghiêm trọng hơn 'misunderstanding'." }
+      ]
+    },
+    {
+      "term": "to make it up to someone",
+      "ipa": "/meɪk ɪt ʌp tə ˈsʌm.wʌn/",
+      "vi": "bù đắp cho ai đó (cụm động từ)",
+      "register": "neutral",
+      "example": "Let me make it up to you by buying lunch.",
+      "exampleVi": "Để mình bù đắp cho cậu bằng cách mời bữa trưa nhé.",
+      "note": "Cụm động từ rất tự nhiên khi xin lỗi. Đi kèm hành động cụ thể để chuộc lỗi: 'make it up to you by + V-ing'."
+    },
+    {
+      "term": "thoughtless",
+      "ipa": "/ˈθɔːt.ləs/",
+      "vi": "thiếu suy nghĩ, vô tâm (tính từ)",
+      "register": "neutral",
+      "example": "It was thoughtless of me to forget your birthday.",
+      "exampleVi": "Mình thật vô tâm khi quên sinh nhật cậu.",
+      "note": "Tính từ. Cấu trúc thừa nhận lỗi: 'It was thoughtless OF me to + V'. Trái nghĩa: thoughtful (chu đáo).",
+      "synonyms": [
+        { "term": "careless", "ipa": "/ˈkeə.ləs/", "register": "neutral", "nuanceVi": "Nhấn vào 'cẩu thả, bất cẩn' khi làm việc gì đó. 'thoughtless' nhấn vào việc không nghĩ đến cảm xúc người khác." },
+        { "term": "inconsiderate", "ipa": "/ˌɪn.kənˈsɪd.ər.ət/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'không quan tâm đến cảm nhận của người khác'. Nghe nặng và chính thức hơn." }
+      ]
+    },
+    {
+      "term": "upset",
+      "ipa": "/ʌpˈset/",
+      "vi": "buồn bực, khó chịu (tính từ)",
+      "register": "neutral",
+      "example": "I understand why you're so upset with me.",
+      "exampleVi": "Mình hiểu vì sao cậu lại buồn bực với mình đến vậy.",
+      "note": "Tính từ chỉ trạng thái buồn/giận nhẹ. Đi với 'upset WITH somebody' hoặc 'upset ABOUT something'.",
+      "synonyms": [
+        { "term": "annoyed", "ipa": "/əˈnɔɪd/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'bực mình, khó chịu' chứ chưa tới mức buồn sâu. Phổ biến trong đời thường." },
+        { "term": "hurt", "ipa": "/hɜːt/", "register": "neutral", "nuanceVi": "Nhấn vào 'tổn thương tình cảm'. Nặng hơn 'upset' về mặt cảm xúc, thiên về nỗi đau bên trong." }
+      ]
+    },
+    {
+      "term": "to mean to",
+      "ipa": "/miːn tuː/",
+      "vi": "cố ý, có ý định (cụm động từ)",
+      "register": "neutral",
+      "example": "I didn't mean to hurt your feelings at all.",
+      "exampleVi": "Mình hoàn toàn không cố ý làm tổn thương cậu đâu.",
+      "note": "Cụm cực kỳ thông dụng khi xin lỗi, thường ở dạng phủ định: 'I didn't mean to + V' (mình không cố ý...). Quá khứ: meant /ment/."
+    },
+    {
+      "term": "sincerely",
+      "ipa": "/sɪnˈsɪə.li/",
+      "vi": "một cách chân thành (trạng từ)",
+      "register": "neutral",
+      "example": "I sincerely hope we can stay friends.",
+      "exampleVi": "Mình thật lòng mong tụi mình vẫn là bạn.",
+      "note": "Trạng từ. Làm lời xin lỗi nghe thật lòng hơn. Tính từ tương ứng: sincere (chân thành).",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'thật lòng mà nói'. Hay đặt đầu câu để mở lời thành thật." },
+        { "term": "genuinely", "ipa": "/ˈdʒen.ju.ɪn.li/", "register": "neutral", "nuanceVi": "Nhấn 'thật sự, không giả tạo'. Gần nghĩa 'sincerely' nhưng nhấn vào tính chân thật của cảm xúc." },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Nghĩa 'thật sự', nhấn mạnh mức độ. Vd 'I'm truly sorry.' nghe tha thiết." }
+      ]
+    },
+    {
+      "term": "deeply",
+      "ipa": "/ˈdiːp.li/",
+      "vi": "một cách sâu sắc (trạng từ)",
+      "register": "neutral",
+      "example": "I'm deeply sorry for letting you down.",
+      "exampleVi": "Mình vô cùng xin lỗi vì đã làm cậu thất vọng.",
+      "note": "Trạng từ tăng mức độ, mạnh hơn 'very'. 'deeply sorry' = xin lỗi tận đáy lòng, dùng khi lỗi nghiêm trọng.",
+      "synonyms": [
+        { "term": "terribly", "ipa": "/ˈter.ə.bli/", "register": "neutral", "nuanceVi": "Nghĩa 'vô cùng', tăng mức độ. 'I'm terribly sorry' rất thông dụng và lịch sự." },
+        { "term": "really", "ipa": "/ˈrɪə.li/", "register": "casual", "nuanceVi": "Đời thường, đơn giản nhất: 'I'm really sorry'. Tự nhiên với bạn bè nhưng nhẹ hơn 'deeply'." }
+      ]
+    },
+    {
+      "term": "to let someone down",
+      "ipa": "/let ˈsʌm.wʌn daʊn/",
+      "vi": "làm ai đó thất vọng (cụm động từ)",
+      "register": "neutral",
+      "example": "I'm sorry I let you down when you needed me.",
+      "exampleVi": "Mình xin lỗi vì đã làm cậu thất vọng khi cậu cần mình.",
+      "note": "Cụm động từ. Tân ngữ chen vào giữa: 'let YOU down'. Khác 'disappoint' (trang trọng hơn nhưng cùng nghĩa)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm really sorry for [V-ing / danh từ].",
+      "use": "Mở lời xin lỗi cơ bản, chân thành về một việc cụ thể.",
+      "register": "casual",
+      "examples": [
+        "I'm really sorry for missing your party last night.",
+        "I'm really sorry for the way I spoke to you."
+      ],
+      "explanationVi": "Sau 'sorry for' luôn là danh từ hoặc V-ing (không phải 'to V'). Đây là mẫu xin lỗi gần gũi nhất giữa bạn bè. Thêm 'really/so' để tăng mức độ.",
+      "altOf": "saying-sorry"
+    },
+    {
+      "pattern": "I owe you an apology for [V-ing / danh từ].",
+      "use": "Xin lỗi một cách nghiêm túc hơn, thừa nhận mình nợ lời xin lỗi.",
+      "register": "neutral",
+      "examples": [
+        "I owe you an apology for forgetting our plans.",
+        "I think I owe you a big apology for last weekend."
+      ],
+      "explanationVi": "'owe somebody an apology' = nợ ai đó một lời xin lỗi. Nghe chín chắn và chân thành hơn, hợp khi lỗi hơi lớn.",
+      "altOf": "saying-sorry"
+    },
+    {
+      "pattern": "I didn't mean to [V].",
+      "use": "Khẳng định mình không cố ý gây ra chuyện đó.",
+      "register": "neutral",
+      "examples": [
+        "I didn't mean to upset you.",
+        "Honestly, I didn't mean to leave you waiting for so long."
+      ],
+      "explanationVi": "Sau 'mean to' là động từ nguyên thể. Câu này giúp làm rõ bạn không có ý xấu, nhưng nhớ vẫn nên nhận lỗi chứ đừng chỉ biện minh."
+    },
+    {
+      "pattern": "It was [tính từ] of me to [V].",
+      "use": "Thừa nhận lỗi và tự nhận xét về hành vi của mình.",
+      "register": "neutral",
+      "examples": [
+        "It was thoughtless of me to forget your birthday.",
+        "It was wrong of me to cancel at the last minute."
+      ],
+      "explanationVi": "Cấu trúc 'It was + tính từ + OF me + to V' dùng để đánh giá hành vi của bản thân. Nhận lỗi thẳng thắn kiểu này nghe rất trưởng thành."
+    },
+    {
+      "pattern": "Let me make it up to you by [V-ing].",
+      "use": "Đề nghị bù đắp bằng một hành động cụ thể.",
+      "register": "casual",
+      "examples": [
+        "Let me make it up to you by treating you to dinner.",
+        "Let me make it up to you by helping you move this weekend."
+      ],
+      "explanationVi": "Sau 'by' luôn là V-ing. Xin lỗi mà kèm hành động bù đắp cụ thể luôn thuyết phục hơn nói suông.",
+      "altOf": "offering-amends"
+    },
+    {
+      "pattern": "I promise it won't happen again.",
+      "use": "Hứa sẽ không tái phạm để trấn an bạn.",
+      "register": "neutral",
+      "examples": [
+        "I promise it won't happen again.",
+        "I promise I'll be more careful from now on."
+      ],
+      "explanationVi": "Lời hứa giúp đóng lại lời xin lỗi và khôi phục lòng tin. 'from now on' = từ giờ trở đi.",
+      "altOf": "offering-amends"
+    },
+    {
+      "pattern": "Don't worry about it, it's fine.",
+      "use": "Chấp nhận lời xin lỗi của người khác một cách rộng lượng.",
+      "register": "casual",
+      "examples": [
+        "Don't worry about it, it's fine.",
+        "It's okay, these things happen to everyone."
+      ],
+      "explanationVi": "Cách phản hồi nhẹ nhàng để cho bạn biết bạn không còn để bụng. 'these things happen' = chuyện đó ai cũng gặp mà.",
+      "altOf": "accepting-apology"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một lời thừa nhận chân thành, cho thấy bạn nói thật.", "example": "Honestly, I feel terrible about what happened." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần giải thích hoặc đính chính nhẹ nhàng điều gì đó.", "example": "Actually, I was stuck in traffic the whole time." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Dẫn vào một lời thú nhận hơi khó nói.", "example": "To be honest, I completely forgot about our plans." },
+    { "term": "from now on", "ipa": "/frɒm naʊ ɒn/", "vi": "từ giờ trở đi", "when": "Khi hứa thay đổi hành vi trong tương lai.", "example": "From now on, I'll always let you know if I'm running late." },
+    { "term": "after all", "ipa": "/ˈɑːf.tər ɔːl/", "vi": "dù sao thì / suy cho cùng", "when": "Nhấn một lý do để xoa dịu, thường khi tha thứ cho bạn.", "example": "It's okay, after all, we've been friends for years." }
+  ],
+
+  "dialogue": {
+    "context": "Nam đã quên không đến dự buổi sinh nhật của bạn thân là Lan vào tối hôm trước. Hôm sau Nam gặp Lan để xin lỗi và làm hòa.",
+    "lines": [
+      {
+        "speaker": "Nam",
+        "text": "Lan, can we talk for a minute? Honestly, I feel terrible because I missed your birthday party last night, and I owe you a real apology.",
+        "ipa": "/læn kæn wiː tɔːk fɔːr ə ˈmɪn.ɪt ˈɒn.ɪst.li aɪ fiːl ˈter.ə.bəl bɪˈkɒz aɪ mɪst jɔːr ˈbɜːθ.deɪ ˈpɑː.ti lɑːst naɪt ænd aɪ əʊ juː ə rɪəl əˈpɒl.ə.dʒi/",
+        "vi": "Lan ơi, tụi mình nói chuyện một chút được không? Thật lòng, mình thấy tệ kinh khủng vì đã lỡ buổi sinh nhật của cậu tối qua, và mình thật sự nợ cậu một lời xin lỗi."
+      },
+      {
+        "speaker": "Lan",
+        "text": "I was quite upset, to be honest. I waited for you all evening, although you didn't even send a message to let me know.",
+        "ipa": "/aɪ wɒz kwaɪt ʌpˈset tə biː ˈɒn.ɪst aɪ ˈweɪ.tɪd fɔːr juː ɔːl ˈiːv.nɪŋ ɔːlˈðəʊ juː ˈdɪd.ənt ˈiːv.ən send ə ˈmes.ɪdʒ tə let miː nəʊ/",
+        "vi": "Thành thật mà nói, mình đã khá buồn bực. Mình đợi cậu cả buổi tối, dù cậu thậm chí còn chẳng nhắn một tin báo cho mình biết."
+      },
+      {
+        "speaker": "Nam",
+        "text": "I know, and it was really ____ of me. I didn't ____ to ignore you at all; actually, my phone died and I got stuck at work much longer than I expected.",
+        "ipa": "/aɪ nəʊ ænd ɪt wɒz ˈrɪə.li ... ɒv miː aɪ ˈdɪd.ənt ... tə ɪɡˈnɔːr juː ət ɔːl ˈæk.tʃu.ə.li maɪ fəʊn daɪd ænd aɪ ɡɒt stʌk ət wɜːk mʌtʃ ˈlɒŋ.ɡər ðæn aɪ ɪkˈspek.tɪd/",
+        "vi": "Mình biết, và đúng là mình thật ____ . Mình hoàn toàn không ____ phớt lờ cậu đâu; thật ra điện thoại mình hết pin và mình bị kẹt lại ở chỗ làm lâu hơn nhiều so với dự tính.",
+        "blanks": [
+          { "type": "knowledge", "answer": "thoughtless", "explanationVi": "Dùng tính từ 'thoughtless' (vô tâm, thiếu suy nghĩ) trong cấu trúc 'It was + tính từ + of me'. Đây là cách tự nhận xét hành vi của mình khi nhận lỗi." },
+          { "type": "knowledge", "answer": "mean", "explanationVi": "Cụm 'I didn't mean to + V' = mình không cố ý làm gì. Sau 'mean to' là động từ nguyên thể ('ignore'). Đây là mẫu câu khẳng định mình không có ý xấu." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I understand things happen, but a quick text would have helped, ____ I wasn't sure if something bad had happened to you.",
+        "ipa": "/aɪ ˌʌn.dəˈstænd θɪŋz ˈhæp.ən bʌt ə kwɪk tekst wʊd həv helpt ... aɪ ˈwɒz.ənt ʃɔːr ɪf ˈsʌm.θɪŋ bæd həd ˈhæp.ənd tə juː/",
+        "vi": "Mình hiểu là chuyện ngoài ý muốn vẫn xảy ra, nhưng một tin nhắn ngắn thôi cũng đỡ rồi, ____ mình đã không chắc liệu có chuyện gì xấu xảy ra với cậu không.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nối lý do: một tin nhắn sẽ giúp ích VÌ Lan đã lo lắng. Đây là liên từ chỉ nguyên nhân rất căn bản ở trình độ B1." }
+        ]
+      },
+      {
+        "speaker": "Nam",
+        "text": "You're absolutely right, and I'm ____ sorry for making you worry. Let me make it ____ to you by taking you out for a proper birthday dinner this weekend, somewhere you really like, ____ that new Italian place downtown.",
+        "ipa": "/jɔːr ˈæb.sə.luːt.li raɪt ænd aɪm ... ˈsɒr.i fɔːr ˈmeɪ.kɪŋ juː ˈwʌr.i let miː meɪk ... tə juː baɪ ˈteɪ.kɪŋ juː aʊt fɔːr ə ˈprɒp.ər ˈbɜːθ.deɪ ˈdɪn.ər ðɪs ˌwiːkˈend ˈsʌm.weər juː ˈrɪə.li laɪk ... ðæt njuː ɪˈtæl.i.ən pleɪs ˌdaʊnˈtaʊn/",
+        "vi": "Cậu nói hoàn toàn đúng, và mình vô cùng xin lỗi vì đã làm cậu lo lắng. Để mình bù đắp cho cậu bằng cách dẫn cậu đi ăn một bữa sinh nhật đàng hoàng vào cuối tuần này, ở nơi nào cậu thật sự thích, ____ chỗ nhà hàng Ý mới mở ở trung tâm ấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "deeply", "explanationVi": "Trạng từ 'deeply' tăng mức độ cho 'sorry' ('deeply sorry' = xin lỗi tận đáy lòng), mạnh hơn 'very'. Dùng khi muốn thể hiện sự hối lỗi sâu sắc." },
+          { "type": "knowledge", "answer": "up", "explanationVi": "Cụm 'make it UP to somebody' = bù đắp cho ai đó. 'up' là phần bắt buộc của cụm động từ này. Xem mẫu câu 'Let me make it up to you by...'." },
+          { "type": "knowledge", "answer": "such as", "explanationVi": "'such as' dùng để nêu ví dụ minh họa (nơi cậu thích, chẳng hạn như nhà hàng Ý đó). Nêu ví dụ cụ thể nghe tự nhiên và chân thành hơn." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That actually sounds lovely. Don't worry about it too much; after all, we've been close friends for years, so one mistake won't change that.",
+        "ipa": "/ðæt ˈæk.tʃu.ə.li saʊndz ˈlʌv.li dəʊnt ˈwʌr.i əˈbaʊt ɪt tuː mʌtʃ ˈɑːf.tər ɔːl wiːv biːn kləʊs frendz fɔːr jɪəz səʊ wʌn mɪsˈteɪk wəʊnt tʃeɪndʒ ðæt/",
+        "vi": "Nghe cũng dễ thương đấy chứ. Đừng lo lắng quá nhiều; suy cho cùng, tụi mình đã là bạn thân bao nhiêu năm rồi, nên một lỗi nhỏ sẽ không thay đổi điều đó đâu."
+      },
+      {
+        "speaker": "Nam",
+        "text": "Thank you for being so understanding. I promise it ____ happen again — from now on, I'll always send you a message if my plans change.",
+        "ipa": "/θæŋk juː fɔːr ˈbiː.ɪŋ səʊ ˌʌn.dəˈstæn.dɪŋ aɪ ˈprɒm.ɪs ɪt ... ˈhæp.ən əˈɡen frɒm naʊ ɒn aɪl ˈɔːl.weɪz send juː ə ˈmes.ɪdʒ ɪf maɪ plænz tʃeɪndʒ/",
+        "vi": "Cảm ơn cậu đã thông cảm đến vậy. Mình hứa chuyện này sẽ không ____ nữa — từ giờ trở đi, mình sẽ luôn nhắn cho cậu nếu kế hoạch của mình thay đổi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "won't", "explanationVi": "'I promise it won't happen again' (won't = will not) là lời hứa kinh điển sau khi xin lỗi, dùng thì tương lai để cam kết không tái phạm." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I appreciate that. So, are we okay now? Because I really don't want a small ____ like this to come between us.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ðæt səʊ ɑːr wiː ˈəʊ.keɪ naʊ bɪˈkɒz aɪ ˈrɪə.li dəʊnt wɒnt ə smɔːl ... laɪk ðɪs tə kʌm bɪˈtwiːn ʌs/",
+        "vi": "Mình trân trọng điều đó. Vậy, tụi mình ổn rồi chứ? Vì mình thật sự không muốn một ____ nhỏ như thế này xen vào giữa tụi mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "misunderstanding", "explanationVi": "Danh từ 'misunderstanding' (sự hiểu lầm) hợp ngữ cảnh: cả hai gọi sự việc là một hiểu lầm nhỏ để hạ nhiệt và làm hòa." }
+        ]
+      },
+      {
+        "speaker": "Nam",
+        "text": "We're definitely okay. Thanks for forgiving me so quickly — you're honestly the best ____ anyone could ask for.",
+        "ipa": "/wɪər ˈdef.ɪn.ət.li ˈəʊ.keɪ θæŋks fɔːr fəˈɡɪv.ɪŋ miː səʊ ˈkwɪk.li jɔːr ˈɒn.ɪst.li ðə best ... ˈen.i.wʌn kʊd ɑːsk fɔːr/",
+        "vi": "Tụi mình ổn chắc chắn luôn. Cảm ơn cậu đã tha thứ cho mình nhanh như vậy — thật lòng cậu là người ____ tuyệt nhất mà ai cũng mơ ước có được.",
+        "blanks": [
+          { "type": "personal", "hint": "Một danh từ chỉ mối quan hệ tích cực. Ví dụ: 'friend' (bạn) hoặc 'best friend'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, một lời xin lỗi tốt thường gồm 3 phần: thừa nhận lỗi cụ thể, không biện minh quá nhiều, và đề nghị bù đắp/thay đổi. Chỉ nói 'sorry' suông đôi khi bị xem là hời hợt.",
+    "Người bản xứ nói 'sorry' rất thường xuyên cho cả những việc nhỏ (va nhẹ vào ai đó, hắt hơi to). Điều này thiên về phép lịch sự, không phải lúc nào cũng là nhận lỗi nghiêm trọng.",
+    "Tránh kiểu xin lỗi đổ lỗi ngược như 'I'm sorry you feel that way' (Xin lỗi vì cậu thấy như vậy) — nghe như đang trách người kia chứ không nhận lỗi về mình.",
+    "Giữa bạn bè thân, ngôn ngữ cơ thể (ánh mắt chân thành, giọng nhẹ nhàng) quan trọng không kém lời nói khi xin lỗi."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai sau 'sorry for': phải là danh từ hoặc V-ing — 'sorry for being late', KHÔNG phải 'sorry for be late' hay 'sorry to being late'.",
+    "Nhầm danh từ 'apology' với động từ 'apologize'. Nói 'I want to apology' là sai; phải là 'I want to apologize' hoặc 'I owe you an apology'.",
+    "Quên giới từ: 'apologize TO somebody FOR something' và 'forgive somebody FOR something'. Người Việt hay bỏ mất 'for'.",
+    "Lạm dụng biện minh ('but I was busy, but my phone died...') mà quên nhận lỗi. Hãy nhận lỗi trước, giải thích sau và ngắn gọn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tình huống xin lỗi bạn như thật.",
+    "prompt": "Hãy đóng vai một người bạn thân nói tiếng Anh đang hơi giận tôi vì tôi đã làm một điều khiến bạn ấy buồn (ví dụ: quên hẹn, đi trễ, lỡ lời). Hãy bắt đầu bằng việc thể hiện rằng bạn ấy đang buồn. Tôi sẽ xin lỗi. Sau mỗi câu của tôi, hãy: (1) phản hồi tự nhiên đúng cảm xúc của một người bạn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi xin lỗi đầy đủ: nhận lỗi, đề nghị bù đắp ('make it up to you') và hứa thay đổi. Hãy dùng câu ở mức độ B1, nói tự nhiên nhưng đừng quá khó. Cuối buổi, hãy nhận xét lời xin lỗi của tôi có chân thành và đầy đủ không. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai khó tính hơn, chưa tha thứ ngay, để tôi tập kiên nhẫn xin lỗi nhiều lần.'",
+      "Thêm câu: 'Lần này hãy để tôi là người chấp nhận lời xin lỗi của bạn, để tôi tập cách tha thứ rộng lượng.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở lời xin lỗi và thừa nhận lỗi cụ thể của mình mà không cần nhìn gợi ý.",
+    "Tôi đề nghị bù đắp được bằng mẫu 'Let me make it up to you by...' và hứa thay đổi.",
+    "Tôi chấp nhận được lời xin lỗi của bạn một cách rộng lượng bằng 'Don't worry about it' hoặc 'It's okay'."
+  ]
+}

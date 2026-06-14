@@ -1,0 +1,347 @@
+{
+  "id": "talking-about-pets",
+  "category": "family",
+  "title": "Nói về thú cưng",
+  "titleEn": "Talking About Pets",
+  "level": "A2",
+  "functions": ["describing", "small-talk", "opinions"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Giới thiệu thú cưng của mình (loại con vật, tên, tuổi) bằng câu đơn giản",
+    "Mô tả ngoại hình và tính cách của thú cưng bằng tính từ cơ bản",
+    "Kể những việc hằng ngày bạn làm để chăm sóc thú cưng",
+    "Hỏi và trả lời về thú cưng của người khác trong trò chuyện xã giao",
+    "Bày tỏ cảm xúc, sở thích đơn giản (I love, I think) về thú cưng"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "pet",
+      "ipa": "/pet/",
+      "vi": "thú cưng (danh từ)",
+      "register": "neutral",
+      "example": "I have a pet at home.",
+      "exampleVi": "Tôi có một con thú cưng ở nhà.",
+      "note": "Danh từ. Là con vật được nuôi trong nhà để làm bạn, không phải để lấy thịt hay làm việc.",
+      "synonyms": [
+        { "term": "animal companion", "ipa": "/ˈæn.ɪ.məl kəmˈpæn.jən/", "register": "formal", "nuanceVi": "Trang trọng và tình cảm hơn, nhấn ý 'người bạn đồng hành'. Thường gặp trong văn viết hoặc khi nói về vai trò bầu bạn của con vật." }
+      ]
+    },
+    {
+      "term": "puppy",
+      "ipa": "/ˈpʌp.i/",
+      "vi": "chó con (danh từ)",
+      "register": "neutral",
+      "example": "My puppy is only three months old.",
+      "exampleVi": "Chó con của tôi mới ba tháng tuổi.",
+      "note": "Danh từ chỉ chó con. Mèo con là 'kitten'. Chó trưởng thành là 'dog'.",
+      "synonyms": [
+        { "term": "pup", "ipa": "/pʌp/", "register": "casual", "nuanceVi": "Dạng nói tắt, thân mật của 'puppy'. Nghe dễ thương, dùng khi trò chuyện đời thường." }
+      ]
+    },
+    {
+      "term": "to feed",
+      "ipa": "/fiːd/",
+      "vi": "cho ăn (động từ)",
+      "register": "neutral",
+      "example": "I feed my cat twice a day.",
+      "exampleVi": "Tôi cho mèo ăn hai lần một ngày.",
+      "note": "Động từ bất quy tắc: feed - fed - fed. Đi với tân ngữ là con vật: 'feed the dog'.",
+      "synonyms": [
+        { "term": "to give food to", "ipa": "/ɡɪv fuːd tuː/", "register": "casual", "nuanceVi": "Cách nói vòng, dài hơn nhưng dễ hiểu cho người mới: 'I give food to my dog.' Nghĩa giống 'feed' nhưng đời thường, ít gọn gàng hơn." }
+      ]
+    },
+    {
+      "term": "to take care of",
+      "ipa": "/teɪk keər ɒv/",
+      "vi": "chăm sóc (cụm động từ)",
+      "register": "neutral",
+      "example": "I take care of my dog every day.",
+      "exampleVi": "Tôi chăm sóc con chó của mình mỗi ngày.",
+      "note": "Cụm động từ, luôn đi với 'of' + tân ngữ. Nghĩa rộng: cho ăn, tắm rửa, chơi cùng...",
+      "synonyms": [
+        { "term": "to look after", "ipa": "/lʊk ˈɑːf.tər/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'take care of'. Người Anh (Anh-Anh) dùng 'look after' nhiều hơn; cả hai đều rất thông dụng." }
+      ]
+    },
+    {
+      "term": "cute",
+      "ipa": "/kjuːt/",
+      "vi": "dễ thương, đáng yêu (tính từ)",
+      "register": "casual",
+      "example": "Your kitten is so cute!",
+      "exampleVi": "Mèo con của bạn dễ thương quá!",
+      "note": "Tính từ rất thông dụng khi khen thú cưng. Đời thường, thân mật.",
+      "synonyms": [
+        { "term": "adorable", "ipa": "/əˈdɔːr.ə.bəl/", "register": "neutral", "nuanceVi": "Mạnh hơn 'cute', nghĩa 'đáng yêu đến mức khiến người ta yêu ngay'. Nghe ấm áp, dùng khi muốn khen tha thiết hơn." },
+        { "term": "lovely", "ipa": "/ˈlʌv.li/", "register": "neutral", "nuanceVi": "Nghĩa 'đáng yêu, dễ mến', rộng hơn cute (có thể khen người, vật, cảnh). Lịch sự, dùng được trong nhiều ngữ cảnh." }
+      ]
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện (tính từ)",
+      "register": "neutral",
+      "example": "My dog is very friendly with children.",
+      "exampleVi": "Con chó của tôi rất thân thiện với trẻ con.",
+      "note": "Tính từ, dù kết thúc bằng '-ly' nhưng KHÔNG phải trạng từ. Dùng để mô tả tính cách thú cưng/người.",
+      "synonyms": [
+        { "term": "gentle", "ipa": "/ˈdʒen.təl/", "register": "neutral", "nuanceVi": "Nhấn vào 'dịu dàng, nhẹ nhàng, không hung dữ'. Khác friendly (cởi mở, dễ gần) ở chỗ nói về cách cư xử êm ái." },
+        { "term": "sociable", "ipa": "/ˈsəʊ.ʃə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'thích giao tiếp, hòa đồng'. Hợp khi mô tả con vật thích ở gần người và con vật khác." }
+      ]
+    },
+    {
+      "term": "playful",
+      "ipa": "/ˈpleɪ.fəl/",
+      "vi": "hiếu động, thích chơi đùa (tính từ)",
+      "register": "neutral",
+      "example": "Kittens are usually very playful.",
+      "exampleVi": "Mèo con thường rất thích chơi đùa.",
+      "note": "Tính từ. Mô tả con vật năng động, hay nô đùa. Hợp với chó con, mèo con.",
+      "synonyms": [
+        { "term": "energetic", "ipa": "/ˌen.əˈdʒet.ɪk/", "register": "neutral", "nuanceVi": "Nhấn vào 'tràn đầy năng lượng, chạy nhảy nhiều'. Gần nghĩa nhưng thiên về thể lực hơn là sự tinh nghịch." },
+        { "term": "lively", "ipa": "/ˈlaɪv.li/", "register": "neutral", "nuanceVi": "Nghĩa 'sống động, hoạt bát'. Nhẹ nhàng hơn energetic, dùng cho cả con vật và bầu không khí." }
+      ]
+    },
+    {
+      "term": "loyal",
+      "ipa": "/ˈlɔɪ.əl/",
+      "vi": "trung thành (tính từ)",
+      "register": "neutral",
+      "example": "Dogs are known for being loyal.",
+      "exampleVi": "Chó nổi tiếng là loài trung thành.",
+      "note": "Tính từ. Phẩm chất thường được khen ở loài chó: gắn bó, không phản bội chủ.",
+      "synonyms": [
+        { "term": "faithful", "ipa": "/ˈfeɪθ.fəl/", "register": "neutral", "nuanceVi": "Gần nghĩa 'trung thành, chung thủy'. Hơi cổ điển/tình cảm hơn 'loyal', hay gặp trong câu chuyện cảm động về chó." }
+      ]
+    },
+    {
+      "term": "calmly",
+      "ipa": "/ˈkɑːm.li/",
+      "vi": "một cách bình tĩnh, điềm tĩnh (trạng từ)",
+      "register": "neutral",
+      "example": "My cat sat calmly on the sofa.",
+      "exampleVi": "Con mèo của tôi ngồi điềm tĩnh trên ghế sofa.",
+      "note": "Trạng từ (tính từ là 'calm'). Lưu ý chữ 'l' trong 'calm' thường không đọc rõ: /kɑːm/.",
+      "synonyms": [
+        { "term": "quietly", "ipa": "/ˈkwaɪ.ət.li/", "register": "neutral", "nuanceVi": "Nhấn vào 'không gây tiếng ồn'. Khác calmly (không bồn chồn, lo lắng) ở chỗ quietly nói về âm thanh, calmly nói về trạng thái tâm lý." },
+        { "term": "peacefully", "ipa": "/ˈpiːs.fəl.i/", "register": "neutral", "nuanceVi": "Nghĩa 'một cách yên bình, thư thái'. Hay dùng khi con vật đang ngủ hoặc nghỉ ngơi thoải mái." }
+      ]
+    },
+    {
+      "term": "to walk the dog",
+      "ipa": "/wɔːk ðə dɒɡ/",
+      "vi": "dắt chó đi dạo (cụm động từ)",
+      "register": "neutral",
+      "example": "I walk the dog in the park every morning.",
+      "exampleVi": "Tôi dắt chó đi dạo ở công viên mỗi sáng.",
+      "note": "Cụm cố định. 'walk' ở đây là ngoại động từ (dắt ai/con gì đi). Một việc chăm sóc chó hằng ngày."
+    },
+    {
+      "term": "owner",
+      "ipa": "/ˈəʊ.nər/",
+      "vi": "chủ (người nuôi) (danh từ)",
+      "register": "neutral",
+      "example": "A good owner takes care of their pet every day.",
+      "exampleVi": "Một người chủ tốt chăm sóc thú cưng mỗi ngày.",
+      "note": "Danh từ. 'pet owner' = người nuôi thú cưng. Động từ là 'to own' (sở hữu)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I have a [con vật], and its name is [tên].",
+      "use": "Giới thiệu thú cưng của bạn và cho biết tên của nó.",
+      "register": "neutral",
+      "examples": [
+        "I have a dog, and its name is Lucky.",
+        "I have a cat, and its name is Mimi."
+      ],
+      "explanationVi": "Dùng 'its' (sở hữu của con vật) chứ không phải 'it's' (= it is). Đây là câu mở đầu chuẩn nhất khi giới thiệu thú cưng.",
+      "altOf": "introducing-pet"
+    },
+    {
+      "pattern": "My [con vật] is called [tên].",
+      "use": "Một cách khác để cho biết tên thú cưng.",
+      "register": "neutral",
+      "examples": [
+        "My dog is called Lucky.",
+        "My rabbit is called Snow."
+      ],
+      "explanationVi": "'is called' = 'được gọi là'. Cách nói tự nhiên, gọn hơn 'its name is'. Cùng chức năng giới thiệu tên với mẫu trên.",
+      "altOf": "introducing-pet"
+    },
+    {
+      "pattern": "My [con vật] is [tính từ] and [tính từ].",
+      "use": "Mô tả tính cách hoặc ngoại hình thú cưng bằng các tính từ.",
+      "register": "neutral",
+      "examples": [
+        "My dog is friendly and playful.",
+        "My cat is small and very cute."
+      ],
+      "explanationVi": "Nối hai tính từ bằng 'and'. Có thể thêm 'very' để nhấn mạnh. Đây là mẫu cốt lõi để mô tả thú cưng ở cấp A2."
+    },
+    {
+      "pattern": "Every day, I [động từ] my [con vật].",
+      "use": "Kể việc bạn làm thường xuyên để chăm sóc thú cưng (thì hiện tại đơn).",
+      "register": "neutral",
+      "examples": [
+        "Every day, I feed my cat.",
+        "Every morning, I walk my dog."
+      ],
+      "explanationVi": "Dùng thì hiện tại đơn cho thói quen. Trạng từ chỉ tần suất như 'every day', 'twice a day' giúp câu rõ nghĩa hơn."
+    },
+    {
+      "pattern": "Do you have a [con vật]?",
+      "use": "Hỏi người khác xem họ có nuôi thú cưng không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have a pet?",
+        "Do you have a dog at home?"
+      ],
+      "explanationVi": "Câu hỏi Yes/No với 'Do you have...?'. Rất hữu ích để bắt chuyện xã giao về thú cưng.",
+      "altOf": "asking-about-pet"
+    },
+    {
+      "pattern": "What kind of [con vật] do you have?",
+      "use": "Hỏi cụ thể về loại/giống thú cưng của người khác.",
+      "register": "neutral",
+      "examples": [
+        "What kind of dog do you have?",
+        "What kind of pet do you have?"
+      ],
+      "explanationVi": "'What kind of...?' = 'loại nào, giống gì'. Hỏi chi tiết hơn sau khi biết họ có nuôi thú cưng.",
+      "altOf": "asking-about-pet"
+    },
+    {
+      "pattern": "I love my [con vật] because [mệnh đề].",
+      "use": "Bày tỏ tình cảm và nêu lý do bằng câu đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "I love my dog because he is so loyal.",
+        "I love my cat because she is very calm."
+      ],
+      "explanationVi": "'because' nối lý do, là bước đầu để nói câu dài hơn ở cấp A2. Nhớ chia động từ theo giới tính con vật (he/she) nếu bạn coi nó như thành viên gia đình."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn nói thêm hoặc đính chính nhẹ nhàng một thông tin.", "example": "Actually, I have two cats, not one." },
+    { "term": "really", "ipa": "/ˈrɪə.li/", "vi": "thật sự, rất", "when": "Khi muốn nhấn mạnh cảm xúc hoặc mức độ.", "example": "My puppy is really playful in the morning." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi trả lời khẳng định một cách tự nhiên, thân thiện.", "example": "Of course, I take care of him every day." },
+    { "term": "usually", "ipa": "/ˈjuː.ʒu.ə.li/", "vi": "thường thì", "when": "Khi nói về thói quen, việc làm thường xuyên.", "example": "I usually walk my dog after dinner." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm hoặc chuyển nhẹ chủ đề trong lúc trò chuyện.", "example": "By the way, do you have a pet too?" }
+  ],
+
+  "dialogue": {
+    "context": "Lan và Minh là hai người bạn. Họ đang trò chuyện xã giao về thú cưng mà mỗi người đang nuôi ở nhà.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "Hi Minh! I heard that you got a new pet last week. Do you have a ____ now?",
+        "ipa": "/haɪ mɪn aɪ hɜːd ðæt juː ɡɒt ə njuː pet lɑːst wiːk duː juː hæv ə ... naʊ/",
+        "vi": "Chào Minh! Mình nghe nói tuần trước cậu có thú cưng mới. Giờ cậu có một con ____ à?",
+        "blanks": [
+          { "type": "personal", "hint": "Loại thú cưng. Ví dụ: 'dog', 'cat', 'rabbit'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Yes, I do! I have a puppy now, and its name ____ Lucky. He is only two months old, but he is already very playful.",
+        "ipa": "/jes aɪ duː aɪ hæv ə ˈpʌp.i naʊ ænd ɪts neɪm ... ˈlʌk.i hiː ɪz ˈəʊn.li tuː mʌnθs əʊld bʌt hiː ɪz ɔːlˈred.i ˈver.i ˈpleɪ.fəl/",
+        "vi": "Có chứ! Giờ mình có một chú chó con, và tên của nó ____ Lucky. Nó mới hai tháng tuổi thôi, nhưng đã rất hiếu động rồi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "is", "explanationVi": "Dùng 'is' vì chủ ngữ là 'its name' (số ít). Mẫu câu: 'its name is...'. Lưu ý viết 'its' (sở hữu), không phải 'it's' (= it is)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's so cute! Although he is still small, he sounds full of energy. What does he look ____?",
+        "ipa": "/ðæts səʊ kjuːt ɔːlˈðəʊ hiː ɪz stɪl smɔːl hiː saʊndz fʊl ɒv ˈen.ə.dʒi wɒt dʌz hiː lʊk .../",
+        "vi": "Dễ thương quá! Mặc dù còn nhỏ, nghe có vẻ nó tràn đầy năng lượng. Trông nó như thế ____?",
+        "blanks": [
+          { "type": "knowledge", "answer": "like", "explanationVi": "Câu hỏi mô tả ngoại hình dùng 'What does ... look like?' (= trông như thế nào). 'like' ở đây là giới từ bắt buộc trong cụm 'look like'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "He is small and brown, with big eyes. He is not only cute ____ also very friendly. Honestly, the whole family loves him already.",
+        "ipa": "/hiː ɪz smɔːl ænd braʊn wɪð bɪɡ aɪz hiː ɪz nɒt ˈəʊn.li kjuːt ... ˈɔːl.səʊ ˈver.i ˈfrend.li ˈɒn.ɪst.li ðə həʊl ˈfæm.ɪ.li lʌvz hɪm ɔːlˈred.i/",
+        "vi": "Nó nhỏ và màu nâu, có đôi mắt to. Nó không chỉ dễ thương ____ còn rất thân thiện nữa. Thành thật mà nói, cả nhà mình đã yêu nó rồi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only ... but also ...' (không những... mà còn...) để nêu hai phẩm chất. Sau 'not only' là 'but also'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That sounds lovely. How do you take ____ of such a young puppy every day?",
+        "ipa": "/ðæt saʊndz ˈlʌv.li haʊ duː juː teɪk ... ɒv sʌtʃ ə jʌŋ ˈpʌp.i ˈev.ri deɪ/",
+        "vi": "Nghe đáng yêu thật. Cậu chăm ____ một chú chó con như vậy mỗi ngày như thế nào?",
+        "blanks": [
+          { "type": "knowledge", "answer": "care", "explanationVi": "Cụm 'take care of' = chăm sóc. 'care' là danh từ trong cụm cố định này, luôn đi với 'of'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Every morning, I feed him and walk him in the park ____ he can play. In the evening, my sister, who loves animals, plays with him too.",
+        "ipa": "/ˈev.ri ˈmɔː.nɪŋ aɪ fiːd hɪm ænd wɔːk hɪm ɪn ðə pɑːk ... hiː kæn pleɪ ɪn ðiː ˈiːv.nɪŋ maɪ ˈsɪs.tər huː lʌvz ˈæn.ɪ.məlz pleɪz wɪð hɪm tuː/",
+        "vi": "Mỗi sáng, mình cho nó ăn và dắt nó đi dạo trong công viên ____ nó có thể chơi đùa. Buổi tối, em gái mình, người rất yêu động vật, cũng chơi với nó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "so that", "explanationVi": "'so that' = để cho (chỉ mục đích) đứng trước mệnh đề 'he can play'. Lưu ý 'who loves animals' là mệnh đề quan hệ chỉ người (em gái)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "You really take good care of him. By the way, do you think dogs are more ____ than cats?",
+        "ipa": "/juː ˈrɪə.li teɪk ɡʊd keər ɒv hɪm baɪ ðə weɪ duː juː θɪŋk dɒɡz ɑː mɔː ... ðæn kæts/",
+        "vi": "Cậu chăm nó tốt thật đấy. Tiện thể, cậu có nghĩ chó ____ hơn mèo không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "loyal", "explanationVi": "So sánh hơn với tính từ dài: 'more loyal than' (trung thành hơn). 'loyal' có hai âm tiết nhưng theo quy tắc dùng 'more', không thêm '-er'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Honestly, I think both are wonderful. However, dogs are usually more loyal, while cats are calmer and quieter. Do you have a pet too, ____?",
+        "ipa": "/ˈɒn.ɪst.li aɪ θɪŋk bəʊθ ɑː ˈwʌn.də.fəl haʊˈev.ə dɒɡz ɑː ˈjuː.ʒu.ə.li mɔː ˈlɔɪ.əl waɪl kæts ɑː ˈkɑːm.ə ænd ˈkwaɪ.ə.tə duː juː hæv ə pet tuː .../",
+        "vi": "Thành thật mà nói, mình nghĩ cả hai đều tuyệt. Tuy nhiên, chó thường trung thành hơn, còn mèo thì điềm tĩnh và yên lặng hơn. Cậu cũng có nuôi thú cưng à, ____?",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của Lan hoặc một từ thân mật. Ví dụ: 'Lan' hoặc 'right'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Yes, I have a cat called Mimi. She is quiet and gentle, and she usually sleeps calmly on my bed all afternoon.",
+        "ipa": "/jes aɪ hæv ə kæt kɔːld ˈmiː.miː ʃiː ɪz ˈkwaɪ.ət ænd ˈdʒen.təl ænd ʃiː ˈjuː.ʒu.ə.li sliːps ˈkɑːm.li ɒn maɪ bed ɔːl ˌɑːf.təˈnuːn/",
+        "vi": "Có chứ, mình có một con mèo tên Mimi. Nó yên lặng và dịu dàng, và thường ngủ điềm tĩnh trên giường mình suốt buổi chiều."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, thú cưng (đặc biệt là chó và mèo) thường được coi như thành viên trong gia đình, nên người ta hay dùng 'he/she' thay vì 'it' khi nói về chúng.",
+    "Hỏi 'Do you have a pet?' là cách bắt chuyện xã giao (small talk) rất tự nhiên và an toàn với người mới quen.",
+    "Dắt chó đi dạo (walking the dog) là thói quen hằng ngày phổ biến; ở nhiều nơi có quy định phải dọn phân và giữ dây xích cho chó nơi công cộng.",
+    "Khen thú cưng của người khác ('Your dog is so cute!') được xem là lời khen thân thiện, dễ tạo thiện cảm trong trò chuyện."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'its' (sở hữu: của nó) với 'it's' (= it is). Khi nói về tên thú cưng phải viết 'Its name is Lucky.'",
+    "Coi 'friendly' là trạng từ. Dù kết thúc bằng '-ly', nó là tính từ: 'My dog is friendly', không phải 'My dog runs friendly'.",
+    "Dùng sai cụm: phải là 'take care OF my dog' và 'look like', đừng bỏ giới từ ('of', 'like').",
+    "Quên chia số ít cho con vật ở hiện tại đơn: 'My cat sleeps' (thêm -s), không phải 'My cat sleep'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói về thú cưng như đang trò chuyện với một người bạn.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện thân mật với tôi về thú cưng. Trình độ của tôi là A2 nên hãy dùng câu đơn giản, nói chậm rãi. Hãy bắt đầu bằng cách hỏi tôi có nuôi thú cưng không. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn (khen, hỏi thêm), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa đúng (ví dụ 'its/it's', thiếu giới từ 'of/like', quên chia -s), hãy sửa nhẹ nhàng và giải thích bằng tiếng Việt, (3) thỉnh thoảng hỏi một câu bất ngờ (ví dụ 'Thú cưng của bạn làm gì khi buồn?') để tôi tập trả lời. Hãy khuyến khích tôi mô tả thú cưng bằng các tính từ như cute, friendly, playful, loyal. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy khuyến khích tôi nói câu dài hơn bằng cách dùng because và and.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất bằng tiếng Việt.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi giới thiệu được thú cưng của mình (loại con vật, tên, tuổi) mà không cần nhìn gợi ý.",
+    "Tôi mô tả được thú cưng bằng ít nhất 3 tính từ (cute, friendly, playful, loyal...).",
+    "Tôi hỏi và trả lời được về thú cưng của người khác bằng 'Do you have...?' và 'What kind of...?'."
+  ]
+}

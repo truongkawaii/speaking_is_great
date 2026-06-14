@@ -1,0 +1,313 @@
+{
+  "id": "cooking-together",
+  "category": "family",
+  "title": "Cùng nấu ăn",
+  "titleEn": "Cooking Together",
+  "level": "A2",
+  "functions": ["suggesting", "requesting", "describing", "small-talk"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Rủ và phân công việc khi cùng nấu ăn trong gia đình",
+    "Hỏi và đưa ra nguyên liệu, dụng cụ bằng câu đơn giản",
+    "Đề nghị giúp đỡ và nhờ giúp một cách lịch sự",
+    "Mô tả món ăn và mùi vị bằng tính từ cơ bản"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "ingredient",
+      "ipa": "/ɪnˈɡriː.di.ənt/",
+      "vi": "nguyên liệu (danh từ)",
+      "register": "neutral",
+      "example": "We need a few more ingredients for the soup.",
+      "exampleVi": "Chúng ta cần thêm vài nguyên liệu cho món súp.",
+      "note": "Danh từ, thường dùng số nhiều khi nói về các thứ cần để nấu. Trọng âm rơi vào âm thứ hai 'gri'."
+    },
+    {
+      "term": "recipe",
+      "ipa": "/ˈres.ə.pi/",
+      "vi": "công thức nấu ăn (danh từ)",
+      "register": "neutral",
+      "example": "This is my grandmother's recipe.",
+      "exampleVi": "Đây là công thức của bà tôi.",
+      "note": "Phát âm bẫy: đọc là /ˈres.ə.pi/ (RES-uh-pee), KHÔNG đọc là 'ri-saip'."
+    },
+    {
+      "term": "to chop",
+      "ipa": "/tʃɒp/",
+      "vi": "thái, băm nhỏ (động từ)",
+      "register": "neutral",
+      "example": "Can you chop the onions for me?",
+      "exampleVi": "Bạn thái hành giúp mình được không?",
+      "note": "Động từ, nghĩa cắt thành miếng nhỏ bằng dao. Đi với rau củ, thịt.",
+      "synonyms": [
+        { "term": "to cut", "ipa": "/kʌt/", "register": "neutral", "nuanceVi": "Chung nhất, chỉ 'cắt' nói chung, không nói rõ to hay nhỏ. 'chop' nhấn 'cắt thành miếng nhỏ, nhanh tay'." },
+        { "term": "to slice", "ipa": "/slaɪs/", "register": "neutral", "nuanceVi": "Nhấn 'cắt thành lát mỏng' (slice = lát). Vd thái lát cà chua, bánh mì." },
+        { "term": "to dice", "ipa": "/daɪs/", "register": "neutral", "nuanceVi": "Nhấn 'cắt thành hạt lựu vuông nhỏ đều'. Tỉ mỉ hơn 'chop'." }
+      ]
+    },
+    {
+      "term": "to stir",
+      "ipa": "/stɜːr/",
+      "vi": "khuấy, đảo (động từ)",
+      "register": "neutral",
+      "example": "Please stir the sauce so it doesn't burn.",
+      "exampleVi": "Khuấy nước sốt đi để nó không bị cháy.",
+      "note": "Động từ, dùng thìa/đũa đảo đều thức ăn đang nấu. Gấp đôi 'r' khi thêm đuôi: stirred, stirring.",
+      "synonyms": [
+        { "term": "to mix", "ipa": "/mɪks/", "register": "neutral", "nuanceVi": "Nhấn 'trộn các thứ lại với nhau cho đều'. 'stir' thiên về 'khuấy vòng tròn', còn 'mix' là trộn chung." }
+      ]
+    },
+    {
+      "term": "tasty",
+      "ipa": "/ˈteɪ.sti/",
+      "vi": "ngon (tính từ)",
+      "register": "neutral",
+      "example": "This soup is really tasty!",
+      "exampleVi": "Món súp này ngon thật đấy!",
+      "note": "Tính từ, đời thường, khen món ăn ngon. Dùng cho thức ăn, không dùng cho người.",
+      "synonyms": [
+        { "term": "delicious", "ipa": "/dɪˈlɪʃ.əs/", "register": "neutral", "nuanceVi": "Mạnh hơn 'tasty', nghĩa 'rất ngon, tuyệt'. An toàn và lịch sự để khen." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất đời thường, dễ thương, trẻ con hay dùng. Hợp lúc nói chuyện thân mật trong nhà." }
+      ]
+    },
+    {
+      "term": "fresh",
+      "ipa": "/freʃ/",
+      "vi": "tươi (tính từ)",
+      "register": "neutral",
+      "example": "We should use fresh vegetables.",
+      "exampleVi": "Chúng ta nên dùng rau tươi.",
+      "note": "Tính từ, nghĩa 'mới, tươi mới' (rau, cá, bánh mì). Trái nghĩa: stale (cũ, hỏng)."
+    },
+    {
+      "term": "to taste",
+      "ipa": "/teɪst/",
+      "vi": "nếm thử (động từ)",
+      "register": "neutral",
+      "example": "Can you taste it and tell me if it needs more salt?",
+      "exampleVi": "Bạn nếm thử xem có cần thêm muối không?",
+      "note": "Động từ là 'nếm'; cùng từ này làm danh từ nghĩa 'vị, mùi vị'."
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "Hold the knife carefully.",
+      "exampleVi": "Cầm dao cẩn thận nhé.",
+      "note": "Trạng từ, đứng sau động từ. Hữu ích khi nhắc nhau an toàn lúc nấu ăn.",
+      "synonyms": [
+        { "term": "gently", "ipa": "/ˈdʒent.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhẹ nhàng, không mạnh tay'. Vd khuấy nhẹ (stir gently), khác 'carefully' là 'cẩn thận, tránh sai/nguy hiểm'." }
+      ]
+    },
+    {
+      "term": "almost",
+      "ipa": "/ˈɔːl.məʊst/",
+      "vi": "gần như, sắp (trạng từ)",
+      "register": "neutral",
+      "example": "Dinner is almost ready.",
+      "exampleVi": "Bữa tối sắp xong rồi.",
+      "note": "Trạng từ, đứng trước tính từ/động từ. 'almost ready' = gần xong, sắp xong."
+    },
+    {
+      "term": "to set the table",
+      "ipa": "/set ðə ˈteɪ.bəl/",
+      "vi": "dọn/bày bàn ăn (cụm động từ)",
+      "register": "neutral",
+      "example": "Can you set the table while I cook?",
+      "exampleVi": "Bạn bày bàn ăn trong khi mình nấu nhé?",
+      "note": "Cụm cố định: đặt bát đĩa, thìa đũa lên bàn trước khi ăn. Ngược lại: 'clear the table' (dọn bàn sau khi ăn)."
+    },
+    {
+      "term": "the oven",
+      "ipa": "/ðə ˈʌv.ən/",
+      "vi": "cái lò nướng (danh từ)",
+      "register": "neutral",
+      "example": "The cake is in the oven.",
+      "exampleVi": "Cái bánh đang ở trong lò.",
+      "note": "Phát âm bẫy: đọc là /ˈʌv.ən/ (UH-vuhn), KHÔNG đọc 'oh-ven'. Khác 'stove' (bếp nấu)."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Let's [động từ nguyên thể] together.",
+      "use": "Rủ người khác cùng làm gì đó.",
+      "register": "casual",
+      "examples": [
+        "Let's make dinner together.",
+        "Let's cook something nice for Mom."
+      ],
+      "explanationVi": "'Let's' = 'Let us', dùng để rủ rê. Sau 'Let's' luôn là động từ nguyên thể (không 'to'). Đây là mẫu câu rủ rê thân mật, thông dụng nhất.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Why don't we [động từ nguyên thể]?",
+      "use": "Gợi ý một việc nên làm.",
+      "register": "casual",
+      "examples": [
+        "Why don't we try a new recipe?",
+        "Why don't we add some garlic?"
+      ],
+      "explanationVi": "Tuy có chữ 'don't' nhưng đây KHÔNG phải câu phủ định mà là cách gợi ý lịch sự (= sao chúng ta không...?). Sau đó là động từ nguyên thể.",
+      "altOf": "suggesting"
+    },
+    {
+      "pattern": "Can you [động từ nguyên thể] for me?",
+      "use": "Nhờ ai đó làm giúp một việc.",
+      "register": "casual",
+      "examples": [
+        "Can you chop the onions for me?",
+        "Can you pass me the salt?"
+      ],
+      "explanationVi": "Mẫu nhờ vả đơn giản, thân mật trong gia đình. Muốn lịch sự hơn thì thay 'Can' bằng 'Could'.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Could you please [động từ nguyên thể]?",
+      "use": "Nhờ giúp một cách lịch sự hơn.",
+      "register": "neutral",
+      "examples": [
+        "Could you please stir the soup?",
+        "Could you please set the table?"
+      ],
+      "explanationVi": "'Could' lịch sự hơn 'Can', thêm 'please' càng nhã nhặn. Dùng khi muốn nhờ nhẹ nhàng, không ra lệnh.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Would you like me to [động từ nguyên thể]?",
+      "use": "Đề nghị giúp đỡ người khác.",
+      "register": "neutral",
+      "examples": [
+        "Would you like me to wash the vegetables?",
+        "Would you like me to help you cook?"
+      ],
+      "explanationVi": "Cách chủ động đề nghị giúp (= bạn có muốn tôi... không?). Nghe ân cần, lịch sự hơn 'Do you want me to...?'."
+    },
+    {
+      "pattern": "It needs more [danh từ].",
+      "use": "Nhận xét món ăn còn thiếu gì.",
+      "register": "neutral",
+      "examples": [
+        "It needs more salt.",
+        "I think it needs more water."
+      ],
+      "explanationVi": "Mẫu câu ngắn để nêu món ăn còn thiếu gia vị/nguyên liệu. 'more' + danh từ không đếm được (salt, water, sugar)."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "first", "ipa": "/fɜːst/", "vi": "đầu tiên", "when": "Khi nói bước làm đầu tiên trong lúc hướng dẫn nấu ăn.", "example": "First, we wash the rice." },
+    { "term": "then", "ipa": "/ðen/", "vi": "rồi, sau đó", "when": "Khi nối các bước nấu ăn lại với nhau.", "example": "Then we add the vegetables." },
+    { "term": "a little", "ipa": "/ə ˈlɪt.əl/", "vi": "một chút", "when": "Khi nói thêm một lượng nhỏ gia vị/nguyên liệu.", "example": "Just add a little salt." },
+    { "term": "of course", "ipa": "/əv ˈkɔːs/", "vi": "tất nhiên rồi", "when": "Khi vui vẻ đồng ý giúp đỡ.", "example": "Of course, I can do that." },
+    { "term": "be careful", "ipa": "/biː ˈkeə.fəl/", "vi": "cẩn thận nhé", "when": "Khi nhắc ai đó coi chừng (dao, lò nóng).", "example": "Be careful, the pan is hot." }
+  ],
+
+  "dialogue": {
+    "context": "Hai mẹ con (hoặc hai người trong nhà) đang cùng nhau nấu bữa tối trong bếp. Họ rủ nhau, chia việc và nếm thử món ăn.",
+    "lines": [
+      {
+        "speaker": "Mẹ",
+        "text": "Dinner is in two hours. Let's cook together, although I still need to buy a few fresh ingredients such as tomatoes and garlic.",
+        "ipa": "/ˈdɪn.ər ɪz ɪn tuː ˈaʊəz lets kʊk təˈɡeð.ər ɔːlˈðəʊ aɪ stɪl niːd tə baɪ ə fjuː freʃ ɪnˈɡriː.di.ənts sʌtʃ æz təˈmɑː.təʊz ænd ˈɡɑː.lɪk/",
+        "vi": "Còn hai tiếng nữa là tới bữa tối. Mình cùng nấu nhé, mặc dù mẹ vẫn cần mua thêm vài nguyên liệu tươi như cà chua và tỏi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____, Mom! I love cooking with you. Why don't we make the soup that Grandma taught us?",
+        "ipa": "/ɒv kɔːs mɒm aɪ lʌv ˈkʊk.ɪŋ wɪð juː waɪ dəʊnt wiː meɪk ðə suːp ðæt ˈɡrænd.mɑː tɔːt ʌs/",
+        "vi": "____ chứ, mẹ! Con thích nấu ăn với mẹ lắm. Sao mình không nấu món súp mà bà đã dạy mình nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Of course", "explanationVi": "'Of course' = tất nhiên rồi, dùng để vui vẻ đồng ý. Xem mục Trạng từ & cụm từ. Đầu câu nên viết hoa." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Good idea! First, can you chop the onions ____ me? Please hold the knife carefully because it is very sharp.",
+        "ipa": "/ɡʊd aɪˈdɪə fɜːst kæn juː tʃɒp ði ˈʌn.jənz fɔːr miː pliːz həʊld ðə naɪf ˈkeə.fəl.i bɪˈkɒz ɪt ɪz ˈver.i ʃɑːp/",
+        "vi": "Ý hay đấy! Đầu tiên, con thái hành ____ mẹ được không? Cầm dao cẩn thận nhé vì nó rất sắc đấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "for", "explanationVi": "Mẫu nhờ vả: 'Can you + động từ + FOR me?'. Giới từ 'for' nghĩa 'giúp cho mình'. Xem mẫu câu 'Can you ... for me?'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure. Would you like me to ____ the vegetables too? I can wash the tomatoes while you cook the rice.",
+        "ipa": "/ʃʊə wʊd juː laɪk miː tə wɒʃ ðə ˈvedʒ.tə.bəlz tuː aɪ kæn wɒʃ ðə təˈmɑː.təʊz waɪl juː kʊk ðə raɪs/",
+        "vi": "Được ạ. Mẹ có muốn con ____ rau luôn không? Con rửa cà chua trong khi mẹ nấu cơm nhé.",
+        "blanks": [
+          { "type": "personal", "hint": "Một việc bếp bạn có thể làm. Ví dụ: 'wash' (rửa), 'cut' (cắt)." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Yes, please! Then we can put everything in the pot. Could you please stir the soup so that it does not burn?",
+        "ipa": "/jes pliːz ðen wiː kæn pʊt ˈev.ri.θɪŋ ɪn ðə pɒt kʊd juː pliːz stɜː ðə suːp səʊ ðæt ɪt dʌz nɒt bɜːn/",
+        "vi": "Có chứ! Rồi mình cho tất cả vào nồi. Con khuấy súp giúp mẹ để nó không bị cháy được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It smells really nice! I think it is almost ready, but it ____ more salt. Can you taste it, Mom?",
+        "ipa": "/ɪt smelz ˈrɪə.li naɪs aɪ θɪŋk ɪt ɪz ˈɔːl.məʊst ˈred.i bʌt ɪt niːdz mɔː sɔːlt kæn juː teɪst ɪt mɒm/",
+        "vi": "Thơm thật đấy! Con nghĩ nó sắp xong rồi, nhưng nó ____ thêm muối. Mẹ nếm thử nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "needs", "explanationVi": "Mẫu câu 'It needs more + danh từ'. Chủ ngữ 'it' là ngôi thứ ba số ít nên động từ thêm 's': 'needs'. Xem mẫu câu 'It needs more...'." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "Mmm, you are right. Let me add a little salt and some pepper. Honestly, this is the ____ soup we have made this year!",
+        "ipa": "/məm juː ɑː raɪt let miː æd ə ˈlɪt.əl sɔːlt ænd sʌm ˈpep.ər ˈɒn.ɪst.li ðɪs ɪz ðə ˈteɪ.sti.ɪst suːp wiː hæv meɪd ðɪs jɪə/",
+        "vi": "Mmm, con nói đúng. Để mẹ thêm chút muối và ít tiêu. Thật lòng mà nói, đây là món súp ____ nhất mà mình nấu trong năm nay đấy!",
+        "blanks": [
+          { "type": "knowledge", "answer": "tastiest", "explanationVi": "So sánh nhất của 'tasty' (ngon): tính từ 2 âm tiết kết thúc bằng 'y' đổi 'y' thành 'i' rồi thêm '-est' → 'tastiest'. Đứng sau 'the'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you, Mom! While you finish the soup, ____ I set the table for everyone?",
+        "ipa": "/θæŋk juː mɒm waɪl juː ˈfɪn.ɪʃ ðə suːp ʃæl aɪ set ðə ˈteɪ.bəl fɔːr ˈev.ri.wʌn/",
+        "vi": "Cảm ơn mẹ! Trong khi mẹ nấu xong súp, ____ con bày bàn ăn cho mọi người nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "shall", "explanationVi": "'Shall I...?' là cách lịch sự để đề nghị tự mình làm gì đó (= để con... nhé?). Rất tự nhiên khi ngỏ ý giúp." }
+        ]
+      },
+      {
+        "speaker": "Mẹ",
+        "text": "That would be wonderful. Dinner is almost ready, and I am sure everyone will love it because we made it together.",
+        "ipa": "/ðæt wʊd biː ˈwʌn.də.fəl ˈdɪn.ər ɪz ˈɔːl.məʊst ˈred.i ænd aɪ æm ʃʊə ˈev.ri.wʌn wɪl lʌv ɪt bɪˈkɒz wiː meɪd ɪt təˈɡeð.ər/",
+        "vi": "Vậy thì tuyệt quá. Bữa tối sắp xong rồi, và mẹ chắc chắn ai cũng sẽ thích vì chúng ta đã cùng nhau nấu nó."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều gia đình phương Tây, nấu ăn cùng nhau là hoạt động gắn kết: bố mẹ thường giao cho con những việc nhỏ an toàn như rửa rau, bày bàn.",
+    "Khen món ăn bằng 'It's delicious!' hay 'This is tasty!' là lời khen được mong đợi và làm người nấu vui.",
+    "Trong bếp, người ta hay nhắc nhau 'Be careful!' khi dùng dao hoặc lò nóng — đây là phép lịch sự và quan tâm."
+  ],
+
+  "commonMistakes": [
+    "Quên thêm 's' cho động từ với chủ ngữ 'it/he/she': phải nói 'It needs more salt', không phải 'It need more salt'.",
+    "Dùng 'to' sau 'Let's': sai. Đúng là 'Let's cook' (không 'Let's to cook').",
+    "Đọc sai 'recipe' thành 'ri-saip'. Đọc đúng là /ˈres.ə.pi/ (RES-uh-pee).",
+    "Nói 'I want you chop the onions' nghe cộc. Hãy dùng 'Can you chop...?' hoặc 'Could you please chop...?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống nấu ăn cùng người thân như thật.",
+    "prompt": "Hãy đóng vai người thân trong gia đình (mẹ, bố hoặc anh/chị) đang cùng tôi nấu bữa tối bằng tiếng Anh. Hãy bắt đầu bằng cách rủ tôi cùng nấu. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên, thân mật như người trong nhà, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng nhờ tôi làm một việc bếp (thái rau, khuấy súp, bày bàn) hoặc hỏi món ăn cần thêm gì để tôi tập trả lời. Dùng câu đơn giản hợp trình độ A2, nói chậm và thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hướng dẫn tôi từng bước nấu một món đơn giản và hỏi tôi sau mỗi bước.' để tập từ vựng các bước nấu.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và 3 từ vựng nấu ăn mới.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi rủ được người khác cùng nấu bằng 'Let's...' hoặc 'Why don't we...?'.",
+    "Tôi nhờ và đề nghị giúp được bằng 'Can you...?' và 'Would you like me to...?'.",
+    "Tôi nhận xét được món ăn cần thêm gì bằng 'It needs more...'."
+  ]
+}

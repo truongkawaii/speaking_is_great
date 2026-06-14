@@ -1,0 +1,334 @@
+{
+  "id": "recommending-restaurant",
+  "category": "friends",
+  "title": "Giới thiệu quán ăn",
+  "titleEn": "Recommending a Restaurant",
+  "level": "B1",
+  "functions": ["suggesting", "opinions", "describing", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Gợi ý một quán ăn cho bạn bè bằng câu tự nhiên, không cộc lốc",
+    "Mô tả món ăn, không khí và giá cả của quán",
+    "Bày tỏ quan điểm và đưa lý do vì sao bạn thích quán đó",
+    "Dùng các mẫu gợi ý lịch sự (You should try…, Why don't we…, If I were you…) khi nói",
+    "Lồng ngữ pháp B1 (such as, because, although, which) vào lời gợi ý"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "gợi ý, giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "I'd really recommend the seafood place near the river.",
+      "exampleVi": "Tôi thực sự muốn giới thiệu quán hải sản gần bờ sông.",
+      "note": "Động từ. Đi với 'recommend + danh từ' hoặc 'recommend + V-ing' (recommend trying), KHÔNG dùng 'recommend to do'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'recommend', chỉ là 'đưa ra một ý'. 'recommend' nghiêng về 'tôi tin nó tốt nên khuyên bạn dùng'." },
+        { "term": "to advise", "ipa": "/ədˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng hơn, mang sắc thái 'khuyên bảo'. Hơi nặng cho việc chọn quán ăn giữa bạn bè." }
+      ]
+    },
+    {
+      "term": "dish",
+      "ipa": "/dɪʃ/",
+      "vi": "món ăn (danh từ)",
+      "register": "neutral",
+      "example": "Their signature dish is grilled pork with rice noodles.",
+      "exampleVi": "Món đặc trưng của họ là bún thịt nướng.",
+      "note": "Danh từ chỉ một món cụ thể. Đừng nhầm 'dish' (món) với 'food' (đồ ăn nói chung) hay 'meal' (bữa ăn).",
+      "synonyms": [
+        { "term": "speciality", "ipa": "/ˌspeʃ.iˈæl.ə.ti/", "register": "neutral", "nuanceVi": "Nhấn vào 'món tủ, món nổi tiếng nhất' của quán. Anh-Mỹ hay viết 'specialty' /ˈspeʃ.əl.ti/." },
+        { "term": "course", "ipa": "/kɔːrs/", "register": "neutral", "nuanceVi": "Chỉ một 'phần' trong bữa nhiều món (món khai vị, món chính, tráng miệng), không phải một món lẻ." }
+      ]
+    },
+    {
+      "term": "atmosphere",
+      "ipa": "/ˈæt.mə.sfɪr/",
+      "vi": "không khí, bầu không khí (danh từ)",
+      "register": "neutral",
+      "example": "The atmosphere there is cosy and very relaxing.",
+      "exampleVi": "Không khí ở đó ấm cúng và rất thư giãn.",
+      "note": "Danh từ. Khi nói về quán xá, người bản xứ rất hay khen 'atmosphere'. Cách nói thân mật: 'the vibe'.",
+      "synonyms": [
+        { "term": "vibe", "ipa": "/vaɪb/", "register": "casual", "nuanceVi": "Rất đời thường, hợp khi nói với bạn bè: 'I love the vibe there'. Nghe trẻ trung hơn 'atmosphere'." },
+        { "term": "ambience", "ipa": "/ˈæm.bi.əns/", "register": "formal", "nuanceVi": "Trang trọng, hơi văn vẻ, thường dùng để khen nhà hàng sang trọng, lãng mạn." }
+      ]
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔːr.də.bəl/",
+      "vi": "giá phải chăng, hợp túi tiền (tính từ)",
+      "register": "neutral",
+      "example": "The food is delicious and surprisingly affordable.",
+      "exampleVi": "Đồ ăn ngon mà giá lại bất ngờ phải chăng.",
+      "note": "Tính từ tích cực: 'đủ rẻ để mua được'. Lịch sự hơn 'cheap' (vốn có thể ngụ ý kém chất lượng).",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'giá hợp lý, xứng đáng', thường đi với 'reasonably priced'. Trung tính, an toàn." },
+        { "term": "cheap", "ipa": "/tʃiːp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rẻ', nhưng đôi khi ngụ ý 'rẻ tiền, chất lượng kém'. Cẩn thận khi khen quán." },
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Trái nghĩa: 'hơi đắt'. Hữu ích để cảnh báo bạn 'It's a bit pricey, but worth it'." }
+      ]
+    },
+    {
+      "term": "delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "vi": "ngon (tính từ)",
+      "register": "neutral",
+      "example": "The noodles there are absolutely delicious.",
+      "exampleVi": "Món mì ở đó cực kỳ ngon.",
+      "note": "Tính từ mạnh, đã mang nghĩa 'rất ngon' nên KHÔNG nói 'very delicious'; thay vào đó dùng 'absolutely/really delicious'.",
+      "synonyms": [
+        { "term": "tasty", "ipa": "/ˈteɪ.sti/", "register": "casual", "nuanceVi": "Đời thường, nhẹ hơn 'delicious'. Khen món ăn ngon miệng hằng ngày." },
+        { "term": "mouth-watering", "ipa": "/ˈmaʊθˌwɔː.tər.ɪŋ/", "register": "neutral", "nuanceVi": "Hình tượng: 'ngon đến chảy nước miếng', nhấn vào việc nhìn/ngửi đã thèm." },
+        { "term": "yummy", "ipa": "/ˈjʌm.i/", "register": "casual", "nuanceVi": "Rất thân mật, hơi trẻ con/đáng yêu. Hợp nói với bạn thân, không hợp ngữ cảnh trang trọng." }
+      ]
+    },
+    {
+      "term": "to grab a bite",
+      "ipa": "/ɡræb ə baɪt/",
+      "vi": "ăn nhanh một chút (cụm động từ)",
+      "register": "casual",
+      "example": "Do you want to grab a bite after work?",
+      "exampleVi": "Bạn có muốn đi ăn gì đó nhanh sau giờ làm không?",
+      "note": "Cụm thân mật, nghĩa 'ăn nhẹ/ăn nhanh'. Rất tự nhiên khi rủ bạn bè đi ăn.",
+      "synonyms": [
+        { "term": "to eat out", "ipa": "/iːt aʊt/", "register": "neutral", "nuanceVi": "Nghĩa 'đi ăn ngoài (thay vì nấu ở nhà)', không nhấn vào sự nhanh gọn như 'grab a bite'." }
+      ]
+    },
+    {
+      "term": "to book a table",
+      "ipa": "/bʊk ə ˈteɪ.bəl/",
+      "vi": "đặt bàn trước (cụm động từ)",
+      "register": "neutral",
+      "example": "We should book a table because it gets busy on weekends.",
+      "exampleVi": "Chúng ta nên đặt bàn trước vì cuối tuần quán rất đông.",
+      "note": "Anh-Anh dùng 'book a table'; Anh-Mỹ hay nói 'make a reservation' hoặc 'reserve a table'.",
+      "synonyms": [
+        { "term": "to reserve a table", "ipa": "/rɪˈzɜːrv ə ˈteɪ.bəl/", "register": "neutral", "nuanceVi": "Cùng nghĩa, nghiêng Anh-Mỹ và hơi trang trọng hơn 'book'." }
+      ]
+    },
+    {
+      "term": "packed",
+      "ipa": "/pækt/",
+      "vi": "đông nghịt, chật kín (tính từ)",
+      "register": "casual",
+      "example": "The place is always packed on Friday nights.",
+      "exampleVi": "Quán lúc nào cũng đông nghịt vào tối thứ Sáu.",
+      "note": "Tính từ đời thường, nhấn 'đông đến mức chật'. Mạnh hơn 'busy' hay 'crowded'.",
+      "synonyms": [
+        { "term": "crowded", "ipa": "/ˈkraʊ.dɪd/", "register": "neutral", "nuanceVi": "Trung tính, 'đông người'. Nhẹ hơn 'packed' (vốn nhấn chật kín, hết chỗ)." },
+        { "term": "busy", "ipa": "/ˈbɪz.i/", "register": "neutral", "nuanceVi": "Nhẹ nhất, chỉ 'nhiều khách, bận rộn', chưa chắc đã chật chỗ." }
+      ]
+    },
+    {
+      "term": "to be worth",
+      "ipa": "/biː wɜːrθ/",
+      "vi": "đáng (làm gì đó) (cụm động từ)",
+      "register": "neutral",
+      "example": "It's a bit far, but the food is worth the trip.",
+      "exampleVi": "Hơi xa một chút, nhưng đồ ăn đáng để đi.",
+      "note": "Theo sau 'worth' là danh từ hoặc V-ing: 'worth trying', 'worth a visit'. KHÔNG nói 'worth to try'.",
+      "synonyms": []
+    },
+    {
+      "term": "highly",
+      "ipa": "/ˈhaɪ.li/",
+      "vi": "rất, hết sức (trạng từ)",
+      "register": "neutral",
+      "example": "I highly recommend their hotpot.",
+      "exampleVi": "Tôi rất khuyên bạn thử món lẩu của họ.",
+      "note": "Trạng từ. Cụm 'highly recommend' cực kỳ tự nhiên khi giới thiệu quán. Đừng nói 'high recommend'.",
+      "synonyms": [
+        { "term": "strongly", "ipa": "/ˈstrɒŋ.li/", "register": "neutral", "nuanceVi": "Cũng đi với 'recommend/advise', nhấn 'mạnh mẽ'. Gần nghĩa nhưng 'highly recommend' phổ biến hơn khi khen quán." },
+        { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "register": "neutral", "nuanceVi": "Nhấn sự chắc chắn: 'I'd definitely recommend it'. Làm lời gợi ý nghe quả quyết hơn." }
+      ]
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện, niềm nở (tính từ)",
+      "register": "neutral",
+      "example": "The staff are really friendly and helpful.",
+      "exampleVi": "Nhân viên rất thân thiện và nhiệt tình.",
+      "note": "Tính từ (không phải trạng từ, dù có đuôi -ly). 'staff' đi với động từ số nhiều: 'the staff ARE'.",
+      "synonyms": [
+        { "term": "welcoming", "ipa": "/ˈwel.kə.mɪŋ/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'được chào đón, dễ chịu khi bước vào'. Hợp khen cả quán lẫn con người." },
+        { "term": "attentive", "ipa": "/əˈten.tɪv/", "register": "formal", "nuanceVi": "Nhấn 'chu đáo, để ý phục vụ', dùng khen nhân viên nhà hàng tốt." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "You should try [tên quán / món], because [lý do].",
+      "use": "Gợi ý trực tiếp một quán/món kèm lý do thuyết phục.",
+      "register": "neutral",
+      "examples": [
+        "You should try that little Thai place, because their green curry is amazing.",
+        "You should try the beef noodles there, because they're famous for it."
+      ],
+      "explanationVi": "'You should + V' là cách khuyên phổ biến, nghe chân thành. Thêm 'because + lý do' giúp lời gợi ý có sức nặng thay vì nói suông.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [động từ] ... ?",
+      "use": "Rủ rê làm chung điều gì đó một cách thân thiện.",
+      "register": "casual",
+      "examples": [
+        "Why don't we grab a bite at the new ramen place?",
+        "Why don't we book a table for Saturday evening?"
+      ],
+      "explanationVi": "'Why don't we…?' (= Hay là mình…?) là lời rủ rê nhẹ nhàng, để ngỏ cho người kia đồng ý. Sau 'we' luôn là động từ nguyên thể.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "If I were you, I'd [động từ].",
+      "use": "Khuyên ai đó nên làm gì, đặt mình vào vị trí họ.",
+      "register": "neutral",
+      "examples": [
+        "If I were you, I'd go early because it gets packed.",
+        "If I were you, I'd order the seafood platter."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 (giả định): luôn dùng 'were' cho mọi ngôi, và 'I'd' = I would + V. Đây là cách khuyên rất tự nhiên, lịch sự của người bản xứ.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "It's famous for [danh từ / V-ing].",
+      "use": "Nêu điểm nổi bật khiến quán đáng đến.",
+      "register": "neutral",
+      "examples": [
+        "It's famous for its wood-fired pizza.",
+        "It's famous for serving the best dumplings in town."
+      ],
+      "explanationVi": "Luôn đi với giới từ 'for' + danh từ hoặc V-ing. Đây là câu 'chốt hạ' để thuyết phục bạn rằng quán có đặc sản đáng thử."
+    },
+    {
+      "pattern": "Although it's [nhược điểm], [ưu điểm].",
+      "use": "Thừa nhận một nhược điểm nhỏ nhưng vẫn khẳng định quán đáng đến.",
+      "register": "neutral",
+      "examples": [
+        "Although it's a bit pricey, the quality is worth it.",
+        "Although it's quite small, the food makes up for it."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). Cấu trúc này nghe khách quan, đáng tin hơn là chỉ khen một chiều."
+    },
+    {
+      "pattern": "The [danh từ] is/are not only [tính từ] but also [tính từ].",
+      "use": "Khen quán ở hai khía cạnh cùng lúc.",
+      "register": "neutral",
+      "examples": [
+        "The food is not only delicious but also affordable.",
+        "The staff are not only friendly but also very quick."
+      ],
+      "explanationVi": "'not only … but also …' nối hai ý khen song song, làm lời giới thiệu giàu sức thuyết phục. Hai vế phải cùng từ loại (ở đây là tính từ)."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Khi muốn nhấn rằng lời khen/gợi ý là chân thành, không khách sáo.", "example": "Honestly, it's the best pho I've ever had." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đưa thông tin hơi bất ngờ hoặc đính chính nhẹ nhàng.", "example": "Actually, it's cheaper than it looks." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khi khẳng định mạnh mẽ rằng nên thử.", "example": "You should definitely try their dessert." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn thêm một gợi ý ngoài lề hoặc đổi nhẹ chủ đề.", "example": "By the way, they do takeaway as well." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Dẫn vào một ý kiến thẳng thắn, kể cả khi hơi tế nhị.", "example": "To be honest, the dessert there is a bit overrated." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Mai và Tom, đang bàn nhau tối nay đi ăn ở đâu. Mai gợi ý cho Tom một quán mà cô ấy rất thích.",
+    "lines": [
+      {
+        "speaker": "Tom",
+        "text": "Hey Mai, I'm starving. Do you know anywhere nice we could grab a bite tonight?",
+        "ipa": "/heɪ maɪ aɪm ˈstɑːr.vɪŋ duː juː nəʊ ˈen.i.weər naɪs wiː kʊd ɡræb ə baɪt təˈnaɪt/",
+        "vi": "Này Mai, tớ đói lả rồi. Cậu có biết chỗ nào ngon mà tối nay bọn mình có thể ghé ăn không?"
+      },
+      {
+        "speaker": "Mai",
+        "text": "Actually, I know a great little place called ____. You should try it, because it's famous for its grilled fish, which is honestly the best I've ever had.",
+        "ipa": "/ˈæk.tʃu.ə.li aɪ nəʊ ə ɡreɪt ˈlɪt.əl pleɪs kɔːld juː ʃʊd traɪ ɪt bɪˈkɒz ɪts ˈfeɪ.məs fɔːr ɪts ɡrɪld fɪʃ wɪtʃ ˈɒn.ɪst.li ɪz ðə best aɪv ˈev.ər hæd/",
+        "vi": "Thật ra tớ biết một quán nhỏ tuyệt lắm tên là ____. Cậu nên thử đi, vì quán nổi tiếng với món cá nướng, mà thật lòng đó là món cá ngon nhất tớ từng ăn.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên một quán ăn bạn thích. Ví dụ: 'The Riverside', 'Quán Ngon'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "That sounds amazing. What's the atmosphere like? I'm not really in the mood for somewhere too noisy tonight.",
+        "ipa": "/ðæt saʊndz əˈmeɪ.zɪŋ wɒts ðə ˈæt.mə.sfɪr laɪk aɪm nɒt ˈrɪə.li ɪn ðə muːd fɔːr ˈsʌm.weər tuː ˈnɔɪ.zi təˈnaɪt/",
+        "vi": "Nghe tuyệt đấy. Không khí ở đó thế nào? Tối nay tớ không thực sự muốn đến chỗ nào quá ồn ào."
+      },
+      {
+        "speaker": "Mai",
+        "text": "Don't worry, the atmosphere is really cosy and relaxing. The food is not only delicious ____ also surprisingly affordable, so it's perfect for a casual dinner.",
+        "ipa": "/dəʊnt ˈwʌr.i ðə ˈæt.mə.sfɪr ɪz ˈrɪə.li ˈkəʊ.zi ænd rɪˈlæk.sɪŋ ðə fuːd ɪz nɒt ˈəʊn.li dɪˈlɪʃ.əs ˈɔːl.səʊ səˈpraɪ.zɪŋ.li əˈfɔːr.də.bəl səʊ ɪts ˈpɜː.fɪkt fɔːr ə ˈkæʒ.u.əl ˈdɪn.ər/",
+        "vi": "Đừng lo, không khí rất ấm cúng và thư giãn. Đồ ăn không những ngon ____ còn rẻ một cách bất ngờ, nên rất hợp cho một bữa tối thoải mái.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Cấu trúc 'not only … but also …' nối hai lời khen song song. Sau 'not only' là 'but also'. Xem mẫu câu 'not only … but also …' ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Perfect. Although I usually find seafood places a bit expensive, I'm definitely willing to give this one a try. Do you think we need to book a table?",
+        "ipa": "/ˈpɜː.fɪkt ɔːlˈðəʊ aɪ ˈjuː.ʒu.ə.li faɪnd ˈsiː.fuːd ˈpleɪ.sɪz ə bɪt ɪkˈspen.sɪv aɪm ˈdef.ɪn.ət.li ˈwɪl.ɪŋ tə ɡɪv ðɪs wʌn ə traɪ duː juː θɪŋk wiː niːd tə bʊk ə ˈteɪ.bəl/",
+        "vi": "Tuyệt. Mặc dù tớ thường thấy mấy quán hải sản hơi đắt, tớ chắc chắn sẵn lòng thử quán này. Cậu nghĩ bọn mình có cần đặt bàn không?"
+      },
+      {
+        "speaker": "Mai",
+        "text": "Yes, I'd say so. It gets really ____ at weekends, so if I were you, I'd book a table in advance to avoid waiting in a long queue.",
+        "ipa": "/jes aɪd seɪ səʊ ɪt ɡets ˈrɪə.li ət ˈwiːk.endz səʊ ɪf aɪ wɜː juː aɪd bʊk ə ˈteɪ.bəl ɪn ədˈvɑːns tə əˈvɔɪd ˈweɪ.tɪŋ ɪn ə lɒŋ kjuː/",
+        "vi": "Ừ, tớ nghĩ vậy. Cuối tuần quán đông ____ lắm, nên nếu tớ là cậu, tớ sẽ đặt bàn trước để khỏi phải xếp hàng chờ lâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "packed", "explanationVi": "'packed' = đông nghịt, chật kín (mạnh hơn 'busy'/'crowded'). Hợp để cảnh báo bạn nên đặt bàn trước. Xem từ vựng 'packed'." }
+        ]
+      },
+      {
+        "speaker": "Tom",
+        "text": "Good idea. I'll call them right now to reserve a table for two. By the way, is there anything in particular you'd recommend ____ their grilled fish?",
+        "ipa": "/ɡʊd aɪˈdɪə aɪl kɔːl ðem raɪt naʊ tə rɪˈzɜːrv ə ˈteɪ.bəl fɔːr tuː baɪ ðə weɪ ɪz ðeər ˈen.i.θɪŋ ɪn pəˈtɪk.jə.lər juːd ˌrek.əˈmend bɪˈsaɪdz ðeər ɡrɪld fɪʃ/",
+        "vi": "Ý hay đấy. Tớ gọi đặt bàn cho hai người ngay đây. À tiện thể, có món nào cụ thể cậu muốn gợi ý ____ món cá nướng của họ không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "besides", "explanationVi": "'besides' = ngoài ra, bên cạnh (= apart from), dùng để hỏi thêm món khác ngoài món cá. Không nhầm với 'beside' (= bên cạnh, về vị trí)." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "Definitely the mango sticky rice for dessert. The staff are really friendly too, so they'll happily help you choose if you're not sure.",
+        "ipa": "/ˈdef.ɪn.ət.li ðə ˈmæŋ.ɡəʊ ˈstɪk.i raɪs fɔːr dɪˈzɜːt ðə stɑːf ɑː ˈrɪə.li ˈfrend.li tuː səʊ ðeɪl ˈhæp.ɪ.li help juː tʃuːz ɪf jɔː nɒt ʃʊə/",
+        "vi": "Chắc chắn là món xôi xoài cho tráng miệng rồi. Nhân viên ở đó cũng rất thân thiện, nên họ sẽ vui vẻ giúp cậu chọn nếu cậu chưa chắc."
+      },
+      {
+        "speaker": "Tom",
+        "text": "Brilliant. Thanks so much for the recommendation, Mai. I can't wait to try it tonight!",
+        "ipa": "/ˈbrɪl.jənt θæŋks səʊ mʌtʃ fɔːr ðə ˌrek.əˌmenˈdeɪ.ʃən maɪ aɪ kɑːnt weɪt tə traɪ ɪt təˈnaɪt/",
+        "vi": "Tuyệt vời. Cảm ơn cậu nhiều vì lời gợi ý nhé, Mai. Tớ nóng lòng muốn thử tối nay luôn rồi!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Khi giới thiệu quán, người bản xứ thường khen cụ thể (món tủ, không khí, giá cả) chứ ít nói chung chung 'it's good'. Càng cụ thể càng đáng tin.",
+    "Cụm 'highly recommend' rất hay dùng trong cả nói chuyện lẫn viết review trên Google/TripAdvisor. Học thuộc nó rất tiện.",
+    "Ở phương Tây, tip khoảng 10-20% hóa đơn là thông lệ ở nhà hàng có phục vụ tại bàn (nhất là ở Mỹ); nhiều nước châu Á thì không bắt buộc.",
+    "Cuối tuần các quán nổi tiếng thường rất đông, nên 'book a table' / 'make a reservation' trước là điều bình thường và nên làm."
+  ],
+
+  "commonMistakes": [
+    "Sai cấu trúc 'recommend': nói 'recommend to try' là sai. Đúng là 'recommend trying' (recommend + V-ing) hoặc 'recommend + danh từ'.",
+    "Nói 'very delicious'. 'delicious' đã là 'rất ngon' nên dùng 'absolutely/really delicious', không thêm 'very'.",
+    "Quên 'worth' đi với danh từ/V-ing: phải nói 'worth trying', không phải 'worth to try'.",
+    "Coi 'staff' là số ít: phải nói 'the staff ARE friendly' (số nhiều), không phải 'the staff is'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống giới thiệu quán ăn như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang hỏi tôi gợi ý chỗ ăn tối nay. Hãy bắt đầu bằng cách hỏi tôi có biết quán nào ngon không. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn thật (hỏi thêm về món ăn, không khí, giá cả, có cần đặt bàn không), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'because', 'such as', 'although', 'not only… but also' và các mẫu gợi ý như 'You should try…', 'If I were you, I'd…'. Cuối buổi, hãy chấm điểm phần gợi ý của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy giả vờ chưa bị thuyết phục để tôi phải đưa thêm lý do.' để luyện kỹ năng thuyết phục.",
+      "Thêm câu: 'Hãy đổi vai để tôi tập từ chối lịch sự một quán bạn gợi ý và đề xuất quán khác.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi gợi ý được một quán ăn kèm lý do cụ thể mà không nhìn gợi ý.",
+    "Tôi mô tả được món ăn, không khí và giá cả của quán bằng câu có mệnh đề phụ.",
+    "Tôi dùng được ít nhất hai mẫu gợi ý (You should…, Why don't we…, If I were you…)."
+  ]
+}

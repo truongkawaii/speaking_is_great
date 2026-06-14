@@ -1,0 +1,334 @@
+{
+  "id": "opening-account",
+  "category": "services",
+  "title": "Mở tài khoản",
+  "titleEn": "Opening an Account",
+  "level": "B1",
+  "functions": ["asking-info", "requesting", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Nói rõ bạn muốn mở loại tài khoản nào tại ngân hàng",
+    "Hỏi thông tin về phí, lãi suất và giấy tờ cần thiết",
+    "Đưa ra yêu cầu lịch sự (đăng ký mobile banking, lấy thẻ ATM)",
+    "Xử lý tình huống khi thiếu giấy tờ hoặc chưa rõ thủ tục"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "account",
+      "ipa": "/əˈkaʊnt/",
+      "vi": "tài khoản (danh từ)",
+      "register": "neutral",
+      "example": "I'd like to open a savings account, please.",
+      "exampleVi": "Tôi muốn mở một tài khoản tiết kiệm.",
+      "note": "Danh từ. Hai loại phổ biến: 'current/checking account' (tài khoản thanh toán) và 'savings account' (tài khoản tiết kiệm). Động từ đi kèm: 'open / close an account'.",
+      "synonyms": []
+    },
+    {
+      "term": "to open",
+      "ipa": "/ˈəʊ.pən/",
+      "vi": "mở (tài khoản) (động từ)",
+      "register": "neutral",
+      "example": "Can I open an account online or do I need to come in?",
+      "exampleVi": "Tôi mở tài khoản online được không hay phải đến trực tiếp?",
+      "note": "Động từ. Trái nghĩa là 'to close an account' (đóng tài khoản).",
+      "synonyms": [
+        { "term": "to set up", "ipa": "/tə set ʌp/", "register": "neutral", "nuanceVi": "Cụm động từ đời thường, nghĩa 'tạo/thiết lập'. Tự nhiên khi nói: 'I want to set up a new account.'" }
+      ]
+    },
+    {
+      "term": "deposit",
+      "ipa": "/dɪˈpɒz.ɪt/",
+      "vi": "khoản tiền gửi vào / việc nộp tiền (danh từ)",
+      "register": "neutral",
+      "example": "The minimum deposit to open this account is 500,000 dong.",
+      "exampleVi": "Số tiền gửi tối thiểu để mở tài khoản này là 500.000 đồng.",
+      "note": "Vừa là danh từ vừa là động từ ('to deposit money' = nộp tiền vào). Trái nghĩa khi rút ra là 'to withdraw'.",
+      "synonyms": [
+        { "term": "to pay in", "ipa": "/tə peɪ ɪn/", "register": "casual", "nuanceVi": "Cụm động từ Anh-Anh, đời thường, nghĩa 'nộp tiền vào tài khoản'. Nhẹ nhàng hơn 'deposit' (vốn hơi chính thức)." }
+      ]
+    },
+    {
+      "term": "to withdraw",
+      "ipa": "/wɪðˈdrɔː/",
+      "vi": "rút (tiền) (động từ)",
+      "register": "neutral",
+      "example": "You can withdraw cash from any ATM with this card.",
+      "exampleVi": "Bạn có thể rút tiền mặt ở bất kỳ cây ATM nào bằng thẻ này.",
+      "note": "Động từ. Danh từ là 'withdrawal' /wɪðˈdrɔː.əl/. Trái nghĩa với 'deposit'.",
+      "synonyms": [
+        { "term": "to take out", "ipa": "/tə teɪk aʊt/", "register": "casual", "nuanceVi": "Cụm động từ đời thường: 'take out some cash'. Dễ dùng khi trò chuyện thân mật hơn là 'withdraw'." }
+      ]
+    },
+    {
+      "term": "interest rate",
+      "ipa": "/ˈɪn.trəst reɪt/",
+      "vi": "lãi suất (danh từ)",
+      "register": "neutral",
+      "example": "What is the interest rate on a savings account?",
+      "exampleVi": "Lãi suất của tài khoản tiết kiệm là bao nhiêu?",
+      "note": "Cụm danh từ. 'interest' (không 's') = tiền lãi. Đừng nhầm với 'interesting' (thú vị)."
+    },
+    {
+      "term": "fee",
+      "ipa": "/fiː/",
+      "vi": "phí (danh từ)",
+      "register": "neutral",
+      "example": "Is there a monthly fee for this account?",
+      "exampleVi": "Tài khoản này có phí hàng tháng không?",
+      "note": "Danh từ. 'fee' là phí dịch vụ. Khác 'fine' /faɪn/ là tiền phạt.",
+      "synonyms": [
+        { "term": "charge", "ipa": "/tʃɑːdʒ/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhấn vào 'khoản bị tính tiền cho một dịch vụ cụ thể', vd 'a transaction charge'. Dùng thay 'fee' phần lớn được." },
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Rộng và chung hơn, nghĩa 'chi phí' nói chung; không cụ thể như 'fee' (phí dịch vụ có tên rõ ràng)." }
+      ]
+    },
+    {
+      "term": "identification",
+      "ipa": "/aɪˌden.tɪ.fɪˈkeɪ.ʃən/",
+      "vi": "giấy tờ tùy thân (danh từ)",
+      "register": "formal",
+      "example": "Please bring some form of identification, such as a passport.",
+      "exampleVi": "Vui lòng mang theo giấy tờ tùy thân, chẳng hạn như hộ chiếu.",
+      "note": "Danh từ, trang trọng. Viết tắt rất hay dùng là 'ID' /ˌaɪˈdiː/.",
+      "synonyms": [
+        { "term": "ID", "ipa": "/ˌaɪˈdiː/", "register": "neutral", "nuanceVi": "Dạng viết tắt, đời thường và phổ biến nhất khi nói: 'Can I see your ID?'" },
+        { "term": "proof of identity", "ipa": "/pruːf əv aɪˈden.tɪ.ti/", "register": "formal", "nuanceVi": "Trang trọng, hay xuất hiện trên biểu mẫu/thông báo của ngân hàng, nhấn ý 'bằng chứng chứng minh danh tính'." }
+      ]
+    },
+    {
+      "term": "to fill in",
+      "ipa": "/tə fɪl ɪn/",
+      "vi": "điền (vào mẫu đơn) (động từ)",
+      "register": "neutral",
+      "example": "Could you fill in this form, please?",
+      "exampleVi": "Phiền bạn điền vào mẫu này nhé?",
+      "note": "Cụm động từ. 'fill in' (Anh-Anh) và 'fill out' (Anh-Mỹ) đều nghĩa là điền giấy tờ, dùng thay nhau được.",
+      "synonyms": [
+        { "term": "to fill out", "ipa": "/tə fɪl aʊt/", "register": "neutral", "nuanceVi": "Cùng nghĩa với 'fill in'; người Mỹ nghiêng về 'fill out', người Anh nghiêng về 'fill in'. Chọn cái nào cũng được." },
+        { "term": "to complete", "ipa": "/tə kəmˈpliːt/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay thấy trong văn bản: 'Please complete the form.' Nghe lịch sự, chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "balance",
+      "ipa": "/ˈbæl.əns/",
+      "vi": "số dư (trong tài khoản) (danh từ)",
+      "register": "neutral",
+      "example": "You can check your balance using the mobile app.",
+      "exampleVi": "Bạn có thể kiểm tra số dư bằng ứng dụng trên điện thoại.",
+      "note": "Danh từ. 'account balance' = số tiền hiện có trong tài khoản. Đừng nhầm với nghĩa 'sự cân bằng'."
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "tiện lợi (tính từ)",
+      "register": "neutral",
+      "example": "Online banking is very convenient because you can pay bills anytime.",
+      "exampleVi": "Ngân hàng trực tuyến rất tiện vì bạn có thể thanh toán hóa đơn bất cứ lúc nào.",
+      "note": "Tính từ. Trạng từ là 'conveniently'. Trái nghĩa: 'inconvenient'.",
+      "synonyms": [
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện, dùng được ngay'. Hợp lúc nói chuyện thân mật: 'The app is really handy.'" },
+        { "term": "practical", "ipa": "/ˈpræk.tɪ.kəl/", "register": "neutral", "nuanceVi": "Nhấn 'thiết thực, hữu ích trong thực tế', hơi khác 'convenient' (nhấn vào sự dễ dàng, đỡ tốn công)." }
+      ]
+    },
+    {
+      "term": "securely",
+      "ipa": "/sɪˈkjʊə.li/",
+      "vi": "một cách an toàn / bảo mật (trạng từ)",
+      "register": "neutral",
+      "example": "Your money is stored securely with the bank.",
+      "exampleVi": "Tiền của bạn được cất giữ an toàn tại ngân hàng.",
+      "note": "Trạng từ. Tính từ là 'secure'. Liên quan: 'security' (an ninh, bảo mật).",
+      "synonyms": [
+        { "term": "safely", "ipa": "/ˈseɪf.li/", "register": "neutral", "nuanceVi": "Phổ biến, đời thường hơn, nghĩa 'an toàn không bị hư hại/mất mát'. 'securely' nhấn thêm sắc thái 'được bảo vệ, khóa kỹ'." }
+      ]
+    },
+    {
+      "term": "to activate",
+      "ipa": "/ˈæk.tɪ.veɪt/",
+      "vi": "kích hoạt (động từ)",
+      "register": "neutral",
+      "example": "You'll need to activate your card before you can use it.",
+      "exampleVi": "Bạn cần kích hoạt thẻ trước khi dùng được.",
+      "note": "Động từ. Hay dùng cho thẻ, dịch vụ, tài khoản. Trái nghĩa: 'to deactivate'.",
+      "synonyms": [
+        { "term": "to enable", "ipa": "/tə ɪˈneɪ.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'bật/cho phép một tính năng hoạt động', vd 'enable notifications'. 'activate' thiên về 'làm cho bắt đầu sử dụng được' (thẻ, dịch vụ)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to open a [loại tài khoản], please.",
+      "use": "Nói rõ ngay từ đầu bạn muốn mở loại tài khoản nào.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to open a savings account, please.",
+        "I'd like to open a current account for my salary."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn 'I want to'. Đây là câu mở đầu chuẩn khi tới quầy giao dịch ngân hàng.",
+      "altOf": "stating-request"
+    },
+    {
+      "pattern": "I'm here to [động từ nguyên thể].",
+      "use": "Nêu mục đích đến ngân hàng một cách tự nhiên, gọn gàng.",
+      "register": "neutral",
+      "examples": [
+        "I'm here to open a new bank account.",
+        "I'm here to set up online banking."
+      ],
+      "explanationVi": "'I'm here to + V' nghĩa 'tôi đến đây để…'. Cách nói ngắn gọn, tự nhiên để báo lý do, thay cho 'I'd like to'.",
+      "altOf": "stating-request"
+    },
+    {
+      "pattern": "What documents do I need in order to [động từ]?",
+      "use": "Hỏi về giấy tờ cần chuẩn bị.",
+      "register": "neutral",
+      "examples": [
+        "What documents do I need in order to open an account?",
+        "What do I need to bring in order to apply for a card?"
+      ],
+      "explanationVi": "'in order to + V' nghĩa 'để mà…', diễn đạt mục đích rõ ràng và trang trọng hơn chỉ dùng 'to'. Mẫu rất hữu ích để hỏi thủ tục."
+    },
+    {
+      "pattern": "Is there a [danh từ] for [danh từ / V-ing]?",
+      "use": "Hỏi xem có khoản phí hay điều kiện nào không.",
+      "register": "neutral",
+      "examples": [
+        "Is there a monthly fee for this account?",
+        "Is there a charge for withdrawing money abroad?"
+      ],
+      "explanationVi": "Mẫu hỏi nhanh về phí/điều kiện. Hỏi trước để tránh bị tính phí bất ngờ — rất nên dùng ở ngân hàng."
+    },
+    {
+      "pattern": "Could you tell me [câu hỏi gián tiếp]?",
+      "use": "Hỏi thông tin một cách lịch sự, mềm mại.",
+      "register": "formal",
+      "examples": [
+        "Could you tell me what the interest rate is?",
+        "Could you tell me how long it takes to get the card?"
+      ],
+      "explanationVi": "Đây là câu hỏi gián tiếp: sau 'Could you tell me' thì KHÔNG đảo trợ động từ — viết 'what the interest rate IS', không phải 'what is the interest rate'. Nghe lịch sự hơn hỏi trực tiếp.",
+      "altOf": "asking-info"
+    },
+    {
+      "pattern": "I was wondering if [mệnh đề].",
+      "use": "Đặt câu hỏi/đề nghị tế nhị, khiêm tốn.",
+      "register": "formal",
+      "examples": [
+        "I was wondering if I could register for mobile banking too.",
+        "I was wondering if there's a way to avoid the monthly fee."
+      ],
+      "explanationVi": "'I was wondering if…' là cách hỏi rất nhã nhặn (dùng quá khứ để nghe lịch sự hơn). Hợp khi xin thêm dịch vụ hoặc hỏi điều tế nhị.",
+      "altOf": "asking-info"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I'd prefer a savings account rather than a current one." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể / nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề, chuyển nhẹ chủ đề.", "example": "By the way, can I also get a debit card today?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh mẽ khi đồng ý hoặc xác nhận.", "example": "I'd definitely like to set up online banking as well." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một câu chia sẻ chân thành về nhu cầu của mình.", "example": "Honestly, I just need a simple account for receiving my salary." },
+    { "term": "in that case", "ipa": "/ɪn ðæt keɪs/", "vi": "nếu vậy thì / trong trường hợp đó", "when": "Khi đưa ra quyết định dựa trên thông tin vừa nghe.", "example": "In that case, I'll go with the savings account." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến chi nhánh ngân hàng để mở một tài khoản mới. Giao dịch viên giúp bạn chọn loại tài khoản, kiểm tra giấy tờ và hướng dẫn các bước tiếp theo.",
+    "lines": [
+      {
+        "speaker": "Giao dịch viên",
+        "text": "Good morning, and welcome to City Bank. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd ˈwel.kəm tə ˈsɪ.ti bæŋk haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, chào mừng quý khách đến City Bank. Hôm nay tôi có thể giúp gì cho bạn ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. I'm here to open a new account. Honestly, I just need something simple for receiving my ____ every month.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ aɪm hɪə tə ˈəʊ.pən ə njuː əˈkaʊnt ˈɒn.ɪst.li aɪ dʒʌst niːd ˈsʌm.θɪŋ ˈsɪm.pəl fɔː rɪˈsiː.vɪŋ maɪ ... ˈev.ri mʌnθ/",
+        "vi": "Chào buổi sáng. Tôi đến để mở một tài khoản mới. Thành thật mà nói, tôi chỉ cần một tài khoản đơn giản để nhận ____ hàng tháng thôi.",
+        "blanks": [
+          { "type": "personal", "hint": "Khoản tiền bạn nhận hàng tháng. Ví dụ: 'salary' (lương), 'allowance' (trợ cấp)." }
+        ]
+      },
+      {
+        "speaker": "Giao dịch viên",
+        "text": "Of course. In that case, I'd recommend a current account, which is designed for everyday use such as receiving your salary and paying bills.",
+        "ipa": "/əv kɔːs ɪn ðæt keɪs aɪd ˌrek.əˈmend ə ˈkʌr.ənt əˈkaʊnt wɪtʃ ɪz dɪˈzaɪnd fɔːr ˈev.ri.deɪ juːs sʌtʃ æz rɪˈsiː.vɪŋ jɔː ˈsæl.ər.i ænd ˈpeɪ.ɪŋ bɪlz/",
+        "vi": "Tất nhiên rồi. Nếu vậy, tôi xin gợi ý tài khoản thanh toán, loại được thiết kế cho việc dùng hàng ngày như nhận lương và trả hóa đơn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good. By the way, could you tell me what the ____ rate is, in case I decide to save some money later?",
+        "ipa": "/ðæt saʊndz ɡʊd baɪ ðə weɪ kʊd juː tel miː wɒt ðə ... reɪt ɪz ɪn keɪs aɪ dɪˈsaɪd tə seɪv sʌm ˈmʌn.i ˈleɪ.tə/",
+        "vi": "Nghe hay đấy. Tiện thể, bạn cho tôi biết ____ suất là bao nhiêu được không, phòng khi sau này tôi muốn để dành ít tiền?",
+        "blanks": [
+          { "type": "knowledge", "answer": "interest", "explanationVi": "Cụm 'interest rate' = lãi suất. Đây là câu hỏi gián tiếp sau 'Could you tell me what... is' — xem mẫu câu 'Could you tell me…?'." }
+        ]
+      },
+      {
+        "speaker": "Giao dịch viên",
+        "text": "Although the current account earns very little interest, our savings account offers a much higher rate. There's no monthly fee for either of them.",
+        "ipa": "/ɔːlˈðəʊ ðə ˈkʌr.ənt əˈkaʊnt ɜːnz ˈver.i ˈlɪt.əl ˈɪn.trəst ˈaʊə ˈseɪ.vɪŋz əˈkaʊnt ˈɒf.əz ə mʌtʃ ˈhaɪ.ər reɪt ðeəz nəʊ ˈmʌnθ.li fiː fɔːr ˈaɪ.ðər əv ðem/",
+        "vi": "Mặc dù tài khoản thanh toán sinh lãi rất ít, tài khoản tiết kiệm của chúng tôi có lãi suất cao hơn nhiều. Cả hai loại đều không có phí hàng tháng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Great. What documents do I need ____ to open the account today?",
+        "ipa": "/ɡreɪt wɒt ˈdɒk.jə.mənts duː aɪ niːd ... tə ˈəʊ.pən ði əˈkaʊnt təˈdeɪ/",
+        "vi": "Tuyệt. Tôi cần những giấy tờ gì ____ mở tài khoản ngay hôm nay?",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Cụm 'in order to + V' nghĩa 'để mà…', diễn đạt mục đích trang trọng. Xem mẫu câu 'What documents do I need in order to…?'." }
+        ]
+      },
+      {
+        "speaker": "Giao dịch viên",
+        "text": "You'll need some form of identification, such as your ID card or passport. After that, please fill in this form, and not only will I open the account for you, but I'll also register you for mobile banking.",
+        "ipa": "/jul niːd sʌm fɔːm əv aɪˌden.tɪ.fɪˈkeɪ.ʃən sʌtʃ æz jɔːr aɪˈdiː kɑːd ɔː ˈpɑːs.pɔːt ˈɑːf.tə ðæt pliːz fɪl ɪn ðɪs fɔːm ænd nɒt ˈəʊn.li wɪl aɪ ˈəʊ.pən ði əˈkaʊnt fɔː juː bʌt aɪl ˈɔːl.səʊ ˈredʒ.ɪ.stə juː fɔː ˈməʊ.baɪl ˈbæŋ.kɪŋ/",
+        "vi": "Bạn cần một loại giấy tờ tùy thân, chẳng hạn căn cước hoặc hộ chiếu. Sau đó, vui lòng điền vào mẫu này, và tôi không chỉ mở tài khoản cho bạn mà còn đăng ký mobile banking cho bạn luôn."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. I was wondering if I could also get a debit card today, ____ I can withdraw cash whenever I need it.",
+        "ipa": "/ˈpɜː.fɪkt aɪ wɒz ˈwʌn.dər.ɪŋ ɪf aɪ kʊd ˈɔːl.səʊ ɡet ə ˈdeb.ɪt kɑːd təˈdeɪ ... aɪ kæn wɪðˈdrɔː kæʃ wenˈev.ər aɪ niːd ɪt/",
+        "vi": "Tuyệt vời. Tôi đang băn khoăn liệu hôm nay tôi có thể lấy luôn một thẻ ghi nợ không, ____ tôi có thể rút tiền mặt bất cứ khi nào cần.",
+        "blanks": [
+          { "type": "knowledge", "answer": "so that", "explanationVi": "'so that + mệnh đề' dùng để nêu mục đích/kết quả ('để mà…, nhờ vậy…'). Khác 'in order to' ở chỗ 'so that' theo sau là cả một mệnh đề có chủ ngữ + động từ." }
+        ]
+      },
+      {
+        "speaker": "Giao dịch viên",
+        "text": "Absolutely. I'll issue your card right away, although you'll need to activate it at an ATM first. Your money will then be stored securely, and you can check your balance anytime through the app.",
+        "ipa": "/ˌæb.səˈluːt.li aɪl ˈɪʃ.uː jɔː kɑːd raɪt əˈweɪ ɔːlˈðəʊ jul niːd tʊ ˈæk.tɪ.veɪt ɪt æt ən ˌeɪ.tiːˈem fɜːst jɔː ˈmʌn.i wɪl ðen biː stɔːd sɪˈkjʊə.li ænd juː kæn tʃek jɔː ˈbæl.əns ˈen.i.taɪm θruː ði æp/",
+        "vi": "Chắc chắn rồi. Tôi sẽ phát hành thẻ ngay, mặc dù bạn sẽ phải kích hoạt nó ở cây ATM trước đã. Sau đó tiền của bạn sẽ được giữ an toàn, và bạn có thể kiểm tra số dư bất cứ lúc nào qua ứng dụng."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở các nước nói tiếng Anh, 'current account' (Anh-Anh) hay 'checking account' (Anh-Mỹ) là tài khoản dùng hằng ngày để chi tiêu; 'savings account' là tài khoản để dành, lãi suất cao hơn.",
+    "Ngân hàng luôn yêu cầu giấy tờ tùy thân (ID/hộ chiếu) và đôi khi cả giấy chứng minh nơi ở (proof of address) như hóa đơn điện nước — nên mang theo khi đi mở tài khoản.",
+    "Nhiều tài khoản có thể mở online, nhưng một số loại vẫn cần đến chi nhánh ký tên. Hỏi trước 'Can I do this online?' để tiết kiệm thời gian.",
+    "Hãy luôn hỏi rõ về phí (monthly fee, transaction fee, overdraft fee) trước khi ký — phí ẩn là điều người mới mở tài khoản hay bỏ sót."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want to open account' — thiếu mạo từ 'an'. Phải là 'open AN account'; và nên dùng 'I'd like to' cho lịch sự.",
+    "Sai câu hỏi gián tiếp: nói 'Could you tell me what is the interest rate?'. Đúng là 'Could you tell me what the interest rate IS?' — không đảo trợ động từ.",
+    "Nhầm 'interest' (lãi) với 'interesting' (thú vị), và nhầm 'fee' (phí) với 'fine' (tiền phạt).",
+    "Sai đảo ngữ với 'Not only': phải đảo trợ động từ — 'Not only WILL I open…', không phải 'Not only I will open…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mở tài khoản như thật.",
+    "prompt": "Hãy đóng vai một giao dịch viên ngân hàng nói tiếng Anh. Tôi là khách đến mở một tài khoản mới. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một giao dịch viên thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa ra cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi nói câu dài hơn bằng cách dùng 'such as', 'although', 'in order to' và câu hỏi gián tiếp 'Could you tell me…?'. Thỉnh thoảng hãy tạo tình huống bất ngờ (ví dụ tôi quên mang giấy tờ, hoặc tài khoản có phí ẩn) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như nhân viên ngân hàng thật.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy hỏi tôi thêm về các loại phí và dịch vụ đi kèm để tôi tập hỏi lại cho rõ.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được rõ mình muốn mở loại tài khoản nào mà không cần nhìn gợi ý.",
+    "Tôi hỏi được về phí, lãi suất và giấy tờ bằng câu hỏi gián tiếp 'Could you tell me…?'.",
+    "Tôi dùng được 'in order to', 'so that' và 'although' khi nói về thủ tục."
+  ]
+}

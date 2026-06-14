@@ -1,0 +1,405 @@
+{
+  "id": "making-small-talk-work",
+  "category": "work",
+  "title": "Small talk nơi làm việc",
+  "titleEn": "Small Talk at Work",
+  "level": "B1",
+  "functions": ["small-talk", "greetings", "opinions"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mở đầu và duy trì một cuộc trò chuyện xã giao ngắn với đồng nghiệp",
+    "Chào hỏi và hỏi thăm tự nhiên (về cuối tuần, thời tiết, dự án)",
+    "Đáp lại lịch sự và nối tiếp câu chuyện bằng câu hỏi mở",
+    "Kết thúc cuộc trò chuyện một cách khéo léo mà không cộc lốc",
+    "Dùng trạng từ và liên từ (such as, although, however) để câu nói mượt hơn"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "I had lunch with a colleague from the marketing team.",
+      "exampleVi": "Tôi ăn trưa với một đồng nghiệp ở nhóm marketing.",
+      "note": "Danh từ. Trọng âm ở âm đầu 'COL-leeg'. Trang trọng và an toàn hơn 'workmate'.",
+      "synonyms": [
+        { "term": "coworker", "ipa": "/ˈkəʊˌwɜː.kər/", "register": "neutral", "nuanceVi": "Phổ biến ở Anh-Mỹ, nghĩa y hệt 'colleague'. Nghe đời thường hơn một chút." },
+        { "term": "teammate", "ipa": "/ˈtiːm.meɪt/", "register": "casual", "nuanceVi": "Nhấn vào việc cùng một nhóm/đội. Thân mật, dùng khi muốn nhấn tinh thần đồng đội." }
+      ]
+    },
+    {
+      "term": "to catch up",
+      "ipa": "/tə kætʃ ʌp/",
+      "vi": "hàn huyên, cập nhật chuyện của nhau (động từ)",
+      "register": "casual",
+      "example": "Let's catch up over coffee sometime this week.",
+      "exampleVi": "Tuần này tìm lúc nào đó cà phê hàn huyên nhé.",
+      "note": "Cụm động từ. Đi với 'with somebody' / 'on something'. Rất hay dùng để rủ trò chuyện hoặc kết thúc nhẹ nhàng.",
+      "synonyms": [
+        { "term": "to chat", "ipa": "/tə tʃæt/", "register": "casual", "nuanceVi": "Trò chuyện phiếm, nhẹ nhàng. Không nhất thiết là cập nhật tin tức như 'catch up'." }
+      ]
+    },
+    {
+      "term": "weekend",
+      "ipa": "/ˌwiːkˈend/",
+      "vi": "cuối tuần (danh từ)",
+      "register": "neutral",
+      "example": "How was your weekend? Did you do anything fun?",
+      "exampleVi": "Cuối tuần của bạn thế nào? Có làm gì vui không?",
+      "note": "Danh từ. Câu 'How was your weekend?' là câu mở màn small talk kinh điển vào sáng thứ Hai."
+    },
+    {
+      "term": "busy",
+      "ipa": "/ˈbɪz.i/",
+      "vi": "bận rộn (tính từ)",
+      "register": "neutral",
+      "example": "Things have been really busy at work lately.",
+      "exampleVi": "Dạo này công việc bận túi bụi.",
+      "note": "Tính từ. Phát âm bẫy: /ˈbɪz.i/ chứ không phải /ˈbjuː.zi/.",
+      "synonyms": [
+        { "term": "hectic", "ipa": "/ˈhek.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'bận đến mức hỗn loạn, cuống cuồng'. Mạnh hơn 'busy'." },
+        { "term": "swamped", "ipa": "/swɒmpt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngập đầu công việc'. Vd 'I'm totally swamped this week.'" },
+        { "term": "tied up", "ipa": "/taɪd ʌp/", "register": "neutral", "nuanceVi": "Nhấn 'đang vướng, không rảnh ngay lúc này'. Dùng để từ chối khéo: 'I'm a bit tied up right now.'" }
+      ]
+    },
+    {
+      "term": "to mention",
+      "ipa": "/tə ˈmen.ʃən/",
+      "vi": "nhắc đến, đề cập (động từ)",
+      "register": "neutral",
+      "example": "You mentioned you were moving house — how did it go?",
+      "exampleVi": "Bạn có nhắc là đang chuyển nhà — chuyện đó sao rồi?",
+      "note": "Động từ. Nhắc lại điều đối phương từng nói cho thấy bạn lắng nghe — mẹo nối chuyện rất hay.",
+      "synonyms": [
+        { "term": "to bring up", "ipa": "/tə brɪŋ ʌp/", "register": "casual", "nuanceVi": "Cụm động từ, nghĩa 'nêu ra một chủ đề'. Đời thường hơn 'mention'." }
+      ]
+    },
+    {
+      "term": "awkward",
+      "ipa": "/ˈɔː.kwəd/",
+      "vi": "ngượng ngùng, gượng gạo (tính từ)",
+      "register": "neutral",
+      "example": "There was an awkward silence, so I asked about her trip.",
+      "exampleVi": "Có một khoảng im lặng ngượng ngập, nên tôi hỏi về chuyến đi của cô ấy.",
+      "note": "Tính từ. Phát âm bẫy: bỏ chữ 'w' đầu — /ˈɔː.kwəd/. Hay đi với 'awkward silence'.",
+      "synonyms": [
+        { "term": "uncomfortable", "ipa": "/ʌnˈkʌm.fə.tə.bəl/", "register": "neutral", "nuanceVi": "Nhấn cảm giác 'không thoải mái' nói chung, có thể về thể chất lẫn tinh thần. Rộng hơn 'awkward'." }
+      ]
+    },
+    {
+      "term": "casually",
+      "ipa": "/ˈkæʒ.u.ə.li/",
+      "vi": "một cách thoải mái, tự nhiên (trạng từ)",
+      "register": "neutral",
+      "example": "She casually asked how my project was going.",
+      "exampleVi": "Cô ấy hỏi rất tự nhiên xem dự án của tôi thế nào.",
+      "note": "Trạng từ. Small talk vốn là trò chuyện 'casual' — nói nhẹ nhàng, không quá trang trọng.",
+      "synonyms": [
+        { "term": "informally", "ipa": "/ɪnˈfɔː.mə.li/", "register": "neutral", "nuanceVi": "Nhấn 'không theo nghi thức trang trọng'. Gần nghĩa nhưng thiên về mức trang trọng hơn là sự thoải mái." },
+        { "term": "naturally", "ipa": "/ˈnætʃ.ər.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'một cách tự nhiên, không gượng ép'. Khen ai đó nói chuyện trôi chảy." }
+      ]
+    },
+    {
+      "term": "honestly",
+      "ipa": "/ˈɒn.ɪst.li/",
+      "vi": "thành thật mà nói (trạng từ)",
+      "register": "neutral",
+      "example": "Honestly, I'm just glad it's Friday.",
+      "exampleVi": "Thành thật mà nói, tôi chỉ mừng vì đã đến thứ Sáu.",
+      "note": "Trạng từ. Mở đầu một câu trả lời chân thành, thân thiện. Chữ 'h' câm: /ˈɒn.ɪst.li/.",
+      "synonyms": [
+        { "term": "frankly", "ipa": "/ˈfræŋk.li/", "register": "neutral", "nuanceVi": "Nhấn 'nói thẳng', đôi khi dẫn vào ý hơi tế nhị hoặc thẳng thắn hơn 'honestly'." }
+      ]
+    },
+    {
+      "term": "to get along (with)",
+      "ipa": "/tə ɡet əˈlɒŋ/",
+      "vi": "hợp nhau, hòa thuận (động từ)",
+      "register": "casual",
+      "example": "I really get along with my new team.",
+      "exampleVi": "Tôi rất hợp với nhóm mới của mình.",
+      "note": "Cụm động từ. Đi với 'with somebody'. Dùng để khen không khí làm việc dễ chịu."
+    },
+    {
+      "term": "small talk",
+      "ipa": "/ˌsmɔːl ˈtɔːk/",
+      "vi": "chuyện phiếm, trò chuyện xã giao (danh từ)",
+      "register": "neutral",
+      "example": "A bit of small talk before a meeting helps everyone relax.",
+      "exampleVi": "Một chút chuyện phiếm trước cuộc họp giúp mọi người thư giãn.",
+      "note": "Danh từ không đếm được. Là cách bắt chuyện nhẹ nhàng về chủ đề an toàn (thời tiết, cuối tuần)."
+    },
+    {
+      "term": "friendly",
+      "ipa": "/ˈfrend.li/",
+      "vi": "thân thiện (tính từ)",
+      "register": "neutral",
+      "example": "Everyone here is so friendly and welcoming.",
+      "exampleVi": "Mọi người ở đây đều rất thân thiện và niềm nở.",
+      "note": "Tính từ (đuôi -ly nhưng KHÔNG phải trạng từ). Đừng nhầm 'a friendly person' với trạng từ.",
+      "synonyms": [
+        { "term": "approachable", "ipa": "/əˈprəʊ.tʃə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'dễ tiếp cận, dễ bắt chuyện'. Thường khen sếp/đồng nghiệp cởi mở." },
+        { "term": "warm", "ipa": "/wɔːm/", "register": "neutral", "nuanceVi": "Nhấn sự 'ấm áp, nồng hậu' về mặt tình cảm. Tinh tế hơn 'friendly'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "How was your [danh từ]?",
+      "use": "Mở đầu small talk bằng cách hỏi thăm điều vừa qua.",
+      "register": "casual",
+      "examples": [
+        "How was your weekend?",
+        "How was your trip to Da Nang?"
+      ],
+      "explanationVi": "'How was…?' hỏi về điều đã xảy ra, dùng thì quá khứ. Câu mở màn an toàn và thân thiện nhất nơi công sở.",
+      "altOf": "opening-smalltalk"
+    },
+    {
+      "pattern": "Did you do anything [tính từ] [khoảng thời gian]?",
+      "use": "Hỏi thăm hoạt động, gợi đối phương kể chuyện.",
+      "register": "casual",
+      "examples": [
+        "Did you do anything nice over the weekend?",
+        "Did you do anything fun last night?"
+      ],
+      "explanationVi": "Câu hỏi mở, mời đối phương chia sẻ nhiều hơn là chỉ trả lời 'yes/no'. 'anything' đứng sau câu hỏi/phủ định.",
+      "altOf": "opening-smalltalk"
+    },
+    {
+      "pattern": "I heard (that) [mệnh đề] — how is it going?",
+      "use": "Nối chuyện bằng cách nhắc điều bạn đã biết về đối phương.",
+      "register": "neutral",
+      "examples": [
+        "I heard you just moved to a new apartment — how is it going?",
+        "I heard your team finished the project — how did it go?"
+      ],
+      "explanationVi": "Nhắc lại điều đối phương từng kể cho thấy bạn quan tâm, lắng nghe. Cách nối chuyện rất hiệu quả, tránh im lặng gượng gạo."
+    },
+    {
+      "pattern": "That sounds [tính từ]! [Câu hỏi nối].",
+      "use": "Đáp lại tích cực rồi hỏi tiếp để giữ mạch chuyện.",
+      "register": "casual",
+      "examples": [
+        "That sounds great! Where did you go exactly?",
+        "That sounds tiring! Did you manage to rest afterwards?"
+      ],
+      "explanationVi": "'That sounds + tính từ' là cách phản hồi tự nhiên, thể hiện cảm xúc. Thêm một câu hỏi ngay sau để cuộc trò chuyện không bị 'cụt'.",
+      "altOf": "responding-smalltalk"
+    },
+    {
+      "pattern": "Oh really? I [phản hồi cá nhân] too.",
+      "use": "Đáp lại bằng cách thể hiện điểm chung, tạo sự gần gũi.",
+      "register": "casual",
+      "examples": [
+        "Oh really? I love hiking too.",
+        "Oh really? I had a busy weekend too."
+      ],
+      "explanationVi": "Tìm điểm chung ('me too') giúp cuộc trò chuyện ấm lên nhanh. 'Oh really?' thể hiện bạn đang chú ý lắng nghe.",
+      "altOf": "responding-smalltalk"
+    },
+    {
+      "pattern": "Anyway, I should [động từ], but let's catch up later.",
+      "use": "Kết thúc cuộc trò chuyện một cách lịch sự, khéo léo.",
+      "register": "casual",
+      "examples": [
+        "Anyway, I should get back to work, but let's catch up later.",
+        "Anyway, I'd better head to the meeting, but it was great chatting."
+      ],
+      "explanationVi": "'Anyway' báo hiệu sắp khép lại chủ đề. Nêu một lý do nhẹ rồi hứa 'catch up later' để không khiến đối phương thấy bị cắt ngang đột ngột."
+    },
+    {
+      "pattern": "It was [trạng từ] [tính từ] talking to you.",
+      "use": "Lời chào tạm biệt ấm áp sau khi trò chuyện.",
+      "register": "neutral",
+      "examples": [
+        "It was really nice talking to you.",
+        "It was lovely catching up with you."
+      ],
+      "explanationVi": "Câu chào kết thúc lịch sự, để lại ấn tượng tốt. Thêm trạng từ 'really/genuinely' cho chân thành hơn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì...",
+      "when": "Khi nói điều hơi bất ngờ hoặc đính chính nhẹ nhàng trong lúc trò chuyện.",
+      "example": "Actually, I stayed home and just relaxed all weekend."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể, nhân tiện",
+      "when": "Khi muốn chuyển nhẹ sang một chủ đề mới hoặc hỏi thêm.",
+      "example": "By the way, are you joining the team lunch on Friday?"
+    },
+    {
+      "term": "to be fair",
+      "ipa": "/tə biː feər/",
+      "vi": "nói cho công bằng thì",
+      "when": "Khi muốn đưa ra một góc nhìn cân bằng, nhẹ nhàng hơn.",
+      "example": "To be fair, the week wasn't that bad after all."
+    },
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔː.tʃən.ət.li/",
+      "vi": "may mắn thay",
+      "when": "Khi dẫn vào một kết quả tốt sau điều khó khăn.",
+      "example": "Fortunately, the rain stopped just before our picnic."
+    },
+    {
+      "term": "you know",
+      "ipa": "/juː nəʊ/",
+      "vi": "kiểu như, bạn biết đấy",
+      "when": "Filler tự nhiên để câu nói đỡ cứng, cho mình chút thời gian nghĩ.",
+      "example": "It was a long week, you know, lots of meetings and deadlines."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Sáng thứ Hai tại văn phòng. Bạn gặp Linh, một đồng nghiệp ở nhóm khác, trong khu pha cà phê và bắt đầu trò chuyện xã giao trước khi ai nấy quay lại bàn làm việc.",
+    "lines": [
+      {
+        "speaker": "Linh",
+        "text": "Good morning! Honestly, I can't believe it's Monday already. How was your ____?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈɒn.ɪst.li aɪ kɑːnt bɪˈliːv ɪts ˈmʌn.deɪ ɔːlˈred.i haʊ wɒz jɔː/",
+        "vi": "Chào buổi sáng! Thành thật mà nói, tôi không tin nổi đã thứ Hai rồi. ____ của bạn thế nào?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "weekend",
+            "explanationVi": "Điền 'weekend' — 'How was your weekend?' là câu mở màn small talk kinh điển sáng thứ Hai. Xem mẫu câu 'How was your…?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Morning, Linh! It was pretty relaxing, actually. I mostly stayed home and caught up on some reading, although I did go hiking on Sunday. How about ____?",
+        "ipa": "/ˈmɔː.nɪŋ lɪŋ ɪt wɒz ˈprɪt.i rɪˈlæk.sɪŋ ˈæk.tʃu.ə.li aɪ ˈməʊst.li steɪd həʊm ænd kɔːt ʌp ɒn sʌm ˈriː.dɪŋ ɔːlˈðəʊ aɪ dɪd ɡəʊ ˈhaɪ.kɪŋ ɒn ˈsʌn.deɪ haʊ əˈbaʊt/",
+        "vi": "Chào Linh! Thật ra cũng khá thư giãn. Tôi chủ yếu ở nhà và đọc sách cho đã, mặc dù Chủ nhật tôi có đi leo núi. Còn ____?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "you",
+            "explanationVi": "Điền 'you' — 'How about you?' là cách hỏi ngược lại tự nhiên, đẩy lượt nói về phía đối phương để giữ mạch trò chuyện."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Oh, mine was quite hectic! My family visited from ____, so we spent the whole weekend showing them around the city. It was tiring but really lovely.",
+        "ipa": "/əʊ maɪn wɒz kwaɪt ˈhek.tɪk maɪ ˈfæm.ɪ.li ˈvɪz.ɪ.tɪd frɒm səʊ wiː spent ðə həʊl ˌwiːkˈend ˈʃəʊ.ɪŋ ðem əˈraʊnd ðə ˈsɪt.i ɪt wɒz ˈtaɪə.rɪŋ bʌt ˈrɪə.li ˈlʌv.li/",
+        "vi": "Ồ, cuối tuần của tôi khá tất bật! Gia đình tôi từ ____ lên chơi, nên cả cuối tuần tụi tôi dẫn họ đi vòng quanh thành phố. Mệt nhưng mà vui lắm.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một nơi nào đó. Ví dụ: 'my hometown', 'the countryside', 'Hue'."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds wonderful! Family visits can be tiring; however, they're always worth it. By the way, I heard you ____ working on the new website project — how is it going?",
+        "ipa": "/ðæt saʊndz ˈwʌn.də.fəl ˈfæm.ɪ.li ˈvɪz.ɪts kæn biː ˈtaɪə.rɪŋ haʊˈev.ə ðeɪər ˈɔːl.weɪz wɜːθ ɪt baɪ ðə weɪ aɪ hɜːd juː ˈwɜː.kɪŋ ɒn ðə njuː ˈweb.saɪt ˈprɒdʒ.ekt haʊ ɪz ɪt ˈɡəʊ.ɪŋ/",
+        "vi": "Nghe tuyệt thật! Gia đình lên chơi thì mệt, tuy nhiên lúc nào cũng đáng. Tiện thể, tôi nghe nói bạn ____ làm dự án website mới — tiến triển sao rồi?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "were",
+            "explanationVi": "Điền 'were' để tạo thì quá khứ tiếp diễn 'you were working' sau 'I heard'. Nhắc lại điều đã biết về đối phương là mẹo nối chuyện rất hay (xem mẫu 'I heard that…')."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "It's going well, thanks for asking! It's been challenging, but I really get along with my new team, so we help each other out a lot. We're hoping to launch it ____ the end of this month.",
+        "ipa": "/ɪts ˈɡəʊ.ɪŋ wel θæŋks fɔːr ˈɑːs.kɪŋ ɪts biːn ˈtʃæl.ɪn.dʒɪŋ bʌt aɪ ˈrɪə.li ɡet əˈlɒŋ wɪð maɪ njuː tiːm səʊ wiː help iːtʃ ˈʌð.ər aʊt ə lɒt wɪə ˈhəʊ.pɪŋ tə lɔːntʃ ɪt ðə end ɒv ðɪs mʌnθ/",
+        "vi": "Tiến triển tốt, cảm ơn bạn đã hỏi! Cũng nhiều thử thách, nhưng tôi rất hợp với nhóm mới nên tụi tôi hỗ trợ nhau nhiều lắm. Tụi tôi hy vọng ra mắt ____ cuối tháng này.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "by",
+            "explanationVi": "Điền giới từ 'by' = 'trước/vào lúc' để chỉ một hạn chót: 'by the end of this month' (chậm nhất là cuối tháng). Khác 'until' (cho tới khi)."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Oh really? That's impressive — a whole website by the end of the month! I admire how calm you stay, because honestly I'd be quite ____ with a deadline like that.",
+        "ipa": "/əʊ ˈrɪə.li ðæts ɪmˈpres.ɪv ə həʊl ˈweb.saɪt baɪ ðə end ɒv ðə mʌnθ aɪ ədˈmaɪə haʊ kɑːm juː steɪ bɪˈkɒz ˈɒn.ɪst.li aɪd biː kwaɪt wɪð ə ˈded.laɪn laɪk ðæt/",
+        "vi": "Ồ thật à? Ấn tượng đấy — cả một website trước cuối tháng cơ! Tôi phục cách bạn giữ bình tĩnh, vì thành thật mà nói với một hạn chót như vậy chắc tôi sẽ khá là ____.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một tính từ chỉ cảm giác. Ví dụ: 'stressed', 'nervous', 'overwhelmed'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Ha, trust me, there are stressful moments too! But I've learned a few tricks to stay focused, ____ as making a to-do list every morning and taking short breaks. They really help.",
+        "ipa": "/hɑː trʌst miː ðeər ɑː ˈstres.fəl ˈməʊ.mənts tuː bʌt aɪv lɜːnd ə fjuː trɪks tə steɪ ˈfəʊ.kəst æz ˈmeɪ.kɪŋ ə tə duː lɪst ˈev.ri ˈmɔː.nɪŋ ænd ˈteɪ.kɪŋ ʃɔːt breɪks ðeɪ ˈrɪə.li help/",
+        "vi": "Haha, tin tôi đi, cũng có những lúc căng thẳng lắm chứ! Nhưng tôi học được vài mẹo để giữ tập trung, ____ như lập danh sách việc cần làm mỗi sáng và nghỉ giải lao ngắn. Chúng giúp ích thật sự.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "such",
+            "explanationVi": "Điền 'such' để thành 'such as' (= chẳng hạn như), dùng để nêu ví dụ minh họa cho 'a few tricks'. Nêu ví dụ cụ thể nghe thuyết phục và tự nhiên hơn."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Those are great tips — I should definitely try them! Anyway, I'd better get back to my desk before the morning meeting, but it was really nice ____ to you. Let's catch up at lunch sometime!",
+        "ipa": "/ðəʊz ɑː ɡreɪt tɪps aɪ ʃʊd ˈdef.ɪn.ət.li traɪ ðem ˈen.i.weɪ aɪd ˈbet.ə ɡet bæk tə maɪ desk bɪˈfɔː ðə ˈmɔː.nɪŋ ˈmiː.tɪŋ bʌt ɪt wɒz ˈrɪə.li naɪs tə juː lets kætʃ ʌp ət lʌntʃ ˈsʌm.taɪm/",
+        "vi": "Mấy mẹo đó hay đấy — nhất định tôi sẽ thử! Thôi, tôi nên về bàn trước cuộc họp sáng đây, nhưng rất vui được ____ với bạn. Bữa nào ăn trưa hàn huyên tiếp nhé!",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "talking",
+            "explanationVi": "Điền 'talking' (V-ing) để thành 'It was nice talking to you' — câu chào tạm biệt lịch sự chuẩn. Sau 'It was nice…' dùng V-ing. Xem mẫu 'It was … talking to you.'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Sounds like a plan! Good luck with your meeting, and let's grab lunch on Friday if you're free. Have a great day!",
+        "ipa": "/saʊndz laɪk ə plæn ɡʊd lʌk wɪð jɔː ˈmiː.tɪŋ ænd lets ɡræb lʌntʃ ɒn ˈfraɪ.deɪ ɪf jɔː friː hæv ə ɡreɪt deɪ/",
+        "vi": "Nghe hay đấy! Chúc cuộc họp suôn sẻ, và thứ Sáu nếu rảnh thì mình đi ăn trưa nhé. Chúc một ngày tốt lành!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Small talk ở phương Tây là nghi thức xã giao quan trọng để 'phá băng' trước cuộc họp hay khi gặp đồng nghiệp — im lặng hoàn toàn dễ bị xem là lạnh lùng.",
+    "Chủ đề an toàn: thời tiết, cuối tuần, kỳ nghỉ, thể thao, dự án công việc. Nên tránh chủ đề nhạy cảm như lương, tuổi tác, tôn giáo, chính trị, đời tư.",
+    "Câu hỏi như 'How are you?' thường chỉ là chào hỏi xã giao, không phải hỏi thật sâu — đáp ngắn gọn 'Good, thanks, and you?' là đủ.",
+    "Kết thúc small talk nên có lý do nhẹ ('I'd better get back to work') và lời hẹn ('let's catch up later') để không khiến đối phương thấy bị bỏ ngang."
+  ],
+
+  "commonMistakes": [
+    "Trả lời quá cộc lốc ('Fine.' rồi im) khiến cuộc trò chuyện chết ngay. Hãy thêm chi tiết và hỏi ngược lại 'How about you?'.",
+    "Nhầm 'friendly' là trạng từ. Đây là tính từ; muốn dùng trạng từ phải nói 'in a friendly way'.",
+    "Dùng 'How was your weekend?' nhưng quên thì quá khứ, nói 'How is your weekend?' khi cuối tuần đã qua.",
+    "Lẫn giới từ: nói 'talking with you' không sai, nhưng câu chào chuẩn quen thuộc là 'nice talking TO you'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện xã giao nơi công sở như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp thân thiện nói tiếng Anh mà tôi gặp ở khu pha cà phê trong văn phòng vào sáng thứ Hai. Hãy bắt đầu bằng cách chào và hỏi thăm cuối tuần của tôi. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật và hỏi tiếp một câu để giữ mạch chuyện, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và gợi ý cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'such as', 'although', 'however' và các trạng từ như 'honestly', 'actually'. Giữ giọng nhẹ nhàng, thân thiện. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Thỉnh thoảng hãy tạo một khoảng im lặng gượng gạo để tôi tập tự bắt chuyện lại.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đóng vai một đồng nghiệp khá kiệm lời để tôi luyện cách giữ cho cuộc trò chuyện không bị tắt.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu được một cuộc small talk bằng câu hỏi tự nhiên mà không nhìn gợi ý.",
+    "Tôi đáp lại và hỏi nối tiếp được ít nhất 2 lượt để giữ mạch trò chuyện.",
+    "Tôi kết thúc được cuộc trò chuyện một cách lịch sự bằng mẫu 'Anyway, I should… but let's catch up later.'."
+  ]
+}

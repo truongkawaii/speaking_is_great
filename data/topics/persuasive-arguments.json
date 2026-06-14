@@ -1,0 +1,343 @@
+{
+  "id": "persuasive-arguments",
+  "category": "opinions",
+  "title": "Lập luận thuyết phục",
+  "titleEn": "Persuasive Arguments",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "negotiating", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Xây dựng một lập luận nhiều tầng, mạch lạc và có sức thuyết phục cao",
+    "Phản bác quan điểm đối lập một cách nhã nhặn mà vẫn giữ vững lập trường",
+    "Dùng cấu trúc nhượng bộ - phản đề (concede then counter) để nghe khách quan, đáng tin",
+    "Vận dụng idiom, sắc thái tinh tế và đổi register linh hoạt khi tranh luận",
+    "Chốt lập luận bằng lời kêu gọi hành động hoặc kết luận đanh thép"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "có sức thuyết phục, cuốn hút (tính từ)",
+      "register": "formal",
+      "example": "She made a compelling case for investing in renewable energy.",
+      "exampleVi": "Cô ấy đưa ra một lập luận đầy thuyết phục cho việc đầu tư vào năng lượng tái tạo.",
+      "note": "Tính từ. Mạnh hơn 'convincing' một chút: 'compelling' gợi cảm giác bị cuốn theo, khó cưỡng lại.",
+      "synonyms": [
+        { "term": "convincing", "ipa": "/kənˈvɪn.sɪŋ/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến nhất: 'đủ lý lẽ khiến người ta tin'. An toàn cho mọi ngữ cảnh." },
+        { "term": "persuasive", "ipa": "/pəˈsweɪ.sɪv/", "register": "neutral", "nuanceVi": "Nhấn vào khả năng 'làm người khác đổi ý/hành động'. Thiên về tác động lên quyết định." },
+        { "term": "cogent", "ipa": "/ˈkəʊ.dʒənt/", "register": "formal", "nuanceVi": "Rất trang trọng, mang tính học thuật: 'chặt chẽ, logic không thể bắt bẻ'. Dùng khi muốn nghe trí tuệ." }
+      ]
+    },
+    {
+      "term": "argument",
+      "ipa": "/ˈɑːr.ɡjə.mənt/",
+      "vi": "lập luận, luận điểm (danh từ)",
+      "register": "neutral",
+      "example": "Your argument rests on the assumption that prices will keep rising.",
+      "exampleVi": "Lập luận của bạn dựa trên giả định rằng giá sẽ tiếp tục tăng.",
+      "note": "Danh từ. Trong tranh luận trang trọng, 'argument' = chuỗi lý lẽ, KHÔNG phải 'cãi vã' (dù nghĩa thân mật cũng có).",
+      "synonyms": [
+        { "term": "reasoning", "ipa": "/ˈriː.zən.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn vào 'quá trình suy luận, mạch logic' dẫn tới kết luận, hơn là từng luận điểm rời." },
+        { "term": "case", "ipa": "/keɪs/", "register": "neutral", "nuanceVi": "Toàn bộ lập luận gộp lại để bảo vệ một quan điểm, như trong 'to make a case for'. Nghe gọn, đời sống hơn." },
+        { "term": "rationale", "ipa": "/ˌræʃ.əˈnɑːl/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'cơ sở lý do nền tảng' cho một quyết định/chính sách. Hay dùng trong báo cáo, họp hành." }
+      ]
+    },
+    {
+      "term": "to concede",
+      "ipa": "/kənˈsiːd/",
+      "vi": "thừa nhận (một điểm của đối phương) (động từ)",
+      "register": "formal",
+      "example": "I'm willing to concede that the costs are higher than I first claimed.",
+      "exampleVi": "Tôi sẵn lòng thừa nhận rằng chi phí cao hơn tôi nói lúc đầu.",
+      "note": "Động từ. Thừa nhận một điểm đúng của đối phương — chiến thuật giúp lập luận nghe công bằng, đáng tin trước khi phản bác.",
+      "synonyms": [
+        { "term": "to acknowledge", "ipa": "/əkˈnɒl.ɪdʒ/", "register": "neutral", "nuanceVi": "Trung tính hơn: 'công nhận có tồn tại/có lý'. Không hàm ý mình đang 'nhường' như concede." },
+        { "term": "to grant", "ipa": "/ɡrɑːnt/", "register": "formal", "nuanceVi": "Dùng kiểu 'I grant you that...' = 'cho là bạn đúng ở điểm đó'. Nghe tinh tế, thường dẫn vào một chữ 'but'." }
+      ]
+    },
+    {
+      "term": "to refute",
+      "ipa": "/rɪˈfjuːt/",
+      "vi": "bác bỏ (bằng chứng cứ) (động từ)",
+      "register": "formal",
+      "example": "These figures completely refute the claim that the policy failed.",
+      "exampleVi": "Những con số này hoàn toàn bác bỏ tuyên bố rằng chính sách đã thất bại.",
+      "note": "Động từ trang trọng: bác bỏ bằng lý lẽ/bằng chứng, KHÁC 'reject' (chỉ là từ chối, không cần chứng minh).",
+      "synonyms": [
+        { "term": "to rebut", "ipa": "/rɪˈbʌt/", "register": "formal", "nuanceVi": "Gần như đồng nghĩa, hay dùng trong tranh biện/pháp lý: 'phản bác lại lập luận vừa nêu'." },
+        { "term": "to disprove", "ipa": "/dɪsˈpruːv/", "register": "neutral", "nuanceVi": "Nhấn 'chứng minh là sai sự thật'. Cụ thể hơn, thiên về dữ kiện đúng/sai." },
+        { "term": "to debunk", "ipa": "/diːˈbʌŋk/", "register": "neutral", "nuanceVi": "Mang sắc thái 'vạch trần một điều bị tin nhầm/lầm tưởng phổ biến'. Hơi đời sống, có chút mạnh miệng." }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "xác đáng, có cơ sở (tính từ)",
+      "register": "neutral",
+      "example": "That's a valid point, and I hadn't considered it from that angle.",
+      "exampleVi": "Đó là một ý xác đáng, tôi chưa nghĩ tới góc độ đó.",
+      "note": "Tính từ. 'a valid point' là cách lịch sự để công nhận ý đối phương trước khi phản biện.",
+      "synonyms": [
+        { "term": "legitimate", "ipa": "/lɪˈdʒɪt.ɪ.mət/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'chính đáng, có lý do hợp lệ'. Hay dùng cho lo ngại/quyền lợi: 'a legitimate concern'." },
+        { "term": "sound", "ipa": "/saʊnd/", "register": "neutral", "nuanceVi": "Nghĩa 'vững chắc, không kẽ hở' (sound reasoning/argument). Nhấn vào sự chắc chắn của cả lập luận." }
+      ]
+    },
+    {
+      "term": "to undermine",
+      "ipa": "/ˌʌn.dəˈmaɪn/",
+      "vi": "làm suy yếu (ngầm) (động từ)",
+      "register": "formal",
+      "example": "A single weak example can undermine an otherwise strong argument.",
+      "exampleVi": "Chỉ một ví dụ yếu cũng có thể làm suy yếu cả một lập luận vốn rất mạnh.",
+      "note": "Động từ. Làm xói mòn dần từ bên trong, không phải đánh sập trực diện. Sắc thái 'âm thầm bào mòn'.",
+      "synonyms": [
+        { "term": "to weaken", "ipa": "/ˈwiː.kən/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản: 'làm yếu đi'. Không có sắc thái ngấm ngầm như undermine." },
+        { "term": "to erode", "ipa": "/ɪˈrəʊd/", "register": "formal", "nuanceVi": "Nhấn 'bào mòn từ từ theo thời gian' (erode trust/credibility). Hình ảnh như nước mài đá." }
+      ]
+    },
+    {
+      "term": "evidence",
+      "ipa": "/ˈev.ɪ.dəns/",
+      "vi": "bằng chứng (danh từ không đếm được)",
+      "register": "neutral",
+      "example": "There's plenty of evidence to support what I'm saying.",
+      "exampleVi": "Có rất nhiều bằng chứng ủng hộ điều tôi đang nói.",
+      "note": "Danh từ KHÔNG đếm được: nói 'a piece of evidence', không nói 'an evidence' hay 'evidences'.",
+      "synonyms": [
+        { "term": "proof", "ipa": "/pruːf/", "register": "neutral", "nuanceVi": "Mạnh hơn: 'bằng chứng chắc nịch chứng minh dứt khoát'. 'evidence' chỉ là dấu hiệu ủng hộ, chưa chắc kết luận." },
+        { "term": "data", "ipa": "/ˈdeɪ.tə/", "register": "neutral", "nuanceVi": "Cụ thể là 'số liệu, dữ kiện định lượng'. Trích data làm lập luận nghe khách quan, có cơ sở." }
+      ]
+    },
+    {
+      "term": "ultimately",
+      "ipa": "/ˈʌl.tɪ.mət.li/",
+      "vi": "rốt cuộc, xét cho cùng (trạng từ)",
+      "register": "neutral",
+      "example": "Ultimately, it comes down to whether we value speed or accuracy more.",
+      "exampleVi": "Xét cho cùng, vấn đề là chúng ta coi trọng tốc độ hay độ chính xác hơn.",
+      "note": "Trạng từ. Dùng để dẫn vào kết luận cốt lõi, gạt bỏ chi tiết phụ — rất hợp để chốt lập luận.",
+      "synonyms": [
+        { "term": "fundamentally", "ipa": "/ˌfʌn.dəˈmen.təl.i/", "register": "formal", "nuanceVi": "Nhấn 'về bản chất cốt lõi'. Dẫn người nghe về tầng sâu nhất của vấn đề." },
+        { "term": "at the end of the day", "ipa": "/ət ðə end əv ðə deɪ/", "register": "casual", "nuanceVi": "Idiom đời thường = 'rốt cuộc thì'. Làm câu chốt nghe gần gũi, bớt đao to búa lớn." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑːr.ɡju.ə.bli/",
+      "vi": "có thể nói là (một cách có cơ sở) (trạng từ)",
+      "register": "formal",
+      "example": "This is arguably the most important decision the company has ever made.",
+      "exampleVi": "Đây có thể nói là quyết định quan trọng nhất công ty từng đưa ra.",
+      "note": "Trạng từ. Đưa ra một khẳng định mạnh nhưng để ngỏ chỗ tranh luận — nghe tự tin mà vẫn khiêm tốn, rất 'C1'.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'về mặt lý thuyết là có thể tưởng tượng được'. Yếu hơn arguably, để ngỏ khả năng xa hơn." }
+      ]
+    },
+    {
+      "term": "to make a case for",
+      "ipa": "/tə meɪk ə keɪs fɔːr/",
+      "vi": "lập luận ủng hộ cho (cụm động từ)",
+      "register": "neutral",
+      "example": "Let me make a case for delaying the launch by a month.",
+      "exampleVi": "Để tôi đưa ra lý lẽ ủng hộ việc hoãn ra mắt thêm một tháng.",
+      "note": "Cụm động từ rất tự nhiên: 'make a case for + N/V-ing'. Trái lại 'make a case against' = lập luận chống lại.",
+      "synonyms": [
+        { "term": "to advocate for", "ipa": "/ˈæd.və.keɪt fɔːr/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'ủng hộ, vận động công khai cho' một chủ trương. Nghe có lập trường rõ ràng." }
+      ]
+    },
+    {
+      "term": "compromise",
+      "ipa": "/ˈkɒm.prə.maɪz/",
+      "vi": "sự thỏa hiệp, giải pháp dung hòa (danh từ)",
+      "register": "neutral",
+      "example": "Surely we can reach a compromise that works for both sides.",
+      "exampleVi": "Chắc chắn chúng ta có thể đạt một thỏa hiệp có lợi cho cả hai bên.",
+      "note": "Danh từ và động từ viết giống nhau. 'reach/strike a compromise' = đạt được thỏa hiệp. Đề xuất thỏa hiệp thường giúp 'hạ nhiệt' tranh luận.",
+      "synonyms": [
+        { "term": "middle ground", "ipa": "/ˈmɪd.əl ɡraʊnd/", "register": "neutral", "nuanceVi": "Idiom = 'điểm chung ở giữa'. Nghe mềm mại, hình ảnh hai bên gặp nhau: 'find middle ground'." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "While I [thừa nhận], I would argue that [phản đề].",
+      "use": "Nhượng bộ một điểm rồi lập tức phản biện — chiến thuật cốt lõi để nghe khách quan.",
+      "register": "formal",
+      "examples": [
+        "While I appreciate your concern about cost, I would argue that the long-term savings far outweigh it."
+      ],
+      "explanationVi": "'While' mở mệnh đề nhượng bộ (= dù, trong khi). 'I would argue that' đưa luận điểm của bạn một cách điềm tĩnh, không áp đặt. Công nhận đối phương trước khiến phản biện sau đáng tin hơn.",
+      "altOf": "concede-then-counter"
+    },
+    {
+      "pattern": "You raise a valid point; that said, [phản đề].",
+      "use": "Công nhận ý hay của đối phương rồi xoay sang lập luận của mình.",
+      "register": "neutral",
+      "examples": [
+        "You raise a valid point; that said, the data simply doesn't support that conclusion."
+      ],
+      "explanationVi": "'that said' (= dù vậy) là cách chuyển ý lịch sự mà dứt khoát. Khen ý đối phương trước rồi mới 'lật' — vừa nhã nhặn vừa giữ được lập trường.",
+      "altOf": "concede-then-counter"
+    },
+    {
+      "pattern": "The evidence strongly suggests that [mệnh đề], which is precisely why [kết luận].",
+      "use": "Dẫn bằng chứng rồi rút ra hệ quả logic, gắn chặt hai vế.",
+      "register": "formal",
+      "examples": [
+        "The evidence strongly suggests that demand is rising, which is precisely why we should expand now."
+      ],
+      "explanationVi": "Mệnh đề quan hệ 'which' nối bằng chứng với kết luận thành một mạch liền. 'precisely why' nhấn quan hệ nhân quả, khiến lập luận nghe tất yếu, khó cãi.",
+      "altOf": "back-up-claim"
+    },
+    {
+      "pattern": "If we take into account [yếu tố], it becomes clear that [kết luận].",
+      "use": "Dẫn người nghe cân nhắc một yếu tố để tự thấy kết luận hợp lý.",
+      "register": "formal",
+      "examples": [
+        "If we take into account the environmental impact, it becomes clear that the cheaper option costs us more in the end."
+      ],
+      "explanationVi": "'take into account' = tính đến, cân nhắc. Cấu trúc này 'mời' người nghe cùng suy luận thay vì áp đặt, nên dễ được tiếp nhận hơn.",
+      "altOf": "back-up-claim"
+    },
+    {
+      "pattern": "I'm afraid I have to disagree, not because [lý do hời hợt], but because [lý do thực].",
+      "use": "Phản đối lịch sự nhưng dứt khoát, kèm lý do rõ ràng.",
+      "register": "neutral",
+      "examples": [
+        "I'm afraid I have to disagree, not because the idea is bad, but because the timing is completely wrong."
+      ],
+      "explanationVi": "'I'm afraid' làm câu phản đối mềm đi. Cấu trúc 'not because… but because…' loại ngay hiểu lầm và chỉ thẳng vào lý do thật — nghe thẳng thắn mà vẫn lịch thiệp."
+    },
+    {
+      "pattern": "Surely you'd agree that [điểm chung], so [đề xuất].",
+      "use": "Tìm điểm đồng thuận làm bàn đạp dẫn tới đề xuất của bạn.",
+      "register": "neutral",
+      "examples": [
+        "Surely you'd agree that we both want this to succeed, so why don't we meet in the middle?"
+      ],
+      "explanationVi": "'Surely you'd agree' kéo đối phương về cùng phe trước. Khi đã có điểm chung, đề xuất tiếp theo nghe rất tự nhiên và khó từ chối."
+    },
+    {
+      "pattern": "Ultimately, it boils down to [điểm cốt lõi].",
+      "use": "Chốt lại, gạt chi tiết phụ để nhấn vào mấu chốt.",
+      "register": "neutral",
+      "examples": [
+        "Ultimately, it boils down to whether we trust the team to deliver."
+      ],
+      "explanationVi": "'boil down to' là idiom = 'quy về, rốt cuộc chỉ là'. Câu chốt rất mạnh: ép cuộc tranh luận về một câu hỏi duy nhất, dễ ra quyết định."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Mở đầu khi nhượng bộ một điểm cho đối phương, trước khi phản biện.", "example": "Admittedly, the upfront cost is high, but it pays for itself within a year." },
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Khi muốn đưa ra một ý kiến thẳng thắn, đôi khi hơi gắt.", "example": "Frankly, I don't think that objection holds up under scrutiny." },
+    { "term": "on the contrary", "ipa": "/ɒn ðə ˈkɒn.trər.i/", "vi": "trái lại", "when": "Phản bác trực tiếp, khẳng định điều ngược hẳn với ý vừa nêu.", "example": "On the contrary, the figures show the exact opposite trend." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Khi muốn cân nhắc lại một cách công tâm, thừa nhận đối phương có phần đúng.", "example": "To be fair, you couldn't have predicted the market would shift so suddenly." },
+    { "term": "broadly speaking", "ipa": "/ˈbrɔːd.li ˈspiː.kɪŋ/", "vi": "nói một cách tổng quát", "when": "Khi đưa ra nhận định chung, chừa chỗ cho ngoại lệ.", "example": "Broadly speaking, customers prefer convenience over a slightly lower price." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói cũng biết", "when": "Nhấn một điều hiển nhiên mà ai cũng phải gật đầu.", "example": "Needless to say, no plan survives contact with reality unchanged." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một cuộc họp chiến lược, hai đồng nghiệp tranh luận về việc có nên dồn ngân sách cho một chiến dịch quảng cáo lớn hay chia nhỏ ra nhiều kênh. Đây là cuộc trao đổi trang trọng nhưng thẳng thắn, mỗi người bảo vệ quan điểm của mình bằng lập luận chặt chẽ.",
+    "lines": [
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Honestly, I think we should put the entire budget into one big campaign. A single bold move tends to make a far stronger impression than scattering money across half a dozen channels.",
+        "ipa": "/ˈɒn.ɪst.li aɪ θɪŋk wiː ʃʊd pʊt ði ɪnˈtaɪər ˈbʌdʒ.ɪt ˈɪn.tuː wʌn bɪɡ kæmˈpeɪn ə ˈsɪŋ.ɡəl bəʊld muːv tendz tə meɪk ə fɑːr ˈstrɒŋ.ɡər ɪmˈpreʃ.ən ðæn ˈskæt.ər.ɪŋ ˈmʌn.i əˈkrɒs hɑːf ə ˈdʌz.ən ˈtʃæn.əlz/",
+        "vi": "Thành thật mà nói, tôi nghĩ ta nên dồn toàn bộ ngân sách vào một chiến dịch lớn. Một nước đi táo bạo duy nhất thường tạo ấn tượng mạnh hơn nhiều so với rải tiền ra cả nửa tá kênh."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____ I appreciate the appeal of a bold move, I would argue that putting everything into one campaign is far too risky, particularly when we can't predict how the market will react.",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt ði əˈpiːl əv ə bəʊld muːv aɪ wʊd ˈɑːr.ɡjuː ðæt ˈpʊt.ɪŋ ˈev.ri.θɪŋ ˈɪn.tuː wʌn kæmˈpeɪn ɪz fɑːr tuː ˈrɪs.ki pəˈtɪk.jə.lə.li wen wiː kɑːnt prɪˈdɪkt haʊ ðə ˈmɑːr.kɪt wɪl riˈækt/",
+        "vi": "____ tôi hiểu sức hấp dẫn của một nước đi táo bạo, tôi vẫn cho rằng dồn tất cả vào một chiến dịch là quá rủi ro, đặc biệt khi ta không thể đoán thị trường sẽ phản ứng ra sao.",
+        "blanks": [
+          { "type": "knowledge", "answer": "While", "explanationVi": "Dùng 'While' (= dù, trong khi) mở mệnh đề nhượng bộ, theo đúng mẫu 'While I…, I would argue that…'. Công nhận điểm hay của đối phương trước khi phản biện giúp nghe khách quan, đáng tin." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "But spreading the budget thin means none of the channels gets enough to truly stand out. Don't you think we'd just end up being invisible everywhere?",
+        "ipa": "/bʌt ˈspred.ɪŋ ðə ˈbʌdʒ.ɪt θɪn miːnz nʌn əv ðə ˈtʃæn.əlz ɡets ɪˈnʌf tə ˈtruː.li stænd aʊt dəʊnt juː θɪŋk wiːd dʒʌst end ʌp ˈbiː.ɪŋ ɪnˈvɪz.ə.bəl ˈev.ri.weər/",
+        "vi": "Nhưng chia nhỏ ngân sách nghĩa là không kênh nào đủ tiền để thực sự nổi bật. Anh/chị không nghĩ rốt cuộc ta sẽ mờ nhạt ở khắp mọi nơi sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "You raise a ____ point, and admittedly there's a risk of spreading ourselves too thin. That said, the evidence from last year strongly suggests that customers respond better to repeated exposure across several touchpoints, which is precisely why a multi-channel approach tends to convert more reliably.",
+        "ipa": "/juː reɪz ə pɔɪnt ænd ədˈmɪt.ɪd.li ðeəz ə rɪsk əv ˈspred.ɪŋ aʊəˈselvz tuː θɪn ðæt sed ði ˈev.ɪ.dəns frəm lɑːst jɪər ˈstrɒŋ.li səˈdʒests ðæt ˈkʌs.tə.məz rɪˈspɒnd ˈbet.ər tə rɪˈpiː.tɪd ɪkˈspəʊ.ʒər əˈkrɒs ˈsev.rəl ˈtʌtʃ.pɔɪnts wɪtʃ ɪz prɪˈsaɪs.li waɪ ə ˈmʌl.ti ˈtʃæn.əl əˈprəʊtʃ tendz tə kənˈvɜːt mɔːr rɪˈlaɪ.ə.bli/",
+        "vi": "Anh/chị nêu một ý ____, và phải thừa nhận là có rủi ro dàn trải quá mỏng. Dù vậy, bằng chứng từ năm ngoái cho thấy rõ rằng khách hàng phản hồi tốt hơn khi được tiếp xúc lặp lại qua nhiều điểm chạm, đó chính là lý do cách tiếp cận đa kênh thường chuyển đổi ổn định hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "valid", "explanationVi": "'a valid point' = một ý xác đáng, có cơ sở. Đây là cách lịch sự công nhận ý đối phương trước khi phản biện, theo mẫu 'You raise a valid point; that said,…'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Fair enough, but a multi-channel plan is much harder to manage, and despite the data you mention, I'm worried we simply don't have the team to run it well.",
+        "ipa": "/feər ɪˈnʌf bʌt ə ˈmʌl.ti ˈtʃæn.əl plæn ɪz mʌtʃ ˈhɑːr.dər tə ˈmæn.ɪdʒ ænd dɪsˈpaɪt ðə ˈdeɪ.tə juː ˈmen.ʃən aɪm ˈwʌr.id wiː ˈsɪm.pli dəʊnt hæv ðə tiːm tə rʌn ɪt wel/",
+        "vi": "Cũng có lý, nhưng kế hoạch đa kênh khó quản lý hơn nhiều, và bất chấp dữ liệu anh/chị nêu, tôi lo là ta đơn giản không đủ người để vận hành nó cho tốt."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "If we take into account ____ the team has already automated most of the reporting, it becomes clear that managing several channels isn't nearly as daunting as it sounds. Not only do we keep our options open, but we also reduce the danger of betting everything on a single outcome.",
+        "ipa": "/ɪf wiː teɪk ˈɪn.tuː əˈkaʊnt ðə tiːm həz ɔːlˈred.i ˈɔː.tə.meɪ.tɪd məʊst əv ðə rɪˈpɔː.tɪŋ ɪt bɪˈkʌmz klɪər ðæt ˈmæn.ɪdʒ.ɪŋ ˈsev.rəl ˈtʃæn.əlz ˈɪz.ənt ˈnɪə.li əz ˈdɔːn.tɪŋ əz ɪt saʊndz nɒt ˈəʊn.li duː wiː kiːp aʊər ˈɒp.ʃənz ˈəʊ.pən bʌt wiː ˈɔːl.səʊ rɪˈdjuːs ðə ˈdeɪn.dʒər əv ˈbet.ɪŋ ˈev.ri.θɪŋ ɒn ə ˈsɪŋ.ɡəl ˈaʊt.kʌm/",
+        "vi": "Nếu ta tính đến việc ____ đội ngũ đã tự động hóa phần lớn khâu báo cáo, sẽ thấy rõ rằng quản lý nhiều kênh không hề đáng ngại như nghe qua. Ta không những giữ được nhiều phương án, mà còn giảm rủi ro đặt cược tất cả vào một kết quả duy nhất.",
+        "blanks": [
+          { "type": "knowledge", "answer": "that", "explanationVi": "Sau 'take into account' cần liên từ 'that' để mở mệnh đề danh ngữ (tính đến việc rằng…). Đây chính là mẫu 'If we take into account…, it becomes clear that…' để dẫn người nghe tự rút ra kết luận." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "I see your point. Perhaps I was too focused on making a splash and not enough on managing the risk. So what exactly would you suggest we do?",
+        "ipa": "/aɪ siː jɔːr pɔɪnt pəˈhæps aɪ wəz tuː ˈfəʊ.kəst ɒn ˈmeɪ.kɪŋ ə splæʃ ænd nɒt ɪˈnʌf ɒn ˈmæn.ɪdʒ.ɪŋ ðə rɪsk səʊ wɒt ɪɡˈzækt.li wʊd juː səˈdʒest wiː duː/",
+        "vi": "Tôi hiểu ý anh/chị rồi. Có lẽ tôi quá tập trung vào việc gây tiếng vang mà chưa đủ chú ý đến quản trị rủi ro. Vậy chính xác thì anh/chị đề xuất ta làm gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Surely you'd agree that we both want the strongest possible launch, so why don't we reach a ____: we put the bulk of the budget into two flagship channels, then keep a reserve to scale up whichever one performs best. Ultimately, it boils down to staying flexible rather than locking ourselves in too early.",
+        "ipa": "/ˈʃʊə.li juːd əˈɡriː ðæt wiː bəʊθ wɒnt ðə ˈstrɒŋ.ɡɪst ˈpɒs.ə.bəl lɔːntʃ səʊ waɪ dəʊnt wiː riːtʃ ə ... wiː pʊt ðə bʌlk əv ðə ˈbʌdʒ.ɪt ˈɪn.tuː tuː ˈflæɡ.ʃɪp ˈtʃæn.əlz ðen kiːp ə rɪˈzɜːv tə skeɪl ʌp wɪtʃˈev.ər wʌn pəˈfɔːmz best ˈʌl.tɪ.mət.li ɪt bɔɪlz daʊn tə ˈsteɪ.ɪŋ ˈflek.sə.bəl ˈrɑː.ðər ðæn ˈlɒk.ɪŋ aʊəˈselvz ɪn tuː ˈɜː.li/",
+        "vi": "Chắc chắn anh/chị đồng ý rằng cả hai ta đều muốn một đợt ra mắt mạnh nhất có thể, vậy sao ta không đạt một ____: dồn phần lớn ngân sách vào hai kênh chủ lực, rồi giữ lại một khoản dự phòng để tăng vốn cho kênh nào hiệu quả nhất. Xét cho cùng, vấn đề là giữ được sự linh hoạt thay vì tự trói mình quá sớm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "compromise", "explanationVi": "'reach a compromise' = đạt được một thỏa hiệp/giải pháp dung hòa. Đề xuất thỏa hiệp khi tranh luận đã 'chín' giúp khép lại trong hòa khí, theo mẫu 'Surely you'd agree that…, so…'." }
+        ]
+      },
+      {
+        "speaker": "Đồng nghiệp",
+        "text": "Now that's a compromise I can get behind. Let's draft the plan along those lines and present it to the team first thing tomorrow.",
+        "ipa": "/naʊ ðæts ə ˈkɒm.prə.maɪz aɪ kən ɡet bɪˈhaɪnd lets drɑːft ðə plæn əˈlɒŋ ðəʊz laɪnz ænd prɪˈzent ɪt tə ðə tiːm fɜːst θɪŋ təˈmɒr.əʊ/",
+        "vi": "Vậy thì đây là một thỏa hiệp tôi ủng hộ được. Hãy phác kế hoạch theo hướng đó và trình cho cả nhóm ngay sáng mai."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa tranh luận phương Tây, 'concede a point' (thừa nhận một ý đúng của đối phương) KHÔNG bị xem là thua cuộc — ngược lại, nó cho thấy bạn công tâm và càng làm lập luận của bạn đáng tin hơn.",
+    "Người bản xứ tách bạch rất rõ giữa 'tấn công lập luận' và 'tấn công con người'. Hãy phản bác ý tưởng ('I disagree with that idea') chứ đừng quy kết cá nhân ('You're wrong/You don't understand').",
+    "Câu hỏi tu từ ('Don't you think…?', 'Surely you'd agree…?') được dùng nhiều để kéo người nghe về cùng phía, nhưng đừng lạm dụng kẻo nghe như đang dồn ép.",
+    "Ở môi trường công sở Anh-Mỹ, thẳng thắn được tôn trọng, nhưng luôn 'bọc' bằng cụm giảm nhẹ như 'I'm afraid', 'with respect', 'to be fair' để giữ quan hệ."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DO we keep…', không phải 'Not only we keep…'.",
+    "Dùng 'evidence' như danh từ đếm được: KHÔNG nói 'an evidence' hay 'evidences', mà nói 'a piece of evidence' hoặc 'evidence' (không đếm).",
+    "Lẫn 'refute' (bác bỏ bằng chứng cứ) với 'reject' (chỉ từ chối, không cần chứng minh) — hai mức độ rất khác nhau.",
+    "Phản đối quá trống không, cộc lốc ('No, you're wrong'). Hãy mở bằng cụm giảm nhẹ và nêu lý do: 'I'm afraid I have to disagree, because…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận và lập luận thuyết phục như thật.",
+    "prompt": "Hãy đóng vai một đối tác tranh luận nói tiếng Anh ở trình độ cao (C1). Tôi sẽ nêu một quan điểm về một chủ đề (ví dụ: làm việc từ xa, năng lượng tái tạo, học đại học có còn cần thiết). Nhiệm vụ của bạn là phản biện lại tôi một cách lịch sự nhưng sắc bén, buộc tôi phải bảo vệ lập luận của mình. Sau mỗi lượt của tôi, hãy: (1) phản biện tự nhiên như một người tranh luận giỏi, có nêu bằng chứng/ví dụ; (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt thuyết phục, tinh tế hơn bằng tiếng Việt; (3) khuyến khích tôi dùng các cấu trúc nâng cao như 'While I…, I would argue that…', 'You raise a valid point; that said,…', 'Not only… but also…', và idiom như 'it boils down to'. Thỉnh thoảng hãy nhượng bộ một điểm rồi phản công để tôi học cách ứng phó. Cuối buổi, hãy chấm điểm sức thuyết phục của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách hỏi tôi muốn tranh luận chủ đề gì nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy tranh luận thật gắt và bắt bẻ mọi lỗ hổng logic trong lập luận của tôi.' khi bạn đã quen.",
+      "Thêm: 'Hãy thường xuyên đổi register, lúc trang trọng như họp hội đồng, lúc thân mật như tranh luận với bạn bè, để tôi tập chuyển giọng.'",
+      "Thêm: 'Cuối buổi, hãy chỉ ra những chỗ tôi lẽ ra nên nhượng bộ một điểm để lập luận nghe khách quan hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi dùng được mẫu nhượng bộ rồi phản biện ('While I…, I would argue that…') một cách trôi chảy.",
+    "Tôi phản bác được quan điểm đối lập bằng bằng chứng mà vẫn giữ thái độ lịch sự, không công kích cá nhân.",
+    "Tôi chốt được lập luận bằng một câu kết đanh thép hoặc một đề xuất thỏa hiệp ('Ultimately, it boils down to…')."
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "id": "at-the-supermarket",
+  "category": "daily-life",
+  "title": "Đi siêu thị",
+  "titleEn": "At the Supermarket",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "small-talk"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Hỏi vị trí các quầy hàng và tìm sản phẩm trong siêu thị",
+    "Hỏi giá, chương trình giảm giá và số lượng còn hàng",
+    "Đề nghị lịch sự (xin túi, xin giúp đỡ, hỏi đường ra quầy thanh toán)",
+    "Thanh toán và trả lời nhân viên thu ngân một cách tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "aisle",
+      "ipa": "/aɪl/",
+      "vi": "lối đi giữa các kệ hàng (danh từ)",
+      "register": "neutral",
+      "example": "The milk is in aisle three, next to the eggs.",
+      "exampleVi": "Sữa ở lối đi số ba, cạnh trứng.",
+      "note": "Danh từ. Chữ 's' CÂM hoàn toàn, đọc là /aɪl/ giống 'I'll'. Siêu thị chia hàng theo từng 'aisle' có đánh số.",
+      "synonyms": [
+        { "term": "lane", "ipa": "/leɪn/", "register": "casual", "nuanceVi": "Đời thường hơn, nghĩa 'lối nhỏ'. Trong siêu thị ít dùng bằng 'aisle', hay gặp ở 'checkout lane' (làn thanh toán)." }
+      ]
+    },
+    {
+      "term": "trolley",
+      "ipa": "/ˈtrɒl.i/",
+      "vi": "xe đẩy hàng (danh từ)",
+      "register": "neutral",
+      "example": "Let me get a trolley for all this shopping.",
+      "exampleVi": "Để tôi lấy một xe đẩy cho đống đồ này.",
+      "note": "Danh từ. Anh-Anh dùng 'trolley', Anh-Mỹ dùng 'cart' hoặc 'shopping cart'. Cái giỏ xách tay là 'basket'.",
+      "synonyms": [
+        { "term": "cart", "ipa": "/kɑːrt/", "register": "neutral", "nuanceVi": "Cách nói của người Mỹ (shopping cart). Nghĩa y hệt 'trolley'; dùng cái nào cũng được tùy vùng." },
+        { "term": "basket", "ipa": "/ˈbɑːs.kɪt/", "register": "neutral", "nuanceVi": "Là cái GIỎ xách tay nhỏ, không có bánh xe. Mua ít đồ thì lấy 'basket', mua nhiều thì lấy 'trolley'." }
+      ]
+    },
+    {
+      "term": "fresh",
+      "ipa": "/freʃ/",
+      "vi": "tươi, mới (tính từ)",
+      "register": "neutral",
+      "example": "These vegetables are very fresh today.",
+      "exampleVi": "Rau hôm nay rất tươi.",
+      "note": "Tính từ. Dùng cho rau, trái cây, cá, bánh mì... mới và chưa hỏng. Trái nghĩa là 'stale' (cũ, để lâu).",
+      "synonyms": [
+        { "term": "ripe", "ipa": "/raɪp/", "register": "neutral", "nuanceVi": "Nghĩa 'chín' (dùng cho trái cây). Khác 'fresh': trái cây có thể tươi nhưng chưa chín (ripe) để ăn." }
+      ]
+    },
+    {
+      "term": "cheap",
+      "ipa": "/tʃiːp/",
+      "vi": "rẻ (tính từ)",
+      "register": "neutral",
+      "example": "The fruit here is fresh and quite cheap.",
+      "exampleVi": "Trái cây ở đây tươi và khá rẻ.",
+      "note": "Tính từ. 'cheap' đôi khi mang ý 'rẻ tiền, kém chất lượng'; muốn khen 'giá tốt' thì dùng 'affordable' hay 'good value'.",
+      "synonyms": [
+        { "term": "affordable", "ipa": "/əˈfɔː.də.bəl/", "register": "neutral", "nuanceVi": "Nghĩa 'giá phải chăng, mua được'. Lịch sự và tích cực hơn 'cheap', không gợi ý kém chất lượng." },
+        { "term": "inexpensive", "ipa": "/ˌɪn.ɪkˈspen.sɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'không đắt'. Trung tính, tránh được sắc thái xấu của 'cheap'." }
+      ]
+    },
+    {
+      "term": "expensive",
+      "ipa": "/ɪkˈspen.sɪv/",
+      "vi": "đắt (tính từ)",
+      "register": "neutral",
+      "example": "Imported cheese is usually expensive.",
+      "exampleVi": "Phô mai nhập khẩu thường đắt.",
+      "note": "Tính từ, trái nghĩa với 'cheap'. Phát âm bẫy: trọng âm rơi vào âm giữa 'ex-PEN-sive' (/ɪkˈspen.sɪv/), KHÔNG nhấn âm đầu thành 'EX-pen-sive'.",
+      "synonyms": [
+        { "term": "pricey", "ipa": "/ˈpraɪ.si/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'hơi đắt'. Nghe nhẹ nhàng, thân mật hơn 'expensive'." }
+      ]
+    },
+    {
+      "term": "discount",
+      "ipa": "/ˈdɪs.kaʊnt/",
+      "vi": "giảm giá, khuyến mãi (danh từ)",
+      "register": "neutral",
+      "example": "Is there a discount on these apples?",
+      "exampleVi": "Táo này có giảm giá không?",
+      "note": "Danh từ (nhấn 'DIS-count'). Cụm hay dùng: 'on sale' (đang giảm giá), 'special offer' (ưu đãi đặc biệt).",
+      "synonyms": [
+        { "term": "sale", "ipa": "/seɪl/", "register": "neutral", "nuanceVi": "Cụm 'on sale' nghĩa 'đang được bán giảm giá'. 'discount' nhấn vào mức giảm cụ thể, 'sale' nhấn vào đợt khuyến mãi." }
+      ]
+    },
+    {
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "vi": "hóa đơn, biên lai (danh từ)",
+      "register": "neutral",
+      "example": "Would you like your receipt?",
+      "exampleVi": "Quý khách có lấy hóa đơn không?",
+      "note": "Danh từ. Chữ 'p' CÂM, đọc là /rɪˈsiːt/. Giữ receipt để đổi/trả hàng nếu cần.",
+      "synonyms": []
+    },
+    {
+      "term": "to pay",
+      "ipa": "/peɪ/",
+      "vi": "trả tiền, thanh toán (động từ)",
+      "register": "neutral",
+      "example": "Can I pay by card?",
+      "exampleVi": "Tôi trả bằng thẻ được không?",
+      "note": "Động từ. Đi với giới từ: 'pay BY card' (trả bằng thẻ), 'pay IN cash' (trả tiền mặt), 'pay FOR something'.",
+      "synonyms": [
+        { "term": "to check out", "ipa": "/tʃek aʊt/", "register": "neutral", "nuanceVi": "Cụm động từ nghĩa 'thanh toán và rời đi ở quầy'. Nhấn vào cả quá trình tính tiền, không chỉ động tác trả tiền." }
+      ]
+    },
+    {
+      "term": "to look for",
+      "ipa": "/lʊk fɔːr/",
+      "vi": "tìm, tìm kiếm (động từ)",
+      "register": "neutral",
+      "example": "I'm looking for the bread, please.",
+      "exampleVi": "Tôi đang tìm bánh mì.",
+      "note": "Cụm động từ, luôn đi với 'for'. Khác 'find' (đã tìm THẤY): 'look for' là đang tìm, 'find' là kết quả.",
+      "synonyms": [
+        { "term": "to search for", "ipa": "/sɜːtʃ fɔːr/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn việc tìm có chủ đích, kỹ lưỡng. Trong siêu thị, 'look for' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "nearby",
+      "ipa": "/ˌnɪəˈbaɪ/",
+      "vi": "ở gần đây (trạng từ / tính từ)",
+      "register": "neutral",
+      "example": "The checkout is just nearby, on your left.",
+      "exampleVi": "Quầy thanh toán ngay gần đây, bên trái bạn.",
+      "note": "Có thể là trạng từ ('It's nearby') hoặc tính từ ('a nearby shop'). Hữu ích khi chỉ đường ngắn.",
+      "synonyms": [
+        { "term": "close by", "ipa": "/kləʊs baɪ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'ngay sát đây'. Gần như y hệt 'nearby'; nghe thân mật hơn một chút." }
+      ]
+    },
+    {
+      "term": "checkout",
+      "ipa": "/ˈtʃek.aʊt/",
+      "vi": "quầy thanh toán (danh từ)",
+      "register": "neutral",
+      "example": "Please go to the checkout to pay.",
+      "exampleVi": "Mời bạn ra quầy thanh toán để trả tiền.",
+      "note": "Danh từ (có khi viết 'check-out'). Nơi quẹt mã và trả tiền. 'self-checkout' là quầy tự thanh toán.",
+      "synonyms": [
+        { "term": "till", "ipa": "/tɪl/", "register": "casual", "nuanceVi": "Cách nói Anh-Anh, nghĩa 'quầy/máy tính tiền'. Vd 'Pay at the till.' Anh-Mỹ ít dùng từ này." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Excuse me, where can I find [danh từ]?",
+      "use": "Hỏi vị trí của một món hàng trong siêu thị.",
+      "register": "neutral",
+      "examples": [
+        "Excuse me, where can I find the milk?",
+        "Excuse me, where can I find the fresh vegetables?"
+      ],
+      "explanationVi": "'Excuse me' mở đầu lịch sự khi nhờ người lạ. 'where can I find...?' là cách hỏi vị trí tự nhiên nhất. Đây là câu xương sống khi đi siêu thị.",
+      "altOf": "asking-location"
+    },
+    {
+      "pattern": "Which aisle is [danh từ] in?",
+      "use": "Hỏi món hàng nằm ở lối đi số mấy.",
+      "register": "neutral",
+      "examples": [
+        "Which aisle is the bread in?",
+        "Which aisle is the milk in?"
+      ],
+      "explanationVi": "Siêu thị chia hàng theo 'aisle' (lối đi) có đánh số, nên câu này rất tiện. Nhớ giới từ 'in' ở cuối: '...is the bread IN?'.",
+      "altOf": "asking-location"
+    },
+    {
+      "pattern": "How much is/are [danh từ]?",
+      "use": "Hỏi giá của một món hàng.",
+      "register": "neutral",
+      "examples": [
+        "How much is this cheese?",
+        "How much are these apples?"
+      ],
+      "explanationVi": "Dùng 'is' cho số ít ('this cheese'), 'are' cho số nhiều ('these apples'). Đây là câu hỏi giá cơ bản và thông dụng nhất.",
+      "altOf": "asking-price"
+    },
+    {
+      "pattern": "Is there a discount on [danh từ]?",
+      "use": "Hỏi xem món hàng có đang giảm giá không.",
+      "register": "neutral",
+      "examples": [
+        "Is there a discount on these oranges?",
+        "Is there a discount on bread today?"
+      ],
+      "explanationVi": "'Is there...?' = 'có... không?'. 'discount on something' = giảm giá cho món gì. Hỏi câu này có thể giúp bạn mua được giá tốt.",
+      "altOf": "asking-price"
+    },
+    {
+      "pattern": "Could I have [danh từ], please?",
+      "use": "Xin một thứ gì đó (túi, hóa đơn, giúp đỡ) một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could I have a bag, please?",
+        "Could I have a receipt, please?"
+      ],
+      "explanationVi": "'Could I have...?' lịch sự hơn 'Give me...' (nghe cộc). Thêm 'please' ở cuối làm câu mềm và lịch sự hơn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Can I pay by [card / cash]?",
+      "use": "Hỏi cách thanh toán được chấp nhận.",
+      "register": "neutral",
+      "examples": [
+        "Can I pay by card?",
+        "Can I pay in cash?"
+      ],
+      "explanationVi": "Nhớ giới từ: 'pay BY card' (bằng thẻ) nhưng 'pay IN cash' (bằng tiền mặt). Đây là câu cần thiết ở quầy thanh toán.",
+      "altOf": "making-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "just",
+      "ipa": "/dʒʌst/",
+      "vi": "chỉ là... (làm câu nhẹ nhàng hơn)",
+      "when": "Khi muốn yêu cầu nghe nhẹ, không quá đòi hỏi.",
+      "example": "I'm just looking for the milk, thanks."
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ nhàng)",
+      "when": "Khi cần sửa lại hoặc nói thêm điều gì mà không muốn cộc lốc.",
+      "example": "Actually, I'll take two of these, please."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể, nhân tiện",
+      "when": "Khi muốn hỏi thêm một câu ngoài lề.",
+      "example": "By the way, where is the checkout?"
+    },
+    {
+      "term": "right over there",
+      "ipa": "/raɪt ˈəʊ.vər ðeər/",
+      "vi": "ngay đằng kia (chỉ đường)",
+      "when": "Khi chỉ cho ai đó vị trí gần, nhìn thấy được.",
+      "example": "The bread is right over there, near the entrance."
+    },
+    {
+      "term": "of course",
+      "ipa": "/əv ˈkɔːrs/",
+      "vi": "tất nhiên rồi (đáp lại lịch sự)",
+      "when": "Khi vui vẻ đồng ý giúp đỡ hoặc trả lời câu hỏi.",
+      "example": "Of course, the receipt is in the bag."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang đi siêu thị để mua đồ. Bạn hỏi một nhân viên về vị trí và giá hàng, rồi ra quầy thanh toán trả tiền.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon! You look a little lost. Can I help you find anything today?",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn juː lʊk ə ˈlɪt.əl lɒst kæn aɪ help juː faɪnd ˈen.i.θɪŋ təˈdeɪ/",
+        "vi": "Chào buổi chiều! Trông bạn hơi lạc đường. Tôi giúp bạn tìm gì hôm nay nhé?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. Excuse me, where can I ____ the fresh milk? I have been walking around, but I can't find it.",
+        "ipa": "/jes pliːz ɪkˈskjuːz miː weər kæn aɪ ... ðə freʃ mɪlk aɪ hæv biːn ˈwɔː.kɪŋ əˈraʊnd bʌt aɪ kɑːnt faɪnd ɪt/",
+        "vi": "Vâng. Xin lỗi, tôi có thể ____ sữa tươi ở đâu? Tôi đi vòng vòng mãi mà không tìm thấy.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "find",
+            "explanationVi": "Dùng 'find' (động từ nguyên thể sau 'can I'). Mẫu câu 'Where can I find...?' để hỏi vị trí món hàng. Xem phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. The milk is in aisle ____, right next to the eggs and the cheese. It's near the back of the store.",
+        "ipa": "/əv kɔːrs ðə mɪlk ɪz ɪn aɪl ... raɪt nekst tə ði eɡz ænd ðə tʃiːz ɪts nɪər ðə bæk əv ðə stɔːr/",
+        "vi": "Tất nhiên rồi. Sữa ở lối đi số ____, ngay cạnh trứng và phô mai. Nó ở phía cuối cửa hàng.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Số lối đi bất kỳ. Ví dụ: 'three' (số 3) hoặc 'five' (số 5)."
+          }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. By the way, these apples look really fresh. How much ____ they, and is there a discount today?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ baɪ ðə weɪ ðiːz ˈæp.əlz lʊk ˈrɪə.li freʃ haʊ mʌtʃ ... ðeɪ ænd ɪz ðeər ə ˈdɪs.kaʊnt təˈdeɪ/",
+        "vi": "Cảm ơn nhiều. Tiện thể, mấy quả táo này trông rất tươi. Chúng giá bao nhiêu ____, và hôm nay có giảm giá không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "are",
+            "explanationVi": "Dùng 'are' vì 'apples' số nhiều ('these apples'). Mẫu 'How much are + danh từ số nhiều?'. Nếu số ít thì dùng 'is'. Xem phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "They are two dollars a kilo, although today they are on sale, so they are quite cheap. They are not only fresh but also grown locally.",
+        "ipa": "/ðeɪ ɑːr tuː ˈdɒl.əz ə ˈkiː.ləʊ ɔːlˈðəʊ təˈdeɪ ðeɪ ɑːr ɒn seɪl səʊ ðeɪ ɑːr kwaɪt tʃiːp ðeɪ ɑːr nɒt ˈəʊn.li freʃ bʌt ˈɔːl.səʊ ɡrəʊn ˈləʊ.kə.li/",
+        "vi": "Hai đô một ký, mặc dù hôm nay đang giảm giá nên khá rẻ. Chúng không những tươi mà còn được trồng tại địa phương."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great. I'll take one kilo, please. ____ I also have a bag, because I forgot to bring my own?",
+        "ipa": "/ðæt saʊndz ɡreɪt aɪl teɪk wʌn ˈkiː.ləʊ pliːz ... aɪ ˈɔːl.səʊ hæv ə bæɡ bɪˈkɒz aɪ fəˈɡɒt tə brɪŋ maɪ əʊn/",
+        "vi": "Nghe tuyệt đấy. Cho tôi một ký nhé. ____ tôi xin thêm một cái túi không, vì tôi quên mang túi riêng?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Could",
+            "explanationVi": "Dùng 'Could' trong mẫu 'Could I have...?' để xin lịch sự. 'Could' lịch sự hơn 'Can'. Xem phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Certainly. When you are ready, the checkout is right over there, near the entrance, which is on your left.",
+        "ipa": "/ˈsɜːt.ən.li wen juː ɑːr ˈred.i ðə ˈtʃek.aʊt ɪz raɪt ˈəʊ.vər ðeər nɪər ði ˈen.trəns wɪtʃ ɪz ɒn jɔːr left/",
+        "vi": "Chắc chắn rồi. Khi nào bạn xong, quầy thanh toán ngay đằng kia, gần lối vào, chỗ mà ở bên trái bạn ấy."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect, thank you. I think I have everything now. Can I pay ____ card at the checkout?",
+        "ipa": "/ˈpɜː.fɪkt θæŋk juː aɪ θɪŋk aɪ hæv ˈev.ri.θɪŋ naʊ kæn aɪ peɪ ... kɑːrd ət ðə ˈtʃek.aʊt/",
+        "vi": "Tuyệt vời, cảm ơn. Tôi nghĩ tôi đã có đủ rồi. Tôi trả ____ thẻ ở quầy thanh toán được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "by",
+            "explanationVi": "Dùng giới từ 'by' với thẻ: 'pay BY card'. Lưu ý khác với tiền mặt: 'pay IN cash'. Xem phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Yes, you can pay by card or in cash. Don't forget to take your receipt, and have a lovely day!",
+        "ipa": "/jes juː kæn peɪ baɪ kɑːrd ɔːr ɪn kæʃ dəʊnt fəˈɡet tə teɪk jɔːr rɪˈsiːt ænd hæv ə ˈlʌv.li deɪ/",
+        "vi": "Vâng, bạn có thể trả bằng thẻ hoặc tiền mặt. Đừng quên lấy hóa đơn, và chúc bạn một ngày vui vẻ!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, túi nilon thường mất phí và khách hay tự mang túi vải đi mua sắm để bảo vệ môi trường. Câu 'Could I have a bag?' đôi khi sẽ kèm câu hỏi 'Tính phí túi nhé?'.",
+    "Siêu thị chia hàng theo 'aisle' (lối đi) có đánh số và treo bảng tên nhóm hàng phía trên. Nhìn bảng treo là cách nhanh nhất để tìm đồ.",
+    "Nhiều siêu thị có 'self-checkout' (quầy tự thanh toán) để bạn tự quét mã và trả tiền, rất tiện khi mua ít đồ.",
+    "Rau củ, trái cây thường tính theo cân (per kilo) và bạn cần tự cân, dán mã ở khu cân tự động trước khi ra quầy."
+  ],
+
+  "commonMistakes": [
+    "Đọc sai 'aisle': chữ 's' câm, phải đọc /aɪl/ (giống 'I'll'), không đọc là 'ai-sồ'.",
+    "Nói 'I want a bag' nghe cộc. Người bản xứ dùng 'Could I have a bag, please?' cho lịch sự.",
+    "Nhầm giới từ khi trả tiền: 'pay BY card' (bằng thẻ) nhưng 'pay IN cash' (bằng tiền mặt).",
+    "Dùng 'is' cho số nhiều: phải nói 'How much ARE these apples?', không phải 'How much is these apples?'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống đi siêu thị như thật.",
+    "prompt": "Hãy đóng vai một nhân viên siêu thị nói tiếng Anh. Tôi là khách hàng đang đi mua đồ. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần tìm gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (chỉ đường, báo giá, nói về khuyến mãi), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng đặt ra tình huống bất ngờ (ví dụ món hàng hết hàng, máy quẹt thẻ bị lỗi, hỏi tôi có thẻ thành viên không) để tôi tập xử lý. Nói chậm rãi, thân thiện, dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi vài câu nhỏ kiểu trò chuyện xã giao (small talk) khi tính tiền.' để tập nói tự nhiên hơn.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cho tôi 3 từ vựng mới về siêu thị.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được vị trí một món hàng bằng 'Where can I find...?' mà không nhìn gợi ý.",
+    "Tôi hỏi được giá và chương trình giảm giá ('How much...?', 'Is there a discount...?').",
+    "Tôi xin được túi và hỏi cách thanh toán ('Could I have a bag?', 'Can I pay by card?')."
+  ]
+}

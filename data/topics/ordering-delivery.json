@@ -1,0 +1,328 @@
+{
+  "id": "ordering-delivery",
+  "category": "daily-life",
+  "title": "Đặt đồ ăn giao tận nơi",
+  "titleEn": "Ordering Delivery",
+  "level": "A2",
+  "functions": ["requesting", "asking-info", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Gọi điện hoặc dùng app để đặt món ăn giao tận nơi",
+    "Hỏi về phí giao hàng, thời gian giao và các món có sẵn",
+    "Cung cấp địa chỉ và yêu cầu đặc biệt một cách lịch sự",
+    "Xử lý tình huống đơn bị giao thiếu hoặc giao sai"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "delivery",
+      "ipa": "/dɪˈlɪv.ər.i/",
+      "vi": "việc giao hàng tận nơi (danh từ)",
+      "register": "neutral",
+      "example": "How long does delivery take?",
+      "exampleVi": "Giao hàng mất bao lâu vậy?",
+      "note": "Danh từ. Động từ là 'to deliver' (giao). Người giao là 'delivery driver' hoặc 'delivery person'.",
+      "synonyms": [
+        { "term": "drop-off", "ipa": "/ˈdrɒp.ɒf/", "register": "casual", "nuanceVi": "Đời thường, chỉ việc 'thả/giao đồ tại một điểm'. Hay dùng trên app: 'contactless drop-off' (giao không tiếp xúc)." }
+      ]
+    },
+    {
+      "term": "order",
+      "ipa": "/ˈɔː.dər/",
+      "vi": "đơn hàng; gọi món (danh từ / động từ)",
+      "register": "neutral",
+      "example": "I'd like to place an order, please.",
+      "exampleVi": "Tôi muốn đặt một đơn hàng.",
+      "note": "Vừa là danh từ ('an order') vừa là động từ ('to order'). Cụm hay dùng: 'place an order' = đặt đơn.",
+      "synonyms": [
+        { "term": "to book", "ipa": "/buːk/", "register": "neutral", "nuanceVi": "Nghĩa 'đặt trước'. Dùng cho bàn ăn hay dịch vụ nhiều hơn là cho món ăn lẻ; với đồ ăn nhanh thì 'order' tự nhiên hơn." }
+      ]
+    },
+    {
+      "term": "menu",
+      "ipa": "/ˈmen.juː/",
+      "vi": "thực đơn (danh từ)",
+      "register": "neutral",
+      "example": "Can I see the menu on your app?",
+      "exampleVi": "Tôi xem thực đơn trên app của bạn được không?",
+      "note": "Danh từ. Phát âm 'men-yoo', không đọc là 'mê-nu' kiểu tiếng Việt."
+    },
+    {
+      "term": "to charge",
+      "ipa": "/tʃɑːdʒ/",
+      "vi": "tính phí, thu tiền (động từ)",
+      "register": "neutral",
+      "example": "Do you charge extra for delivery?",
+      "exampleVi": "Bên bạn có tính thêm phí giao hàng không?",
+      "note": "Động từ. Danh từ 'a charge' = một khoản phí. Đừng nhầm với 'fee' (cũng là phí nhưng là danh từ).",
+      "synonyms": [
+        { "term": "fee", "ipa": "/fiː/", "register": "neutral", "nuanceVi": "Là DANH TỪ chỉ khoản phí (vd 'a delivery fee'). 'charge' thường dùng làm động từ ('they charge a fee')." },
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Nhấn vào 'giá phải trả' nói chung. Trung tính, dùng được cho cả vật lẫn dịch vụ." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "còn sẵn, có sẵn (tính từ)",
+      "register": "neutral",
+      "example": "Is the chicken curry still available tonight?",
+      "exampleVi": "Tối nay còn món cà ri gà không?",
+      "note": "Tính từ. Rất hay dùng để hỏi món còn hay đã hết.",
+      "synonyms": [
+        { "term": "in stock", "ipa": "/ɪn stɒk/", "register": "neutral", "nuanceVi": "Nhấn 'còn hàng trong kho'. Hợp với nguyên liệu/sản phẩm hơn là món đã nấu sẵn." },
+        { "term": "on the menu", "ipa": "/ɒn ðə ˈmen.juː/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa 'có trong thực đơn'. Nhẹ nhàng, thân mật khi nói chuyện." }
+      ]
+    },
+    {
+      "term": "address",
+      "ipa": "/əˈdres/",
+      "vi": "địa chỉ (danh từ)",
+      "register": "neutral",
+      "example": "Could you confirm my delivery address?",
+      "exampleVi": "Bạn xác nhận giúp địa chỉ giao hàng của tôi nhé?",
+      "note": "Danh từ. Bẫy trọng âm: người Anh hay nhấn âm hai /əˈdres/; người Mỹ đôi khi nhấn âm đầu /ˈæd.res/."
+    },
+    {
+      "term": "spicy",
+      "ipa": "/ˈspaɪ.si/",
+      "vi": "cay (tính từ)",
+      "register": "neutral",
+      "example": "Please make my noodles not too spicy.",
+      "exampleVi": "Làm ơn cho mì của tôi đừng quá cay.",
+      "note": "Tính từ. Hay dùng khi nêu yêu cầu đặc biệt về món ăn.",
+      "synonyms": [
+        { "term": "hot", "ipa": "/hɒt/", "register": "casual", "nuanceVi": "Đời thường, 'hot' cũng nghĩa là cay (ngoài nghĩa nóng). Hơi dễ gây hiểu nhầm với nhiệt độ, nên 'spicy' rõ ràng hơn." },
+        { "term": "mild", "ipa": "/maɪld/", "register": "neutral", "nuanceVi": "Trái nghĩa: 'mild' = ít cay, dịu. Hữu ích khi muốn xin món không cay." }
+      ]
+    },
+    {
+      "term": "to confirm",
+      "ipa": "/kənˈfɜːm/",
+      "vi": "xác nhận (động từ)",
+      "register": "neutral",
+      "example": "Let me confirm your order, please.",
+      "exampleVi": "Để tôi xác nhận lại đơn của bạn nhé.",
+      "note": "Động từ. Cuối cuộc gọi, người bán hay 'confirm' lại đơn và địa chỉ.",
+      "synonyms": [
+        { "term": "to double-check", "ipa": "/ˈdʌb.əl tʃek/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'kiểm tra lại cho chắc'. Thân mật hơn 'confirm'." },
+        { "term": "to check", "ipa": "/tʃek/", "register": "neutral", "nuanceVi": "Trung tính, nghĩa 'kiểm tra'. Nhẹ hơn 'confirm' (vốn mang nghĩa chốt lại chính thức)." }
+      ]
+    },
+    {
+      "term": "quickly",
+      "ipa": "/ˈkwɪk.li/",
+      "vi": "một cách nhanh chóng (trạng từ)",
+      "register": "neutral",
+      "example": "The food arrived very quickly tonight.",
+      "exampleVi": "Tối nay đồ ăn đến rất nhanh.",
+      "note": "Trạng từ, bổ nghĩa cho động từ. Đứng sau động từ: 'arrived quickly'.",
+      "synonyms": [
+        { "term": "fast", "ipa": "/fɑːst/", "register": "casual", "nuanceVi": "Vừa là tính từ vừa là trạng từ ('come fast'). Đời thường, ngắn gọn hơn 'quickly'." },
+        { "term": "promptly", "ipa": "/ˈprɒmpt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đúng giờ, không trì hoãn'. Nghe lịch sự, chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "to refund",
+      "ipa": "/rɪˈfʌnd/",
+      "vi": "hoàn tiền (động từ)",
+      "register": "neutral",
+      "example": "Could you refund the missing item?",
+      "exampleVi": "Bạn hoàn tiền cho món bị thiếu được không?",
+      "note": "Động từ và danh từ: 'a refund' = khoản tiền hoàn lại. Hữu ích khi đơn bị giao thiếu hoặc sai."
+    },
+    {
+      "term": "tasty",
+      "ipa": "/ˈteɪ.sti/",
+      "vi": "ngon (tính từ)",
+      "register": "casual",
+      "example": "The pizza was really tasty, thank you.",
+      "exampleVi": "Cái pizza ngon thật, cảm ơn nhé.",
+      "note": "Tính từ đời thường để khen món ăn.",
+      "synonyms": [
+        { "term": "delicious", "ipa": "/dɪˈlɪʃ.əs/", "register": "neutral", "nuanceVi": "Phổ biến và mạnh hơn 'tasty', nghĩa 'rất ngon'. An toàn để dùng ở mọi ngữ cảnh." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to order [món], please.",
+      "use": "Gọi món một cách lịch sự khi bắt đầu đặt hàng.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to order a large pizza, please.",
+        "I'd like to order two bowls of beef noodles, please."
+      ],
+      "explanationVi": "'I'd like to' = 'I would like to', lịch sự hơn 'I want to' (nghe hơi cộc). Đây là câu xương sống để gọi món.",
+      "altOf": "placing-order"
+    },
+    {
+      "pattern": "Can I get [món]?",
+      "use": "Gọi món theo cách thân mật, đời thường (qua app hoặc quán quen).",
+      "register": "casual",
+      "examples": [
+        "Can I get a cheeseburger and some fries?",
+        "Can I get one iced coffee, please?"
+      ],
+      "explanationVi": "'Can I get…?' rất tự nhiên ở Mỹ khi gọi đồ ăn nhanh. Thân mật hơn 'I'd like to order'. Thêm 'please' cho lịch sự.",
+      "altOf": "placing-order"
+    },
+    {
+      "pattern": "How much is [danh từ]?",
+      "use": "Hỏi giá của một món hoặc của phí giao hàng.",
+      "register": "neutral",
+      "examples": [
+        "How much is the delivery fee?",
+        "How much is a large fried chicken?"
+      ],
+      "explanationVi": "'How much is…?' dùng để hỏi giá. Câu rất cơ bản nhưng cực kỳ hay dùng khi đặt đồ ăn."
+    },
+    {
+      "pattern": "Is [món] available?",
+      "use": "Hỏi xem một món còn hay đã hết.",
+      "register": "neutral",
+      "examples": [
+        "Is the seafood soup available tonight?",
+        "Are vegetarian options available?"
+      ],
+      "explanationVi": "'available' = còn sẵn. Hỏi trước để tránh đặt món đã hết. Số nhiều thì đổi 'Is' thành 'Are'."
+    },
+    {
+      "pattern": "Could you [động từ], please?",
+      "use": "Nhờ người bán làm một việc một cách lịch sự (giao nhanh, gọi trước, để ngoài cửa).",
+      "register": "neutral",
+      "examples": [
+        "Could you leave it at the door, please?",
+        "Could you call me when you arrive, please?"
+      ],
+      "explanationVi": "'Could you…?' lịch sự hơn 'Can you…?', hợp khi nhờ người lạ. Thêm 'please' để nghe nhã nhặn hơn.",
+      "altOf": "polite-request"
+    },
+    {
+      "pattern": "Can you make it [tính từ]?",
+      "use": "Nêu yêu cầu đặc biệt về món ăn (cay, ít đường, không hành).",
+      "register": "casual",
+      "examples": [
+        "Can you make it less spicy, please?",
+        "Can you make it without onions?"
+      ],
+      "explanationVi": "Mẫu nhanh gọn để dặn cách làm món. Với người lạ có thể đổi sang 'Could you make it…?' cho lịch sự hơn.",
+      "altOf": "polite-request"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin mà không muốn nghe cộc.", "example": "Actually, I ordered two coffees, not one." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, do you take cash on delivery?" },
+    { "term": "please", "ipa": "/pliːz/", "vi": "làm ơn", "when": "Thêm vào cuối yêu cầu để nghe lịch sự hơn.", "example": "Two spring rolls, please." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nhẹ đi)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.", "example": "I just want to check on my order." },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Khi nói về điều mong sẽ xảy ra (giao đúng giờ).", "example": "Hopefully, the food will arrive before seven." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn gọi điện đến một nhà hàng để đặt đồ ăn giao tận nhà vào buổi tối. Nhân viên nhận đơn và xác nhận lại với bạn.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good evening, this is Saigon Kitchen. How can I help you tonight?",
+        "ipa": "/ɡʊd ˈiːv.nɪŋ ðɪs ɪz saɪˈɡɒn ˈkɪtʃ.ɪn haʊ kæn aɪ help juː təˈnaɪt/",
+        "vi": "Chào buổi tối, đây là Saigon Kitchen. Tối nay tôi có thể giúp gì cho bạn ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi, good evening. I'd like to order some food for delivery, please. Could you tell me which dishes are ____ tonight?",
+        "ipa": "/haɪ ɡʊd ˈiːv.nɪŋ aɪd laɪk tə ˈɔː.dər sʌm fuːd fɔːr dɪˈlɪv.ər.i pliːz kʊd juː tel miː wɪtʃ ˈdɪʃ.ɪz ɑːr təˈnaɪt/",
+        "vi": "Chào buổi tối. Tôi muốn đặt ít đồ ăn giao tận nơi. Bạn cho tôi biết tối nay có những món nào không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "available", "explanationVi": "Dùng tính từ 'available' (= còn sẵn) để hỏi món nào còn. Xem mẫu câu 'Is [món] available?' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Almost everything is available, such as beef noodles, fried chicken, and spring rolls. However, the seafood soup is sold out tonight.",
+        "ipa": "/ˈɔːl.məʊst ˈev.ri.θɪŋ ɪz əˈveɪ.lə.bəl sʌtʃ æz biːf ˈnuː.dəlz fraɪd ˈtʃɪk.ɪn ænd sprɪŋ rəʊlz haʊˈev.ər ðə ˈsiː.fuːd suːp ɪz səʊld aʊt təˈnaɪt/",
+        "vi": "Gần như món nào cũng còn, chẳng hạn như mì bò, gà rán và chả giò. Tuy nhiên, món súp hải sản tối nay đã hết rồi ạ."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's fine. I'd like to order one bowl of beef noodles and one portion of fried chicken, please. Although I love spicy food, could you make the noodles ____ spicy for my mother?",
+        "ipa": "/ðæts faɪn aɪd laɪk tə ˈɔː.dər wʌn bəʊl əv biːf ˈnuː.dəlz ænd wʌn ˈpɔː.ʃən əv fraɪd ˈtʃɪk.ɪn pliːz ɔːlˈðəʊ aɪ lʌv ˈspaɪ.si fuːd kʊd juː meɪk ðə ˈnuː.dəlz ... ˈspaɪ.si fɔːr maɪ ˈmʌð.ər/",
+        "vi": "Vậy cũng được. Tôi muốn đặt một tô mì bò và một phần gà rán. Mặc dù tôi rất thích đồ cay, nhưng bạn làm mì ____ cay giúp mẹ tôi nhé?",
+        "blanks": [
+          { "type": "personal", "hint": "Mức độ cay bạn muốn. Ví dụ: 'less' (ít cay hơn) hoặc 'not too' (đừng quá cay)." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "No problem at all. Not only can we make it less spicy, but we can also add extra vegetables if you like. What is your delivery ____, please?",
+        "ipa": "/nəʊ ˈprɒb.ləm æt ɔːl nɒt ˈəʊn.li kæn wiː meɪk ɪt les ˈspaɪ.si bʌt wiː kæn ˈɔːl.səʊ æd ˈek.strə ˈvedʒ.tə.bəlz ɪf juː laɪk wɒt ɪz jɔːr dɪˈlɪv.ər.i ... pliːz/",
+        "vi": "Không vấn đề gì ạ. Chúng tôi không chỉ làm ít cay hơn được, mà còn có thể thêm rau nếu bạn muốn. Cho tôi xin địa chỉ ____ giao hàng của bạn nhé?",
+        "blanks": [
+          { "type": "knowledge", "answer": "address", "explanationVi": "Danh từ 'address' = địa chỉ. 'delivery address' = địa chỉ giao hàng. Đây là từ vựng trọng tâm của bài." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It's ____. By the way, how much is the delivery fee, and how long will it take?",
+        "ipa": "/ɪts ... baɪ ðə weɪ haʊ mʌtʃ ɪz ðə dɪˈlɪv.ər.i fiː ænd haʊ lɒŋ wɪl ɪt teɪk/",
+        "vi": "Địa chỉ của tôi là ____. Tiện thể, phí giao hàng là bao nhiêu, và mất bao lâu vậy?",
+        "blanks": [
+          { "type": "personal", "hint": "Địa chỉ nhà bạn. Ví dụ: '25 Le Loi Street, District 1'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "The delivery fee is two dollars, and the food should arrive ____, usually within thirty minutes. Despite the rain tonight, our driver who covers your area is very fast.",
+        "ipa": "/ðə dɪˈlɪv.ər.i fiː ɪz tuː ˈdɒl.əz ænd ðə fuːd ʃʊd əˈraɪv ... ˈjuː.ʒu.ə.li wɪˈðɪn ˈθɜː.ti ˈmɪn.ɪts dɪˈspaɪt ðə reɪn təˈnaɪt ˈaʊə ˈdraɪ.vər huː ˈkʌv.əz jɔːr ˈeə.ri.ə ɪz ˈver.i fɑːst/",
+        "vi": "Phí giao hàng là hai đô, và đồ ăn sẽ đến ____, thường trong vòng ba mươi phút. Dù tối nay trời mưa, người giao hàng phụ trách khu vực của bạn rất nhanh.",
+        "blanks": [
+          { "type": "knowledge", "answer": "quickly", "explanationVi": "Dùng trạng từ 'quickly' (= một cách nhanh chóng) để bổ nghĩa cho động từ 'arrive'. Trạng từ đứng sau động từ." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds great. Could you ____ my order one more time, please, in order to make sure everything is correct?",
+        "ipa": "/ðæt saʊndz ɡreɪt kʊd juː ... maɪ ˈɔː.dər wʌn mɔːr taɪm pliːz ɪn ˈɔː.dər tə meɪk ʃʊər ˈev.ri.θɪŋ ɪz kəˈrekt/",
+        "vi": "Nghe tuyệt đấy. Bạn ____ lại đơn của tôi một lần nữa được không, để chắc chắn mọi thứ đều đúng?",
+        "blanks": [
+          { "type": "knowledge", "answer": "confirm", "explanationVi": "Động từ 'confirm' (= xác nhận). Sau 'Could you' dùng động từ nguyên thể. Xem từ vựng 'to confirm'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. One bowl of beef noodles, less spicy, and one portion of fried chicken, delivered to your address. Your total is fifteen dollars, and it will be there shortly. Thank you!",
+        "ipa": "/ɒv kɔːs wʌn bəʊl əv biːf ˈnuː.dəlz les ˈspaɪ.si ænd wʌn ˈpɔː.ʃən əv fraɪd ˈtʃɪk.ɪn dɪˈlɪv.əd tə jɔːr əˈdres jɔːr ˈtəʊ.təl ɪz fɪfˈtiːn ˈdɒl.əz ænd ɪt wɪl biː ðeə ˈʃɔːt.li θæŋk juː/",
+        "vi": "Tất nhiên rồi. Một tô mì bò ít cay và một phần gà rán, giao đến địa chỉ của bạn. Tổng cộng là mười lăm đô, và sẽ đến ngay thôi. Cảm ơn bạn!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, các app giao đồ ăn như Uber Eats, DoorDash hay Grab rất phổ biến; bạn thường gõ ghi chú thay vì gọi điện.",
+    "Tiền tip cho người giao hàng (delivery driver) là thông lệ, thường 10-15% hoặc 2-5 đô, nhất là khi trời mưa hoặc giao xa.",
+    "'Contactless delivery' (giao không tiếp xúc, để ở cửa) trở nên rất phổ biến — bạn có thể yêu cầu 'leave it at the door'.",
+    "Phí giao hàng (delivery fee) và phí dịch vụ (service fee) thường tách riêng khỏi giá món, nên tổng tiền cao hơn giá trên menu."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I want…' nghe cộc lốc. Dùng 'I'd like to order…' hoặc 'Can I get…?' cho lịch sự, tự nhiên hơn.",
+    "Quên mạo từ: phải nói 'I'd like to order A pizza', không phải 'order pizza'.",
+    "Nhầm 'spicy' với 'hot'. 'Hot' có thể bị hiểu là nóng (nhiệt độ); muốn nói vị cay thì 'spicy' rõ hơn.",
+    "Dùng 'quick' (tính từ) thay cho 'quickly' (trạng từ) khi bổ nghĩa cho động từ: 'arrive quickly', không phải 'arrive quick'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện đặt đồ ăn giao tận nơi như thật.",
+    "prompt": "Hãy đóng vai một nhân viên nhà hàng nói tiếng Anh nhận đơn đặt đồ ăn qua điện thoại. Tôi là khách muốn đặt món giao tận nhà. Hãy bắt đầu bằng cách chào và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (hỏi món, địa chỉ, phí giao, thời gian giao), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ món đã hết, giao trễ vì trời mưa, hoặc giao thiếu một món) để tôi tập xử lý. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự đặt được món bằng mẫu 'I'd like to order…' hoặc 'Can I get…?' mà không nhìn gợi ý.",
+    "Tôi hỏi được phí giao hàng và thời gian giao bằng 'How much…?' và 'How long…?'.",
+    "Tôi nêu được một yêu cầu đặc biệt (ít cay, để ở cửa) một cách lịch sự."
+  ]
+}

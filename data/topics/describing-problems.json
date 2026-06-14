@@ -1,0 +1,357 @@
+{
+  "id": "describing-problems",
+  "category": "daily-life",
+  "title": "Mô tả sự cố trong nhà",
+  "titleEn": "Describing Household Problems",
+  "level": "B1",
+  "functions": ["describing", "complaining", "requesting", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Mô tả một sự cố trong nhà (rò nước, mất điện, hỏng thiết bị) một cách rõ ràng",
+    "Báo cho chủ nhà hoặc thợ sửa chữa và yêu cầu giúp đỡ lịch sự",
+    "Dùng câu vừa phải có 'because', 'such as', 'although', mệnh đề quan hệ 'which' khi nói",
+    "Hẹn lịch sửa chữa và hỏi về chi phí",
+    "Dùng trạng từ tự nhiên (suddenly, fortunately, apparently) khi kể lại sự việc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "leak",
+      "ipa": "/liːk/",
+      "vi": "chỗ rò rỉ (danh từ); rò rỉ (động từ)",
+      "register": "neutral",
+      "example": "There's a leak under the kitchen sink.",
+      "exampleVi": "Có một chỗ rò rỉ dưới bồn rửa bếp.",
+      "note": "Vừa là danh từ ('a leak') vừa là động từ ('the pipe is leaking'). Dùng cho nước, khí gas, hơi.",
+      "synonyms": [
+        { "term": "drip", "ipa": "/drɪp/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'nhỏ giọt' từng giọt một, mức nhẹ hơn 'leak'. Vd vòi nước nhỏ giọt 'a dripping tap'." }
+      ]
+    },
+    {
+      "term": "to break down",
+      "ipa": "/breɪk daʊn/",
+      "vi": "hỏng, ngừng hoạt động (động từ)",
+      "register": "neutral",
+      "example": "The washing machine broke down this morning.",
+      "exampleVi": "Cái máy giặt bị hỏng sáng nay.",
+      "note": "Cụm động từ dùng cho máy móc lớn (máy giặt, tủ lạnh, xe). Quá khứ: 'broke down'.",
+      "synonyms": [
+        { "term": "to stop working", "ipa": "/stɒp ˈwɜː.kɪŋ/", "register": "neutral", "nuanceVi": "Trung tính, đơn giản, dùng được cho mọi thiết bị. An toàn khi bạn quên 'break down'." },
+        { "term": "to be out of order", "ipa": "/biː aʊt əv ˈɔː.dər/", "register": "neutral", "nuanceVi": "Hay dùng cho thiết bị công cộng (thang máy, máy ATM) với biển báo. Nhấn 'tạm thời không dùng được'." },
+        { "term": "to conk out", "ipa": "/kɒŋk aʊt/", "register": "casual", "nuanceVi": "Rất đời thường, hơi hài hước, nghĩa 'lăn ra hỏng đột ngột'. Dùng khi nói chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "faulty",
+      "ipa": "/ˈfɔːl.ti/",
+      "vi": "bị lỗi, trục trặc (tính từ)",
+      "register": "neutral",
+      "example": "The heater seems to be faulty.",
+      "exampleVi": "Cái máy sưởi có vẻ bị lỗi.",
+      "note": "Tính từ, mô tả thiết bị có lỗi kỹ thuật. Đứng trước danh từ: 'a faulty switch'.",
+      "synonyms": [
+        { "term": "defective", "ipa": "/dɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, hay dùng khi khiếu nại sản phẩm lỗi từ nhà sản xuất ('a defective product')." },
+        { "term": "broken", "ipa": "/ˈbrəʊ.kən/", "register": "neutral", "nuanceVi": "Phổ biến nhất, nghĩa 'hỏng hẳn'. 'faulty' thiên về 'có lỗi, chập chờn', còn 'broken' là hỏng hoàn toàn." },
+        { "term": "dodgy", "ipa": "/ˈdɒdʒ.i/", "register": "casual", "nuanceVi": "Đời thường (Anh-Anh), nghĩa 'chập chờn, không đáng tin'. Vd 'The wiring looks a bit dodgy.'" }
+      ]
+    },
+    {
+      "term": "power cut",
+      "ipa": "/ˈpaʊ.ə kʌt/",
+      "vi": "sự cố mất điện (danh từ)",
+      "register": "neutral",
+      "example": "We had a power cut during the storm last night.",
+      "exampleVi": "Chúng tôi bị mất điện trong cơn bão tối qua.",
+      "note": "Anh-Anh dùng 'power cut'; Anh-Mỹ thường nói 'power outage'. Đều là danh từ.",
+      "synonyms": [
+        { "term": "power outage", "ipa": "/ˈpaʊ.ər ˈaʊ.tɪdʒ/", "register": "neutral", "nuanceVi": "Cách nói của người Mỹ, nghĩa y hệt. Nghe hơi trang trọng/kỹ thuật hơn một chút." },
+        { "term": "blackout", "ipa": "/ˈblæk.aʊt/", "register": "neutral", "nuanceVi": "Nhấn vào mất điện trên diện rộng cả khu vực/thành phố, tối om." }
+      ]
+    },
+    {
+      "term": "to repair",
+      "ipa": "/rɪˈpeər/",
+      "vi": "sửa chữa (động từ)",
+      "register": "neutral",
+      "example": "Could you repair the boiler today?",
+      "exampleVi": "Anh có thể sửa cái nồi hơi hôm nay không?",
+      "note": "Động từ. Danh từ: 'a repair'. Hơi trang trọng hơn 'fix' một chút.",
+      "synonyms": [
+        { "term": "to fix", "ipa": "/fɪks/", "register": "neutral", "nuanceVi": "Phổ biến và đời thường nhất, dùng thoải mái khi nói. Nghĩa giống 'repair' nhưng nhẹ nhàng hơn." },
+        { "term": "to sort out", "ipa": "/sɔːt aʊt/", "register": "casual", "nuanceVi": "Đời thường, nghĩa rộng 'giải quyết, xử lý cho xong'. Vd 'I'll sort it out tomorrow.'" }
+      ]
+    },
+    {
+      "term": "plumber",
+      "ipa": "/ˈplʌm.ər/",
+      "vi": "thợ sửa ống nước (danh từ)",
+      "register": "neutral",
+      "example": "We need to call a plumber to fix the leak.",
+      "exampleVi": "Chúng ta cần gọi thợ sửa ống nước để xử lý chỗ rò.",
+      "note": "Bẫy phát âm: chữ 'b' câm — đọc /ˈplʌm.ər/, KHÔNG đọc thành 'plumber-b'. Thợ điện là 'electrician'."
+    },
+    {
+      "term": "appliance",
+      "ipa": "/əˈplaɪ.əns/",
+      "vi": "thiết bị gia dụng (danh từ)",
+      "register": "neutral",
+      "example": "Most of the kitchen appliances are quite old.",
+      "exampleVi": "Hầu hết thiết bị nhà bếp đều khá cũ.",
+      "note": "Danh từ chỉ đồ điện gia dụng (tủ lạnh, máy giặt, lò vi sóng). Thường dùng số nhiều 'appliances'.",
+      "synonyms": [
+        { "term": "device", "ipa": "/dɪˈvaɪs/", "register": "neutral", "nuanceVi": "Rộng hơn, thiên về thiết bị điện tử nhỏ/thông minh (điện thoại, router), không hợp cho máy giặt, tủ lạnh." }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "It's quite urgent because water is everywhere.",
+      "exampleVi": "Việc này khá gấp vì nước tràn khắp nơi.",
+      "note": "Tính từ. Trạng từ là 'urgently' (gấp rút). Dùng để nhấn mức độ cần xử lý ngay.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'cấp bách cần giải quyết'. Vd 'a pressing matter'." },
+        { "term": "serious", "ipa": "/ˈsɪə.ri.əs/", "register": "neutral", "nuanceVi": "Nhấn vào mức 'nghiêm trọng', không hẳn là gấp về thời gian. Khác sắc thái 'urgent' (gấp)." }
+      ]
+    },
+    {
+      "term": "to overflow",
+      "ipa": "/ˌəʊ.vəˈfləʊ/",
+      "vi": "tràn ra ngoài (động từ)",
+      "register": "neutral",
+      "example": "The toilet is overflowing and I can't stop it.",
+      "exampleVi": "Bồn cầu đang tràn nước mà tôi không sao ngăn được.",
+      "note": "Động từ, dùng khi nước/chất lỏng tràn quá mức chứa. Trọng âm động từ: 'o-ver-FLOW'."
+    },
+    {
+      "term": "suddenly",
+      "ipa": "/ˈsʌd.ən.li/",
+      "vi": "bất chợt, đột ngột (trạng từ)",
+      "register": "neutral",
+      "example": "The lights suddenly went out while I was cooking.",
+      "exampleVi": "Đèn tắt phụt khi tôi đang nấu ăn.",
+      "note": "Trạng từ, rất hợp khi kể một sự cố xảy ra bất ngờ.",
+      "synonyms": [
+        { "term": "all of a sudden", "ipa": "/ˌɔːl əv ə ˈsʌd.ən/", "register": "casual", "nuanceVi": "Cụm đời thường, nghĩa y hệt 'suddenly' nhưng kể chuyện nghe sống động hơn." },
+        { "term": "abruptly", "ipa": "/əˈbrʌpt.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'đột ngột, cộc lốc, không báo trước'. Hơi nặng nề hơn 'suddenly'." }
+      ]
+    },
+    {
+      "term": "apparently",
+      "ipa": "/əˈpær.ənt.li/",
+      "vi": "nghe nói, có vẻ như (trạng từ)",
+      "register": "neutral",
+      "example": "Apparently, the whole building lost power, not just my flat.",
+      "exampleVi": "Nghe nói cả tòa nhà mất điện, không riêng gì căn hộ tôi.",
+      "note": "Trạng từ, dùng khi truyền đạt thông tin nghe được mà mình chưa chắc chắn hoàn toàn."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "There's a problem with [danh từ] — it [mô tả sự cố].",
+      "use": "Mở đầu báo sự cố và nêu hiện tượng cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "There's a problem with the heater — it keeps switching off.",
+        "There's a problem with the sink — it's completely blocked."
+      ],
+      "explanationVi": "Câu mở đầu chuẩn để báo sự cố. Sau dấu gạch, mô tả ngay hiện tượng (it keeps..., it won't..., it's leaking) giúp người nghe hình dung nhanh.",
+      "altOf": "reporting-problem"
+    },
+    {
+      "pattern": "[Thiết bị] isn't working / won't [động từ].",
+      "use": "Mô tả nhanh thiết bị không hoạt động.",
+      "register": "neutral",
+      "examples": [
+        "The air conditioner isn't working at all.",
+        "The front door won't lock properly."
+      ],
+      "explanationVi": "'won't + V' ở đây nghĩa là 'không chịu / không thể' làm gì (won't lock = không khóa được), chứ không phải thì tương lai. Cách nói rất tự nhiên khi đồ vật trục trặc.",
+      "altOf": "reporting-problem"
+    },
+    {
+      "pattern": "It started [V-ing] when [mệnh đề] / a few [thời gian] ago.",
+      "use": "Cho biết sự cố bắt đầu từ khi nào.",
+      "register": "neutral",
+      "examples": [
+        "It started leaking a few days ago.",
+        "It started making a strange noise when I turned it on this morning."
+      ],
+      "explanationVi": "Người sửa chữa luôn hỏi 'từ khi nào'. 'start + V-ing' để nói thời điểm bắt đầu của sự cố — thông tin quan trọng giúp họ chẩn đoán."
+    },
+    {
+      "pattern": "Could you come and [động từ] it as soon as possible?",
+      "use": "Đề nghị thợ/chủ nhà đến xử lý sớm, lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "Could you come and fix it as soon as possible?",
+        "Could you come and take a look at it this afternoon?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. 'as soon as possible' (càng sớm càng tốt) nhấn mức gấp mà vẫn nhã nhặn, không ra lệnh.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "Would you mind [V-ing] ... ?",
+      "use": "Đề nghị một việc nhờ vả tế nhị hơn.",
+      "register": "formal",
+      "examples": [
+        "Would you mind sending someone over today?",
+        "Would you mind checking the boiler while you're here?"
+      ],
+      "explanationVi": "'Would you mind + V-ing' (Anh có phiền... không) là cách nhờ vả rất lịch sự. Lưu ý động từ phải ở dạng V-ing. Trả lời 'No' nghĩa là 'không phiền, được thôi'.",
+      "altOf": "requesting-help"
+    },
+    {
+      "pattern": "How much would it cost to [động từ] ... ?",
+      "use": "Hỏi chi phí sửa chữa một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "How much would it cost to replace the part?",
+        "How much would it cost to fix the leak?"
+      ],
+      "explanationVi": "Dùng 'would' (thay vì 'does') để câu hỏi nghe nhẹ nhàng, mang tính ước lượng. Hỏi giá trước khi đồng ý sửa là thói quen nên có."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    {
+      "term": "fortunately",
+      "ipa": "/ˈfɔː.tʃən.ət.li/",
+      "vi": "may mắn thay",
+      "when": "Dẫn vào một điểm tích cực giữa lúc kể sự cố.",
+      "example": "Fortunately, the leak isn't too big yet."
+    },
+    {
+      "term": "actually",
+      "ipa": "/ˈæk.tʃu.ə.li/",
+      "vi": "thật ra thì... (đính chính nhẹ)",
+      "when": "Khi cần sửa lại hoặc bổ sung thông tin một cách nhẹ nhàng.",
+      "example": "Actually, it's been making that noise for a week now."
+    },
+    {
+      "term": "to be honest",
+      "ipa": "/tə biː ˈɒn.ɪst/",
+      "vi": "thành thật mà nói",
+      "when": "Mở đầu một nhận xét chân thành, hơi tế nhị.",
+      "example": "To be honest, I have no idea what caused it."
+    },
+    {
+      "term": "luckily",
+      "ipa": "/ˈlʌk.ɪ.li/",
+      "vi": "may là...",
+      "when": "Tương tự 'fortunately' nhưng đời thường hơn, kể chuyện thân mật.",
+      "example": "Luckily, I managed to turn the water off in time."
+    },
+    {
+      "term": "by the way",
+      "ipa": "/baɪ ðə ˈweɪ/",
+      "vi": "tiện thể, nhân tiện",
+      "when": "Khi muốn hỏi/báo thêm một việc ngoài lề.",
+      "example": "By the way, the bathroom light is flickering too."
+    }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đang thuê một căn hộ. Sáng nay bạn phát hiện ống nước dưới bồn rửa bị rò và máy giặt cũng hỏng. Bạn gọi điện cho chủ nhà (landlord) để báo sự cố và nhờ sắp xếp người sửa.",
+    "lines": [
+      {
+        "speaker": "Chủ nhà",
+        "text": "Hello, this is Mr. Brown speaking. I got your message — you said there was something wrong at the flat?",
+        "ipa": "/həˈləʊ ðɪs ɪz ˈmɪs.tə braʊn ˈspiː.kɪŋ aɪ ɡɒt jɔː ˈmes.ɪdʒ juː sed ðeə wəz ˈsʌm.θɪŋ rɒŋ ət ðə flæt/",
+        "vi": "Xin chào, tôi là ông Brown đây. Tôi nhận được tin nhắn của bạn — bạn nói có chuyện gì đó không ổn ở căn hộ phải không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, hi. There's a problem with the pipe under the kitchen sink — it ____ leaking a few days ago, and now there's water all over the floor.",
+        "ipa": "/jes haɪ ðeəz ə ˈprɒb.ləm wɪð ðə paɪp ˈʌn.də ðə ˈkɪtʃ.ɪn sɪŋk ɪt ... ˈliː.kɪŋ ə fjuː deɪz əˈɡəʊ ænd naʊ ðeəz ˈwɔː.tər ɔːl ˈəʊ.və ðə flɔː/",
+        "vi": "Vâng, chào ông. Có vấn đề với cái ống dưới bồn rửa bếp — nó ____ rò rỉ vài ngày trước, và giờ nước tràn khắp sàn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "started", "explanationVi": "Dùng quá khứ 'started' + V-ing ('started leaking') để nói thời điểm sự cố bắt đầu. Xem mẫu câu 'It started V-ing ... a few days ago'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "Oh dear, that sounds serious. Have you managed to turn the water off, or is it still running?",
+        "ipa": "/əʊ dɪə ðæt saʊndz ˈsɪə.ri.əs hæv juː ˈmæn.ɪdʒd tə tɜːn ðə ˈwɔː.tər ɒf ɔː ɪz ɪt stɪl ˈrʌn.ɪŋ/",
+        "vi": "Ôi trời, nghe nghiêm trọng đấy. Bạn đã khóa được nước chưa, hay nó vẫn đang chảy?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____ I managed to turn off the main valve, so it has stopped for now. But the washing machine has broken down too, ____ is really inconvenient because I have a lot of laundry.",
+        "ipa": "/... aɪ ˈmæn.ɪdʒd tə tɜːn ɒf ðə meɪn vælv səʊ ɪt həz stɒpt fə naʊ bʌt ðə ˈwɒʃ.ɪŋ məˈʃiːn həz ˈbrəʊ.kən daʊn tuː ... ɪz ˈrɪə.li ˌɪn.kənˈviː.njənt bɪˈkɔːz aɪ hæv ə lɒt əv ˈlɔːn.dri/",
+        "vi": "____ tôi đã khóa được van chính, nên tạm thời nó dừng rồi. Nhưng cái máy giặt cũng hỏng luôn, ____ thật bất tiện vì tôi có rất nhiều đồ cần giặt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Luckily", "explanationVi": "'Luckily' (may là...) mở đầu câu để dẫn vào một điểm tích cực: bạn đã kịp khóa nước. Xem phần Trạng từ làm mượt câu." },
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng 'which' để mở mệnh đề quan hệ nhận xét về cả việc 'máy giặt hỏng' (một sự việc/vật). Nếu nói về người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "I'm sorry to hear that. I'll call a plumber straight away. Would you be at home this afternoon so he can come and take a look?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪə ðæt aɪl kɔːl ə ˈplʌm.ə streɪt əˈweɪ wʊd juː biː ət həʊm ðɪs ˌɑːf.təˈnuːn səʊ hiː kæn kʌm ænd teɪk ə lʊk/",
+        "vi": "Tôi rất tiếc khi nghe vậy. Tôi sẽ gọi thợ ống nước ngay. Chiều nay bạn có ở nhà để anh ấy đến xem được không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, I'll be here all afternoon. ____ you mind asking him to look at the washing machine as well, since he's coming anyway? It's quite urgent.",
+        "ipa": "/jes aɪl biː hɪər ɔːl ˌɑːf.təˈnuːn ... juː maɪnd ˈɑːs.kɪŋ hɪm tə lʊk ət ðə ˈwɒʃ.ɪŋ məˈʃiːn əz wel sɪns hiːz ˈkʌm.ɪŋ ˈen.i.weɪ ɪts kwaɪt ˈɜː.dʒənt/",
+        "vi": "Vâng, tôi sẽ ở nhà cả chiều. ____ ông nhờ anh ấy xem luôn cái máy giặt được không, dù sao anh ấy cũng đến mà? Việc này khá gấp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Would", "explanationVi": "Mẫu nhờ vả lịch sự: 'Would you mind + V-ing?'. Sau 'mind' luôn là V-ing ('asking'). Xem mẫu câu 'Would you mind V-ing...?'." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "Of course, I'll mention it to him. Although the plumber mainly handles pipes, he can usually check basic appliances such as washing machines too.",
+        "ipa": "/əv kɔːs aɪl ˈmen.ʃən ɪt tə hɪm ɔːlˈðəʊ ðə ˈplʌm.ə ˈmeɪn.li ˈhænd.əlz paɪps hiː kæn ˈjuː.ʒu.ə.li tʃek ˈbeɪ.sɪk əˈplaɪ.ən.sɪz sʌtʃ əz ˈwɒʃ.ɪŋ məˈʃiːnz tuː/",
+        "vi": "Tất nhiên rồi, tôi sẽ nói với anh ấy. Mặc dù thợ ống nước chủ yếu lo về đường ống, nhưng anh ấy thường có thể kiểm tra các thiết bị cơ bản như máy giặt nữa."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's great, thank you. By the way, how much would it ____ to repair the pipe? I'd just like to know roughly before he starts.",
+        "ipa": "/ðæts ɡreɪt θæŋk juː baɪ ðə weɪ haʊ mʌtʃ wʊd ɪt ... tə rɪˈpeə ðə paɪp aɪd dʒʌst laɪk tə nəʊ ˈrʌf.li bɪˈfɔː hiː stɑːts/",
+        "vi": "Vậy thì tốt quá, cảm ơn ông. Tiện thể, chi phí ____ sửa ống nước khoảng bao nhiêu ạ? Tôi chỉ muốn biết áng chừng trước khi anh ấy bắt đầu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "cost", "explanationVi": "Mẫu hỏi giá: 'How much would it cost to + V?'. 'would' khiến câu hỏi nghe nhẹ nhàng, mang tính ước lượng. Xem mẫu câu hỏi chi phí." }
+        ]
+      },
+      {
+        "speaker": "Chủ nhà",
+        "text": "Don't worry about the cost — repairs like this are my responsibility as the landlord. I'll send you a message as soon as the plumber confirms a time.",
+        "ipa": "/dəʊnt ˈwʌr.i əˈbaʊt ðə kɒst rɪˈpeəz laɪk ðɪs ɑː maɪ rɪˌspɒn.sɪˈbɪl.ə.ti əz ðə ˈlænd.lɔːd aɪl send juː ə ˈmes.ɪdʒ əz suːn əz ðə ˈplʌm.ə kənˈfɜːmz ə taɪm/",
+        "vi": "Đừng lo về chi phí — sửa chữa kiểu này là trách nhiệm của tôi với tư cách chủ nhà. Tôi sẽ nhắn cho bạn ngay khi thợ xác nhận được giờ."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, khi thuê nhà thì sửa chữa hư hỏng do hao mòn tự nhiên (ống nước, thiết bị có sẵn) thường là trách nhiệm của chủ nhà (landlord), không phải người thuê.",
+    "Khi báo sự cố, người bản xứ thường mô tả hiện tượng cụ thể ('it's making a clicking noise', 'water is dripping') hơn là chỉ nói 'it's broken' — như vậy thợ dễ chẩn đoán hơn.",
+    "Nên báo sự cố bằng cả tin nhắn/email lẫn gọi điện để có bằng chứng thời điểm đã thông báo, phòng khi tranh chấp.",
+    "Hỏi giá trước ('How much would it cost...?') và yêu cầu báo giá (a quote) trước khi sửa là việc hoàn toàn bình thường, không hề mất lịch sự."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'spoil' cho thiết bị hỏng ('My phone is spoiled') — sai. Đồ máy móc hỏng dùng 'broken / broke down / not working'; 'spoil' chỉ dùng cho thức ăn ôi thiu.",
+    "Quên V-ing sau 'Would you mind': phải nói 'Would you mind SENDING someone', không phải 'Would you mind to send'.",
+    "Nói 'open/close the water' — sai. Đúng là 'turn ON / turn OFF the water' (mở/khóa nước).",
+    "Phát âm 'plumber' có chữ 'b' — chữ 'b' câm, đọc là /ˈplʌm.ər/."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống báo sự cố trong nhà như thật.",
+    "prompt": "Hãy đóng vai chủ nhà (landlord) hoặc thợ sửa chữa nói tiếng Anh. Tôi là người thuê nhà vừa gặp một sự cố trong nhà (bạn hãy chọn ngẫu nhiên: rò nước, mất điện, máy giặt hỏng, hoặc bồn cầu tràn). Hãy bắt đầu bằng cách hỏi tôi có chuyện gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như chủ nhà/thợ thật và hỏi thêm chi tiết (sự cố bắt đầu khi nào, mức độ ra sao), (2) nếu tôi sai ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài hơn với 'because', 'such as', 'although' và mệnh đề quan hệ 'which'. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy tạo một tình huống bất ngờ, ví dụ thợ báo phải đợi đến mai mới sửa được, để tôi tập thương lượng.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật và dùng nhiều thành ngữ đời thường.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được một sự cố trong nhà bằng câu có nêu hiện tượng cụ thể và thời điểm bắt đầu.",
+    "Tôi dùng được 'Could you...?' và 'Would you mind V-ing?' để nhờ giúp đỡ lịch sự.",
+    "Tôi hỏi được chi phí sửa chữa bằng mẫu 'How much would it cost to...?'."
+  ]
+}

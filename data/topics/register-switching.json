@@ -1,0 +1,399 @@
+{
+  "id": "register-switching",
+  "category": "advanced",
+  "title": "Chuyển đổi văn phong",
+  "titleEn": "Switching Register",
+  "level": "C1",
+  "functions": ["opinions", "requesting", "small-talk", "describing", "negotiating"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Nhận diện và chuyển đổi linh hoạt giữa văn phong trang trọng, trung tính và suồng sã trong cùng một cuộc trò chuyện",
+    "Diễn đạt cùng một thông điệp theo nhiều mức trang trọng khác nhau tùy đối tượng và bối cảnh",
+    "Làm dịu (hedge) hoặc nhấn mạnh một ý kiến bằng các cấu trúc và trạng từ C1 tinh tế",
+    "Dùng idiom và collocation đúng chỗ mà không làm lệch tông giọng của ngữ cảnh",
+    "Tự sửa khi lỡ dùng sai register (quá trịnh trọng hoặc quá đời thường)"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "register",
+      "ipa": "/ˈredʒ.ɪ.stər/",
+      "vi": "văn phong / mức trang trọng của ngôn ngữ (danh từ)",
+      "register": "neutral",
+      "example": "Switching register appropriately is a skill that distinguishes advanced speakers from intermediate ones.",
+      "exampleVi": "Chuyển đổi văn phong đúng lúc là kỹ năng phân biệt người nói nâng cao với người trung cấp.",
+      "note": "Danh từ. Trong ngôn ngữ học, 'register' chỉ mức trang trọng và phong cách phù hợp với ngữ cảnh — không phải 'thanh ghi' như trong máy tính.",
+      "synonyms": [
+        { "term": "tone", "ipa": "/təʊn/", "register": "neutral", "nuanceVi": "Nhấn vào 'thái độ/cảm xúc' truyền tải (thân thiện, gay gắt) hơn là mức trang trọng. Rộng hơn 'register' một chút." },
+        { "term": "style", "ipa": "/staɪl/", "register": "neutral", "nuanceVi": "Chỉ phong cách diễn đạt tổng thể của một người/văn bản; bao trùm nhưng mơ hồ hơn 'register'." }
+      ]
+    },
+    {
+      "term": "formal",
+      "ipa": "/ˈfɔː.məl/",
+      "vi": "trang trọng (tính từ)",
+      "register": "neutral",
+      "example": "The email struck me as overly formal for a message to a close colleague.",
+      "exampleVi": "Cái email đó với tôi nghe quá trang trọng so với tin nhắn gửi một đồng nghiệp thân thiết.",
+      "note": "Tính từ. Trái nghĩa: 'informal/casual'. Trang trọng quá mức trong ngữ cảnh thân mật lại gây xa cách.",
+      "synonyms": [
+        { "term": "stiff", "ipa": "/stɪf/", "register": "casual", "nuanceVi": "Nghĩa tiêu cực: 'cứng nhắc, gượng gạo', ám chỉ trang trọng đến mức khó chịu, thiếu tự nhiên." },
+        { "term": "ceremonious", "ipa": "/ˌser.ɪˈməʊ.ni.əs/", "register": "formal", "nuanceVi": "Rất trang trọng theo kiểu nghi thức, lễ nghi; văn vẻ, ít dùng trong hội thoại đời thường." }
+      ]
+    },
+    {
+      "term": "colloquial",
+      "ipa": "/kəˈləʊ.kwi.əl/",
+      "vi": "thuộc văn nói đời thường, khẩu ngữ (tính từ)",
+      "register": "formal",
+      "example": "Phrases such as 'kind of' and 'a bunch of' are colloquial and best avoided in academic writing.",
+      "exampleVi": "Các cụm như 'kind of' và 'a bunch of' là khẩu ngữ và nên tránh trong văn viết học thuật.",
+      "note": "Tính từ. Bản thân từ 'colloquial' lại khá trang trọng/học thuật — một ví dụ thú vị về register.",
+      "synonyms": [
+        { "term": "casual", "ipa": "/ˈkæʒ.u.əl/", "register": "neutral", "nuanceVi": "Phổ biến, dễ hiểu hơn: 'thoải mái, không trang trọng'. An toàn để dùng trong hội thoại." },
+        { "term": "slangy", "ipa": "/ˈslæŋ.i/", "register": "casual", "nuanceVi": "Nhấn vào việc dùng tiếng lóng; suồng sã hơn 'colloquial', có thể bị xem là thiếu chuẩn mực." }
+      ]
+    },
+    {
+      "term": "to soften",
+      "ipa": "/ˈsɒf.ən/",
+      "vi": "làm dịu, làm nhẹ đi (động từ)",
+      "register": "neutral",
+      "example": "Adding 'I'm afraid' before bad news softens the blow considerably.",
+      "exampleVi": "Thêm 'I'm afraid' trước tin xấu làm dịu cú sốc đi đáng kể.",
+      "note": "Động từ. 'soften a request/criticism/blow'. Lưu ý 't' câm: đọc /ˈsɒf.ən/, không đọc /ˈsɒf.tən/.",
+      "synonyms": [
+        { "term": "to temper", "ipa": "/ˈtem.pər/", "register": "formal", "nuanceVi": "Trang trọng, văn vẻ: 'điều tiết, làm bớt gay gắt' (temper criticism with praise)." },
+        { "term": "to tone down", "ipa": "/təʊn daʊn/", "register": "casual", "nuanceVi": "Cụm động từ đời thường: 'giảm cường độ, bớt căng'. Hợp hội thoại thân mật." },
+        { "term": "to cushion", "ipa": "/ˈkʊʃ.ən/", "register": "neutral", "nuanceVi": "Hình ảnh 'đệm lại cú va', thường đi với 'cushion the blow' khi báo tin không vui." }
+      ]
+    },
+    {
+      "term": "to hedge",
+      "ipa": "/hedʒ/",
+      "vi": "nói rào trước, dè dặt không khẳng định chắc chắn (động từ)",
+      "register": "neutral",
+      "example": "Native speakers often hedge their opinions with 'sort of' or 'I tend to think' to sound less blunt.",
+      "exampleVi": "Người bản xứ thường nói rào ý kiến bằng 'sort of' hay 'I tend to think' để nghe đỡ thẳng thừng.",
+      "note": "Động từ. 'hedging' là một kỹ thuật C1 quan trọng: tránh nói tuyệt đối để giữ lịch sự và an toàn.",
+      "synonyms": [
+        { "term": "to qualify", "ipa": "/ˈkwɒl.ɪ.faɪ/", "register": "formal", "nuanceVi": "Trang trọng: 'thêm điều kiện/giới hạn cho một phát biểu để nó không quá tuyệt đối'." }
+      ]
+    },
+    {
+      "term": "blunt",
+      "ipa": "/blʌnt/",
+      "vi": "thẳng thừng, bộp chộp (tính từ)",
+      "register": "neutral",
+      "example": "I don't mean to be blunt, but the proposal simply won't work in its current form.",
+      "exampleVi": "Tôi không có ý nói thẳng quá, nhưng bản đề xuất đơn giản là sẽ không khả thi ở dạng hiện tại.",
+      "note": "Tính từ. Sắc thái hơi tiêu cực: thật nhưng thiếu tế nhị. Khác 'frank' (thẳng thắn, trung tính hơn).",
+      "synonyms": [
+        { "term": "frank", "ipa": "/fræŋk/", "register": "neutral", "nuanceVi": "Trung tính/tích cực hơn: 'thẳng thắn, chân thành', không hàm ý mất lịch sự như 'blunt'." },
+        { "term": "forthright", "ipa": "/ˈfɔːθ.raɪt/", "register": "formal", "nuanceVi": "Trang trọng: 'thẳng thắn, không vòng vo' theo nghĩa đáng khen, dứt khoát." },
+        { "term": "point-blank", "ipa": "/ˌpɔɪntˈblæŋk/", "register": "casual", "nuanceVi": "Nhấn 'nói toạc không úp mở', đôi khi đường đột; thường dùng cho việc hỏi/từ chối thẳng." }
+      ]
+    },
+    {
+      "term": "appropriate",
+      "ipa": "/əˈprəʊ.pri.ət/",
+      "vi": "phù hợp, thích đáng (tính từ)",
+      "register": "neutral",
+      "example": "Choosing language that is appropriate to the situation matters as much as being grammatically correct.",
+      "exampleVi": "Chọn ngôn ngữ phù hợp với tình huống quan trọng ngang với việc đúng ngữ pháp.",
+      "note": "Tính từ. Trọng âm danh từ/tính từ là /əˈprəʊ.pri.ət/; động từ 'to appropriate' (chiếm dụng) đọc /əˈprəʊ.pri.eɪt/.",
+      "synonyms": [
+        { "term": "fitting", "ipa": "/ˈfɪt.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'hợp tự nhiên với hoàn cảnh'; hơi văn vẻ, thường đứng trước danh từ (a fitting reply)." },
+        { "term": "suitable", "ipa": "/ˈsuː.tə.bəl/", "register": "neutral", "nuanceVi": "Phổ biến, an toàn: 'thích hợp, đúng loại cho mục đích'. Trung tính nhất." }
+      ]
+    },
+    {
+      "term": "to come across as",
+      "ipa": "/kʌm əˈkrɒs æz/",
+      "vi": "tạo ấn tượng là, nghe có vẻ là (cụm động từ)",
+      "register": "neutral",
+      "example": "If you're too direct in an email, you can come across as rude even when you don't mean to.",
+      "exampleVi": "Nếu bạn quá thẳng trong email, bạn có thể bị cho là thô lỗ dù không hề có ý đó.",
+      "note": "Cụm động từ + 'as' + tính từ/danh từ. Rất hữu ích để nói về ấn tượng mà cách diễn đạt tạo ra.",
+      "synonyms": [
+        { "term": "to come over as", "ipa": "/kʌm ˈəʊ.vər æz/", "register": "casual", "nuanceVi": "Biến thể Anh-Anh, nghĩa y hệt 'come across as'; thiên về văn nói." },
+        { "term": "to give the impression of", "ipa": "/ɡɪv ðə ɪmˈpreʃ.ən ɒv/", "register": "formal", "nuanceVi": "Trang trọng hơn, dài hơn: 'tạo ấn tượng rằng'. Hợp văn viết/phát biểu." }
+      ]
+    },
+    {
+      "term": "tactfully",
+      "ipa": "/ˈtækt.fəl.i/",
+      "vi": "một cách khéo léo, tế nhị (trạng từ)",
+      "register": "neutral",
+      "example": "She tactfully pointed out the error without embarrassing anyone in the room.",
+      "exampleVi": "Cô ấy đã khéo léo chỉ ra lỗi mà không làm ai trong phòng phải xấu hổ.",
+      "note": "Trạng từ. Từ gốc 'tact' (sự khéo léo). Rất 'ăn điểm' khi mô tả cách xử lý tình huống nhạy cảm.",
+      "synonyms": [
+        { "term": "diplomatically", "ipa": "/ˌdɪp.ləˈmæt.ɪk.li/", "register": "formal", "nuanceVi": "Nhấn 'khéo léo theo kiểu ngoại giao, tránh va chạm'; nghe chuyên nghiệp, trang trọng hơn." },
+        { "term": "delicately", "ipa": "/ˈdel.ɪ.kət.li/", "register": "neutral", "nuanceVi": "Nhấn sự 'nhẹ nhàng, thận trọng' khi đụng đến chuyện nhạy cảm; thiên về sự mong manh của tình huống." }
+      ]
+    },
+    {
+      "term": "off the cuff",
+      "ipa": "/ˌɒf ðə ˈkʌf/",
+      "vi": "ngẫu hứng, không chuẩn bị trước (cụm tính từ/trạng từ - idiom)",
+      "register": "casual",
+      "example": "His remarks were entirely off the cuff, yet they came across as remarkably polished.",
+      "exampleVi": "Lời phát biểu của anh ấy hoàn toàn ngẫu hứng, vậy mà nghe lại trau chuốt đến bất ngờ.",
+      "note": "Thành ngữ. Nguồn gốc từ việc ghi chú vội lên cổ tay áo (cuff). Nghĩa: nói/làm không chuẩn bị.",
+      "synonyms": [
+        { "term": "impromptu", "ipa": "/ɪmˈprɒmp.tjuː/", "register": "formal", "nuanceVi": "Trang trọng, gốc Latin: 'tức hứng, không sắp đặt trước'. Dùng cho bài nói/buổi biểu diễn." },
+        { "term": "spontaneous", "ipa": "/spɒnˈteɪ.ni.əs/", "register": "neutral", "nuanceVi": "Nhấn 'tự phát, bộc phát từ cảm xúc'; rộng hơn, không chỉ chuyện lời nói." }
+      ]
+    },
+    {
+      "term": "to read the room",
+      "ipa": "/riːd ðə ruːm/",
+      "vi": "đọc vị bầu không khí, cảm nhận tâm trạng đám đông (idiom)",
+      "register": "casual",
+      "example": "A good speaker reads the room and adjusts their tone accordingly, rather than ploughing through a fixed script.",
+      "exampleVi": "Một người nói giỏi biết đọc vị bầu không khí và điều chỉnh giọng điệu cho phù hợp, thay vì cứ đọc nguyên kịch bản.",
+      "note": "Thành ngữ hiện đại, rất thông dụng. Đúng tinh thần của 'switching register': cảm bối cảnh rồi đổi cách nói.",
+      "synonyms": [
+        { "term": "to gauge the mood", "ipa": "/ɡeɪdʒ ðə muːd/", "register": "neutral", "nuanceVi": "Trung tính hơn: 'đánh giá/ước lượng tâm trạng'; ít màu sắc thành ngữ hơn." }
+      ]
+    },
+    {
+      "term": "nuance",
+      "ipa": "/ˈnjuː.ɑːns/",
+      "vi": "sắc thái tinh tế (danh từ)",
+      "register": "formal",
+      "example": "The nuance between 'I'm afraid I disagree' and 'No, you're wrong' is enormous in terms of politeness.",
+      "exampleVi": "Sắc thái giữa 'I'm afraid I disagree' và 'No, you're wrong' chênh nhau cực lớn về độ lịch sự.",
+      "note": "Danh từ. Hơi trang trọng/văn vẻ. Đây chính là thứ phân biệt người C1 — nắm được sắc thái nhỏ.",
+      "synonyms": [
+        { "term": "subtlety", "ipa": "/ˈsʌt.əl.ti/", "register": "formal", "nuanceVi": "Nhấn sự 'tinh vi, khó nhận ra'; gần nghĩa nhưng thiên về độ tinh tế khó nắm bắt. Lưu ý 'b' câm." },
+        { "term": "shade of meaning", "ipa": "/ʃeɪd ɒv ˈmiː.nɪŋ/", "register": "neutral", "nuanceVi": "Cụm dễ hình dung: 'sắc thái nghĩa', cách diễn đạt đời thường hơn cho cùng ý." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'm afraid I have to [disagree / push back on that], although I do see where you're coming from.",
+      "use": "Bất đồng ý kiến một cách trang trọng, lịch sự mà vẫn dứt khoát.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid I have to disagree, although I do see where you're coming from.",
+        "I'm afraid I have to push back on that point, although your reasoning is sound."
+      ],
+      "explanationVi": "'I'm afraid' làm dịu sự bất đồng; mệnh đề nhượng bộ với 'although' công nhận quan điểm đối phương trước khi phản bác. Đây là 'register' trang trọng cho phòng họp.",
+      "altOf": "expressing-disagreement"
+    },
+    {
+      "pattern": "Honestly? I'm not really buying that, not gonna lie.",
+      "use": "Bất đồng ý kiến kiểu suồng sã, thân mật với bạn bè/đồng nghiệp thân.",
+      "register": "casual",
+      "examples": [
+        "Honestly? I'm not really buying that, not gonna lie.",
+        "Yeah, nah, I don't think that flies, to be honest."
+      ],
+      "explanationVi": "Cùng chức năng 'phản đối' nhưng register suồng sã: 'not buying it' (không tin/không mua ý đó), 'not gonna lie', 'yeah nah'. Hợp bạn thân, KHÔNG hợp họp trang trọng.",
+      "altOf": "expressing-disagreement"
+    },
+    {
+      "pattern": "Would you mind awfully if I [V]? / Might I trouble you to [V]?",
+      "use": "Đề nghị rất trang trọng, lịch thiệp (đôi khi hơi kiểu cách).",
+      "register": "formal",
+      "examples": [
+        "Would you mind awfully if I sent the revised version tomorrow instead?",
+        "Might I trouble you to forward that document when you have a moment?"
+      ],
+      "explanationVi": "'Would you mind awfully if + quá khứ giả định' và 'Might I trouble you to…' là đỉnh cao của lịch sự Anh-Anh. Dùng với người trên/khách quan trọng; nói với bạn thân sẽ nghe lố.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "Hey, could you [V] for me real quick? / Mind [V-ing] when you get a sec?",
+      "use": "Nhờ vả nhanh, thân mật trong môi trường thoải mái.",
+      "register": "casual",
+      "examples": [
+        "Hey, could you send me that file real quick?",
+        "Mind forwarding that when you get a sec?"
+      ],
+      "explanationVi": "Cùng chức năng 'nhờ vả' nhưng cực kỳ đời thường: 'real quick', 'get a sec', lược chủ ngữ ('Mind forwarding…?'). Hợp chat đồng nghiệp thân, lệch tông trong email gửi sếp lớn.",
+      "altOf": "making-request"
+    },
+    {
+      "pattern": "I tend to think that [mệnh đề], though I could be wrong.",
+      "use": "Nêu ý kiến có rào đón (hedging), nghe khiêm tốn, không áp đặt.",
+      "register": "neutral",
+      "examples": [
+        "I tend to think that remote work boosts productivity, though I could be wrong.",
+        "I'd be inclined to say it's worth a try, though I haven't seen the figures."
+      ],
+      "explanationVi": "'I tend to think / I'd be inclined to say' là kỹ thuật hedging C1: phát biểu mà chừa đường lui ('though I could be wrong'). Nghe chín chắn, dễ chấp nhận hơn nói tuyệt đối.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "If I'm being honest, [mệnh đề] — but that's just my two cents.",
+      "use": "Nêu ý kiến thật lòng theo kiểu thân mật, khiêm tốn.",
+      "register": "casual",
+      "examples": [
+        "If I'm being honest, the new logo looks a bit dated — but that's just my two cents.",
+        "Honestly, I'd skip it — but hey, that's just my two cents."
+      ],
+      "explanationVi": "Cùng chức năng nêu ý kiến nhưng register suồng sã: 'my two cents' (idiom = ý kiến nhỏ mọn của tôi) tự hạ thấp ý mình cho thân thiện. Lệch tông nếu dùng trong báo cáo trang trọng.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], I'd argue that [mệnh đề]; however, [phần nhượng bộ].",
+      "use": "Lập luận cân nhắc nhiều chiều, trang trọng, có chiều sâu.",
+      "register": "formal",
+      "examples": [
+        "Despite the initial costs, I'd argue that the investment pays off; however, we should monitor it closely."
+      ],
+      "explanationVi": "'Despite + danh từ/V-ing' (mặc dù), 'however' nối ý đối lập — bộ khung lập luận học thuật. Không chỉ chọn từ mà cả CẤU TRÚC câu cũng phải khớp register trang trọng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "nói thẳng ra thì", "when": "Mở đầu một ý kiến thẳng thắn; trang trọng hơn 'to be honest'.", "example": "Frankly, the report could have been far more concise." },
+    { "term": "with all due respect", "ipa": "/wɪð ɔːl djuː rɪˈspekt/", "vi": "với tất cả sự tôn trọng (trước khi phản đối)", "when": "Rào đón lịch sự ngay trước khi bất đồng với người trên.", "example": "With all due respect, I believe the figures tell a different story." },
+    { "term": "sort of", "ipa": "/ˈsɔːt əv/", "vi": "kiểu như, đại loại (làm mềm, suồng sã)", "when": "Hedging trong văn nói thân mật để nghe đỡ tuyệt đối.", "example": "It's sort of what I expected, to be honest." },
+    { "term": "arguably", "ipa": "/ˈɑːɡ.ju.ə.bli/", "vi": "có thể lập luận rằng (rào đón tinh tế)", "when": "Đưa ra một khẳng định mạnh nhưng vẫn chừa chỗ tranh luận.", "example": "It's arguably the most significant change we've made all year." },
+    { "term": "to put it bluntly", "ipa": "/tə pʊt ɪt ˈblʌnt.li/", "vi": "nói toạc ra thì", "when": "Báo trước rằng câu sau sẽ thẳng và có thể hơi gắt.", "example": "To put it bluntly, the plan simply isn't viable." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói thì cũng biết", "when": "Dẫn vào điều hiển nhiên, thường ở văn phong trang trọng/trung tính.", "example": "Needless to say, the deadline remains our top priority." }
+  ],
+
+  "dialogue": {
+    "context": "Linh là một trưởng nhóm. Trong vòng vài phút, cô phải nói chuyện với ba đối tượng rất khác nhau: một đồng nghiệp thân (Minh, văn phong suồng sã), rồi chuyển sang vị giám đốc cấp cao (Mr. Hayes, văn phong trang trọng) trong cùng cuộc họp. Bài tập trọng tâm là quan sát cách cô chuyển đổi register.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "Hey Linh, before the big bosses show up — honestly, what do you reckon about the new schedule? It's sort of all over the place, not gonna lie.",
+        "ipa": "/heɪ lɪŋ bɪˈfɔːr ðə bɪɡ ˈbɒs.ɪz ʃəʊ ʌp ˈɒn.ɪst.li wɒt duː juː ˈrek.ən əˈbaʊt ðə njuː ˈʃed.juːl ɪts sɔːt əv ɔːl ˈəʊ.vər ðə pleɪs nɒt ˈɡʌn.ə laɪ/",
+        "vi": "Ê Linh, trước khi mấy sếp lớn tới — thật lòng nhé, cậu thấy cái lịch mới sao? Nó kiểu lộn xộn tùm lum, nói thật đấy."
+      },
+      {
+        "speaker": "Linh",
+        "text": "Honestly? Between you and me, I'm not really ____ it either — it feels a bit rushed. But hey, that's just my two cents, so let's see how it plays out.",
+        "ipa": "/ˈɒn.ɪst.li bɪˈtwiːn juː ænd miː aɪm nɒt ˈrɪə.li ... ɪt ˈaɪ.ðər ɪt fiːlz ə bɪt rʌʃt bʌt heɪ ðæts dʒʌst maɪ tuː sents səʊ lets siː haʊ ɪt pleɪz aʊt/",
+        "vi": "Thật á? Nói riêng với cậu thôi nhé, tớ cũng chẳng ____ nó lắm — cảm giác hơi vội. Nhưng mà, đó chỉ là ý kiến quèn của tớ thôi, cứ xem nó chạy thế nào đã.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "buying",
+            "explanationVi": "'be buying it' là idiom suồng sã nghĩa 'tin/chấp nhận ý đó'. Hợp register thân mật với đồng nghiệp. Xem mẫu câu 'I'm not really buying that' ở mục Cấu trúc (expressing-disagreement)."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Yeah, exactly! And don't even get me started on the meeting room — it's tiny. Could you ____ me a hand moving some chairs in real quick before they arrive?",
+        "ipa": "/jeə ɪɡˈzækt.li ænd dəʊnt ˈiː.vən ɡet miː ˈstɑː.tɪd ɒn ðə ˈmiː.tɪŋ ruːm ɪts ˈtaɪ.ni kʊd juː ... miː ə hænd ˈmuː.vɪŋ sʌm tʃeəz ɪn rɪəl kwɪk bɪˈfɔːr ðeɪ əˈraɪv/",
+        "vi": "Ừ, chuẩn luôn! Mà thôi đừng nhắc cái phòng họp — bé tí. Cậu ____ tớ một tay kê mấy cái ghế vào nhanh trước khi họ tới được không?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "give",
+            "explanationVi": "Collocation 'give someone a hand' = giúp một tay. Cùng với 'real quick' tạo register suồng sã. Đối chiếu mẫu trang trọng 'Might I trouble you to…?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Sure thing! ____ — heads up, Mr. Hayes just walked in, so let me switch gears for a sec.",
+        "ipa": "/ʃʊə θɪŋ ... hedz ʌp ˈmɪs.tər heɪz dʒʌst ˈwɔːkt ɪn səʊ let miː swɪtʃ ɡɪəz fɔːr ə sek/",
+        "vi": "Được luôn! ____ — báo trước nhé, sếp Hayes vừa bước vào, để tớ đổi tông một chút.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một câu đáp nhanh, thân mật bạn hay nói với bạn bè. Ví dụ: 'Done', 'On it', 'No worries'."
+          }
+        ]
+      },
+      {
+        "speaker": "Mr. Hayes",
+        "text": "Good morning, everyone. Linh, I've been looking over your team's proposal, which, although ambitious, raises a few concerns. Could you walk me through the budget?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈev.ri.wʌn lɪŋ aɪv biːn ˈlʊk.ɪŋ ˈəʊ.vər jɔːr tiːmz prəˈpəʊ.zəl wɪtʃ ɔːlˈðəʊ æmˈbɪʃ.əs ˈreɪ.zɪz ə fjuː kənˈsɜːnz kʊd juː wɔːk miː θruː ðə ˈbʌdʒ.ɪt/",
+        "vi": "Chào buổi sáng cả nhà. Linh này, tôi đã xem qua bản đề xuất của nhóm em, tuy đầy tham vọng nhưng cũng làm nảy sinh vài lo ngại. Em trình bày giúp tôi phần ngân sách được không?"
+      },
+      {
+        "speaker": "Linh",
+        "text": "Good morning, Mr. Hayes. Thank you for taking the time to review it. ____ all due respect, I'd argue that the figures are realistic; however, I'd be happy to revisit any line item you find concerning, in order to address your reservations thoroughly.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈmɪs.tər heɪz θæŋk juː fɔːr ˈteɪ.kɪŋ ðə taɪm tə rɪˈvjuː ɪt ... ɔːl djuː rɪˈspekt aɪd ˈɑːɡ.juː ðæt ðə ˈfɪɡ.əz ɑːr ˌrɪə.ˈlɪs.tɪk haʊˈev.ər aɪd biː ˈhæp.i tə ˌriːˈvɪz.ɪt ˈen.i laɪn ˈaɪ.təm juː faɪnd kənˈsɜː.nɪŋ ɪn ˈɔː.də tʊ əˈdres jɔːr ˌrez.əˈveɪ.ʃənz ˈθʌr.ə.li/",
+        "vi": "Chào buổi sáng anh Hayes. Cảm ơn anh đã dành thời gian xem xét. ____ tất cả sự tôn trọng, em xin lập luận rằng các con số là thực tế; tuy nhiên, em rất sẵn lòng xem lại bất kỳ khoản mục nào anh thấy đáng lo, nhằm giải quyết thấu đáo những băn khoăn của anh.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "With",
+            "explanationVi": "Cụm trang trọng 'With all due respect' = với tất cả sự tôn trọng, rào đón lịch sự ngay trước khi phản biện người trên. Đây là register trang trọng, tương phản hẳn 'not gonna lie' lúc nói với Minh."
+          }
+        ]
+      },
+      {
+        "speaker": "Mr. Hayes",
+        "text": "I appreciate your candour. Despite my reservations, I'm inclined to give it a chance, provided that we set clear milestones. Would you be able to ____ a revised timeline by Friday?",
+        "ipa": "/aɪ əˈpriː.ʃi.eɪt jɔːr ˈkæn.dər dɪˈspaɪt maɪ ˌrez.əˈveɪ.ʃənz aɪm ɪnˈklaɪnd tə ɡɪv ɪt ə tʃɑːns prəˈvaɪd.ɪd ðæt wiː set klɪər ˈmaɪl.stəʊnz wʊd juː biː ˈeɪ.bəl tə ... ə rɪˈvaɪzd ˈtaɪm.laɪn baɪ ˈfraɪ.deɪ/",
+        "vi": "Tôi trân trọng sự thẳng thắn của em. Dù còn vài băn khoăn, tôi nghiêng về việc cho nó một cơ hội, với điều kiện ta đặt ra các cột mốc rõ ràng. Em có thể ____ một mốc thời gian đã chỉnh sửa trước thứ Sáu chứ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "draw up",
+            "explanationVi": "'draw up' = soạn thảo (kế hoạch/hợp đồng/lịch trình), một phrasal verb trang trọng hợp ngữ cảnh công sở. Tự nhiên hơn 'make' ở đây và khớp register của Mr. Hayes."
+          }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Absolutely. I'll ____ that it lands in your inbox first thing Friday morning. Thank you for your confidence in the team; we won't let you down.",
+        "ipa": "/ˈæb.səˌluːt.li aɪl ... ðæt ɪt lændz ɪn jɔːr ˈɪn.bɒks fɜːst θɪŋ ˈfraɪ.deɪ ˈmɔː.nɪŋ θæŋk juː fɔːr jɔːr ˈkɒn.fɪ.dəns ɪn ðə tiːm wiː wəʊnt let juː daʊn/",
+        "vi": "Chắc chắn ạ. Em sẽ ____ rằng nó nằm trong hộp thư của anh ngay đầu giờ sáng thứ Sáu. Cảm ơn anh đã tin tưởng nhóm; chúng em sẽ không làm anh thất vọng.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "ensure",
+            "explanationVi": "'ensure' (đảm bảo) trang trọng và chính xác hơn 'make sure' (vốn trung tính/đời thường hơn) trong ngữ cảnh báo cáo với cấp trên. Đây lại là một lựa chọn theo register."
+          }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Wow, you totally ____ on the spot there — one minute you're chatting with me, the next you're all polished. Teach me your ways!",
+        "ipa": "/waʊ juː ˈtəʊ.təl.i ... ɒn ðə spɒt ðeər wʌn ˈmɪn.ɪt jʊə ˈtʃæt.ɪŋ wɪð miː ðə nekst jʊər ɔːl ˈpɒl.ɪʃt tiːtʃ miː jɔːr weɪz/",
+        "vi": "Wow, cậu vừa ____ tại trận luôn đấy — phút trước còn tám với tớ, phút sau đã trau chuốt hết cỡ. Dạy tớ với!",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Một động từ/cụm chỉ việc 'đổi tông giọng'. Ví dụ: 'switched gears', 'changed register', 'flipped a switch'."
+          }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa công sở phương Tây, việc chuyển register linh hoạt được xem là dấu hiệu của sự trưởng thành giao tiếp: đời thường với đồng nghiệp ngang hàng, nhưng trang trọng và rõ ràng với cấp trên hoặc khách hàng.",
+    "'With all due respect' nghe lịch sự nhưng người bản xứ biết nó thường báo hiệu một lời phản đối sắp tới — dùng đúng chỗ thì khéo, lạm dụng thì hóa mỉa mai.",
+    "Hedging (nói rào: 'sort of', 'I tend to think', 'arguably') không phải là thiếu tự tin; trong văn hóa Anh-Mỹ nó thể hiện sự khiêm tốn và để ngỏ cho đối thoại, rất được coi trọng ở cấp độ chuyên nghiệp.",
+    "Người Anh (Anh-Anh) thường gián tiếp và rào đón nhiều hơn; người Mỹ có xu hướng thẳng và thân mật nhanh hơn. Cùng một câu có thể bị cảm nhận khác nhau tùy vùng."
+  ],
+
+  "commonMistakes": [
+    "Dùng một register cho mọi tình huống — nói với sếp y như nói với bạn ('Hey, can you send me that?') hoặc nói với bạn y như viết báo cáo ('Might I trouble you to…?'), cả hai đều lệch tông.",
+    "Dịch nguyên xi 'thẳng thắn' thành 'blunt' — 'blunt' hơi tiêu cực (thiếu tế nhị); muốn khen ai thẳng thắn nên dùng 'frank' hoặc 'forthright'.",
+    "Lạm dụng idiom/tiếng lóng ('not gonna lie', 'my two cents') trong email trang trọng hoặc thuyết trình — đúng từ nhưng sai ngữ cảnh.",
+    "Quên rằng register không chỉ ở từ vựng mà còn ở CẤU TRÚC: câu trang trọng cần mệnh đề phụ, bị động, 'however/despite'; câu suồng sã hay lược chủ ngữ và rút gọn."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện chuyển đổi văn phong theo từng đối tượng người nghe.",
+    "prompt": "Hãy đóng vai một huấn luyện viên tiếng Anh giao tiếp cấp độ C1. Tôi muốn luyện kỹ năng 'switching register' (chuyển đổi văn phong). Hãy đưa cho tôi từng tình huống một và nêu rõ tôi đang nói với AI: (1) một người bạn thân (register suồng sã), (2) một đồng nghiệp trung tính, và (3) một giám đốc cấp cao (register trang trọng). Với mỗi tình huống, hãy yêu cầu tôi truyền đạt CÙNG một thông điệp (ví dụ: từ chối một lời mời, bày tỏ bất đồng, nhờ giúp đỡ). Sau mỗi câu trả lời của tôi, hãy: (a) phản hồi tự nhiên đúng vai, (b) chấm xem register của tôi có khớp đối tượng không và chỉ ra chỗ lệch tông bằng tiếng Việt, (c) gợi ý cách diễn đạt hay hơn cùng register, và khuyến khích tôi dùng hedging ('I tend to think', 'arguably'), mệnh đề nhượng bộ ('although', 'despite') cùng idiom đúng chỗ. Cuối buổi, chấm điểm khả năng chuyển register của tôi và nêu 3 điểm cần cải thiện. Bắt đầu với tình huống đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy bất ngờ đổi vai giữa chừng (ví dụ sếp đột ngột bước vào) để tôi tập chuyển tông ngay lập tức như trong hội thoại mẫu.'",
+      "Thêm: 'Hãy yêu cầu tôi nói lại CÙNG một câu theo ba register khác nhau và so sánh sắc thái.'",
+      "Thêm: 'Hãy cố tình cài bẫy bằng các idiom dễ dùng sai ngữ cảnh để kiểm tra tôi.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi diễn đạt được cùng một ý theo ba mức trang trọng (suồng sã / trung tính / trang trọng) mà không lệch tông.",
+    "Tôi dùng được hedging ('I tend to think', 'arguably') và mệnh đề nhượng bộ ('although', 'despite') khi nêu ý kiến hoặc phản biện.",
+    "Tôi nhận ra khi mình lỡ dùng sai register và tự điều chỉnh ngay trong lúc nói."
+  ]
+}

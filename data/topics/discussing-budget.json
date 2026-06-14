@@ -1,0 +1,340 @@
+{
+  "id": "discussing-budget",
+  "category": "family",
+  "title": "Bàn chi tiêu gia đình",
+  "titleEn": "Discussing the Family Budget",
+  "level": "B1",
+  "functions": ["opinions", "suggesting", "agreeing", "negotiating"],
+  "estimatedMinutes": 18,
+  "objectives": [
+    "Nói về thu nhập, chi tiêu và tiền tiết kiệm của gia đình bằng câu đầy đủ",
+    "Đề xuất cách cắt giảm chi phí và đặt mục tiêu tiết kiệm",
+    "Bày tỏ đồng ý / không đồng ý một cách lịch sự khi bàn tiền bạc với người thân",
+    "Dùng ngữ pháp B1 (such as, because, although, in order to) khi thảo luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "budget",
+      "ipa": "/ˈbʌdʒ.ɪt/",
+      "vi": "ngân sách, khoản tiền dự chi (danh từ)",
+      "register": "neutral",
+      "example": "We need to set a monthly budget for groceries.",
+      "exampleVi": "Chúng ta cần đặt một ngân sách hằng tháng cho tiền chợ.",
+      "note": "Danh từ. Cũng dùng làm động từ: 'to budget for something' (dành ngân sách cho việc gì). Cụm hay gặp: 'on a tight budget' (eo hẹp tiền bạc).",
+      "synonyms": [
+        { "term": "spending plan", "ipa": "/ˈspen.dɪŋ plæn/", "register": "neutral", "nuanceVi": "Diễn đạt mộc mạc, dễ hiểu, nhấn vào kế hoạch chi tiêu. Hợp khi nói chuyện trong gia đình." },
+        { "term": "allowance", "ipa": "/əˈlaʊ.əns/", "register": "neutral", "nuanceVi": "Nghĩa hẹp hơn: khoản tiền được cấp/cho định kỳ (vd tiền tiêu vặt của con). Không thay thế hoàn toàn cho 'budget'." }
+      ]
+    },
+    {
+      "term": "expense",
+      "ipa": "/ɪkˈspens/",
+      "vi": "khoản chi tiêu, chi phí (danh từ)",
+      "register": "neutral",
+      "example": "Rent is our biggest expense every month.",
+      "exampleVi": "Tiền thuê nhà là khoản chi lớn nhất mỗi tháng của chúng tôi.",
+      "note": "Thường dùng số nhiều 'expenses' khi nói về tổng chi phí. Phân biệt: 'expense' (khoản chi cụ thể) khác 'cost' (giá phải trả của một thứ).",
+      "synonyms": [
+        { "term": "cost", "ipa": "/kɒst/", "register": "neutral", "nuanceVi": "Nhấn vào 'giá phải trả của một thứ cụ thể' (the cost of food). Trung tính, rất phổ biến." },
+        { "term": "outgoings", "ipa": "/ˈaʊtˌɡəʊ.ɪŋz/", "register": "formal", "nuanceVi": "Anh-Anh, trang trọng, chỉ tổng các khoản tiền chi ra hằng tháng. Luôn dùng số nhiều." },
+        { "term": "spending", "ipa": "/ˈspen.dɪŋ/", "register": "casual", "nuanceVi": "Đời thường, nhấn hành động tiêu tiền nói chung: 'cut down on spending'." }
+      ]
+    },
+    {
+      "term": "to save up",
+      "ipa": "/tə seɪv ʌp/",
+      "vi": "tích cóp, để dành tiền (cụm động từ)",
+      "register": "neutral",
+      "example": "We're saving up for a family holiday next summer.",
+      "exampleVi": "Chúng tôi đang để dành tiền cho chuyến du lịch gia đình hè sau.",
+      "note": "Cụm động từ, đi với 'for something' (mục tiêu). 'save up' nhấn quá trình tích cóp dần; 'save' chung chung hơn.",
+      "synonyms": [
+        { "term": "to put aside", "ipa": "/tə pʊt əˈsaɪd/", "register": "neutral", "nuanceVi": "Nhấn 'dành riêng ra một khoản', thường đều đặn: 'put aside some money each month'." },
+        { "term": "to set aside", "ipa": "/tə set əˈsaɪd/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa 'put aside', hơi trang trọng hơn một chút." }
+      ]
+    },
+    {
+      "term": "to cut back on",
+      "ipa": "/tə kʌt bæk ɒn/",
+      "vi": "cắt giảm, bớt chi cho (cụm động từ)",
+      "register": "neutral",
+      "example": "We should cut back on eating out to save money.",
+      "exampleVi": "Chúng ta nên giảm bớt việc ăn ngoài để tiết kiệm tiền.",
+      "note": "Đi với 'on + danh từ / V-ing'. Nghĩa là giảm bớt chứ không phải bỏ hẳn.",
+      "synonyms": [
+        { "term": "to cut down on", "ipa": "/tə kʌt daʊn ɒn/", "register": "neutral", "nuanceVi": "Gần như y hệt 'cut back on'. Cả hai đều rất phổ biến; dùng cái nào cũng được." },
+        { "term": "to reduce", "ipa": "/tə rɪˈdjuːs/", "register": "formal", "nuanceVi": "Trang trọng hơn, đi thẳng với tân ngữ (reduce our expenses), không cần giới từ." }
+      ]
+    },
+    {
+      "term": "afford",
+      "ipa": "/əˈfɔːd/",
+      "vi": "đủ khả năng chi trả (động từ)",
+      "register": "neutral",
+      "example": "We can't afford a new car this year.",
+      "exampleVi": "Năm nay chúng ta không đủ tiền mua xe mới.",
+      "note": "Hầu như luôn đi với 'can / can't / could'. Theo sau là danh từ hoặc 'to + V': 'afford to buy'.",
+      "synonyms": [
+        { "term": "to manage", "ipa": "/tə ˈmæn.ɪdʒ/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'xoay xở được': 'Can we manage it on one salary?'." }
+      ]
+    },
+    {
+      "term": "essential",
+      "ipa": "/ɪˈsen.ʃəl/",
+      "vi": "thiết yếu, không thể thiếu (tính từ)",
+      "register": "neutral",
+      "example": "Food and rent are essential expenses.",
+      "exampleVi": "Thức ăn và tiền nhà là những chi phí thiết yếu.",
+      "note": "Tính từ. Trái nghĩa hữu ích: 'non-essential' (không thiết yếu). Cũng dùng làm danh từ số nhiều 'the essentials' (những thứ cơ bản).",
+      "synonyms": [
+        { "term": "necessary", "ipa": "/ˈnes.ə.sər.i/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính, nghĩa 'cần thiết'. An toàn để dùng trong mọi ngữ cảnh." },
+        { "term": "vital", "ipa": "/ˈvaɪ.təl/", "register": "formal", "nuanceVi": "Mạnh hơn, nhấn 'sống còn, cực kỳ quan trọng'. Hơi quá nếu chỉ nói về chi tiêu thường ngày." }
+      ]
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔː.də.bəl/",
+      "vi": "có giá phải chăng (tính từ)",
+      "register": "neutral",
+      "example": "We're looking for a more affordable phone plan.",
+      "exampleVi": "Chúng tôi đang tìm một gói điện thoại phải chăng hơn.",
+      "note": "Tính từ, nghĩa 'trong khả năng chi trả'. Khác 'cheap' (rẻ) đôi khi mang sắc thái 'rẻ tiền, kém chất lượng'.",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'giá hợp lý, không bị hớ'. Nghe tích cực, lịch sự." },
+        { "term": "cheap", "ipa": "/tʃiːp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rẻ'. Cẩn thận: đôi khi ngụ ý 'rẻ tiền, chất lượng kém'." }
+      ]
+    },
+    {
+      "term": "tight",
+      "ipa": "/taɪt/",
+      "vi": "eo hẹp, chật vật (về tiền) (tính từ)",
+      "register": "casual",
+      "example": "Money is a bit tight this month.",
+      "exampleVi": "Tháng này tiền hơi eo hẹp.",
+      "note": "Tính từ, dùng cho tiền bạc/thời gian. Cụm rất hay gặp: 'on a tight budget' (ngân sách eo hẹp)."
+    },
+    {
+      "term": "carefully",
+      "ipa": "/ˈkeə.fəl.i/",
+      "vi": "một cách cẩn thận (trạng từ)",
+      "register": "neutral",
+      "example": "We need to plan our spending carefully.",
+      "exampleVi": "Chúng ta cần lên kế hoạch chi tiêu cẩn thận.",
+      "note": "Trạng từ. Đặt sau động từ hoặc tân ngữ: 'spend carefully', 'plan it carefully'.",
+      "synonyms": [
+        { "term": "wisely", "ipa": "/ˈwaɪz.li/", "register": "neutral", "nuanceVi": "Nhấn 'một cách khôn ngoan, sáng suốt'. Hợp khi nói về quyết định tiền bạc: 'spend wisely'." },
+        { "term": "sensibly", "ipa": "/ˈsen.sə.bli/", "register": "neutral", "nuanceVi": "Nhấn 'hợp lý, thực tế, biết điều'. Gần nghĩa 'wisely' nhưng thiên về sự chừng mực." }
+      ]
+    },
+    {
+      "term": "to keep track of",
+      "ipa": "/tə kiːp træk ɒv/",
+      "vi": "theo dõi, ghi chép lại (cụm động từ)",
+      "register": "neutral",
+      "example": "I use an app to keep track of our expenses.",
+      "exampleVi": "Tôi dùng một ứng dụng để theo dõi các khoản chi của chúng tôi.",
+      "note": "Đi với 'of + danh từ'. Nghĩa là luôn nắm được tình hình của thứ gì đó (chi tiêu, hóa đơn).",
+      "synonyms": [
+        { "term": "to monitor", "ipa": "/tə ˈmɒn.ɪ.tər/", "register": "formal", "nuanceVi": "Trang trọng hơn, đi thẳng với tân ngữ (monitor our spending). Nghe có tính 'quản lý, kiểm soát'." }
+      ]
+    },
+    {
+      "term": "income",
+      "ipa": "/ˈɪn.kʌm/",
+      "vi": "thu nhập (danh từ)",
+      "register": "neutral",
+      "example": "Our household income has stayed the same this year.",
+      "exampleVi": "Thu nhập của hộ gia đình chúng tôi năm nay vẫn giữ nguyên.",
+      "note": "Danh từ không đếm được. Trái nghĩa hữu ích khi bàn ngân sách: 'income' (tiền vào) và 'expenses' (tiền ra).",
+      "synonyms": [
+        { "term": "earnings", "ipa": "/ˈɜː.nɪŋz/", "register": "neutral", "nuanceVi": "Nhấn 'số tiền kiếm được từ làm việc'. Luôn dùng số nhiều." },
+        { "term": "salary", "ipa": "/ˈsæl.ər.i/", "register": "neutral", "nuanceVi": "Hẹp hơn: lương cố định trả định kỳ từ công việc. 'Income' rộng hơn (gồm cả lương, lãi, cho thuê...)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I think we should [V] in order to [mục đích].",
+      "use": "Đưa ra đề xuất kèm lý do/mục đích.",
+      "register": "neutral",
+      "examples": [
+        "I think we should cut back on eating out in order to save more.",
+        "I think we should keep a spending plan in order to avoid overspending."
+      ],
+      "explanationVi": "'in order to + V' chỉ mục đích, trang trọng và rõ ràng hơn 'to + V' đơn thuần. 'I think we should' làm lời đề xuất nghe nhẹ nhàng, không áp đặt.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "Why don't we [V]?",
+      "use": "Gợi ý một việc làm chung một cách thân mật.",
+      "register": "casual",
+      "examples": [
+        "Why don't we set a monthly budget together?",
+        "Why don't we cook at home more often?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách gợi ý nhẹ nhàng, thân mật trong gia đình (= hay là mình...). Theo sau là động từ nguyên thể không 'to'.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "How about [V-ing / danh từ]?",
+      "use": "Đưa ra một gợi ý nhanh, gọn.",
+      "register": "casual",
+      "examples": [
+        "How about putting aside ten percent of our income?",
+        "How about a cheaper phone plan?"
+      ],
+      "explanationVi": "Sau 'How about' phải dùng V-ing hoặc danh từ (KHÔNG dùng động từ nguyên thể). Đây là cách gợi ý ngắn gọn, rất tự nhiên khi trò chuyện.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "You're right, but [ý kiến của bạn].",
+      "use": "Đồng ý một phần rồi nêu quan điểm riêng một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "You're right, but we still need to keep some money for emergencies.",
+        "You're right, but I'd rather not cut the children's classes."
+      ],
+      "explanationVi": "Công nhận ý người kia trước ('You're right') rồi mới nêu ý mình sau 'but' — cách bất đồng nhẹ nhàng, giữ hòa khí khi bàn tiền với người thân.",
+      "altOf": "agree-disagree"
+    },
+    {
+      "pattern": "I'm not sure about that, because [lý do].",
+      "use": "Không đồng tình một cách tế nhị kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "I'm not sure about that, because we may need the savings later.",
+        "I'm not sure about that, because the kids really enjoy those lessons."
+      ],
+      "explanationVi": "'I'm not sure about that' mềm hơn nhiều so với 'No' hay 'I disagree'. Luôn kèm 'because + lý do' để lời từ chối nghe hợp lý, dễ chấp nhận.",
+      "altOf": "agree-disagree"
+    },
+    {
+      "pattern": "We can't afford to [V] at the moment.",
+      "use": "Nói rằng hiện chưa đủ khả năng chi cho việc gì.",
+      "register": "neutral",
+      "examples": [
+        "We can't afford to buy a new car at the moment.",
+        "We can't afford to take two holidays this year."
+      ],
+      "explanationVi": "'afford' luôn đi với 'can / can't'. Theo sau là 'to + V' hoặc danh từ. 'at the moment' làm rõ đây là tình hình hiện tại, có thể đổi sau."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu một ý kiến thẳng thắn, đôi khi hơi tế nhị về tiền.", "example": "Honestly, I think we spend too much on takeaways." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần điều chỉnh con số hay thông tin mà không cộc lốc.", "example": "Actually, the electricity bill was higher than usual this month." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh mẽ sự đồng ý.", "example": "We should definitely start saving for the future." },
+    { "term": "for example", "ipa": "/fɔːr ɪɡˈzɑːm.pəl/", "vi": "ví dụ như", "when": "Nêu một ví dụ cụ thể để ý kiến rõ ràng, thuyết phục hơn.", "example": "We could cut a few costs, for example our streaming subscriptions." },
+    { "term": "to be fair", "ipa": "/tə biː feə/", "vi": "nói cho công bằng thì", "when": "Thừa nhận một điểm hợp lý của phía bên kia trước khi nêu ý mình.", "example": "To be fair, you've been very careful with money lately." }
+  ],
+
+  "dialogue": {
+    "context": "Hai vợ chồng ngồi xem lại chi tiêu cuối tháng và bàn cách tiết kiệm cho một chuyến du lịch gia đình.",
+    "lines": [
+      {
+        "speaker": "Vợ",
+        "text": "I've just been looking at our spending, and honestly, I think our monthly ____ are getting a little out of control, particularly the money we spend on eating out.",
+        "ipa": "/aɪv dʒʌst bɪn ˈlʊk.ɪŋ ət ˈaʊə ˈspen.dɪŋ ænd ˈɒn.ɪst.li aɪ θɪŋk ˈaʊə ˈmʌnθ.li ɪkˈspens.ɪz ɑː ˈɡet.ɪŋ ə ˈlɪt.əl aʊt ɒv kənˈtrəʊl pəˈtɪk.jə.lə.li ðə ˈmʌn.i wiː spend ɒn ˈiː.tɪŋ aʊt/",
+        "vi": "Em vừa xem lại chi tiêu của nhà mình, thật lòng mà nói, em thấy các khoản ____ hằng tháng đang hơi mất kiểm soát, đặc biệt là tiền ăn ngoài.",
+        "blanks": [
+          { "type": "knowledge", "answer": "expenses", "explanationVi": "Dùng 'expenses' (số nhiều) chỉ tổng các khoản chi hằng tháng. Sau 'our monthly' và đi với động từ số nhiều 'are' nên phải là số nhiều." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "You're right, but to be fair, we've also had some unexpected costs this month, ____ as the car repair and the higher electricity bill, so it isn't only about eating out.",
+        "ipa": "/jɔː raɪt bʌt tə biː feə wiːv ˈɔːl.səʊ hæd sʌm ˌʌn.ɪkˈspek.tɪd kɒsts ðɪs mʌnθ sʌtʃ æz ðə kɑː rɪˈpeə ænd ðə ˈhaɪ.ər ˌel.ɪkˈtrɪs.ə.ti bɪl səʊ ɪt ˈɪz.ənt ˈəʊn.li əˈbaʊt ˈiː.tɪŋ aʊt/",
+        "vi": "Em nói đúng, nhưng nói cho công bằng thì tháng này nhà mình cũng có vài khoản phát sinh bất ngờ, ____ như sửa xe và hóa đơn điện cao hơn, nên không phải chỉ do ăn ngoài đâu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "Cụm 'such as' dùng để nêu ví dụ minh họa cho 'unexpected costs'. Xem cách dùng nêu ví dụ trong phần Trạng từ & cụm từ." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "That's true. Why don't we set a clear monthly budget together, in order ____ keep track of where our money actually goes?",
+        "ipa": "/ðæts truː waɪ dəʊnt wiː set ə klɪə ˈmʌnθ.li ˈbʌdʒ.ɪt təˈɡeð.ər ɪn ˈɔː.də tə kiːp træk ɒv weə ˈaʊə ˈmʌn.i ˈæk.tʃu.ə.li ɡəʊz/",
+        "vi": "Đúng vậy. Hay là hai vợ chồng cùng đặt một ngân sách rõ ràng hằng tháng, để ____ theo dõi xem tiền thực sự đi đâu nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "'in order to + V' chỉ mục đích. Sau 'in order' phải là 'to' rồi mới đến động từ nguyên thể 'keep'. Xem mẫu câu 'I think we should... in order to...'." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "That sounds sensible. We could cut back ____ a few non-essential things, for example our streaming subscriptions, although I'd really like to keep the children's swimming lessons.",
+        "ipa": "/ðæt saʊndz ˈsen.sə.bəl wiː kʊd kʌt bæk ɒn ə fjuː ˌnɒn.ɪˈsen.ʃəl θɪŋz fɔːr ɪɡˈzɑːm.pəl ˈaʊə ˈstriː.mɪŋ səbˈskrɪp.ʃənz ɔːlˈðəʊ aɪd ˈrɪə.li laɪk tə kiːp ðə ˈtʃɪl.drənz ˈswɪm.ɪŋ ˈles.ənz/",
+        "vi": "Nghe hợp lý đấy. Mình có thể cắt giảm ____ vài thứ không thiết yếu, ví dụ như mấy gói xem phim trực tuyến, mặc dù anh rất muốn giữ lớp học bơi cho các con.",
+        "blanks": [
+          { "type": "knowledge", "answer": "on", "explanationVi": "Cụm động từ 'cut back on + danh từ' nghĩa là cắt giảm chi cho thứ gì đó. Không thể bỏ giới từ 'on'." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "I completely agree about the lessons. The kids love them, ____ are also good for their health, so that's definitely something we should protect.",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː əˈbaʊt ðə ˈles.ənz ðə kɪdz lʌv ðəm wɪtʃ ɑː ˈɔːl.səʊ ɡʊd fɔː ðeə helθ səʊ ðæts ˈdef.ɪn.ət.li ˈsʌm.θɪŋ wiː ʃʊd prəˈtekt/",
+        "vi": "Em hoàn toàn đồng ý về mấy lớp học đó. Các con rất thích, ____ cũng tốt cho sức khỏe của chúng, nên đó chắc chắn là thứ mình nên giữ lại.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' để nối mệnh đề mô tả thêm về 'the lessons' (vật/sự việc). Nếu chỉ người thì dùng 'who'." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "Great. And how about ____ aside about ten percent of our income each month, so that we can save up for the family trip we've been planning?",
+        "ipa": "/ɡreɪt ænd haʊ əˈbaʊt ˈset.ɪŋ əˈsaɪd əˈbaʊt ten pəˈsent ɒv ˈaʊə ˈɪn.kʌm iːtʃ mʌnθ səʊ ðæt wiː kæn seɪv ʌp fɔː ðə ˈfæm.ɪ.li trɪp wiːv bɪn ˈplæn.ɪŋ/",
+        "vi": "Tuyệt. Vậy còn việc dành ____ khoảng mười phần trăm thu nhập mỗi tháng thì sao, để mình có thể tích cóp cho chuyến đi gia đình mà mình đã lên kế hoạch?",
+        "blanks": [
+          { "type": "knowledge", "answer": "setting", "explanationVi": "Sau 'How about' phải dùng V-ing, nên là 'setting' (từ cụm 'set aside' = dành riêng ra). Không dùng động từ nguyên thể sau 'How about'." }
+        ]
+      },
+      {
+        "speaker": "Vợ",
+        "text": "I'm not sure about ten percent, because money is a bit ____ right now, but we could definitely start with five percent and increase it gradually once things get easier.",
+        "ipa": "/aɪm nɒt ʃɔːr əˈbaʊt ten pəˈsent bɪˈkɒz ˈmʌn.i ɪz ə bɪt taɪt raɪt naʊ bʌt wiː kʊd ˈdef.ɪn.ət.li stɑːt wɪð faɪv pəˈsent ænd ɪnˈkriːs ɪt ˈɡrædʒ.u.ə.li wʌns θɪŋz ɡet ˈiː.zi.ər/",
+        "vi": "Em không chắc về mười phần trăm, vì dạo này tiền hơi ____, nhưng mình hoàn toàn có thể bắt đầu với năm phần trăm rồi tăng dần lên khi mọi thứ đỡ hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "tight", "explanationVi": "'money is tight' là cụm cố định nghĩa 'tiền eo hẹp, chật vật'. Tính từ 'tight' dùng cho cả tiền bạc và thời gian." }
+        ]
+      },
+      {
+        "speaker": "Chồng",
+        "text": "That's a fair point. Let's begin with what we can ____, and as soon as the car loan is paid off, we'll put aside more for our ____.",
+        "ipa": "/ðæts ə feə pɔɪnt lets bɪˈɡɪn wɪð wɒt wiː kæn əˈfɔːd ænd əz suːn əz ðə kɑː ləʊn ɪz peɪd ɒf wiːl pʊt əˈsaɪd mɔː fɔː ˈaʊə/",
+        "vi": "Em nói có lý đấy. Mình bắt đầu với mức mà mình ____ được thôi, và ngay khi trả xong khoản vay mua xe, mình sẽ dành nhiều hơn cho ____ của nhà mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "afford", "explanationVi": "'afford' đi với 'can / can't', nghĩa 'đủ khả năng chi trả'. Sau động từ khuyết thiếu 'can' dùng động từ nguyên thể không 'to'." },
+          { "type": "personal", "hint": "Mục tiêu tiết kiệm của gia đình bạn. Ví dụ: 'family trip', 'children's education', 'emergency fund'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều gia đình phương Tây, vợ chồng coi việc cùng ngồi xem lại ngân sách hằng tháng (a monthly money talk) là chuyện bình thường và lành mạnh, không phải dấu hiệu khó khăn.",
+    "Nói thẳng về thu nhập, nợ và tiết kiệm giữa hai vợ chồng được xem là minh bạch và trách nhiệm; tránh né chuyện tiền dễ gây hiểu lầm hơn.",
+    "Khái niệm 'emergency fund' (quỹ dự phòng, thường đủ chi tiêu 3-6 tháng) rất được nhấn mạnh trong văn hóa quản lý tài chính cá nhân ở phương Tây.",
+    "Khi bất đồng về tiền với người thân, người ta thường đồng ý một phần trước ('You're right, but...') để giữ không khí ôn hòa thay vì phản bác thẳng."
+  ],
+
+  "commonMistakes": [
+    "Quên giới từ trong cụm động từ: phải nói 'cut back ON' và 'keep track OF', không bỏ giới từ.",
+    "Dùng động từ nguyên thể sau 'How about' — sai. Phải là 'How about saving...?', không phải 'How about save...?'.",
+    "Nói 'I can afford to buying' — sai. Sau 'afford' là 'to + V nguyên thể': 'afford to buy'.",
+    "Nhầm 'expense' (khoản chi) với 'expensive' (đắt, tính từ): 'Rent is a big expense', không phải 'a big expensive'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống bàn chi tiêu gia đình như thật.",
+    "prompt": "Hãy đóng vai vợ/chồng của tôi, nói tiếng Anh, và cùng tôi bàn về chi tiêu gia đình tháng này. Hãy bắt đầu bằng cách nêu một mối lo về một khoản chi nào đó. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đời thật (đôi khi đồng ý, đôi khi nêu ý kiến khác), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các cấu trúc như 'Why don't we...?', 'How about...?', 'in order to', 'such as' và cách bất đồng lịch sự 'You're right, but...'. Thỉnh thoảng hãy đưa ra một tình huống bất ngờ (ví dụ một hóa đơn phát sinh) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai một người khá tiết kiệm và phản đối nhiều đề xuất của tôi.' để luyện thương lượng.",
+      "Thêm câu: 'Cuối buổi, hãy yêu cầu tôi tóm tắt lại kế hoạch ngân sách bằng tiếng Anh.' để luyện nói tổng hợp."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nói được về thu nhập, chi tiêu và tiết kiệm của gia đình bằng câu đầy đủ.",
+    "Tôi đưa ra được ít nhất 2 đề xuất tiết kiệm bằng 'Why don't we...?' hoặc 'How about...?'.",
+    "Tôi bất đồng được một cách lịch sự bằng 'You're right, but...' hoặc 'I'm not sure about that, because...'."
+  ]
+}

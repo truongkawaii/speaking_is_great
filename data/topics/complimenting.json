@@ -1,0 +1,330 @@
+{
+  "id": "complimenting",
+  "category": "friends",
+  "title": "Khen ngợi",
+  "titleEn": "Giving Compliments",
+  "level": "B1",
+  "functions": ["small-talk", "opinions", "agreeing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Khen ngợi bạn bè một cách tự nhiên về ngoại hình, đồ vật và thành tích",
+    "Đáp lại lời khen lịch sự, khiêm tốn mà không cộc lốc",
+    "Dùng tính từ và trạng từ tăng cường (such as, really, absolutely) để lời khen nghe chân thành",
+    "Lồng ngữ pháp B1 (such as, because, although, mệnh đề quan hệ which/who) khi khen và hỏi thêm"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "compliment",
+      "ipa": "/ˈkɒm.plɪ.mənt/",
+      "vi": "lời khen (danh từ)",
+      "register": "neutral",
+      "example": "She gave me a lovely compliment about my presentation.",
+      "exampleVi": "Cô ấy dành cho tôi một lời khen rất dễ thương về bài thuyết trình.",
+      "note": "Danh từ. Động từ là 'to compliment somebody on something'. Đừng nhầm với 'complement' (bổ sung) — khác chữ.",
+      "synonyms": [
+        { "term": "praise", "ipa": "/preɪz/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'ca ngợi, tán dương' thành tích/nỗ lực. Trang trọng hơn compliment một chút, vừa là danh từ vừa là động từ." },
+        { "term": "flattery", "ipa": "/ˈflæt.ər.i/", "register": "neutral", "nuanceVi": "Mang sắc thái 'khen quá lời / nịnh' để lấy lòng, đôi khi không thật lòng. Dùng cẩn thận vì hơi tiêu cực." }
+      ]
+    },
+    {
+      "term": "to suit",
+      "ipa": "/suːt/",
+      "vi": "hợp với, tôn lên (động từ)",
+      "register": "neutral",
+      "example": "That blue jacket really suits you.",
+      "exampleVi": "Cái áo khoác xanh đó hợp với bạn lắm.",
+      "note": "Động từ. Chủ ngữ là đồ vật/màu sắc, tân ngữ là người: 'It suits you'. Khác 'fit' (vừa kích cỡ).",
+      "synonyms": [
+        { "term": "to match", "ipa": "/mætʃ/", "register": "neutral", "nuanceVi": "Nhấn vào 'hai thứ đi cùng nhau hài hòa' (vd áo hợp với quần), không nhất thiết là hợp với người." },
+        { "term": "to flatter", "ipa": "/ˈflæt.ər/", "register": "neutral", "nuanceVi": "Nghĩa 'làm cho trông đẹp/nổi bật hơn'. Vd 'That dress flatters your figure' — tôn dáng bạn lên." }
+      ]
+    },
+    {
+      "term": "gorgeous",
+      "ipa": "/ˈɡɔː.dʒəs/",
+      "vi": "tuyệt đẹp, lộng lẫy (tính từ)",
+      "register": "casual",
+      "example": "You look absolutely gorgeous tonight!",
+      "exampleVi": "Tối nay trông bạn đẹp lộng lẫy luôn!",
+      "note": "Tính từ mạnh, dùng để khen ngoại hình/đồ vật. Đời thường và nồng nhiệt; mạnh hơn 'nice' hay 'pretty'.",
+      "synonyms": [
+        { "term": "stunning", "ipa": "/ˈstʌn.ɪŋ/", "register": "casual", "nuanceVi": "Nhấn 'đẹp đến mức gây sững sờ'. Rất mạnh, thường khen ngoại hình hoặc khung cảnh." },
+        { "term": "lovely", "ipa": "/ˈlʌv.li/", "register": "neutral", "nuanceVi": "Nhẹ nhàng, ấm áp, dễ thương. An toàn để dùng trong mọi tình huống, đỡ 'quá đà' hơn gorgeous." },
+        { "term": "good-looking", "ipa": "/ˌɡʊdˈlʊk.ɪŋ/", "register": "neutral", "nuanceVi": "Trung tính, chủ yếu khen người trông ưa nhìn/đẹp. Ít cảm xúc cường điệu hơn gorgeous." }
+      ]
+    },
+    {
+      "term": "impressive",
+      "ipa": "/ɪmˈpres.ɪv/",
+      "vi": "ấn tượng, đáng nể (tính từ)",
+      "register": "neutral",
+      "example": "Your progress in English is really impressive.",
+      "exampleVi": "Sự tiến bộ tiếng Anh của bạn thật sự đáng nể.",
+      "note": "Tính từ. Hay dùng để khen thành tích, kỹ năng, nỗ lực — không phải ngoại hình.",
+      "synonyms": [
+        { "term": "remarkable", "ipa": "/rɪˈmɑː.kə.bəl/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'đáng chú ý, hiếm thấy'. Tạo ấn tượng nghiêm túc, lịch thiệp." },
+        { "term": "amazing", "ipa": "/əˈmeɪ.zɪŋ/", "register": "casual", "nuanceVi": "Đời thường, cảm xúc cao 'tuyệt vời'. Dùng thoải mái khi nói chuyện với bạn bè." }
+      ]
+    },
+    {
+      "term": "talented",
+      "ipa": "/ˈtæl.ən.tɪd/",
+      "vi": "tài năng, có năng khiếu (tính từ)",
+      "register": "neutral",
+      "example": "You're such a talented cook!",
+      "exampleVi": "Bạn nấu ăn tài thật đấy!",
+      "note": "Tính từ. Đi với 'such a + talented + danh từ' để khen năng khiếu bẩm sinh ở một lĩnh vực.",
+      "synonyms": [
+        { "term": "gifted", "ipa": "/ˈɡɪf.tɪd/", "register": "formal", "nuanceVi": "Nhấn 'có tài thiên bẩm, trời cho'. Trang trọng hơn talented một chút." },
+        { "term": "skilled", "ipa": "/skɪld/", "register": "neutral", "nuanceVi": "Nhấn 'thành thạo nhờ luyện tập, được đào tạo', không nhất thiết là năng khiếu bẩm sinh." }
+      ]
+    },
+    {
+      "term": "to appreciate",
+      "ipa": "/əˈpriː.ʃi.eɪt/",
+      "vi": "trân trọng, biết ơn (động từ)",
+      "register": "neutral",
+      "example": "I really appreciate you saying that.",
+      "exampleVi": "Mình thật sự trân trọng việc bạn nói vậy.",
+      "note": "Động từ. Câu vàng để đáp lại lời khen: 'I appreciate that' (Cảm ơn bạn đã nói vậy). Lịch sự và ấm áp.",
+      "synonyms": [
+        { "term": "to value", "ipa": "/ˈvæl.juː/", "register": "neutral", "nuanceVi": "Nhấn 'coi trọng, cho là quan trọng'. Dùng cho lời khuyên, ý kiến, tình bạn hơn là lời khen tức thời." }
+      ]
+    },
+    {
+      "term": "to deserve",
+      "ipa": "/dɪˈzɜːv/",
+      "vi": "xứng đáng (động từ)",
+      "register": "neutral",
+      "example": "You deserve all the praise — you worked so hard.",
+      "exampleVi": "Bạn xứng đáng với mọi lời khen — bạn đã làm việc rất chăm chỉ.",
+      "note": "Động từ. Dùng để khẳng định ai đó xứng đáng được khen/được thưởng vì nỗ lực của họ."
+    },
+    {
+      "term": "genuinely",
+      "ipa": "/ˈdʒen.ju.ɪn.li/",
+      "vi": "một cách chân thành (trạng từ)",
+      "register": "neutral",
+      "example": "I'm genuinely impressed by how much you've improved.",
+      "exampleVi": "Mình thật lòng ấn tượng với mức độ tiến bộ của bạn.",
+      "note": "Trạng từ. Đặt trước tính từ/động từ để nhấn rằng lời khen là thật lòng, không xã giao.",
+      "synonyms": [
+        { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "register": "neutral", "nuanceVi": "Đời thường hơn, nghĩa 'thật mà nói'. Mở đầu câu để nhấn sự chân thật: 'Honestly, you nailed it.'" },
+        { "term": "truly", "ipa": "/ˈtruː.li/", "register": "neutral", "nuanceVi": "Nhấn 'thực sự, đúng là vậy'. Hơi văn vẻ/trang trọng hơn genuinely một chút." }
+      ]
+    },
+    {
+      "term": "incredibly",
+      "ipa": "/ɪnˈkred.ə.bli/",
+      "vi": "vô cùng, cực kỳ (trạng từ)",
+      "register": "neutral",
+      "example": "That cake you made was incredibly delicious.",
+      "exampleVi": "Cái bánh bạn làm ngon vô cùng.",
+      "note": "Trạng từ tăng cường, đặt trước tính từ để đẩy mức độ lên cao. Mạnh hơn 'very'.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˌæb.səˈluːt.li/", "register": "casual", "nuanceVi": "Đi với tính từ tuyệt đối (gorgeous, perfect): 'absolutely gorgeous'. Nhấn sự dứt khoát, nồng nhiệt." },
+        { "term": "extremely", "ipa": "/ɪkˈstriːm.li/", "register": "neutral", "nuanceVi": "Trung tính, mức độ rất cao nhưng nghe điềm tĩnh hơn incredibly. An toàn trong văn nói lẫn viết." }
+      ]
+    },
+    {
+      "term": "outfit",
+      "ipa": "/ˈaʊt.fɪt/",
+      "vi": "bộ trang phục (danh từ)",
+      "register": "casual",
+      "example": "I love your outfit — where did you get it?",
+      "exampleVi": "Mình thích bộ đồ của bạn lắm — mua ở đâu vậy?",
+      "note": "Danh từ. Chỉ cả bộ quần áo phối với nhau, không chỉ một món. Rất hay dùng khi khen cách ăn mặc."
+    },
+    {
+      "term": "to pull off",
+      "ipa": "/pʊl ɒf/",
+      "vi": "diện được, làm tốt một việc khó (cụm động từ)",
+      "register": "casual",
+      "example": "Not everyone can pull off that hairstyle, but you really do.",
+      "exampleVi": "Không phải ai cũng để được kiểu tóc đó, nhưng bạn thì hợp thật đấy.",
+      "note": "Cụm động từ đời thường. Nghĩa 'làm/diện được điều khó mà trông vẫn ổn'. Lời khen nghe rất tự nhiên."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I love your [danh từ]!",
+      "use": "Khen nhanh và nồng nhiệt về một món đồ/đặc điểm.",
+      "register": "casual",
+      "examples": [
+        "I love your jacket!",
+        "I love your new haircut — it really suits you."
+      ],
+      "explanationVi": "'I love...' nghe nồng nhiệt và rất tự nhiên giữa bạn bè. Thêm 'it really suits you' để lời khen cụ thể, đỡ chung chung.",
+      "altOf": "giving-compliment"
+    },
+    {
+      "pattern": "That [danh từ] really suits you.",
+      "use": "Khen một món đồ hợp với người mặc.",
+      "register": "neutral",
+      "examples": [
+        "That colour really suits you.",
+        "That dress really suits you, especially with those shoes."
+      ],
+      "explanationVi": "'suit' = hợp/tôn lên người. Trạng từ 'really' làm lời khen nghe chân thành hơn. Lịch sự, hợp cả với người chưa thân.",
+      "altOf": "giving-compliment"
+    },
+    {
+      "pattern": "You're such a talented [danh từ]!",
+      "use": "Khen năng khiếu/kỹ năng của ai đó.",
+      "register": "neutral",
+      "examples": [
+        "You're such a talented singer!",
+        "You're such a talented cook, especially when it comes to desserts."
+      ],
+      "explanationVi": "Cấu trúc 'such a + tính từ + danh từ' để khen mạnh. Khen kèm dẫn chứng ('especially when...') sẽ thuyết phục hơn.",
+      "altOf": "giving-compliment"
+    },
+    {
+      "pattern": "I'm really impressed by [danh từ / V-ing].",
+      "use": "Khen thành tích/sự tiến bộ một cách chân thành.",
+      "register": "neutral",
+      "examples": [
+        "I'm really impressed by your English.",
+        "I'm really impressed by how much you've improved this year."
+      ],
+      "explanationVi": "'impressed by + danh từ/V-ing'. Đây là cách khen 'ăn điểm' về nỗ lực, không phải ngoại hình — nghe trưởng thành và chân thành.",
+      "altOf": "giving-compliment"
+    },
+    {
+      "pattern": "Thank you, that's so kind of you to say.",
+      "use": "Đáp lại lời khen một cách lịch sự, khiêm tốn.",
+      "register": "neutral",
+      "examples": [
+        "Thank you, that's so kind of you to say.",
+        "Oh, thank you! That's really kind of you."
+      ],
+      "explanationVi": "Người Việt hay im lặng hoặc chối ('No, no') khi được khen. Trong tiếng Anh, nên cảm ơn và đón nhận lời khen. Mẫu này lịch sự, ấm áp.",
+      "altOf": "responding-compliment"
+    },
+    {
+      "pattern": "Thanks! Although I'm not sure I deserve it, I really appreciate that.",
+      "use": "Đáp lại lời khen kiểu khiêm tốn nhưng vẫn cảm ơn.",
+      "register": "neutral",
+      "examples": [
+        "Thanks! Although I'm not sure I deserve it, I really appreciate that.",
+        "That's very kind! Although it was a team effort, I appreciate the praise."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (khiêm tốn), rồi vẫn cảm ơn ('appreciate'). Cách đáp này vừa khiêm tốn vừa không chối bỏ lời khen.",
+      "altOf": "responding-compliment"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thật lòng mà nói", "when": "Mở đầu lời khen để nhấn rằng bạn nói thật, không xã giao.", "example": "Honestly, that was one of the best meals I've ever had." },
+    { "term": "absolutely", "ipa": "/ˌæb.səˈluːt.li/", "vi": "cực kỳ, hoàn toàn", "when": "Đặt trước tính từ mạnh (gorgeous, perfect) để khen nồng nhiệt.", "example": "Your room looks absolutely amazing now!" },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Chèn một lời khen nhẹ nhàng giữa câu chuyện, tự nhiên không đột ngột.", "example": "By the way, I love what you've done with your hair." },
+    { "term": "I have to say", "ipa": "/aɪ hæv tə seɪ/", "vi": "phải nói là", "when": "Dẫn vào một lời khen mà bạn thực sự ấn tượng.", "example": "I have to say, you've really outdone yourself this time." },
+    { "term": "seriously", "ipa": "/ˈsɪə.ri.əs.li/", "vi": "nói thật đấy (nhấn mạnh)", "when": "Nhấn rằng lời khen không phải đùa, mà là thật.", "example": "Seriously, you should sell these — they're that good." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn đến nhà một người bạn dự buổi tụ họp nhỏ. Người bạn vừa trang trí lại căn hộ, đổi kiểu tóc và tự nấu vài món. Hai người khen ngợi và trò chuyện vui vẻ.",
+    "lines": [
+      {
+        "speaker": "Bạn",
+        "text": "Wow, your apartment looks absolutely amazing! I love what you've done with the living room, ____ the new bookshelf and those plants by the window.",
+        "ipa": "/waʊ jɔːr əˈpɑːt.mənt lʊks ˌæb.səˈluːt.li əˈmeɪ.zɪŋ aɪ lʌv wɒt juːv dʌn wɪð ðə ˈlɪv.ɪŋ ruːm ... ðə njuː ˈbʊk.ʃelf ænd ðəʊz plɑːnts baɪ ðə ˈwɪn.dəʊ/",
+        "vi": "Ồ, căn hộ của cậu trông tuyệt vời quá! Mình thích cách cậu bài trí phòng khách, ____ cái kệ sách mới và mấy chậu cây bên cửa sổ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'what you've done'. Nêu chi tiết cụ thể khiến lời khen nghe chân thành hơn. Xem cấu trúc khen ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "Thank you so much, that's so kind of you to say! Honestly, it took ages, ____ I'm really happy with how it turned out.",
+        "ipa": "/θæŋk juː səʊ mʌtʃ ðæts səʊ kaɪnd ɒv juː tə seɪ ˈɒn.ɪst.li ɪt tʊk ˈeɪ.dʒɪz ... aɪm ˈrɪə.li ˈhæp.i wɪð haʊ ɪt tɜːnd aʊt/",
+        "vi": "Cảm ơn cậu nhiều lắm, cậu nói vậy tốt bụng quá! Thật lòng mà nói, nó tốn cả đống thời gian, ____ mình rất hài lòng với kết quả.",
+        "blanks": [
+          { "type": "knowledge", "answer": "but", "explanationVi": "Dùng 'but' để nối hai ý tương phản: tốn thời gian NHƯNG hài lòng. Có thể thay bằng 'although' đặt ở đầu mệnh đề. Xem mẫu đáp lời khen ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It really shows. By the way, I love your new haircut — that style really ____ you, especially with the colour.",
+        "ipa": "/ɪt ˈrɪə.li ʃəʊz baɪ ðə weɪ aɪ lʌv jɔːr njuː ˈheə.kʌt ðæt staɪl ˈrɪə.li ... juː ɪˈspeʃ.ə.li wɪð ðə ˈkʌl.ər/",
+        "vi": "Nhìn ra ngay luôn. Tiện thể, mình thích kiểu tóc mới của cậu — kiểu đó ____ cậu lắm, nhất là với màu này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "suits", "explanationVi": "Dùng 'suits' (ngôi thứ ba số ít, thêm -s) vì chủ ngữ là 'that style'. Nghĩa 'hợp với, tôn lên'. Xem cấu trúc 'That ... really suits you' ở phần Cấu trúc câu." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "Aw, thanks! Although I was nervous about cutting it so short, my hairdresser, ____ has been doing my hair for years, talked me into it.",
+        "ipa": "/ɔː θæŋks ɔːlˈðəʊ aɪ wɒz ˈnɜː.vəs əˈbaʊt ˈkʌt.ɪŋ ɪt səʊ ʃɔːt maɪ ˈheə.dres.ər ... həz bɪn ˈduː.ɪŋ maɪ heə fɔːr jɪəz tɔːkt miː ˈɪn.tə ɪt/",
+        "vi": "Ôi, cảm ơn nhé! Dù mình đã lo khi cắt ngắn vậy, nhưng bác làm tóc của mình, ____ đã làm tóc cho mình nhiều năm rồi, đã thuyết phục mình.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì chỉ người ('my hairdresser'). Nếu là vật thì dùng 'which'. Mệnh đề quan hệ giúp nối thông tin vào một câu mượt mà." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Smart choice. And I have to say, I'm really impressed by these snacks — did you make them yourself?",
+        "ipa": "/smɑːt tʃɔɪs ænd aɪ hæv tə seɪ aɪm ˈrɪə.li ɪmˈprest baɪ ðiːz snæks dɪd juː meɪk ðəm jɔːˈself/",
+        "vi": "Lựa chọn khôn ngoan đấy. Và phải nói là, mình thật sự ấn tượng với mấy món ăn vặt này — cậu tự làm hết à?"
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "I did, actually! I'm not a professional, but I genuinely enjoy cooking ____ it helps me relax after work.",
+        "ipa": "/aɪ dɪd ˈæk.tʃu.ə.li aɪm nɒt ə prəˈfeʃ.ən.əl bʌt aɪ ˈdʒen.ju.ɪn.li ɪnˈdʒɔɪ ˈkʊk.ɪŋ ... ɪt helps miː rɪˈlæks ˈɑːf.tə wɜːk/",
+        "vi": "Đúng vậy đó! Mình không chuyên gì đâu, nhưng mình thật lòng thích nấu ăn ____ nó giúp mình thư giãn sau giờ làm.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do tại sao thích nấu ăn. Đây là liên từ chỉ nguyên nhân rất thông dụng ở trình độ B1." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, you're such a talented cook! Seriously, these are ____ better than anything I've had at a restaurant lately.",
+        "ipa": "/wel jɔː sʌtʃ ə ˈtæl.ən.tɪd kʊk ˈsɪə.ri.əs.li ðiːz ɑː ... ˈbet.ər ðæn ˈen.i.θɪŋ aɪv hæd ət ə ˈres.trɒnt ˈleɪt.li/",
+        "vi": "Thật đấy, cậu nấu ăn tài thật! Nói thật, mấy món này còn ____ ngon hơn cả mấy món mình ăn ở nhà hàng gần đây.",
+        "blanks": [
+          { "type": "personal", "hint": "Một trạng từ tăng cường để nhấn mạnh 'better'. Ví dụ: 'far', 'much', 'way' (đời thường)." }
+        ]
+      },
+      {
+        "speaker": "Bạn của bạn",
+        "text": "That's so generous of you! Although I'm not sure I deserve all that praise, I really appreciate it. You should come over more often — I'll teach you my favourite recipe, ____ is surprisingly easy.",
+        "ipa": "/ðæts səʊ ˈdʒen.ər.əs ɒv juː ɔːlˈðəʊ aɪm nɒt ʃʊər aɪ dɪˈzɜːv ɔːl ðæt preɪz aɪ ˈrɪə.li əˈpriː.ʃi.eɪt ɪt juː ʃʊd kʌm ˈəʊ.və mɔːr ˈɒf.ən aɪl tiːtʃ juː maɪ ˈfeɪ.vər.ɪt ˈres.ɪ.pi ... ɪz səˈpraɪ.zɪŋ.li ˈiː.zi/",
+        "vi": "Cậu khen hào phóng quá! Dù mình không chắc mình xứng với lời khen đó đâu, nhưng mình thật sự trân trọng. Cậu nên qua chơi thường xuyên hơn — mình sẽ dạy cậu công thức mình thích nhất, ____ dễ làm đến bất ngờ đấy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' vì chỉ vật ('my favourite recipe'). Nếu chỉ người thì dùng 'who'. Mệnh đề quan hệ giúp gộp thông tin vào một câu trôi chảy." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa phương Tây, khi được khen nên CẢM ƠN và đón nhận ('Thank you!'), thay vì chối bỏ ('No, no, it's nothing') như thói quen khiêm tốn của người Việt — chối lời khen có thể khiến người khen thấy ngượng.",
+    "Khen cụ thể luôn chân thành hơn khen chung chung. Nói 'I love how the colour suits you' tự nhiên hơn 'You're beautiful' với người chưa thân.",
+    "Khen ngoại hình người khác giới ở nơi công sở cần tế nhị; khen về kỹ năng, thành tích hoặc đồ vật ('Nice presentation', 'I love your bag') thì luôn an toàn.",
+    "Sau khi cảm ơn lời khen, người bản xứ thường khen lại hoặc hỏi thêm ('Where did you get it?') để giữ mạch trò chuyện thân thiện."
+  ],
+
+  "commonMistakes": [
+    "Chối lời khen kiểu 'No, no, it's not good' — trong tiếng Anh nên cảm ơn: 'Thank you, that's kind of you.'",
+    "Quên thêm -s ở 'suit' khi chủ ngữ số ít: phải nói 'It suitS you', không phải 'It suit you'.",
+    "Nhầm 'compliment' (lời khen) với 'complement' (bổ sung) — viết và nghĩa khác nhau.",
+    "Lạm dụng 'very' cho mọi thứ. Hãy dùng trạng từ mạnh hơn như 'incredibly', 'absolutely', 'genuinely' để lời khen sinh động."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện khen ngợi và đáp lại lời khen như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh mà tôi đến chơi nhà. Hãy bắt đầu bằng việc chào tôi. Trong lúc trò chuyện, hãy: (1) khen tôi về một vài thứ (trang phục, một việc tôi vừa làm được) để tôi luyện cách ĐÁP LẠI lời khen, và (2) cố tình tạo cơ hội để tôi KHEN bạn (kể bạn vừa làm món ăn, vừa trang trí phòng). Sau mỗi câu trả lời của tôi, hãy phản hồi tự nhiên như một người bạn, rồi sửa lỗi ngữ pháp và gợi ý cách khen hay hơn bằng tiếng Việt, đặc biệt khuyến khích tôi dùng 'such as', 'because', 'although' và trạng từ mạnh như 'absolutely', 'genuinely'. Cuối buổi, hãy nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Thỉnh thoảng hãy khen tôi quá lời để tôi tập đáp lại một cách khiêm tốn mà vẫn cảm ơn.'",
+      "Thêm: 'Hãy đẩy nhịp trò chuyện nhanh hơn như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi khen được bạn bè về ít nhất 3 thứ khác nhau (đồ vật, ngoại hình, thành tích) bằng câu tự nhiên.",
+    "Tôi đáp lại lời khen bằng cách cảm ơn lịch sự, không chối bỏ.",
+    "Tôi dùng được 'such as', 'because', 'although' và một mệnh đề quan hệ (who/which) khi nói."
+  ]
+}

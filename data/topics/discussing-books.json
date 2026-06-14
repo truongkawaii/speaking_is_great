@@ -1,0 +1,340 @@
+{
+  "id": "discussing-books",
+  "category": "opinions",
+  "title": "Bàn về sách",
+  "titleEn": "Discussing Books",
+  "level": "B2",
+  "functions": ["opinions", "describing", "agreeing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về một cuốn sách bằng câu dài, có lập luận",
+    "Mô tả cốt truyện, nhân vật và phong cách viết một cách sinh động",
+    "Đồng tình hoặc phản biện ý kiến của người khác một cách lịch sự",
+    "Gợi ý / giới thiệu sách cho người khác kèm lý do thuyết phục",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, mệnh đề quan hệ) tự nhiên khi bàn luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "plot",
+      "ipa": "/plɒt/",
+      "vi": "cốt truyện (danh từ)",
+      "register": "neutral",
+      "example": "The plot was so gripping that I finished the book in one sitting.",
+      "exampleVi": "Cốt truyện cuốn hút đến mức tôi đọc xong cuốn sách trong một lần ngồi.",
+      "note": "Danh từ. Là chuỗi sự kiện chính của câu chuyện. Đừng nhầm với 'theme' (chủ đề tư tưởng) hay 'setting' (bối cảnh).",
+      "synonyms": [
+        { "term": "storyline", "ipa": "/ˈstɔːr.i.laɪn/", "register": "neutral", "nuanceVi": "Gần như đồng nghĩa, nhấn vào 'mạch truyện' diễn ra. Thường dùng khi nói về một tuyến truyện trong nhiều tuyến." },
+        { "term": "narrative", "ipa": "/ˈnær.ə.tɪv/", "register": "formal", "nuanceVi": "Trang trọng hơn, chỉ cách câu chuyện được kể (gồm cả góc nhìn, trình tự). Hay dùng trong phê bình văn học." }
+      ]
+    },
+    {
+      "term": "character",
+      "ipa": "/ˈkær.ək.tər/",
+      "vi": "nhân vật (danh từ)",
+      "register": "neutral",
+      "example": "The main character undergoes a remarkable transformation throughout the story.",
+      "exampleVi": "Nhân vật chính trải qua một sự thay đổi đáng kể xuyên suốt câu chuyện.",
+      "note": "Danh từ. 'main/leading character' = nhân vật chính; 'minor character' = nhân vật phụ. Cũng có nghĩa 'tính cách' tùy ngữ cảnh.",
+      "synonyms": [
+        { "term": "protagonist", "ipa": "/prəˈtæɡ.ən.ɪst/", "register": "formal", "nuanceVi": "Trang trọng, chỉ riêng nhân vật chính/người dẫn dắt câu chuyện. Trái nghĩa: 'antagonist' (nhân vật phản diện)." },
+        { "term": "figure", "ipa": "/ˈfɪɡ.ər/", "register": "neutral", "nuanceVi": "Nhấn 'một nhân vật/hình tượng nổi bật', hay dùng với người có thật (vd 'a historical figure')." }
+      ]
+    },
+    {
+      "term": "compelling",
+      "ipa": "/kəmˈpel.ɪŋ/",
+      "vi": "lôi cuốn, thuyết phục (tính từ)",
+      "register": "neutral",
+      "example": "She makes a compelling argument about why we should read more fiction.",
+      "exampleVi": "Cô ấy đưa ra một lập luận thuyết phục về việc vì sao ta nên đọc nhiều tiểu thuyết hơn.",
+      "note": "Tính từ mang nghĩa TÍCH CỰC: hấp dẫn đến mức khó cưỡng, hoặc thuyết phục mạnh. Dùng cho story, character, argument, reason.",
+      "synonyms": [
+        { "term": "gripping", "ipa": "/ˈɡrɪp.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'cuốn hút, không rời ra được', thiên về cảm giác hồi hộp. Hợp với truyện trinh thám, kịch tính." },
+        { "term": "captivating", "ipa": "/ˈkæp.tɪ.veɪ.tɪŋ/", "register": "formal", "nuanceVi": "Trang nhã, nhấn 'mê hoặc, thu hút sự chú ý'. Nghe văn vẻ, lịch thiệp hơn." },
+        { "term": "engaging", "ipa": "/ɪnˈɡeɪ.dʒɪŋ/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'dễ chịu, khiến ta muốn theo dõi tiếp'. An toàn, dùng được trong hầu hết ngữ cảnh." }
+      ]
+    },
+    {
+      "term": "tedious",
+      "ipa": "/ˈtiː.di.əs/",
+      "vi": "tẻ nhạt, dài dòng chán ngắt (tính từ)",
+      "register": "neutral",
+      "example": "I found the middle section rather tedious, although the ending was worth it.",
+      "exampleVi": "Tôi thấy phần giữa khá lê thê chán, dù cái kết thì đáng để chờ.",
+      "note": "Tính từ TIÊU CỰC: nhàm chán vì kéo dài, lặp lại. Lịch sự hơn nói thẳng 'boring' khi nhận xét sách.",
+      "synonyms": [
+        { "term": "dull", "ipa": "/dʌl/", "register": "neutral", "nuanceVi": "Nhấn 'nhạt nhẽo, thiếu sức sống', không nhất thiết do dài. Trung tính, nhẹ hơn 'boring'." },
+        { "term": "long-winded", "ipa": "/ˌlɒŋˈwɪn.dɪd/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'lê thê, dài dòng không cần thiết'. Hay dùng cho cách viết/lời kể vòng vo." }
+      ]
+    },
+    {
+      "term": "to relate to",
+      "ipa": "/tə rɪˈleɪt tuː/",
+      "vi": "đồng cảm, thấy gần gũi với (động từ)",
+      "register": "neutral",
+      "example": "I could really relate to the heroine because she faced the same fears I once had.",
+      "exampleVi": "Tôi thực sự đồng cảm với nữ chính vì cô ấy đối mặt với chính những nỗi sợ tôi từng có.",
+      "note": "Cụm động từ, đi với 'to + người/điều gì'. Diễn tả việc thấy bản thân trong nhân vật, một nhận xét rất tự nhiên khi bàn sách.",
+      "synonyms": [
+        { "term": "to identify with", "ipa": "/tu aɪˈden.tɪ.faɪ wɪð/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'thấy mình hệt như nhân vật'. Hay dùng trong phê bình, thảo luận sâu." },
+        { "term": "to connect with", "ipa": "/tə kəˈnekt wɪð/", "register": "neutral", "nuanceVi": "Nhấn 'có sự kết nối cảm xúc'. Nhẹ và phổ biến, dùng được cả cho người lẫn tác phẩm." }
+      ]
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "giới thiệu, khuyên nên đọc (động từ)",
+      "register": "neutral",
+      "example": "I'd highly recommend this novel to anyone who enjoys historical fiction.",
+      "exampleVi": "Tôi rất khuyên cuốn tiểu thuyết này cho bất kỳ ai thích tiểu thuyết lịch sử.",
+      "note": "Động từ. Cấu trúc: 'recommend something to someone' hoặc 'recommend + V-ing'. Lưu ý KHÔNG nói 'recommend you to read' (sai phổ biến của người Việt).",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nghĩa 'gợi ý'. Không mạnh bằng 'recommend' (vốn hàm ý 'tôi tin nó hay')." },
+        { "term": "to vouch for", "ipa": "/tə ˈvaʊtʃ fɔːr/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'tôi đảm bảo/bảo chứng cho nó'. Mang tính cá nhân, chắc nịch." }
+      ]
+    },
+    {
+      "term": "genre",
+      "ipa": "/ˈʒɒn.rə/",
+      "vi": "thể loại (sách, phim) (danh từ)",
+      "register": "neutral",
+      "example": "Science fiction isn't usually my genre, but this book changed my mind.",
+      "exampleVi": "Khoa học viễn tưởng thường không phải thể loại của tôi, nhưng cuốn này đã thay đổi suy nghĩ ấy.",
+      "note": "Danh từ gốc Pháp, phát âm bẫy: /ˈʒɒn.rə/, âm đầu giống 's' trong 'pleasure'. Các genre phổ biến: fiction, thriller, romance, memoir.",
+      "synonyms": [
+        { "term": "category", "ipa": "/ˈkæt.ə.ɡər.i/", "register": "neutral", "nuanceVi": "Trung tính, chung chung hơn ('hạng mục'). 'genre' chuyên dùng cho nghệ thuật/văn học nên nghe chuẩn hơn." }
+      ]
+    },
+    {
+      "term": "thought-provoking",
+      "ipa": "/ˈθɔːt.prəˌvəʊ.kɪŋ/",
+      "vi": "khơi gợi suy nghĩ (tính từ)",
+      "register": "neutral",
+      "example": "It's a thought-provoking book that made me question my own assumptions.",
+      "exampleVi": "Đó là một cuốn sách khơi gợi suy nghĩ, khiến tôi tự vấn lại những định kiến của mình.",
+      "note": "Tính từ ghép (có gạch nối). Lời khen tinh tế cho sách có chiều sâu, buộc người đọc suy ngẫm.",
+      "synonyms": [
+        { "term": "insightful", "ipa": "/ˈɪn.saɪt.fəl/", "register": "formal", "nuanceVi": "Nhấn 'sâu sắc, thấu đáo', khen tác giả nhìn ra điều người khác bỏ sót. Trang trọng." },
+        { "term": "eye-opening", "ipa": "/ˈaɪˌəʊ.pən.ɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'mở mang, khiến ta nhận ra điều chưa từng biết'. Cảm xúc, gần gũi hơn." }
+      ]
+    },
+    {
+      "term": "to skim",
+      "ipa": "/skɪm/",
+      "vi": "đọc lướt qua (động từ)",
+      "register": "neutral",
+      "example": "Honestly, I just skimmed the last few chapters because they dragged on.",
+      "exampleVi": "Thật ra tôi chỉ đọc lướt vài chương cuối vì chúng lê thê quá.",
+      "note": "Động từ: đọc nhanh để nắm ý chính, không đọc kỹ. Khác 'scan' (dò tìm một thông tin cụ thể).",
+      "synonyms": [
+        { "term": "to glance through", "ipa": "/tə ɡlɑːns θruː/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'liếc qua thật nhanh'. Còn hời hợt hơn cả 'skim'." }
+      ]
+    },
+    {
+      "term": "vividly",
+      "ipa": "/ˈvɪv.ɪd.li/",
+      "vi": "một cách sống động (trạng từ)",
+      "register": "neutral",
+      "example": "The author vividly describes the city, so you can almost smell the streets.",
+      "exampleVi": "Tác giả miêu tả thành phố sống động đến mức bạn gần như ngửi thấy mùi đường phố.",
+      "note": "Trạng từ, bổ nghĩa cho cách miêu tả/hình dung giàu hình ảnh. Khen kỹ năng tả cảnh, tả cảm xúc.",
+      "synonyms": [
+        { "term": "evocatively", "ipa": "/ɪˈvɒk.ə.tɪv.li/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'gợi cảm xúc/kỷ niệm mạnh mẽ'. Văn vẻ, hợp phê bình văn học." },
+        { "term": "graphically", "ipa": "/ˈɡræf.ɪk.əl.i/", "register": "neutral", "nuanceVi": "Nhấn 'chi tiết rõ ràng đến từng nét', đôi khi hàm ý cảnh bạo lực/sống sượng. Chọn ngữ cảnh cẩn thận." }
+      ]
+    },
+    {
+      "term": "to grasp",
+      "ipa": "/ɡrɑːsp/",
+      "vi": "nắm bắt, hiểu thấu (động từ)",
+      "register": "neutral",
+      "example": "It took me a while to grasp the deeper meaning behind the ending.",
+      "exampleVi": "Tôi phải mất một lúc mới nắm được ý nghĩa sâu xa đằng sau cái kết.",
+      "note": "Động từ, nghĩa 'hiểu được điều khó/trừu tượng'. Mạnh và tinh tế hơn 'understand'.",
+      "synonyms": [
+        { "term": "to comprehend", "ipa": "/ˌkɒm.prɪˈhend/", "register": "formal", "nuanceVi": "Trang trọng, học thuật, nhấn 'hiểu trọn vẹn'. Hay gặp trong văn viết." },
+        { "term": "to make sense of", "ipa": "/tə meɪk sens ɒv/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'lý giải được cho hợp lý'. Tự nhiên trong hội thoại." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What I found most [tính từ] about the book was [danh từ / mệnh đề].",
+      "use": "Mở đầu một nhận xét nhấn mạnh vào điểm ấn tượng nhất.",
+      "register": "neutral",
+      "examples": [
+        "What I found most compelling about the book was the way the author developed each character.",
+        "What I found most disappointing was the rushed ending."
+      ],
+      "explanationVi": "Cấu trúc nhấn mạnh (cleft sentence) với 'What…': đưa điều quan trọng nhất lên đầu để gây chú ý, nghe sâu sắc hơn là 'The book was good'.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "In my opinion, [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Nêu quan điểm cân bằng, vừa khen vừa thừa nhận mặt còn hạn chế.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, it's a masterpiece, although the first few chapters are a bit slow."
+      ],
+      "explanationVi": "'In my opinion' mở đầu quan điểm cá nhân; 'although' thêm vế nhượng bộ để ý kiến nghe khách quan, chín chắn. Rất 'ăn điểm' ở trình độ B2.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I'd say [mệnh đề], if you ask me.",
+      "use": "Đưa ra ý kiến một cách khiêm tốn, mềm mại.",
+      "register": "casual",
+      "examples": [
+        "I'd say it's a bit overrated, if you ask me."
+      ],
+      "explanationVi": "'I'd say' (= I would say) và 'if you ask me' làm nhận xét nghe nhẹ nhàng, đỡ áp đặt — hợp khi nêu ý kiến trái chiều mà không muốn gây căng thẳng.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "That's a fair point, but [mệnh đề phản biện].",
+      "use": "Phản biện lịch sự sau khi thừa nhận một phần ý của người kia.",
+      "register": "neutral",
+      "examples": [
+        "That's a fair point, but I still think the symbolism makes it worth reading."
+      ],
+      "explanationVi": "Công thức phản biện văn minh: thừa nhận trước ('a fair point'), rồi mới nêu ý khác sau 'but'. Tránh phủ định thẳng thừng gây mất lòng.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I see where you're coming from, however [mệnh đề].",
+      "use": "Tỏ ra hiểu quan điểm của người kia trước khi đưa ý ngược lại.",
+      "register": "neutral",
+      "examples": [
+        "I see where you're coming from, however I felt the pacing ruined it for me."
+      ],
+      "explanationVi": "'I see where you're coming from' = tôi hiểu vì sao bạn nghĩ vậy. 'however' (trang trọng hơn 'but') dẫn ý đối lập. Bộ đôi này thể hiện sự tôn trọng.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I'd really recommend it to anyone who [mệnh đề], such as [ví dụ].",
+      "use": "Giới thiệu sách và chỉ rõ đối tượng phù hợp kèm ví dụ.",
+      "register": "neutral",
+      "examples": [
+        "I'd really recommend it to anyone who loves a good mystery, such as fans of detective novels."
+      ],
+      "explanationVi": "'recommend something to someone' (đúng giới từ 'to'); 'such as' nêu ví dụ minh họa. Chỉ rõ ai nên đọc khiến lời giới thiệu thuyết phục hơn."
+    },
+    {
+      "pattern": "Not only does it [V], but it also [V].",
+      "use": "Nhấn mạnh cuốn sách có nhiều hơn một giá trị.",
+      "register": "formal",
+      "examples": [
+        "Not only does it tell a gripping story, but it also raises important moral questions."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu kéo trợ động từ 'does' lên trước chủ ngữ. Cấu trúc nâng cao, gây ấn tượng — nhớ đảo đúng kẻo sai ngữ pháp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một nhận xét thẳng thắn, đôi khi hơi tiêu cực.", "example": "Honestly, I expected more from the ending." },
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "về phần tôi / theo cá nhân tôi", "when": "Làm rõ đây chỉ là quan điểm riêng, tránh áp đặt.", "example": "Personally, I think the sequel was even better than the original." },
+    { "term": "admittedly", "ipa": "/ədˈmɪt.ɪd.li/", "vi": "phải thừa nhận là", "when": "Thừa nhận một điểm trước khi bảo vệ ý kiến chính.", "example": "Admittedly, it's a long read, but every page is worth it." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "nói cho công bằng", "when": "Bênh vực hoặc cân bằng lại một nhận xét quá khắt khe.", "example": "To be fair, the author did warn us it would be a slow build-up." },
+    { "term": "frankly", "ipa": "/ˈfræŋ.kli/", "vi": "nói thẳng ra", "when": "Đưa ra ý kiến dứt khoát, không vòng vo.", "example": "Frankly, I couldn't put it down." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn vừa đọc xong cùng một cuốn tiểu thuyết và đang ngồi ở quán cà phê để trao đổi cảm nhận. Họ có vài điểm đồng tình và vài điểm tranh luận nhẹ nhàng.",
+    "lines": [
+      {
+        "speaker": "Mai",
+        "text": "So, you finally finished the novel I lent you! What did you make of it overall?",
+        "ipa": "/səʊ juː ˈfaɪ.nə.li ˈfɪn.ɪʃt ðə ˈnɒv.əl aɪ lent juː wɒt dɪd juː meɪk ɒv ɪt ˌəʊ.vərˈɔːl/",
+        "vi": "Vậy là cuối cùng cậu cũng đọc xong cuốn tiểu thuyết tớ cho mượn rồi! Nhìn chung cậu thấy nó thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I did, and honestly I loved it. What I found most ____ about it was how the author developed the main character, ____ grew so much from a timid student into a real leader.",
+        "ipa": "/aɪ dɪd ænd ˈɒn.ɪst.li aɪ lʌvd ɪt wɒt aɪ faʊnd məʊst ... əˈbaʊt ɪt wɒz haʊ ðə ˈɔː.θər dɪˈvel.əpt ðə meɪn ˈkær.ək.tər ... ɡruː səʊ mʌtʃ frɒm ə ˈtɪm.ɪd ˈstjuː.dənt ˈɪn.tu ə rɪəl ˈliː.dər/",
+        "vi": "Đọc xong rồi, và thành thật là tớ rất thích. Điều tớ thấy ____ nhất là cách tác giả xây dựng nhân vật chính, ____ trưởng thành rất nhiều từ một cô học trò nhút nhát thành một người dẫn dắt thực thụ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "compelling", "explanationVi": "Dùng tính từ 'compelling' (lôi cuốn) để khen. Cấu trúc nhấn mạnh 'What I found most + tính từ + was…'. Xem mẫu câu 'giving-opinion'." },
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' vì nó thay cho 'the main character' (người). Nếu là vật/sự việc thì dùng 'which'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I completely agree about the character. The ending, though, felt rushed to me. Did you really grasp what happened in the final chapter?",
+        "ipa": "/aɪ kəmˈpliːt.li əˈɡriː əˈbaʊt ðə ˈkær.ək.tər ðiː ˈen.dɪŋ ðəʊ felt rʌʃt tə miː dɪd juː ˈrɪə.li ɡrɑːsp wɒt ˈhæp.ənd ɪn ðə ˈfaɪ.nəl ˈtʃæp.tər/",
+        "vi": "Tớ hoàn toàn đồng ý về nhân vật. Nhưng cái kết thì với tớ có vẻ vội vàng. Cậu có thực sự nắm được chuyện gì xảy ra ở chương cuối không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's a ____ point, but personally I thought the open ending worked. ____ it left some questions unanswered, it also gave us space to imagine the rest, which I quite enjoyed.",
+        "ipa": "/ðæts ə ... pɔɪnt bʌt ˈpɜː.sən.əl.i aɪ θɔːt ðiː ˈəʊ.pən ˈen.dɪŋ wɜːkt ... ɪt left sʌm ˈkwes.tʃənz ʌnˈɑːn.səd ɪt ˈɔːl.səʊ ɡeɪv ʌs speɪs tu ɪˈmædʒ.ɪn ðə rest wɪtʃ aɪ kwaɪt ɪnˈdʒɔɪd/",
+        "vi": "Đó là một nhận xét ____, nhưng riêng tớ thấy cái kết mở lại hiệu quả. ____ nó để lại vài câu hỏi chưa có lời giải, nó cũng cho ta khoảng trống để tưởng tượng phần còn lại, điều mà tớ khá thích.",
+        "blanks": [
+          { "type": "knowledge", "answer": "fair", "explanationVi": "Cụm 'That's a fair point, but…' để phản biện lịch sự: thừa nhận trước rồi mới nêu ý khác. Xem mẫu câu 'disagreeing-politely'." },
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' mở mệnh đề nhượng bộ (dù…). Nó cân bằng giữa mặt yếu (để câu hỏi mở) và mặt mạnh (cho không gian tưởng tượng)." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "I see where you're coming from. By the way, which genre do you usually go for? This one was quite different from your usual taste, wasn't it?",
+        "ipa": "/aɪ siː weər juːr ˈkʌm.ɪŋ frɒm baɪ ðə weɪ wɪtʃ ˈʒɒn.rə duː juː ˈjuː.ʒu.ə.li ɡəʊ fɔːr ðɪs wʌn wɒz kwaɪt ˈdɪf.ər.ənt frɒm jɔːr ˈjuː.ʒu.əl teɪst ˈwɒz.ənt ɪt/",
+        "vi": "Tớ hiểu ý cậu. Nhân tiện, cậu thường thích thể loại nào? Cuốn này khá khác gu thường ngày của cậu, đúng không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It really was. I usually read thrillers ____ crime and mystery novels, so this literary drama was a stretch for me. ____ I almost gave up at first, I eventually got hooked and read the second half in one sitting.",
+        "ipa": "/ɪt ˈrɪə.li wɒz aɪ ˈjuː.ʒu.ə.li riːd ˈθrɪl.əz ... kraɪm ænd ˈmɪs.tər.i ˈnɒv.əlz səʊ ðɪs ˈlɪt.ər.ər.i ˈdrɑː.mə wɒz ə stretʃ fɔːr miː ... aɪ ˈɔːl.məʊst ɡeɪv ʌp ət fɜːst aɪ ɪˈven.tʃu.ə.li ɡɒt hʊkt ænd riːd ðə ˈsek.ənd hɑːf ɪn wʌn ˈsɪt.ɪŋ/",
+        "vi": "Đúng là vậy thật. Tớ thường đọc truyện ly kỳ ____ truyện tội phạm và trinh thám, nên cuốn chính kịch văn học này hơi quá sức tớ. ____ lúc đầu tớ suýt bỏ cuộc, nhưng rốt cuộc tớ bị cuốn vào và đọc liền nửa sau trong một lần ngồi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Dùng 'such as' để nêu ví dụ minh họa cho 'thrillers' (truyện tội phạm, trinh thám). Nêu ví dụ cụ thể nghe thuyết phục hơn." },
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' mở mệnh đề nhượng bộ: dù suýt bỏ cuộc nhưng cuối cùng vẫn bị cuốn. Có thể thay bằng 'Even though'." }
+        ]
+      },
+      {
+        "speaker": "Mai",
+        "text": "That's exactly what happened to me! So, would you recommend it to others, despite the slow start?",
+        "ipa": "/ðæts ɪɡˈzækt.li wɒt ˈhæp.ənd tə miː səʊ wʊd juː ˌrek.əˈmend ɪt tu ˈʌð.əz dɪsˈpaɪt ðə sləʊ stɑːt/",
+        "vi": "Đó chính xác là điều xảy ra với tớ! Vậy cậu có giới thiệu nó cho người khác không, dù phần mở đầu chậm chạp?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Absolutely. I'd really recommend it to anyone ____ enjoys ____ stories. Not only does it tell a moving story, but it also makes you reflect on your own choices, so I'd say it's well worth the patience.",
+        "ipa": "/ˈæb.sə.luːt.li aɪd ˈrɪə.li ˌrek.əˈmend ɪt tu ˈen.i.wʌn ... ɪnˈdʒɔɪz ... ˈstɔːr.iz nɒt ˈəʊn.li dʌz ɪt tel ə ˈmuː.vɪŋ ˈstɔːr.i bʌt ɪt ˈɔːl.səʊ meɪks juː rɪˈflekt ɒn jɔːr əʊn ˈtʃɔɪs.ɪz səʊ aɪd seɪ ɪts wel wɜːθ ðə ˈpeɪ.ʃəns/",
+        "vi": "Chắc chắn rồi. Tớ rất khuyên nó cho bất kỳ ai ____ thích những câu chuyện ____. Nó không chỉ kể một câu chuyện cảm động, mà còn khiến cậu suy ngẫm về những lựa chọn của chính mình, nên tớ phải nói là rất đáng để kiên nhẫn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng 'who' vì nó thay cho 'anyone' (người). Mệnh đề quan hệ này xác định rõ đối tượng nên đọc sách." },
+          { "type": "personal", "hint": "Loại truyện bạn muốn nhắc đến, ví dụ: 'thought-provoking', 'emotional', 'character-driven'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa nói tiếng Anh, bàn luận sách (book club) là hoạt động xã giao phổ biến. Người ta coi trọng việc đưa ra ý kiến RIÊNG kèm lý do, hơn là chỉ nói 'hay' hay 'dở'.",
+    "Bất đồng quan điểm về sách được xem là chuyện bình thường và thú vị. Mẫu 'That's a fair point, but…' hay 'I see where you're coming from, however…' giúp tranh luận mà vẫn lịch sự, tôn trọng.",
+    "Tránh kể toàn bộ cái kết (spoiler) cho người chưa đọc. Lịch sự thì hỏi trước: 'Have you finished it? I don't want to spoil anything.'",
+    "Khi giới thiệu sách, người bản xứ thường nói rõ ĐỐI TƯỢNG phù hợp ('if you like…, you'll love this') thay vì khẳng định 'ai cũng nên đọc'."
+  ],
+
+  "commonMistakes": [
+    "Sai cấu trúc 'recommend': KHÔNG nói 'I recommend you to read it'. Đúng là 'I recommend (that) you read it' hoặc 'I recommend it to you'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it tell…', không phải 'Not only it tells…'.",
+    "Nhầm 'who' (cho người) với 'which' (cho vật/sự việc) trong mệnh đề quan hệ khi tả nhân vật và cốt truyện.",
+    "Nhận xét cộc lốc kiểu 'It's boring' / 'It's good'. Ở B2 hãy mở rộng bằng lý do và mệnh đề nhượng bộ để nghe chín chắn, trôi chảy."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện bàn luận sách như đang ngồi trong một câu lạc bộ đọc sách.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh trong câu lạc bộ đọc sách. Tôi sẽ chọn một cuốn sách (hoặc cậu gợi ý một cuốn nổi tiếng). Hãy trò chuyện với tôi về cuốn sách đó: hỏi tôi nghĩ gì về cốt truyện, nhân vật, cái kết, và thỉnh thoảng đưa ra một ý kiến TRÁI CHIỀU để tôi tập phản biện lịch sự. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn đang say sưa bàn sách, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'such as', 'not only… but also' và các mẫu nêu/ phản biện ý kiến. Cuối buổi, hãy chấm điểm phần trình bày quan điểm của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn để tớ tập bảo vệ quan điểm của mình.' khi bạn đã quen.",
+      "Thêm: 'Hãy yêu cầu tớ so sánh cuốn này với một cuốn khác cùng thể loại.' để tập lập luận sâu hơn."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm về một cuốn sách bằng câu dài có lý do và mệnh đề nhượng bộ ('although').",
+    "Tôi phản biện được ý kiến trái chiều một cách lịch sự bằng 'That's a fair point, but…' hoặc 'I see where you're coming from, however…'.",
+    "Tôi giới thiệu được một cuốn sách kèm đối tượng phù hợp và dùng đúng cấu trúc 'recommend'."
+  ]
+}

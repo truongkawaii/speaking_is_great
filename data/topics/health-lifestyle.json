@@ -1,0 +1,362 @@
+{
+  "id": "health-lifestyle",
+  "category": "opinions",
+  "title": "Sức khỏe & lối sống",
+  "titleEn": "Health and Lifestyle",
+  "level": "B2",
+  "functions": ["opinions", "suggesting", "agreeing", "describing"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Bày tỏ quan điểm về lối sống lành mạnh bằng câu dài, mạch lạc",
+    "Đưa ra lời khuyên và gợi ý thay đổi thói quen một cách tế nhị",
+    "Đồng tình hoặc phản biện nhẹ nhàng quan điểm của người khác",
+    "Mô tả thói quen, chế độ ăn và cảm giác của bản thân bằng từ vựng phong phú",
+    "Dùng ngữ pháp nâng cao (although, despite, not only… but also, in order to, mệnh đề quan hệ) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "wellbeing",
+      "ipa": "/ˈwel.biː.ɪŋ/",
+      "vi": "sự khỏe mạnh, an lành (cả thể chất lẫn tinh thần) (danh từ)",
+      "register": "neutral",
+      "example": "Regular exercise has a huge impact on your overall wellbeing.",
+      "exampleVi": "Tập thể dục đều đặn có ảnh hưởng rất lớn đến sức khỏe toàn diện của bạn.",
+      "note": "Danh từ không đếm được. Rộng hơn 'health' vì bao gồm cả tinh thần và cảm xúc. Có thể viết 'well-being' (có gạch nối).",
+      "synonyms": [
+        { "term": "welfare", "ipa": "/ˈwel.feər/", "register": "formal", "nuanceVi": "Trang trọng hơn, thiên về 'sự an sinh, được chăm lo' (vd phúc lợi xã hội). Ít dùng cho sức khỏe cá nhân hằng ngày." },
+        { "term": "health", "ipa": "/helθ/", "register": "neutral", "nuanceVi": "Cụ thể hơn, thiên về tình trạng cơ thể/bệnh tật. 'wellbeing' bao trùm cả tinh thần lẫn cảm xúc." }
+      ]
+    },
+    {
+      "term": "diet",
+      "ipa": "/ˈdaɪ.ət/",
+      "vi": "chế độ ăn uống (danh từ)",
+      "register": "neutral",
+      "example": "A balanced diet is just as important as physical activity.",
+      "exampleVi": "Một chế độ ăn cân bằng cũng quan trọng như vận động vậy.",
+      "note": "Danh từ. Nghĩa gốc là 'những gì bạn ăn thường ngày', KHÔNG nhất thiết là ăn kiêng. 'to go on a diet' mới là 'ăn kiêng giảm cân'.",
+      "synonyms": [
+        { "term": "nutrition", "ipa": "/njuːˈtrɪʃ.ən/", "register": "neutral", "nuanceVi": "Nhấn vào khía cạnh 'dinh dưỡng, chất bổ' khoa học hơn, không chỉ là món bạn ăn." },
+        { "term": "eating habits", "ipa": "/ˈiː.tɪŋ ˈhæb.ɪts/", "register": "neutral", "nuanceVi": "Cụm đời thường, nhấn vào 'thói quen ăn uống' lặp đi lặp lại hơn là tổng thể chế độ." }
+      ]
+    },
+    {
+      "term": "to work out",
+      "ipa": "/wɜːk aʊt/",
+      "vi": "tập luyện thể thao (động từ)",
+      "register": "casual",
+      "example": "I try to work out at least three times a week.",
+      "exampleVi": "Tôi cố gắng tập luyện ít nhất ba lần một tuần.",
+      "note": "Cụm động từ, đời thường. Danh từ là 'a workout' (một buổi tập). Trang trọng hơn thì dùng 'to exercise'.",
+      "synonyms": [
+        { "term": "to exercise", "ipa": "/ˈek.sə.saɪz/", "register": "neutral", "nuanceVi": "Trung tính, dùng được mọi ngữ cảnh, vừa là động từ vừa là danh từ ('to do exercise')." },
+        { "term": "to train", "ipa": "/treɪn/", "register": "neutral", "nuanceVi": "Nhấn 'tập luyện có mục tiêu/bài bản', thường để chuẩn bị cho một giải đấu hoặc nâng cao thể lực cụ thể." }
+      ]
+    },
+    {
+      "term": "exhausted",
+      "ipa": "/ɪɡˈzɔːs.tɪd/",
+      "vi": "kiệt sức (tính từ)",
+      "register": "neutral",
+      "example": "After working overtime all week, I felt completely exhausted.",
+      "exampleVi": "Sau cả tuần làm thêm giờ, tôi cảm thấy hoàn toàn kiệt sức.",
+      "note": "Tính từ mạnh hơn nhiều so với 'tired'. Là tính từ chỉ trạng thái tột cùng nên không dùng 'very exhausted', mà dùng 'absolutely/completely exhausted'.",
+      "synonyms": [
+        { "term": "worn out", "ipa": "/wɔːn aʊt/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'mệt rã rời sau khi gắng sức kéo dài'. Nghe gần gũi hơn 'exhausted'." },
+        { "term": "drained", "ipa": "/dreɪnd/", "register": "neutral", "nuanceVi": "Nhấn 'bị rút cạn năng lượng', hay dùng cho mệt mỏi tinh thần/cảm xúc chứ không chỉ thể chất." },
+        { "term": "burnt out", "ipa": "/bɜːnt aʊt/", "register": "neutral", "nuanceVi": "Nặng nhất: kiệt sức kéo dài do căng thẳng/làm việc quá độ, gần như suy sụp. Không dùng cho mệt thoáng qua." }
+      ]
+    },
+    {
+      "term": "stressful",
+      "ipa": "/ˈstres.fəl/",
+      "vi": "gây căng thẳng (tính từ)",
+      "register": "neutral",
+      "example": "A demanding job can be incredibly stressful in the long run.",
+      "exampleVi": "Một công việc đòi hỏi cao có thể cực kỳ gây căng thẳng về lâu dài.",
+      "note": "Tính từ mô tả thứ GÂY căng thẳng (công việc, lịch trình). Đừng nhầm với 'stressed' (cảm thấy căng thẳng) chỉ trạng thái của người.",
+      "synonyms": [
+        { "term": "demanding", "ipa": "/dɪˈmɑːn.dɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'đòi hỏi nhiều công sức/thời gian', không hẳn tiêu cực như 'stressful'." },
+        { "term": "overwhelming", "ipa": "/ˌəʊ.vəˈwel.mɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn: 'quá tải đến mức choáng ngợp, không kham nổi'." }
+      ]
+    },
+    {
+      "term": "to cut down on",
+      "ipa": "/kʌt daʊn ɒn/",
+      "vi": "giảm bớt (lượng tiêu thụ) (động từ)",
+      "register": "neutral",
+      "example": "My doctor advised me to cut down on sugar and processed food.",
+      "exampleVi": "Bác sĩ khuyên tôi giảm bớt đường và đồ ăn chế biến sẵn.",
+      "note": "Cụm động từ, luôn đi với 'on' + danh từ. Nghĩa là giảm dần chứ không bỏ hẳn (bỏ hẳn là 'cut out' hoặc 'give up').",
+      "synonyms": [
+        { "term": "to reduce", "ipa": "/rɪˈdjuːs/", "register": "formal", "nuanceVi": "Trang trọng và chính xác hơn, không cần giới từ: 'reduce your salt intake'." },
+        { "term": "to cut back on", "ipa": "/kʌt bæk ɒn/", "register": "casual", "nuanceVi": "Gần như y hệt 'cut down on', dùng thay thế được. Phổ biến trong Anh-Mỹ." }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "một cách đều đặn (trạng từ)",
+      "register": "neutral",
+      "example": "People who exercise regularly tend to sleep much better.",
+      "exampleVi": "Những người tập thể dục đều đặn thường ngủ ngon hơn nhiều.",
+      "note": "Trạng từ chỉ tần suất, thường đứng cuối câu hoặc trước động từ chính. Cốt lõi khi nói về thói quen lành mạnh.",
+      "synonyms": [
+        { "term": "consistently", "ipa": "/kənˈsɪs.tənt.li/", "register": "formal", "nuanceVi": "Nhấn 'kiên trì, không gián đoạn, ổn định'. Mạnh hơn 'regularly' ở ý duy trì lâu dài." },
+        { "term": "routinely", "ipa": "/ruːˈtiːn.li/", "register": "neutral", "nuanceVi": "Nhấn 'như một thói quen mặc định, gần như tự động'." }
+      ]
+    },
+    {
+      "term": "gradually",
+      "ipa": "/ˈɡrædʒ.u.ə.li/",
+      "vi": "một cách từ từ, dần dần (trạng từ)",
+      "register": "neutral",
+      "example": "I gradually replaced fizzy drinks with water and felt the difference.",
+      "exampleVi": "Tôi dần dần thay nước ngọt có ga bằng nước lọc và cảm nhận được sự khác biệt.",
+      "note": "Trạng từ chỉ một quá trình thay đổi chậm, từng bước. Rất hợp khi nói về cách hình thành thói quen mới.",
+      "synonyms": [
+        { "term": "slowly", "ipa": "/ˈsləʊ.li/", "register": "neutral", "nuanceVi": "Đơn giản hơn, chỉ nhấn 'chậm', không hẳn có ý 'theo từng bước có tiến triển' như 'gradually'." },
+        { "term": "steadily", "ipa": "/ˈsted.ɪ.li/", "register": "neutral", "nuanceVi": "Nhấn 'đều đặn và ổn định', tiến triển chắc chắn không dao động." }
+      ]
+    },
+    {
+      "term": "to maintain",
+      "ipa": "/meɪnˈteɪn/",
+      "vi": "duy trì (động từ)",
+      "register": "formal",
+      "example": "It can be hard to maintain a healthy lifestyle when you're busy.",
+      "exampleVi": "Có thể khó duy trì lối sống lành mạnh khi bạn bận rộn.",
+      "note": "Động từ trang trọng, nghĩa 'giữ cho tiếp tục ở mức/trạng thái sẵn có'. Hay đi với balance, weight, routine, lifestyle.",
+      "synonyms": [
+        { "term": "to keep up", "ipa": "/kiːp ʌp/", "register": "casual", "nuanceVi": "Cụm động từ đời thường, nghĩa 'giữ tiếp tục, không bỏ dở': 'keep up the good habit'." },
+        { "term": "to sustain", "ipa": "/səˈsteɪn/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'duy trì được lâu dài, bền vững'. Hay dùng trong văn viết/khoa học." }
+      ]
+    },
+    {
+      "term": "beneficial",
+      "ipa": "/ˌben.ɪˈfɪʃ.əl/",
+      "vi": "có lợi, có ích (tính từ)",
+      "register": "formal",
+      "example": "Getting enough sleep is extremely beneficial for both body and mind.",
+      "exampleVi": "Ngủ đủ giấc cực kỳ có lợi cho cả thể chất lẫn tinh thần.",
+      "note": "Tính từ trang trọng, đi với 'for/to'. Nghe học thuật và thuyết phục hơn 'good for'.",
+      "synonyms": [
+        { "term": "good for you", "ipa": "/ɡʊd fɔːr juː/", "register": "casual", "nuanceVi": "Đời thường, ai cũng hiểu: 'Vegetables are good for you.' Nghe kém trang trọng hơn 'beneficial'." },
+        { "term": "wholesome", "ipa": "/ˈhəʊl.səm/", "register": "neutral", "nuanceVi": "Thiên về 'lành mạnh, bổ dưỡng, trong sạch', hay dùng cho thức ăn và lối sống." }
+      ]
+    },
+    {
+      "term": "moderation",
+      "ipa": "/ˌmɒd.ərˈeɪ.ʃən/",
+      "vi": "sự điều độ, chừng mực (danh từ)",
+      "register": "formal",
+      "example": "I believe you can eat almost anything, as long as it's in moderation.",
+      "exampleVi": "Tôi tin bạn có thể ăn gần như mọi thứ, miễn là điều độ.",
+      "note": "Danh từ không đếm được. Cụm cố định cực hay dùng: 'in moderation' (một cách chừng mực, vừa phải).",
+      "synonyms": [
+        { "term": "balance", "ipa": "/ˈbæl.əns/", "register": "neutral", "nuanceVi": "Nhấn 'sự cân bằng giữa các yếu tố' hơn là 'không quá độ'. Gần nghĩa nhưng góc nhìn khác." }
+      ]
+    },
+    {
+      "term": "sedentary",
+      "ipa": "/ˈsed.ən.tər.i/",
+      "vi": "ít vận động, hay ngồi một chỗ (tính từ)",
+      "register": "formal",
+      "example": "A sedentary lifestyle, such as sitting at a desk all day, can be harmful.",
+      "exampleVi": "Lối sống ít vận động, như ngồi bàn giấy cả ngày, có thể gây hại.",
+      "note": "Tính từ trang trọng/học thuật, thường đi với 'lifestyle' hoặc 'job'. Trái nghĩa với 'active'.",
+      "synonyms": [
+        { "term": "inactive", "ipa": "/ɪnˈæk.tɪv/", "register": "neutral", "nuanceVi": "Trung tính và dễ hiểu hơn, nghĩa 'không vận động'. 'sedentary' nghe chuyên môn hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "In my opinion, [mệnh đề], especially when [mệnh đề].",
+      "use": "Mở đầu bày tỏ quan điểm cá nhân một cách rõ ràng.",
+      "register": "neutral",
+      "examples": [
+        "In my opinion, a balanced diet matters more than any trendy workout, especially when you have a busy schedule."
+      ],
+      "explanationVi": "'In my opinion' báo hiệu đây là quan điểm riêng. 'especially when' thêm điều kiện nhấn mạnh, giúp câu dài và thuyết phục hơn.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "If you ask me, [mệnh đề].",
+      "use": "Nêu quan điểm theo cách thân mật, đời thường hơn.",
+      "register": "casual",
+      "examples": [
+        "If you ask me, getting enough sleep is just as important as exercising."
+      ],
+      "explanationVi": "'If you ask me' nghe thân thiện, gần gũi, nhẹ nhàng hơn 'In my opinion'. Hợp khi trò chuyện với bạn bè, đồng nghiệp thân.",
+      "altOf": "giving-opinion"
+    },
+    {
+      "pattern": "I couldn't agree more, although [mệnh đề].",
+      "use": "Đồng tình mạnh mẽ nhưng kèm một ý bổ sung/dè dặt nhẹ.",
+      "register": "neutral",
+      "examples": [
+        "I couldn't agree more, although I think it's easier said than done for people who work long hours."
+      ],
+      "explanationVi": "'I couldn't agree more' là cách nói 'tôi hoàn toàn đồng ý' (đừng dịch sát là 'không thể đồng ý'). 'although' thêm sắc thái phản biện nhẹ để câu không một chiều.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I see your point, but I'd argue that [mệnh đề].",
+      "use": "Phản biện lịch sự: thừa nhận ý người kia rồi nêu quan điểm khác.",
+      "register": "neutral",
+      "examples": [
+        "I see your point, but I'd argue that crash diets do more harm than good in the long run."
+      ],
+      "explanationVi": "Công thức phản biện lịch sự: thừa nhận trước ('I see your point') rồi mới khác ý ('but I'd argue that'). Nghe nhã nhặn, không gây căng thẳng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "If I were you, I'd [V] in order to [V].",
+      "use": "Đưa lời khuyên tế nhị kèm mục đích.",
+      "register": "neutral",
+      "examples": [
+        "If I were you, I'd cut down on caffeine in order to sleep better at night."
+      ],
+      "explanationVi": "Câu điều kiện loại 2 ('If I were you, I'd…') là cách khuyên rất tự nhiên, đỡ áp đặt. 'in order to' nêu rõ mục đích của lời khuyên.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Have you ever thought about [V-ing]?",
+      "use": "Gợi ý nhẹ nhàng một thay đổi mà không ra lệnh.",
+      "register": "neutral",
+      "examples": [
+        "Have you ever thought about cycling to work instead of driving?"
+      ],
+      "explanationVi": "Đặt gợi ý dưới dạng câu hỏi khiến người nghe thấy được tôn trọng, tự cân nhắc thay vì bị ép. Sau 'thought about' luôn là V-ing.",
+      "altOf": "giving-advice"
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh một thứ mang lại nhiều lợi ích cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does regular exercise improve your fitness, but it also boosts your mood."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ ('does/did') lên trước chủ ngữ. Cấu trúc nâng cao, rất 'ăn điểm' TOEIC nhưng phải đảo đúng."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một quan điểm chân thật, đôi khi hơi trái chiều.", "example": "Honestly, I think most fad diets are a waste of money." },
+    { "term": "personally", "ipa": "/ˈpɜː.sən.əl.i/", "vi": "về phần cá nhân tôi", "when": "Nhấn rằng đây chỉ là góc nhìn riêng, không áp đặt.", "example": "Personally, I find yoga far more relaxing than going to the gym." },
+    { "term": "to be fair", "ipa": "/tə biː feər/", "vi": "công bằng mà nói", "when": "Dẫn vào một ý nhằm cân bằng lại, thừa nhận mặt kia.", "example": "To be fair, not everyone has the time to cook from scratch every day." },
+    { "term": "apparently", "ipa": "/əˈpær.ənt.li/", "vi": "nghe nói là, có vẻ như", "when": "Dẫn một thông tin bạn nghe được nhưng chưa chắc chắn.", "example": "Apparently, sitting for too long is as harmful as smoking." },
+    { "term": "ideally", "ipa": "/aɪˈdiː.ə.li/", "vi": "lý tưởng nhất là", "when": "Nêu điều nên làm trong trường hợp tốt nhất.", "example": "Ideally, you should get seven to eight hours of sleep every night." },
+    { "term": "after all", "ipa": "/ˈɑːf.tər ɔːl/", "vi": "suy cho cùng thì", "when": "Đưa ra lý do/kết luận củng cố cho điều vừa nói.", "example": "You shouldn't skip breakfast — after all, it fuels your whole morning." }
+  ],
+
+  "dialogue": {
+    "context": "Lan và Minh là hai đồng nghiệp đang ăn trưa và trò chuyện về sức khỏe, thói quen ăn uống và lối sống. Họ trao đổi quan điểm, đồng tình và khuyên nhau thay đổi vài thói quen.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "You look really fresh today, Lan. Honestly, I've been feeling completely ____ all week because I keep staying up late and skipping meals.",
+        "ipa": "/juː lʊk ˈrɪə.li freʃ təˈdeɪ læn ˈɒn.ɪst.li aɪv biːn ˈfiː.lɪŋ kəmˈpliːt.li ... ɔːl wiːk bɪˈkɒz aɪ kiːp ˈsteɪ.ɪŋ ʌp leɪt ænd ˈskɪp.ɪŋ miːlz/",
+        "vi": "Hôm nay trông cậu tươi tỉnh thật đấy, Lan. Thành thật mà nói, cả tuần nay tớ thấy hoàn toàn ____ vì cứ thức khuya và bỏ bữa suốt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "exhausted", "explanationVi": "Dùng 'exhausted' (kiệt sức) — tính từ mạnh, hợp với 'completely'. Không dùng 'very exhausted' vì đây đã là mức tột cùng. Xem mục từ vựng 'exhausted'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Oh no, that sounds rough. If you ask me, the biggest problem is your routine: ____ skipping meals saves time, it actually drains your energy and makes you eat more junk food later.",
+        "ipa": "/əʊ nəʊ ðæt saʊndz rʌf ɪf juː ɑːsk miː ðə ˈbɪɡ.ɪst ˈprɒb.ləm ɪz jɔː ruːˈtiːn ... ˈskɪp.ɪŋ miːlz seɪvz taɪm ɪt ˈæk.tʃu.ə.li dreɪnz jɔːr ˈen.ə.dʒi ænd meɪks juː iːt mɔː dʒʌŋk fuːd ˈleɪ.tə/",
+        "vi": "Ôi, nghe vất vả thật. Nếu cậu hỏi tớ, vấn đề lớn nhất là thói quen của cậu: ____ bỏ bữa giúp tiết kiệm thời gian, nó thực ra lại rút cạn năng lượng và khiến cậu ăn nhiều đồ ăn vặt hơn về sau.",
+        "blanks": [
+          { "type": "knowledge", "answer": "although", "explanationVi": "Dùng 'although' (mặc dù) mở mệnh đề nhượng bộ: tuy tiết kiệm thời gian nhưng lại hại sức khỏe. Có thể thay bằng 'even though'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I see your point, but I'd argue that I simply don't have time to cook. My job is incredibly ____, so by the evening I'm too tired to do anything but order takeaway.",
+        "ipa": "/aɪ siː jɔː pɔɪnt bʌt aɪd ˈɑː.ɡjuː ðæt aɪ ˈsɪm.pli dəʊnt hæv taɪm tə kʊk maɪ dʒɒb ɪz ɪnˈkred.ə.bli ... səʊ baɪ ði ˈiːv.nɪŋ aɪm tuː ˈtaɪəd tə duː ˈen.i.θɪŋ bʌt ˈɔː.də ˈteɪk.ə.weɪ/",
+        "vi": "Tớ hiểu ý cậu, nhưng tớ phải nói là tớ đơn giản là không có thời gian nấu nướng. Công việc của tớ cực kỳ ____, nên đến tối thì tớ mệt đến mức chẳng làm gì ngoài gọi đồ ăn ngoài.",
+        "blanks": [
+          { "type": "knowledge", "answer": "stressful", "explanationVi": "Dùng 'stressful' (gây căng thẳng) cho công việc — thứ GÂY ra căng thẳng. Đừng dùng 'stressed' (chỉ cảm giác của người). Xem mục từ vựng 'stressful'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I get that, but to be fair, you don't have to cook elaborate meals. If I were you, I'd prepare simple food in advance ____ to avoid relying on takeaway every night.",
+        "ipa": "/aɪ ɡet ðæt bʌt tə biː feə juː dəʊnt hæv tə kʊk ɪˈlæb.ə.rət miːlz ɪf aɪ wɜː juː aɪd prɪˈpeə ˈsɪm.pəl fuːd ɪn ədˈvɑːns ... tə əˈvɔɪd rɪˈlaɪ.ɪŋ ɒn ˈteɪk.ə.weɪ ˈev.ri naɪt/",
+        "vi": "Tớ hiểu, nhưng công bằng mà nói, cậu đâu cần nấu món cầu kỳ. Nếu là cậu, tớ sẽ chuẩn bị sẵn đồ ăn đơn giản từ trước ____ để tránh phải phụ thuộc vào đồ ăn ngoài mỗi tối.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Cụm 'in order to + V' nêu rõ mục đích (= để mà). Ở đây nối thành 'in order to avoid'. Xem mẫu câu 'If I were you, I'd… in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "That's actually a good idea. By the way, you go to the gym regularly, ____ you? Doesn't it feel like a chore after a long working day?",
+        "ipa": "/ðæts ˈæk.tʃu.ə.li ə ɡʊd aɪˈdɪə baɪ ðə weɪ juː ɡəʊ tə ðə dʒɪm ˈreɡ.jə.lə.li ... juː ˈdʌz.ənt ɪt fiːl laɪk ə tʃɔː ˈɑːf.tər ə lɒŋ ˈwɜː.kɪŋ deɪ/",
+        "vi": "Đúng là ý hay thật. Nhân tiện, cậu đi gym đều đặn ____ nhỉ? Sau một ngày làm việc dài, nó chẳng giống một việc cực hình sao?",
+        "blanks": [
+          { "type": "knowledge", "answer": "don't", "explanationVi": "Câu hỏi đuôi (tag question): mệnh đề chính khẳng định ('you go… regularly') thì đuôi phủ định 'don't you?'. Dùng để xác nhận, mong người nghe đồng ý." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Surprisingly, not at all. Not only does exercise keep me fit, but it also ____ my mood — after a workout I always feel far less stressed. Despite being tired at first, I gradually started to enjoy it.",
+        "ipa": "/səˈpraɪ.zɪŋ.li nɒt ət ɔːl nɒt ˈəʊn.li dʌz ˈek.sə.saɪz kiːp miː fɪt bʌt ɪt ˈɔːl.səʊ ... maɪ muːd ˈɑːf.tər ə ˈwɜːk.aʊt aɪ ˈɔːl.weɪz fiːl fɑː les strest dɪˈspaɪt ˈbiː.ɪŋ ˈtaɪəd ət fɜːst aɪ ˈɡrædʒ.u.ə.li ˈstɑː.tɪd tə ɪnˈdʒɔɪ ɪt/",
+        "vi": "Bất ngờ là không hề. Tập thể dục không những giữ tớ khỏe mạnh, mà còn ____ tâm trạng của tớ nữa — sau buổi tập tớ luôn thấy bớt căng thẳng hẳn. Dù lúc đầu mệt, tớ dần dần bắt đầu thấy thích nó.",
+        "blanks": [
+          { "type": "knowledge", "answer": "boosts", "explanationVi": "Sau 'but it also' cần động từ chia ngôi thứ ba số ít (it): 'boosts' (cải thiện, nâng cao). Lưu ý ở vế đầu đã đảo ngữ 'Not only does exercise keep', nên ở đây giữ dạng thường." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Maybe I should give it a try. Personally, I always thought you had to spend hours at the gym; ____, I now realize even a short daily walk could make a difference.",
+        "ipa": "/ˈmeɪ.bi aɪ ʃʊd ɡɪv ɪt ə traɪ ˈpɜː.sən.əl.i aɪ ˈɔːl.weɪz θɔːt juː hæd tə spend ˈaʊəz ət ðə dʒɪm ... aɪ naʊ ˈrɪə.laɪz ˈiː.vən ə ʃɔːt ˈdeɪ.li wɔːk kʊd meɪk ə ˈdɪf.ər.əns/",
+        "vi": "Có lẽ tớ nên thử xem. Về phần tớ, tớ luôn nghĩ phải dành hàng giờ ở phòng gym, ____ giờ tớ nhận ra ngay cả một buổi đi bộ ngắn mỗi ngày cũng có thể tạo khác biệt.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (tuy nhiên) để nối hai ý trái ngược (trước nghĩ phải tập nhiều >< giờ thấy đi bộ ngắn cũng đủ). Trang trọng hơn 'but'. Lưu ý: khi 'however' nối hai mệnh đề độc lập thì trước nó dùng dấu chấm phẩy và sau nó có dấu phẩy ('…; however, …'), không dùng dấu phẩy trước nó (lỗi nối câu)." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "Exactly! After all, the key is ____. You don't need an extreme diet or a punishing routine — just small, consistent habits, such as drinking more water and walking more, that you can actually keep up.",
+        "ipa": "/ɪɡˈzækt.li ˈɑːf.tər ɔːl ðə kiː ɪz ... juː dəʊnt niːd ən ɪkˈstriːm ˈdaɪ.ət ɔːr ə ˈpʌn.ɪ.ʃɪŋ ruːˈtiːn dʒʌst smɔːl kənˈsɪs.tənt ˈhæb.ɪts sʌtʃ æz ˈdrɪŋ.kɪŋ mɔː ˈwɔː.tər ænd ˈwɔː.kɪŋ mɔː ðæt juː kæn ˈæk.tʃu.ə.li kiːp ʌp/",
+        "vi": "Chính xác! Suy cho cùng, mấu chốt là sự ____. Cậu không cần ăn kiêng cực đoan hay một lịch tập hành xác — chỉ cần những thói quen nhỏ, đều đặn, như uống nhiều nước hơn và đi bộ nhiều hơn, mà cậu thực sự có thể duy trì.",
+        "blanks": [
+          { "type": "personal", "hint": "Một danh từ chỉ điều bạn cho là mấu chốt của lối sống lành mạnh. Ví dụ: 'moderation' (điều độ), 'consistency' (sự kiên trì), 'balance' (cân bằng)." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, hỏi thẳng về cân nặng hay chê người khác 'béo/gầy' bị coi là khiếm nhã. Hãy nói về 'wellbeing', 'feeling healthy' thay vì bình phẩm ngoại hình.",
+    "Câu 'How are you?' thường chỉ là chào hỏi xã giao, không phải hỏi thật về sức khỏe. Trả lời ngắn gọn 'I'm good, thanks' là đủ.",
+    "Văn hóa 'work-life balance' (cân bằng công việc và cuộc sống) rất được đề cao; nói rằng bạn ưu tiên sức khỏe tinh thần được xem là trưởng thành, không phải lười biếng.",
+    "Khi khuyên người khác về sức khỏe, người bản xứ thường rào trước bằng 'If I were you…' hoặc 'Have you thought about…?' để tránh nghe như ra lệnh hay phán xét."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'stressful' (thứ gây căng thẳng) với 'stressed' (người cảm thấy căng thẳng): nói 'My job is stressful' và 'I feel stressed', không lẫn lộn.",
+    "Dùng 'very exhausted'. 'Exhausted' đã là mức tột cùng nên đi với 'absolutely/completely', không phải 'very'.",
+    "Quên giới từ 'on' sau 'cut down': luôn là 'cut down ON sugar', không phải 'cut down sugar'.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES exercise keep…', không phải 'Not only exercise keeps…'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện trò chuyện về sức khỏe và lối sống như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang trò chuyện với tôi về sức khỏe và lối sống (ăn uống, tập luyện, giấc ngủ, căng thẳng). Hãy chủ động nêu quan điểm của bạn và hỏi quan điểm của tôi, từng câu một. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn, có khi đồng tình có khi phản biện nhẹ, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tự nhiên hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'although', 'despite', 'not only… but also', 'in order to' và các cách bày tỏ quan điểm/đưa lời khuyên. Thỉnh thoảng đưa ra một tình huống bất ngờ (ví dụ tôi vừa bị ốm, hoặc muốn bỏ một thói quen xấu) để tôi tập xử lý. Cuối buổi, hãy chấm điểm phần nói của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy phản biện gay gắt hơn quan điểm của tôi để tôi tập bảo vệ ý kiến.' khi bạn đã quen.",
+      "Thêm: 'Hãy nói nhanh và dùng nhiều thành ngữ/idiom về sức khỏe như người bản xứ.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi bày tỏ được quan điểm về lối sống bằng câu dài có mệnh đề phụ, không cần nhìn gợi ý.",
+    "Tôi đưa được lời khuyên tế nhị bằng 'If I were you…' hoặc 'Have you thought about…?'.",
+    "Tôi dùng đúng 'although', 'despite', 'in order to' và đảo ngữ 'not only… but also' khi nói."
+  ]
+}

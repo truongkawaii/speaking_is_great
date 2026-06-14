@@ -1,0 +1,345 @@
+{
+  "id": "phone-calls",
+  "category": "daily-life",
+  "title": "Gọi điện thoại",
+  "titleEn": "Phone Calls",
+  "level": "B1",
+  "functions": ["requesting", "asking-info", "handling-problems"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Bắt máy và tự giới thiệu khi gọi/nghe điện thoại một cách lịch sự",
+    "Hỏi gặp đúng người và xin nối máy hoặc để lại lời nhắn",
+    "Xử lý tình huống nghe không rõ, gọi nhầm số, hoặc người cần gặp đi vắng",
+    "Hẹn lịch gọi lại và chốt thời gian bằng câu dài, tự nhiên"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "caller",
+      "ipa": "/ˈkɔː.lər/",
+      "vi": "người gọi (danh từ)",
+      "register": "neutral",
+      "example": "The caller didn't leave a name or a number.",
+      "exampleVi": "Người gọi không để lại tên hay số điện thoại.",
+      "note": "Danh từ. Người ở đầu dây bên kia chủ động gọi đến. Câu lễ tân hay hỏi: 'May I ask who's calling?'.",
+      "synonyms": [
+        { "term": "the person on the line", "ipa": "/ðə ˈpɜː.sən ɒn ðə laɪn/", "register": "neutral", "nuanceVi": "Cụm mô tả 'người đang ở trên đường dây', dùng khi chưa rõ tên người gọi. Dài và trung tính hơn 'caller'." }
+      ]
+    },
+    {
+      "term": "to hang up",
+      "ipa": "/tə hæŋ ʌp/",
+      "vi": "cúp máy, gác máy (động từ)",
+      "register": "neutral",
+      "example": "Please don't hang up; I'll put you through right away.",
+      "exampleVi": "Xin đừng cúp máy; tôi sẽ nối máy cho anh/chị ngay.",
+      "note": "Cụm động từ. 'hang up ON somebody' nghĩa là cúp máy đột ngột khi đang nói (bất lịch sự). Trái nghĩa: 'pick up' (bắt máy).",
+      "synonyms": [
+        { "term": "to end the call", "ipa": "/tə end ðə kɔːl/", "register": "neutral", "nuanceVi": "Trung tính, lịch sự hơn, không gợi ý gác máy thô bạo. Dùng trong ngữ cảnh trang trọng hoặc công sở." },
+        { "term": "to ring off", "ipa": "/tə rɪŋ ɒf/", "register": "casual", "nuanceVi": "Anh-Anh, đời thường, nghĩa 'gác máy kết thúc cuộc gọi'. Người Mỹ hiếm dùng." }
+      ]
+    },
+    {
+      "term": "to put someone through",
+      "ipa": "/tə pʊt ˈsʌm.wʌn θruː/",
+      "vi": "nối máy cho ai (động từ)",
+      "register": "neutral",
+      "example": "Hold on, please. I'll put you through to the manager.",
+      "exampleVi": "Vui lòng giữ máy. Tôi sẽ nối máy cho anh/chị tới quản lý.",
+      "note": "Cụm động từ tổng đài/lễ tân dùng. Đi với 'to somebody'. Đồng nghĩa: 'connect you to'.",
+      "synonyms": [
+        { "term": "to transfer", "ipa": "/tə trænsˈfɜːr/", "register": "formal", "nuanceVi": "Trang trọng, công sở: 'transfer your call to another department'. Nhấn việc chuyển cuộc gọi sang nơi khác." },
+        { "term": "to connect", "ipa": "/tə kəˈnekt/", "register": "neutral", "nuanceVi": "Trung tính, dễ dùng: 'I'll connect you now.' Gần nghĩa 'put through' nhưng phổ thông hơn." }
+      ]
+    },
+    {
+      "term": "message",
+      "ipa": "/ˈmes.ɪdʒ/",
+      "vi": "lời nhắn (danh từ)",
+      "register": "neutral",
+      "example": "Could I leave a message for her, please?",
+      "exampleVi": "Tôi để lại lời nhắn cho cô ấy được không?",
+      "note": "Danh từ. 'take a message' = ghi lại lời nhắn (người nghe); 'leave a message' = để lại lời nhắn (người gọi).",
+      "synonyms": [
+        { "term": "note", "ipa": "/nəʊt/", "register": "neutral", "nuanceVi": "Nghĩa 'mẩu ghi chú ngắn'. Khi nói về lời nhắn qua điện thoại thì 'message' tự nhiên hơn 'note'." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "rảnh, có mặt để gặp/nói chuyện (tính từ)",
+      "register": "neutral",
+      "example": "I'm afraid she isn't available at the moment.",
+      "exampleVi": "Tôi e rằng hiện giờ cô ấy không có mặt.",
+      "note": "Tính từ. Trong điện thoại, 'not available' = đang bận/đi vắng, không tiện nghe máy. Phát âm 4 âm tiết, nhấn 'vei'.",
+      "synonyms": [
+        { "term": "free", "ipa": "/friː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rảnh, không bận'. Nhẹ và thân mật hơn 'available'." },
+        { "term": "reachable", "ipa": "/ˈriː.tʃə.bəl/", "register": "neutral", "nuanceVi": "Nhấn vào việc 'có thể liên lạc được'. Vd 'He's not reachable by phone today.'" }
+      ]
+    },
+    {
+      "term": "urgent",
+      "ipa": "/ˈɜː.dʒənt/",
+      "vi": "khẩn cấp, gấp (tính từ)",
+      "register": "neutral",
+      "example": "It's quite urgent, so please ask him to call me back as soon as possible.",
+      "exampleVi": "Việc khá gấp, nên nhờ anh ấy gọi lại cho tôi sớm nhất có thể.",
+      "note": "Tính từ. Dùng để báo mức độ gấp của cuộc gọi. Danh từ liên quan: 'urgency'; trạng từ: 'urgently'.",
+      "synonyms": [
+        { "term": "pressing", "ipa": "/ˈpres.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'cần xử lý ngay, không thể trì hoãn'. Vd 'a pressing matter'." },
+        { "term": "time-sensitive", "ipa": "/ˈtaɪm ˌsen.sə.tɪv/", "register": "formal", "nuanceVi": "Công sở, nhấn 'phụ thuộc thời gian, trễ là hỏng'. Lịch sự và chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "to call back",
+      "ipa": "/tə kɔːl bæk/",
+      "vi": "gọi lại (động từ)",
+      "register": "neutral",
+      "example": "Could you ask him to call me back this afternoon?",
+      "exampleVi": "Anh/chị nhờ anh ấy gọi lại cho tôi chiều nay được không?",
+      "note": "Cụm động từ. Có thể tách: 'call you back', 'call me back'. Danh từ: 'a callback'.",
+      "synonyms": [
+        { "term": "to return one's call", "ipa": "/tə rɪˈtɜːn wʌnz kɔːl/", "register": "formal", "nuanceVi": "Trang trọng, lịch sự: 'I'll return your call shortly.' Hay dùng trong công việc." },
+        { "term": "to get back to someone", "ipa": "/tə ɡet bæk tə ˈsʌm.wʌn/", "register": "neutral", "nuanceVi": "Linh hoạt: liên lạc lại bằng điện thoại HOẶC email/tin nhắn, không chỉ riêng gọi điện." }
+      ]
+    },
+    {
+      "term": "to hold on",
+      "ipa": "/tə həʊld ɒn/",
+      "vi": "giữ máy, chờ một chút (động từ)",
+      "register": "neutral",
+      "example": "Could you hold on for a moment while I check?",
+      "exampleVi": "Anh/chị giữ máy một lát trong khi tôi kiểm tra nhé?",
+      "note": "Cụm động từ. 'hold on' = 'hold the line' = chờ máy. Trong câu mệnh lệnh lịch sự thường thêm 'please'.",
+      "synonyms": [
+        { "term": "to hold the line", "ipa": "/tə həʊld ðə laɪn/", "register": "formal", "nuanceVi": "Trang trọng, dùng nơi công sở/tổng đài: 'Please hold the line.' Cùng nghĩa nhưng nghe lịch sự hơn." },
+        { "term": "to hang on", "ipa": "/tə hæŋ ɒn/", "register": "casual", "nuanceVi": "Đời thường, thân mật: 'Hang on a sec!' Hợp khi nói với bạn bè, không hợp tình huống trang trọng." }
+      ]
+    },
+    {
+      "term": "clearly",
+      "ipa": "/ˈklɪə.li/",
+      "vi": "một cách rõ ràng (trạng từ)",
+      "register": "neutral",
+      "example": "Sorry, I can't hear you clearly; the line is breaking up.",
+      "exampleVi": "Xin lỗi, tôi nghe anh/chị không rõ; đường truyền bị ngắt quãng.",
+      "note": "Trạng từ. Rất hay dùng khi báo chất lượng cuộc gọi: 'speak clearly', 'hear clearly'.",
+      "synonyms": [
+        { "term": "properly", "ipa": "/ˈprɒp.ə.li/", "register": "neutral", "nuanceVi": "Nhấn 'một cách đúng đắn/đầy đủ'. 'I can't hear you properly' = nghe không trọn vẹn, hơi khác với 'không rõ tiếng'." }
+      ]
+    },
+    {
+      "term": "to make a phone call",
+      "ipa": "/tə meɪk ə fəʊn kɔːl/",
+      "vi": "gọi một cuộc điện thoại (động từ)",
+      "register": "neutral",
+      "example": "I need to make a quick phone call before the meeting starts.",
+      "exampleVi": "Tôi cần gọi nhanh một cuộc điện thoại trước khi cuộc họp bắt đầu.",
+      "note": "Cụm cố định: 'make a call', KHÔNG nói 'do a call'. Đây là bẫy phổ biến với người Việt.",
+      "synonyms": [
+        { "term": "to give someone a ring", "ipa": "/tə ɡɪv ˈsʌm.wʌn ə rɪŋ/", "register": "casual", "nuanceVi": "Anh-Anh, đời thường, thân thiện: 'I'll give you a ring tonight.' = gọi cho bạn." },
+        { "term": "to reach someone", "ipa": "/tə riːtʃ ˈsʌm.wʌn/", "register": "neutral", "nuanceVi": "Nhấn việc 'liên lạc được tới ai đó'. Vd 'You can reach me at this number.'" }
+      ]
+    },
+    {
+      "term": "voicemail",
+      "ipa": "/ˈvɔɪs.meɪl/",
+      "vi": "hộp thư thoại (danh từ)",
+      "register": "neutral",
+      "example": "He didn't pick up, so I left a voicemail.",
+      "exampleVi": "Anh ấy không bắt máy nên tôi đã để lại tin nhắn thoại.",
+      "note": "Danh từ. Là tin nhắn ghi âm khi người ta không bắt máy. 'leave a voicemail' = để lại tin nhắn thoại."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hello, this is [tên] calling. Could I speak to [người], please?",
+      "use": "Tự giới thiệu và xin gặp người cần gặp khi bạn là người gọi.",
+      "register": "neutral",
+      "examples": [
+        "Hello, this is Nam calling. Could I speak to Mr. Brown, please?",
+        "Hi, this is Lan from ABC Company. Could I speak to the sales department, please?"
+      ],
+      "explanationVi": "Quy ước điện thoại: nói 'this is...', KHÔNG nói 'I am...' khi tự giới thiệu trên điện thoại. 'Could I speak to...?' là cách xin gặp lịch sự, an toàn.",
+      "altOf": "asking-for-person"
+    },
+    {
+      "pattern": "I'm calling to [động từ nguyên thể] ... / I'm calling about [danh từ].",
+      "use": "Nêu lý do gọi ngay sau khi chào, để cuộc gọi đi thẳng vào việc.",
+      "register": "neutral",
+      "examples": [
+        "I'm calling to confirm my appointment for tomorrow.",
+        "I'm calling about the order I placed last week."
+      ],
+      "explanationVi": "Nêu mục đích sớm giúp người nghe nắm ngay vấn đề. 'calling to + V' (mục đích) khác 'calling about + danh từ' (chủ đề)."
+    },
+    {
+      "pattern": "May I ask who's calling, please?",
+      "use": "Hỏi xem ai đang gọi (vai người nghe/lễ tân).",
+      "register": "formal",
+      "examples": [
+        "May I ask who's calling, please?",
+        "Could I take your name, please?"
+      ],
+      "explanationVi": "'May I...?' rất lịch sự, hợp khi tiếp khách qua điện thoại. 'who's calling' = ai đang gọi. Đây là câu chuẩn của lễ tân/tổng đài.",
+      "altOf": "asking-for-person"
+    },
+    {
+      "pattern": "I'm afraid [người] isn't available at the moment. Would you like to leave a message?",
+      "use": "Báo người cần gặp đi vắng và mời để lại lời nhắn.",
+      "register": "formal",
+      "examples": [
+        "I'm afraid Mr. Brown isn't available at the moment. Would you like to leave a message?",
+        "I'm afraid she's in a meeting right now. Can I take a message?"
+      ],
+      "explanationVi": "'I'm afraid...' làm tin xấu nghe nhẹ nhàng, lịch sự (không phải sợ hãi). 'Would you like to...?' là lời mời lịch sự, nhã nhặn hơn 'Do you want to...?'.",
+      "altOf": "handling-absence"
+    },
+    {
+      "pattern": "Could you ask him/her to call me back on [số] ?",
+      "use": "Nhờ chuyển lời để người cần gặp gọi lại cho bạn.",
+      "register": "neutral",
+      "examples": [
+        "Could you ask him to call me back on 0901 234 567?",
+        "Could you ask her to return my call when she's free?"
+      ],
+      "explanationVi": "'Could you ask somebody to + V' = nhờ ai đó làm việc gì. Lưu ý giới từ: gọi lại 'on' + số điện thoại. 'call me back' và 'return my call' đồng nghĩa.",
+      "altOf": "handling-absence"
+    },
+    {
+      "pattern": "Sorry, the line is breaking up. Could you say that again, please?",
+      "use": "Báo nghe không rõ và đề nghị người kia nhắc lại.",
+      "register": "neutral",
+      "examples": [
+        "Sorry, the line is breaking up. Could you say that again, please?",
+        "I can't hear you clearly. Could you speak up a little?"
+      ],
+      "explanationVi": "'the line is breaking up' = đường truyền chập chờn, đứt quãng. 'Could you say that again?' lịch sự hơn 'What?'. 'speak up' = nói to hơn.",
+      "altOf": "clarifying"
+    },
+    {
+      "pattern": "Would it be possible to speak to [người] tomorrow instead?",
+      "use": "Đề nghị đổi/hẹn lại thời điểm nói chuyện một cách tế nhị.",
+      "register": "formal",
+      "examples": [
+        "Would it be possible to speak to the manager tomorrow instead?",
+        "Would it be possible for him to call me back after lunch?"
+      ],
+      "explanationVi": "Cách đề nghị lịch sự bậc cao khi xin một đặc ân về thời gian. 'instead' = thay vào đó. Nghe rất nhã nhặn, dễ được đồng ý."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ)", "when": "Khi cần sửa lại thông tin hoặc nói điều hơi trái ý mà không cộc lốc.", "example": "Actually, I think you've dialed the wrong number." },
+    { "term": "just", "ipa": "/dʒʌst/", "vi": "chỉ là... (làm câu nói mềm hơn)", "when": "Khi muốn yêu cầu nghe nhẹ nhàng, không quá đòi hỏi.", "example": "I'm just calling to check if my parcel has arrived." },
+    { "term": "hold on a second", "ipa": "/həʊld ɒn ə ˈsek.ənd/", "vi": "khoan đã / chờ chút", "when": "Khi cần dừng lại để kiểm tra hoặc tìm thông tin giữa cuộc gọi.", "example": "Hold on a second, let me grab a pen." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi/nói thêm một ý ngoài lề, chuyển nhẹ chủ đề.", "example": "By the way, do you know when the office reopens?" },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Khi muốn nhấn mức độ gấp của việc gọi lại.", "example": "Please ask her to call me back as soon as possible." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn (Nam) gọi đến văn phòng của một công ty để gặp ông Brown, nhưng ông ấy đang bận. Lễ tân tiếp nhận cuộc gọi và giúp bạn để lại lời nhắn.",
+    "lines": [
+      {
+        "speaker": "Lễ tân",
+        "text": "Good morning, ABC Company. This is Sarah speaking. How may I help you?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ eɪ biː siː ˈkʌm.pə.ni ðɪs ɪz ˈseə.rə ˈspiː.kɪŋ haʊ meɪ aɪ help juː/",
+        "vi": "Chào buổi sáng, công ty ABC xin nghe. Tôi là Sarah. Tôi có thể giúp gì cho anh/chị ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning. This is ____ calling. I'm calling ____ speak to Mr. Brown, although I'm not sure whether he's in the office today.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ðɪs ɪz ... ˈkɔː.lɪŋ aɪm ˈkɔː.lɪŋ tə spiːk tə ˈmɪs.tər braʊn ɔːlˈðəʊ aɪm nɒt ʃʊə ˈweð.ər hiːz ɪn ði ˈɒf.ɪs təˈdeɪ/",
+        "vi": "Chào buổi sáng. Tôi là ____ đang gọi. Tôi gọi ____ gặp ông Brown, mặc dù tôi không chắc hôm nay ông ấy có ở văn phòng không.",
+        "blanks": [
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Nam' hoặc 'Nam from XYZ Company'." },
+          { "type": "knowledge", "answer": "to", "explanationVi": "Dùng 'to' + động từ nguyên thể để nêu mục đích cuộc gọi: 'I'm calling TO speak to...'. Xem mẫu câu 'I'm calling to + V'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "May I ask ____ calling, please? And could you tell me what it's regarding, so that I can pass on the right information?",
+        "ipa": "/meɪ aɪ ɑːsk huːz ˈkɔː.lɪŋ pliːz ænd kʊd juː tel miː wɒt ɪts rɪˈɡɑː.dɪŋ səʊ ðæt aɪ kæn pɑːs ɒn ðə raɪt ˌɪn.fəˈmeɪ.ʃən/",
+        "vi": "Cho tôi hỏi ai đang gọi ạ? Và anh/chị cho tôi biết việc liên quan đến chuyện gì, để tôi chuyển đúng thông tin được không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "who's", "explanationVi": "Câu chuẩn của lễ tân: 'May I ask who's calling?' ('who's' = who is). Đây là cách hỏi tên người gọi một cách lịch sự. Xem mẫu câu cùng tên." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "It's about the project report. Honestly, it's quite urgent, so I'd really appreciate it if I could speak to him in order to confirm the deadline.",
+        "ipa": "/ɪts əˈbaʊt ðə ˈprɒdʒ.ekt rɪˈpɔːt ˈɒn.ɪst.li ɪts kwaɪt ˈɜː.dʒənt səʊ aɪd ˈrɪə.li əˈpriː.ʃi.eɪt ɪt ɪf aɪ kʊd spiːk tə hɪm ɪn ˈɔː.dər tə kənˈfɜːm ðə ˈded.laɪn/",
+        "vi": "Là về bản báo cáo dự án. Thành thật mà nói, việc khá gấp, nên tôi sẽ rất biết ơn nếu được nói chuyện với ông ấy để xác nhận hạn chót."
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "I'm afraid Mr. Brown isn't ____ at the moment, as he's in a meeting which will probably last another hour. Would you like to leave a message?",
+        "ipa": "/aɪm əˈfreɪd ˈmɪs.tər braʊn ˈɪz.ənt ... ət ðə ˈməʊ.mənt æz hiːz ɪn ə ˈmiː.tɪŋ wɪtʃ wɪl ˈprɒb.ə.bli lɑːst əˈnʌð.ər ˈaʊ.ər wʊd juː laɪk tə liːv ə ˈmes.ɪdʒ/",
+        "vi": "Tôi e rằng hiện giờ ông Brown không ____, vì ông ấy đang họp và cuộc họp có lẽ kéo dài thêm một tiếng nữa. Anh/chị có muốn để lại lời nhắn không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "available", "explanationVi": "Dùng tính từ 'available' (= rảnh, tiện nghe máy). 'isn't available at the moment' là cách báo người ta đang bận một cách lịch sự. Xem từ vựng 'available'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, please. Could you ask him to call me ____ on 0901 234 567 as soon as he's free? Not only is the deadline approaching, but the client is also waiting for our reply.",
+        "ipa": "/jes pliːz kʊd juː ɑːsk hɪm tə kɔːl miː ... ɒn ˌəʊ naɪn ˈəʊ wʌn tuː θriː fɔː faɪv sɪks ˈsev.ən əz suːn əz hiːz friː nɒt ˈəʊn.li ɪz ðə ˈded.laɪn əˈprəʊ.tʃɪŋ bʌt ðə ˈklaɪ.ənt ɪz ˈɔːl.səʊ ˈweɪ.tɪŋ fɔː ˈaʊə rɪˈplaɪ/",
+        "vi": "Vâng, làm ơn. Anh/chị nhờ ông ấy gọi ____ cho tôi qua số 0901 234 567 ngay khi rảnh nhé? Không chỉ hạn chót đang đến gần, mà khách hàng cũng đang chờ phản hồi của chúng tôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "back", "explanationVi": "Cụm động từ 'call somebody back' = gọi lại cho ai. Tách động từ: 'call me back'. Xem từ vựng 'to call back'." }
+        ]
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Of course. Just to make sure I've got this right — sorry, the line was breaking up — could you ____ your number again, a little more slowly this time?",
+        "ipa": "/ɒv kɔːs dʒʌst tə meɪk ʃʊə aɪv ɡɒt ðɪs raɪt ˈsɒr.i ðə laɪn wɒz ˈbreɪ.kɪŋ ʌp kʊd juː ... jɔː ˈnʌm.bər əˈɡen ə ˈlɪt.əl mɔː ˈsləʊ.li ðɪs taɪm/",
+        "vi": "Tất nhiên rồi. Để chắc là tôi ghi đúng — xin lỗi, đường truyền vừa bị ngắt quãng — anh/chị đọc lại số một lần nữa, chậm hơn một chút được không ạ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "repeat", "explanationVi": "Dùng động từ 'repeat' (= nhắc lại): 'Could you repeat your number?'. Đây là cách đề nghị nhắc lại lịch sự khi nghe không rõ. Xem mẫu câu phần làm rõ thông tin." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Sure, no problem. It's zero-nine-zero-one, two-three-four, five-six-seven. Despite the bad connection, I hope you got it this time. Thank you so much for your help.",
+        "ipa": "/ʃʊə nəʊ ˈprɒb.ləm ɪts ˈzɪə.rəʊ naɪn ˈzɪə.rəʊ wʌn tuː θriː fɔː faɪv sɪks ˈsev.ən dɪˈspaɪt ðə bæd kəˈnek.ʃən aɪ həʊp juː ɡɒt ɪt ðɪs taɪm θæŋk juː səʊ mʌtʃ fɔː jɔː help/",
+        "vi": "Vâng, không vấn đề gì. Là không-chín-không-một, hai-ba-bốn, năm-sáu-bảy. Dù kết nối không tốt, tôi hy vọng lần này anh/chị đã nghe được. Cảm ơn anh/chị rất nhiều vì đã giúp đỡ."
+      },
+      {
+        "speaker": "Lễ tân",
+        "text": "Got it this time, thank you. I'll pass your message on to Mr. Brown straight away, and I'll make sure he calls you back this afternoon. Have a great day!",
+        "ipa": "/ɡɒt ɪt ðɪs taɪm θæŋk juː aɪl pɑːs jɔː ˈmes.ɪdʒ ɒn tə ˈmɪs.tər braʊn streɪt əˈweɪ ænd aɪl meɪk ʃʊə hiː kɔːlz juː bæk ðɪs ˌɑːf.təˈnuːn hæv ə ɡreɪt deɪ/",
+        "vi": "Lần này tôi nghe rõ rồi, cảm ơn anh/chị. Tôi sẽ chuyển lời nhắn của anh/chị cho ông Brown ngay, và tôi sẽ đảm bảo ông ấy gọi lại cho anh/chị chiều nay. Chúc anh/chị một ngày tốt lành!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trên điện thoại, người bản xứ nói 'This is Nam' hoặc 'Nam speaking' để tự giới thiệu, KHÔNG nói 'I am Nam'. Khi hỏi đầu dây bên kia thì dùng 'Is that...?' (Anh-Anh) hoặc 'Is this...?' (Anh-Mỹ).",
+    "Lễ tân/tổng đài thường nói tên công ty + tên mình khi bắt máy: 'ABC Company, this is Sarah speaking.' Đây là chuẩn lịch sự ở môi trường công sở phương Tây.",
+    "Khi để lại lời nhắn hoặc voicemail, nên nói chậm và đọc rõ số điện thoại theo từng chữ số, lặp lại số một lần để người nghe ghi kịp.",
+    "Kết thúc cuộc gọi lịch sự thường có lời cảm ơn và một câu chúc, ví dụ 'Thank you for your help. Have a great day!' — đừng cúp máy đột ngột."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I am Nam' khi tự giới thiệu trên điện thoại. Đúng là 'This is Nam' hoặc 'Nam speaking'.",
+    "Dùng 'do a call' — sai. Cụm đúng là 'make a call' / 'make a phone call'.",
+    "Trả lời 'What?' khi nghe không rõ, nghe cộc lốc. Hãy nói 'Sorry, could you say that again?' hoặc 'Could you repeat that, please?'.",
+    "Quên giới từ khi nhờ gọi lại: nói số điện thoại phải dùng 'call me back ON this number', không phải 'in/at'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi điện thoại như thật.",
+    "prompt": "Hãy đóng vai một nhân viên lễ tân/tổng đài nói tiếng Anh. Tôi sẽ gọi đến văn phòng để gặp một người. Hãy bắt đầu bằng cách bắt máy và chào theo kiểu lễ tân (tên công ty + tên bạn). Sau mỗi câu của tôi, hãy: (1) phản hồi tự nhiên như một lễ tân thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (người tôi cần gặp đi vắng, đường truyền bị ngắt quãng, tôi gọi nhầm số) để tôi tập xử lý. Khuyến khích tôi dùng câu dài với 'although', 'in order to', 'not only... but also'. Cuối buổi, hãy chấm điểm và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy nói nhanh hơn và làm đường truyền chập chờn nhiều hơn để tôi luyện hỏi lại.' khi bạn đã quen.",
+      "Thêm: 'Hãy đóng vai tôi gọi để khiếu nại một dịch vụ và bạn là nhân viên chăm sóc khách hàng.' để mở rộng tình huống."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi tự giới thiệu được trên điện thoại bằng 'This is...' và nêu được lý do gọi.",
+    "Tôi để lại được lời nhắn và nhờ gọi lại bằng câu dài, không nhìn gợi ý.",
+    "Tôi xử lý được khi nghe không rõ bằng 'Could you say that again / repeat that, please?'."
+  ]
+}

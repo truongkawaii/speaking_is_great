@@ -1,0 +1,338 @@
+{
+  "id": "self-introduction-professional",
+  "category": "work",
+  "title": "Giới thiệu bản thân chuyên nghiệp",
+  "titleEn": "Professional Self-Introduction",
+  "level": "B1",
+  "functions": ["greetings", "describing", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Giới thiệu tên, vị trí và công ty một cách rõ ràng, chuyên nghiệp",
+    "Mô tả ngắn gọn công việc và trách nhiệm chính bằng câu vừa phải có mệnh đề phụ",
+    "Nói về kinh nghiệm và lĩnh vực chuyên môn của mình bằng từ vựng phù hợp",
+    "Chào hỏi xã giao và phản hồi tự nhiên khi gặp đồng nghiệp hoặc đối tác mới"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "background",
+      "ipa": "/ˈbæk.ɡraʊnd/",
+      "vi": "nền tảng học vấn / kinh nghiệm (danh từ)",
+      "register": "neutral",
+      "example": "I have a background in finance and accounting.",
+      "exampleVi": "Tôi có nền tảng về tài chính và kế toán.",
+      "note": "Danh từ. Khi giới thiệu bản thân, 'background' chỉ tổng thể học vấn + kinh nghiệm trước đây của bạn. Đi với giới từ 'in'.",
+      "synonyms": [
+        { "term": "experience", "ipa": "/ɪkˈspɪə.ri.əns/", "register": "neutral", "nuanceVi": "Nhấn vào trải nghiệm làm việc thực tế đã tích lũy, không bao gồm bằng cấp. Là danh từ không đếm được khi nói chung." },
+        { "term": "expertise", "ipa": "/ˌek.spɜːˈtiːz/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'chuyên môn sâu, giỏi một lĩnh vực cụ thể'. Nghe có trọng lượng khi muốn thể hiện năng lực." }
+      ]
+    },
+    {
+      "term": "colleague",
+      "ipa": "/ˈkɒl.iːɡ/",
+      "vi": "đồng nghiệp (danh từ)",
+      "register": "neutral",
+      "example": "I work closely with my colleagues in the design team.",
+      "exampleVi": "Tôi làm việc sát sao với các đồng nghiệp ở nhóm thiết kế.",
+      "note": "Danh từ. Người cùng làm trong một công ty/tổ chức. Phát âm bẫy: 'g' câm, đọc là /ˈkɒl.iːɡ/, không đọc 'cô-li-gơ'.",
+      "synonyms": [
+        { "term": "coworker", "ipa": "/ˈkəʊ.wɜː.kər/", "register": "casual", "nuanceVi": "Đời thường hơn, phổ biến ở Mỹ. Nghĩa gần như y hệt 'colleague' nhưng nghe bớt trang trọng." },
+        { "term": "teammate", "ipa": "/ˈtiːm.meɪt/", "register": "casual", "nuanceVi": "Nhấn 'cùng một nhóm/đội nhỏ', thân thiết hơn. Không dùng cho người ở phòng ban khác." }
+      ]
+    },
+    {
+      "term": "to be in charge of",
+      "ipa": "/tə biː ɪn tʃɑːdʒ ɒv/",
+      "vi": "phụ trách, quản lý (cụm động từ)",
+      "register": "neutral",
+      "example": "I'm in charge of the customer support department.",
+      "exampleVi": "Tôi phụ trách bộ phận chăm sóc khách hàng.",
+      "note": "Cụm động từ, luôn đi với 'of' + danh từ/V-ing. Dùng để mô tả phần việc/nhóm mà bạn đứng đầu.",
+      "synonyms": [
+        { "term": "to handle", "ipa": "/tə ˈhæn.dəl/", "register": "neutral", "nuanceVi": "Nhấn 'xử lý, đảm nhận' công việc cụ thể, không nhất thiết là người đứng đầu. Vd 'I handle customer complaints.'" },
+        { "term": "to oversee", "ipa": "/tə ˌəʊ.vəˈsiː/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'giám sát từ trên xuống' cả một quá trình/nhóm. Nghe có vai trò quản lý cấp cao hơn." }
+      ]
+    },
+    {
+      "term": "role",
+      "ipa": "/rəʊl/",
+      "vi": "vai trò / vị trí công việc (danh từ)",
+      "register": "neutral",
+      "example": "In my current role, I focus on improving the user experience.",
+      "exampleVi": "Ở vị trí hiện tại, tôi tập trung cải thiện trải nghiệm người dùng.",
+      "note": "Danh từ. 'My current role' = công việc hiện tại của tôi. Tự nhiên hơn là cứ lặp lại 'job'.",
+      "synonyms": [
+        { "term": "position", "ipa": "/pəˈzɪʃ.ən/", "register": "neutral", "nuanceVi": "Nhấn vào 'vị trí chính thức' trong sơ đồ tổ chức. Trang trọng hơn 'role' một chút, hay dùng trong tuyển dụng." }
+      ]
+    },
+    {
+      "term": "to specialize in",
+      "ipa": "/tə ˈspeʃ.ə.laɪz ɪn/",
+      "vi": "chuyên về (động từ)",
+      "register": "neutral",
+      "example": "Our team specializes in mobile app development.",
+      "exampleVi": "Nhóm chúng tôi chuyên về phát triển ứng dụng di động.",
+      "note": "Động từ, luôn đi với 'in' + danh từ/V-ing. Dùng để nói rõ lĩnh vực hẹp mà bạn giỏi.",
+      "synonyms": [
+        { "term": "to focus on", "ipa": "/tə ˈfəʊ.kəs ɒn/", "register": "neutral", "nuanceVi": "Nhẹ hơn, nhấn 'dành phần lớn thời gian/sự chú ý vào' một việc, không nhất thiết là chuyên gia." }
+      ]
+    },
+    {
+      "term": "responsible",
+      "ipa": "/rɪˈspɒn.sə.bəl/",
+      "vi": "có trách nhiệm (tính từ)",
+      "register": "neutral",
+      "example": "I'm responsible for training new staff.",
+      "exampleVi": "Tôi chịu trách nhiệm đào tạo nhân viên mới.",
+      "note": "Tính từ, đi với giới từ 'for' + danh từ/V-ing. Một trong những từ cốt lõi để mô tả công việc.",
+      "synonyms": [
+        { "term": "reliable", "ipa": "/rɪˈlaɪ.ə.bəl/", "register": "neutral", "nuanceVi": "KHÁC nghĩa: 'đáng tin cậy, làm gì cũng yên tâm'. Đừng nhầm với 'responsible' (chịu trách nhiệm). Cả hai đều là phẩm chất tốt nhưng nghĩa khác nhau." }
+      ]
+    },
+    {
+      "term": "passionate",
+      "ipa": "/ˈpæʃ.ən.ət/",
+      "vi": "đam mê, nhiệt huyết (tính từ)",
+      "register": "neutral",
+      "example": "I'm really passionate about learning new technologies.",
+      "exampleVi": "Tôi thực sự đam mê học công nghệ mới.",
+      "note": "Tính từ, đi với 'about'. Dùng để thể hiện thái độ tích cực, tạo ấn tượng tốt khi giới thiệu bản thân.",
+      "synonyms": [
+        { "term": "enthusiastic", "ipa": "/ɪnˌθjuː.ziˈæs.tɪk/", "register": "neutral", "nuanceVi": "Nhấn 'hào hứng, đầy năng lượng' với việc gì đó. Gần nghĩa, nhưng thiên về sự sôi nổi nhất thời hơn là đam mê sâu sắc lâu dài." },
+        { "term": "keen", "ipa": "/kiːn/", "register": "neutral", "nuanceVi": "Anh-Anh hay dùng, đi với 'on' hoặc 'to'. Nghĩa 'rất muốn, hăng hái'. Vd 'I'm keen to take on new challenges.'" }
+      ]
+    },
+    {
+      "term": "currently",
+      "ipa": "/ˈkʌr.ənt.li/",
+      "vi": "hiện tại, hiện giờ (trạng từ)",
+      "register": "neutral",
+      "example": "I'm currently working as a project coordinator.",
+      "exampleVi": "Hiện tại tôi đang làm điều phối viên dự án.",
+      "note": "Trạng từ. Đi với thì hiện tại tiếp diễn để nói công việc đang làm. Tự nhiên hơn nói 'now' khi giới thiệu trang trọng.",
+      "synonyms": [
+        { "term": "at the moment", "ipa": "/ət ðə ˈməʊ.mənt/", "register": "neutral", "nuanceVi": "Cụm trạng ngữ trung tính, dễ dùng, thường đặt cuối câu. Vd 'I'm working from home at the moment.'" },
+        { "term": "presently", "ipa": "/ˈprez.ənt.li/", "register": "formal", "nuanceVi": "Trang trọng, hơi văn vẻ. Nghĩa 'hiện nay'. Dùng trong văn viết hoặc bối cảnh chính thức." }
+      ]
+    },
+    {
+      "term": "to look forward to",
+      "ipa": "/tə lʊk ˈfɔː.wəd tuː/",
+      "vi": "mong chờ, trông đợi (cụm động từ)",
+      "register": "neutral",
+      "example": "I look forward to working with all of you.",
+      "exampleVi": "Tôi mong được làm việc với tất cả mọi người.",
+      "note": "Cụm động từ. Sau 'to' là DANH TỪ hoặc V-ing (không phải động từ nguyên thể). Câu kết kinh điển khi giới thiệu bản thân.",
+      "synonyms": [
+        { "term": "to be excited about", "ipa": "/tə biː ɪkˈsaɪ.tɪd əˈbaʊt/", "register": "casual", "nuanceVi": "Đời thường hơn, bộc lộ cảm xúc trực tiếp 'háo hức'. Hợp môi trường thân thiện, trẻ trung." }
+      ]
+    },
+    {
+      "term": "approachable",
+      "ipa": "/əˈprəʊ.tʃə.bəl/",
+      "vi": "dễ gần, dễ tiếp xúc (tính từ)",
+      "register": "neutral",
+      "example": "My new manager is very approachable and friendly.",
+      "exampleVi": "Sếp mới của tôi rất dễ gần và thân thiện.",
+      "note": "Tính từ. Phẩm chất tốt khi mô tả tính cách trong công việc: người mà ai cũng thấy thoải mái khi đến hỏi/trò chuyện.",
+      "synonyms": [
+        { "term": "friendly", "ipa": "/ˈfrend.li/", "register": "neutral", "nuanceVi": "Phổ biến, đơn giản: 'thân thiện'. 'Approachable' nhấn thêm ý 'dễ bắt chuyện, không gây e ngại'." }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách trôi chảy, suôn sẻ (trạng từ)",
+      "register": "neutral",
+      "example": "The new system helps the team work more smoothly.",
+      "exampleVi": "Hệ thống mới giúp cả nhóm làm việc trôi chảy hơn.",
+      "note": "Trạng từ. Mô tả việc gì diễn ra êm xuôi, không trục trặc. Phát âm có âm /ð/ (như trong 'this').",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.ləs.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, nhấn 'liền mạch, không có khe hở/gián đoạn'. Hay dùng cho công nghệ, quy trình." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Hi, I'm [tên], and I work as a [vị trí] at [công ty].",
+      "use": "Câu mở đầu chuẩn để giới thiệu tên, vị trí và nơi làm việc.",
+      "register": "neutral",
+      "examples": [
+        "Hi, I'm Lan, and I work as a marketing executive at VinGroup.",
+        "Hi, I'm Minh, and I work as a software engineer at FPT."
+      ],
+      "explanationVi": "Mẫu xương sống khi tự giới thiệu trong công việc. Chú ý dùng 'a/an' trước tên nghề ('a software engineer'). 'at' đi với tên công ty.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "Let me introduce myself. My name is [tên] and I'm the [vị trí].",
+      "use": "Cách giới thiệu trang trọng hơn, hợp cuộc họp hoặc buổi gặp chính thức.",
+      "register": "formal",
+      "examples": [
+        "Let me introduce myself. My name is Hoa and I'm the project manager.",
+        "Let me introduce myself. My name is Tuan and I'm the head of sales."
+      ],
+      "explanationVi": "'Let me introduce myself' là cách mở lời lịch sự, trang trọng. Dùng khi gặp đối tác, khách hàng hoặc trong cuộc họp lớn. Trang trọng hơn 'Hi, I'm...'.",
+      "altOf": "introducing-self"
+    },
+    {
+      "pattern": "I have [số] years of experience in [lĩnh vực].",
+      "use": "Nói về số năm kinh nghiệm trong một lĩnh vực.",
+      "register": "neutral",
+      "examples": [
+        "I have three years of experience in customer service.",
+        "I have over five years of experience in graphic design."
+      ],
+      "explanationVi": "'experience in + lĩnh vực'. Có thể thêm 'over' (hơn) để nhấn mạnh. Câu này giúp người nghe nhanh chóng hình dung trình độ của bạn."
+    },
+    {
+      "pattern": "In my current role, I'm responsible for [danh từ / V-ing].",
+      "use": "Mô tả trách nhiệm chính trong công việc hiện tại.",
+      "register": "neutral",
+      "examples": [
+        "In my current role, I'm responsible for managing the social media accounts.",
+        "In my current role, I'm responsible for training new team members."
+      ],
+      "explanationVi": "'responsible for' luôn đi với danh từ hoặc V-ing. 'In my current role' giúp khoanh vùng rõ là đang nói về công việc hiện tại — nghe mạch lạc, chuyên nghiệp."
+    },
+    {
+      "pattern": "I'm really passionate about [danh từ / V-ing].",
+      "use": "Thể hiện sự đam mê, nhiệt huyết với lĩnh vực của mình.",
+      "register": "neutral",
+      "examples": [
+        "I'm really passionate about creating user-friendly designs.",
+        "I'm really passionate about helping customers solve their problems."
+      ],
+      "explanationVi": "'passionate about' đi với danh từ hoặc V-ing. Thêm chi tiết đam mê giúp bạn nổi bật và để lại ấn tượng tích cực, không khô khan."
+    },
+    {
+      "pattern": "It's a pleasure to meet you. I look forward to [V-ing].",
+      "use": "Câu kết lịch sự khi làm quen với người mới.",
+      "register": "formal",
+      "examples": [
+        "It's a pleasure to meet you. I look forward to working together.",
+        "It's a pleasure to meet you. I look forward to learning from the team."
+      ],
+      "explanationVi": "'It's a pleasure to meet you' trang trọng hơn 'Nice to meet you'. Nhớ: sau 'look forward to' là V-ing, KHÔNG phải động từ nguyên thể.",
+      "altOf": "closing-introduction"
+    },
+    {
+      "pattern": "Nice to meet you. I hope we'll get to work together soon.",
+      "use": "Câu kết thân thiện, gần gũi hơn khi làm quen.",
+      "register": "casual",
+      "examples": [
+        "Nice to meet you. I hope we'll get to work together soon.",
+        "Nice to meet you all. I hope we'll get along well."
+      ],
+      "explanationVi": "Cách kết nhẹ nhàng, thân thiện cho môi trường trẻ trung, thoải mái. 'get to + V' nghĩa là 'có cơ hội làm gì đó'.",
+      "altOf": "closing-introduction"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "basically", "ipa": "/ˈbeɪ.sɪk.li/", "vi": "về cơ bản thì", "when": "Khi muốn tóm tắt công việc của mình một cách đơn giản, dễ hiểu.", "example": "Basically, I make sure all the projects run on time." },
+    { "term": "mainly", "ipa": "/ˈmeɪn.li/", "vi": "chủ yếu là", "when": "Khi muốn nêu phần việc chính, quan trọng nhất trong nhiều việc.", "example": "I mainly work with the marketing and sales teams." },
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì", "when": "Khi bổ sung một chi tiết thú vị hoặc đính chính nhẹ nhàng.", "example": "Actually, I started my career in a completely different field." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Khi muốn chia sẻ một điều chân thành về bản thân.", "example": "Honestly, I really enjoy working in a team environment." },
+    { "term": "as well", "ipa": "/əz ˈwel/", "vi": "cũng (đặt cuối câu)", "when": "Khi thêm một thông tin nữa về bản thân.", "example": "I speak French as well, so I can help with international clients." }
+  ],
+
+  "dialogue": {
+    "context": "Đây là ngày đầu tiên của bạn ở công ty mới. Trong buổi họp nhóm, một đồng nghiệp tên Sarah đến chào và bạn giới thiệu bản thân với cả nhóm.",
+    "lines": [
+      {
+        "speaker": "Sarah",
+        "text": "Hi there! You must be the new team member. Welcome aboard! Would you like to introduce yourself to everyone?",
+        "ipa": "/haɪ ðeə juː mʌst biː ðə njuː tiːm ˈmem.bə ˈwel.kəm əˈbɔːd wʊd juː laɪk tuː ˌɪn.trəˈdjuːs jɔːˈself tuː ˈev.ri.wʌn/",
+        "vi": "Chào bạn! Chắc bạn là thành viên mới của nhóm. Chào mừng bạn đã gia nhập! Bạn muốn giới thiệu bản thân với mọi người chứ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi everyone, thank you! Let me introduce ____. My name is ____, and I've just joined as a ____. Although I'm new to this company, I have around ____ years of experience in the field.",
+        "ipa": "/haɪ ˈev.ri.wʌn θæŋk juː let miː ˌɪn.trəˈdjuːs ... maɪ neɪm ɪz ... ænd aɪv dʒʌst dʒɔɪnd æz ə ... ɔːlˈðəʊ aɪm njuː tuː ðɪs ˈkʌm.pə.ni aɪ hæv əˈraʊnd ... jɪəz ɒv ɪkˈspɪə.ri.əns ɪn ðə fiːld/",
+        "vi": "Chào cả nhà, cảm ơn mọi người! Cho phép tôi giới thiệu ____ một chút. Tôi tên là ____, và tôi vừa gia nhập với vai trò ____. Mặc dù tôi mới đến công ty này, tôi có khoảng ____ năm kinh nghiệm trong lĩnh vực này.",
+        "blanks": [
+          { "type": "knowledge", "answer": "myself", "explanationVi": "Đại từ phản thân 'myself' đi sau 'introduce' khi chủ ngữ và tân ngữ là cùng một người (tôi giới thiệu chính tôi). Xem mẫu câu 'Let me introduce myself.'" },
+          { "type": "personal", "hint": "Tên của bạn. Ví dụ: 'Lan' hoặc 'Nguyen Thi Lan'." },
+          { "type": "personal", "hint": "Vị trí của bạn. Ví dụ: 'marketing executive', 'software engineer'." },
+          { "type": "personal", "hint": "Số năm kinh nghiệm của bạn. Ví dụ: 'three', 'five'." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "That's wonderful! So, what exactly do you do? Could you tell us a bit more about your background and your main responsibilities?",
+        "ipa": "/ðæts ˈwʌn.də.fəl səʊ wɒt ɪɡˈzækt.li duː juː duː kʊd juː tel ʌs ə bɪt mɔː əˈbaʊt jɔː ˈbæk.ɡraʊnd ænd jɔː meɪn rɪˌspɒn.səˈbɪl.ə.tiz/",
+        "vi": "Tuyệt vời! Vậy bạn làm công việc gì cụ thể? Bạn có thể kể thêm một chút về nền tảng và những trách nhiệm chính của mình không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. I have a background ____ digital marketing, and in my current role I'm mainly responsible for managing our social media campaigns, such as Facebook and Instagram ads. I really enjoy this work because it's both creative and data-driven.",
+        "ipa": "/ɒv kɔːs aɪ hæv ə ˈbæk.ɡraʊnd ... ˈdɪdʒ.ɪ.təl ˈmɑː.kɪ.tɪŋ ænd ɪn maɪ ˈkʌr.ənt rəʊl aɪm ˈmeɪn.li rɪˈspɒn.sə.bəl fɔː ˈmæn.ɪ.dʒɪŋ aʊə ˈsəʊ.ʃəl ˈmiː.di.ə kæmˈpeɪnz sʌtʃ æz ˈfeɪs.bʊk ænd ˈɪn.stə.ɡræm ædz aɪ ˈrɪə.li ɪnˈdʒɔɪ ðɪs wɜːk bɪˈkɒz ɪts bəʊθ kriˈeɪ.tɪv ænd ˈdeɪ.tə ˈdrɪv.ən/",
+        "vi": "Tất nhiên rồi. Tôi có nền tảng ____ marketing số, và ở vị trí hiện tại tôi chủ yếu chịu trách nhiệm quản lý các chiến dịch mạng xã hội, chẳng hạn như quảng cáo Facebook và Instagram. Tôi rất thích công việc này vì nó vừa sáng tạo vừa dựa trên dữ liệu.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in", "explanationVi": "'background' đi với giới từ 'in' để chỉ lĩnh vực: 'a background in digital marketing'. Xem mẫu câu giới thiệu kinh nghiệm." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "It sounds like you'll fit in really well here. Our team works on a lot of online projects, so your skills will definitely be useful. What do you enjoy most about your job?",
+        "ipa": "/ɪt saʊndz laɪk juːl fɪt ɪn ˈrɪə.li wel hɪə aʊə tiːm wɜːks ɒn ə lɒt ɒv ˈɒn.laɪn ˈprɒdʒ.ekts səʊ jɔː skɪlz wɪl ˈdef.ɪn.ət.li biː ˈjuːs.fəl wɒt duː juː ɪnˈdʒɔɪ məʊst əˈbaʊt jɔː dʒɒb/",
+        "vi": "Nghe có vẻ bạn sẽ hòa nhập rất tốt ở đây. Nhóm chúng tôi làm nhiều dự án trực tuyến, nên kỹ năng của bạn chắc chắn sẽ rất hữu ích. Bạn thích điều gì nhất ở công việc của mình?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, I'm really passionate ____ building strong relationships with customers. Not only do I enjoy the creative side, but I also love seeing real results, which makes the job very rewarding for me.",
+        "ipa": "/ˈɒn.ɪst.li aɪm ˈrɪə.li ˈpæʃ.ən.ət ... ˈbɪl.dɪŋ strɒŋ rɪˈleɪ.ʃən.ʃɪps wɪð ˈkʌs.tə.məz nɒt ˈəʊn.li duː aɪ ɪnˈdʒɔɪ ðə kriˈeɪ.tɪv saɪd bʌt aɪ ˈɔːl.səʊ lʌv ˈsiː.ɪŋ rɪəl rɪˈzʌlts wɪtʃ meɪks ðə dʒɒb ˈver.i rɪˈwɔː.dɪŋ fɔː miː/",
+        "vi": "Thành thật mà nói, tôi thực sự đam mê ____ xây dựng mối quan hệ bền chặt với khách hàng. Tôi không chỉ thích khía cạnh sáng tạo, mà còn thích nhìn thấy kết quả thực tế, điều đó khiến công việc rất xứng đáng với tôi.",
+        "blanks": [
+          { "type": "knowledge", "answer": "about", "explanationVi": "'passionate' luôn đi với giới từ 'about': 'passionate about something'. Xem mẫu câu 'I'm really passionate about...'." }
+        ]
+      },
+      {
+        "speaker": "Sarah",
+        "text": "That's a great attitude to have! I'm sure everyone will be happy to have you on board. Is there anything you'd like to ask about the team or the office?",
+        "ipa": "/ðæts ə ɡreɪt ˈæt.ɪ.tjuːd tuː hæv aɪm ʃɔː ˈev.ri.wʌn wɪl biː ˈhæp.i tuː hæv juː ɒn bɔːd ɪz ðeər ˈen.i.θɪŋ juːd laɪk tuː ɑːsk əˈbaʊt ðə tiːm ɔː ði ˈɒf.ɪs/",
+        "vi": "Đó là một thái độ rất tốt! Tôi chắc rằng mọi người sẽ vui khi có bạn trong nhóm. Bạn có muốn hỏi gì về nhóm hoặc văn phòng không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you, that's very kind. I don't have any questions right now, but I'm sure I'll have a few once I settle in. It's a pleasure to meet you all, and I look forward ____ working with everyone.",
+        "ipa": "/θæŋk juː ðæts ˈver.i kaɪnd aɪ dəʊnt hæv ˈen.i ˈkwes.tʃənz raɪt naʊ bʌt aɪm ʃɔːr aɪl hæv ə fjuː wʌns aɪ ˈset.əl ɪn ɪts ə ˈpleʒ.ə tuː miːt juː ɔːl ænd aɪ lʊk ˈfɔː.wəd ... ˈwɜː.kɪŋ wɪð ˈev.ri.wʌn/",
+        "vi": "Cảm ơn bạn, bạn thật tử tế. Hiện tại tôi chưa có câu hỏi nào, nhưng chắc chắn tôi sẽ có vài câu khi đã quen việc. Rất hân hạnh được gặp tất cả mọi người, và tôi mong ____ được làm việc cùng mọi người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Cụm 'look forward to' luôn kết thúc bằng 'to', và sau đó là V-ing ('working'). Đây là 'to' giới từ, không phải 'to' của động từ nguyên thể. Xem mẫu câu kết 'I look forward to...'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong môi trường công sở phương Tây, một lời giới thiệu tốt nên ngắn gọn (khoảng 20-30 giây): tên, vị trí, một điểm thú vị về bản thân — không cần kể dài dòng cả tiểu sử.",
+    "Một cái bắt tay chắc chắn, giao tiếp bằng mắt và một nụ cười khi giới thiệu được đánh giá rất cao, thể hiện sự tự tin và chân thành.",
+    "Khi ai đó nói 'Welcome aboard' (chào mừng gia nhập) hoặc 'Nice to meet you', hãy đáp lại lịch sự ('Thank you', 'Likewise', 'Pleasure to meet you too') thay vì chỉ im lặng gật đầu.",
+    "Mức trang trọng thay đổi theo công ty: startup trẻ thường dùng 'Hi, I'm...' thoải mái, còn ngân hàng/luật/tập đoàn lớn thường chuộng 'Let me introduce myself...' trang trọng hơn."
+  ],
+
+  "commonMistakes": [
+    "Quên mạo từ 'a/an' trước tên nghề: phải nói 'I work as A teacher', không phải 'I work as teacher'.",
+    "Dùng động từ nguyên thể sau 'look forward to'. Đúng là 'I look forward to MEETING you' (V-ing), không phải 'to meet you'.",
+    "Nhầm giới từ: 'responsible FOR', 'background IN', 'passionate ABOUT', 'specialize IN' — mỗi cụm có giới từ cố định riêng.",
+    "Dịch sát từ tiếng Việt 'Tôi tên là Lan' thành 'I'm name is Lan'. Đúng là 'My name is Lan' hoặc 'I'm Lan'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện giới thiệu bản thân trong công việc như thật.",
+    "prompt": "Hãy đóng vai một đồng nghiệp thân thiện nói tiếng Anh trong ngày đầu tiên tôi đi làm ở công ty mới. Hãy bắt đầu bằng cách chào tôi và mời tôi giới thiệu bản thân. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một đồng nghiệp thật, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng giới từ sai (responsible for, background in, passionate about, look forward to + V-ing) thì sửa nhẹ nhàng và đưa cách nói tự nhiên hơn bằng tiếng Việt, (3) hỏi thêm các câu như: bạn làm công việc gì, có kinh nghiệm bao lâu, thích gì nhất ở công việc, sở thích ngoài giờ. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy yêu cầu tôi giới thiệu bản thân thật ngắn gọn trong đúng 30 giây.' để luyện nói súc tích.",
+      "Thêm câu: 'Hãy đóng vai buổi giới thiệu trang trọng với một khách hàng quan trọng.' khi bạn đã quen, để tập đổi sang register trang trọng hơn."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi giới thiệu được tên, vị trí và công ty trong một câu trôi chảy mà không cần nhìn gợi ý.",
+    "Tôi dùng đúng các giới từ cố định: responsible for, background in, passionate about, look forward to + V-ing.",
+    "Tôi mô tả được công việc và đam mê của mình bằng một câu có mệnh đề phụ (such as, because, which)."
+  ]
+}

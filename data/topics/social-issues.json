@@ -1,0 +1,359 @@
+{
+  "id": "social-issues",
+  "category": "opinions",
+  "title": "Vấn đề xã hội",
+  "titleEn": "Social Issues",
+  "level": "C1",
+  "functions": ["opinions", "agreeing", "describing", "suggesting"],
+  "estimatedMinutes": 25,
+  "objectives": [
+    "Trình bày quan điểm về các vấn đề xã hội bằng câu phức nhiều tầng, mạch lạc và sắc thái",
+    "Nêu, bảo vệ và điều chỉnh lập luận một cách thuyết phục với register linh hoạt",
+    "Bày tỏ đồng tình hoặc phản biện một cách lịch sự nhưng vẫn dứt khoát",
+    "Dùng ngữ pháp nâng cao (despite, not only… but also, mệnh đề quan hệ, đảo ngữ) và idiom tự nhiên khi tranh luận",
+    "Đề xuất giải pháp và đặt câu hỏi mở để dẫn dắt cuộc thảo luận"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "inequality",
+      "ipa": "/ˌɪn.ɪˈkwɒl.ə.ti/",
+      "vi": "sự bất bình đẳng (danh từ)",
+      "register": "neutral",
+      "example": "The widening gap between rich and poor is one of the most pressing forms of inequality today.",
+      "exampleVi": "Khoảng cách ngày càng rộng giữa người giàu và người nghèo là một trong những hình thức bất bình đẳng cấp bách nhất hiện nay.",
+      "note": "Danh từ. Trái nghĩa: equality. Hay đi với 'income inequality' (bất bình đẳng thu nhập), 'gender inequality' (bất bình đẳng giới).",
+      "synonyms": [
+        { "term": "disparity", "ipa": "/dɪˈspær.ə.ti/", "register": "formal", "nuanceVi": "Trang trọng, học thuật, nhấn vào 'khoảng cách/chênh lệch có thể đo được' giữa hai nhóm. Vd 'income disparity'." },
+        { "term": "imbalance", "ipa": "/ˌɪmˈbæl.əns/", "register": "neutral", "nuanceVi": "Nhấn vào sự 'mất cân bằng' nói chung, không nhất thiết về công bằng xã hội; nhẹ và rộng hơn inequality." }
+      ]
+    },
+    {
+      "term": "poverty",
+      "ipa": "/ˈpɒv.ə.ti/",
+      "vi": "sự nghèo đói (danh từ)",
+      "register": "neutral",
+      "example": "Millions of people are still trapped in poverty despite years of economic growth.",
+      "exampleVi": "Hàng triệu người vẫn mắc kẹt trong nghèo đói dù đã có nhiều năm tăng trưởng kinh tế.",
+      "note": "Danh từ không đếm được. Cụm hữu ích: 'to live in poverty', 'to lift people out of poverty' (đưa người ta thoát nghèo).",
+      "synonyms": [
+        { "term": "deprivation", "ipa": "/ˌdep.rɪˈveɪ.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'sự thiếu thốn các nhu cầu thiết yếu', không chỉ riêng tiền bạc. Hay gặp trong báo cáo chính sách." },
+        { "term": "hardship", "ipa": "/ˈhɑːd.ʃɪp/", "register": "neutral", "nuanceVi": "Nghĩa rộng 'sự gian khó, cảnh ngộ chật vật' — bao gồm nghèo nhưng cũng có thể là khó khăn nói chung." }
+      ]
+    },
+    {
+      "term": "to address",
+      "ipa": "/əˈdres/",
+      "vi": "giải quyết / xử lý (một vấn đề) (động từ)",
+      "register": "neutral",
+      "example": "Governments must address the root causes of homelessness rather than just the symptoms.",
+      "exampleVi": "Các chính phủ phải giải quyết gốc rễ của tình trạng vô gia cư chứ không chỉ phần ngọn.",
+      "note": "Động từ trang trọng hơn 'deal with'. 'to address an issue/problem/concern'. Đừng nhầm với 'address' (địa chỉ).",
+      "synonyms": [
+        { "term": "to tackle", "ipa": "/ˈtæk.əl/", "register": "neutral", "nuanceVi": "Năng động hơn, nhấn 'bắt tay vào xử lý một việc khó'. Vd 'to tackle climate change'." },
+        { "term": "to combat", "ipa": "/kəmˈbæt/", "register": "formal", "nuanceVi": "Mạnh, mang sắc thái 'chống lại, đấu tranh chống' điều xấu (combat poverty/crime/corruption)." },
+        { "term": "to deal with", "ipa": "/diːl wɪð/", "register": "neutral", "nuanceVi": "Đời thường, an toàn, dùng được mọi lúc; ít trang trọng hơn 'address'." }
+      ]
+    },
+    {
+      "term": "controversial",
+      "ipa": "/ˌkɒn.trəˈvɜː.ʃəl/",
+      "vi": "gây tranh cãi (tính từ)",
+      "register": "neutral",
+      "example": "Immigration remains a deeply controversial topic across much of Europe.",
+      "exampleVi": "Nhập cư vẫn là một chủ đề gây tranh cãi sâu sắc ở phần lớn châu Âu.",
+      "note": "Tính từ. Trọng âm rơi vào âm 'ver'. Đi với 'a controversial issue/figure/decision'.",
+      "synonyms": [
+        { "term": "divisive", "ipa": "/dɪˈvaɪ.sɪv/", "register": "formal", "nuanceVi": "Nhấn 'chia rẽ con người thành các phe đối lập'. Mạnh hơn controversial về mặt hậu quả xã hội." },
+        { "term": "contentious", "ipa": "/kənˈten.ʃəs/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'dễ làm nổ ra tranh luận gay gắt'. Hay gặp trong văn viết học thuật/báo chí." }
+      ]
+    },
+    {
+      "term": "sustainable",
+      "ipa": "/səˈsteɪ.nə.bəl/",
+      "vi": "bền vững (tính từ)",
+      "register": "neutral",
+      "example": "We urgently need more sustainable policies that protect both jobs and the environment.",
+      "exampleVi": "Chúng ta cần khẩn cấp những chính sách bền vững hơn, bảo vệ được cả việc làm lẫn môi trường.",
+      "note": "Tính từ. Nghĩa 'duy trì được lâu dài mà không cạn kiệt/gây hại'. Danh từ: sustainability.",
+      "synonyms": [
+        { "term": "viable", "ipa": "/ˈvaɪ.ə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'khả thi, làm được trên thực tế', không nhất thiết về môi trường. Vd 'a viable solution'." },
+        { "term": "long-term", "ipa": "/ˌlɒŋ ˈtɜːm/", "register": "neutral", "nuanceVi": "Đơn giản, nhấn yếu tố 'dài hạn' về thời gian; thiếu hàm ý 'không gây hại' của sustainable." }
+      ]
+    },
+    {
+      "term": "marginalized",
+      "ipa": "/ˈmɑː.dʒɪ.nə.laɪzd/",
+      "vi": "bị gạt ra bên lề / bị thiệt thòi (tính từ)",
+      "register": "formal",
+      "example": "Policies should give a stronger voice to marginalized communities who are often overlooked.",
+      "exampleVi": "Các chính sách nên trao tiếng nói mạnh mẽ hơn cho những cộng đồng bị gạt ra bên lề vốn thường bị bỏ quên.",
+      "note": "Tính từ trang trọng, hay dùng trong bàn luận xã hội. Cũng dùng dạng danh từ 'the marginalized' (những người bị thiệt thòi).",
+      "synonyms": [
+        { "term": "disadvantaged", "ipa": "/ˌdɪs.ədˈvɑːn.tɪdʒd/", "register": "neutral", "nuanceVi": "Nhấn 'có ít cơ hội/nguồn lực hơn người khác', trung tính và phổ biến hơn marginalized." },
+        { "term": "underrepresented", "ipa": "/ˌʌn.də.rep.rɪˈzen.tɪd/", "register": "formal", "nuanceVi": "Hẹp hơn, nhấn 'có quá ít đại diện' trong một lĩnh vực (chính trị, truyền thông), không nói về toàn bộ đời sống." }
+      ]
+    },
+    {
+      "term": "to advocate",
+      "ipa": "/ˈæd.və.keɪt/",
+      "vi": "ủng hộ / vận động cho (động từ)",
+      "register": "formal",
+      "example": "Many economists advocate raising the minimum wage to reduce poverty.",
+      "exampleVi": "Nhiều nhà kinh tế ủng hộ việc tăng lương tối thiểu để giảm nghèo.",
+      "note": "Động từ. 'advocate (for) something' / 'advocate doing something'. Danh từ 'advocate' /ˈæd.və.kət/ đọc khác (người ủng hộ).",
+      "synonyms": [
+        { "term": "to champion", "ipa": "/ˈtʃæm.pi.ən/", "register": "formal", "nuanceVi": "Mạnh và nhiệt thành, nhấn 'công khai đứng ra bênh vực, dẫn dắt' một sự nghiệp." },
+        { "term": "to support", "ipa": "/səˈpɔːt/", "register": "neutral", "nuanceVi": "Trung tính, rộng, an toàn; không hàm ý 'chủ động vận động' như advocate." }
+      ]
+    },
+    {
+      "term": "significantly",
+      "ipa": "/sɪɡˈnɪf.ɪ.kənt.li/",
+      "vi": "một cách đáng kể (trạng từ)",
+      "register": "neutral",
+      "example": "Investing in education would significantly reduce long-term inequality.",
+      "exampleVi": "Đầu tư vào giáo dục sẽ giảm đáng kể tình trạng bất bình đẳng về lâu dài.",
+      "note": "Trạng từ, rất hợp khi nói về tác động/xu hướng. Đừng nhầm với 'significant' (tính từ).",
+      "synonyms": [
+        { "term": "substantially", "ipa": "/səbˈstæn.ʃəl.i/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'về cơ bản, ở mức lớn'. Gần nghĩa significantly nhưng nghe học thuật hơn." },
+        { "term": "dramatically", "ipa": "/drəˈmæt.ɪ.kəl.i/", "register": "neutral", "nuanceVi": "Nhấn 'thay đổi mạnh, đột ngột và gây chú ý'. Cường độ cao hơn significantly." }
+      ]
+    },
+    {
+      "term": "arguably",
+      "ipa": "/ˈɑː.ɡju.ə.bli/",
+      "vi": "có thể lập luận rằng / có lẽ là (trạng từ)",
+      "register": "formal",
+      "example": "Climate change is arguably the greatest challenge facing our generation.",
+      "exampleVi": "Biến đổi khí hậu có lẽ là thử thách lớn nhất mà thế hệ chúng ta phải đối mặt.",
+      "note": "Trạng từ rất 'C1', dùng để đưa ra nhận định mạnh nhưng vẫn để ngỏ chỗ tranh luận — nghe khôn khéo, có học.",
+      "synonyms": [
+        { "term": "conceivably", "ipa": "/kənˈsiː.və.bli/", "register": "formal", "nuanceVi": "Nhấn 'có thể hình dung được', độ chắc chắn thấp hơn arguably; dùng cho khả năng giả định." }
+      ]
+    },
+    {
+      "term": "biased",
+      "ipa": "/ˈbaɪ.əst/",
+      "vi": "thiên vị / có thành kiến (tính từ)",
+      "register": "neutral",
+      "example": "We should be careful, as much of the news we read is inevitably biased.",
+      "exampleVi": "Chúng ta nên cẩn thận, vì phần lớn tin tức ta đọc đều khó tránh khỏi thiên vị.",
+      "note": "Tính từ. 'biased towards/against somebody'. Danh từ: bias /ˈbaɪ.əs/ (thành kiến).",
+      "synonyms": [
+        { "term": "prejudiced", "ipa": "/ˈpredʒ.ə.dɪst/", "register": "neutral", "nuanceVi": "Nặng hơn, nhấn 'định kiến không công bằng với một nhóm người' (thường về chủng tộc, giới)." },
+        { "term": "one-sided", "ipa": "/ˌwʌnˈsaɪ.dɪd/", "register": "neutral", "nuanceVi": "Đời thường, nhấn 'chỉ trình bày một phía', dễ dùng khi nói về một bài báo hay lập luận." }
+      ]
+    },
+    {
+      "term": "to undermine",
+      "ipa": "/ˌʌn.dəˈmaɪn/",
+      "vi": "làm suy yếu / xói mòn (động từ)",
+      "register": "formal",
+      "example": "Misinformation can gradually undermine public trust in institutions.",
+      "exampleVi": "Thông tin sai lệch có thể dần dần làm xói mòn niềm tin của công chúng vào các thể chế.",
+      "note": "Động từ, nhấn việc làm yếu đi một cách âm thầm, từ bên dưới. Đối tượng hay gặp: trust, authority, efforts.",
+      "synonyms": [
+        { "term": "to erode", "ipa": "/ɪˈrəʊd/", "register": "formal", "nuanceVi": "Nhấn quá trình 'bào mòn dần dần theo thời gian', hình ảnh như nước bào đá. Rất gần undermine." },
+        { "term": "to weaken", "ipa": "/ˈwiː.kən/", "register": "neutral", "nuanceVi": "Trung tính, trực tiếp 'làm yếu đi'; thiếu sắc thái 'âm thầm, từ bên trong' của undermine." }
+      ]
+    },
+    {
+      "term": "widespread",
+      "ipa": "/ˈwaɪd.spred/",
+      "vi": "phổ biến rộng khắp (tính từ)",
+      "register": "neutral",
+      "example": "There is now widespread agreement that something must be done.",
+      "exampleVi": "Hiện đã có sự đồng thuận rộng khắp rằng phải làm điều gì đó.",
+      "note": "Tính từ, thường đứng trước danh từ. Nhấn quy mô lan rộng (widespread poverty/support/concern).",
+      "synonyms": [
+        { "term": "prevalent", "ipa": "/ˈprev.əl.ənt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thịnh hành, hay xảy ra' trong một thời điểm/khu vực. Vd 'a prevalent attitude'." },
+        { "term": "rampant", "ipa": "/ˈræm.pənt/", "register": "neutral", "nuanceVi": "Tiêu cực mạnh, nhấn 'lan tràn không kiểm soát'. Chỉ dùng cho điều xấu (rampant corruption)." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "It could be argued that [mệnh đề], although [mệnh đề nhượng bộ].",
+      "use": "Đưa ra một nhận định cân nhắc, vừa khẳng định vừa thừa nhận mặt còn lại.",
+      "register": "formal",
+      "examples": [
+        "It could be argued that economic growth benefits everyone, although in practice the gains are rarely shared equally."
+      ],
+      "explanationVi": "'It could be argued that…' là cách mở quan điểm rất C1: nghe khách quan, có học, không áp đặt. 'although' thêm mệnh đề nhượng bộ cho lập luận thêm chiều sâu.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "From my perspective, [mệnh đề], not least because [lý do].",
+      "use": "Nêu quan điểm cá nhân kèm một lý do nổi bật.",
+      "register": "formal",
+      "examples": [
+        "From my perspective, education is the key to social mobility, not least because it gives disadvantaged children a genuine chance."
+      ],
+      "explanationVi": "'From my perspective' lịch sự, nhấn 'đây là góc nhìn của tôi'. 'not least because' = 'nhất là vì', dùng để làm nổi bật một lý do trong nhiều lý do.",
+      "altOf": "stating-opinion"
+    },
+    {
+      "pattern": "I take your point, but I'd argue that [mệnh đề].",
+      "use": "Phản biện lịch sự sau khi thừa nhận ý đối phương.",
+      "register": "neutral",
+      "examples": [
+        "I take your point, but I'd argue that throwing money at the problem rarely solves it on its own."
+      ],
+      "explanationVi": "Công thức 'thừa nhận rồi phản biện' rất văn minh: 'I take your point' (tôi hiểu ý bạn) làm dịu, 'but I'd argue that' đưa quan điểm trái chiều mà không gây căng thẳng.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "I see where you're coming from, however [mệnh đề].",
+      "use": "Bày tỏ sự thông cảm với quan điểm đối phương rồi nêu điểm khác biệt.",
+      "register": "neutral",
+      "examples": [
+        "I see where you're coming from, however we shouldn't ignore the long-term consequences of doing nothing."
+      ],
+      "explanationVi": "'I see where you're coming from' là idiom nghĩa 'tôi hiểu vì sao bạn nghĩ vậy'. Kết với 'however' thành cách bất đồng nhã nhặn, rất tự nhiên trong tranh luận.",
+      "altOf": "disagreeing-politely"
+    },
+    {
+      "pattern": "Not only does [chủ ngữ] [V], but it also [V].",
+      "use": "Nhấn mạnh rằng một vấn đề/giải pháp có nhiều tác động cùng lúc.",
+      "register": "formal",
+      "examples": [
+        "Not only does poverty limit opportunity, but it also undermines people's health and dignity."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì đảo trợ động từ ('does … but it also'). Cấu trúc gây ấn tượng mạnh, rất hợp khi muốn liệt kê hậu quả/lợi ích kép — nhưng phải đảo đúng.",
+      "altOf": "emphasizing"
+    },
+    {
+      "pattern": "Despite [danh từ / V-ing], [mệnh đề chính].",
+      "use": "Nêu một sự thật vẫn đúng bất chấp một trở ngại.",
+      "register": "neutral",
+      "examples": [
+        "Despite years of campaigning, gender inequality persists in many workplaces."
+      ],
+      "explanationVi": "'Despite' + danh từ/V-ing (KHÔNG đi với cả mệnh đề). Tương đương 'although' + mệnh đề. Dùng để thừa nhận trở ngại nhưng vẫn giữ luận điểm chính."
+    },
+    {
+      "pattern": "If we are to [V], we need to [V] in order to [mục đích].",
+      "use": "Đề xuất giải pháp gắn với mục tiêu, nghe quyết liệt và có tầm nhìn.",
+      "register": "formal",
+      "examples": [
+        "If we are to reduce inequality, we need to invest in public services in order to give everyone a fair start."
+      ],
+      "explanationVi": "'If we are to + V' (= nếu chúng ta muốn đạt được…) là cấu trúc điều kiện trang trọng nhấn mục tiêu. 'in order to' nêu mục đích, làm câu chặt chẽ như một lời kêu gọi hành động."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "frankly", "ipa": "/ˈfræŋk.li/", "vi": "thẳng thắn mà nói", "when": "Mở đầu một ý kiến thật lòng, đôi khi hơi gai góc.", "example": "Frankly, I think we've been ignoring this problem for far too long." },
+    { "term": "to a certain extent", "ipa": "/tə ə ˈsɜː.tən ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý một phần, không muốn khẳng định tuyệt đối.", "example": "I agree with you to a certain extent, but the issue is more complex than that." },
+    { "term": "all things considered", "ipa": "/ɔːl θɪŋz kənˈsɪd.əd/", "vi": "xét cho cùng / cân nhắc mọi mặt", "when": "Đưa ra kết luận sau khi đã cân nhắc nhiều khía cạnh.", "example": "All things considered, I believe the benefits outweigh the drawbacks." },
+    { "term": "ironically", "ipa": "/aɪˈrɒn.ɪ.kəl.i/", "vi": "trớ trêu thay", "when": "Chỉ ra một nghịch lý hoặc kết quả trái ngược với mong đợi.", "example": "Ironically, the policy meant to help the poor ended up benefiting the wealthy." },
+    { "term": "by and large", "ipa": "/baɪ ænd lɑːdʒ/", "vi": "nhìn chung", "when": "Khái quát một xu hướng chung dù vẫn có ngoại lệ.", "example": "By and large, public opinion has shifted in favour of reform." },
+    { "term": "needless to say", "ipa": "/ˈniːd.ləs tə seɪ/", "vi": "khỏi phải nói cũng biết", "when": "Dẫn vào một điều mà người nghe hẳn đã đồng tình.", "example": "Needless to say, no single government can solve this on its own." }
+  ],
+
+  "dialogue": {
+    "context": "Trong một buổi hội thảo (panel discussion) về các vấn đề xã hội, người điều phối (host) mời bạn — một khách mời — chia sẻ và tranh luận quan điểm về bất bình đẳng, nghèo đói và vai trò của truyền thông.",
+    "lines": [
+      {
+        "speaker": "Người điều phối",
+        "text": "Welcome to the panel. To open the discussion, which social issue do you personally regard as the most urgent for our generation, and why?",
+        "ipa": "/ˈwel.kəm tə ðə ˈpæn.əl tə ˈəʊ.pən ðə dɪˈskʌʃ.ən wɪtʃ ˈsəʊ.ʃəl ˈɪʃ.uː duː juː ˈpɜː.sə.nə.li rɪˈɡɑːd əz ðə məʊst ˈɜː.dʒənt fɔːr ˈaʊə ˌdʒen.əˈreɪ.ʃən ænd waɪ/",
+        "vi": "Chào mừng đến với buổi tọa đàm. Để mở đầu, cá nhân bạn coi vấn đề xã hội nào là cấp bách nhất với thế hệ chúng ta, và vì sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you for having me. Arguably, the most pressing issue is ____, not least because it quietly shapes almost every other problem we face. From my perspective, when people are trapped in ____, they lose access to education, healthcare and a genuine voice in society.",
+        "ipa": "/θæŋk juː fɔːr ˈhæv.ɪŋ miː ˈɑː.ɡju.ə.bli ðə məʊst ˈpres.ɪŋ ˈɪʃ.uː ɪz ... nɒt liːst bɪˈkɒz ɪt ˈkwaɪ.ət.li ʃeɪps ˈɔːl.məʊst ˈev.ri ˈʌð.ər ˈprɒb.ləm wiː feɪs/",
+        "vi": "Cảm ơn đã mời tôi. Có lẽ vấn đề cấp bách nhất là ____, nhất là vì nó âm thầm định hình gần như mọi vấn đề khác mà ta gặp. Theo tôi, khi con người bị mắc kẹt trong ____, họ mất đi cơ hội tiếp cận giáo dục, y tế và một tiếng nói thực sự trong xã hội.",
+        "blanks": [
+          { "type": "personal", "hint": "Vấn đề xã hội bạn quan tâm nhất. Ví dụ: 'inequality', 'climate change', 'the housing crisis'." },
+          { "type": "personal", "hint": "Tình cảnh liên quan. Ví dụ: 'poverty', 'a cycle of debt'." }
+        ]
+      },
+      {
+        "speaker": "Người điều phối",
+        "text": "That's a compelling start. Yet some would say economic growth alone will eventually lift people out of hardship. How would you respond to that view?",
+        "ipa": "/ðæts ə kəmˈpel.ɪŋ stɑːt jet sʌm wʊd seɪ ˌiː.kəˈnɒm.ɪk ɡrəʊθ əˈləʊn wɪl ɪˈven.tʃu.ə.li lɪft ˈpiː.pəl aʊt ɒv ˈhɑːd.ʃɪp haʊ wʊd juː rɪˈspɒnd tə ðæt vjuː/",
+        "vi": "Mở đầu rất thuyết phục. Tuy vậy, một số người cho rằng chỉ riêng tăng trưởng kinh tế rồi cũng sẽ đưa người ta thoát khỏi khó khăn. Bạn phản hồi quan điểm đó thế nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see where you're coming from, ____ I'd argue that growth on its own is not enough. Despite decades of rising GDP, the gap between rich and poor has actually widened in many countries, which suggests that without deliberate policy, the benefits simply don't trickle down.",
+        "ipa": "/aɪ siː weər jʊə ˈkʌm.ɪŋ frɒm ... aɪd ˈɑː.ɡjuː ðæt ɡrəʊθ ɒn ɪts əʊn ɪz nɒt ɪˈnʌf dɪˈspaɪt ˈdek.eɪdz ɒv ˈraɪ.zɪŋ ˌdʒiː.diːˈpiː ðə ɡæp bɪˈtwiːn rɪtʃ ænd pʊə həz ˈæk.tʃu.ə.li ˈwaɪ.dənd ɪn ˈmen.i ˈkʌn.triz/",
+        "vi": "Tôi hiểu vì sao bạn nghĩ vậy, ____ tôi cho rằng riêng tăng trưởng thôi là chưa đủ. Bất chấp nhiều thập kỷ GDP tăng, khoảng cách giàu nghèo thực ra lại còn rộng hơn ở nhiều quốc gia, điều này cho thấy nếu không có chính sách chủ động thì lợi ích đơn giản là không 'nhỏ giọt' xuống dưới.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (= tuy nhiên) để mở ý đối lập sau khi thừa nhận quan điểm người khác. Xem mẫu câu 'I see where you're coming from, however…'." }
+        ]
+      },
+      {
+        "speaker": "Người điều phối",
+        "text": "Interesting. Some critics, however, claim the media itself distorts how we understand these problems. Do you think the news we consume is reliable?",
+        "ipa": "/ˈɪn.trəs.tɪŋ sʌm ˈkrɪt.ɪks haʊˈev.ər kleɪm ðə ˈmiː.di.ə ɪtˈself dɪˈstɔːts haʊ wiː ˌʌn.dəˈstænd ðiːz ˈprɒb.ləmz duː juː θɪŋk ðə njuːz wiː kənˈsjuːm ɪz rɪˈlaɪ.ə.bəl/",
+        "vi": "Thú vị đấy. Tuy nhiên, một số người phê bình cho rằng chính truyền thông bóp méo cách chúng ta hiểu các vấn đề này. Bạn có nghĩ tin tức ta tiếp nhận là đáng tin không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "To a certain extent, I share that concern. Much of the news we read is inevitably ____, since outlets compete for attention and tend to favour dramatic headlines. This can gradually ____ public trust, which is precisely why media literacy matters so much.",
+        "ipa": "/tə ə ˈsɜː.tən ɪkˈstent aɪ ʃeər ðæt kənˈsɜːn mʌtʃ ɒv ðə njuːz wiː riːd ɪz ɪnˈev.ɪ.tə.bli ... sɪns ˈaʊt.lets kəmˈpiːt fɔːr əˈten.ʃən ænd tend tə ˈfeɪ.vər drəˈmæt.ɪk ˈhed.laɪnz/",
+        "vi": "Ở một mức độ nào đó, tôi cũng chung mối lo ấy. Phần lớn tin tức ta đọc khó tránh khỏi ____, vì các tòa soạn cạnh tranh để giành sự chú ý và có xu hướng chuộng những tiêu đề giật gân. Điều này có thể dần ____ niềm tin của công chúng, và đó chính là lý do năng lực đọc tin (media literacy) lại quan trọng đến vậy.",
+        "blanks": [
+          { "type": "knowledge", "answer": "biased", "explanationVi": "Dùng tính từ 'biased' (thiên vị) sau 'is' để mô tả tin tức. Đây là từ vựng trọng tâm của bài; lưu ý danh từ là 'bias'." },
+          { "type": "knowledge", "answer": "undermine", "explanationVi": "Dùng động từ nguyên thể 'undermine' (làm xói mòn) sau 'can'. Sau động từ khuyết thiếu 'can' luôn là động từ nguyên thể không 'to'." }
+        ]
+      },
+      {
+        "speaker": "Người điều phối",
+        "text": "So if you had the power to change one thing tomorrow, what concrete step would you advocate?",
+        "ipa": "/səʊ ɪf juː hæd ðə ˈpaʊ.ər tə tʃeɪndʒ wʌn θɪŋ təˈmɒr.əʊ wɒt ˈkɒŋ.kriːt step wʊd juː ˈæd.və.keɪt/",
+        "vi": "Vậy nếu ngày mai bạn có quyền thay đổi một điều, bạn sẽ ủng hộ bước đi cụ thể nào?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, if we are to make any lasting difference, we need to invest in early education ____ to give every child a fair start. Not only would this reduce inequality in the long run, but it would also strengthen the economy as a whole. All things considered, prevention is always cheaper than cure.",
+        "ipa": "/ˈɒn.ɪst.li ɪf wiː ɑːr tə meɪk ˈen.i ˈlɑːs.tɪŋ ˈdɪf.rəns wiː niːd tə ɪnˈvest ɪn ˈɜː.li ˌed.jʊˈkeɪ.ʃən ... tə ɡɪv ˈev.ri tʃaɪld ə feər stɑːt/",
+        "vi": "Thành thật mà nói, nếu muốn tạo ra khác biệt lâu dài, chúng ta cần đầu tư vào giáo dục mầm non ____ để trao cho mọi trẻ em một khởi đầu công bằng. Điều này không chỉ giảm bất bình đẳng về lâu dài, mà còn củng cố cả nền kinh tế nói chung. Xét cho cùng, phòng bệnh bao giờ cũng rẻ hơn chữa bệnh.",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order", "explanationVi": "Dùng 'in order to + V' để diễn đạt mục đích ('nhằm để'). Cụm đầy đủ là 'in order to give'. Xem mẫu câu 'If we are to…, we need to… in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Người điều phối",
+        "text": "A thoughtful note to end on. Thank you for such a nuanced contribution to today's debate.",
+        "ipa": "/ə ˈθɔːt.fəl nəʊt tə end ɒn θæŋk juː fɔːr sʌtʃ ə ˈnjuː.ɑːnst ˌkɒn.trɪˈbjuː.ʃən tə təˈdeɪz dɪˈbeɪt/",
+        "vi": "Một lời kết đầy suy ngẫm. Cảm ơn bạn vì phần đóng góp sâu sắc, nhiều sắc thái cho cuộc tranh luận hôm nay."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong tranh luận kiểu phương Tây, người ta đề cao việc 'thừa nhận quan điểm đối phương trước khi phản biện' (steelmanning). Câu như 'I take your point, but…' khiến bạn nghe chín chắn, không hiếu thắng.",
+    "Khi bàn các chủ đề nhạy cảm (chính trị, tôn giáo, nhập cư), người bản xứ thường làm mềm lời bằng 'arguably', 'to a certain extent', 'it could be argued' thay vì khẳng định tuyệt đối — vừa lịch sự vừa nghe có học.",
+    "Dẫn chứng số liệu hoặc ví dụ cụ thể (như xu hướng GDP, tỷ lệ nghèo) làm lập luận thuyết phục hơn nhiều so với nói chung chung bằng cảm tính.",
+    "Trong môi trường học thuật/hội thảo, đặt câu hỏi mở ngược lại cho người khác ('What would you say to…?') được xem là dấu hiệu của một người đối thoại tinh tế, biết lắng nghe."
+  ],
+
+  "commonMistakes": [
+    "Dùng 'Despite' + cả mệnh đề: SAI 'Despite it was hard'. Đúng là 'Despite the difficulty' (despite + danh từ/V-ing) hoặc 'Although it was hard' (although + mệnh đề).",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it reduce…', không phải 'Not only it reduces…'.",
+    "Nhầm tính từ và danh từ: nói 'the news is bias' là sai, phải là 'the news is biased' (tính từ); 'bias' là danh từ.",
+    "Khẳng định quá tuyệt đối ('Everyone agrees that…', 'This is 100% true') nghe võ đoán; nên hạ giọng bằng 'arguably', 'by and large', 'to a certain extent' cho có chừng mực."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện tranh luận về vấn đề xã hội ở trình độ C1.",
+    "prompt": "Hãy đóng vai người điều phối (host) của một buổi tọa đàm nói tiếng Anh học thuật, tranh luận với tôi về một vấn đề xã hội mà tôi sẽ nêu (ví dụ bất bình đẳng, biến đổi khí hậu, ảnh hưởng của mạng xã hội). Hãy hỏi từng câu một và CHỦ ĐỘNG phản biện lại quan điểm của tôi để buộc tôi phải bảo vệ lập luận. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người điều phối sắc sảo, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt tinh tế, đúng register hơn bằng tiếng Việt, (3) khuyến khích tôi dùng cấu trúc C1 như 'it could be argued that', 'despite', đảo ngữ 'not only… but also', mệnh đề quan hệ và các trạng từ 'arguably / to a certain extent / all things considered'. Cuối buổi, hãy chấm điểm phần tranh luận của tôi theo thang CEFR và nêu 3 điểm cần cải thiện. Bắt đầu bằng câu hỏi đầu tiên nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một người phản biện cứng rắn, liên tục đưa ra số liệu và phản ví dụ để thách thức tôi.' khi bạn đã quen.",
+      "Thêm: 'Hãy yêu cầu tôi tóm tắt lại quan điểm của bạn trước khi phản biện (để luyện kỹ năng diễn giải lại - paraphrasing).'",
+      "Thêm: 'Hãy đổi sang một chủ đề gây tranh cãi hơn và buộc tôi giữ thái độ trung lập, lịch sự.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi nêu được quan điểm về một vấn đề xã hội bằng câu phức có mệnh đề nhượng bộ (although/despite), không cần nhìn gợi ý.",
+    "Tôi phản biện được lịch sự bằng 'I take your point, but…' hoặc 'I see where you're coming from, however…'.",
+    "Tôi dùng đúng đảo ngữ 'not only… but also' và ít nhất hai trạng từ làm mềm như 'arguably', 'to a certain extent' khi tranh luận."
+  ]
+}

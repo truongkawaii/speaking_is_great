@@ -1,0 +1,353 @@
+{
+  "id": "planning-party",
+  "category": "friends",
+  "title": "Tổ chức tiệc",
+  "titleEn": "Planning a Party",
+  "level": "B1",
+  "functions": ["suggesting", "agreeing", "asking-info", "small-talk"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Đưa ra gợi ý và đề xuất ý tưởng cho buổi tiệc một cách tự nhiên",
+    "Đồng ý hoặc lịch sự phản đối ý kiến của bạn bè khi bàn kế hoạch",
+    "Phân chia công việc chuẩn bị (đồ ăn, trang trí, khách mời)",
+    "Dùng câu vừa phải có such as, because, although khi trao đổi với bạn bè",
+    "Thống nhất thời gian, địa điểm và ngân sách cho bữa tiệc"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "to throw a party",
+      "ipa": "/θrəʊ ə ˈpɑːr.ti/",
+      "vi": "tổ chức một bữa tiệc (động từ)",
+      "register": "casual",
+      "example": "Let's throw a party for Mai's birthday next weekend.",
+      "exampleVi": "Cuối tuần tới hãy tổ chức tiệc sinh nhật cho Mai nhé.",
+      "note": "Cụm động từ đời thường. 'throw a party' tự nhiên hơn 'organize a party' khi nói chuyện với bạn bè.",
+      "synonyms": [
+        { "term": "to host a party", "ipa": "/həʊst ə ˈpɑːr.ti/", "register": "neutral", "nuanceVi": "Nhấn vào vai trò người làm chủ nhà, tiếp đón khách. Trung tính, dùng được cả trong văn viết." },
+        { "term": "to organize a party", "ipa": "/ˈɔːr.ɡə.naɪz ə ˈpɑːr.ti/", "register": "neutral", "nuanceVi": "Nhấn vào việc sắp xếp, lên kế hoạch chi tiết. Nghe trang trọng và 'công việc' hơn 'throw'." }
+      ]
+    },
+    {
+      "term": "to celebrate",
+      "ipa": "/ˈsel.ə.breɪt/",
+      "vi": "ăn mừng, kỷ niệm (động từ)",
+      "register": "neutral",
+      "example": "We're celebrating her graduation this Saturday.",
+      "exampleVi": "Thứ Bảy này chúng tôi ăn mừng lễ tốt nghiệp của cô ấy.",
+      "note": "Động từ. Danh từ là 'celebration' (lễ ăn mừng). Đi với dịp vui: birthday, graduation, promotion.",
+      "synonyms": [
+        { "term": "to mark", "ipa": "/mɑːrk/", "register": "formal", "nuanceVi": "Nghĩa 'đánh dấu một dịp', trang trọng hơn. Vd 'to mark the occasion'." },
+        { "term": "to commemorate", "ipa": "/kəˈmem.ə.reɪt/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tưởng nhớ / kỷ niệm dịp quan trọng'. Ít dùng cho tiệc vui bạn bè." }
+      ]
+    },
+    {
+      "term": "guest list",
+      "ipa": "/ˈɡest lɪst/",
+      "vi": "danh sách khách mời (danh từ)",
+      "register": "neutral",
+      "example": "We need to finalize the guest list by Friday.",
+      "exampleVi": "Chúng ta cần chốt danh sách khách mời trước thứ Sáu.",
+      "note": "Danh từ ghép. 'guest' (khách mời) là từ gốc; chú ý phát âm /ɡest/ chứ không phải 'guess'."
+    },
+    {
+      "term": "venue",
+      "ipa": "/ˈven.juː/",
+      "vi": "địa điểm tổ chức (danh từ)",
+      "register": "neutral",
+      "example": "We still haven't decided on a venue for the party.",
+      "exampleVi": "Chúng tôi vẫn chưa quyết định địa điểm tổ chức tiệc.",
+      "note": "Danh từ. Chỉ nơi diễn ra sự kiện. Trang trọng và chính xác hơn nói chung chung 'place'.",
+      "synonyms": [
+        { "term": "location", "ipa": "/ləʊˈkeɪ.ʃən/", "register": "neutral", "nuanceVi": "Nghĩa rộng 'vị trí, nơi chốn'. Trung tính, dùng được mọi nơi nhưng không gợi ý 'nơi tổ chức sự kiện' rõ như 'venue'." },
+        { "term": "spot", "ipa": "/spɒt/", "register": "casual", "nuanceVi": "Đời thường, thân mật, nghĩa 'chỗ, điểm'. Vd 'a nice spot for the picnic'." }
+      ]
+    },
+    {
+      "term": "to chip in",
+      "ipa": "/tʃɪp ɪn/",
+      "vi": "góp tiền chung (động từ)",
+      "register": "casual",
+      "example": "If everyone chips in, the cost won't be too high.",
+      "exampleVi": "Nếu mọi người cùng góp thì chi phí sẽ không quá cao.",
+      "note": "Cụm động từ thân mật, rất hay dùng giữa bạn bè khi cùng chia tiền cho một việc chung.",
+      "synonyms": [
+        { "term": "to contribute", "ipa": "/kənˈtrɪb.juːt/", "register": "neutral", "nuanceVi": "Trung tính/trang trọng hơn, nghĩa 'đóng góp' (tiền, công sức, ý kiến). Rộng hơn 'chip in' (thường là tiền)." },
+        { "term": "to split the cost", "ipa": "/splɪt ðə kɒst/", "register": "neutral", "nuanceVi": "Nhấn 'chia đều chi phí'. Cụ thể về việc chia tiền, trong khi 'chip in' chỉ là cùng bỏ ra một phần." }
+      ]
+    },
+    {
+      "term": "decorations",
+      "ipa": "/ˌdek.əˈreɪ.ʃənz/",
+      "vi": "đồ trang trí (danh từ)",
+      "register": "neutral",
+      "example": "I'll buy the decorations, such as balloons and banners.",
+      "exampleVi": "Mình sẽ mua đồ trang trí, chẳng hạn như bóng bay và băng rôn.",
+      "note": "Thường dùng số nhiều. Động từ là 'to decorate' (trang trí); tính từ 'decorative' (mang tính trang trí).",
+      "synonyms": [
+        { "term": "ornaments", "ipa": "/ˈɔːr.nə.mənts/", "register": "neutral", "nuanceVi": "Nghiêng về vật trang trí nhỏ, đẹp mắt (đặc biệt đồ treo dịp lễ). Hẹp hơn 'decorations'." }
+      ]
+    },
+    {
+      "term": "to look forward to",
+      "ipa": "/lʊk ˈfɔːr.wəd tuː/",
+      "vi": "mong chờ, háo hức (động từ)",
+      "register": "neutral",
+      "example": "I'm really looking forward to the party this weekend.",
+      "exampleVi": "Mình thật sự rất mong chờ buổi tiệc cuối tuần này.",
+      "note": "Sau 'to' phải là danh từ hoặc V-ing, KHÔNG phải động từ nguyên thể: 'looking forward to seeing you'."
+    },
+    {
+      "term": "exciting",
+      "ipa": "/ɪkˈsaɪ.tɪŋ/",
+      "vi": "thú vị, hào hứng (tính từ)",
+      "register": "neutral",
+      "example": "Planning a surprise party is always exciting.",
+      "exampleVi": "Lên kế hoạch tiệc bất ngờ luôn rất hào hứng.",
+      "note": "Tính từ tả tính chất của sự việc (làm người ta hào hứng). Đừng nhầm 'exciting' (sự vật thú vị) với 'excited' (người cảm thấy hào hứng).",
+      "synonyms": [
+        { "term": "thrilling", "ipa": "/ˈθrɪl.ɪŋ/", "register": "neutral", "nuanceVi": "Mạnh hơn 'exciting', nghĩa 'gây hồi hộp, phấn khích tột độ'. Hợp với trải nghiệm mạnh." },
+        { "term": "fun", "ipa": "/fʌn/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'vui'. Nhẹ nhàng hơn, nhấn vào sự vui vẻ chứ không phải sự kích thích." }
+      ]
+    },
+    {
+      "term": "affordable",
+      "ipa": "/əˈfɔːr.də.bəl/",
+      "vi": "có giá phải chăng (tính từ)",
+      "register": "neutral",
+      "example": "Let's find an affordable place that fits our budget.",
+      "exampleVi": "Hãy tìm một chỗ giá phải chăng hợp với ngân sách của tụi mình.",
+      "note": "Tính từ. Nghĩa 'đủ rẻ để chi trả được'. Nghe tế nhị hơn 'cheap' (rẻ, đôi khi hàm ý kém chất lượng).",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'giá hợp lý, đúng với giá trị'. Gần nghĩa nhưng thiên về 'xứng đáng' hơn là 'vừa túi tiền'." },
+        { "term": "cheap", "ipa": "/tʃiːp/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'rẻ'. Đôi khi mang hàm ý tiêu cực (rẻ tiền, kém chất lượng), nên dùng cẩn thận." }
+      ]
+    },
+    {
+      "term": "definitely",
+      "ipa": "/ˈdef.ɪn.ət.li/",
+      "vi": "chắc chắn rồi (trạng từ)",
+      "register": "neutral",
+      "example": "We should definitely invite Lan; she loves these things.",
+      "exampleVi": "Chúng ta nhất định nên mời Lan; cô ấy mê mấy vụ này lắm.",
+      "note": "Trạng từ khẳng định mạnh. Bẫy chính tả: 'definitely', không phải 'definately'.",
+      "synonyms": [
+        { "term": "absolutely", "ipa": "/ˈæb.sə.luːt.li/", "register": "neutral", "nuanceVi": "Mạnh hơn, nghĩa 'hoàn toàn, tuyệt đối'. Hay dùng để đồng ý dứt khoát: 'Absolutely!'." },
+        { "term": "surely", "ipa": "/ˈʃʊə.li/", "register": "formal", "nuanceVi": "Trang trọng hơn, đôi khi mang sắc thái 'chắc hẳn là' (suy đoán) chứ không chỉ khẳng định." }
+      ]
+    },
+    {
+      "term": "to set up",
+      "ipa": "/set ʌp/",
+      "vi": "bày biện, sắp đặt (động từ)",
+      "register": "neutral",
+      "example": "We'll need an hour to set up the tables and lights.",
+      "exampleVi": "Tụi mình cần khoảng một tiếng để bày bàn ghế và đèn.",
+      "note": "Cụm động từ. Danh từ là 'setup' (cách bố trí). Đừng nhầm với 'set off' (khởi hành / kích hoạt)."
+    },
+    {
+      "term": "potluck",
+      "ipa": "/ˈpɒt.lʌk/",
+      "vi": "tiệc mỗi người mang một món (danh từ)",
+      "register": "casual",
+      "example": "Let's make it a potluck so nobody has to cook everything.",
+      "exampleVi": "Hãy làm tiệc kiểu mỗi người mang một món để không ai phải nấu hết.",
+      "note": "Danh từ. Văn hóa phương Tây rất phổ biến: khách mỗi người mang một món ăn đến góp chung."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Why don't we + [động từ nguyên thể]?",
+      "use": "Gợi ý một ý tưởng cho cả nhóm cùng làm.",
+      "register": "casual",
+      "examples": [
+        "Why don't we throw a surprise party for her?",
+        "Why don't we make it a potluck?"
+      ],
+      "explanationVi": "'Why don't we...?' là cách rủ rê thân thiện, nghe như đang cùng bàn bạc chứ không ra lệnh. Sau cụm này là động từ nguyên thể (không 'to').",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "How about + [danh từ / V-ing]?",
+      "use": "Đề xuất một lựa chọn cụ thể (địa điểm, món ăn, thời gian).",
+      "register": "casual",
+      "examples": [
+        "How about Saturday evening?",
+        "How about renting a small place near the park?"
+      ],
+      "explanationVi": "'How about...?' theo sau là danh từ hoặc V-ing (KHÔNG phải động từ nguyên thể). Rất tiện để ném ra một phương án và chờ phản hồi.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "We could + [động từ nguyên thể], such as + [ví dụ].",
+      "use": "Đưa ra đề xuất kèm ví dụ minh họa.",
+      "register": "neutral",
+      "examples": [
+        "We could buy some decorations, such as balloons and fairy lights.",
+        "We could prepare a few snacks, such as chips and spring rolls."
+      ],
+      "explanationVi": "'could' làm đề xuất nghe nhẹ nhàng, để ngỏ. 'such as' dùng để nêu ví dụ cụ thể — nghe rõ ràng và thuyết phục hơn nói chung chung.",
+      "altOf": "making-suggestion"
+    },
+    {
+      "pattern": "That sounds + [tính từ]!",
+      "use": "Phản hồi tích cực, đồng tình với một gợi ý.",
+      "register": "casual",
+      "examples": [
+        "That sounds great!",
+        "That sounds like a fun idea!"
+      ],
+      "explanationVi": "Cách đồng ý tự nhiên và nhiệt tình. 'sound' ở đây nghĩa 'nghe có vẻ'. Sau nó là tính từ (great, perfect) hoặc 'like + danh từ'.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "I'm not sure about [danh từ], because [mệnh đề].",
+      "use": "Phản đối nhẹ nhàng, nêu lý do thay vì gạt phắt đi.",
+      "register": "neutral",
+      "examples": [
+        "I'm not sure about Saturday, because some people might be busy.",
+        "I'm not sure about that venue, because it could be too expensive."
+      ],
+      "explanationVi": "'I'm not sure about...' là cách không đồng ý lịch sự, mềm mỏng. Thêm 'because + lý do' để bạn bè hiểu và không thấy bị bác bỏ thẳng thừng.",
+      "altOf": "agreeing"
+    },
+    {
+      "pattern": "Shall I + [động từ nguyên thể]?",
+      "use": "Đề nghị nhận một phần việc về mình.",
+      "register": "neutral",
+      "examples": [
+        "Shall I take care of the food?",
+        "Shall I send out the invitations?"
+      ],
+      "explanationVi": "'Shall I...?' là cách lịch sự để xung phong làm gì đó. Nghe nhã nhặn hơn 'I will...' và mời người kia đồng ý."
+    },
+    {
+      "pattern": "Let's + [động từ nguyên thể].",
+      "use": "Chốt một hành động chung cho cả nhóm.",
+      "register": "casual",
+      "examples": [
+        "Let's split the cost between everyone.",
+        "Let's meet an hour earlier to set everything up."
+      ],
+      "explanationVi": "'Let's' (= Let us) là cách rủ cả nhóm cùng làm và thường dùng để chốt quyết định cuối. Theo sau là động từ nguyên thể."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi muốn đính chính hoặc nêu một ý hơi khác mà không cộc lốc.", "example": "Actually, I think Sunday would work better for most people." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một ý kiến chân thành, đôi khi hơi trái ý số đông.", "example": "To be honest, I'd rather keep it small and cozy." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Đồng ý hoặc khẳng định mạnh mẽ với một gợi ý.", "example": "We should definitely invite the whole team." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn chen thêm một ý ngoài lề, chuyển nhẹ chủ đề.", "example": "By the way, who's going to bring the cake?" },
+    { "term": "hopefully", "ipa": "/ˈhəʊp.fəl.i/", "vi": "hy vọng là", "when": "Bày tỏ kỳ vọng về một kết quả tốt.", "example": "Hopefully, everyone can make it on Saturday." }
+  ],
+
+  "dialogue": {
+    "context": "Hai người bạn, Minh và Linh, đang ngồi cà phê bàn nhau tổ chức một bữa tiệc sinh nhật bất ngờ cho người bạn chung tên Mai.",
+    "lines": [
+      {
+        "speaker": "Minh",
+        "text": "Mai's birthday is coming up soon, so why don't we ____ a surprise party for her? I think she'd really love it, especially because she's been so stressed with work lately.",
+        "ipa": "/meɪz ˈbɜːθ.deɪ ɪz ˈkʌm.ɪŋ ʌp suːn səʊ waɪ dəʊnt wiː ____ ə səˈpraɪz ˈpɑːr.ti fɔːr hɜː aɪ θɪŋk ʃiːd ˈrɪə.li lʌv ɪt ɪˈspeʃ.əl.i bɪˈkɒz ʃiːz biːn səʊ strest wɪð wɜːk ˈleɪt.li/",
+        "vi": "Sinh nhật Mai sắp tới rồi, hay tụi mình ____ một bữa tiệc bất ngờ cho cô ấy nhỉ? Mình nghĩ cô ấy sẽ thích lắm, nhất là vì dạo này cô ấy stress vì công việc.",
+        "blanks": [
+          { "type": "knowledge", "answer": "throw", "explanationVi": "Cụm 'throw a party' nghĩa là 'tổ chức tiệc', rất tự nhiên giữa bạn bè. Đi sau 'why don't we' nên dùng động từ nguyên thể 'throw'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "That sounds like a wonderful idea! Although planning a surprise can be a bit tricky, I'm sure it'll be exciting. ____ about having it at my place on Saturday evening?",
+        "ipa": "/ðæt saʊndz laɪk ə ˈwʌn.də.fəl aɪˈdɪə ɔːlˈðəʊ ˈplæn.ɪŋ ə səˈpraɪz kæn biː ə bɪt ˈtrɪk.i aɪm ʃʊər ɪtl biː ɪkˈsaɪ.tɪŋ ____ əˈbaʊt ˈhæv.ɪŋ ɪt ət maɪ pleɪs ɒn ˈsæt.ə.deɪ ˈiːv.nɪŋ/",
+        "vi": "Nghe hay đấy! Mặc dù lên kế hoạch một bữa tiệc bất ngờ hơi rắc rối, nhưng mình chắc là sẽ rất vui. Hay tổ chức ở nhà mình vào tối thứ Bảy thì ____?",
+        "blanks": [
+          { "type": "knowledge", "answer": "How", "explanationVi": "Mẫu gợi ý 'How about + V-ing/danh từ?' để đề xuất một phương án (ở đây là 'having it at my place'). Xem mẫu câu 'How about...?'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "I'm not sure about Saturday, ____ a few of our friends usually work late on weekends. How about Sunday afternoon instead? That way, more people could actually come.",
+        "ipa": "/aɪm nɒt ʃʊər əˈbaʊt ˈsæt.ə.deɪ ____ ə fjuː ɒv aʊə frendz ˈjuːʒ.u.ə.li wɜːk leɪt ɒn ˈwiːk.endz haʊ əˈbaʊt ˈsʌn.deɪ ˈɑːf.tə.nuːn ɪnˈsted ðæt weɪ mɔː ˈpiːp.əl kʊd ˈæk.tʃu.ə.li kʌm/",
+        "vi": "Mình không chắc về thứ Bảy lắm, ____ vài người bạn của tụi mình hay làm việc muộn vào cuối tuần. Hay là chiều Chủ nhật thì sao? Như vậy thật ra sẽ có nhiều người đến được hơn.",
+        "blanks": [
+          { "type": "knowledge", "answer": "because", "explanationVi": "Dùng 'because' để nêu lý do cho việc phản đối nhẹ nhàng. Xem mẫu câu 'I'm not sure about..., because...'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Good point. Sunday works for me too. Shall I take care of the food and drinks? We could ask everyone to bring a dish, ____ as spring rolls, salads or desserts, so it becomes a fun potluck.",
+        "ipa": "/ɡʊd pɔɪnt ˈsʌn.deɪ wɜːks fɔː miː tuː ʃæl aɪ teɪk keər ɒv ðə fuːd ænd drɪŋks wiː kʊd ɑːsk ˈev.ri.wʌn tə brɪŋ ə dɪʃ ____ æz sprɪŋ rəʊlz ˈsæl.ədz ɔː dɪˈzɜːts səʊ ɪt bɪˈkʌmz ə fʌn ˈpɒt.lʌk/",
+        "vi": "Ý hay đó. Chủ nhật mình cũng rảnh. Hay để mình lo phần đồ ăn thức uống nhé? Tụi mình có thể nhờ mỗi người mang một món, ____ như chả giò, salad hay món tráng miệng, để biến nó thành một bữa potluck vui vẻ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "Cụm 'such as' dùng để nêu ví dụ minh họa cho 'a dish'. Xem mẫu câu 'We could..., such as...'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Perfect. Then I'll handle the decorations, ____ balloons and fairy lights, since I want the room to look really festive. By the way, who do you think we should put on the ____?",
+        "ipa": "/ˈpɜː.fɪkt ðen aɪl ˈhæn.dəl ðə ˌdek.əˈreɪ.ʃənz ____ bəˈluːnz ænd ˈfeə.ri laɪts sɪns aɪ wɒnt ðə ruːm tə lʊk ˈrɪə.li ˈfes.tɪv baɪ ðə weɪ huː duː juː θɪŋk wiː ʃʊd pʊt ɒn ðə ____/",
+        "vi": "Tuyệt. Vậy mình sẽ lo phần trang trí, ____ bóng bay và đèn nháy, vì mình muốn căn phòng trông thật rộn ràng. Tiện thể, bạn nghĩ tụi mình nên cho ai vào ____ nhỉ?",
+        "blanks": [
+          { "type": "knowledge", "answer": "such as", "explanationVi": "Lại dùng 'such as' để nêu ví dụ cho 'decorations' (balloons, fairy lights). Đây là cách làm câu cụ thể, dễ hình dung." },
+          { "type": "knowledge", "answer": "guest list", "explanationVi": "'guest list' = danh sách khách mời. Cụm danh từ quen thuộc khi lên kế hoạch ai sẽ được mời đến tiệc." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Let's invite our close friends and a few of her colleagues ____ she really gets along with. If everyone ____ in around two hundred thousand đồng each, the budget should be more than enough.",
+        "ipa": "/lets ɪnˈvaɪt aʊə kləʊs frendz ænd ə fjuː ɒv hɜː ˈkɒl.iːɡz ____ ʃiː ˈrɪə.li ɡets əˈlɒŋ wɪð ɪf ˈev.ri.wʌn ____ ɪn əˈraʊnd tuː ˈhʌn.drəd ˈθaʊ.zənd dɒŋ iːtʃ ðə ˈbʌdʒ.ɪt ʃʊd biː mɔː ðæn ɪˈnʌf/",
+        "vi": "Hãy mời nhóm bạn thân và một vài đồng nghiệp mà cô ấy ____ thật sự thân thiết. Nếu mỗi người ____ khoảng hai trăm nghìn đồng thì ngân sách sẽ thừa sức.",
+        "blanks": [
+          { "type": "knowledge", "answer": "who", "explanationVi": "Dùng đại từ quan hệ 'who' để nối mệnh đề mô tả 'colleagues' (người). Nếu là vật thì dùng 'which/that'." },
+          { "type": "knowledge", "answer": "chips", "explanationVi": "Cụm 'chip in' nghĩa là 'cùng góp tiền'. Sau 'everyone' (số ít) nên chia động từ thêm -s: 'chips in'." }
+        ]
+      },
+      {
+        "speaker": "Minh",
+        "text": "Sounds like a solid plan. Let's meet at your place around ____ to set everything up before the guests arrive. I'm really looking forward to seeing Mai's face when she walks in!",
+        "ipa": "/saʊndz laɪk ə ˈsɒl.ɪd plæn lets miːt ət jɔː pleɪs əˈraʊnd ____ tə set ˈev.ri.θɪŋ ʌp bɪˈfɔː ðə ɡests əˈraɪv aɪm ˈrɪə.li ˈlʊk.ɪŋ ˈfɔː.wəd tə ˈsiː.ɪŋ meɪz feɪs wen ʃiː wɔːks ɪn/",
+        "vi": "Nghe có vẻ là một kế hoạch chắc chắn rồi. Hãy gặp nhau ở nhà bạn khoảng ____ để bày biện mọi thứ trước khi khách đến. Mình thật sự rất mong được thấy biểu cảm của Mai lúc cô ấy bước vào!",
+        "blanks": [
+          { "type": "personal", "hint": "Giờ hẹn gặp để chuẩn bị. Ví dụ: 'two o'clock' hoặc '2 p.m.'." }
+        ]
+      },
+      {
+        "speaker": "Linh",
+        "text": "Me too! I'll send out the invitations tonight and create a group chat so we can share updates. Honestly, although it's a lot of work, I think it's going to be a ____ day for her.",
+        "ipa": "/miː tuː aɪl send aʊt ði ˌɪn.vɪˈteɪ.ʃənz təˈnaɪt ænd kriˈeɪt ə ɡruːp tʃæt səʊ wiː kæn ʃeər ʌpˈdeɪts ˈɒn.ɪst.li ɔːlˈðəʊ ɪts ə lɒt ɒv wɜːk aɪ θɪŋk ɪts ˈɡəʊ.ɪŋ tə biː ə ____ deɪ fɔː hɜː/",
+        "vi": "Mình cũng vậy! Tối nay mình sẽ gửi thiệp mời và lập một nhóm chat để tụi mình cập nhật cho nhau. Thành thật mà nói, mặc dù tốn khá nhiều công, mình nghĩ đây sẽ là một ngày ____ với cô ấy.",
+        "blanks": [
+          { "type": "personal", "hint": "Một tính từ tả buổi tiệc/ngày hôm đó. Ví dụ: 'memorable', 'special', 'wonderful'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Tiệc kiểu 'potluck' rất phổ biến ở phương Tây: mỗi khách mang một món đến góp, vừa đỡ tốn cho chủ nhà vừa đa dạng món ăn.",
+    "Với tiệc bất ngờ (surprise party), người ta thường dặn nhau giữ bí mật tuyệt đối và đến sớm trước 'nhân vật chính' để núp và hô 'Surprise!'.",
+    "Khi bạn bè rủ tổ chức chung, việc 'chip in' (mỗi người góp một ít) được coi là bình thường và công bằng, không ngại ngần như ở một số nơi.",
+    "Nếu được mời (RSVP), nên trả lời sớm là có đến hay không, và nếu mang thêm người thì nên hỏi chủ tiệc trước (gọi là '+1')."
+  ],
+
+  "commonMistakes": [
+    "Sau 'How about' và 'look forward to' phải dùng V-ing, không phải động từ nguyên thể: 'How about going...', 'looking forward to seeing...', KHÔNG phải 'to go / to see'.",
+    "Nhầm 'exciting' (sự việc thú vị) với 'excited' (người cảm thấy hào hứng): 'The party is exciting' nhưng 'I am excited'.",
+    "Sau 'why don't we' và 'let's' phải là động từ nguyên thể không 'to': 'Why don't we throw...', 'Let's meet...', KHÔNG phải 'to throw / to meet'.",
+    "Dùng 'I want...' để gợi ý nghe hơi áp đặt. Với bạn bè nên dùng 'Why don't we...?', 'How about...?', 'We could...' cho mềm mại."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống bàn kế hoạch tiệc như thật.",
+    "prompt": "Hãy đóng vai một người bạn nói tiếng Anh đang cùng tôi lên kế hoạch tổ chức một bữa tiệc (sinh nhật, tân gia, hoặc chia tay). Hãy bắt đầu bằng cách rủ tôi bàn kế hoạch. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người bạn (đồng ý, phản đối nhẹ, hoặc đề xuất thêm ý tưởng), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng các mẫu 'Why don't we...?', 'How about...?', 'We could..., such as...' và 'I'm not sure about..., because...'. Thỉnh thoảng hãy tạo một tình huống bất ngờ (ví dụ ngân sách bị cắt, địa điểm bận, có khách dị ứng đồ ăn) để tôi tập xử lý. Cuối buổi, hãy chấm điểm và nêu 3 điểm tôi cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy nói nhanh hơn một chút như người bản xứ thật.' khi bạn đã quen.",
+      "Thêm câu: 'Hãy đưa ra nhiều tình huống bất ngờ hơn để tôi tập phản ứng linh hoạt.' để nâng độ khó."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi đưa ra được ít nhất 2 gợi ý bằng 'Why don't we...?' hoặc 'How about...?' mà không cần nhìn gợi ý.",
+    "Tôi phản đối được một ý kiến một cách lịch sự bằng 'I'm not sure about..., because...'.",
+    "Tôi nhận và phân chia được công việc chuẩn bị (đồ ăn, trang trí, khách mời) bằng câu hoàn chỉnh."
+  ]
+}

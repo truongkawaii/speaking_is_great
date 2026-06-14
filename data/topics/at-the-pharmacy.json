@@ -1,0 +1,325 @@
+{
+  "id": "at-the-pharmacy",
+  "category": "daily-life",
+  "title": "Ở hiệu thuốc",
+  "titleEn": "At the Pharmacy",
+  "level": "A2",
+  "functions": ["asking-info", "requesting", "describing", "handling-problems"],
+  "estimatedMinutes": 12,
+  "objectives": [
+    "Mô tả triệu chứng đơn giản cho dược sĩ (đau đầu, ho, sốt)",
+    "Hỏi mua thuốc và cách dùng (liều lượng, mấy lần một ngày)",
+    "Đưa toa thuốc và hỏi xem có cần kê toa không",
+    "Hỏi giá và đề nghị lịch sự bằng 'Could I...?' / 'I'd like...'"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "pharmacy",
+      "ipa": "/ˈfɑːr.mə.si/",
+      "vi": "hiệu thuốc, nhà thuốc (danh từ)",
+      "register": "neutral",
+      "example": "There is a pharmacy next to the supermarket.",
+      "exampleVi": "Có một hiệu thuốc bên cạnh siêu thị.",
+      "note": "Danh từ. Người Anh (Anh-Anh) hay gọi là 'chemist's'. Người làm việc ở đó là 'pharmacist'.",
+      "synonyms": [
+        { "term": "drugstore", "ipa": "/ˈdrʌɡ.stɔːr/", "register": "neutral", "nuanceVi": "Cách nói của người Mỹ, chỉ cửa hàng vừa bán thuốc vừa bán đồ lặt vặt (mỹ phẩm, đồ ăn nhẹ)." },
+        { "term": "chemist's", "ipa": "/ˈkem.ɪsts/", "register": "neutral", "nuanceVi": "Cách nói của người Anh cho 'hiệu thuốc'. Người Mỹ không dùng từ này theo nghĩa này." }
+      ]
+    },
+    {
+      "term": "medicine",
+      "ipa": "/ˈmed.ɪ.sən/",
+      "vi": "thuốc (danh từ)",
+      "register": "neutral",
+      "example": "I need some medicine for a cough.",
+      "exampleVi": "Tôi cần ít thuốc trị ho.",
+      "note": "Danh từ, thường không đếm được. 'Take medicine' = uống/dùng thuốc, không dùng 'drink' hay 'eat'.",
+      "synonyms": [
+        { "term": "drug", "ipa": "/drʌɡ/", "register": "neutral", "nuanceVi": "Mang nghĩa khoa học hơn (hoạt chất). Lưu ý 'drug' cũng có nghĩa 'ma túy', nên nói thuốc thường thì 'medicine' an toàn hơn." },
+        { "term": "remedy", "ipa": "/ˈrem.ə.di/", "register": "formal", "nuanceVi": "Nhấn ý 'phương thuốc chữa bệnh', hơi trang trọng; hay dùng cho cách chữa dân gian: 'a home remedy'." }
+      ]
+    },
+    {
+      "term": "prescription",
+      "ipa": "/prɪˈskrɪp.ʃən/",
+      "vi": "toa thuốc (do bác sĩ kê) (danh từ)",
+      "register": "neutral",
+      "example": "Here is my prescription from the doctor.",
+      "exampleVi": "Đây là toa thuốc bác sĩ kê cho tôi.",
+      "note": "Danh từ. Thuốc cần toa gọi là 'prescription medicine'; thuốc mua không cần toa là 'over-the-counter'."
+    },
+    {
+      "term": "symptom",
+      "ipa": "/ˈsɪmp.təm/",
+      "vi": "triệu chứng (danh từ)",
+      "register": "neutral",
+      "example": "A headache and a fever are common symptoms.",
+      "exampleVi": "Đau đầu và sốt là những triệu chứng thường gặp.",
+      "note": "Danh từ. Chú ý chữ 'p' câm nhẹ, đọc /ˈsɪmp.təm/. Dùng để mô tả dấu hiệu bệnh."
+    },
+    {
+      "term": "headache",
+      "ipa": "/ˈhed.eɪk/",
+      "vi": "cơn đau đầu (danh từ)",
+      "register": "neutral",
+      "example": "I have a bad headache today.",
+      "exampleVi": "Hôm nay tôi bị đau đầu nặng.",
+      "note": "Danh từ đếm được: 'a headache'. Tương tự: 'stomachache' (đau bụng), 'toothache' (đau răng).",
+      "synonyms": [
+        { "term": "migraine", "ipa": "/ˈmaɪ.ɡreɪn/", "register": "neutral", "nuanceVi": "Chỉ chứng đau nửa đầu nặng, dữ dội. Đừng dùng cho cơn đau đầu nhẹ bình thường." }
+      ]
+    },
+    {
+      "term": "painkiller",
+      "ipa": "/ˈpeɪnˌkɪl.ər/",
+      "vi": "thuốc giảm đau (danh từ)",
+      "register": "neutral",
+      "example": "Can I buy some painkillers, please?",
+      "exampleVi": "Tôi mua ít thuốc giảm đau được không?",
+      "note": "Danh từ. Loại thông dụng: paracetamol, ibuprofen. Thường mua không cần toa.",
+      "synonyms": [
+        { "term": "pain reliever", "ipa": "/ˈpeɪn rɪˌliː.vər/", "register": "neutral", "nuanceVi": "Nghĩa gần như y hệt 'painkiller', nghe hơi trang trọng/lịch sự hơn một chút, hay thấy trên bao bì sản phẩm." }
+      ]
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "gợi ý, khuyên dùng (động từ)",
+      "register": "neutral",
+      "example": "Could you recommend something for a sore throat?",
+      "exampleVi": "Anh/chị có thể gợi ý gì cho chứng đau họng không?",
+      "note": "Động từ. Câu hữu ích để hỏi dược sĩ nên dùng thuốc gì.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Nhẹ hơn 'recommend', chỉ là đưa ra một ý tưởng để cân nhắc; 'recommend' nghe như lời khuyên chắc chắn hơn." },
+        { "term": "to advise", "ipa": "/ədˈvaɪz/", "register": "formal", "nuanceVi": "Trang trọng, mang nghĩa 'khuyên bảo' (thường từ chuyên gia). Lưu ý: động từ là 'advise', danh từ là 'advice'." }
+      ]
+    },
+    {
+      "term": "dosage",
+      "ipa": "/ˈdəʊ.sɪdʒ/",
+      "vi": "liều lượng (danh từ)",
+      "register": "neutral",
+      "example": "Please follow the dosage on the box.",
+      "exampleVi": "Vui lòng làm theo liều lượng ghi trên hộp.",
+      "note": "Danh từ. 'A dose' là một liều cụ thể; 'dosage' là cách dùng liều nói chung (bao nhiêu, mấy lần)."
+    },
+    {
+      "term": "to feel",
+      "ipa": "/fiːl/",
+      "vi": "cảm thấy (động từ)",
+      "register": "neutral",
+      "example": "I feel a bit dizzy and tired.",
+      "exampleVi": "Tôi thấy hơi chóng mặt và mệt.",
+      "note": "Động từ bất quy tắc: feel - felt - felt. Dùng để mô tả tình trạng cơ thể: 'I feel sick / dizzy / weak'."
+    },
+    {
+      "term": "sick",
+      "ipa": "/sɪk/",
+      "vi": "ốm, khó chịu trong người (tính từ)",
+      "register": "neutral",
+      "example": "My son has been sick since yesterday.",
+      "exampleVi": "Con trai tôi bị ốm từ hôm qua.",
+      "note": "Tính từ. Ở Anh-Anh, 'to be sick' còn có nghĩa 'nôn ói'; muốn nói chung là ốm thì người Anh hay dùng 'ill'.",
+      "synonyms": [
+        { "term": "ill", "ipa": "/ɪl/", "register": "neutral", "nuanceVi": "Người Anh dùng 'ill' cho 'ốm' nhiều hơn 'sick'. Nghe hơi trang trọng và rõ nghĩa hơn một chút." },
+        { "term": "unwell", "ipa": "/ʌnˈwel/", "register": "formal", "nuanceVi": "Lịch sự, nhẹ nhàng, nghĩa 'không khỏe'. Hay dùng khi muốn nói tế nhị: 'I'm feeling a little unwell.'" }
+      ]
+    },
+    {
+      "term": "regularly",
+      "ipa": "/ˈreɡ.jə.lə.li/",
+      "vi": "đều đặn, thường xuyên (trạng từ)",
+      "register": "neutral",
+      "example": "Take this medicine regularly, twice a day.",
+      "exampleVi": "Uống thuốc này đều đặn, ngày hai lần.",
+      "note": "Trạng từ. Quan trọng khi nói về cách dùng thuốc theo lịch cố định.",
+      "synonyms": [
+        { "term": "frequently", "ipa": "/ˈfriː.kwənt.li/", "register": "neutral", "nuanceVi": "Nhấn 'nhiều lần', nhưng không nhất thiết theo lịch cố định như 'regularly' (đều đặn, có nhịp)." }
+      ]
+    },
+    {
+      "term": "available",
+      "ipa": "/əˈveɪ.lə.bəl/",
+      "vi": "có sẵn, còn hàng (tính từ)",
+      "register": "neutral",
+      "example": "Is this medicine available without a prescription?",
+      "exampleVi": "Thuốc này có bán mà không cần toa không?",
+      "note": "Tính từ. Dùng để hỏi cửa hàng còn hàng hay một loại thuốc có bán hay không."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I have a [triệu chứng] and I feel [tính từ].",
+      "use": "Mô tả triệu chứng cho dược sĩ một cách đơn giản.",
+      "register": "neutral",
+      "examples": [
+        "I have a headache and I feel tired.",
+        "I have a sore throat and I feel a bit weak."
+      ],
+      "explanationVi": "Mẫu cơ bản nhất để báo bệnh. 'have a + triệu chứng' (a headache, a cough, a fever) kết hợp 'feel + tính từ' (tired, dizzy). Câu ngắn, dễ nhớ, rất hợp cấp A2."
+    },
+    {
+      "pattern": "Could you recommend something for [bệnh/triệu chứng]?",
+      "use": "Nhờ dược sĩ gợi ý thuốc phù hợp.",
+      "register": "neutral",
+      "examples": [
+        "Could you recommend something for a cough?",
+        "Could you recommend something for a fever?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. 'something for + bệnh' nghĩa là 'thứ gì đó để trị...'. Câu vàng khi bạn không biết tên thuốc.",
+      "altOf": "asking-pharmacist"
+    },
+    {
+      "pattern": "Do you have anything for [bệnh/triệu chứng]?",
+      "use": "Hỏi xem hiệu thuốc có thuốc trị triệu chứng đó không.",
+      "register": "neutral",
+      "examples": [
+        "Do you have anything for a headache?",
+        "Do you have anything for an upset stomach?"
+      ],
+      "explanationVi": "Cách hỏi gần giống 'Could you recommend...?' nhưng thiên về 'cửa hàng có hàng không'. Dùng 'anything' trong câu hỏi (không phải 'something').",
+      "altOf": "asking-pharmacist"
+    },
+    {
+      "pattern": "How often should I take it?",
+      "use": "Hỏi cách dùng thuốc (mấy lần một ngày).",
+      "register": "neutral",
+      "examples": [
+        "How often should I take it?",
+        "How many times a day should I take this?"
+      ],
+      "explanationVi": "'How often' = bao lâu một lần. 'should I take' dùng để xin lời khuyên về cách dùng. Trả lời thường là 'twice a day', 'every eight hours'."
+    },
+    {
+      "pattern": "Is it available without a prescription?",
+      "use": "Hỏi xem có cần toa bác sĩ để mua thuốc không.",
+      "register": "neutral",
+      "examples": [
+        "Is it available without a prescription?",
+        "Can I buy this without a prescription?"
+      ],
+      "explanationVi": "'without a prescription' = không cần toa. Rất hữu ích vì nhiều loại thuốc ở nước ngoài bắt buộc phải có toa mới mua được."
+    },
+    {
+      "pattern": "I'd like to buy some [thuốc], please.",
+      "use": "Yêu cầu mua thuốc một cách lịch sự.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to buy some painkillers, please.",
+        "I'd like to buy some cough syrup, please."
+      ],
+      "explanationVi": "'I'd like to' (= I would like to) lịch sự hơn nhiều so với 'I want to'. 'some' dùng cho danh từ không đếm được hoặc số nhiều chung chung."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi cần đính chính hoặc nói thêm thông tin nhẹ nhàng.", "example": "Actually, the headache started two days ago." },
+    { "term": "a little", "ipa": "/ə ˈlɪt.əl/", "vi": "một chút", "when": "Khi mô tả triệu chứng ở mức nhẹ cho khỏi nói quá.", "example": "I feel a little dizzy this morning." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, how much does it cost?" },
+    { "term": "of course", "ipa": "/əv ˈkɔːrs/", "vi": "tất nhiên rồi", "when": "Khi đồng ý hoặc đáp lại lịch sự một yêu cầu.", "example": "Of course, here is your medicine." },
+    { "term": "carefully", "ipa": "/ˈkeə.fəl.i/", "vi": "một cách cẩn thận", "when": "Khi nhắc nhở làm gì đó cẩn thận, ví dụ đọc hướng dẫn.", "example": "Please read the label carefully before you take it." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn bị đau đầu và hơi sốt nên ghé một hiệu thuốc để mua thuốc và hỏi cách dùng.",
+    "lines": [
+      {
+        "speaker": "Dược sĩ",
+        "text": "Hello, welcome to the pharmacy. How can I help you today?",
+        "ipa": "/həˈləʊ ˈwel.kəm tə ðə ˈfɑːr.mə.si haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Xin chào, hân hạnh đón bạn đến hiệu thuốc. Hôm nay tôi có thể giúp gì cho bạn?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Hi. I have a bad ____ and I feel a little tired. Could you recommend something for it?",
+        "ipa": "/haɪ aɪ hæv ə bæd ... ænd aɪ fiːl ə ˈlɪt.əl ˈtaɪəd kʊd juː ˌrek.əˈmend ˈsʌm.θɪŋ fɔːr ɪt/",
+        "vi": "Chào anh/chị. Tôi bị ____ nặng và thấy hơi mệt. Anh/chị có thể gợi ý gì cho nó không?",
+        "blanks": [
+          { "type": "personal", "hint": "Triệu chứng của bạn. Ví dụ: 'headache' (đau đầu), 'cough' (ho)." }
+        ]
+      },
+      {
+        "speaker": "Dược sĩ",
+        "text": "I'm sorry to hear that. Do you have any other symptoms, such as a fever or a sore throat?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt duː juː hæv ˈen.i ˈʌð.ər ˈsɪmp.təmz sʌtʃ æz ə ˈfiː.vər ɔːr ə sɔːr θrəʊt/",
+        "vi": "Rất tiếc khi nghe vậy. Bạn có triệu chứng nào khác không, chẳng hạn như sốt hay đau họng?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Yes, actually I have a slight fever too. Do you have anything ____ both a headache and a fever?",
+        "ipa": "/jes ˈæk.tʃu.ə.li aɪ hæv ə slaɪt ˈfiː.vər tuː duː juː hæv ˈen.i.θɪŋ ... bəʊθ ə ˈhed.eɪk ænd ə ˈfiː.vər/",
+        "vi": "Có, thật ra tôi cũng hơi sốt. Anh/chị có loại nào trị ____ cả đau đầu lẫn sốt không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "for", "explanationVi": "Dùng giới từ 'for' để chỉ thuốc dùng để trị bệnh gì: 'anything for a headache'. Xem mẫu câu 'Do you have anything for...?'." }
+        ]
+      },
+      {
+        "speaker": "Dược sĩ",
+        "text": "Of course. This painkiller is very popular, and although it is quite strong, it is completely safe if you follow the dosage.",
+        "ipa": "/əv ˈkɔːrs ðɪs ˈpeɪnˌkɪl.ər ɪz ˈver.i ˈpɒp.jə.lər ænd ɔːlˈðəʊ ɪt ɪz kwaɪt strɒŋ ɪt ɪz kəmˈpliːt.li seɪf ɪf juː ˈfɒl.əʊ ðə ˈdəʊ.sɪdʒ/",
+        "vi": "Tất nhiên rồi. Loại thuốc giảm đau này rất được ưa chuộng, và mặc dù nó khá mạnh, nhưng hoàn toàn an toàn nếu bạn dùng đúng liều."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds good. How often ____ I take it, and is it available without a prescription?",
+        "ipa": "/ðæt saʊndz ɡʊd haʊ ˈɒf.ən ... aɪ teɪk ɪt ænd ɪz ɪt əˈveɪ.lə.bəl wɪˈðaʊt ə prɪˈskrɪp.ʃən/",
+        "vi": "Nghe ổn đấy. Tôi ____ uống bao lâu một lần, và thuốc này có bán mà không cần toa không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "should", "explanationVi": "Dùng 'should' để xin lời khuyên về cách dùng: 'How often should I take it?'. 'should' đứng trước chủ ngữ 'I' trong câu hỏi." }
+        ]
+      },
+      {
+        "speaker": "Dược sĩ",
+        "text": "You should take one tablet twice a day, and yes, it is available without a prescription. However, please read the label carefully before you use it.",
+        "ipa": "/juː ʃʊd teɪk wʌn ˈtæb.lət twaɪs ə deɪ ænd jes ɪt ɪz əˈveɪ.lə.bəl wɪˈðaʊt ə prɪˈskrɪp.ʃən haʊˈev.ər pliːz riːd ðə ˈleɪ.bəl ˈkeə.fəl.i bɪˈfɔːr juː juːz ɪt/",
+        "vi": "Bạn nên uống một viên, ngày hai lần, và vâng, thuốc này bán mà không cần toa. Tuy nhiên, hãy đọc kỹ hướng dẫn trên nhãn trước khi dùng."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Thank you so much. I'd like to buy ____ box, please. By the way, how much does it cost?",
+        "ipa": "/θæŋk juː səʊ mʌtʃ aɪd laɪk tə baɪ ... bɒks pliːz baɪ ðə weɪ haʊ mʌtʃ dʌz ɪt kɒst/",
+        "vi": "Cảm ơn anh/chị nhiều. Tôi muốn mua ____ hộp ạ. Tiện thể, giá bao nhiêu vậy?",
+        "blanks": [
+          { "type": "knowledge", "answer": "one", "explanationVi": "Dùng 'one' (một) trước danh từ đếm được số ít 'box'. Có thể thay bằng 'a' nhưng 'one box' nhấn rõ số lượng hơn." }
+        ]
+      },
+      {
+        "speaker": "Dược sĩ",
+        "text": "It's five dollars. Take care, and I hope you feel better soon!",
+        "ipa": "/ɪts faɪv ˈdɒl.əz teɪk keər ænd aɪ həʊp juː fiːl ˈbet.ər suːn/",
+        "vi": "Năm đô la ạ. Bạn giữ gìn sức khỏe nhé, và mong bạn sớm khỏe lại!"
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước phương Tây, nhiều loại thuốc (như kháng sinh) bắt buộc phải có toa của bác sĩ ('prescription'), không thể tự ý mua như ở Việt Nam.",
+    "Dược sĩ ('pharmacist') được xem như chuyên gia y tế: bạn có thể nhờ họ tư vấn các triệu chứng nhẹ trước khi cần đi khám bác sĩ.",
+    "Người Anh thường gọi hiệu thuốc là 'the chemist's', còn người Mỹ gọi là 'pharmacy' hoặc 'drugstore' - đều cùng nghĩa.",
+    "Luôn đọc kỹ nhãn thuốc ('label') và liều dùng ('dosage'); nói 'I'm allergic to...' (tôi bị dị ứng với...) nếu bạn có tiền sử dị ứng thuốc."
+  ],
+
+  "commonMistakes": [
+    "Nói 'I am headache' là sai. Phải dùng 'I have a headache' (bị đau đầu) - dùng động từ 'have' + mạo từ 'a'.",
+    "Dùng 'drink medicine' hoặc 'eat medicine'. Đúng là 'take medicine' (uống/dùng thuốc).",
+    "Nói cộc lốc 'Give me painkillers'. Hãy lịch sự: 'I'd like to buy some painkillers, please.' hoặc 'Could I get...?'.",
+    "Nhầm 'medicine' (thuốc) với 'medical' (thuộc về y tế, là tính từ). 'Medicine' là danh từ chỉ thuốc."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống mua thuốc như thật.",
+    "prompt": "Hãy đóng vai một dược sĩ nói tiếng Anh ở hiệu thuốc. Tôi là khách đến mua thuốc. Hãy bắt đầu bằng cách chào và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một dược sĩ thật, hỏi thêm về triệu chứng và gợi ý thuốc, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ thuốc tôi cần phải có toa, hoặc cửa hàng hết loại đó) để tôi tập xử lý. Hãy nói chậm rãi, thân thiện và dùng câu đơn giản phù hợp trình độ A2. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi xem có bị dị ứng thuốc nào không (allergic to).' để học thêm từ.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và cách sửa.' để rút kinh nghiệm."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mô tả được triệu chứng của mình bằng 'I have a... and I feel...' mà không nhìn gợi ý.",
+    "Tôi hỏi được cách dùng thuốc bằng 'How often should I take it?'.",
+    "Tôi dùng được mẫu lịch sự 'Could you recommend something for...?' hoặc 'I'd like to buy...'."
+  ]
+}

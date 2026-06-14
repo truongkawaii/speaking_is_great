@@ -1,0 +1,353 @@
+{
+  "id": "client-meeting",
+  "category": "work",
+  "title": "Gặp khách hàng",
+  "titleEn": "Meeting a Client",
+  "level": "B2",
+  "functions": ["greetings", "small-talk", "suggesting", "negotiating", "opinions"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Chào hỏi, mở đầu buổi gặp khách hàng một cách chuyên nghiệp và tự nhiên",
+    "Trình bày đề xuất, lợi ích sản phẩm bằng câu dài, mạch lạc và thuyết phục",
+    "Xử lý phản đối về giá và thương lượng điều khoản một cách khéo léo",
+    "Chốt buổi gặp, thống nhất bước tiếp theo và lịch theo dõi",
+    "Dùng ngữ pháp nâng cao (such as, although, not only… but also, in order to, despite) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "proposal",
+      "ipa": "/prəˈpəʊ.zəl/",
+      "vi": "đề xuất / bản đề nghị (danh từ)",
+      "register": "neutral",
+      "example": "We've prepared a detailed proposal that addresses all of your concerns.",
+      "exampleVi": "Chúng tôi đã chuẩn bị một bản đề xuất chi tiết giải quyết mọi lo ngại của quý vị.",
+      "note": "Danh từ. Trong gặp khách hàng, 'proposal' là bản trình bày giải pháp/giá. Động từ liên quan: 'to propose'.",
+      "synonyms": [
+        { "term": "offer", "ipa": "/ˈɒf.ər/", "register": "neutral", "nuanceVi": "Đời thường hơn, nhấn vào 'thứ đưa ra để bên kia cân nhắc nhận hay không', thường gắn với giá/điều kiện cụ thể." },
+        { "term": "pitch", "ipa": "/pɪtʃ/", "register": "casual", "nuanceVi": "Thiên về 'màn chào bán thuyết phục, ngắn gọn'. Nghe năng động, hay dùng trong khởi nghiệp/bán hàng nhanh." }
+      ]
+    },
+    {
+      "term": "requirement",
+      "ipa": "/rɪˈkwaɪə.mənt/",
+      "vi": "yêu cầu / điều kiện cần (danh từ)",
+      "register": "neutral",
+      "example": "Before we go any further, I'd like to understand your requirements in detail.",
+      "exampleVi": "Trước khi đi sâu hơn, tôi muốn hiểu rõ các yêu cầu của quý vị.",
+      "note": "Danh từ, thường dùng số nhiều khi nói về tổng thể nhu cầu của khách hàng.",
+      "synonyms": [
+        { "term": "needs", "ipa": "/niːdz/", "register": "neutral", "nuanceVi": "Đời thường và rộng hơn, nhấn vào 'điều khách thật sự cần'. 'Understand your needs' nghe gần gũi, lấy khách làm trung tâm." },
+        { "term": "specifications", "ipa": "/ˌspes.ɪ.fɪˈkeɪ.ʃənz/", "register": "formal", "nuanceVi": "Trang trọng, kỹ thuật, nhấn 'thông số/chi tiết cụ thể phải đáp ứng'. Hay viết tắt là 'specs' trong nói chuyện." }
+      ]
+    },
+    {
+      "term": "benefit",
+      "ipa": "/ˈben.ɪ.fɪt/",
+      "vi": "lợi ích (danh từ)",
+      "register": "neutral",
+      "example": "The main benefit of our solution is that it saves you both time and money.",
+      "exampleVi": "Lợi ích chính của giải pháp là tiết kiệm cả thời gian lẫn tiền bạc cho quý vị.",
+      "note": "Danh từ. Bán hàng giỏi là nói 'benefit' (cái khách được) chứ không chỉ 'feature' (tính năng). Động từ: 'to benefit from'.",
+      "synonyms": [
+        { "term": "advantage", "ipa": "/ədˈvɑːn.tɪdʒ/", "register": "neutral", "nuanceVi": "Nhấn 'ưu thế so với lựa chọn khác'. Dùng khi muốn so sánh với đối thủ: 'Our key advantage is…'." },
+        { "term": "value", "ipa": "/ˈvæl.juː/", "register": "neutral", "nuanceVi": "Nhấn 'giá trị tổng thể đáng đồng tiền'. Cụm 'add value' rất hay dùng để biện minh cho giá." }
+      ]
+    },
+    {
+      "term": "to negotiate",
+      "ipa": "/nəˈɡəʊ.ʃi.eɪt/",
+      "vi": "thương lượng (động từ)",
+      "register": "neutral",
+      "example": "We're open to negotiating the terms in order to find a fair deal for both sides.",
+      "exampleVi": "Chúng tôi sẵn sàng thương lượng điều khoản để đi đến một thỏa thuận công bằng cho cả hai.",
+      "note": "Động từ. Đi với 'the terms / the price / a deal'. Danh từ: 'negotiation'.",
+      "synonyms": [
+        { "term": "to bargain", "ipa": "/ˈbɑː.ɡɪn/", "register": "casual", "nuanceVi": "Đời thường, nhấn 'mặc cả qua lại về giá', hợp chợ búa/mua bán nhỏ hơn là bàn hợp đồng trang trọng." },
+        { "term": "to haggle", "ipa": "/ˈhæɡ.əl/", "register": "casual", "nuanceVi": "Nhấn 'kì kèo, cò cưa dai dẳng từng đồng'. Hơi tiêu cực, tránh dùng trong cuộc họp chuyên nghiệp." }
+      ]
+    },
+    {
+      "term": "competitive",
+      "ipa": "/kəmˈpet.ɪ.tɪv/",
+      "vi": "cạnh tranh (về giá/chất lượng) (tính từ)",
+      "register": "neutral",
+      "example": "Our pricing is very competitive compared to other providers on the market.",
+      "exampleVi": "Mức giá của chúng tôi rất cạnh tranh so với các nhà cung cấp khác trên thị trường.",
+      "note": "Tính từ. 'competitive price' = giá tốt, dễ cạnh tranh. Trạng từ: 'competitively priced'.",
+      "synonyms": [
+        { "term": "reasonable", "ipa": "/ˈriː.zən.ə.bəl/", "register": "neutral", "nuanceVi": "Nhấn 'hợp lý, không đắt quá đáng'. Nhẹ nhàng hơn 'competitive', không hàm ý so kè với đối thủ." },
+        { "term": "cost-effective", "ipa": "/ˌkɒst.ɪˈfek.tɪv/", "register": "formal", "nuanceVi": "Nhấn 'đáng đồng tiền, hiệu quả so với chi phí bỏ ra'. Hay dùng để biện minh giá cao bằng giá trị nhận lại." }
+      ]
+    },
+    {
+      "term": "to address",
+      "ipa": "/əˈdres/",
+      "vi": "giải quyết / xử lý (mối lo, vấn đề) (động từ)",
+      "register": "formal",
+      "example": "Let me address your concern about the delivery timeline.",
+      "exampleVi": "Để tôi giải quyết mối lo của quý vị về thời gian giao hàng.",
+      "note": "Động từ. 'address a concern/issue' nghe chuyên nghiệp hơn 'solve a problem' khi đang trấn an khách hàng.",
+      "synonyms": [
+        { "term": "to tackle", "ipa": "/ˈtæk.əl/", "register": "neutral", "nuanceVi": "Năng động hơn, nhấn 'bắt tay vào xử lý điều khó'. Nghe chủ động, quyết liệt." },
+        { "term": "to deal with", "ipa": "/diːl wɪð/", "register": "neutral", "nuanceVi": "Đời thường, an toàn, nghĩa rộng 'xử lý/lo liệu'. Dễ dùng nhưng kém trang trọng hơn 'address'." }
+      ]
+    },
+    {
+      "term": "deadline",
+      "ipa": "/ˈded.laɪn/",
+      "vi": "hạn chót (danh từ)",
+      "register": "neutral",
+      "example": "We can guarantee delivery well before your deadline.",
+      "exampleVi": "Chúng tôi có thể đảm bảo giao hàng trước hạn chót của quý vị từ sớm.",
+      "note": "Danh từ. 'meet a deadline' = kịp hạn; 'miss a deadline' = trễ hạn; 'tight deadline' = hạn gấp.",
+      "synonyms": [
+        { "term": "timeline", "ipa": "/ˈtaɪm.laɪn/", "register": "neutral", "nuanceVi": "Nhấn 'cả lộ trình thời gian từ đầu đến cuối', không chỉ mốc cuối. 'project timeline' = tiến độ dự án." },
+        { "term": "due date", "ipa": "/ˈdjuː deɪt/", "register": "neutral", "nuanceVi": "Nhấn vào 'ngày đến hạn cụ thể'. Đơn giản, hay dùng cho thanh toán hoặc bàn giao." }
+      ]
+    },
+    {
+      "term": "promising",
+      "ipa": "/ˈprɒm.ɪ.sɪŋ/",
+      "vi": "đầy hứa hẹn / triển vọng (tính từ)",
+      "register": "neutral",
+      "example": "This partnership looks very promising for both of our companies.",
+      "exampleVi": "Mối hợp tác này trông rất hứa hẹn cho cả hai công ty.",
+      "note": "Tính từ mang sắc thái TÍCH CỰC, dùng để khen triển vọng của một cơ hội/đề xuất.",
+      "synonyms": [
+        { "term": "encouraging", "ipa": "/ɪnˈkʌr.ɪ.dʒɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'tạo cảm giác lạc quan, đáng để tiếp tục'. Nói về tín hiệu/kết quả ban đầu." },
+        { "term": "lucrative", "ipa": "/ˈluː.krə.tɪv/", "register": "formal", "nuanceVi": "Nhấn riêng 'sinh lời, hái ra tiền'. Chỉ dùng khi muốn nhấn khía cạnh lợi nhuận tài chính." }
+      ]
+    },
+    {
+      "term": "to follow up",
+      "ipa": "/ˈfɒl.əʊ ʌp/",
+      "vi": "theo dõi / liên hệ tiếp sau buổi gặp (động từ)",
+      "register": "neutral",
+      "example": "I'll follow up with a detailed email by the end of the week.",
+      "exampleVi": "Tôi sẽ liên hệ lại bằng một email chi tiết vào cuối tuần.",
+      "note": "Cụm động từ. Danh từ là 'follow-up' (có gạch nối): 'a follow-up meeting'. Rất quan trọng để giữ liên lạc với khách.",
+      "synonyms": [
+        { "term": "to get back to", "ipa": "/ɡet bæk tuː/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'phản hồi lại sau': 'I'll get back to you tomorrow.' Nhẹ và thân thiện hơn." }
+      ]
+    },
+    {
+      "term": "thoroughly",
+      "ipa": "/ˈθʌr.ə.li/",
+      "vi": "một cách kỹ lưỡng (trạng từ)",
+      "register": "neutral",
+      "example": "We've thoroughly reviewed your current setup before designing this solution.",
+      "exampleVi": "Chúng tôi đã rà soát kỹ lưỡng hệ thống hiện tại của quý vị trước khi thiết kế giải pháp này.",
+      "note": "Trạng từ. Bẫy phát âm: /ˈθʌr.ə.li/, KHÔNG đọc như 'through'. Tạo ấn tượng làm việc cẩn thận, chuyên nghiệp.",
+      "synonyms": [
+        { "term": "carefully", "ipa": "/ˈkeə.fəl.i/", "register": "neutral", "nuanceVi": "Phổ biến, an toàn, nhấn 'thận trọng'. Nhẹ hơn 'thoroughly' (vốn nhấn 'phủ hết mọi chi tiết')." },
+        { "term": "in depth", "ipa": "/ɪn depθ/", "register": "neutral", "nuanceVi": "Cụm trạng ngữ, nhấn 'đi sâu, chi tiết': 'We analyzed it in depth.'" }
+      ]
+    },
+    {
+      "term": "smoothly",
+      "ipa": "/ˈsmuːð.li/",
+      "vi": "một cách suôn sẻ / trơn tru (trạng từ)",
+      "register": "neutral",
+      "example": "We'll make sure the transition runs smoothly without disrupting your daily operations.",
+      "exampleVi": "Chúng tôi sẽ đảm bảo quá trình chuyển đổi diễn ra suôn sẻ, không làm gián đoạn hoạt động hằng ngày của quý vị.",
+      "note": "Trạng từ. Hay đi với 'run / go smoothly'. Trấn an khách rằng mọi thứ sẽ êm xuôi.",
+      "synonyms": [
+        { "term": "seamlessly", "ipa": "/ˈsiːm.lə.sli/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'liền mạch, không có chỗ gãy/đứt quãng'. Rất hay dùng cho công nghệ/tích hợp hệ thống." }
+      ]
+    },
+    {
+      "term": "to follow through",
+      "ipa": "/ˈfɒl.əʊ θruː/",
+      "vi": "thực hiện đến cùng (cam kết) (động từ)",
+      "register": "neutral",
+      "example": "We always follow through on our commitments, even when challenges arise.",
+      "exampleVi": "Chúng tôi luôn thực hiện cam kết đến cùng, kể cả khi gặp khó khăn.",
+      "note": "Cụm động từ, đi với 'on something'. Đừng nhầm với 'follow up' (liên hệ tiếp) — 'follow through' là 'làm tới cùng điều đã hứa'."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Thank you for taking the time to meet with us today; shall we [V]?",
+      "use": "Mở đầu buổi gặp một cách lịch sự rồi đề nghị bắt đầu.",
+      "register": "formal",
+      "examples": [
+        "Thank you for taking the time to meet with us today; shall we get started?"
+      ],
+      "explanationVi": "'Thank you for taking the time to…' là câu mở chuẩn mực, thể hiện tôn trọng quỹ thời gian của khách. 'Shall we…?' đề nghị nhẹ nhàng cùng bắt đầu, nghe nhã nhặn hơn 'Let's start'."
+    },
+    {
+      "pattern": "Before we begin, I'd like to make sure I understand your [danh từ] correctly.",
+      "use": "Xác nhận lại nhu cầu/yêu cầu của khách trước khi trình bày.",
+      "register": "formal",
+      "examples": [
+        "Before we begin, I'd like to make sure I understand your requirements correctly."
+      ],
+      "explanationVi": "Mở đầu bằng việc lắng nghe và xác nhận nhu cầu khách thể hiện sự chuyên nghiệp, lấy khách làm trung tâm, tránh nói lan man không trúng vấn đề."
+    },
+    {
+      "pattern": "The main benefit of our [danh từ] is that it [mệnh đề], such as [ví dụ].",
+      "use": "Trình bày lợi ích chính kèm ví dụ cụ thể.",
+      "register": "neutral",
+      "examples": [
+        "The main benefit of our platform is that it automates routine tasks, such as invoicing and reporting."
+      ],
+      "explanationVi": "'such as' nêu ví dụ minh họa, làm lợi ích trở nên cụ thể, dễ hình dung và thuyết phục hơn nói chung chung.",
+      "altOf": "presenting-benefit"
+    },
+    {
+      "pattern": "Not only does it [V], but it also [V].",
+      "use": "Nhấn mạnh sản phẩm/giải pháp mang lại nhiều hơn một lợi ích.",
+      "register": "formal",
+      "examples": [
+        "Not only does it reduce costs, but it also improves accuracy."
+      ],
+      "explanationVi": "Đảo ngữ: khi 'Not only' đứng đầu câu phải đảo trợ động từ lên trước chủ ngữ ('does it'). Cấu trúc nâng cao, gây ấn tượng — nhưng phải đảo đúng kẻo sai ngữ pháp.",
+      "altOf": "presenting-benefit"
+    },
+    {
+      "pattern": "I completely understand your concern; however, [mệnh đề].",
+      "use": "Ghi nhận lo ngại của khách rồi đưa ra phản hồi thuyết phục.",
+      "register": "formal",
+      "examples": [
+        "I completely understand your concern about the price; however, our solution will pay for itself within a year."
+      ],
+      "explanationVi": "Công thức 'thừa nhận trước, phản biện sau': trấn an khách bằng cách công nhận lo ngại, rồi dùng 'however' (tuy nhiên) để xoay sang lợi ích. Nghe khéo hơn là phản bác thẳng.",
+      "altOf": "handling-objection"
+    },
+    {
+      "pattern": "Although [mệnh đề], we'd be happy to [V] in order to [mục đích].",
+      "use": "Nhượng bộ một phần khi thương lượng nhưng vẫn nêu rõ thiện chí và mục đích.",
+      "register": "formal",
+      "examples": [
+        "Although our standard rate is fixed, we'd be happy to offer a discount in order to build a long-term partnership."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…), 'in order to' nêu mục đích. Bộ đôi này giúp bạn thương lượng vừa giữ giá trị, vừa thể hiện thiện chí hợp tác.",
+      "altOf": "handling-objection"
+    },
+    {
+      "pattern": "To sum up, the next step would be to [V]; I'll follow up with [danh từ].",
+      "use": "Chốt buổi gặp, tóm tắt và thống nhất bước tiếp theo.",
+      "register": "formal",
+      "examples": [
+        "To sum up, the next step would be to sign the agreement; I'll follow up with a detailed proposal by Friday."
+      ],
+      "explanationVi": "'To sum up' tóm lược cuối buổi. Luôn chốt bằng một 'next step' cụ thể và cam kết 'follow up' để giữ đà và thể hiện chuyên nghiệp."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần đính chính hoặc bổ sung thông tin mà không muốn nghe gay gắt.", "example": "Actually, we can deliver even faster than that." },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn", "when": "Khẳng định mạnh một cam kết để khách yên tâm.", "example": "We can definitely meet that deadline." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một câu trả lời chân thành, tạo cảm giác tin cậy.", "example": "To be honest, that's one of the most common requests we get." },
+    { "term": "particularly", "ipa": "/pəˈtɪk.jə.lə.li/", "vi": "đặc biệt là", "when": "Nhấn vào một điểm nổi bật trong nhiều điểm.", "example": "Our clients are particularly impressed by the after-sales support." },
+    { "term": "as you can see", "ipa": "/əz juː kæn siː/", "vi": "như quý vị thấy đấy", "when": "Dẫn dắt khi trình bày số liệu, slide, ví dụ trực quan.", "example": "As you can see, the costs drop significantly after the first quarter." },
+    { "term": "moving forward", "ipa": "/ˈmuː.vɪŋ ˈfɔː.wəd/", "vi": "từ giờ trở đi / về sau", "when": "Khi chuyển sang nói về kế hoạch và bước tiếp theo.", "example": "Moving forward, we'll assign a dedicated account manager to your team." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là đại diện của một công ty cung cấp giải pháp phần mềm, đang gặp một khách hàng tiềm năng để giới thiệu sản phẩm, xử lý thắc mắc về giá và chốt bước tiếp theo.",
+    "lines": [
+      {
+        "speaker": "Khách hàng",
+        "text": "Good morning. Thanks for coming over. I've heard a lot about your company, so I'm quite curious to see what you can offer us.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ θæŋks fɔːr ˈkʌm.ɪŋ ˈəʊ.vər aɪv hɜːd ə lɒt əˈbaʊt jɔːr ˈkʌm.pə.ni səʊ aɪm kwaɪt ˈkjʊə.ri.əs tə siː wɒt juː kæn ˈɒf.ər ʌs/",
+        "vi": "Chào buổi sáng. Cảm ơn anh/chị đã đến. Tôi nghe nói nhiều về công ty của anh/chị, nên khá tò mò muốn xem các bạn có thể mang lại gì cho chúng tôi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, and thank you for taking the time to meet with us today. Before we begin, I'd like to make sure I understand your ____ correctly, so that our proposal addresses exactly what matters most to you.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ænd θæŋk juː fɔːr ˈteɪ.kɪŋ ðə taɪm tə miːt wɪð ʌs təˈdeɪ bɪˈfɔːr wiː bɪˈɡɪn aɪd laɪk tə meɪk ʃɔːr aɪ ˌʌn.dəˈstænd jɔːr ... kəˈrekt.li/",
+        "vi": "Chào buổi sáng, và cảm ơn quý vị đã dành thời gian gặp chúng tôi hôm nay. Trước khi bắt đầu, tôi muốn chắc rằng mình hiểu đúng ____ của quý vị, để bản đề xuất của chúng tôi nhắm trúng điều quan trọng nhất với quý vị.",
+        "blanks": [
+          { "type": "knowledge", "answer": "requirements", "explanationVi": "Dùng 'requirements' (các yêu cầu/nhu cầu của khách). Mở đầu bằng việc xác nhận nhu cầu thể hiện sự chuyên nghiệp. Xem mẫu câu 'Before we begin, I'd like to make sure I understand your requirements correctly.'" }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "Well, our biggest issue is that our current system is slow and our team wastes hours on manual reports every single week.",
+        "ipa": "/wel ˈaʊə ˈbɪ.ɡəst ˈɪʃ.uː ɪz ðæt ˈaʊə ˈkʌr.ənt ˈsɪs.təm ɪz sləʊ ænd ˈaʊə tiːm weɪsts ˈaʊəz ɒn ˈmæn.ju.əl rɪˈpɔːts ˈev.ri ˈsɪŋ.ɡəl wiːk/",
+        "vi": "Vấn đề lớn nhất của chúng tôi là hệ thống hiện tại chạy chậm, và đội ngũ tốn hàng giờ làm báo cáo thủ công mỗi tuần."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's exactly where we can help. The main benefit of our platform is that it automates repetitive work, ____ as invoicing and weekly reporting. Not only does it cut that workload dramatically, but it also reduces human error.",
+        "ipa": "/ðæts ɪɡˈzækt.li weər wiː kæn help ðə meɪn ˈben.ɪ.fɪt ɒv ˈaʊə ˈplæt.fɔːm ɪz ðæt ɪt ˈɔː.tə.meɪts rɪˈpet.ə.tɪv wɜːk ... æz ˈɪn.vɔɪ.sɪŋ ænd ˈwiːk.li rɪˈpɔː.tɪŋ/",
+        "vi": "Đó chính là chỗ chúng tôi có thể giúp. Lợi ích chính của nền tảng là tự động hóa các công việc lặp đi lặp lại, ____ như xuất hóa đơn và làm báo cáo hằng tuần. Nó không chỉ cắt giảm mạnh khối lượng việc đó, mà còn giảm sai sót do con người.",
+        "blanks": [
+          { "type": "knowledge", "answer": "such", "explanationVi": "Điền 'such' để tạo cụm 'such as' (ví dụ như), nêu ví dụ minh họa cho 'repetitive work'. Xem mẫu câu 'The main benefit of our… is that it…, such as…'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "That does sound promising, but honestly, your pricing seems a little high compared with the other vendors we've talked to.",
+        "ipa": "/ðæt dʌz saʊnd ˈprɒm.ɪ.sɪŋ bʌt ˈɒn.ɪst.li jɔːr ˈpraɪ.sɪŋ siːmz ə ˈlɪt.əl haɪ kəmˈpeəd wɪð ðə ˈʌð.ə ˈven.dəz wiːv tɔːkt tuː/",
+        "vi": "Nghe khá hứa hẹn đấy, nhưng thật lòng, mức giá của các bạn có vẻ hơi cao so với những nhà cung cấp khác mà chúng tôi đã trao đổi."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I completely understand your concern; ____, our solution is actually very cost-effective in the long run, because it pays for itself within the first year through the time your team saves.",
+        "ipa": "/aɪ kəmˈpliːt.li ˌʌn.dəˈstænd jɔːr kənˈsɜːn ... ˈaʊə səˈluː.ʃən ɪz ˈæk.tʃu.ə.li ˈver.i ˌkɒst.ɪˈfek.tɪv ɪn ðə lɒŋ rʌn bɪˈkɒz ɪt peɪz fɔːr ɪtˈself wɪˈðɪn ðə fɜːst jɪər/",
+        "vi": "Tôi hoàn toàn hiểu mối lo của quý vị; ____, giải pháp của chúng tôi thực ra rất đáng đồng tiền về lâu dài, vì nó tự bù lại chi phí ngay trong năm đầu nhờ thời gian mà đội ngũ của quý vị tiết kiệm được.",
+        "blanks": [
+          { "type": "knowledge", "answer": "however", "explanationVi": "Dùng 'however' (tuy nhiên) để xoay từ việc ghi nhận lo ngại sang lợi ích. Công thức 'thừa nhận trước, phản biện sau'. Xem mẫu câu 'I completely understand your concern; however,…'." }
+        ]
+      },
+      {
+        "speaker": "Khách hàng",
+        "text": "I see your point. Still, the budget on our side is fairly tight this quarter, so is there any room to adjust the terms?",
+        "ipa": "/aɪ siː jɔːr pɔɪnt stɪl ðə ˈbʌdʒ.ɪt ɒn ˈaʊə saɪd ɪz ˈfeə.li taɪt ðɪs ˈkwɔː.tər səʊ ɪz ðeər ˈen.i ruːm tə əˈdʒʌst ðə tɜːmz/",
+        "vi": "Tôi hiểu ý anh/chị. Dù vậy, ngân sách phía chúng tôi quý này khá eo hẹp, nên liệu có thể điều chỉnh điều khoản chút nào không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "____ our standard rate is normally fixed, we'd be happy to offer a phased payment plan in order to fit your budget, which should make the first quarter much easier for your team.",
+        "ipa": "/... ˈaʊə ˈstæn.dəd reɪt ɪz ˈnɔː.mə.li fɪkst wiːd biː ˈhæp.i tə ˈɒf.ər ə feɪzd ˈpeɪ.mənt plæn ɪn ˈɔː.də tə fɪt jɔːr ˈbʌdʒ.ɪt wɪtʃ ʃʊd meɪk ðə fɜːst ˈkwɔː.tər mʌtʃ ˈiː.zi.ə fɔːr jɔːr tiːm/",
+        "vi": "____ mức giá tiêu chuẩn của chúng tôi thường là cố định, chúng tôi rất sẵn lòng đề xuất một kế hoạch thanh toán theo từng đợt để phù hợp với ngân sách của quý vị, điều này sẽ giúp quý đầu tiên nhẹ nhàng hơn nhiều cho đội ngũ của quý vị.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (mặc dù) mở mệnh đề nhượng bộ: dù giá cố định, vẫn linh hoạt cách trả. Kết hợp 'in order to' nêu mục đích. Xem mẫu câu 'Although…, we'd be happy to… in order to…'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "So, to sum up, the next step would be to arrange a short demo for your team; I'll ____ up with a detailed proposal and the revised payment plan by ____.",
+        "ipa": "/səʊ tə sʌm ʌp ðə nekst step wʊd biː tu əˈreɪndʒ ə ʃɔːt ˈdem.əʊ fɔːr jɔːr tiːm aɪl ... ʌp wɪð ə ˈdiː.teɪld prəˈpəʊ.zəl ænd ðə rɪˈvaɪzd ˈpeɪ.mənt plæn baɪ .../",
+        "vi": "Vậy, tóm lại, bước tiếp theo sẽ là sắp xếp một buổi demo ngắn cho đội của quý vị; tôi sẽ ____ lại bằng một bản đề xuất chi tiết và kế hoạch thanh toán đã điều chỉnh trước ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "follow", "explanationVi": "Cụm 'follow up' (liên hệ/theo dõi tiếp sau buổi gặp). Chốt buổi luôn nên có cam kết 'follow up'. Xem mẫu câu 'To sum up, the next step would be to…; I'll follow up with…'." },
+          { "type": "personal", "hint": "Mốc thời gian bạn cam kết gửi. Ví dụ: 'Friday', 'the end of the week'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong văn hóa kinh doanh phương Tây, vài câu small-talk ngắn lúc đầu (thời tiết, chuyến đi, tin tức ngành) giúp phá băng, nhưng nên vào việc tương đối nhanh vì họ coi trọng thời gian.",
+    "Khi trình bày, hãy nói về 'benefit' (lợi ích khách nhận được) thay vì chỉ liệt kê 'feature' (tính năng). Đính kèm con số cụ thể ('saves 10 hours a week') luôn thuyết phục hơn nói chung chung.",
+    "Phản đối về giá là chuyện bình thường, không nên xem là từ chối. Hãy thừa nhận lo ngại trước ('I understand your concern') rồi mới phản biện bằng giá trị — đừng hạ giá ngay lập tức.",
+    "Luôn kết thúc bằng 'next step' rõ ràng và một email follow-up. Người phương Tây đánh giá cao đối tác chủ động, đúng hẹn và thực hiện cam kết đến cùng (follow through)."
+  ],
+
+  "commonMistakes": [
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it reduce…', không phải 'Not only it reduces…'.",
+    "Nhầm 'follow up' (liên hệ tiếp sau buổi gặp) với 'follow through' (thực hiện cam kết đến cùng) — hai cụm khác nghĩa.",
+    "Hạ giá quá nhanh khi khách kêu đắt. Hãy nhấn 'value / cost-effective' trước, chỉ nhượng bộ có điều kiện ('Although…, we'd be happy to…').",
+    "Trả lời cộc lốc ('Yes', 'No problem'). Hãy mở rộng bằng mệnh đề phụ (which/because/in order to) để nghe trôi chảy, chuyên nghiệp."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gặp khách hàng như thật.",
+    "prompt": "Hãy đóng vai một khách hàng tiềm năng nói tiếng Anh đang gặp tôi để nghe tôi giới thiệu sản phẩm/dịch vụ mà tôi sẽ nêu. Hãy bắt đầu bằng cách chào và nói ngắn gọn về nhu cầu của bạn. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một khách hàng thật, đôi khi nêu phản đối về giá hoặc thời gian giao hàng để tôi tập xử lý, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt chuyên nghiệp hơn bằng tiếng Việt, (3) khuyến khích tôi dùng câu dài với 'such as', 'although', 'not only… but also', 'in order to' và 'however'. Cuối buổi, hãy chấm điểm phần trình bày của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng lời chào nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy đóng vai một khách hàng khó tính, liên tục đòi giảm giá để tôi tập giữ vững giá trị.'",
+      "Thêm: 'Hãy thêm một người ra quyết định thứ hai trong cuộc họp với ý kiến trái chiều.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở đầu buổi gặp và xác nhận nhu cầu khách bằng câu dài, không cần nhìn gợi ý.",
+    "Tôi trình bày lợi ích kèm ví dụ ('such as') và dùng đảo ngữ 'not only… but also' đúng.",
+    "Tôi xử lý được phản đối về giá ('however', 'although… in order to') và chốt được bước tiếp theo."
+  ]
+}

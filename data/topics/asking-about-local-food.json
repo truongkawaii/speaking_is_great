@@ -1,0 +1,342 @@
+{
+  "id": "asking-about-local-food",
+  "category": "travel",
+  "title": "Hỏi về món ăn địa phương",
+  "titleEn": "Asking About Local Food",
+  "level": "B1",
+  "functions": ["asking-info", "suggesting", "opinions", "describing"],
+  "estimatedMinutes": 15,
+  "objectives": [
+    "Hỏi về món đặc sản và món nên thử ở một địa phương",
+    "Hỏi về nguyên liệu, độ cay và món chay khi gọi đồ ăn",
+    "Bày tỏ sở thích, đề nghị và xin gợi ý món ăn một cách lịch sự",
+    "Mô tả hương vị món ăn bằng câu vừa phải có 'such as', 'because', 'so'"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "specialty",
+      "ipa": "/ˈspeʃ.əl.ti/",
+      "vi": "món đặc sản (danh từ)",
+      "register": "neutral",
+      "example": "Pho is a local specialty that you really should try.",
+      "exampleVi": "Phở là một món đặc sản địa phương mà bạn thực sự nên thử.",
+      "note": "Danh từ. Chỉ món nổi tiếng nhất, đặc trưng của một vùng. Anh-Anh viết là 'speciality'.",
+      "synonyms": [
+        { "term": "signature dish", "ipa": "/ˈsɪɡ.nə.tʃər dɪʃ/", "register": "neutral", "nuanceVi": "Nhấn vào 'món làm nên tên tuổi' của một quán hoặc đầu bếp cụ thể, không chỉ của cả vùng." },
+        { "term": "delicacy", "ipa": "/ˈdel.ɪ.kə.si/", "register": "formal", "nuanceVi": "Trang trọng hơn, chỉ món ngon quý/hiếm, đôi khi lạ miệng. Nghe sang nhưng ít dùng đời thường." }
+      ]
+    },
+    {
+      "term": "dish",
+      "ipa": "/dɪʃ/",
+      "vi": "món ăn (danh từ)",
+      "register": "neutral",
+      "example": "What's the most popular dish here?",
+      "exampleVi": "Món phổ biến nhất ở đây là gì?",
+      "note": "Danh từ. 'dish' = một món cụ thể; khác 'food' (đồ ăn nói chung, không đếm được). Đừng nói 'a food'.",
+      "synonyms": [
+        { "term": "meal", "ipa": "/miːl/", "register": "neutral", "nuanceVi": "Chỉ cả bữa ăn (sáng/trưa/tối), không phải một món lẻ. 'a three-course meal' = bữa ba món." },
+        { "term": "course", "ipa": "/kɔːrs/", "register": "neutral", "nuanceVi": "Một 'phần' trong bữa ăn theo trình tự (khai vị, món chính, tráng miệng). Vd 'the main course'." }
+      ]
+    },
+    {
+      "term": "ingredient",
+      "ipa": "/ɪnˈɡriː.di.ənt/",
+      "vi": "nguyên liệu, thành phần (danh từ)",
+      "register": "neutral",
+      "example": "Could you tell me what the main ingredients are?",
+      "exampleVi": "Bạn có thể cho tôi biết nguyên liệu chính là gì không?",
+      "note": "Danh từ, thường dùng số nhiều khi nói về thành phần một món. Hữu ích khi bạn bị dị ứng và cần hỏi rõ."
+    },
+    {
+      "term": "spicy",
+      "ipa": "/ˈspaɪ.si/",
+      "vi": "cay (tính từ)",
+      "register": "neutral",
+      "example": "Is this dish very spicy?",
+      "exampleVi": "Món này có cay lắm không?",
+      "note": "Tính từ. 'spicy' = cay (do ớt/tiêu). Đừng nhầm với 'hot' có thể nghĩa là 'nóng'. 'mild' = ít cay/dịu.",
+      "synonyms": [
+        { "term": "hot", "ipa": "/hɒt/", "register": "casual", "nuanceVi": "Đời thường, cũng nghĩa 'cay', nhưng dễ gây hiểu nhầm là 'nóng'. Nói 'spicy hot' cho rõ nếu cần." },
+        { "term": "mild", "ipa": "/maɪld/", "register": "neutral", "nuanceVi": "Trái nghĩa: 'dịu, ít cay'. Dùng khi bạn muốn món không cay: 'Can you make it mild?'" }
+      ]
+    },
+    {
+      "term": "tasty",
+      "ipa": "/ˈteɪ.sti/",
+      "vi": "ngon (tính từ)",
+      "register": "casual",
+      "example": "The noodles were really tasty.",
+      "exampleVi": "Mì rất ngon.",
+      "note": "Tính từ, đời thường, nghĩa 'ngon miệng'. Khen món ăn thì dùng thoải mái.",
+      "synonyms": [
+        { "term": "delicious", "ipa": "/dɪˈlɪʃ.əs/", "register": "neutral", "nuanceVi": "Phổ biến và lịch sự nhất để khen 'rất ngon'. An toàn trong mọi ngữ cảnh." },
+        { "term": "flavourful", "ipa": "/ˈfleɪ.və.fəl/", "register": "neutral", "nuanceVi": "Nhấn 'đậm đà, nhiều hương vị', không chỉ ngon chung chung. Nghe tinh tế khi mô tả món." },
+        { "term": "scrumptious", "ipa": "/ˈskrʌmp.ʃəs/", "register": "casual", "nuanceVi": "Rất đời thường, nghĩa 'ngon tuyệt'. Hơi cảm thán, hợp lúc trò chuyện thân mật." }
+      ]
+    },
+    {
+      "term": "to recommend",
+      "ipa": "/ˌrek.əˈmend/",
+      "vi": "gợi ý, giới thiệu (động từ)",
+      "register": "neutral",
+      "example": "What would you recommend for someone trying our food for the first time?",
+      "exampleVi": "Bạn gợi ý gì cho người lần đầu thử món ăn của các bạn?",
+      "note": "Động từ. Câu xin gợi ý kinh điển: 'What do you recommend?'. Lưu ý: 'recommend somebody to do' nghe sai; nói 'recommend doing' hoặc 'recommend that you do'.",
+      "synonyms": [
+        { "term": "to suggest", "ipa": "/səˈdʒest/", "register": "neutral", "nuanceVi": "Gần nghĩa, nhẹ hơn một chút, mang tính 'đề xuất để bạn cân nhắc'. Cũng đi với V-ing: 'suggest trying'." }
+      ]
+    },
+    {
+      "term": "vegetarian",
+      "ipa": "/ˌvedʒ.əˈteə.ri.ən/",
+      "vi": "(món) chay; người ăn chay (tính từ/danh từ)",
+      "register": "neutral",
+      "example": "Do you have any vegetarian options?",
+      "exampleVi": "Các bạn có món chay nào không?",
+      "note": "Vừa là tính từ vừa là danh từ. 'vegan' (thuần chay) khắt khe hơn: không cả trứng, sữa, mật ong."
+    },
+    {
+      "term": "to try",
+      "ipa": "/traɪ/",
+      "vi": "thử (động từ)",
+      "register": "neutral",
+      "example": "I'd love to try something authentic.",
+      "exampleVi": "Tôi rất muốn thử món gì đó đúng vị truyền thống.",
+      "note": "Động từ. Nói về món ăn, 'try' = nếm thử. 'I'd love to try...' nghe háo hức, lịch sự."
+    },
+    {
+      "term": "authentic",
+      "ipa": "/ɔːˈθen.tɪk/",
+      "vi": "đúng vị truyền thống, chính gốc (tính từ)",
+      "register": "neutral",
+      "example": "I'm looking for an authentic local restaurant, not a tourist trap.",
+      "exampleVi": "Tôi đang tìm một nhà hàng địa phương đúng vị, không phải chỗ chuyên chặt chém khách du lịch.",
+      "note": "Tính từ. Nhấn 'thật, đúng kiểu bản địa'. Rất hợp khi muốn ăn ngon đúng điệu.",
+      "synonyms": [
+        { "term": "traditional", "ipa": "/trəˈdɪʃ.ən.əl/", "register": "neutral", "nuanceVi": "Nhấn 'theo cách làm lâu đời'. Gần nghĩa nhưng thiên về 'truyền thống' hơn là 'thật/chính gốc'." }
+      ]
+    },
+    {
+      "term": "to order",
+      "ipa": "/ˈɔː.dər/",
+      "vi": "gọi món, đặt món (động từ)",
+      "register": "neutral",
+      "example": "Shall we order a few dishes to share?",
+      "exampleVi": "Chúng ta gọi vài món để ăn chung nhé?",
+      "note": "Động từ. 'order' = gọi món ở quán; danh từ 'an order' = phần gọi/đơn hàng."
+    },
+    {
+      "term": "freshly",
+      "ipa": "/ˈfreʃ.li/",
+      "vi": "một cách tươi mới (trạng từ)",
+      "register": "neutral",
+      "example": "The seafood is freshly caught every morning.",
+      "exampleVi": "Hải sản được đánh bắt tươi mỗi sáng.",
+      "note": "Trạng từ, hay đi trước quá khứ phân từ: 'freshly made / freshly cooked / freshly caught'.",
+      "synonyms": [
+        { "term": "newly", "ipa": "/ˈnjuː.li/", "register": "neutral", "nuanceVi": "Nhấn 'mới (về thời gian)', vd 'newly opened restaurant'. Ít dùng cho đồ ăn tươi bằng 'freshly'." }
+      ]
+    },
+    {
+      "term": "filling",
+      "ipa": "/ˈfɪl.ɪŋ/",
+      "vi": "no bụng, chắc dạ (tính từ)",
+      "register": "casual",
+      "example": "This noodle soup is really filling.",
+      "exampleVi": "Món bún này ăn rất no.",
+      "note": "Tính từ, nghĩa 'ăn vào thấy no, đầy bụng'. Khác 'fulfilling' (thỏa mãn về mặt cảm xúc) — đừng nhầm."
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "What's the local specialty here?",
+      "use": "Hỏi món đặc sản tiêu biểu của vùng/quán.",
+      "register": "neutral",
+      "examples": [
+        "What's the local specialty here?",
+        "What's this area famous for?"
+      ],
+      "explanationVi": "Câu mở đầu chuẩn khi muốn ăn đúng món đặc trưng. 'be famous for' = nổi tiếng về (món gì).",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "What would you recommend?",
+      "use": "Xin nhân viên/người địa phương gợi ý món nên gọi.",
+      "register": "neutral",
+      "examples": [
+        "What would you recommend?",
+        "What would you recommend for a first-time visitor?"
+      ],
+      "explanationVi": "'would' làm câu nghe lịch sự, nhờ vả nhẹ nhàng. Hỏi gợi ý là cách nhanh nhất để ăn ngon ở chỗ lạ.",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "Could you suggest a dish that isn't too [tính từ]?",
+      "use": "Xin gợi ý món hợp khẩu vị (không quá cay/quá mặn...).",
+      "register": "neutral",
+      "examples": [
+        "Could you suggest a dish that isn't too spicy?",
+        "Could you suggest something that isn't too heavy?"
+      ],
+      "explanationVi": "'Could you...?' lịch sự hơn 'Can you...?'. Mệnh đề quan hệ 'that isn't too...' giúp bạn nêu rõ điều kiện khẩu vị.",
+      "altOf": "asking-recommendation"
+    },
+    {
+      "pattern": "Is this dish [tính từ]?",
+      "use": "Hỏi đặc điểm món ăn (cay, chay, có thịt...).",
+      "register": "neutral",
+      "examples": [
+        "Is this dish spicy?",
+        "Is this dish vegetarian?"
+      ],
+      "explanationVi": "Câu hỏi Yes/No đơn giản để xác nhận đặc điểm trước khi gọi. Hữu ích khi bạn kiêng cay hoặc ăn chay."
+    },
+    {
+      "pattern": "I'd like to try something [tính từ], such as [ví dụ].",
+      "use": "Nói rõ kiểu món bạn muốn thử và nêu ví dụ.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to try something authentic, such as a local noodle dish.",
+        "I'd like to try something light, such as a fresh salad."
+      ],
+      "explanationVi": "'I'd like to try' nghe háo hức và lịch sự. 'such as' để nêu ví dụ minh họa — nói rõ ví dụ giúp người ta gợi ý trúng ý hơn."
+    },
+    {
+      "pattern": "Do you have any [danh từ] options?",
+      "use": "Hỏi xem có lựa chọn theo nhu cầu riêng (chay, không gluten...).",
+      "register": "neutral",
+      "examples": [
+        "Do you have any vegetarian options?",
+        "Do you have any gluten-free options?"
+      ],
+      "explanationVi": "'options' = các lựa chọn. Mẫu câu rất tự nhiên để hỏi món phù hợp với chế độ ăn của bạn."
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì...", "when": "Khi đính chính hoặc nói điều hơi khác ý mà không cộc lốc.", "example": "Actually, I'd prefer something that isn't too spicy." },
+    { "term": "honestly", "ipa": "/ˈɒn.ɪst.li/", "vi": "thành thật mà nói", "when": "Mở đầu một nhận xét chân thành về món ăn.", "example": "Honestly, this is the best pho I've ever had." },
+    { "term": "by the way", "ipa": "/baɪ ðə ˈweɪ/", "vi": "tiện thể, nhân tiện", "when": "Khi muốn hỏi thêm một câu ngoài lề.", "example": "By the way, is the seafood here fresh?" },
+    { "term": "definitely", "ipa": "/ˈdef.ɪn.ət.li/", "vi": "chắc chắn rồi", "when": "Khẳng định mạnh khi đồng ý thử/gọi món.", "example": "I'll definitely try that, thank you." },
+    { "term": "probably", "ipa": "/ˈprɒb.ə.bli/", "vi": "có lẽ là", "when": "Khi chưa chắc chắn, đưa ý kiến nhẹ nhàng.", "example": "I'll probably go for the grilled fish." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn là khách du lịch, vừa bước vào một nhà hàng địa phương vào buổi trưa và hỏi nhân viên phục vụ về các món đặc sản nên thử.",
+    "lines": [
+      {
+        "speaker": "Nhân viên",
+        "text": "Good afternoon, and welcome! Have you had a chance to look at the menu, or would you like some recommendations?",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn ænd ˈwel.kəm hæv juː hæd ə tʃɑːns tə lʊk æt ðə ˈmen.juː ɔːr wʊd juː laɪk sʌm ˌrek.əˌmenˈdeɪ.ʃənz/",
+        "vi": "Chào buổi chiều, hân hạnh đón quý khách! Quý khách đã xem qua thực đơn chưa, hay quý khách muốn tôi gợi ý vài món ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good afternoon. Actually, it's my first time here, so I'd love some recommendations. What's the local ____ that I really shouldn't miss?",
+        "ipa": "/ɡʊd ˌɑːf.tərˈnuːn ˈæk.tʃu.ə.li ɪts maɪ fɜːst taɪm hɪər səʊ aɪd lʌv sʌm ˌrek.əˌmenˈdeɪ.ʃənz wɒts ðə ˈləʊ.kəl ... ðæt aɪ ˈrɪə.li ˈʃʊd.ənt mɪs/",
+        "vi": "Chào buổi chiều. Thật ra đây là lần đầu tôi đến, nên tôi rất muốn được gợi ý. Món ____ địa phương nào mà tôi thực sự không nên bỏ lỡ ạ?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "specialty",
+            "explanationVi": "Dùng 'specialty' (món đặc sản tiêu biểu của vùng). Xem mẫu câu 'What's the local specialty here?' ở phần Cấu trúc câu."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "In that case, I'd definitely recommend our beef noodle soup, which is freshly cooked every morning. Although it looks simple, it has a really rich, flavourful broth.",
+        "ipa": "/ɪn ðæt keɪs aɪd ˈdef.ɪn.ət.li ˌrek.əˈmend ˈaʊər biːf ˈnuː.dəl suːp wɪtʃ ɪz ˈfreʃ.li kʊkt ˈev.ri ˈmɔːn.ɪŋ ɔːlˈðəʊ ɪt lʊks ˈsɪm.pəl ɪt hæz ə ˈrɪə.li rɪtʃ ˈfleɪ.və.fəl brɒθ/",
+        "vi": "Vậy thì tôi chắc chắn gợi ý món bún bò của chúng tôi, được nấu tươi mỗi sáng. Tuy nhìn đơn giản nhưng nước dùng rất đậm đà, nhiều hương vị."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds delicious. ____ this dish very spicy, though? Honestly, I can't handle too much chili.",
+        "ipa": "/ðæt saʊndz dɪˈlɪʃ.əs ... ðɪs dɪʃ ˈver.i ˈspaɪ.si ðəʊ ˈɒn.ɪst.li aɪ kɑːnt ˈhæn.dəl tuː mʌtʃ ˈtʃɪl.i/",
+        "vi": "Nghe ngon đấy. Nhưng món này có cay lắm không ạ? Thành thật mà nói, tôi không ăn được nhiều ớt.",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "Is",
+            "explanationVi": "Câu hỏi Yes/No với tính từ: 'Is this dish spicy?'. Động từ 'to be' đảo lên đầu câu. Xem mẫu 'Is this dish [tính từ]?'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Don't worry — we can make it mild for you. However, if you enjoy a bit of heat, you can add chili yourself, so you have full control over the flavour.",
+        "ipa": "/dəʊnt ˈwʌr.i wiː kæn meɪk ɪt maɪld fɔːr juː haʊˈev.ər ɪf juː ɪnˈdʒɔɪ ə bɪt ɒv hiːt juː kæn æd ˈtʃɪl.i jɔːrˈself səʊ juː hæv fʊl kənˈtrəʊl ˈəʊ.vər ðə ˈfleɪ.vər/",
+        "vi": "Đừng lo — chúng tôi có thể làm dịu lại cho quý khách. Tuy nhiên, nếu quý khách thích cay một chút thì có thể tự thêm ớt, nên quý khách hoàn toàn kiểm soát được hương vị."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Perfect. By the way, I'm travelling with a friend who doesn't eat meat. Do you have any ____ options, such as a tofu or vegetable dish?",
+        "ipa": "/ˈpɜː.fɪkt baɪ ðə weɪ aɪm ˈtræv.əl.ɪŋ wɪð ə frend huː ˈdʌz.ənt iːt miːt duː juː hæv ˈen.i ... ˈɒp.ʃənz sʌtʃ æz ə ˈtəʊ.fuː ɔːr ˈvedʒ.tə.bəl dɪʃ/",
+        "vi": "Tuyệt. Tiện thể, tôi đi cùng một người bạn không ăn thịt. Các bạn có món ____ nào không, chẳng hạn như món đậu phụ hay món rau?",
+        "blanks": [
+          {
+            "type": "knowledge",
+            "answer": "vegetarian",
+            "explanationVi": "Dùng 'vegetarian options' (các lựa chọn món chay). Xem mẫu 'Do you have any [danh từ] options?'. 'such as' nêu ví dụ minh họa."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Of course. We have several vegetarian dishes, and they're not only healthy but also very filling. Would you like me to bring a few small plates so you can both share?",
+        "ipa": "/ɒv kɔːs wiː hæv ˈsev.rəl ˌvedʒ.əˈteə.ri.ən ˈdɪʃ.ɪz ænd ðeər nɒt ˈəʊn.li ˈhel.θi bʌt ˈɔːl.səʊ ˈver.i ˈfɪl.ɪŋ wʊd juː laɪk miː tə brɪŋ ə fjuː smɔːl pleɪts səʊ juː kæn bəʊθ ʃeər/",
+        "vi": "Tất nhiên rồi. Chúng tôi có vài món chay, và chúng không chỉ tốt cho sức khỏe mà còn rất no bụng. Quý khách có muốn tôi mang ra vài đĩa nhỏ để cả hai cùng chia nhau không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That would be lovely. I'd like to try something ____, such as a traditional local dish, because I really want to taste the real flavour of this area.",
+        "ipa": "/ðæt wʊd biː ˈlʌv.li aɪd laɪk tə traɪ ˈsʌm.θɪŋ ... sʌtʃ æz ə trəˈdɪʃ.ən.əl ˈləʊ.kəl dɪʃ bɪˈkɔːz aɪ ˈrɪə.li wɒnt tə teɪst ðə rɪəl ˈfleɪ.vər ɒv ðɪs ˈeə.ri.ə/",
+        "vi": "Vậy thì tuyệt quá. Tôi muốn thử món gì đó ____, chẳng hạn một món địa phương truyền thống, bởi vì tôi thực sự muốn nếm được hương vị thật của vùng này.",
+        "blanks": [
+          {
+            "type": "personal",
+            "hint": "Tính từ mô tả kiểu món bạn muốn thử. Ví dụ: 'authentic', 'light', 'spicy'."
+          }
+        ]
+      },
+      {
+        "speaker": "Nhân viên",
+        "text": "Excellent choice! I'll bring you our most authentic dishes right away. I'm sure you'll find them tasty, and if you need anything else, just let me know.",
+        "ipa": "/ˈek.səl.ənt tʃɔɪs aɪl brɪŋ juː ˈaʊər məʊst ɔːˈθen.tɪk ˈdɪʃ.ɪz raɪt əˈweɪ aɪm ʃʊər juːl faɪnd ðəm ˈteɪ.sti ænd ɪf juː niːd ˈen.i.θɪŋ els dʒʌst let miː nəʊ/",
+        "vi": "Lựa chọn tuyệt vời! Tôi sẽ mang ra ngay những món đúng vị nhất của chúng tôi. Tôi chắc quý khách sẽ thấy chúng rất ngon, và nếu cần thêm gì, cứ báo tôi nhé."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở nhiều nước châu Á, hỏi 'What's the specialty here?' được xem là lịch sự và khiến nhân viên vui vẻ giới thiệu món tủ của quán.",
+    "Độ cay rất khác nhau giữa các nước. Nên hỏi rõ 'Is it spicy?' và xin 'mild' nếu bạn không quen, vì 'một chút cay' với người bản địa có thể rất cay với bạn.",
+    "Ở phương Tây, nếu bạn ăn chay hoặc bị dị ứng, cứ nói thẳng và rõ ('I'm vegetarian', 'I'm allergic to peanuts') — nhân viên quen xử lý và sẽ tư vấn món phù hợp.",
+    "Gọi vài món để chia sẻ (share) là cách hay để thử được nhiều món địa phương trong một bữa, đặc biệt khi đi cùng bạn bè."
+  ],
+
+  "commonMistakes": [
+    "Nói 'a food' là sai. 'food' không đếm được; món cụ thể thì dùng 'a dish'.",
+    "Dùng 'recommend' sai cấu trúc: nói 'recommend trying' hoặc 'recommend that you try', KHÔNG nói 'recommend me to try'.",
+    "Nhầm 'spicy' (cay) với 'hot' (có thể là nóng). Nói 'spicy' cho rõ khi hỏi về độ cay.",
+    "Yêu cầu cộc lốc kiểu 'Give me the specialty'. Hãy dùng 'What would you recommend?' hoặc 'I'd like to try...' cho lịch sự."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép đoạn prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện nói tình huống hỏi về món ăn địa phương như thật.",
+    "prompt": "Hãy đóng vai một nhân viên phục vụ thân thiện ở một nhà hàng địa phương nói tiếng Anh. Tôi là khách du lịch lần đầu đến và muốn hỏi về các món đặc sản. Hãy bắt đầu bằng cách chào và mời tôi gọi món. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật và gợi ý món ăn, (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ món tôi muốn đã hết, hoặc món rất cay) để tôi tập xử lý. Khuyến khích tôi dùng 'What would you recommend?', 'Is this dish...?', 'such as' và 'because'. Nói chậm rãi, thân thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy hỏi tôi về khẩu vị, dị ứng và ngân sách trước khi gợi ý.' để hội thoại sâu hơn.",
+      "Thêm câu: 'Cuối buổi, hãy tổng kết 3 lỗi tôi hay mắc nhất và gợi ý cách diễn đạt tự nhiên hơn.'"
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi hỏi được món đặc sản và xin gợi ý mà không cần nhìn gợi ý.",
+    "Tôi hỏi được về độ cay và món chay bằng câu lịch sự.",
+    "Tôi dùng được 'such as' và 'because' để nói rõ kiểu món mình muốn thử."
+  ]
+}

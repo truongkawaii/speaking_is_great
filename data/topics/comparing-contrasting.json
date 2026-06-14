@@ -1,0 +1,332 @@
+{
+  "id": "comparing-contrasting",
+  "category": "opinions",
+  "title": "So sánh & đối chiếu",
+  "titleEn": "Comparing & Contrasting",
+  "level": "B2",
+  "functions": ["opinions", "describing", "suggesting"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "So sánh hai lựa chọn (sản phẩm, nơi ở, cách làm việc) bằng câu dài, mạch lạc",
+    "Chỉ ra điểm giống và khác nhau bằng các từ nối tương phản (whereas, however, on the other hand)",
+    "Nêu rõ lựa chọn nghiêng về phía nào và giải thích lý do một cách thuyết phục",
+    "Dùng ngữ pháp nâng cao (although, such as, not only… but also, mệnh đề quan hệ) tự nhiên khi so sánh"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "comparison",
+      "ipa": "/kəmˈpær.ɪ.sən/",
+      "vi": "sự so sánh (danh từ)",
+      "register": "neutral",
+      "example": "If you make a quick comparison, the two phones are surprisingly similar.",
+      "exampleVi": "Nếu bạn so sánh nhanh, hai chiếc điện thoại giống nhau đến bất ngờ.",
+      "note": "Danh từ. Cụm cố định: 'make a comparison', 'in comparison with/to'. Động từ là 'to compare with/to'.",
+      "synonyms": [
+        { "term": "contrast", "ipa": "/ˈkɒn.trɑːst/", "register": "neutral", "nuanceVi": "Nhấn vào sự KHÁC BIỆT, trong khi 'comparison' bao gồm cả giống lẫn khác. 'In contrast' = ngược lại." },
+        { "term": "parallel", "ipa": "/ˈpær.ə.lel/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'điểm tương đồng đáng chú ý': 'draw a parallel between two things'." }
+      ]
+    },
+    {
+      "term": "alternative",
+      "ipa": "/ɒlˈtɜː.nə.tɪv/",
+      "vi": "phương án thay thế / lựa chọn khác (danh từ)",
+      "register": "neutral",
+      "example": "Working from home is a popular alternative to commuting every day.",
+      "exampleVi": "Làm việc tại nhà là một phương án thay thế phổ biến cho việc đi lại mỗi ngày.",
+      "note": "Danh từ (cũng là tính từ). Đi với 'alternative to something'. Hàm ý 'một cách khác cũng dùng được'.",
+      "synonyms": [
+        { "term": "option", "ipa": "/ˈɒp.ʃən/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến nhất, nghĩa 'lựa chọn'. Không nhất thiết hàm ý 'thay thế cho cái khác' như alternative." },
+        { "term": "substitute", "ipa": "/ˈsʌb.stɪ.tʃuːt/", "register": "neutral", "nuanceVi": "Nhấn 'thay thế trực tiếp cho thứ vốn có', thường dùng cho đồ vật/nguyên liệu (a substitute for sugar)." }
+      ]
+    },
+    {
+      "term": "drawback",
+      "ipa": "/ˈdrɔː.bæk/",
+      "vi": "nhược điểm, mặt hạn chế (danh từ)",
+      "register": "neutral",
+      "example": "The main drawback of this plan is that it takes too long to set up.",
+      "exampleVi": "Nhược điểm chính của kế hoạch này là mất quá nhiều thời gian để thiết lập.",
+      "note": "Danh từ. Trái nghĩa: benefit/advantage. Hay đi với 'the main/biggest drawback'.",
+      "synonyms": [
+        { "term": "downside", "ipa": "/ˈdaʊn.saɪd/", "register": "neutral", "nuanceVi": "Đời thường hơn một chút, nghĩa gần y hệt: 'The downside is…'. Hợp khi nói chuyện thân mật." },
+        { "term": "disadvantage", "ipa": "/ˌdɪs.ədˈvɑːn.tɪdʒ/", "register": "neutral", "nuanceVi": "Trung tính, phổ biến trong văn viết/bài luận. Trái nghĩa trực tiếp của 'advantage'." },
+        { "term": "shortcoming", "ipa": "/ˈʃɔːtˌkʌm.ɪŋ/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'thiếu sót, chưa đạt chuẩn'. Thường dùng cho hệ thống/kế hoạch/con người." }
+      ]
+    },
+    {
+      "term": "to outweigh",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "vi": "vượt trội hơn, có sức nặng hơn (động từ)",
+      "register": "neutral",
+      "example": "For me, the benefits clearly outweigh the drawbacks.",
+      "exampleVi": "Với tôi, lợi ích rõ ràng lớn hơn nhược điểm.",
+      "note": "Động từ. Cụm vàng khi so sánh để chốt quan điểm: 'the pros outweigh the cons'.",
+      "synonyms": [
+        { "term": "to surpass", "ipa": "/səˈpɑːs/", "register": "formal", "nuanceVi": "Trang trọng, nghĩa 'vượt qua, hơn hẳn' về mức độ/chất lượng (surpass expectations)." }
+      ]
+    },
+    {
+      "term": "similar",
+      "ipa": "/ˈsɪm.ɪ.lər/",
+      "vi": "tương tự, giống nhau (tính từ)",
+      "register": "neutral",
+      "example": "The two laptops are quite similar in terms of performance.",
+      "exampleVi": "Hai chiếc laptop khá giống nhau về mặt hiệu năng.",
+      "note": "Tính từ. Đi với 'similar to something' và cụm 'in terms of' (về mặt). Trái nghĩa: different.",
+      "synonyms": [
+        { "term": "alike", "ipa": "/əˈlaɪk/", "register": "neutral", "nuanceVi": "Đứng SAU danh từ/chủ ngữ, không đứng trước: 'The two are alike', không nói 'alike things'." },
+        { "term": "comparable", "ipa": "/ˈkɒm.pər.ə.bəl/", "register": "formal", "nuanceVi": "Trang trọng, nhấn 'tương đương đủ để đặt cạnh so sánh', thường về chất lượng/giá." },
+        { "term": "identical", "ipa": "/aɪˈden.tɪ.kəl/", "register": "neutral", "nuanceVi": "MẠNH hơn nhiều: 'giống hệt, không khác chút nào'. Đừng dùng nếu chỉ giống một phần." }
+      ]
+    },
+    {
+      "term": "distinct",
+      "ipa": "/dɪˈstɪŋkt/",
+      "vi": "khác biệt rõ rệt, riêng biệt (tính từ)",
+      "register": "formal",
+      "example": "The two approaches are distinct, although they share the same goal.",
+      "exampleVi": "Hai cách tiếp cận khác biệt rõ rệt, dù chúng cùng chung một mục tiêu.",
+      "note": "Tính từ trang trọng. 'distinct from' = khác hẳn với. Danh từ 'distinction' = sự phân biệt.",
+      "synonyms": [
+        { "term": "different", "ipa": "/ˈdɪf.ər.ənt/", "register": "neutral", "nuanceVi": "Phổ biến nhất, trung tính. Đi với 'different from'. An toàn để dùng mọi lúc." },
+        { "term": "contrasting", "ipa": "/kənˈtrɑːs.tɪŋ/", "register": "neutral", "nuanceVi": "Nhấn 'khác biệt theo kiểu đối lập, đặt cạnh nhau thấy rõ'. Vd 'contrasting styles'." }
+      ]
+    },
+    {
+      "term": "convenient",
+      "ipa": "/kənˈviː.ni.ənt/",
+      "vi": "tiện lợi, thuận tiện (tính từ)",
+      "register": "neutral",
+      "example": "Online shopping is far more convenient than going to a store.",
+      "exampleVi": "Mua sắm trực tuyến tiện lợi hơn nhiều so với đi cửa hàng.",
+      "note": "Tính từ. Danh từ 'convenience'. Bẫy phát âm: trọng âm âm thứ hai 'VEN', không phải 'CON'.",
+      "synonyms": [
+        { "term": "handy", "ipa": "/ˈhæn.di/", "register": "casual", "nuanceVi": "Đời thường, nghĩa 'tiện, dễ dùng'. Hợp khi nói chuyện thân mật hơn là viết trang trọng." },
+        { "term": "practical", "ipa": "/ˈpræk.tɪ.kəl/", "register": "neutral", "nuanceVi": "Nhấn 'thiết thực, hữu dụng trong thực tế', hơi khác 'tiện lợi' (nhanh/đỡ công)." }
+      ]
+    },
+    {
+      "term": "considerably",
+      "ipa": "/kənˈsɪd.ər.ə.bli/",
+      "vi": "một cách đáng kể (trạng từ)",
+      "register": "formal",
+      "example": "This option is considerably cheaper than the other one.",
+      "exampleVi": "Lựa chọn này rẻ hơn đáng kể so với cái còn lại.",
+      "note": "Trạng từ nhấn mạnh mức độ khác biệt khi so sánh; đặt TRƯỚC tính từ so sánh hơn (considerably cheaper).",
+      "synonyms": [
+        { "term": "significantly", "ipa": "/sɪɡˈnɪf.ɪ.kənt.li/", "register": "formal", "nuanceVi": "Nhấn 'đủ lớn để đáng chú ý/có ý nghĩa'. Rất hay dùng khi so sánh số liệu." },
+        { "term": "far", "ipa": "/fɑːr/", "register": "neutral", "nuanceVi": "Ngắn gọn, mạnh: 'far better', 'far more expensive'. Đời thường, dễ dùng khi nói." },
+        { "term": "noticeably", "ipa": "/ˈnəʊ.tɪs.ə.bli/", "register": "neutral", "nuanceVi": "Nhấn 'khác biệt đủ để nhận ra bằng mắt/cảm nhận', nhẹ hơn 'considerably'." }
+      ]
+    },
+    {
+      "term": "to prefer",
+      "ipa": "/prɪˈfɜːr/",
+      "vi": "thích hơn, ưa chuộng hơn (động từ)",
+      "register": "neutral",
+      "example": "Personally, I prefer the second option because it suits my needs better.",
+      "exampleVi": "Cá nhân tôi thích lựa chọn thứ hai hơn vì nó hợp nhu cầu của tôi hơn.",
+      "note": "Động từ. Cấu trúc: 'prefer A to B' hoặc 'prefer + V-ing/to V'. Bẫy: 'prefer A TO B', không phải 'than'.",
+      "synonyms": [
+        { "term": "to favour", "ipa": "/ˈfeɪ.vər/", "register": "formal", "nuanceVi": "Trang trọng hơn, nghĩa 'thiên về, ủng hộ hơn'. Hay dùng cho quan điểm/chính sách. (Mỹ: favor)." },
+        { "term": "to lean towards", "ipa": "/liːn təˈwɔːdz/", "register": "neutral", "nuanceVi": "Nhấn 'nghiêng về phía nào đó nhưng chưa chắc chắn'. Mềm hơn 'prefer', hợp khi còn cân nhắc." }
+      ]
+    },
+    {
+      "term": "trade-off",
+      "ipa": "/ˈtreɪd.ɒf/",
+      "vi": "sự đánh đổi (được cái này mất cái kia) (danh từ)",
+      "register": "neutral",
+      "example": "There's always a trade-off between price and quality.",
+      "exampleVi": "Luôn có sự đánh đổi giữa giá cả và chất lượng.",
+      "note": "Danh từ. Khái niệm cốt lõi khi so sánh: chọn ưu điểm này phải chấp nhận mất ưu điểm kia. Đi với 'between A and B'."
+    },
+    {
+      "term": "overall",
+      "ipa": "/ˌəʊ.vərˈɔːl/",
+      "vi": "nhìn chung, xét toàn cục (trạng từ)",
+      "register": "neutral",
+      "example": "Overall, I think the first plan makes more sense for us.",
+      "exampleVi": "Nhìn chung, tôi nghĩ kế hoạch đầu hợp lý hơn với chúng ta.",
+      "note": "Trạng từ. Dùng để CHỐT lại sau khi đã cân nhắc các mặt — rất hợp ở cuối phần so sánh.",
+      "synonyms": [
+        { "term": "all in all", "ipa": "/ˌɔːl ɪn ˈɔːl/", "register": "neutral", "nuanceVi": "Cụm đời thường để tổng kết: 'All in all, it was worth it.' Gần nghĩa 'overall'." },
+        { "term": "on the whole", "ipa": "/ɒn ðə ˈhəʊl/", "register": "neutral", "nuanceVi": "Nhấn 'xét đa số trường hợp, dù có ngoại lệ'. Hợp khi kết luận thận trọng." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "Compared to/with [A], [B] is [tính từ so sánh hơn].",
+      "use": "Đặt hai đối tượng cạnh nhau và nêu B hơn/kém A ở điểm nào.",
+      "register": "neutral",
+      "examples": [
+        "Compared to the older model, this one is considerably lighter and faster.",
+        "Compared with renting, buying a house is far more expensive at first."
+      ],
+      "explanationVi": "'Compared to/with' mở đầu phần lấy A làm mốc so sánh. Hai giới từ 'to' và 'with' đều được; 'to' phổ biến hơn khi nói. Đặt mệnh đề chính ngay sau dấu phẩy.",
+      "altOf": "drawing-comparison"
+    },
+    {
+      "pattern": "[A] is [tính từ]-er than [B], whereas [B] is [tính từ].",
+      "use": "Nêu một điểm khác biệt rõ rệt giữa hai bên trong cùng một câu.",
+      "register": "formal",
+      "examples": [
+        "The first option is cheaper than the second, whereas the second is far more durable."
+      ],
+      "explanationVi": "'whereas' (= trong khi đó) là từ nối tương phản trang trọng, nối hai mệnh đề đối lập trong MỘT câu. Khác 'however' (thường đứng đầu câu mới). Rất 'ăn điểm' khi so sánh.",
+      "altOf": "showing-contrast"
+    },
+    {
+      "pattern": "[A] is similar to [B] in terms of [khía cạnh], but [điểm khác].",
+      "use": "Vừa chỉ điểm giống vừa chỉ điểm khác trong cùng một nhận định.",
+      "register": "neutral",
+      "examples": [
+        "The two cafés are similar in terms of price, but the first one has a much cosier atmosphere."
+      ],
+      "explanationVi": "'in terms of' (= về mặt) giúp khoanh vùng khía cạnh đang so sánh, nghe mạch lạc và chuyên nghiệp. Mẫu này cân bằng cả giống lẫn khác."
+    },
+    {
+      "pattern": "On the one hand, [ý A]; on the other hand, [ý B].",
+      "use": "Trình bày hai mặt đối lập một cách cân bằng trước khi kết luận.",
+      "register": "neutral",
+      "examples": [
+        "On the one hand, working from home saves time; on the other hand, it can feel isolating."
+      ],
+      "explanationVi": "Cặp 'On the one hand… on the other hand…' giúp bạn cân nhắc hai mặt rõ ràng. Đừng quên 'the' và đừng dùng lẻ 'on the other hand' nếu chưa nêu 'on the one hand'.",
+      "altOf": "showing-contrast"
+    },
+    {
+      "pattern": "Although [A có ưu điểm], [B] still [động từ] because [lý do].",
+      "use": "Thừa nhận ưu điểm của A nhưng vẫn nghiêng về B, kèm lý do.",
+      "register": "neutral",
+      "examples": [
+        "Although the cheaper phone has a good camera, the other one still wins because it lasts much longer."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…). Cấu trúc này thể hiện bạn đã cân nhắc cả hai phía rồi mới chọn — nghe khách quan và thuyết phục hơn.",
+      "altOf": "stating-preference"
+    },
+    {
+      "pattern": "All things considered, I'd go for [lựa chọn] because the benefits outweigh the drawbacks.",
+      "use": "Chốt lại lựa chọn cuối cùng sau khi đã so sánh.",
+      "register": "neutral",
+      "examples": [
+        "All things considered, I'd go for the second plan because the benefits clearly outweigh the drawbacks."
+      ],
+      "explanationVi": "'All things considered' (= xét mọi mặt) và 'I'd go for' (= tôi sẽ chọn) là cách chốt quan điểm tự nhiên, không võ đoán. Cụm 'benefits outweigh the drawbacks' rất đắt giá.",
+      "altOf": "stating-preference"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "personally", "ipa": "/ˈpɜː.sən.ə.li/", "vi": "cá nhân tôi (thì)", "when": "Mở đầu khi nêu ý kiến riêng để câu nghe khiêm tốn, không áp đặt.", "example": "Personally, I find the smaller model much more practical." },
+    { "term": "in contrast", "ipa": "/ɪn ˈkɒn.trɑːst/", "vi": "ngược lại", "when": "Đứng đầu câu để chỉ ra một điểm trái ngược với điều vừa nói.", "example": "The city is busy and expensive. In contrast, the countryside is calm and cheap." },
+    { "term": "to some extent", "ipa": "/tə sʌm ɪkˈstent/", "vi": "ở một mức độ nào đó", "when": "Đồng ý hoặc thừa nhận một phần, tránh nói tuyệt đối.", "example": "To some extent, both options are equally good." },
+    { "term": "if anything", "ipa": "/ɪf ˈen.i.θɪŋ/", "vi": "nếu có chăng thì (ngược lại)", "when": "Bác nhẹ kỳ vọng và nghiêng về phía ngược lại.", "example": "The new version isn't worse; if anything, it's slightly better." },
+    { "term": "by comparison", "ipa": "/baɪ kəmˈpær.ɪ.sən/", "vi": "so với cái kia thì", "when": "Nối sang đối tượng thứ hai để làm nổi bật khác biệt.", "example": "The first hotel was noisy; by comparison, the second one was wonderfully quiet." },
+    { "term": "ultimately", "ipa": "/ˈʌl.tɪ.mət.li/", "vi": "rốt cuộc thì", "when": "Dẫn vào kết luận cuối sau khi đã cân nhắc.", "example": "Ultimately, it comes down to what matters most to you." }
+  ],
+
+  "dialogue": {
+    "context": "Bạn và đồng nghiệp (Lan) đang phân vân giữa hai lựa chọn cho nhóm: tiếp tục làm việc tại văn phòng hay chuyển sang mô hình làm việc kết hợp (hybrid). Hai người so sánh ưu, nhược điểm rồi đi đến quyết định.",
+    "lines": [
+      {
+        "speaker": "Lan",
+        "text": "So, we need to decide between staying fully in the office and switching to a hybrid model. Honestly, what do you think the main difference is?",
+        "ipa": "/səʊ wiː niːd tə dɪˈsaɪd bɪˈtwiːn ˈsteɪ.ɪŋ ˈfʊl.i ɪn ðə ˈɒf.ɪs ænd ˈswɪtʃ.ɪŋ tə ə ˈhaɪ.brɪd ˈmɒd.əl ˈɒn.ɪst.li wɒt duː juː θɪŋk ðə meɪn ˈdɪf.ər.əns ɪz/",
+        "vi": "Vậy là chúng ta phải chọn giữa làm việc hoàn toàn ở văn phòng và chuyển sang mô hình hybrid. Thật lòng mà nói, bạn nghĩ khác biệt chính là gì?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Well, compared ____ the office model, the hybrid one is considerably more flexible, although it does require better self-discipline. Personally, I think flexibility is what most people care about these days.",
+        "ipa": "/wel kəmˈpeəd ... ðə ˈɒf.ɪs ˈmɒd.əl ðə ˈhaɪ.brɪd wʌn ɪz kənˈsɪd.ər.ə.bli mɔː ˈflek.sə.bəl ɔːlˈðəʊ ɪt dʌz rɪˈkwaɪər ˈbet.ə self ˈdɪs.ɪ.plɪn ˈpɜː.sən.ə.li aɪ θɪŋk ˌflek.səˈbɪl.ə.ti ɪz wɒt məʊst ˈpiː.pəl keər əˈbaʊt ðiːz deɪz/",
+        "vi": "À, so với mô hình văn phòng, mô hình hybrid linh hoạt hơn đáng kể, dù nó đòi hỏi tính kỷ luật tự giác cao hơn. Cá nhân tôi nghĩ sự linh hoạt là điều phần lớn mọi người quan tâm ngày nay.",
+        "blanks": [
+          { "type": "knowledge", "answer": "to", "explanationVi": "Dùng 'compared to' (cũng được 'compared with') để mở phần lấy mô hình văn phòng làm mốc so sánh. Xem mẫu 'Compared to/with A, B is…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That's a fair point. On the one hand, working from home saves a lot of commuting time; ____ the other hand, it can make team communication slower. How do you weigh those up?",
+        "ipa": "/ðæts ə feə pɔɪnt ɒn ðə wʌn hænd ˈwɜː.kɪŋ frɒm həʊm seɪvz ə lɒt ɒv kəˈmjuː.tɪŋ taɪm ... ðə ˈʌð.ə hænd ɪt kæn meɪk tiːm kəˌmjuː.nɪˈkeɪ.ʃən ˈsləʊ.ə haʊ duː juː weɪ ðəʊz ʌp/",
+        "vi": "Ý hay đấy. Một mặt, làm việc ở nhà tiết kiệm nhiều thời gian đi lại; mặt khác, nó có thể khiến việc trao đổi trong nhóm chậm hơn. Bạn cân nhắc hai điều đó thế nào?",
+        "blanks": [
+          { "type": "knowledge", "answer": "on", "explanationVi": "Cặp cố định 'On the one hand… on the other hand…' để trình bày hai mặt đối lập. Phần này thiếu chữ 'on'. Xem mẫu câu cùng tên." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Honestly, the benefits ____ the drawbacks for me. Not only does the hybrid model cut down on commuting, but it also lets people focus better at home, which boosts productivity in the long run.",
+        "ipa": "/ˈɒn.ɪst.li ðə ˈben.ɪ.fɪts ... ðə ˈdrɔː.bæks fə miː nɒt ˈəʊn.li dʌz ðə ˈhaɪ.brɪd ˈmɒd.əl kʌt daʊn ɒn kəˈmjuː.tɪŋ bʌt ɪt ˈɔːl.səʊ lets ˈpiː.pəl ˈfəʊ.kəs ˈbet.ə æt həʊm wɪtʃ buːsts ˌprɒd.ʌkˈtɪv.ə.ti ɪn ðə lɒŋ rʌn/",
+        "vi": "Thật lòng, với tôi lợi ích vượt trội hơn nhược điểm. Mô hình hybrid không những cắt giảm việc đi lại, mà còn giúp mọi người tập trung tốt hơn ở nhà, điều này về lâu dài làm tăng năng suất.",
+        "blanks": [
+          { "type": "knowledge", "answer": "outweigh", "explanationVi": "Động từ 'outweigh' = vượt trội/có sức nặng hơn. Cụm vàng để chốt: 'the benefits outweigh the drawbacks'. Xem mẫu 'the benefits outweigh the drawbacks'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "I see your logic. But despite all those advantages, some managers worry that staff who rarely come in might feel disconnected from the team. Isn't that a real drawback?",
+        "ipa": "/aɪ siː jɔː ˈlɒdʒ.ɪk bʌt dɪˈspaɪt ɔːl ðəʊz ədˈvɑːn.tɪdʒ.ɪz sʌm ˈmæn.ɪdʒ.əz ˈwʌr.i ðæt stɑːf huː ˈreə.li kʌm ɪn maɪt fiːl ˌdɪs.kəˈnek.tɪd frɒm ðə tiːm ˈɪz.ənt ðæt ə rɪəl ˈdrɔː.bæk/",
+        "vi": "Tôi hiểu lập luận của bạn. Nhưng bất chấp mọi lợi thế đó, một số quản lý lo rằng nhân viên hiếm khi lên văn phòng có thể cảm thấy mất kết nối với nhóm. Đó chẳng phải là một nhược điểm thật sao?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That's true to some extent. ____ the office model keeps everyone closer, the gap can be bridged with a few fixed in-office days each week, such as Tuesdays and Thursdays for meetings.",
+        "ipa": "/ðæts truː tə sʌm ɪkˈstent ... ðə ˈɒf.ɪs ˈmɒd.əl kiːps ˈev.ri.wʌn ˈkləʊ.sə ðə ɡæp kæn biː brɪdʒd wɪð ə fjuː fɪkst ɪn ˈɒf.ɪs deɪz iːtʃ wiːk sʌtʃ æz ˈtʃuːz.deɪz ænd ˈθɜːz.deɪz fə ˈmiː.tɪŋz/",
+        "vi": "Điều đó đúng ở một mức độ nào đó. Mặc dù mô hình văn phòng giữ mọi người gần nhau hơn, khoảng cách đó có thể được khắc phục bằng vài ngày cố định lên văn phòng mỗi tuần, chẳng hạn thứ Ba và thứ Năm để họp.",
+        "blanks": [
+          { "type": "knowledge", "answer": "Although", "explanationVi": "Dùng 'Although' (= mặc dù) mở mệnh đề nhượng bộ: thừa nhận ưu điểm của văn phòng nhưng vẫn bảo vệ hybrid. Xem mẫu 'Although A…, B still…'." }
+        ]
+      },
+      {
+        "speaker": "Lan",
+        "text": "That actually sounds like a sensible compromise. So, all things considered, which one would you ____ if you had to pick today?",
+        "ipa": "/ðæt ˈæk.tʃu.ə.li saʊndz laɪk ə ˈsen.sə.bəl ˈkɒm.prə.maɪz səʊ ɔːl θɪŋz kənˈsɪd.əd wɪtʃ wʌn wʊd juː ... ɪf juː hæd tə pɪk təˈdeɪ/",
+        "vi": "Nghe đúng là một sự thỏa hiệp hợp lý. Vậy, xét mọi mặt, bạn sẽ chọn cái nào nếu hôm nay phải quyết?",
+        "blanks": [
+          { "type": "knowledge", "answer": "prefer", "explanationVi": "Động từ 'prefer' = thích/chọn hơn. Câu hỏi 'which one would you prefer?' là cách hỏi lựa chọn tự nhiên. Nhớ cấu trúc 'prefer A to B'." }
+        ]
+      },
+      {
+        "speaker": "Bạn",
+        "text": "All things considered, I'd go for the hybrid model, mainly because it suits ____ rather than the company's image. Ultimately, a happier and more focused team tends to deliver better results in the long run.",
+        "ipa": "/ɔːl θɪŋz kənˈsɪd.əd aɪd ɡəʊ fə ðə ˈhaɪ.brɪd ˈmɒd.əl ˈmeɪn.li bɪˈkɔːz ɪt suːts ... ˈrɑː.ðə ðæn ðə ˈkʌm.pə.niz ˈɪm.ɪdʒ ˈʌl.tɪ.mət.li ə ˈhæp.i.ə ænd mɔː ˈfəʊ.kəst tiːm tendz tə dɪˈlɪv.ə ˈbet.ə rɪˈzʌlts ɪn ðə lɒŋ rʌn/",
+        "vi": "Xét mọi mặt, tôi sẽ chọn mô hình hybrid, chủ yếu vì nó hợp với ____ hơn là hình ảnh của công ty. Rốt cuộc, một đội nhóm vui vẻ và tập trung hơn thường mang lại kết quả tốt hơn về lâu dài.",
+        "blanks": [
+          { "type": "personal", "hint": "Điều quan trọng nhất với bạn/nhóm. Ví dụ: 'our actual needs', 'the way I work best'." }
+        ]
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Trong môi trường công sở phương Tây, khi so sánh hai phương án, người ta đánh giá cao việc bạn thừa nhận cả ưu lẫn nhược điểm (balanced view) trước khi chốt, thay vì khen một bên tuyệt đối.",
+    "Cụm 'It depends' (còn tùy) rất được dùng và được coi là câu trả lời chín chắn — nó cho thấy bạn nhìn vấn đề theo ngữ cảnh, không phán xét vội.",
+    "Khi bất đồng quan điểm so sánh, người bản xứ thường mở đầu nhẹ nhàng: 'That's a fair point, but…' để tôn trọng ý người kia trước khi phản biện.",
+    "Nêu lý do cụ thể, có thể đo lường (tiết kiệm thời gian, tăng năng suất) luôn thuyết phục hơn cảm tính chung chung khi bảo vệ lựa chọn."
+  ],
+
+  "commonMistakes": [
+    "Dùng sai giới từ: phải là 'similar TO', 'different FROM', 'prefer A TO B' — KHÔNG dùng 'than' sau 'prefer'.",
+    "Nhầm 'whereas' với 'however': 'whereas' nối hai mệnh đề trong CÙNG một câu, còn 'however' thường đứng đầu câu mới và có dấu phẩy theo sau.",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DOES it cut…', không phải 'Not only it cuts…'.",
+    "Lạm dụng so sánh kép: nói 'more cheaper' hay 'more better' là sai — chỉ dùng 'cheaper' / 'better' hoặc 'more expensive'."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện kỹ năng so sánh và đối chiếu như một cuộc thảo luận thật.",
+    "prompt": "Hãy đóng vai một người đồng nghiệp nói tiếng Anh đang thảo luận với tôi để chọn giữa hai phương án (tôi sẽ nêu chủ đề, ví dụ: học online hay học ở trung tâm, mua xe máy hay đi xe buýt). Hãy đưa ra quan điểm trái với tôi để tạo tranh luận. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một người đang tranh luận, (2) sửa lỗi ngữ pháp và gợi ý cách diễn đạt so sánh hay hơn bằng tiếng Việt, (3) khuyến khích tôi dùng 'whereas', 'on the other hand', 'compared to', 'although' và 'the benefits outweigh the drawbacks'. Cuối buổi, hãy chấm điểm phần so sánh của tôi và nêu 3 điểm cần cải thiện. Bắt đầu bằng cách đề xuất một chủ đề để so sánh nhé.",
+    "advancedTips": [
+      "Thêm: 'Hãy liên tục đổi phía (đôi khi đồng ý với tôi, đôi khi phản bác) để tôi tập bảo vệ và điều chỉnh lập luận.'",
+      "Thêm: 'Hãy yêu cầu tôi đưa ra ít nhất hai con số/ví dụ cụ thể cho mỗi lựa chọn.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi so sánh được hai lựa chọn bằng câu dài có 'compared to', 'whereas' hoặc 'on the other hand', không cần nhìn gợi ý.",
+    "Tôi nêu được ít nhất một điểm giống và một điểm khác giữa hai đối tượng.",
+    "Tôi chốt được lựa chọn của mình và giải thích lý do bằng cụm 'the benefits outweigh the drawbacks'."
+  ]
+}

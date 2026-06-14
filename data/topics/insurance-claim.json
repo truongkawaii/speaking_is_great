@@ -1,0 +1,342 @@
+{
+  "id": "insurance-claim",
+  "category": "services",
+  "title": "Yêu cầu bồi thường bảo hiểm",
+  "titleEn": "Making an Insurance Claim",
+  "level": "B2",
+  "functions": ["requesting", "asking-info", "handling-problems", "complaining"],
+  "estimatedMinutes": 20,
+  "objectives": [
+    "Trình bày một sự cố và mở yêu cầu bồi thường bằng câu dài, rõ ràng",
+    "Hỏi và cung cấp thông tin về hợp đồng, mức miễn thường, giấy tờ cần nộp",
+    "Đề nghị lịch sự và hỏi về quy trình, thời gian xử lý hồ sơ",
+    "Phản hồi khi yêu cầu bị từ chối hoặc bị trì hoãn một cách bình tĩnh, thuyết phục",
+    "Dùng ngữ pháp nâng cao (although, such as, in order to, not only… but also, despite, mệnh đề quan hệ which/who) tự nhiên khi nói"
+  ],
+
+  "vocabulary": [
+    {
+      "term": "claim",
+      "ipa": "/kleɪm/",
+      "vi": "yêu cầu bồi thường (danh từ); đòi bồi thường (động từ)",
+      "register": "neutral",
+      "example": "I'd like to file a claim for the damage to my car.",
+      "exampleVi": "Tôi muốn nộp yêu cầu bồi thường cho thiệt hại trên xe của tôi.",
+      "note": "Vừa là danh từ vừa là động từ. Cụm cốt lõi: 'to file/make/submit a claim'. 'Claimant' (/ˈkleɪ.mənt/) là người đứng đơn yêu cầu.",
+      "synonyms": [
+        { "term": "to file a claim", "ipa": "/tə faɪl ə kleɪm/", "register": "neutral", "nuanceVi": "Cụm động từ Anh-Mỹ rất phổ biến, nhấn vào thao tác 'nộp hồ sơ chính thức'." },
+        { "term": "to lodge a claim", "ipa": "/tə lɒdʒ ə kleɪm/", "register": "formal", "nuanceVi": "Trang trọng, kiểu Anh-Anh/pháp lý; 'lodge' = chính thức trình lên cơ quan." }
+      ]
+    },
+    {
+      "term": "policy",
+      "ipa": "/ˈpɒl.ə.si/",
+      "vi": "hợp đồng / đơn bảo hiểm (danh từ)",
+      "register": "neutral",
+      "example": "My policy covers accidental damage as well as theft.",
+      "exampleVi": "Hợp đồng của tôi bảo hiểm cả thiệt hại do tai nạn lẫn trộm cắp.",
+      "note": "Trong ngành bảo hiểm, 'policy' = bản hợp đồng (không phải 'chính sách'). 'Policyholder' = người mua/đứng tên hợp đồng.",
+      "synonyms": [
+        { "term": "coverage", "ipa": "/ˈkʌv.ər.ɪdʒ/", "register": "neutral", "nuanceVi": "Nhấn vào 'phạm vi được bảo hiểm', tức những gì hợp đồng chi trả, chứ không phải tờ hợp đồng." },
+        { "term": "plan", "ipa": "/plæn/", "register": "casual", "nuanceVi": "Đời thường, nghe nhẹ nhàng hơn; hay dùng cho bảo hiểm y tế ('health plan')." }
+      ]
+    },
+    {
+      "term": "premium",
+      "ipa": "/ˈpriː.mi.əm/",
+      "vi": "phí bảo hiểm (khoản đóng định kỳ) (danh từ)",
+      "register": "neutral",
+      "example": "If I make a claim, will my premium go up next year?",
+      "exampleVi": "Nếu tôi yêu cầu bồi thường, phí bảo hiểm năm sau có tăng không?",
+      "note": "Danh từ. Là khoản bạn ĐÓNG cho công ty bảo hiểm, đừng nhầm với khoản họ TRẢ cho bạn (payout / settlement).",
+      "synonyms": [
+        { "term": "contribution", "ipa": "/ˌkɒn.trɪˈbjuː.ʃən/", "register": "formal", "nuanceVi": "Trang trọng, hay dùng cho khoản đóng vào quỹ bảo hiểm/hưu trí; ít cụ thể bằng 'premium'." }
+      ]
+    },
+    {
+      "term": "deductible",
+      "ipa": "/dɪˈdʌk.tə.bəl/",
+      "vi": "mức miễn thường (phần khách tự chịu trước) (danh từ)",
+      "register": "neutral",
+      "example": "There's a $200 deductible, so I'll only get back the amount above that.",
+      "exampleVi": "Có mức miễn thường 200 đô, nên tôi chỉ được hoàn phần vượt quá khoản đó.",
+      "note": "Là số tiền bạn TỰ trả trước khi bảo hiểm chi trả phần còn lại. Anh-Anh thường gọi là 'excess'.",
+      "synonyms": [
+        { "term": "excess", "ipa": "/ɪkˈses/", "register": "neutral", "nuanceVi": "Đồng nghĩa kiểu Anh-Anh của 'deductible'. Cùng nghĩa phần khách tự chịu." }
+      ]
+    },
+    {
+      "term": "to reimburse",
+      "ipa": "/ˌriː.ɪmˈbɜːs/",
+      "vi": "hoàn trả, bồi hoàn (động từ)",
+      "register": "formal",
+      "example": "The company will reimburse me for the medical expenses I paid.",
+      "exampleVi": "Công ty sẽ hoàn trả cho tôi các chi phí y tế mà tôi đã trả.",
+      "note": "Động từ trang trọng, đi với 'reimburse somebody for something'. Danh từ: 'reimbursement'.",
+      "synonyms": [
+        { "term": "to compensate", "ipa": "/ˈkɒm.pən.seɪt/", "register": "formal", "nuanceVi": "Nhấn vào 'đền bù cho tổn thất/thiệt hại', rộng hơn; 'compensate someone for' một mất mát." },
+        { "term": "to pay back", "ipa": "/tə peɪ bæk/", "register": "casual", "nuanceVi": "Đời thường, đơn giản; nghe ít chuyên nghiệp hơn trong ngữ cảnh bảo hiểm chính thức." },
+        { "term": "to refund", "ipa": "/rɪˈfʌnd/", "register": "neutral", "nuanceVi": "Nhấn 'trả lại tiền đã thu', thường cho khoản đã thanh toán; không hẳn là đền bù tổn thất." }
+      ]
+    },
+    {
+      "term": "to assess",
+      "ipa": "/əˈses/",
+      "vi": "thẩm định, đánh giá (động từ)",
+      "register": "formal",
+      "example": "An adjuster will assess the damage before we approve the payout.",
+      "exampleVi": "Một giám định viên sẽ thẩm định thiệt hại trước khi chúng tôi duyệt chi trả.",
+      "note": "Động từ. Trong bảo hiểm, người đi thẩm định là 'loss adjuster' hoặc 'claims adjuster'.",
+      "synonyms": [
+        { "term": "to evaluate", "ipa": "/ɪˈvæl.ju.eɪt/", "register": "formal", "nuanceVi": "Gần nghĩa, nhấn 'cân nhắc để đưa ra phán xét về giá trị/chất lượng'." },
+        { "term": "to appraise", "ipa": "/əˈpreɪz/", "register": "formal", "nuanceVi": "Chuyên về 'định giá' (xác định giá trị bằng tiền) một tài sản cụ thể." }
+      ]
+    },
+    {
+      "term": "to settle",
+      "ipa": "/ˈset.əl/",
+      "vi": "giải quyết / chi trả dứt điểm (yêu cầu) (động từ)",
+      "register": "neutral",
+      "example": "They usually settle straightforward claims within two weeks.",
+      "exampleVi": "Họ thường giải quyết các yêu cầu đơn giản trong vòng hai tuần.",
+      "note": "Động từ. Danh từ 'settlement' = khoản tiền/thỏa thuận cuối cùng để khép lại hồ sơ.",
+      "synonyms": [
+        { "term": "to resolve", "ipa": "/rɪˈzɒlv/", "register": "formal", "nuanceVi": "Nhấn 'tháo gỡ một vấn đề/tranh chấp', rộng hơn 'settle' vốn thiên về chốt khoản tiền." },
+        { "term": "to process", "ipa": "/ˈprəʊ.ses/", "register": "neutral", "nuanceVi": "Nhấn 'xử lý theo quy trình', tức các bước trung gian, chưa hẳn đã chi trả xong." }
+      ]
+    },
+    {
+      "term": "comprehensive",
+      "ipa": "/ˌkɒm.prɪˈhen.sɪv/",
+      "vi": "toàn diện (bảo hiểm phủ rộng) (tính từ)",
+      "register": "formal",
+      "example": "I took out comprehensive cover, so most types of damage are included.",
+      "exampleVi": "Tôi mua gói bảo hiểm toàn diện nên hầu hết các loại thiệt hại đều được bao gồm.",
+      "note": "Tính từ. 'Comprehensive cover/policy' = gói phủ rộng nhất, trái với 'third-party only' (chỉ bảo hiểm bên thứ ba).",
+      "synonyms": [
+        { "term": "all-inclusive", "ipa": "/ˌɔːl.ɪnˈkluː.sɪv/", "register": "neutral", "nuanceVi": "Nhấn 'bao gồm tất cả'; hay gặp trong du lịch/dịch vụ hơn là thuật ngữ bảo hiểm chuẩn." },
+        { "term": "extensive", "ipa": "/ɪkˈsten.sɪv/", "register": "formal", "nuanceVi": "Nhấn 'phạm vi rộng', nhưng không hàm ý 'phủ trọn mọi thứ' chắc chắn như comprehensive." }
+      ]
+    },
+    {
+      "term": "valid",
+      "ipa": "/ˈvæl.ɪd/",
+      "vi": "hợp lệ, còn hiệu lực (tính từ)",
+      "register": "neutral",
+      "example": "Your claim is valid as long as the incident happened during the policy period.",
+      "exampleVi": "Yêu cầu của bạn hợp lệ miễn là sự cố xảy ra trong thời hạn hợp đồng.",
+      "note": "Tính từ. Trái nghĩa: 'invalid'. Hồ sơ 'valid' = đủ điều kiện được xét chi trả.",
+      "synonyms": [
+        { "term": "eligible", "ipa": "/ˈel.ɪ.dʒə.bəl/", "register": "formal", "nuanceVi": "Nhấn 'đủ tư cách/điều kiện được hưởng'; đi với 'eligible for compensation'." },
+        { "term": "legitimate", "ipa": "/lɪˈdʒɪt.ɪ.mət/", "register": "formal", "nuanceVi": "Nhấn 'chính đáng, có cơ sở', đối lập với gian lận (fraudulent)." }
+      ]
+    },
+    {
+      "term": "promptly",
+      "ipa": "/ˈprɒmpt.li/",
+      "vi": "một cách nhanh chóng, không chậm trễ (trạng từ)",
+      "register": "formal",
+      "example": "I reported the accident promptly, so there should be no problem with the timing.",
+      "exampleVi": "Tôi đã báo tai nạn nhanh chóng, nên về thời điểm thì không có vấn đề gì.",
+      "note": "Trạng từ. Nhấn vào 'kịp thời, ngay khi cần' — quan trọng vì hợp đồng thường yêu cầu báo trong thời hạn nhất định.",
+      "synonyms": [
+        { "term": "immediately", "ipa": "/ɪˈmiː.di.ət.li/", "register": "neutral", "nuanceVi": "Nhấn 'ngay lập tức, không một chút trễ'; mạnh hơn promptly về tính tức thời." },
+        { "term": "without delay", "ipa": "/wɪˈðaʊt dɪˈleɪ/", "register": "formal", "nuanceVi": "Cụm trang trọng, hay dùng trong văn bản; nghĩa 'không trì hoãn'." }
+      ]
+    },
+    {
+      "term": "accordingly",
+      "ipa": "/əˈkɔː.dɪŋ.li/",
+      "vi": "tương ứng / theo đó (trạng từ)",
+      "register": "formal",
+      "example": "Once we assess the report, we will adjust the payout accordingly.",
+      "exampleVi": "Sau khi thẩm định báo cáo, chúng tôi sẽ điều chỉnh khoản chi trả tương ứng.",
+      "note": "Trạng từ nối, nghĩa 'theo đó, một cách phù hợp với điều vừa nói'. Tạo giọng văn chuyên nghiệp.",
+      "synonyms": [
+        { "term": "correspondingly", "ipa": "/ˌkɒr.ɪˈspɒn.dɪŋ.li/", "register": "formal", "nuanceVi": "Nhấn 'theo cách tương xứng/đối ứng'; trang trọng và hơi kỹ thuật hơn." }
+      ]
+    }
+  ],
+
+  "structures": [
+    {
+      "pattern": "I'd like to file a claim for [danh từ], which happened [thời gian/hoàn cảnh].",
+      "use": "Mở đầu yêu cầu bồi thường, nêu rõ đối tượng và bối cảnh sự cố.",
+      "register": "neutral",
+      "examples": [
+        "I'd like to file a claim for water damage, which happened during the storm last night."
+      ],
+      "explanationVi": "'which happened…' là mệnh đề quan hệ bổ sung thông tin về sự cố, giúp gộp 2 ý vào một câu mượt thay vì nói cụt. Đây là câu mở chuẩn khi liên hệ công ty bảo hiểm.",
+      "altOf": "opening-claim"
+    },
+    {
+      "pattern": "I'm calling to report [sự cố] and to start the claims process.",
+      "use": "Cách khác để mở yêu cầu, nhấn vào việc 'báo cáo' và khởi động quy trình.",
+      "register": "formal",
+      "examples": [
+        "I'm calling to report a break-in at my flat and to start the claims process."
+      ],
+      "explanationVi": "Hai động từ nguyên thể 'to report… and to start…' nối song song, nghe gọn và chuyên nghiệp. Phù hợp khi gọi điện cho tổng đài bảo hiểm.",
+      "altOf": "opening-claim"
+    },
+    {
+      "pattern": "Could you tell me what documents I need to provide in order to [mục đích]?",
+      "use": "Hỏi về giấy tờ/thủ tục cần chuẩn bị một cách lịch sự.",
+      "register": "formal",
+      "examples": [
+        "Could you tell me what documents I need to provide in order to support my claim?"
+      ],
+      "explanationVi": "'in order to + V' diễn đạt mục đích trang trọng hơn 'to' đơn thuần. 'Could you tell me…' là câu hỏi gián tiếp lịch sự, an toàn khi nói với người lạ.",
+      "altOf": "asking-process"
+    },
+    {
+      "pattern": "Although [mệnh đề nhượng bộ], I believe my claim should still be [tính từ].",
+      "use": "Bảo vệ quyền lợi khi có yếu tố có thể gây bất lợi.",
+      "register": "neutral",
+      "examples": [
+        "Although the receipt is a little faded, I believe my claim should still be valid."
+      ],
+      "explanationVi": "'Although' mở mệnh đề nhượng bộ (dù…), giúp bạn thừa nhận điểm yếu nhưng vẫn lập luận chắc chắn — nghe hợp tình hợp lý và thuyết phục hơn là phản ứng gay gắt."
+    },
+    {
+      "pattern": "Not only did I [V], but I also [V], so that everything is documented.",
+      "use": "Nhấn mạnh bạn đã làm đầy đủ nhiều bước để hồ sơ vững.",
+      "register": "formal",
+      "examples": [
+        "Not only did I take photos of the damage, but I also kept all the receipts, so that everything is documented."
+      ],
+      "explanationVi": "Đảo ngữ: 'Not only' đầu câu thì phải đảo trợ động từ ('did I'). Cấu trúc nâng cao, thể hiện bạn chủ động và cẩn thận — rất 'ăn điểm' khi thuyết phục bên bảo hiểm."
+    },
+    {
+      "pattern": "Despite [danh từ/V-ing], I still haven't received [danh từ]. Could you look into it?",
+      "use": "Phàn nàn lịch sự khi hồ sơ bị trì hoãn.",
+      "register": "neutral",
+      "examples": [
+        "Despite submitting everything two weeks ago, I still haven't received any update. Could you look into it?"
+      ],
+      "explanationVi": "'Despite + danh từ/V-ing' (mặc dù) nêu nghịch lý giữa việc bạn đã làm và kết quả chưa có. Kết bằng 'Could you look into it?' giữ giọng nhã nhặn dù đang phàn nàn.",
+      "altOf": "complaining-delay"
+    },
+    {
+      "pattern": "I understand [mệnh đề], however, [lập luận của bạn].",
+      "use": "Phản hồi khi yêu cầu bị từ chối hoặc bị giảm, một cách bình tĩnh.",
+      "register": "formal",
+      "examples": [
+        "I understand there's a deductible, however, the remaining amount still seems lower than expected."
+      ],
+      "explanationVi": "'I understand…' thể hiện bạn đã ghi nhận quan điểm bên kia; 'however' (tuy nhiên) sau đó đưa ra lập luận của bạn. Cách này giữ cuộc nói chuyện văn minh mà vẫn bảo vệ quyền lợi.",
+      "altOf": "complaining-delay"
+    }
+  ],
+
+  "adverbsAndPhrases": [
+    { "term": "actually", "ipa": "/ˈæk.tʃu.ə.li/", "vi": "thật ra thì... (đính chính nhẹ nhàng)", "when": "Khi cần làm rõ hoặc sửa lại một thông tin mà không nghe cộc.", "example": "Actually, the incident happened on the 3rd, not the 5th." },
+    { "term": "fortunately", "ipa": "/ˈfɔː.tʃən.ət.li/", "vi": "may mắn thay", "when": "Dẫn vào một chi tiết tích cực giữa câu chuyện sự cố.", "example": "Fortunately, no one was injured in the accident." },
+    { "term": "to be honest", "ipa": "/tə biː ˈɒn.ɪst/", "vi": "thành thật mà nói", "when": "Mở đầu một câu nói chân thành, hơi tế nhị (vd khi thấy khoản chi trả thấp).", "example": "To be honest, I was expecting the payout to be a bit higher." },
+    { "term": "as soon as possible", "ipa": "/əz suːn əz ˈpɒs.ə.bəl/", "vi": "càng sớm càng tốt", "when": "Nhấn mong muốn được xử lý nhanh mà vẫn lịch sự.", "example": "I'd appreciate it if you could process this as soon as possible." },
+    { "term": "in the meantime", "ipa": "/ɪn ðə ˈmiːn.taɪm/", "vi": "trong lúc chờ đợi / trong thời gian đó", "when": "Hỏi mình nên làm gì trong khi hồ sơ đang được xử lý.", "example": "In the meantime, is there anything I should do or prepare?" }
+  ],
+
+  "dialogue": {
+    "context": "Bạn vừa gặp một sự cố (xe bị hư hại sau bão) và gọi điện cho tổng đài công ty bảo hiểm để mở yêu cầu bồi thường. Nhân viên hướng dẫn bạn về giấy tờ, mức miễn thường và thời gian xử lý.",
+    "lines": [
+      {
+        "speaker": "Nhân viên bảo hiểm",
+        "text": "Good morning, thank you for calling Shield Insurance. My name is Daniel. How can I help you today?",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ θæŋk juː fɔːr ˈkɔː.lɪŋ ʃiːld ɪnˈʃʊə.rəns maɪ neɪm ɪz ˈdæn.jəl haʊ kæn aɪ help juː təˈdeɪ/",
+        "vi": "Chào buổi sáng, cảm ơn quý khách đã gọi đến Bảo hiểm Shield. Tôi tên là Daniel. Tôi có thể giúp gì cho quý khách hôm nay ạ?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Good morning, Daniel. I'd like to file a claim for damage to my car, ____ happened during the storm last night. My policy number is ____.",
+        "ipa": "/ɡʊd ˈmɔː.nɪŋ ˈdæn.jəl aɪd laɪk tə faɪl ə kleɪm fɔːr ˈdæm.ɪdʒ tə maɪ kɑːr wɪtʃ ˈhæp.ənd ˈdjʊə.rɪŋ ðə stɔːm lɑːst naɪt maɪ ˈpɒl.ə.si ˈnʌm.bər ɪz/",
+        "vi": "Chào buổi sáng, Daniel. Tôi muốn nộp yêu cầu bồi thường cho thiệt hại trên xe của tôi, ____ đã xảy ra trong cơn bão tối qua. Số hợp đồng của tôi là ____.",
+        "blanks": [
+          { "type": "knowledge", "answer": "which", "explanationVi": "Dùng đại từ quan hệ 'which' thay cho 'damage' (vật/sự việc) để nối mệnh đề mô tả. Nếu nói về người thì dùng 'who'. Xem mẫu câu 'I'd like to file a claim for…, which happened…'." },
+          { "type": "personal", "hint": "Số hợp đồng bảo hiểm của bạn. Ví dụ: 'SH-204815'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bảo hiểm",
+        "text": "I'm sorry to hear that. Let me pull up your account... Yes, I can see you have comprehensive cover, which means storm damage is included. Could you describe exactly what happened?",
+        "ipa": "/aɪm ˈsɒr.i tə hɪər ðæt let miː pʊl ʌp jɔːr əˈkaʊnt jes aɪ kæn siː juː hæv ˌkɒm.prɪˈhen.sɪv ˈkʌv.ər wɪtʃ miːnz stɔːm ˈdæm.ɪdʒ ɪz ɪnˈkluː.dɪd kʊd juː dɪsˈkraɪb ɪɡˈzækt.li wɒt ˈhæp.ənd/",
+        "vi": "Tôi rất tiếc khi nghe điều đó. Để tôi mở hồ sơ của quý khách... Vâng, tôi thấy quý khách có gói bảo hiểm toàn diện, nghĩa là thiệt hại do bão được bao gồm. Quý khách có thể mô tả chính xác chuyện gì đã xảy ra không?"
+      },
+      {
+        "speaker": "Bạn",
+        "text": "Of course. A large branch fell on the roof and cracked the windscreen. Fortunately, no one was hurt. Not only did I take photos of the damage, but I also ____ all the repair estimates, so that everything is properly documented.",
+        "ipa": "/ɒv kɔːs ə lɑːdʒ brɑːntʃ fel ɒn ðə ruːf ænd krækt ðə ˈwɪnd.skriːn ˈfɔː.tʃən.ət.li nəʊ wʌn wɒz hɜːt nɒt ˈəʊn.li dɪd aɪ teɪk ˈfəʊ.təʊz ɒv ðə ˈdæm.ɪdʒ bʌt aɪ ˈɔːl.səʊ kept ɔːl ðə rɪˈpeər ˈes.tɪ.məts/",
+        "vi": "Tất nhiên rồi. Một cành cây lớn rơi xuống mui xe và làm nứt kính chắn gió. May mắn là không ai bị thương. Tôi không những chụp ảnh phần hư hại, mà còn ____ tất cả báo giá sửa chữa, để mọi thứ được lưu lại đầy đủ.",
+        "blanks": [
+          { "type": "knowledge", "answer": "kept", "explanationVi": "Sau 'but I also' cần một động từ ở quá khứ song song với 'took photos': 'kept' (giữ lại) là lựa chọn tự nhiên. Cấu trúc đảo ngữ 'Not only did I…, but I also…' nhấn mạnh bạn đã làm đủ các bước. Xem mẫu câu tương ứng ở phần Cấu trúc." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bảo hiểm",
+        "text": "That's very helpful, and it will speed things up. Although your cover is valid, please note that there's a deductible of $200, which means we'll only reimburse the amount above that figure.",
+        "ipa": "/ðæts ˈver.i ˈhel.fəl ænd ɪt wɪl spiːd θɪŋz ʌp ɔːlˈðəʊ jɔːr ˈkʌv.ər ɪz ˈvæl.ɪd pliːz nəʊt ðæt ðeəz ə dɪˈdʌk.tə.bəl ɒv tuː ˈhʌn.drəd ˈdɒl.əz wɪtʃ miːnz wiːl ˈəʊn.li ˌriː.ɪmˈbɜːs ði əˈmaʊnt əˈbʌv ðæt ˈfɪɡ.ər/",
+        "vi": "Điều đó rất hữu ích, và sẽ giúp đẩy nhanh tiến độ. Mặc dù hợp đồng của quý khách còn hiệu lực, xin lưu ý rằng có mức miễn thường 200 đô, nghĩa là chúng tôi chỉ hoàn trả phần vượt quá con số đó."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "I see. Could you tell me what documents I need to provide ____ support my claim, and how long the whole process usually takes?",
+        "ipa": "/aɪ siː kʊd juː tel miː wɒt ˈdɒk.jə.mənts aɪ niːd tə prəˈvaɪd ɪn ˈɔː.dər tə səˈpɔːt maɪ kleɪm ænd haʊ lɒŋ ðə həʊl ˈprəʊ.ses ˈjuː.ʒu.ə.li teɪks/",
+        "vi": "Tôi hiểu. Bạn có thể cho tôi biết tôi cần nộp những giấy tờ gì ____ chứng minh cho yêu cầu của mình, và toàn bộ quy trình thường mất bao lâu không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "in order to", "explanationVi": "'in order to + V' diễn đạt mục đích một cách trang trọng (= để mà). Trang trọng và rõ ràng hơn 'to' đơn thuần trong văn cảnh chính thức. Xem mẫu câu 'what documents… in order to support my claim'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bảo hiểm",
+        "text": "You'll need a few items, such as the police report, the photos, and the repair estimates. Once we receive everything, an adjuster will assess the damage, and we usually settle straightforward claims within two weeks.",
+        "ipa": "/juːl niːd ə fjuː ˈaɪ.təmz sʌtʃ æz ðə pəˈliːs rɪˈpɔːt ðə ˈfəʊ.təʊz ænd ðə rɪˈpeər ˈes.tɪ.məts wʌns wiː rɪˈsiːv ˈev.ri.θɪŋ ən əˈdʒʌs.tər wɪl əˈses ðə ˈdæm.ɪdʒ ænd wiː ˈjuː.ʒu.ə.li ˈset.əl ˌstreɪt.ˈfɔː.wəd kleɪmz wɪˈðɪn tuː wiːks/",
+        "vi": "Quý khách sẽ cần vài thứ, chẳng hạn như biên bản công an, ảnh chụp và báo giá sửa chữa. Khi chúng tôi nhận đủ, một giám định viên sẽ thẩm định thiệt hại, và chúng tôi thường giải quyết các hồ sơ đơn giản trong vòng hai tuần."
+      },
+      {
+        "speaker": "Bạn",
+        "text": "That sounds reasonable. ____ everything being documented, I'd appreciate it if you could process the claim as soon as possible. In the meantime, is there anything else I should prepare on my ____?",
+        "ipa": "/ðæt saʊndz ˈriː.zən.ə.bəl dɪˈspaɪt ˈev.ri.θɪŋ ˈbiː.ɪŋ ˈdɒk.jə.men.tɪd aɪd əˈpriː.ʃi.eɪt ɪt ɪf juː kʊd ˈprəʊ.ses ðə kleɪm əz suːn əz ˈpɒs.ə.bəl ɪn ðə ˈmiːn.taɪm ɪz ðeər ˈen.i.θɪŋ els aɪ ʃʊd prɪˈpeər ɒn maɪ/",
+        "vi": "Nghe hợp lý đấy. ____ mọi thứ đã được lưu đầy đủ, tôi sẽ rất cảm kích nếu bạn có thể xử lý hồ sơ càng sớm càng tốt. Trong lúc chờ, có điều gì khác tôi nên chuẩn bị từ ____ của mình không?",
+        "blanks": [
+          { "type": "knowledge", "answer": "Despite", "explanationVi": "'Despite + V-ing' (mặc dù) đứng đầu câu, nối với mệnh đề chính bằng nghĩa nhượng bộ: tuy đã có đủ giấy tờ nhưng vẫn mong được xử lý nhanh. Lưu ý sau 'Despite' dùng danh từ/V-ing ('being documented'), không dùng cả mệnh đề như 'although'. Xem mẫu câu 'Despite…'." },
+          { "type": "personal", "hint": "Phía/phần của bạn. Ví dụ: 'end' (thành ngữ 'on my end' = về phía tôi) hoặc 'side'." }
+        ]
+      },
+      {
+        "speaker": "Nhân viên bảo hiểm",
+        "text": "Just upload the documents through our app, and we'll review them and update you accordingly. If anything is missing, we'll contact you promptly, so there's no need to worry.",
+        "ipa": "/dʒʌst ˈʌp.ləʊd ðə ˈdɒk.jə.mənts θruː ˈaʊər æp ænd wiːl rɪˈvjuː ðəm ænd ʌpˈdeɪt juː əˈkɔː.dɪŋ.li ɪf ˈen.i.θɪŋ ɪz ˈmɪs.ɪŋ wiːl ˈkɒn.tækt juː ˈprɒmpt.li səʊ ðeəz nəʊ niːd tə ˈwʌr.i/",
+        "vi": "Quý khách chỉ cần tải giấy tờ lên qua ứng dụng của chúng tôi, chúng tôi sẽ xem xét và cập nhật cho quý khách tương ứng. Nếu thiếu gì, chúng tôi sẽ liên hệ ngay, nên quý khách không cần lo lắng."
+      }
+    ]
+  },
+
+  "culturalNotes": [
+    "Ở phương Tây, gần như mọi yêu cầu bồi thường đều cần BẰNG CHỨNG: ảnh chụp, biên bản công an, hóa đơn/báo giá. Càng nhiều giấy tờ rõ ràng, hồ sơ xử lý càng nhanh.",
+    "Khái niệm 'deductible' (Anh-Mỹ) hay 'excess' (Anh-Anh) rất quan trọng: đó là phần bạn TỰ trả trước; bảo hiểm chỉ chi trả phần vượt quá. Nhiều người Việt không quen khái niệm này nên dễ hiểu lầm khoản chi trả thấp.",
+    "Báo cáo sự cố KỊP THỜI (promptly) là yêu cầu phổ biến trong hợp đồng; báo trễ có thể khiến yêu cầu bị từ chối. Hãy gọi cho bảo hiểm càng sớm càng tốt.",
+    "Khi yêu cầu bị từ chối hay bị giảm, giữ giọng bình tĩnh và lập luận bằng chứng cứ ('I understand…, however…') hiệu quả hơn nhiều so với tức giận. Bạn luôn có quyền yêu cầu xem xét lại (appeal)."
+  ],
+
+  "commonMistakes": [
+    "Nhầm 'premium' (khoản bạn ĐÓNG) với 'payout/settlement' (khoản bảo hiểm TRẢ cho bạn) — hai chiều tiền ngược nhau.",
+    "Dùng sai sau 'Despite' / 'Although': sau 'Despite' phải là danh từ hoặc V-ing ('Despite being late'), còn sau 'Although' là cả mệnh đề ('Although I was late').",
+    "Sai đảo ngữ với 'Not only…': phải đảo trợ động từ — 'Not only DID I take photos…', không phải 'Not only I took…'.",
+    "Quên giới từ: 'reimburse somebody FOR something' và 'file a claim FOR something' — thiếu 'for' nghe sai và thiếu tự nhiên."
+  ],
+
+  "aiPractice": {
+    "intro": "Sao chép prompt dưới đây và dán vào ChatGPT hoặc Gemini để luyện gọi điện yêu cầu bồi thường bảo hiểm như thật.",
+    "prompt": "Hãy đóng vai một nhân viên tổng đài của công ty bảo hiểm nói tiếng Anh. Tôi là khách hàng vừa gặp sự cố (tôi sẽ nêu loại sự cố, ví dụ tai nạn xe, ngập nước, mất trộm) và gọi đến để mở yêu cầu bồi thường. Hãy bắt đầu bằng cách chào tôi và hỏi tôi cần gì. Sau mỗi câu trả lời của tôi, hãy: (1) phản hồi tự nhiên như một nhân viên thật (hỏi về hợp đồng, mô tả sự cố, giấy tờ, mức miễn thường, thời gian xử lý), (2) nếu tôi mắc lỗi ngữ pháp hoặc dùng từ chưa tự nhiên thì sửa nhẹ nhàng và đưa cách nói hay hơn bằng tiếng Việt, (3) thỉnh thoảng tạo tình huống bất ngờ (ví dụ thiếu giấy tờ, nghi ngờ hồ sơ không hợp lệ, hoặc đề nghị mức chi trả thấp hơn mong đợi) để tôi tập xử lý bình tĩnh. Khuyến khích tôi dùng câu dài với 'although', 'such as', 'in order to', 'despite' và 'not only… but also'. Cuối buổi, hãy chấm điểm phần nói của tôi và nêu 3 điểm cần cải thiện. Bắt đầu nhé.",
+    "advancedTips": [
+      "Thêm câu: 'Hãy đóng vai từ chối yêu cầu của tôi với một lý do hợp lý, để tôi tập phản biện lịch sự bằng I understand…, however….'",
+      "Thêm câu: 'Hãy nói nhanh hơn và dùng nhiều thuật ngữ bảo hiểm hơn như người bản xứ thật.' khi bạn đã quen."
+    ]
+  },
+
+  "selfCheck": [
+    "Tôi mở được một yêu cầu bồi thường bằng câu dài có mệnh đề quan hệ (which/who) mà không cần nhìn gợi ý.",
+    "Tôi hỏi được về giấy tờ cần nộp, mức miễn thường và thời gian xử lý bằng câu lịch sự ('Could you tell me… in order to…').",
+    "Tôi phản hồi được khi hồ sơ bị trì hoãn hoặc bị giảm chi trả một cách bình tĩnh, dùng 'Despite…' hoặc 'I understand…, however…'."
+  ]
+}
