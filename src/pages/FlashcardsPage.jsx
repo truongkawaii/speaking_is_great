@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react'
 import { go } from '../hooks/useHashRoute.js'
-import { SpeakButton } from '../components/common.jsx'
+import { SpeakButton, RegisterBadge } from '../components/common.jsx'
 import { getCompletedIds } from '../lib/bookmarks.js'
 import { buildPool, getSession, reviewCard } from '../lib/flashcards.js'
 import { creditFlashcards } from '../lib/stats.js'
@@ -80,22 +80,42 @@ export default function FlashcardsPage({ topics }) {
       </div>
 
       <div className={`flashcard ${flipped ? 'flipped' : ''}`} onClick={() => !flipped && setFlipped(true)}>
-        <div className="flash-topic">{card.topicTitle}</div>
+        <div className="flash-topic">
+          {card.topicTitle}
+          {card.kind === 'synonym' && <span className="flash-tag">⇄ Từ đồng nghĩa</span>}
+        </div>
         <div className="flash-term en">{card.term} <SpeakButton text={card.term} /></div>
         <div className="ipa">{card.ipa}</div>
 
         {flipped ? (
           <div className="flash-back">
-            <div className="flash-vi">{card.vi}</div>
-            {card.example && (
-              <div className="flash-ex">
-                <span className="en">{card.example}</span>
-                {card.exampleVi && <div className="vi-soft">{card.exampleVi}</div>}
-              </div>
+            {card.kind === 'synonym' ? (
+              <>
+                <div className="flash-vi">{card.nuanceVi}</div>
+                <div className="flash-syn-of">
+                  ⇄ đồng nghĩa của <b>{card.headword}</b> <span className="vi-soft">({card.headwordVi})</span>
+                </div>
+                <div style={{ marginTop: 8 }}><RegisterBadge value={card.register} /></div>
+              </>
+            ) : (
+              <>
+                <div className="flash-vi">{card.vi}</div>
+                {card.example && (
+                  <div className="flash-ex">
+                    <span className="en">{card.example}</span>
+                    {card.exampleVi && <div className="vi-soft">{card.exampleVi}</div>}
+                  </div>
+                )}
+                {card.synonyms?.length > 0 && (
+                  <div className="flash-syn-list">
+                    ⇄ Từ đồng nghĩa: {card.synonyms.map((s) => s.term).join(', ')}
+                  </div>
+                )}
+              </>
             )}
           </div>
         ) : (
-          <div className="flash-hint">Bấm để xem nghĩa</div>
+          <div className="flash-hint">Bấm để xem {card.kind === 'synonym' ? 'sắc thái' : 'nghĩa'}</div>
         )}
       </div>
 

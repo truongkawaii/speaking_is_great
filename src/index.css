@@ -541,4 +541,7 @@ ul.bullets li { margin: 5px 0; }
 .flash-done { text-align: center; padding: 30px 20px; }
 .flash-done-big { font-size: 46px; }
 .flash-done h2 { margin: 8px 0; }
+.flash-tag { display: inline-block; margin-left: 8px; font-size: 11px; font-weight: 700; color: var(--reg-casual); background: var(--reg-casual-bg); padding: 2px 8px; border-radius: 999px; letter-spacing: 0; text-transform: none; }
+.flash-syn-of { margin-top: 10px; font-size: 15px; }
+.flash-syn-list { margin-top: 12px; font-size: 13px; color: var(--text-soft); border-top: 1px dashed var(--border); padding-top: 10px; }
 @media (max-width: 560px) { .cat-prog-name { width: 120px; } .mine-hero-stats { grid-template-columns: 1fr; } }

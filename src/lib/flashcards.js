@@ -12,18 +12,31 @@ function writeCard(id, v) {
 }
 
 // Gom thẻ từ vựng từ các hội thoại ĐÃ HOÀN THÀNH (để ôn cái đã học).
+// Mỗi từ gốc là 1 thẻ; mỗi từ đồng nghĩa cũng là 1 thẻ riêng (có lịch ôn riêng).
 export function buildPool(topicsMap, completedIds) {
   const pool = []
   for (const id of completedIds) {
     const t = topicsMap[id]
     if (!t || !Array.isArray(t.vocabulary)) continue
     for (const v of t.vocabulary) {
+      const syns = Array.isArray(v.synonyms) ? v.synonyms : []
       pool.push({
         id: id + '::' + v.term,
+        kind: 'word',
         term: v.term, ipa: v.ipa, vi: v.vi,
         example: v.example, exampleVi: v.exampleVi,
+        synonyms: syns,
         topicId: id, topicTitle: t.title,
       })
+      for (const s of syns) {
+        pool.push({
+          id: id + '::' + v.term + '::' + s.term,
+          kind: 'synonym',
+          term: s.term, ipa: s.ipa, register: s.register, nuanceVi: s.nuanceVi,
+          headword: v.term, headwordVi: v.vi,
+          topicId: id, topicTitle: t.title,
+        })
+      }
     }
   }
   return pool
